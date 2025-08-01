@@ -1,0 +1,4663 @@
+[
+    {
+        "stt": 1,
+        "id": "twisted_fate",
+        "name": "Twisted Fate",
+        "image": "tft15_twistedfate.tft_set15.png",
+        "price": "5",
+        "average_position": "3.54",
+        "top_4_rate": "67.03",
+        "top_1_rate": "25.68",
+        "battle": "215,515",
+        "description": "Nội Tại: Đòn đánh sẽ nảy giữa 3 kẻ địch, gây thêm [ 30 / 45 / 999 ] () sát thương phép và đánh dấu các kẻ địch trúng đòn. Sát thương gây ra giảm 30% mỗi lần trúng đích.\n\nKích Hoạt: Gây ? () sát thương vật lý lên [ 4 / 4 / 20 ] kẻ địch gần nhất, và kích nổ dấu ấn của chúng, gây ? () sát thương phép lên từng mục tiêu bị đánh dấu.",
+        "skill_name": "Đòn Kết Bài Tẩy",
+        "skill_image": "TFT15_TwistedFate.png",
+        "starting_mana": 40,
+        "skill_mana": 120,
+        "skill_attack_range": 4,
+        "health": [
+            900,
+            1620,
+            2916
+        ],
+        "attack_damage": [
+            25,
+            38,
+            56
+        ],
+        "damage_per_second": [
+            21,
+            32,
+            48
+        ],
+        "attack_speed": 0.85,
+        "armor": 40,
+        "magical_resistance": 40,
+        "stats": [
+            "Passive Damage: 35 / 55 / 777",
+            "Damage: 120 / 180 / 1500",
+            "Damage Per Mark: 26 / 40 / 500"
+        ],
+        "traits": [
+            {
+                "id": "thu_linh",
+                "name": "Thủ Lĩnh",
+                "image": "Trait_Icon_15_RogueCaptain.TFT_Set15.png"
+            },
+            {
+                "id": "chien_ham",
+                "name": "Chiến Hạm",
+                "image": "Trait_Icon_15_StarCrew.TFT_Set15.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "",
+                "image": "TFT_Item_GuinsoosRageblade.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_SpearOfShojin.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_InfinityEdge.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_MadredsBloodrazor.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_HextechGunblade.png"
+            }
+        ]
+    },
+    {
+        "stt": 2,
+        "id": "braum",
+        "name": "Braum",
+        "image": "tft15_braum.tft_set15.png",
+        "price": "5",
+        "average_position": "3.64",
+        "top_4_rate": "66.14",
+        "top_1_rate": "21.45",
+        "battle": "589,340",
+        "description": "Làm choáng mục tiêu và xoay vòng chúng trong 1.5 giây, gây ? () sát thương vật lý lên mục tiêu và [ 275 / 415 / 4501 ] () sát thương vật lý lên các kẻ địch khác trong bán kính 2 ô.\n\nSau đó, ném mục tiêu về phía trước, gây ? () sát thương trong phạm vi 1 ô xung quanh mục tiêu. Nếu máu của mục tiêu còn dưới ? (), thay vào đó ném chúng ra khỏi bàn đấu.",
+        "skill_name": "Cuồng Phong Mãnh Hổ",
+        "skill_image": "TFT15_Braum.png",
+        "starting_mana": 0,
+        "skill_mana": 60,
+        "skill_attack_range": 1,
+        "health": [
+            1200,
+            2160,
+            3888.0000000000005
+        ],
+        "attack_damage": [
+            80,
+            120,
+            180
+        ],
+        "damage_per_second": [
+            64,
+            96,
+            144
+        ],
+        "attack_speed": 0.8,
+        "armor": 70,
+        "magical_resistance": 70,
+        "stats": [
+            "Damage: 550 / 825 / 9001",
+            "Damage: 275 / 415 / 4501",
+            "Throw Damage: 100 / 150 / 2000",
+            "Execute Threshold: 18 / 18 / 18"
+        ],
+        "traits": [
+            {
+                "id": "nha_vo_dich",
+                "name": "Nhà Vô Địch",
+                "image": "Trait_Icon_15_TheChamp.TFT_Set15.png"
+            },
+            {
+                "id": "do_vat",
+                "name": "Đô Vật",
+                "image": "Trait_Icon_15_RingKings.TFT_Set15.png"
+            },
+            {
+                "id": "can_truong",
+                "name": "Can Trường",
+                "image": "Trait_Icon_9_Bastion.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "",
+                "image": "TFT_Item_WarmogsArmor.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_Bloodthirster.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_GargoyleStoneplate.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_RedBuff.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_TitansResolve.png"
+            }
+        ]
+    },
+    {
+        "stt": 3,
+        "id": "zyra",
+        "name": "Zyra",
+        "image": "tft15_zyra.tft_set15.png",
+        "price": "5",
+        "average_position": "3.93",
+        "top_4_rate": "60.38",
+        "top_1_rate": "19.95",
+        "battle": "291,421",
+        "description": "Triệu hồi [ 4 / 4 / 20 ] Cây Phun Gai không thể bị chỉ định, gây [ 70 / 105 / 999 ] () sát thương phép mỗi đòn đánh và tấn công 4 lần.\n\nCác đồng minh không phải cây được tăng ? () Tốc Độ Đánh giảm dần trong 4 giây.",
+        "skill_name": "Trồi Gai Pha Lê",
+        "skill_image": "TFT15_Zyra.png",
+        "starting_mana": 40,
+        "skill_mana": 100,
+        "skill_attack_range": 4,
+        "health": [
+            750,
+            1350,
+            2430
+        ],
+        "attack_damage": [
+            60,
+            90,
+            135
+        ],
+        "damage_per_second": [
+            45,
+            68,
+            101
+        ],
+        "attack_speed": 0.75,
+        "armor": 30,
+        "magical_resistance": 30,
+        "stats": [
+            "Plants: 4 / 4 / 20",
+            "Plant Damage: 80 / 120 / 999",
+            "Attack Speed: 15% / 60% / 999%"
+        ],
+        "traits": [
+            {
+                "id": "pha_le",
+                "name": "Pha Lê",
+                "image": "Trait_Icon_15_GemForce.TFT_Set15.png"
+            },
+            {
+                "id": "hong_mau",
+                "name": "Hồng Mẫu",
+                "image": "Trait_Icon_15_Rosemother.TFT_Set15.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "",
+                "image": "TFT_Item_SpearOfShojin.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_JeweledGauntlet.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_ArchangelsStaff.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_StatikkShiv.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_Morellonomicon.png"
+            }
+        ]
+    },
+    {
+        "stt": 4,
+        "id": "lee_sin",
+        "name": "Lee Sin",
+        "image": "tft15_leesin.tft_set15.png",
+        "price": "5",
+        "average_position": "3.73",
+        "top_4_rate": "64.57",
+        "top_1_rate": "19.80",
+        "battle": "526,129",
+        "description": "Triển khai Lee Sin để chọn 1 thế đánh. Mỗi thế đánh có kỹ năng riêng biệt và cho Lee Sin thêm 1 tộc/hệ nữa.",
+        "skill_name": "Thể Hiện Kỹ Năng",
+        "skill_image": "TFT15_LeeSin.png",
+        "starting_mana": 30,
+        "skill_mana": 60,
+        "skill_attack_range": 1,
+        "health": [
+            1200,
+            2160,
+            3888.0000000000005
+        ],
+        "attack_damage": [
+            70,
+            105,
+            158
+        ],
+        "damage_per_second": [
+            70,
+            105,
+            158
+        ],
+        "attack_speed": 1,
+        "armor": 70,
+        "magical_resistance": 70,
+        "stats": [
+            "Target Damage: 450 / 675 / 50000 + 50 / 75 / 75",
+            "Target Damage (AP): 450 / 675 / 50000",
+            "Target Damage (AD): 50 / 75 / 75",
+            "Damage Behind Target: 200 / 300 / 9001",
+            "Boardwide Damage: 150 / 225 / 1000",
+            "---",
+            "Passive Clone Damage: 40 / 60 / 300",
+            "Number of Clones: 10",
+            "Active Clone Damage: 65 / 100 / 500",
+            "Armor Shred: 5 / 5 / 50",
+            "---",
+            "Primary Target Damage: 280 / 420 / 8000",
+            "Area Damage: 130 / 195 / 4000",
+            "Boardwide Damage: 180 / 270 / 8000"
+        ],
+        "traits": [
+            {
+                "id": "quyen_vuong",
+                "name": "Quyền Vương",
+                "image": "Trait_Icon_15_DragonFist.TFT_Set15.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "",
+                "image": "TFT_Item_Bloodthirster.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_TitansResolve.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_SteraksGage.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_UnstableConcoction.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_GuardianAngel.png"
+            }
+        ]
+    },
+    {
+        "stt": 5,
+        "id": "ryze",
+        "name": "Ryze",
+        "image": "tft15_ryze.tft_set15.png",
+        "price": "4",
+        "average_position": "3.96",
+        "top_4_rate": "59.6",
+        "top_1_rate": "18.63",
+        "battle": "826,271",
+        "description": "Gây [ 720 / 1080 / 6000 ] () sát thương phép lên mục tiêu trong vòng 3 giây. Kẻ địch trong bán kính 1 ô quanh mục tiêu nhận [ 110 / 165 / 550 ] () sát thương phép trong cùng thời gian tác dụng.",
+        "skill_name": "Tia Sóng Thần",
+        "skill_image": "TFT15_Ryze.png",
+        "starting_mana": 10,
+        "skill_mana": 60,
+        "skill_attack_range": 4,
+        "health": [
+            850,
+            1530,
+            2754
+        ],
+        "attack_damage": [
+            50,
+            75,
+            113
+        ],
+        "damage_per_second": [
+            40,
+            60,
+            90
+        ],
+        "attack_speed": 0.8,
+        "armor": 35,
+        "magical_resistance": 35,
+        "stats": [
+            "Damage: 720 / 1080 / 6000",
+            "Additional Damage: 110 / 165 / 550"
+        ],
+        "traits": [
+            {
+                "id": "sensei",
+                "name": "Sensei",
+                "image": "Trait_Icon_15_OldMentor.TFT_Set15.png"
+            },
+            {
+                "id": "dao_phu",
+                "name": "Đao Phủ",
+                "image": "Trait_Icon_15_Destroyer.TFT_Set15.png"
+            },
+            {
+                "id": "quan_su",
+                "name": "Quân Sư",
+                "image": "Trait_Icon_9_Strategist.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "",
+                "image": "TFT_Item_ArchangelsStaff.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_StatikkShiv.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_PowerGauntlet.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_JeweledGauntlet.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_SpearOfShojin.png"
+            }
+        ]
+    },
+    {
+        "stt": 6,
+        "id": "yone",
+        "name": "Yone",
+        "image": "tft15_yone.tft_set15.png",
+        "price": "5",
+        "average_position": "3.74",
+        "top_4_rate": "64.74",
+        "top_1_rate": "18.59",
+        "battle": "655,626",
+        "description": "Nội Tại: Đòn đánh cho [ 5 / 5 / 25 ]% Tốc Độ Đánh và Tốc Độ Di Chuyển cộng dồn, đồng thời lần lượt gây thêm [ 25 / 40 / 400 ] () sát thương chuẩn và [ 90 / 135 / 999 ] () sát thương phép.\n\nKích Hoạt: Phóng ra 1 vọng âm về phía 2 kẻ địch xa nhất, gây ? () sát thương vật lý và Làm Choáng các kẻ địch trúng đòn trong thoáng chốc.",
+        "skill_name": "Tuyệt Kỹ Song Kiếm: Tâm Ảnh",
+        "skill_image": "TFT15_Yone.png",
+        "starting_mana": 80,
+        "skill_mana": 180,
+        "skill_attack_range": 1,
+        "health": [
+            1300,
+            2340,
+            4212
+        ],
+        "attack_damage": [
+            40,
+            60,
+            90
+        ],
+        "damage_per_second": [
+            40,
+            60,
+            90
+        ],
+        "attack_speed": 1,
+        "armor": 70,
+        "magical_resistance": 70,
+        "stats": [
+            "True Damage: 25 / 40 / 400",
+            "Magic Damage: 90 / 135 / 999",
+            "Strike Damage: 120 / 180 / 9999"
+        ],
+        "traits": [
+            {
+                "id": "dai_co_giap",
+                "name": "Đại Cơ Giáp",
+                "image": "Trait_Icon_15_RoboRangers.TFT_Set15.png"
+            },
+            {
+                "id": "thanh_ra_ve",
+                "name": "Thánh Ra Vẻ",
+                "image": "Trait_Icon_10_Edgelord.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "",
+                "image": "TFT_Item_Bloodthirster.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_TitansResolve.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_GuardianAngel.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_SteraksGage.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_UnstableConcoction.png"
+            }
+        ]
+    },
+    {
+        "stt": 7,
+        "id": "jarvan_iv",
+        "name": "Jarvan IV",
+        "image": "tft15_jarvaniv.tft_set15.png",
+        "price": "4",
+        "average_position": "4.12",
+        "top_4_rate": "56.65",
+        "top_1_rate": "17.32",
+        "battle": "717,912",
+        "description": "Nhận ? () Lá Chắn trong 4 giây, sau đó giáng thẳng vào một nhóm kẻ địch, gây [ 100 / 150 / 2000 ] () sát thương phép lên các kẻ địch trong bán kính 2 ô và Làm Choáng chúng trong [ 1.5 / 1.75 / 8 ] giây.",
+        "skill_name": "Siêu Địa Chấn",
+        "skill_image": "TFT15_JarvanIV.png",
+        "starting_mana": 45,
+        "skill_mana": 150,
+        "skill_attack_range": 1,
+        "health": [
+            1100,
+            1980,
+            3564.0000000000005
+        ],
+        "attack_damage": [
+            60,
+            90,
+            135
+        ],
+        "damage_per_second": [
+            39,
+            59,
+            88
+        ],
+        "attack_speed": 0.65,
+        "armor": 60,
+        "magical_resistance": 60,
+        "stats": [
+            "Shield: 12% Health + 400% / 450% / 2000% AP",
+            "Damage: 100 / 150 / 2000",
+            "Stun Duration: 1.5 / 1.75 / 8"
+        ],
+        "traits": [
+            {
+                "id": "dai_co_giap",
+                "name": "Đại Cơ Giáp",
+                "image": "Trait_Icon_15_RoboRangers.TFT_Set15.png"
+            },
+            {
+                "id": "quan_su",
+                "name": "Quân Sư",
+                "image": "Trait_Icon_9_Strategist.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "",
+                "image": "TFT_Item_WarmogsArmor.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_GargoyleStoneplate.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_FrozenHeart.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_RedBuff.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_Redemption.png"
+            }
+        ]
+    },
+    {
+        "stt": 8,
+        "id": "varus",
+        "name": "Varus",
+        "image": "tft15_varus.tft_set15.png",
+        "price": "5",
+        "average_position": "3.92",
+        "top_4_rate": "60.9",
+        "top_1_rate": "16.62",
+        "battle": "263,949",
+        "description": "Nội Tại: Nhận năng lượng khi có đơn vị tử trận. Kẻ địch cho 5, đồng minh cho 3.\n\nKích Hoạt: Bắn ra ? () mũi tên xuyên phá mỗi giây vào các kẻ địch ngẫu nhiên cho đến khi Varus hết năng lượng. Mỗi mũi tên tiêu hao [ 12 / 12 / 6 ] năng lượng và gây ? () sát thương vật lý, giảm đi 35% với mỗi lần trúng đòn.",
+        "skill_name": "Cấp 0: Mưa Tên Ác Quỷ 100",
+        "skill_image": "TFT15_Varus.png",
+        "starting_mana": 10,
+        "skill_mana": 85,
+        "skill_attack_range": 5,
+        "health": [
+            900,
+            1620,
+            2916
+        ],
+        "attack_damage": [
+            60,
+            90,
+            135
+        ],
+        "damage_per_second": [
+            48,
+            72,
+            108
+        ],
+        "attack_speed": 0.8,
+        "armor": 40,
+        "magical_resistance": 40,
+        "stats": [
+            "Base Arrows Per Second: 3 + 1 per 50% Attack Speed",
+            "Total Arrow Damage: 85 / 130 / 666 (AD) + 10 / 15 / 666 (AP)"
+        ],
+        "traits": [
+            {
+                "id": "bong_ma",
+                "name": "Bóng Ma",
+                "image": "Trait_Icon_15_Empyrean.TFT_Set15.png"
+            },
+            {
+                "id": "ban_tia",
+                "name": "Bắn Tỉa",
+                "image": "Trait_Icon_6_Sniper.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "",
+                "image": "TFT_Item_InfinityEdge.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_SpearOfShojin.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_PowerGauntlet.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_GuinsoosRageblade.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_MadredsBloodrazor.png"
+            }
+        ]
+    },
+    {
+        "stt": 9,
+        "id": "gwen",
+        "name": "Gwen",
+        "image": "tft15_gwen.tft_set15.png",
+        "price": "5",
+        "average_position": "3.87",
+        "top_4_rate": "62.71",
+        "top_1_rate": "16.37",
+        "battle": "513,990",
+        "description": "Nội Tại: Đòn đánh gây ? () sát thương phép theo hình nón. Mỗi lần thi triển thứ ba sẽ là Cắt Chỉ.\n\nDệt Hồn: Phóng ra 3 mũi kim lên bàn đấu, gây ? () sát thương phép lên các kẻ địch trúng đòn và để lại sợi chỉ ở phía sau.\n\nCắt Chỉ: Gây ? () sát thương phép chia đều lên tất cả kẻ địch và gây thêm ? () sát thương phép lên mỗi kẻ địch. Các kẻ địch ở gần ít nhất 1 sợi chỉ sẽ nhận thêm 10% sát thương.",
+        "skill_name": "Dệt Hồn / Cắt Chỉ",
+        "skill_image": "TFT15_Gwen.png",
+        "starting_mana": 0,
+        "skill_mana": 40,
+        "skill_attack_range": 2,
+        "health": [
+            1150,
+            2070,
+            3726.0000000000005
+        ],
+        "attack_damage": [
+            20,
+            30,
+            45
+        ],
+        "damage_per_second": [
+            17,
+            26,
+            38
+        ],
+        "attack_speed": 0.85,
+        "armor": 60,
+        "magical_resistance": 60,
+        "stats": [
+            "Cone Damage: 30 / 45 / 400",
+            "Needle Damage 35 / 55 / 1000",
+            "Split Damage: 320 / 480 / 9999",
+            "Thread Damage: 80 / 120 / 9001"
+        ],
+        "traits": [
+            {
+                "id": "tinh_vo_su",
+                "name": "Tinh Võ Sư",
+                "image": "Trait_Icon_15_SoulFighter.TFT_Set15.png"
+            },
+            {
+                "id": "phu_thuy",
+                "name": "Phù Thủy",
+                "image": "Trait_Icon_15_Sorcerer.TFT_Set15.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "",
+                "image": "TFT_Item_JeweledGauntlet.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_UnstableConcoction.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_StatikkShiv.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_Morellonomicon.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_GuardianAngel.png"
+            }
+        ]
+    },
+    {
+        "stt": 10,
+        "id": "seraphine",
+        "name": "Seraphine",
+        "image": "tft15_seraphine.tft_set15.png",
+        "price": "5",
+        "average_position": "3.72",
+        "top_4_rate": "65.85",
+        "top_1_rate": "16.32",
+        "battle": "517,391",
+        "description": "Nội Tại: Sát thương của Bom Tình Bạn Tối Thượng tăng theo Sức Mạnh Tình Bạn, được tính dựa trên tất cả chỉ số cộng thêm của cả đội (). Chỉ số trên Seraphine được tính nhiều hơn.\n\nKích Hoạt: Phóng ra 1 quả bom tình bạn về phía đông kẻ địch nhất trong phạm vi ? () ô, gây ? (Sức Mạnh Tình Bạn) sát thương phép trong bán kính 2 ô.",
+        "skill_name": "Bom Tình Bạn Tối Thượng",
+        "skill_image": "TFT15_Seraphine.png",
+        "starting_mana": 0,
+        "skill_mana": 140,
+        "skill_attack_range": 4,
+        "health": [
+            900,
+            1620,
+            2916
+        ],
+        "attack_damage": [
+            50,
+            75,
+            113
+        ],
+        "damage_per_second": [
+            40,
+            60,
+            90
+        ],
+        "attack_speed": 0.8,
+        "armor": 40,
+        "magical_resistance": 40,
+        "stats": [
+            "Damage: 125 / 190 / 2468"
+        ],
+        "traits": [
+            {
+                "id": "ve_binh_tinh_tu",
+                "name": "Vệ Binh Tinh Tú",
+                "image": "Trait_Icon_8_StarGuardian.png"
+            },
+            {
+                "id": "phi_thuong",
+                "name": "Phi Thường",
+                "image": "Trait_Icon_15_Prodigy.TFT_Set15.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "",
+                "image": "TFT_Item_SpearOfShojin.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_JeweledGauntlet.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_StatikkShiv.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_AdaptiveHelm.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_Morellonomicon.png"
+            }
+        ]
+    },
+    {
+        "stt": 11,
+        "id": "sivir",
+        "name": "Sivir",
+        "image": "tft15_sivir.tft_set15.png",
+        "price": "1",
+        "average_position": "4.58",
+        "top_4_rate": "47.99",
+        "top_1_rate": "15.98",
+        "battle": "264,637",
+        "description": "Phóng ra 1 lưỡi kiếm xuyên qua mục tiêu hiện tại và quay trở lại sau khi bay 2 ô. Lưỡi kiếm gây ? () sát thương vật lý lên các kẻ địch trúng đòn, giảm đi 40% với mỗi lần trúng đòn.",
+        "skill_name": "Trảm Tinh",
+        "skill_image": "TFT15_Sivir.png",
+        "starting_mana": 0,
+        "skill_mana": 60,
+        "skill_attack_range": 5,
+        "health": [
+            450,
+            810,
+            1458
+        ],
+        "attack_damage": [
+            45,
+            68,
+            101
+        ],
+        "damage_per_second": [
+            31,
+            48,
+            71
+        ],
+        "attack_speed": 0.7,
+        "armor": 20,
+        "magical_resistance": 20,
+        "stats": [
+            "Damage: 170 / 255 / 385 (AD) + 20 / 30 / 45 (AP)"
+        ],
+        "traits": [
+            {
+                "id": "chien_ham",
+                "name": "Chiến Hạm",
+                "image": "Trait_Icon_15_StarCrew.TFT_Set15.png"
+            },
+            {
+                "id": "ban_tia",
+                "name": "Bắn Tỉa",
+                "image": "Trait_Icon_6_Sniper.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "",
+                "image": "TFT_Item_InfinityEdge.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_SpearOfShojin.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_PowerGauntlet.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_GuinsoosRageblade.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_LastWhisper.png"
+            }
+        ]
+    },
+    {
+        "stt": 12,
+        "id": "ziggs",
+        "name": "Ziggs",
+        "image": "tft15_ziggs.tft_set15.png",
+        "price": "3",
+        "average_position": "4.55",
+        "top_4_rate": "48.53",
+        "top_1_rate": "15.94",
+        "battle": "296,219",
+        "description": "Nội Tại: Đòn đánh là các quả bom nảy gây ? (%i:TFTBaseAD%) sát thương phép lên kẻ địch đầu tiên trúng đòn.\n\nKích Hoạt: Gây [ 200 / 300 / 465 ] () sát thương phép trong bán kính 1 ô quanh mục tiêu.",
+        "skill_name": "Hỏa Lực Quỹ Đạo",
+        "skill_image": "TFT15_Ziggs.png",
+        "starting_mana": 0,
+        "skill_mana": 90,
+        "skill_attack_range": 4,
+        "health": [
+            650,
+            1170,
+            2106
+        ],
+        "attack_damage": [
+            20,
+            30,
+            45
+        ],
+        "damage_per_second": [
+            15,
+            23,
+            34
+        ],
+        "attack_speed": 0.75,
+        "armor": 30,
+        "magical_resistance": 30,
+        "stats": [
+            "Passive Damage: 42% / 63% / 100%",
+            "Damage: 200% / 300% / 465%"
+        ],
+        "traits": [
+            {
+                "id": "chien_ham",
+                "name": "Chiến Hạm",
+                "image": "Trait_Icon_15_StarCrew.TFT_Set15.png"
+            },
+            {
+                "id": "quan_su",
+                "name": "Quân Sư",
+                "image": "Trait_Icon_9_Strategist.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "",
+                "image": "TFT_Item_GuinsoosRageblade.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_StatikkShiv.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_ArchangelsStaff.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_JeweledGauntlet.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_SpearOfShojin.png"
+            }
+        ]
+    },
+    {
+        "stt": 13,
+        "id": "malphite",
+        "name": "Malphite",
+        "image": "tft15_malphite.tft_set15.png",
+        "price": "1",
+        "average_position": "4.67",
+        "top_4_rate": "46.55",
+        "top_1_rate": "14.63",
+        "battle": "329,039",
+        "description": "Nội Tại: Nhận 20 Giáp với mỗi trang bị đang mang.\n\nKích Hoạt: Gây ? () sát thương vật lý lên kẻ địch trong phạm vi hình nón.",
+        "skill_name": "Giáp Đất Cứng",
+        "skill_image": "TFT15_Malphite.png",
+        "starting_mana": 0,
+        "skill_mana": 100,
+        "skill_attack_range": 1,
+        "health": [
+            750,
+            1350,
+            2430
+        ],
+        "attack_damage": [
+            60,
+            90,
+            135
+        ],
+        "damage_per_second": [
+            33,
+            50,
+            74
+        ],
+        "attack_speed": 0.55,
+        "armor": 55,
+        "magical_resistance": 55,
+        "stats": [
+            "Damage: 40 Ability Power + 270% / 405% / 610% Armor"
+        ],
+        "traits": [
+            {
+                "id": "chien_ham",
+                "name": "Chiến Hạm",
+                "image": "Trait_Icon_15_StarCrew.TFT_Set15.png"
+            },
+            {
+                "id": "ho_ve",
+                "name": "Hộ Vệ",
+                "image": "Trait_Icon_6_Protector.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "",
+                "image": "TFT_Item_GargoyleStoneplate.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_WarmogsArmor.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_RedBuff.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_BrambleVest.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_Redemption.png"
+            }
+        ]
+    },
+    {
+        "stt": 14,
+        "id": "kobuko",
+        "name": "Kobuko",
+        "image": "tft15_kobuko.tft_set15.png",
+        "price": "2",
+        "average_position": "4.28",
+        "top_4_rate": "54.17",
+        "top_1_rate": "14.34",
+        "battle": "516,499",
+        "description": "Nhận ? () Lá Chắn trong 3 giây. Đòn đánh tiếp theo gây thêm ? () sát thương vật lý và Làm Choáng trong 1.75 giây.",
+        "skill_name": "Mantra Vuốt Vàng",
+        "skill_image": "TFT15_Kobuko.png",
+        "starting_mana": 20,
+        "skill_mana": 70,
+        "skill_attack_range": 1,
+        "health": [
+            800,
+            1440,
+            2592
+        ],
+        "attack_damage": [
+            50,
+            75,
+            113
+        ],
+        "damage_per_second": [
+            33,
+            49,
+            73
+        ],
+        "attack_speed": 0.65,
+        "armor": 40,
+        "magical_resistance": 40,
+        "stats": [
+            "Shield: 325 / 375 / 450 (AP)",
+            "Damage: 90 / 135 / 210 (AD) + 18% (HP)"
+        ],
+        "traits": [
+            {
+                "id": "sensei",
+                "name": "Sensei",
+                "image": "Trait_Icon_15_OldMentor.TFT_Set15.png"
+            },
+            {
+                "id": "hang_nang",
+                "name": "Hạng Nặng",
+                "image": "Trait_Icon_15_Heavyweight.TFT_Set15.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "",
+                "image": "TFT_Item_RedBuff.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_WarmogsArmor.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_GargoyleStoneplate.png"
+            },
+            {
+                "id": "",
+                "image": "TFT15_Item_StarGuardianEmblemItem.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_SpectralGauntlet.png"
+            }
+        ]
+    },
+    {
+        "stt": 15,
+        "id": "yasuo",
+        "name": "Yasuo",
+        "image": "tft15_yasuo.tft_set15.png",
+        "price": "3",
+        "average_position": "4.31",
+        "top_4_rate": "53.54",
+        "top_1_rate": "14.26",
+        "battle": "434,920",
+        "description": "Gây ? () sát thương vật lý lên 3 kẻ địch ở gần nhất.",
+        "skill_name": "Hô Mưa Gọi Gió",
+        "skill_image": "TFT15_Yasuo.png",
+        "starting_mana": 0,
+        "skill_mana": 40,
+        "skill_attack_range": 1,
+        "health": [
+            850,
+            1530,
+            2754
+        ],
+        "attack_damage": [
+            70,
+            105,
+            158
+        ],
+        "damage_per_second": [
+            63,
+            95,
+            142
+        ],
+        "attack_speed": 0.9,
+        "armor": 60,
+        "magical_resistance": 60,
+        "stats": [
+            "Damage: 135 / 200 / 330 (AD) + 40 / 60 / 100 (AP)"
+        ],
+        "traits": [
+            {
+                "id": "sensei",
+                "name": "Sensei",
+                "image": "Trait_Icon_15_OldMentor.TFT_Set15.png"
+            },
+            {
+                "id": "thanh_ra_ve",
+                "name": "Thánh Ra Vẻ",
+                "image": "Trait_Icon_10_Edgelord.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "",
+                "image": "TFT_Item_Bloodthirster.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_TitansResolve.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_UnstableConcoction.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_SteraksGage.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_InfinityEdge.png"
+            }
+        ]
+    },
+    {
+        "stt": 16,
+        "id": "senna",
+        "name": "Senna",
+        "image": "tft15_senna.tft_set15.png",
+        "price": "3",
+        "average_position": "4.35",
+        "top_4_rate": "52.62",
+        "top_1_rate": "14.08",
+        "battle": "399,921",
+        "description": "Trong hơn 1 giây, gây ? () sát thương vật lý trên đường thẳng xuyên qua mục tiêu hiện tại. Kẻ địch sau mục tiêu đầu tiên nhận ? () sát thương.\n\nKhi không còn kẻ địch nào, hồi lại năng lượng dựa trên lượng thời gian còn lại.",
+        "skill_name": "Tia Pháo Hủy Diệt",
+        "skill_image": "TFT15_Senna.png",
+        "starting_mana": 15,
+        "skill_mana": 75,
+        "skill_attack_range": 4,
+        "health": [
+            650,
+            1170,
+            2106
+        ],
+        "attack_damage": [
+            55,
+            83,
+            124
+        ],
+        "damage_per_second": [
+            41,
+            62,
+            93
+        ],
+        "attack_speed": 0.75,
+        "armor": 30,
+        "magical_resistance": 30,
+        "stats": [
+            "Damage: 35 / 55 / 85 (AD) + 350 / 525 / 870 (AP)",
+            "Secondary Damage: 22% of Damage"
+        ],
+        "traits": [
+            {
+                "id": "dai_co_giap",
+                "name": "Đại Cơ Giáp",
+                "image": "Trait_Icon_15_RoboRangers.TFT_Set15.png"
+            },
+            {
+                "id": "dao_phu",
+                "name": "Đao Phủ",
+                "image": "Trait_Icon_15_Destroyer.TFT_Set15.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "",
+                "image": "TFT_Item_InfinityEdge.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_GuinsoosRageblade.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_RapidFireCannon.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_SpearOfShojin.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_LastWhisper.png"
+            }
+        ]
+    },
+    {
+        "stt": 17,
+        "id": "sett",
+        "name": "Sett",
+        "image": "tft15_sett.tft_set15.png",
+        "price": "4",
+        "average_position": "4.21",
+        "top_4_rate": "55.6",
+        "top_1_rate": "13.84",
+        "battle": "748,497",
+        "description": "Trong thời gian ngắn, hồi lại ? () máu và gây ? () sát thương vật lý lên mục tiêu.\n\nSau đó, gây ? () sát thương vật lý theo hình nón. Các kẻ địch trên đường thẳng ở giữa nhận thêm ? sát thương vật lý, tăng thêm dựa trên lượng hồi máu nhận được trong giao tranh này.",
+        "skill_name": "Quá Tải Gan Góc",
+        "skill_image": "TFT15_Sett.png",
+        "starting_mana": 40,
+        "skill_mana": 100,
+        "skill_attack_range": 1,
+        "health": [
+            1100,
+            1980,
+            3564.0000000000005
+        ],
+        "attack_damage": [
+            60,
+            90,
+            135
+        ],
+        "damage_per_second": [
+            42,
+            63,
+            95
+        ],
+        "attack_speed": 0.7,
+        "armor": 60,
+        "magical_resistance": 60,
+        "stats": [
+            "Heal: 12% Health + 260 / 335 / 1500 AP",
+            "Flurry Damage: 140 / 210 / 2000",
+            "Punch Damage: 120 / 180 / 750 AD + 4% Health",
+            "Damage from Healing: 10 + 10 / 15 / 50 per 100 healing"
+        ],
+        "traits": [
+            {
+                "id": "tinh_vo_su",
+                "name": "Tinh Võ Sư",
+                "image": "Trait_Icon_15_SoulFighter.TFT_Set15.png"
+            },
+            {
+                "id": "dung_si",
+                "name": "Dũng Sĩ",
+                "image": "Trait_Icon_9_Juggernaut.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "",
+                "image": "TFT_Item_GargoyleStoneplate.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_WarmogsArmor.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_RedBuff.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_Redemption.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_SpectralGauntlet.png"
+            }
+        ]
+    },
+    {
+        "stt": 18,
+        "id": "aatrox",
+        "name": "Aatrox",
+        "image": "tft15_aatrox.tft_set15.png",
+        "price": "1",
+        "average_position": "4.47",
+        "top_4_rate": "50.12",
+        "top_1_rate": "13.67",
+        "battle": "717,736",
+        "description": "Hồi lại ? () Máu và gây ? () sát thương vật lý lên mục tiêu hiện tại. Lượng hồi máu và sát thương gây ra có thể tăng tối đa 100% dựa trên Máu đã mất của Aatrox.",
+        "skill_name": "Sức Mạnh Quỷ Kiếm",
+        "skill_image": "TFT15_Aatrox.png",
+        "starting_mana": 20,
+        "skill_mana": 80,
+        "skill_attack_range": 1,
+        "health": [
+            650,
+            1170,
+            2106
+        ],
+        "attack_damage": [
+            50,
+            75,
+            113
+        ],
+        "damage_per_second": [
+            33,
+            49,
+            73
+        ],
+        "attack_speed": 0.65,
+        "armor": 40,
+        "magical_resistance": 40,
+        "stats": [
+            "TBA: TBA"
+        ],
+        "traits": [
+            {
+                "id": "dai_co_giap",
+                "name": "Đại Cơ Giáp",
+                "image": "Trait_Icon_15_RoboRangers.TFT_Set15.png"
+            },
+            {
+                "id": "dung_si",
+                "name": "Dũng Sĩ",
+                "image": "Trait_Icon_9_Juggernaut.png"
+            },
+            {
+                "id": "hang_nang",
+                "name": "Hạng Nặng",
+                "image": "Trait_Icon_15_Heavyweight.TFT_Set15.png"
+            }
+        ],
+        "items": []
+    },
+    {
+        "stt": 19,
+        "id": "udyr",
+        "name": "Udyr",
+        "image": "tft15_udyr.tft_set15.png",
+        "price": "3",
+        "average_position": "4.44",
+        "top_4_rate": "50.85",
+        "top_1_rate": "13.67",
+        "battle": "864,489",
+        "description": "Nhanh chóng tung 3 đòn đánh. Mỗi đòn đánh hồi cho Udyr [ 160 / 200 / 250 ] () Máu và gây thêm ? () sát thương lên các kẻ địch trong bán kính 1 ô.",
+        "skill_name": "Võ Phượng Hoàng Rực Sáng",
+        "skill_image": "TFT15_Udyr.png",
+        "starting_mana": 40,
+        "skill_mana": 80,
+        "skill_attack_range": 1,
+        "health": [
+            900,
+            1620,
+            2916
+        ],
+        "attack_damage": [
+            45,
+            68,
+            101
+        ],
+        "damage_per_second": [
+            31,
+            48,
+            71
+        ],
+        "attack_speed": 0.7,
+        "armor": 50,
+        "magical_resistance": 50,
+        "stats": [
+            "Heal: 160 / 200 / 250",
+            "Area Damage: 30 / 45 / 70"
+        ],
+        "traits": [
+            {
+                "id": "sensei",
+                "name": "Sensei",
+                "image": "Trait_Icon_15_OldMentor.TFT_Set15.png"
+            },
+            {
+                "id": "dung_si",
+                "name": "Dũng Sĩ",
+                "image": "Trait_Icon_9_Juggernaut.png"
+            },
+            {
+                "id": "song_dau",
+                "name": "Song Đấu",
+                "image": "Trait_Icon_8_Duelist.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "",
+                "image": "TFT_Item_RedBuff.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_WarmogsArmor.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_GargoyleStoneplate.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_SpectralGauntlet.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_Redemption.png"
+            }
+        ]
+    },
+    {
+        "stt": 20,
+        "id": "janna",
+        "name": "Janna",
+        "image": "tft15_janna.tft_set15.png",
+        "price": "2",
+        "average_position": "4.86",
+        "top_4_rate": "43.46",
+        "top_1_rate": "13.66",
+        "battle": "445,917",
+        "description": "Trao ? () lá chắn cho 2 đồng minh thấp Máu nhất trong 4 giây và tung ra 4 cánh bướm, gây ? () sát thương phép chia đều cho 2 kẻ địch gần nhất.",
+        "skill_name": "Kén Pha Lê",
+        "skill_image": "TFT15_Janna.png",
+        "starting_mana": 10,
+        "skill_mana": 60,
+        "skill_attack_range": 4,
+        "health": [
+            600,
+            1080,
+            1944.0000000000002
+        ],
+        "attack_damage": [
+            35,
+            53,
+            79
+        ],
+        "damage_per_second": [
+            25,
+            37,
+            55
+        ],
+        "attack_speed": 0.7,
+        "armor": 25,
+        "magical_resistance": 25,
+        "stats": [
+            "Shield: 80 / 100 / 135",
+            "Damage per Butterfly: 110 / 165 / 260"
+        ],
+        "traits": [
+            {
+                "id": "pha_le",
+                "name": "Pha Lê",
+                "image": "Trait_Icon_15_GemForce.TFT_Set15.png"
+            },
+            {
+                "id": "ho_ve",
+                "name": "Hộ Vệ",
+                "image": "Trait_Icon_6_Protector.png"
+            },
+            {
+                "id": "quan_su",
+                "name": "Quân Sư",
+                "image": "Trait_Icon_9_Strategist.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "",
+                "image": "TFT_Item_ArchangelsStaff.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_GuinsoosRageblade.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_SpearOfShojin.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_JeweledGauntlet.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_StatikkShiv.png"
+            }
+        ]
+    },
+    {
+        "stt": 21,
+        "id": "naafiri",
+        "name": "Naafiri",
+        "image": "tft15_naafiri.tft_set15.png",
+        "price": "1",
+        "average_position": "4.26",
+        "top_4_rate": "54.49",
+        "top_1_rate": "13.65",
+        "battle": "591,967",
+        "description": "Nhận ? () Lá Chắn trong 2 giây, sau đó gây ? () sát thương vật lý lên mục tiêu.",
+        "skill_name": "Cưa Hồn Xoay Tròn",
+        "skill_image": "TFT15_Naafiri.png",
+        "starting_mana": 0,
+        "skill_mana": 30,
+        "skill_attack_range": 1,
+        "health": [
+            650,
+            1170,
+            2106
+        ],
+        "attack_damage": [
+            55,
+            83,
+            124
+        ],
+        "damage_per_second": [
+            44,
+            66,
+            99
+        ],
+        "attack_speed": 0.8,
+        "armor": 45,
+        "magical_resistance": 45,
+        "stats": [
+            "Shield: 100% / 120% / 150%",
+            "Damage: 150 / 225 / 340"
+        ],
+        "traits": [
+            {
+                "id": "tinh_vo_su",
+                "name": "Tinh Võ Sư",
+                "image": "Trait_Icon_15_SoulFighter.TFT_Set15.png"
+            },
+            {
+                "id": "dung_si",
+                "name": "Dũng Sĩ",
+                "image": "Trait_Icon_9_Juggernaut.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "",
+                "image": "TFT_Item_Bloodthirster.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_TitansResolve.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_SteraksGage.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_UnstableConcoction.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_GuardianAngel.png"
+            }
+        ]
+    },
+    {
+        "stt": 22,
+        "id": "volibear",
+        "name": "Volibear",
+        "image": "tft15_volibear.tft_set15.png",
+        "price": "4",
+        "average_position": "4.44",
+        "top_4_rate": "50.69",
+        "top_1_rate": "13.34",
+        "battle": "331,208",
+        "description": "Nội Tại: Mỗi đòn đánh thứ 4 gây ? () sát thương vật lý trong bán kính 1 ô quanh mục tiêu. Khi đổi mục tiêu, ngay lập tức dậm xuống gây 150% sát thương.\n\nKích Hoạt: Trong 5 giây, tăng [ 0.9900000095367432 / 0.9900000095367432 / 3 ] Tốc Độ Đánh, [ 0.10000000149011612 / 0.10000000149011612 / 0.25 ]% () Hút Máu Toàn Phần và hiệu ứng miễn nhiễm khống chế.",
+        "skill_name": "Bản Năng Ursine",
+        "skill_image": "TFT15_Volibear.png",
+        "starting_mana": 0,
+        "skill_mana": 40,
+        "skill_attack_range": 1,
+        "health": [
+            1050,
+            1890,
+            3402
+        ],
+        "attack_damage": [
+            65,
+            98,
+            146
+        ],
+        "damage_per_second": [
+            59,
+            88,
+            131
+        ],
+        "attack_speed": 0.9,
+        "armor": 65,
+        "magical_resistance": 65,
+        "stats": [
+            "Slam Damage: 90 / 135 / 500",
+            "Attack Speed: 99% / 99% / 300%"
+        ],
+        "traits": [
+            {
+                "id": "do_vat",
+                "name": "Đô Vật",
+                "image": "Trait_Icon_15_RingKings.TFT_Set15.png"
+            },
+            {
+                "id": "thanh_ra_ve",
+                "name": "Thánh Ra Vẻ",
+                "image": "Trait_Icon_10_Edgelord.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "",
+                "image": "TFT_Item_Bloodthirster.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_TitansResolve.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_SteraksGage.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_UnstableConcoction.png"
+            },
+            {
+                "id": "",
+                "image": "TFT15_Item_SoulFighterEmblemItem.png"
+            }
+        ]
+    },
+    {
+        "stt": 23,
+        "id": "yuumi",
+        "name": "Yuumi",
+        "image": "tft15_yuumi.tft_set15.png",
+        "price": "4",
+        "average_position": "4.22",
+        "top_4_rate": "55.53",
+        "top_1_rate": "13.31",
+        "battle": "435,091",
+        "description": "Tung ra 5 trang sách, gây ? () sát thương phép với mỗi trang, chia đều cho mục tiêu và các kẻ địch trong phạm vi 2 ô. Mỗi lần thi triển sau sẽ tung thêm 5 trang sách.\n\nTiềm năng (?): ?",
+        "skill_name": "Tử Thư Lệnh",
+        "skill_image": "TFT15_Yuumi.png",
+        "starting_mana": 0,
+        "skill_mana": 40,
+        "skill_attack_range": 4,
+        "health": [
+            850,
+            1530,
+            2754
+        ],
+        "attack_damage": [
+            40,
+            60,
+            90
+        ],
+        "damage_per_second": [
+            30,
+            45,
+            68
+        ],
+        "attack_speed": 0.75,
+        "armor": 35,
+        "magical_resistance": 35,
+        "stats": [
+            "Damage per Page: 28 / 42 / 150",
+            "Potential Page Damage: 32% of 28 / 42 / 150 per Potential"
+        ],
+        "traits": [
+            {
+                "id": "hoc_vien",
+                "name": "Học Viện",
+                "image": "Trait_Icon_15_BattleClub.TFT_Set15.png"
+            },
+            {
+                "id": "phi_thuong",
+                "name": "Phi Thường",
+                "image": "Trait_Icon_15_Prodigy.TFT_Set15.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "",
+                "image": "TFT_Item_JeweledGauntlet.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_BlueBuff.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_HextechGunblade.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_StatikkShiv.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_AdaptiveHelm.png"
+            }
+        ]
+    },
+    {
+        "stt": 24,
+        "id": "jinx",
+        "name": "Jinx",
+        "image": "tft15_jinx.tft_set15.png",
+        "price": "4",
+        "average_position": "4.15",
+        "top_4_rate": "56.69",
+        "top_1_rate": "13.23",
+        "battle": "501,270",
+        "description": "Nội Tại: Đòn đánh tăng ?% () Tốc Độ Đánh cộng dồn, tối đa [ 60 / 60 / 300 ]% (). Thay vào đó, đòn chí mạng tăng ?% ().\n\nKích Hoạt: Gây ? () sát thương vật lý lên mục tiêu và ? () sát thương vật lý chia đều trên bán kính 2 ô quanh mục tiêu.",
+        "skill_name": "Tên Lửa Sao Cất Cánh!",
+        "skill_image": "TFT15_Jinx.png",
+        "starting_mana": 10,
+        "skill_mana": 80,
+        "skill_attack_range": 5,
+        "health": [
+            850,
+            1530,
+            2754
+        ],
+        "attack_damage": [
+            70,
+            105,
+            158
+        ],
+        "damage_per_second": [
+            53,
+            79,
+            119
+        ],
+        "attack_speed": 0.75,
+        "armor": 35,
+        "magical_resistance": 35,
+        "stats": [
+            "Attack Speed per Attack: 6% / 6% / 30%",
+            "Damage: 200 / 300 / 900",
+            "Split Damage: 520 / 780 / 3600"
+        ],
+        "traits": [
+            {
+                "id": "ve_binh_tinh_tu",
+                "name": "Vệ Binh Tinh Tú",
+                "image": "Trait_Icon_8_StarGuardian.png"
+            },
+            {
+                "id": "ban_tia",
+                "name": "Bắn Tỉa",
+                "image": "Trait_Icon_6_Sniper.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "",
+                "image": "TFT_Item_InfinityEdge.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_LastWhisper.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_GuinsoosRageblade.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_PowerGauntlet.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_RunaansHurricane.png"
+            }
+        ]
+    },
+    {
+        "stt": 25,
+        "id": "xayah",
+        "name": "Xayah",
+        "image": "tft15_xayah.tft_set15.png",
+        "price": "2",
+        "average_position": "4.21",
+        "top_4_rate": "55.42",
+        "top_1_rate": "13.20",
+        "battle": "413,427",
+        "description": "Tăng ? () tốc độ đánh với mỗi 3 đòn đánh. Các đòn đánh này gây thêm [ 40 / 60 / 95 ] () sát thương vật lý lên mục tiêu và 2 kẻ địch ở gần.",
+        "skill_name": "Sắc Vũ Phát Quang",
+        "skill_image": "TFT15_Xayah.png",
+        "starting_mana": 20,
+        "skill_mana": 70,
+        "skill_attack_range": 4,
+        "health": [
+            550,
+            990,
+            1782.0000000000002
+        ],
+        "attack_damage": [
+            45,
+            68,
+            101
+        ],
+        "damage_per_second": [
+            34,
+            51,
+            76
+        ],
+        "attack_speed": 0.75,
+        "armor": 25,
+        "magical_resistance": 25,
+        "stats": [
+            "Attack Speed: 80% (AP)",
+            "Damage: 40 / 60 / 95"
+        ],
+        "traits": [
+            {
+                "id": "ve_binh_tinh_tu",
+                "name": "Vệ Binh Tinh Tú",
+                "image": "Trait_Icon_8_StarGuardian.png"
+            },
+            {
+                "id": "thanh_ra_ve",
+                "name": "Thánh Ra Vẻ",
+                "image": "Trait_Icon_10_Edgelord.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "",
+                "image": "TFT_Item_GuinsoosRageblade.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_InfinityEdge.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_RunaansHurricane.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_LastWhisper.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_MadredsBloodrazor.png"
+            }
+        ]
+    },
+    {
+        "stt": 26,
+        "id": "shen",
+        "name": "Shen",
+        "image": "tft15_shen.tft_set15.png",
+        "price": "2",
+        "average_position": "4.73",
+        "top_4_rate": "45.24",
+        "top_1_rate": "13.17",
+        "battle": "392,989",
+        "description": "Nhận ? () Lá Chắn trong 4 giây. 3 Đòn đánh tiếp theo gây thêm ? () sát thương chuẩn.",
+        "skill_name": "Giáp Chiến: Đầy Nội Lực",
+        "skill_image": "TFT15_Shen.png",
+        "starting_mana": 25,
+        "skill_mana": 75,
+        "skill_attack_range": 1,
+        "health": [
+            800,
+            1440,
+            2592
+        ],
+        "attack_damage": [
+            60,
+            90,
+            135
+        ],
+        "damage_per_second": [
+            36,
+            54,
+            81
+        ],
+        "attack_speed": 0.6,
+        "armor": 45,
+        "magical_resistance": 45,
+        "stats": [
+            "Shield: 400 / 475 / 575",
+            "Damage: 75% / 115% / 175% (MR)"
+        ],
+        "traits": [
+            {
+                "id": "chien_ham",
+                "name": "Chiến Hạm",
+                "image": "Trait_Icon_15_StarCrew.TFT_Set15.png"
+            },
+            {
+                "id": "can_truong",
+                "name": "Can Trường",
+                "image": "Trait_Icon_9_Bastion.png"
+            },
+            {
+                "id": "thanh_ra_ve",
+                "name": "Thánh Ra Vẻ",
+                "image": "Trait_Icon_10_Edgelord.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "",
+                "image": "TFT_Item_RedBuff.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_GargoyleStoneplate.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_WarmogsArmor.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_SpectralGauntlet.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_DragonsClaw.png"
+            }
+        ]
+    },
+    {
+        "stt": 27,
+        "id": "k'sante",
+        "name": "K'Sante",
+        "image": "tft15_ksante.tft_set15.png",
+        "price": "4",
+        "average_position": "4.34",
+        "top_4_rate": "52.73",
+        "top_1_rate": "13.14",
+        "battle": "426,824",
+        "description": "Nội Tại (CHƠI KHÔ MÁU): Khi bị hạ gục lần đầu, hồi đầy máu thay vì hy sinh, nhận [ 125 / 125 / 300 ]% Tốc Độ Đánh, chuyển 50% Giáp và Kháng Phép thành Sức Mạnh Công Kích và đặt Năng Lượng tối đa thành 30. Sau đó lướt tới mục tiêu và Làm Choáng kẻ đó trong thoáng chốc. Khi trong trạng thái CHƠI KHÔ MÁU, mất [ 6 / 6 / 0 ]% Máu mỗi giây và hồi lại ? () máu khi đạt mạng hạ gục.\n\nKích Hoạt: Nhận [ 0.5 / 0.550000011920929 / 0.8500000238418579 ] () Chống Chịu trong 3 giây, sau đó gây ? () sát thương vật lý lên mục tiêu.\n\nKích hoạt (CHƠI KHÔ MÁU): Gây ? () sát thương vật lý lên mục tiêu.",
+        "skill_name": "Nội Lực Đột Phá",
+        "skill_image": "TFT15_KSante.png",
+        "starting_mana": 30,
+        "skill_mana": 90,
+        "skill_attack_range": 1,
+        "health": [
+            1000,
+            1800,
+            3240
+        ],
+        "attack_damage": [
+            60,
+            90,
+            135
+        ],
+        "damage_per_second": [
+            42,
+            63,
+            95
+        ],
+        "attack_speed": 0.7,
+        "armor": 60,
+        "magical_resistance": 60,
+        "stats": [
+            "Durability: 50% / 55% / 85% AP",
+            "Damage: 120% / 180% / 800% AR and MR",
+            "Damage (ALL OUT): 350% / 525% / 3000% AD",
+            "Heal on Kill (ALL OUT): 30% Health"
+        ],
+        "traits": [
+            {
+                "id": "bong_ma",
+                "name": "Bóng Ma",
+                "image": "Trait_Icon_15_Empyrean.TFT_Set15.png"
+            },
+            {
+                "id": "ho_ve",
+                "name": "Hộ Vệ",
+                "image": "Trait_Icon_6_Protector.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "",
+                "image": "TFT_Item_GargoyleStoneplate.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_WarmogsArmor.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_RedBuff.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_DragonsClaw.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_Redemption.png"
+            }
+        ]
+    },
+    {
+        "stt": 28,
+        "id": "samira",
+        "name": "Samira",
+        "image": "tft15_samira.tft_set15.png",
+        "price": "4",
+        "average_position": "4.15",
+        "top_4_rate": "56.98",
+        "top_1_rate": "13.12",
+        "battle": "502,928",
+        "description": "Nội Tại: Sau khi thi triển, nhận 1 điểm Phong Cách và 5% Hút Máu Toàn Phần, tối đa 4 cộng dồn. Khi đạt cộng dồn tối đa, lần thi triển tiếp theo sẽ là Giải Phóng Kho Vũ Khí.\n\nLinh Tiễn: Gây [ 90 / 135 / 650 ] () sát thương vật lý lên mục tiêu và lướt đi một khoảng cách ngắn.\n\nGiải Phóng Kho Vũ Khí: Gấp đôi thưởng nội tại và nhảy vào giữa đội hình kẻ địch, gây ? () sát thương vật lý lên tất cả các kẻ địch trong bán kính 2 ô. Đặt lại điểm Phong Cách của bạn về 0.",
+        "skill_name": "Linh Tiễn / Giải Phóng Kho Vũ Khí",
+        "skill_image": "TFT15_Samira.png",
+        "starting_mana": 0,
+        "skill_mana": 15,
+        "skill_attack_range": 4,
+        "health": [
+            850,
+            1530,
+            2754
+        ],
+        "attack_damage": [
+            50,
+            75,
+            113
+        ],
+        "damage_per_second": [
+            38,
+            56,
+            85
+        ],
+        "attack_speed": 0.75,
+        "armor": 45,
+        "magical_resistance": 45,
+        "stats": [
+            "Soul Shot Damage: 90 / 135 / 650 AD",
+            "Arsenal Damage: 50 / 75 / 225 AP",
+            "Arsenal Total Damage: 280 / 420 / 2200 AD + 50 / 75 / 225 AP"
+        ],
+        "traits": [
+            {
+                "id": "tinh_vo_su",
+                "name": "Tinh Võ Sư",
+                "image": "Trait_Icon_15_SoulFighter.TFT_Set15.png"
+            },
+            {
+                "id": "thanh_ra_ve",
+                "name": "Thánh Ra Vẻ",
+                "image": "Trait_Icon_10_Edgelord.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "",
+                "image": "TFT_Item_InfinityEdge.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_SpearOfShojin.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_PowerGauntlet.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_LastWhisper.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_MadredsBloodrazor.png"
+            }
+        ]
+    },
+    {
+        "stt": 29,
+        "id": "karma",
+        "name": "Karma",
+        "image": "tft15_karma.tft_set15.png",
+        "price": "4",
+        "average_position": "4.47",
+        "top_4_rate": "49.92",
+        "top_1_rate": "12.91",
+        "battle": "314,492",
+        "description": "Bắn ra 1 đĩa năng lượng gây [ 1050 / 1575 / 6500 ] () tổng sát thương phép trong bán kính 1 ô quanh mục tiêu.",
+        "skill_name": "Đĩa Hủy Diệt",
+        "skill_image": "TFT15_Karma.png",
+        "starting_mana": 0,
+        "skill_mana": 70,
+        "skill_attack_range": 4,
+        "health": [
+            850,
+            1530,
+            2754
+        ],
+        "attack_damage": [
+            40,
+            60,
+            90
+        ],
+        "damage_per_second": [
+            30,
+            45,
+            68
+        ],
+        "attack_speed": 0.75,
+        "armor": 35,
+        "magical_resistance": 35,
+        "stats": [
+            "Damage: 1125 / 1700 / 6500"
+        ],
+        "traits": [
+            {
+                "id": "dai_co_giap",
+                "name": "Đại Cơ Giáp",
+                "image": "Trait_Icon_15_RoboRangers.TFT_Set15.png"
+            },
+            {
+                "id": "phu_thuy",
+                "name": "Phù Thủy",
+                "image": "Trait_Icon_15_Sorcerer.TFT_Set15.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "",
+                "image": "TFT_Item_JeweledGauntlet.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_SpearOfShojin.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_StatikkShiv.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_ArchangelsStaff.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_BlueBuff.png"
+            }
+        ]
+    },
+    {
+        "stt": 30,
+        "id": "smolder",
+        "name": "Smolder",
+        "image": "tft15_smolder.tft_set15.png",
+        "price": "3",
+        "average_position": "4.41",
+        "top_4_rate": "51.89",
+        "top_1_rate": "12.91",
+        "battle": "63,662",
+        "description": "Nội Tại: Nhận 1% mỗi cấp Luyện Quái (?% ). Sát thương sẽ gây Thiêu Đốt và Vết Thương Sâu trong 5 giây.\n\nKích Hoạt: Gây ? () sát thương vật lý lên mục tiêu, và [ 50 / 75 / 120 ] () sát thương phép lên 3 mục tiêu gần nhất.\n\nCấp 15: Mỗi 2 lần thi triển, bắn thêm lần nữa vào kẻ địch gần nhất, gây 75% sát thương.\n\nCấp 30: Bỏ qua 60% Giáp của mục tiêu hiện tại. Giảm năng lượng tối đa đi 10.\n\n{{TFT_Keyword_Burn}}\n{{TFT_Keyword_Wound}}",
+        "skill_name": "Hỏa Kích",
+        "skill_image": "TFT15_Smolder.png",
+        "starting_mana": 0,
+        "skill_mana": 60,
+        "skill_attack_range": 4,
+        "health": [
+            650,
+            1170,
+            2106
+        ],
+        "attack_damage": [
+            50,
+            75,
+            113
+        ],
+        "damage_per_second": [
+            38,
+            56,
+            85
+        ],
+        "attack_speed": 0.75,
+        "armor": 30,
+        "magical_resistance": 30,
+        "stats": [
+            "Damage: 225% / 340% / 540%",
+            "Secondary Damage: 50% / 75% / 120%"
+        ],
+        "traits": [
+            {
+                "id": "luyen_quai",
+                "name": "Luyện Quái",
+                "image": "Trait_Icon_15_MonsterTrainer.TFT_Set15.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "",
+                "image": "TFT_Item_InfinityEdge.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_GuinsoosRageblade.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_PowerGauntlet.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_SpearOfShojin.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_MadredsBloodrazor.png"
+            }
+        ]
+    },
+    {
+        "stt": 31,
+        "id": "xin_zhao",
+        "name": "Xin Zhao",
+        "image": "tft15_xinzhao.tft_set15.png",
+        "price": "2",
+        "average_position": "4.33",
+        "top_4_rate": "53.46",
+        "top_1_rate": "12.88",
+        "battle": "542,242",
+        "description": "Hồi lại ? () Máu, gây ? () sát thương vật lý lên kẻ địch trong bán kính 2 ô và đánh dấu mục tiêu hiện tại. Trong 3 giây, giảm 40% sát thương từ các kẻ địch không được đánh dấu.",
+        "skill_name": "Bán Nguyệt Thủ Hộ",
+        "skill_image": "TFT15_XinZhao.png",
+        "starting_mana": 10,
+        "skill_mana": 65,
+        "skill_attack_range": 1,
+        "health": [
+            800,
+            1440,
+            2592
+        ],
+        "attack_damage": [
+            50,
+            75,
+            113
+        ],
+        "damage_per_second": [
+            33,
+            49,
+            73
+        ],
+        "attack_speed": 0.65,
+        "armor": 45,
+        "magical_resistance": 45,
+        "stats": [
+            "Heal: 290 / 360 / 450",
+            "Damage: 100 / 150 / 235"
+        ],
+        "traits": [
+            {
+                "id": "tinh_vo_su",
+                "name": "Tinh Võ Sư",
+                "image": "Trait_Icon_15_SoulFighter.TFT_Set15.png"
+            },
+            {
+                "id": "can_truong",
+                "name": "Can Trường",
+                "image": "Trait_Icon_9_Bastion.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "",
+                "image": "TFT_Item_GargoyleStoneplate.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_RedBuff.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_WarmogsArmor.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_SpectralGauntlet.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_Redemption.png"
+            }
+        ]
+    },
+    {
+        "stt": 32,
+        "id": "katarina",
+        "name": "Katarina",
+        "image": "tft15_katarina.tft_set15.png",
+        "price": "2",
+        "average_position": "4.54",
+        "top_4_rate": "48.99",
+        "top_1_rate": "12.87",
+        "battle": "291,749",
+        "description": "Dịch chuyển tới kẻ địch thấp máu nhất trong phạm vi 2 ô và gây [ 150 / 225 / 350 ] () sát thương phép lên kẻ địch trong bán kính 1 ô.\n\nTiềm năng (?): ?",
+        "skill_name": "Dịch Chuyển Sau Lưng Bạn",
+        "skill_image": "TFT15_Katarina.png",
+        "starting_mana": 0,
+        "skill_mana": 30,
+        "skill_attack_range": 1,
+        "health": [
+            800,
+            1440,
+            2592
+        ],
+        "attack_damage": [
+            35,
+            53,
+            79
+        ],
+        "damage_per_second": [
+            28,
+            42,
+            63
+        ],
+        "attack_speed": 0.8,
+        "armor": 55,
+        "magical_resistance": 55,
+        "stats": [
+            "Damage: 140 / 210 / 325",
+            "Additional Blink Damage: 8 / 12 / 20 per potential"
+        ],
+        "traits": [
+            {
+                "id": "hoc_vien",
+                "name": "Học Viện",
+                "image": "Trait_Icon_15_BattleClub.TFT_Set15.png"
+            },
+            {
+                "id": "dao_phu",
+                "name": "Đao Phủ",
+                "image": "Trait_Icon_15_Destroyer.TFT_Set15.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "",
+                "image": "TFT_Item_UnstableConcoction.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_GuardianAngel.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_PowerGauntlet.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_JeweledGauntlet.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_Bloodthirster.png"
+            }
+        ]
+    },
+    {
+        "stt": 33,
+        "id": "lux",
+        "name": "Lux",
+        "image": "tft15_lux.tft_set15.png",
+        "price": "2",
+        "average_position": "4.22",
+        "top_4_rate": "55.53",
+        "top_1_rate": "12.83",
+        "battle": "425,873",
+        "description": "Bắn 1 quả cầu năng lượng về phía khu vực tập trung nhiều kẻ địch nhất có bao gồm mục tiêu. Khi đến đích, gây 20% Cào Xé lên kẻ địch trong bán kính 1 ô trong 5 giây và gây ? () sát thương phép chia đều lên chúng, cộng thêm [ 90 / 135 / 210 ] () sát thương phép lên mỗi kẻ địch.",
+        "skill_name": "Vụ Nổ Linh Hỏa",
+        "skill_image": "TFT15_Lux.png",
+        "starting_mana": 20,
+        "skill_mana": 60,
+        "skill_attack_range": 4,
+        "health": [
+            550,
+            990,
+            1782.0000000000002
+        ],
+        "attack_damage": [
+            35,
+            53,
+            79
+        ],
+        "damage_per_second": [
+            26,
+            40,
+            59
+        ],
+        "attack_speed": 0.75,
+        "armor": 20,
+        "magical_resistance": 20,
+        "stats": [
+            "Split Damage: 300 / 450 / 700",
+            "Individual Damage: 90 / 135 / 210"
+        ],
+        "traits": [
+            {
+                "id": "tinh_vo_su",
+                "name": "Tinh Võ Sư",
+                "image": "Trait_Icon_15_SoulFighter.TFT_Set15.png"
+            },
+            {
+                "id": "phu_thuy",
+                "name": "Phù Thủy",
+                "image": "Trait_Icon_15_Sorcerer.TFT_Set15.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "",
+                "image": "TFT_Item_JeweledGauntlet.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_StatikkShiv.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_Morellonomicon.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_SpearOfShojin.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_RabadonsDeathcap.png"
+            }
+        ]
+    },
+    {
+        "stt": 34,
+        "id": "gangplank",
+        "name": "Gangplank",
+        "image": "tft15_gangplank.tft_set15.png",
+        "price": "2",
+        "average_position": "4.47",
+        "top_4_rate": "50.47",
+        "top_1_rate": "12.82",
+        "battle": "427,943",
+        "description": "Gây ? () sát thương vật lý lên kẻ địch thấp máu nhất trong phạm vi ? () ô. Nếu mục tiêu bị hạ gục, có ?%  tỉ lệ nhận 1 vàng.\n\nVàng Kiếm Được: ?",
+        "skill_name": "Siêu Pháo Mạ Vàng",
+        "skill_image": "TFT15_Gangplank.png",
+        "starting_mana": 0,
+        "skill_mana": 40,
+        "skill_attack_range": 1,
+        "health": [
+            50,
+            90,
+            162
+        ],
+        "attack_damage": [
+            50,
+            75,
+            113
+        ],
+        "damage_per_second": [
+            40,
+            60,
+            90
+        ],
+        "attack_speed": 0.8,
+        "armor": 50,
+        "magical_resistance": 50,
+        "stats": [
+            "Damage: 320 / 480 / 875",
+            "Gold Chance: 40% (AP)"
+        ],
+        "traits": [
+            {
+                "id": "dai_co_giap",
+                "name": "Đại Cơ Giáp",
+                "image": "Trait_Icon_15_RoboRangers.TFT_Set15.png"
+            },
+            {
+                "id": "song_dau",
+                "name": "Song Đấu",
+                "image": "Trait_Icon_8_Duelist.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "",
+                "image": "TFT_Item_Bloodthirster.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_GuardianAngel.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_InfinityEdge.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_UnstableConcoction.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_TitansResolve.png"
+            }
+        ]
+    },
+    {
+        "stt": 35,
+        "id": "leona",
+        "name": "Leona",
+        "image": "tft15_leona.tft_set15.png",
+        "price": "4",
+        "average_position": "4.34",
+        "top_4_rate": "53.15",
+        "top_1_rate": "12.69",
+        "battle": "534,045",
+        "description": "Nhận ? () Lá Chắn trong 4 giây và gây ? () sát thương phép lên kẻ địch trong bán kính 2 ô.\n\nTiềm năng (?): ?",
+        "skill_name": "Khiên Bình Minh Bất Hoại",
+        "skill_image": "TFT15_Leona.png",
+        "starting_mana": 30,
+        "skill_mana": 100,
+        "skill_attack_range": 1,
+        "health": [
+            1200,
+            2160,
+            3888.0000000000005
+        ],
+        "attack_damage": [
+            60,
+            90,
+            135
+        ],
+        "damage_per_second": [
+            36,
+            54,
+            81
+        ],
+        "attack_speed": 0.6,
+        "armor": 60,
+        "magical_resistance": 60,
+        "stats": [
+            "Shield: 600 / 750 / 2000",
+            "Damage: 60 = 50% / 75% / 500% AR + 50% / 75% / 500% MR",
+            "Sunburst Damage: 25% / 40% / 250% AR + 25% / 40% / 250% MR",
+            "Sunburst Resist Steal: 1.5 per Potential"
+        ],
+        "traits": [
+            {
+                "id": "hoc_vien",
+                "name": "Học Viện",
+                "image": "Trait_Icon_15_BattleClub.TFT_Set15.png"
+            },
+            {
+                "id": "can_truong",
+                "name": "Can Trường",
+                "image": "Trait_Icon_9_Bastion.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "",
+                "image": "TFT_Item_GargoyleStoneplate.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_WarmogsArmor.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_RedBuff.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_DragonsClaw.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_Redemption.png"
+            }
+        ]
+    },
+    {
+        "stt": 36,
+        "id": "ezreal",
+        "name": "Ezreal",
+        "image": "tft15_ezreal.tft_set15.png",
+        "price": "1",
+        "average_position": "4.39",
+        "top_4_rate": "52.33",
+        "top_1_rate": "12.63",
+        "battle": "421,031",
+        "description": "Bắn ra 1 phát đạn về phía mục tiêu hiện tại, gây [ 230 / 350 / 600 ] () sát thương phép và [ 115 / 175 / 300 ] () sát thương vật lý.\n\nTiềm năng (?): ?",
+        "skill_name": "Pháp Lực Gia Tăng",
+        "skill_image": "TFT15_Ezreal.png",
+        "starting_mana": 0,
+        "skill_mana": 50,
+        "skill_attack_range": 4,
+        "health": [
+            500,
+            900,
+            1620
+        ],
+        "attack_damage": [
+            50,
+            75,
+            113
+        ],
+        "damage_per_second": [
+            35,
+            53,
+            79
+        ],
+        "attack_speed": 0.7,
+        "armor": 20,
+        "magical_resistance": 20,
+        "stats": [
+            "Physical Damage: 115 / 175 / 300",
+            "Magic Damage: 230 / 350 / 600",
+            "Bonuses: AD/AP 4 per potential"
+        ],
+        "traits": [
+            {
+                "id": "hoc_vien",
+                "name": "Học Viện",
+                "image": "Trait_Icon_15_BattleClub.TFT_Set15.png"
+            },
+            {
+                "id": "phi_thuong",
+                "name": "Phi Thường",
+                "image": "Trait_Icon_15_Prodigy.TFT_Set15.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "",
+                "image": "TFT_Item_SpearOfShojin.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_JeweledGauntlet.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_MadredsBloodrazor.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_GuinsoosRageblade.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_HextechGunblade.png"
+            }
+        ]
+    },
+    {
+        "stt": 37,
+        "id": "poppy",
+        "name": "Poppy",
+        "image": "tft15_poppy.tft_set15.png",
+        "price": "4",
+        "average_position": "4.22",
+        "top_4_rate": "55.36",
+        "top_1_rate": "12.57",
+        "battle": "575,567",
+        "description": "Nhận [ 500 / 575 / 1200 ] () Lá Chắn trong 4 giây. Khi lá chắn bị phá hủy, gây ? () sát thương vật lý lên mục tiêu và ? () sát thương vật lý lên những kẻ địch khác trong bán kính 1 ô quanh mục tiêu. Mục tiêu bị Làm Choáng trong [ 0.5 / 0.5 / 8 ] - ? giây dựa trên thời gian lá chắn đã tồn tại, và những kẻ địch khác bị Làm Choáng trong thoáng chốc.",
+        "skill_name": "Búa Thiên Hà Xoay Tròn",
+        "skill_image": "TFT15_Poppy.png",
+        "starting_mana": 45,
+        "skill_mana": 105,
+        "skill_attack_range": 1,
+        "health": [
+            1100,
+            1980,
+            3564.0000000000005
+        ],
+        "attack_damage": [
+            65,
+            98,
+            146
+        ],
+        "damage_per_second": [
+            39,
+            59,
+            88
+        ],
+        "attack_speed": 0.6,
+        "armor": 60,
+        "magical_resistance": 60,
+        "stats": [
+            "Shield: 500 / 575 / 1200",
+            "Damage: 200 / 300 / 2000 AD + 10% Health",
+            "Secondary Damage: 60 / 90 / 600 AD + 5% Health"
+        ],
+        "traits": [
+            {
+                "id": "ve_binh_tinh_tu",
+                "name": "Vệ Binh Tinh Tú",
+                "image": "Trait_Icon_8_StarGuardian.png"
+            },
+            {
+                "id": "hang_nang",
+                "name": "Hạng Nặng",
+                "image": "Trait_Icon_15_Heavyweight.TFT_Set15.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "",
+                "image": "TFT_Item_GargoyleStoneplate.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_WarmogsArmor.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_RedBuff.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_DragonsClaw.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_Redemption.png"
+            }
+        ]
+    },
+    {
+        "stt": 38,
+        "id": "kayle",
+        "name": "Kayle",
+        "image": "tft15_kayle.tft_set15.png",
+        "price": "1",
+        "average_position": "4.7",
+        "top_4_rate": "45.09",
+        "top_1_rate": "12.50",
+        "battle": "362,524",
+        "description": "Nội Tại: Đòn đánh gây thêm [ 33 / 50 / 75 ] () sát thương phép. Nhận thêm sức mạnh dựa trên cấp Linh Thú của bạn.\n\nCấp 6: Mỗi đòn đánh thứ 3 phóng ra 1 sóng năng lượng gây ? () sát thương phép và gây 20% Cào Xé lên kẻ địch trong 3 giây.\nCấp 9: Mỗi đòn đánh đều phóng ra sóng năng lượng. Sóng năng lượng tỏa đi xa hơn.\n\nCào Xé: Giảm Kháng Phép",
+        "skill_name": "Giải Phóng Ác Quỷ",
+        "skill_image": "TFT15_Kayle.png",
+        "starting_mana": 0,
+        "skill_mana": 0,
+        "skill_attack_range": 4,
+        "health": [
+            500,
+            900,
+            1620
+        ],
+        "attack_damage": [
+            30,
+            45,
+            68
+        ],
+        "damage_per_second": [
+            21,
+            31,
+            48
+        ],
+        "attack_speed": 0.7,
+        "armor": 25,
+        "magical_resistance": 25,
+        "stats": [
+            "Damage: 33 / 50 / 75",
+            "Wave Damage: 55 / 85 / 125"
+        ],
+        "traits": [
+            {
+                "id": "bong_ma",
+                "name": "Bóng Ma",
+                "image": "Trait_Icon_15_Empyrean.TFT_Set15.png"
+            },
+            {
+                "id": "song_dau",
+                "name": "Song Đấu",
+                "image": "Trait_Icon_8_Duelist.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "",
+                "image": "TFT_Item_GuinsoosRageblade.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_JeweledGauntlet.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_HextechGunblade.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_PowerGauntlet.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_MadredsBloodrazor.png"
+            }
+        ]
+    },
+    {
+        "stt": 39,
+        "id": "ahri",
+        "name": "Ahri",
+        "image": "tft15_ahri.tft_set15.png",
+        "price": "3",
+        "average_position": "4.27",
+        "top_4_rate": "54.25",
+        "top_1_rate": "12.40",
+        "battle": "456,688",
+        "description": "Gây [ 465 / 700 / 1125 ] () sát thương phép lên mục tiêu hiện tại, tăng tối đa 50% dựa trên Máu đã mất của mục tiêu.\n\nNếu mục tiêu bị hạ gục, gây 55% sát thương vượt trội chia đều cho 2 kẻ địch gần nhất, cộng thêm ? () sát thương phép mỗi mục tiêu.",
+        "skill_name": "Kẻ Gây Thương Nhớ",
+        "skill_image": "TFT15_Ahri.png",
+        "starting_mana": 10,
+        "skill_mana": 50,
+        "skill_attack_range": 4,
+        "health": [
+            650,
+            1170,
+            2106
+        ],
+        "attack_damage": [
+            40,
+            60,
+            90
+        ],
+        "damage_per_second": [
+            30,
+            45,
+            68
+        ],
+        "attack_speed": 0.75,
+        "armor": 30,
+        "magical_resistance": 30,
+        "stats": [
+            "Damage: 430 / 650 / 1100",
+            "Secondary Damage: 40 / 60 / 95"
+        ],
+        "traits": [
+            {
+                "id": "ve_binh_tinh_tu",
+                "name": "Vệ Binh Tinh Tú",
+                "image": "Trait_Icon_8_StarGuardian.png"
+            },
+            {
+                "id": "phu_thuy",
+                "name": "Phù Thủy",
+                "image": "Trait_Icon_15_Sorcerer.TFT_Set15.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "",
+                "image": "TFT_Item_JeweledGauntlet.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_SpearOfShojin.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_StatikkShiv.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_BlueBuff.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_RabadonsDeathcap.png"
+            }
+        ]
+    },
+    {
+        "stt": 40,
+        "id": "neeko",
+        "name": "Neeko",
+        "image": "tft15_neeko.tft_set15.png",
+        "price": "3",
+        "average_position": "4.36",
+        "top_4_rate": "52.77",
+        "top_1_rate": "12.23",
+        "battle": "592,098",
+        "description": "Nhận [ 35 / 35 / 40 ]% Chống Chịu và hồi [ 300 / 350 / 450 ] () Máu trong vòng 2 giây, sau đó gây [ 120 / 180 / 290 ] () sát thương phép lên kẻ địch trong bán kính 2 ô.",
+        "skill_name": "Bùng Nổ Hoa Rơi",
+        "skill_image": "TFT15_Neeko.png",
+        "starting_mana": 20,
+        "skill_mana": 80,
+        "skill_attack_range": 1,
+        "health": [
+            850,
+            1530,
+            2754
+        ],
+        "attack_damage": [
+            45,
+            68,
+            101
+        ],
+        "damage_per_second": [
+            27,
+            41,
+            61
+        ],
+        "attack_speed": 0.6,
+        "armor": 50,
+        "magical_resistance": 50,
+        "stats": [
+            "Heal: 300 / 350 / 450",
+            "Damage: 120 / 180 / 290"
+        ],
+        "traits": [
+            {
+                "id": "ve_binh_tinh_tu",
+                "name": "Vệ Binh Tinh Tú",
+                "image": "Trait_Icon_8_StarGuardian.png"
+            },
+            {
+                "id": "ho_ve",
+                "name": "Hộ Vệ",
+                "image": "Trait_Icon_6_Protector.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "",
+                "image": "TFT_Item_GargoyleStoneplate.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_WarmogsArmor.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_RedBuff.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_DragonsClaw.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_IonicSpark.png"
+            }
+        ]
+    },
+    {
+        "stt": 41,
+        "id": "rakan",
+        "name": "Rakan",
+        "image": "tft15_rakan.tft_set15.png",
+        "price": "2",
+        "average_position": "4.5",
+        "top_4_rate": "50.23",
+        "top_1_rate": "12.19",
+        "battle": "514,548",
+        "description": "Hồi ? () Máu và gây ? () sát thương phép lên 3 kẻ địch gần nhất.\n\nTiềm năng (?): ?",
+        "skill_name": "Trọng Tâm Thu Hút",
+        "skill_image": "TFT15_Rakan.png",
+        "starting_mana": 15,
+        "skill_mana": 65,
+        "skill_attack_range": 1,
+        "health": [
+            800,
+            1440,
+            2592
+        ],
+        "attack_damage": [
+            50,
+            75,
+            113
+        ],
+        "damage_per_second": [
+            30,
+            45,
+            68
+        ],
+        "attack_speed": 0.6,
+        "armor": 50,
+        "magical_resistance": 50,
+        "stats": [
+            "Heal: 350 / 400 / 625",
+            "Damage: 80 / 120 / 180",
+            "Ally Healing: 55 / 65 / 85 per potential"
+        ],
+        "traits": [
+            {
+                "id": "hoc_vien",
+                "name": "Học Viện",
+                "image": "Trait_Icon_15_BattleClub.TFT_Set15.png"
+            },
+            {
+                "id": "ho_ve",
+                "name": "Hộ Vệ",
+                "image": "Trait_Icon_6_Protector.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "",
+                "image": "TFT_Item_WarmogsArmor.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_GargoyleStoneplate.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_DragonsClaw.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_RedBuff.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_IonicSpark.png"
+            }
+        ]
+    },
+    {
+        "stt": 42,
+        "id": "viego",
+        "name": "Viego",
+        "image": "tft15_viego.tft_set15.png",
+        "price": "3",
+        "average_position": "4.32",
+        "top_4_rate": "53.68",
+        "top_1_rate": "12.16",
+        "battle": "555,169",
+        "description": "Nội Tại: Đòn đánh gây ? (%i:TFTBaseAD%) sát thương phép.\n\nKích Hoạt: 3 đòn đánh tiếp theo giải phóng một chuỗi combo gây sát thương cực lớn.\n\nChuôi Phản Kích:  Gây [ 100 / 150 / 250 ] () sát thương phép.\nGươm Thăng Thiên: Gây [ 100 / 150 / 250 ] () sát thương phép và Làm Choáng mục tiêu trong thoáng chốc.\nGươm Hạ Thế: Gây [ 210 / 315 / 530 ] () sát thương phép.",
+        "skill_name": "Bộ Kỹ Suy Vong",
+        "skill_image": "TFT15_Viego.png",
+        "starting_mana": 0,
+        "skill_mana": 40,
+        "skill_attack_range": 1,
+        "health": [
+            850,
+            1530,
+            2754
+        ],
+        "attack_damage": [
+            30,
+            45,
+            68
+        ],
+        "damage_per_second": [
+            27,
+            41,
+            61
+        ],
+        "attack_speed": 0.9,
+        "armor": 60,
+        "magical_resistance": 60,
+        "stats": [
+            "Passive Damage: 30 / 45 / 75",
+            "Combo Damage: 100 / 150 / 250",
+            "Final Combo Damage: 210 / 315 / 530"
+        ],
+        "traits": [
+            {
+                "id": "tinh_vo_su",
+                "name": "Tinh Võ Sư",
+                "image": "Trait_Icon_15_SoulFighter.TFT_Set15.png"
+            },
+            {
+                "id": "song_dau",
+                "name": "Song Đấu",
+                "image": "Trait_Icon_8_Duelist.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "",
+                "image": "TFT_Item_UnstableConcoction.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_JeweledGauntlet.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_Bloodthirster.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_GuardianAngel.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_TitansResolve.png"
+            }
+        ]
+    },
+    {
+        "stt": 43,
+        "id": "rell",
+        "name": "Rell",
+        "image": "tft15_rell.tft_set15.png",
+        "price": "1",
+        "average_position": "4.37",
+        "top_4_rate": "52.7",
+        "top_1_rate": "11.97",
+        "battle": "523,453",
+        "description": "Gây [ 130 / 195 / 295 ] () sát thương phép trên một đường thẳng ngắn xuyên qua mục tiêu, sau đó giảm sát thương gánh chịu đi ? () trong 4 giây.",
+        "skill_name": "Thương Thượng Giới Bất Hoại",
+        "skill_image": "TFT15_Rell.png",
+        "starting_mana": 0,
+        "skill_mana": 40,
+        "skill_attack_range": 1,
+        "health": [
+            750,
+            1350,
+            2430
+        ],
+        "attack_damage": [
+            50,
+            75,
+            113
+        ],
+        "damage_per_second": [
+            30,
+            45,
+            68
+        ],
+        "attack_speed": 0.6,
+        "armor": 40,
+        "magical_resistance": 40,
+        "stats": [
+            "Damage: 130 / 195 / 295",
+            "Flat Damage Reduction: 20 / 30 / 45"
+        ],
+        "traits": [
+            {
+                "id": "ve_binh_tinh_tu",
+                "name": "Vệ Binh Tinh Tú",
+                "image": "Trait_Icon_8_StarGuardian.png"
+            },
+            {
+                "id": "can_truong",
+                "name": "Can Trường",
+                "image": "Trait_Icon_9_Bastion.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "",
+                "image": "TFT_Item_GargoyleStoneplate.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_RedBuff.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_WarmogsArmor.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_DragonsClaw.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_Redemption.png"
+            }
+        ]
+    },
+    {
+        "stt": 44,
+        "id": "garen",
+        "name": "Garen",
+        "image": "tft15_garen.tft_set15.png",
+        "price": "1",
+        "average_position": "4.5",
+        "top_4_rate": "50.26",
+        "top_1_rate": "11.94",
+        "battle": "485,823",
+        "description": "Hồi lại ? () máu và gây ? () sát thương vật lý lên mục tiêu.\n\nTiềm năng (?): ?",
+        "skill_name": "Thánh Kiếm Công Lý",
+        "skill_image": "TFT15_Garen.png",
+        "starting_mana": 30,
+        "skill_mana": 80,
+        "skill_attack_range": 1,
+        "health": [
+            700,
+            1260,
+            2268
+        ],
+        "attack_damage": [
+            55,
+            83,
+            124
+        ],
+        "damage_per_second": [
+            33,
+            50,
+            74
+        ],
+        "attack_speed": 0.6,
+        "armor": 40,
+        "magical_resistance": 40,
+        "stats": [
+            "Heal: 8% Health + 330 / 360 / 390",
+            "Damage: 10% Health 80 / 100 / 125",
+            "Permanent Health: 2 / 4 / 6 + 3 Health per Potential"
+        ],
+        "traits": [
+            {
+                "id": "hoc_vien",
+                "name": "Học Viện",
+                "image": "Trait_Icon_15_BattleClub.TFT_Set15.png"
+            },
+            {
+                "id": "can_truong",
+                "name": "Can Trường",
+                "image": "Trait_Icon_9_Bastion.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "",
+                "image": "TFT_Item_GargoyleStoneplate.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_WarmogsArmor.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_RedBuff.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_DragonsClaw.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_Redemption.png"
+            }
+        ]
+    },
+    {
+        "stt": 45,
+        "id": "syndra",
+        "name": "Syndra",
+        "image": "tft15_syndra.tft_set15.png",
+        "price": "1",
+        "average_position": "4.51",
+        "top_4_rate": "50.53",
+        "top_1_rate": "11.88",
+        "battle": "597,878",
+        "description": "Gây [ 230 / 345 / 520 ] () sát thương phép lên mục tiêu và giảm Kháng Phép của chúng đi 10.",
+        "skill_name": "Bão Tinh Quang",
+        "skill_image": "TFT15_Syndra.png",
+        "starting_mana": 0,
+        "skill_mana": 30,
+        "skill_attack_range": 4,
+        "health": [
+            450,
+            810,
+            1458
+        ],
+        "attack_damage": [
+            40,
+            60,
+            90
+        ],
+        "damage_per_second": [
+            28,
+            42,
+            63
+        ],
+        "attack_speed": 0.7,
+        "armor": 20,
+        "magical_resistance": 20,
+        "stats": [
+            "Damage: 230 / 345 / 520"
+        ],
+        "traits": [
+            {
+                "id": "pha_le",
+                "name": "Pha Lê",
+                "image": "Trait_Icon_15_GemForce.TFT_Set15.png"
+            },
+            {
+                "id": "ve_binh_tinh_tu",
+                "name": "Vệ Binh Tinh Tú",
+                "image": "Trait_Icon_8_StarGuardian.png"
+            },
+            {
+                "id": "phi_thuong",
+                "name": "Phi Thường",
+                "image": "Trait_Icon_15_Prodigy.TFT_Set15.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "",
+                "image": "TFT_Item_JeweledGauntlet.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_AdaptiveHelm.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_SpearOfShojin.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_BlueBuff.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_StatikkShiv.png"
+            }
+        ]
+    },
+    {
+        "stt": 46,
+        "id": "dr._mundo",
+        "name": "Dr. Mundo",
+        "image": "tft15_drmundo.tft_set15.png",
+        "price": "2",
+        "average_position": "4.74",
+        "top_4_rate": "44.68",
+        "top_1_rate": "11.64",
+        "battle": "310,176",
+        "description": "Nội Tại: Mỗi 7 giây, đòn đánh tiếp theo sẽ gây thêm ? () sát thương vật lý.\n\nKích Hoạt: Tăng ? () máu tối đa trong 1.5 giây và ngay lập tức kích hoạt nội tại.",
+        "skill_name": "Cú Nện Trời Giáng",
+        "skill_image": "TFT15_DrMundo.png",
+        "starting_mana": 30,
+        "skill_mana": 90,
+        "skill_attack_range": 1,
+        "health": [
+            800,
+            1440,
+            2592
+        ],
+        "attack_damage": [
+            50,
+            75,
+            113
+        ],
+        "damage_per_second": [
+            30,
+            45,
+            68
+        ],
+        "attack_speed": 0.6,
+        "armor": 40,
+        "magical_resistance": 40,
+        "stats": [
+            "Damage: 8% Health + 50 / 75 / 125 (AD)",
+            "Heal: 325 / 380 / 450 (AP)"
+        ],
+        "traits": [
+            {
+                "id": "do_vat",
+                "name": "Đô Vật",
+                "image": "Trait_Icon_15_RingKings.TFT_Set15.png"
+            },
+            {
+                "id": "dung_si",
+                "name": "Dũng Sĩ",
+                "image": "Trait_Icon_9_Juggernaut.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "",
+                "image": "TFT_Item_WarmogsArmor.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_GargoyleStoneplate.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_RedBuff.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_Redemption.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_GuinsoosRageblade.png"
+            }
+        ]
+    },
+    {
+        "stt": 47,
+        "id": "zac",
+        "name": "Zac",
+        "image": "tft15_zac.tft_set15.png",
+        "price": "1",
+        "average_position": "4.81",
+        "top_4_rate": "43.25",
+        "top_1_rate": "11.17",
+        "battle": "382,020",
+        "description": "Hồi lại [ 240 / 280 / 350 ] () Máu và gây ? () sát thương phép lên kẻ địch trong bán kính 1 ô.",
+        "skill_name": "Dao Động Thực Tại",
+        "skill_image": "TFT15_Zac.png",
+        "starting_mana": 30,
+        "skill_mana": 75,
+        "skill_attack_range": 1,
+        "health": [
+            650,
+            1170,
+            2106
+        ],
+        "attack_damage": [
+            60,
+            90,
+            135
+        ],
+        "damage_per_second": [
+            33,
+            50,
+            74
+        ],
+        "attack_speed": 0.55,
+        "armor": 40,
+        "magical_resistance": 40,
+        "stats": [
+            "Percent Maximum Health %: 7%",
+            "Heal: 240 / 280 / 350"
+        ],
+        "traits": [
+            {
+                "id": "bong_ma",
+                "name": "Bóng Ma",
+                "image": "Trait_Icon_15_Empyrean.TFT_Set15.png"
+            },
+            {
+                "id": "hang_nang",
+                "name": "Hạng Nặng",
+                "image": "Trait_Icon_15_Heavyweight.TFT_Set15.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "",
+                "image": "TFT_Item_WarmogsArmor.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_GargoyleStoneplate.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_RedBuff.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_Redemption.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_DragonsClaw.png"
+            }
+        ]
+    },
+    {
+        "stt": 48,
+        "id": "kalista",
+        "name": "Kalista",
+        "image": "tft15_kalista.tft_set15.png",
+        "price": "1",
+        "average_position": "4.39",
+        "top_4_rate": "52.57",
+        "top_1_rate": "11.01",
+        "battle": "358,048",
+        "description": "Phóng 1 mũi giáo vào kẻ địch ở xa nhất, gây ? () sát thương vật lý lên kẻ địch đầu tiên trúng phải. Nếu kẻ địch bị tiêu diệt, mũi giáo sẽ tiếp tục bay và gây lượng sát thương kết liễu vượt trội lên mục tiêu tiếp theo trúng phải.",
+        "skill_name": "Linh Giáo",
+        "skill_image": "TFT15_Kalista.png",
+        "starting_mana": 0,
+        "skill_mana": 90,
+        "skill_attack_range": 4,
+        "health": [
+            500,
+            900,
+            1620
+        ],
+        "attack_damage": [
+            55,
+            83,
+            124
+        ],
+        "damage_per_second": [
+            39,
+            58,
+            87
+        ],
+        "attack_speed": 0.7,
+        "armor": 20,
+        "magical_resistance": 20,
+        "stats": [
+            "피해량: 380 / 570 / 900 (AD) + 60 / 90 / 135 (AP)"
+        ],
+        "traits": [
+            {
+                "id": "tinh_vo_su",
+                "name": "Tinh Võ Sư",
+                "image": "Trait_Icon_15_SoulFighter.TFT_Set15.png"
+            },
+            {
+                "id": "dao_phu",
+                "name": "Đao Phủ",
+                "image": "Trait_Icon_15_Destroyer.TFT_Set15.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "",
+                "image": "TFT_Item_GuinsoosRageblade.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_InfinityEdge.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_SpearOfShojin.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_LastWhisper.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_PowerGauntlet.png"
+            }
+        ]
+    },
+    {
+        "stt": 49,
+        "id": "akali",
+        "name": "Akali",
+        "image": "tft15_akali.tft_set15.png",
+        "price": "4",
+        "average_position": "4.49",
+        "top_4_rate": "50.29",
+        "top_1_rate": "10.79",
+        "battle": "221,660",
+        "description": "Đánh dấu mục tiêu xa nhất chưa bị đánh dấu trong phạm vi 4 ô, sau đó lướt qua tất cả các kẻ địch đã đánh dấu theo thứ tự. Mỗi cú lướt gây ? () sát thương phép lên mục tiêu và ? () sát thương phép lên các kẻ địch khác trúng đòn.\n\nNếu chỉ còn lại 1 kẻ địch, thay vào đó, lướt đi 3 lần",
+        "skill_name": "Ám Chiêu Xuyên Phá",
+        "skill_image": "TFT15_Akali.png",
+        "starting_mana": 0,
+        "skill_mana": 30,
+        "skill_attack_range": 1,
+        "health": [
+            1050,
+            1890,
+            3402
+        ],
+        "attack_damage": [
+            30,
+            45,
+            68
+        ],
+        "damage_per_second": [
+            26,
+            38,
+            58
+        ],
+        "attack_speed": 0.85,
+        "armor": 65,
+        "magical_resistance": 65,
+        "stats": [
+            "Strike Damage: 80 / 120 / 1000 (AP)",
+            "Dash Damage: 70 / 105 / 1000 (AP)"
+        ],
+        "traits": [
+            {
+                "id": "hoi_toi_thuong",
+                "name": "Hội Tối Thượng",
+                "image": "Trait_Icon_15_SupremeCells.TFT_Set15.png"
+            },
+            {
+                "id": "dao_phu",
+                "name": "Đao Phủ",
+                "image": "Trait_Icon_15_Destroyer.TFT_Set15.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "",
+                "image": "TFT_Item_UnstableConcoction.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_JeweledGauntlet.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_GuardianAngel.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_Bloodthirster.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_RabadonsDeathcap.png"
+            }
+        ]
+    },
+    {
+        "stt": 50,
+        "id": "jayce",
+        "name": "Jayce",
+        "image": "tft15_jayce.tft_set15.png",
+        "price": "3",
+        "average_position": "4.61",
+        "top_4_rate": "47.82",
+        "top_1_rate": "10.64",
+        "battle": "433,259",
+        "description": "Gây ? () sát thương vật lý lên các kẻ địch trong bán kính 1 ô quanh mục tiêu.\n\nTiềm năng (?): ?",
+        "skill_name": "Sấm Sét Lôi Đình",
+        "skill_image": "TFT15_Jayce.png",
+        "starting_mana": 0,
+        "skill_mana": 40,
+        "skill_attack_range": 1,
+        "health": [
+            850,
+            1530,
+            2754
+        ],
+        "attack_damage": [
+            90,
+            135,
+            203
+        ],
+        "damage_per_second": [
+            63,
+            95,
+            142
+        ],
+        "attack_speed": 0.7,
+        "armor": 60,
+        "magical_resistance": 60,
+        "stats": [
+            "Damage: 20 / 30 / 50 (AD) + 160 / 240 / 365 (AP)",
+            "Spark Damage: 70 / 105 / 170",
+            "Num Sparks: 1 per potential"
+        ],
+        "traits": [
+            {
+                "id": "hoc_vien",
+                "name": "Học Viện",
+                "image": "Trait_Icon_15_BattleClub.TFT_Set15.png"
+            },
+            {
+                "id": "hang_nang",
+                "name": "Hạng Nặng",
+                "image": "Trait_Icon_15_Heavyweight.TFT_Set15.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "",
+                "image": "TFT_Item_Bloodthirster.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_TitansResolve.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_SteraksGage.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_UnstableConcoction.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_WarmogsArmor.png"
+            }
+        ]
+    },
+    {
+        "stt": 51,
+        "id": "malzahar",
+        "name": "Malzahar",
+        "image": "tft15_malzahar.tft_set15.png",
+        "price": "3",
+        "average_position": "4.66",
+        "top_4_rate": "46.92",
+        "top_1_rate": "10.03",
+        "battle": "325,269",
+        "description": "Truyền lây nhiễm lên 1 mục tiêu gần nhất chưa mang lây nhiễm, gây [ 520 / 780 / 1300 ] () sát thương phép trong vòng 15 giây. Nếu mục tiêu mang lây nhiễm tử trận, hiệu ứng sẽ lan sang mục tiêu chưa mang lây nhiễm gần nhất trong thời gian tác dụng còn lại.\n\nNếu mọi kẻ địch đều bị lây nhiễm, hiệu ứng này có thể cộng dồn.",
+        "skill_name": "Lời Thì Thầm Ám Muội",
+        "skill_image": "TFT15_Malzahar.png",
+        "starting_mana": 0,
+        "skill_mana": 35,
+        "skill_attack_range": 4,
+        "health": [
+            900,
+            1620,
+            2916
+        ],
+        "attack_damage": [
+            40,
+            60,
+            90
+        ],
+        "damage_per_second": [
+            28,
+            42,
+            63
+        ],
+        "attack_speed": 0.7,
+        "armor": 30,
+        "magical_resistance": 30,
+        "stats": [
+            "Damage: 545 / 820 / 1390"
+        ],
+        "traits": [
+            {
+                "id": "bong_ma",
+                "name": "Bóng Ma",
+                "image": "Trait_Icon_15_Empyrean.TFT_Set15.png"
+            },
+            {
+                "id": "phi_thuong",
+                "name": "Phi Thường",
+                "image": "Trait_Icon_15_Prodigy.TFT_Set15.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "",
+                "image": "TFT_Item_StatikkShiv.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_Morellonomicon.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_JeweledGauntlet.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_HextechGunblade.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_AdaptiveHelm.png"
+            }
+        ]
+    },
+    {
+        "stt": 52,
+        "id": "ashe",
+        "name": "Ashe",
+        "image": "tft15_ashe.tft_set15.png",
+        "price": "4",
+        "average_position": "4.95",
+        "top_4_rate": "42",
+        "top_1_rate": "9.97",
+        "battle": "286,852",
+        "description": "Đòn đánh thứ 8 sẽ bắn ra thêm mũi tên, gây ? () tổng sát thương vật lý chia đều cho các mục tiêu và tối đa 2 kẻ địch ngẫu nhiên khác trong phạm vi 2 ô.",
+        "skill_name": "Cánh Cổng Avarosa",
+        "skill_image": "TFT15_Ashe.png",
+        "starting_mana": 0,
+        "skill_mana": 80,
+        "skill_attack_range": 4,
+        "health": [
+            850,
+            1530,
+            2754
+        ],
+        "attack_damage": [
+            60,
+            90,
+            135
+        ],
+        "damage_per_second": [
+            48,
+            72,
+            108
+        ],
+        "attack_speed": 0.8,
+        "armor": 35,
+        "magical_resistance": 35,
+        "stats": [
+            "Arrows Per Attack: 8",
+            "Damage Per Arrow: 13 / 19 / 90"
+        ],
+        "traits": [
+            {
+                "id": "pha_le",
+                "name": "Pha Lê",
+                "image": "Trait_Icon_15_GemForce.TFT_Set15.png"
+            },
+            {
+                "id": "song_dau",
+                "name": "Song Đấu",
+                "image": "Trait_Icon_8_Duelist.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "",
+                "image": "TFT_Item_GuinsoosRageblade.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_RunaansHurricane.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_InfinityEdge.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_HextechGunblade.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_MadredsBloodrazor.png"
+            }
+        ]
+    },
+    {
+        "stt": 53,
+        "id": "jhin",
+        "name": "Jhin",
+        "image": "tft15_jhin.tft_set15.png",
+        "price": "2",
+        "average_position": "4.82",
+        "top_4_rate": "43.28",
+        "top_1_rate": "9.92",
+        "battle": "230,617",
+        "description": "Nội Tại: Tốc Độ Đánh luôn là [ 0.75 / 0.75 / 0.8500000238418579 ]. Chuyển 1% Tốc Độ Đánh cộng thêm thành 0,8% Sức Mạnh Công Kích. Mỗi đòn đánh thứ tư được cường hóa để gây ? () sát thương vật lý.",
+        "skill_name": "Hạ Màn",
+        "skill_image": "TFT15_Jhin.png",
+        "starting_mana": 0,
+        "skill_mana": 4,
+        "skill_attack_range": 5,
+        "health": [
+            550,
+            990,
+            1782.0000000000002
+        ],
+        "attack_damage": [
+            64,
+            96,
+            144
+        ],
+        "damage_per_second": [
+            48,
+            72,
+            108
+        ],
+        "attack_speed": 0.75,
+        "armor": 25,
+        "magical_resistance": 25,
+        "stats": [
+            "Damage: 200 / 350 / 480 (AD) + 30 / 45 / 70 (AP)",
+            "Attack Speed: 0.75 / 0.75 / 0.85"
+        ],
+        "traits": [
+            {
+                "id": "bong_ma",
+                "name": "Bóng Ma",
+                "image": "Trait_Icon_15_Empyrean.TFT_Set15.png"
+            },
+            {
+                "id": "ban_tia",
+                "name": "Bắn Tỉa",
+                "image": "Trait_Icon_6_Sniper.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "",
+                "image": "TFT_Item_InfinityEdge.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_GuinsoosRageblade.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_LastWhisper.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_PowerGauntlet.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_MadredsBloodrazor.png"
+            }
+        ]
+    },
+    {
+        "stt": 54,
+        "id": "gnar",
+        "name": "Gnar",
+        "image": "tft15_gnar.tft_set15.png",
+        "price": "1",
+        "average_position": "4.77",
+        "top_4_rate": "44.8",
+        "top_1_rate": "9.80",
+        "battle": "145,109",
+        "description": "Nội Tại: Tăng 0.07999999821186066 () Tốc Độ Đánh với mỗi đòn đánh lên cùng một mục tiêu, tối đa ? ().\n\nKích Hoạt: Trong 6 giây, nhận 90% Sức Mạnh Công Kích và ban [ 20 / 25 / 35 ]% Sức Mạnh Công Kích cho 2 đồng minh ở gần, ưu tiên tướng Tấn Công.",
+        "skill_name": "Gadagadagada!",
+        "skill_image": "TFT15_Gnar.png",
+        "starting_mana": 0,
+        "skill_mana": 40,
+        "skill_attack_range": 4,
+        "health": [
+            500,
+            900,
+            1620
+        ],
+        "attack_damage": [
+            50,
+            75,
+            113
+        ],
+        "damage_per_second": [
+            35,
+            53,
+            79
+        ],
+        "attack_speed": 0.7,
+        "armor": 20,
+        "magical_resistance": 20,
+        "stats": [
+            "Bonus Attack Damage: 90% / 90% / 90%",
+            "Ally Attack Damage: 20% / 25% / 35%"
+        ],
+        "traits": [
+            {
+                "id": "do_vat",
+                "name": "Đô Vật",
+                "image": "Trait_Icon_15_RingKings.TFT_Set15.png"
+            },
+            {
+                "id": "ban_tia",
+                "name": "Bắn Tỉa",
+                "image": "Trait_Icon_6_Sniper.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "",
+                "image": "TFT_Item_GuinsoosRageblade.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_RunaansHurricane.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_InfinityEdge.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_LastWhisper.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_Deathblade.png"
+            }
+        ]
+    },
+    {
+        "stt": 55,
+        "id": "rammus",
+        "name": "Rammus",
+        "image": "tft15_rammus.tft_set15.png",
+        "price": "3",
+        "average_position": "5.07",
+        "top_4_rate": "38.78",
+        "top_1_rate": "9.77",
+        "battle": "43,315",
+        "description": "Nội Tại: Nhận 1  với mỗi cấp Luyện Quái (? ).\n\nKích Hoạt: Nhận ? () Lá Chắn trong 4 giây. Khi lá chắn bị phá hủy, gây ? () sát thương phép lên 3 kẻ địch gần nhất và Làm Choáng chúng trong 1 giây.\n\nCấp 15: Khi thi triển, nhảy tới khu vực đông kẻ địch nhất trong phạm vi 2 ô và Khiêu Khích chúng. Nhận ? () Máu tối đa với mỗi kẻ địch bị Khiêu Khích.\n\nCấp 30: Nhận thêm 1  Giáp và  Kháng Phép với mỗi cấp Luyện Quái. Tăng thời gian Làm Choáng lên 1.5 giây.",
+        "skill_name": "Giáp Sầu Riêng",
+        "skill_image": "TFT15_Rammus.png",
+        "starting_mana": 40,
+        "skill_mana": 110,
+        "skill_attack_range": 1,
+        "health": [
+            900,
+            1620,
+            2916
+        ],
+        "attack_damage": [
+            50,
+            75,
+            113
+        ],
+        "damage_per_second": [
+            50,
+            75,
+            113
+        ],
+        "attack_speed": 1,
+        "armor": 60,
+        "magical_resistance": 60,
+        "stats": [
+            "Shield Amount: 420% / 550% / 625%",
+            "Damage: 60% / 90% / 150% (AR) + 60% / 90% / 150% (MR)",
+            "Health Per Taunted Enemy: 10 / 15 / 20"
+        ],
+        "traits": [
+            {
+                "id": "luyen_quai",
+                "name": "Luyện Quái",
+                "image": "Trait_Icon_15_MonsterTrainer.TFT_Set15.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "",
+                "image": "TFT_Item_GargoyleStoneplate.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_WarmogsArmor.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_BrambleVest.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_DragonsClaw.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_RedBuff.png"
+            }
+        ]
+    },
+    {
+        "stt": 56,
+        "id": "lucian",
+        "name": "Lucian",
+        "image": "tft15_lucian.tft_set15.png",
+        "price": "1",
+        "average_position": "4.81",
+        "top_4_rate": "44",
+        "top_1_rate": "9.71",
+        "battle": "205,588",
+        "description": "Bắn ra 4 phát đạn về phía mục tiêu. Mỗi phát đạt gây ? () sát thương phép lên kẻ địch đầu tiên trúng phải. Với mỗi phát đạn trượt mục tiêu, hồi lại 10 năng lượng.",
+        "skill_name": "Đại Bác Hai Nòng",
+        "skill_image": "TFT15_Lucian.png",
+        "starting_mana": 0,
+        "skill_mana": 40,
+        "skill_attack_range": 4,
+        "health": [
+            500,
+            900,
+            1620
+        ],
+        "attack_damage": [
+            30,
+            45,
+            68
+        ],
+        "damage_per_second": [
+            21,
+            31,
+            48
+        ],
+        "attack_speed": 0.7,
+        "armor": 20,
+        "magical_resistance": 20,
+        "stats": [
+            "Damage: 85 / 130 / 200"
+        ],
+        "traits": [
+            {
+                "id": "dai_co_giap",
+                "name": "Đại Cơ Giáp",
+                "image": "Trait_Icon_15_RoboRangers.TFT_Set15.png"
+            },
+            {
+                "id": "phu_thuy",
+                "name": "Phù Thủy",
+                "image": "Trait_Icon_15_Sorcerer.TFT_Set15.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "",
+                "image": "TFT_Item_JeweledGauntlet.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_StatikkShiv.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_ArchangelsStaff.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_BlueBuff.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_GuinsoosRageblade.png"
+            }
+        ]
+    },
+    {
+        "stt": 57,
+        "id": "swain",
+        "name": "Swain",
+        "image": "tft15_swain.tft_set15.png",
+        "price": "3",
+        "average_position": "4.93",
+        "top_4_rate": "42.37",
+        "top_1_rate": "9.64",
+        "battle": "458,508",
+        "description": "Nhận ? () Máu tối đa, sau đó gây ? () sát thương phép mỗi giây lên các kẻ địch trong bán kính 2 ô.\n\nCác lần thi triển sau sẽ hồi lại ? () Máu và tăng sát thương thêm [ 6 / 9 / 14 ] ().",
+        "skill_name": "Y Phục Vũ Lân Huy Hoàng",
+        "skill_image": "TFT15_Swain.png",
+        "starting_mana": 20,
+        "skill_mana": 80,
+        "skill_attack_range": 1,
+        "health": [
+            950,
+            1710,
+            3078
+        ],
+        "attack_damage": [
+            60,
+            90,
+            135
+        ],
+        "damage_per_second": [
+            36,
+            54,
+            81
+        ],
+        "attack_speed": 0.6,
+        "armor": 50,
+        "magical_resistance": 50,
+        "stats": [
+            "Health Gain: 10% Health + 320 / 360 / 400",
+            "Damage: 25 / 35 / 55",
+            "Heal: 10% Health + 260 / 290 / 325",
+            "Damage Increase: 6 / 9 / 14"
+        ],
+        "traits": [
+            {
+                "id": "pha_le",
+                "name": "Pha Lê",
+                "image": "Trait_Icon_15_GemForce.TFT_Set15.png"
+            },
+            {
+                "id": "can_truong",
+                "name": "Can Trường",
+                "image": "Trait_Icon_9_Bastion.png"
+            },
+            {
+                "id": "phu_thuy",
+                "name": "Phù Thủy",
+                "image": "Trait_Icon_15_Sorcerer.TFT_Set15.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "",
+                "image": "TFT_Item_GargoyleStoneplate.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_WarmogsArmor.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_RedBuff.png"
+            },
+            {
+                "id": "",
+                "image": "TFT15_Item_StarGuardianEmblemItem.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_Redemption.png"
+            }
+        ]
+    },
+    {
+        "stt": 58,
+        "id": "vi",
+        "name": "Vi",
+        "image": "tft15_vi.tft_set15.png",
+        "price": "2",
+        "average_position": "5.31",
+        "top_4_rate": "35.43",
+        "top_1_rate": "9.06",
+        "battle": "279,150",
+        "description": "Nội Tại: Nhận 2 với mỗi trang bị thành phần đội của bạn đang mang.\n\nKích Hoạt: Hồi lại ? () Máu, gây [ 150 / 225 / 350 ] () sát thương vật lý trong bán kính 1 ô quanh mục tiêu, đồng thời 20% Phân Tách các kẻ địch trúng đòn trong 4 giây.\n\nPhân Tách: Giảm Giáp",
+        "skill_name": "Bộc Kích Quang Quyền",
+        "skill_image": "TFT15_Vi.png",
+        "starting_mana": 20,
+        "skill_mana": 75,
+        "skill_attack_range": 1,
+        "health": [
+            800,
+            1440,
+            2592
+        ],
+        "attack_damage": [
+            50,
+            75,
+            113
+        ],
+        "damage_per_second": [
+            30,
+            45,
+            68
+        ],
+        "attack_speed": 0.6,
+        "armor": 45,
+        "magical_resistance": 45,
+        "stats": [
+            "Heal: 200 / 250 / 300",
+            "Damage: 150 / 225 / 350"
+        ],
+        "traits": [
+            {
+                "id": "pha_le",
+                "name": "Pha Lê",
+                "image": "Trait_Icon_15_GemForce.TFT_Set15.png"
+            },
+            {
+                "id": "dung_si",
+                "name": "Dũng Sĩ",
+                "image": "Trait_Icon_9_Juggernaut.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "",
+                "image": "TFT_Item_Bloodthirster.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_SteraksGage.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_TitansResolve.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_UnstableConcoction.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_GargoyleStoneplate.png"
+            }
+        ]
+    },
+    {
+        "stt": 59,
+        "id": "kennen",
+        "name": "Kennen",
+        "image": "tft15_kennen.tft_set15.png",
+        "price": "1",
+        "average_position": "4.86",
+        "top_4_rate": "43.43",
+        "top_1_rate": "8.47",
+        "battle": "236,563",
+        "description": "Hồi lại ? () Máu, sau đó gây ? () sát thương phép lên 2 kẻ địch gần nhất và Làm Choáng chúng trong 1 giây.",
+        "skill_name": "Mắt Bão",
+        "skill_image": "TFT15_Kennen.png",
+        "starting_mana": 30,
+        "skill_mana": 85,
+        "skill_attack_range": 1,
+        "health": [
+            700,
+            1260,
+            2268
+        ],
+        "attack_damage": [
+            45,
+            68,
+            101
+        ],
+        "damage_per_second": [
+            29,
+            44,
+            66
+        ],
+        "attack_speed": 0.65,
+        "armor": 40,
+        "magical_resistance": 40,
+        "stats": [
+            "Heal: 180% / 210% / 240% (AP)",
+            "Heal: 5% Health + 180% / 210% / 240% (AP)",
+            "Damage: 130 / 195 / 300"
+        ],
+        "traits": [
+            {
+                "id": "hoi_toi_thuong",
+                "name": "Hội Tối Thượng",
+                "image": "Trait_Icon_15_SupremeCells.TFT_Set15.png"
+            },
+            {
+                "id": "ho_ve",
+                "name": "Hộ Vệ",
+                "image": "Trait_Icon_6_Protector.png"
+            },
+            {
+                "id": "phu_thuy",
+                "name": "Phù Thủy",
+                "image": "Trait_Icon_15_Sorcerer.TFT_Set15.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "",
+                "image": "TFT_Item_GuinsoosRageblade.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_JeweledGauntlet.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_ArchangelsStaff.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_GargoyleStoneplate.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_WarmogsArmor.png"
+            }
+        ]
+    },
+    {
+        "stt": 60,
+        "id": "kai'sa",
+        "name": "Kai'Sa",
+        "image": "tft15_kaisa.tft_set15.png",
+        "price": "2",
+        "average_position": "4.85",
+        "top_4_rate": "43.36",
+        "top_1_rate": "8.39",
+        "battle": "267,025",
+        "description": "Nội Tại: Mạng hạ gục sẽ cho vĩnh viễn 1% Sức Mạnh Công Kích (+?% ).\n\nKích Hoạt: Bắn ra 8 tên lửa, chia đều cho mục tiêu và các kẻ địch xung quanh. Mỗi tên lửa gây ? () sát thương vật lý.",
+        "skill_name": "Tên Lửa Bạo Kích",
+        "skill_image": "TFT15_KaiSa.png",
+        "starting_mana": "0",
+        "skill_mana": "50",
+        "skill_attack_range": 0,
+        "health": [],
+        "attack_damage": [],
+        "damage_per_second": [],
+        "attack_speed": 0,
+        "armor": 0,
+        "magical_resistance": 0,
+        "stats": [],
+        "traits": [
+            {
+                "id": "hoi_toi_thuong",
+                "name": "Hội Tối Thượng",
+                "image": "Trait_Icon_15_SupremeCells.TFT_Set15.png"
+            },
+            {
+                "id": "song_dau",
+                "name": "Song Đấu",
+                "image": "Trait_Icon_8_Duelist.png"
+            }
+        ],
+        "items": []
+    },
+    {
+        "stt": 61,
+        "id": "caitlyn",
+        "name": "Caitlyn",
+        "image": "tft15_caitlyn.tft_set15.png",
+        "price": "3",
+        "average_position": "4.84",
+        "top_4_rate": "43.47",
+        "top_1_rate": "8.35",
+        "battle": "265,209",
+        "description": "Bắn 1 viên đạn về phía kẻ địch xa nhất, gây ? () sát thương vật lý lên mục tiêu đầu tiên trúng đạn. Viên đạn nảy sang một kẻ địch ở gần, gây ? () sát thương vật lý.\n\nTiềm năng (?): ?",
+        "skill_name": "Đạn Phép Nảy Bật",
+        "skill_image": "TFT15_Caitlyn.png",
+        "starting_mana": 0,
+        "skill_mana": 60,
+        "skill_attack_range": 5,
+        "health": [
+            650,
+            1170,
+            2106
+        ],
+        "attack_damage": [
+            55,
+            83,
+            124
+        ],
+        "damage_per_second": [
+            41,
+            62,
+            93
+        ],
+        "attack_speed": 0.75,
+        "armor": 30,
+        "magical_resistance": 30,
+        "stats": [
+            "Damage: 30 / 45 / 70 (AD) + 350 / 525 / 840 (AP)",
+            "Secondary Damage: 95 / 145 / 240",
+            "Additional Bounces: 1 per potential"
+        ],
+        "traits": [
+            {
+                "id": "hoc_vien",
+                "name": "Học Viện",
+                "image": "Trait_Icon_15_BattleClub.TFT_Set15.png"
+            },
+            {
+                "id": "ban_tia",
+                "name": "Bắn Tỉa",
+                "image": "Trait_Icon_6_Sniper.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "",
+                "image": "TFT_Item_InfinityEdge.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_SpearOfShojin.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_GuinsoosRageblade.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_MadredsBloodrazor.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_LastWhisper.png"
+            }
+        ]
+    },
+    {
+        "stt": 62,
+        "id": "lulu",
+        "name": "Lulu",
+        "image": "tft15_lulu.tft_set15.png",
+        "price": "3",
+        "average_position": "5.52",
+        "top_4_rate": "31.12",
+        "top_1_rate": "8.16",
+        "battle": "331",
+        "description": "Triển khai Lulu để chọn 1 quái vật để huấn luyện! Mỗi quái vật sở hữu kỹ năng riêng biệt.",
+        "skill_name": "Tớ Chọn Cậu",
+        "skill_image": "TFT15_Lulu.png",
+        "starting_mana": 0,
+        "skill_mana": 100,
+        "skill_attack_range": 4,
+        "health": [
+            650,
+            1170,
+            2106
+        ],
+        "attack_damage": [
+            45,
+            68,
+            101
+        ],
+        "damage_per_second": [
+            34,
+            51,
+            76
+        ],
+        "attack_speed": 0.75,
+        "armor": 25,
+        "magical_resistance": 25,
+        "stats": [],
+        "traits": [
+            {
+                "id": "luyen_quai",
+                "name": "Luyện Quái",
+                "image": "Trait_Icon_15_MonsterTrainer.TFT_Set15.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "",
+                "image": "TFT_Item_GuinsoosRageblade.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_InfinityEdge.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_PowerGauntlet.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_MadredsBloodrazor.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_ArchangelsStaff.png"
+            }
+        ]
+    },
+    {
+        "stt": 63,
+        "id": "darius",
+        "name": "Darius",
+        "image": "tft15_darius.tft_set15.png",
+        "price": "3",
+        "average_position": "4.88",
+        "top_4_rate": "42.81",
+        "top_1_rate": "7.77",
+        "battle": "249,542",
+        "description": "Hồi lại ? () máu, sau đó gây ? () sát thương vật lý lên mục tiêu hiện tại, tăng thêm 60% lên các tướng Đỡ Đòn. Nếu mục tiêu bị tiêu diệt, ngay lập tức thi triển lần nữa, gây 75% sát thương.",
+        "skill_name": "Máy Chém Tối Thượng",
+        "skill_image": "TFT15_Darius.png",
+        "starting_mana": 0,
+        "skill_mana": 30,
+        "skill_attack_range": 1,
+        "health": [
+            850,
+            1530,
+            2754
+        ],
+        "attack_damage": [
+            50,
+            75,
+            113
+        ],
+        "damage_per_second": [
+            43,
+            64,
+            96
+        ],
+        "attack_speed": 0.85,
+        "armor": 60,
+        "magical_resistance": 60,
+        "stats": [
+            "Damage: 200 / 300 / 480",
+            "Heal: 90 / 130 / 170"
+        ],
+        "traits": [
+            {
+                "id": "hoi_toi_thuong",
+                "name": "Hội Tối Thượng",
+                "image": "Trait_Icon_15_SupremeCells.TFT_Set15.png"
+            },
+            {
+                "id": "hang_nang",
+                "name": "Hạng Nặng",
+                "image": "Trait_Icon_15_Heavyweight.TFT_Set15.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "",
+                "image": "TFT_Item_Bloodthirster.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_UnstableConcoction.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_TitansResolve.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_InfinityEdge.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_SteraksGage.png"
+            }
+        ]
+    },
+    {
+        "stt": 64,
+        "id": "kog'maw",
+        "name": "Kog'Maw",
+        "image": "tft15_kogmaw.tft_set15.png",
+        "price": "3",
+        "average_position": "5.16",
+        "top_4_rate": "38.26",
+        "top_1_rate": "7.59",
+        "battle": "24,647",
+        "description": "Nội Tại: Nhận 1 với mỗi cấp Luyện Quái (? ). Đòn đánh gây thêm ? () sát thương phép.\n\nKích Hoạt: Đòn đánh tiếp theo gây thêm [ 55 / 85 / 130 ] () sát thương phép lên mục tiêu và 2 kẻ địch gần nhất, sau đó gây 30% Cào Xé và Phân Tách lên chúng trong 4 giây.\n\nCấp 15: Khi tung chiêu, nhận 12% Tốc Độ Đánh cho đến hết giao tranh.\n\nCấp 30: Nhận tầm đánh vô hạn và tăng thưởng Tốc Độ Đánh thêm 15%. Tốc Độ Đánh tối đa giờ sẽ là 6.\n\nCào Xé: Giảm Kháng Phép\nPhân Tách: Giảm Giáp",
+        "skill_name": "Bùng Nổ Điện Tích",
+        "skill_image": "TFT15_KogMaw.png",
+        "starting_mana": 0,
+        "skill_mana": 50,
+        "skill_attack_range": 4,
+        "health": [
+            750,
+            1350,
+            2430
+        ],
+        "attack_damage": [
+            15,
+            23,
+            34
+        ],
+        "damage_per_second": [
+            11,
+            17,
+            26
+        ],
+        "attack_speed": 0.75,
+        "armor": 30,
+        "magical_resistance": 30,
+        "stats": [
+            "On-Hit Damage: 33% / 50% / 80%",
+            "Enhanced Damage: 55% / 85% / 130%"
+        ],
+        "traits": [
+            {
+                "id": "luyen_quai",
+                "name": "Luyện Quái",
+                "image": "Trait_Icon_15_MonsterTrainer.TFT_Set15.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "",
+                "image": "TFT_Item_GuinsoosRageblade.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_ArchangelsStaff.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_HextechGunblade.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_JeweledGauntlet.png"
+            },
+            {
+                "id": "",
+                "image": "TFT_Item_SpearOfShojin.png"
+            }
+        ]
+    }
+]
