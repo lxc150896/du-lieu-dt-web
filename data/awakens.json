@@ -1727,7 +1727,7 @@
         "name": "Chơi Khô Máu",
         "desc": {
             "description": [
-                "CHƠI KHÔ MÁU khi bắt đầu giao tranh, nhận 20% Giảm Sát thương và 45% Sức Mạnh Công Kích. Máu không còn giảm khi CHƠI KHÔ MÁU."
+                "CHƠI KHÔ MÁU khi bắt đầu giao tranh, nhận 20% Giảm Sát thương và 60% Sức Mạnh Công Kích. Máu không còn giảm khi CHƠI KHÔ MÁU."
             ],
             "levels": []
         },
@@ -2416,7 +2416,7 @@
         "name": "Hỗn Loạn Cuộn Trào",
         "desc": {
             "description": [
-                "Khi thi triển, bắn ra thêm 1 quả cầu gây 6% sát thương lên 1 kẻ địch ngẫu nhiên. Mỗi lần thi triển sau sẽ cho thêm 1 quả cầu."
+                "Khi thi triển, bắn ra thêm 1 quả cầu gây 7% sát thương lên 1 kẻ địch ngẫu nhiên. Mỗi lần thi triển sau sẽ cho thêm 1 quả cầu."
             ],
             "levels": []
         },
@@ -2778,7 +2778,7 @@
                         "8%",
                         "AD.png",
                         "AS.png",
-                        "| 115",
+                        "| 150",
                         "Health.png",
                         ", 5",
                         "Armor.png",
@@ -2791,7 +2791,7 @@
                         "15%",
                         "AD.png",
                         "AS.png",
-                        "| 225",
+                        "| 275",
                         "Health.png",
                         ", 10",
                         "Armor.png",
@@ -3325,7 +3325,7 @@
         "name": "Bàn Tay Vàng",
         "desc": {
             "description": [
-                "Đòn Đánh và Kỹ Năng hành quyết kẻ địch còn dưới 10% Máu. Mạng hạ gục có 25% cơ hội rớt ra vàng. (Vàng: ?)"
+                "Đòn Đánh và Kỹ Năng hành quyết kẻ địch còn dưới 10% Máu. Mạng hạ gục có 35% cơ hội rớt ra vàng. (Vàng: ?)"
             ],
             "levels": []
         },
@@ -3597,25 +3597,25 @@
         "name": "Phi Công Chiến Giáp",
         "desc": {
             "description": [
-                "Vào buồng lái, chuyển giao chỉ số của bạn cho Robot: 60%",
+                "Vào buồng lái, chuyển giao chỉ số của bạn cho Robot: 35%",
                 "Health.png",
-                ", 70%",
+                ", 45%",
                 "AD.png",
                 "AP.png",
                 "AS.png",
-                ". Ra khỏi buồng lái khi đạt ?%."
+                ". Ra khỏi buồng lái khi đạt 60%."
             ],
             "levels": [
                 {
                     "level": "1",
                     "detail": [
-                        "Vào buồng lái, chuyển giao chỉ số của bạn cho Robot: 60%",
+                        "Vào buồng lái, chuyển giao chỉ số của bạn cho Robot: 35%",
                         "Health.png",
-                        ", 70%",
+                        ", 45%",
                         "AD.png",
                         "AP.png",
                         "AS.png",
-                        ". Ra khỏi buồng lái khi đạt ?%."
+                        ". Ra khỏi buồng lái khi đạt 60%."
                     ]
                 },
                 {
@@ -3668,7 +3668,7 @@
         "name": "Hat Trick",
         "desc": {
             "description": [
-                "Nhận thêm 16% Sức Mạnh Công Kích và Sức Mạnh Phép Thuật. Mỗi lần tham gia hạ gục, đội 1 chiếc mũ giúp tăng thêm 0.75% SMCK và SMPT. Khi hy sinh, mất 50% mũ. (Số Mũ Hiện Tại: ?)"
+                "Nhận thêm 16% Sức Mạnh Công Kích và Sức Mạnh Phép Thuật. Mỗi lần tham gia hạ gục, đội 1 chiếc mũ giúp tăng thêm 1% SMCK và SMPT. Khi hy sinh, mất 50% mũ. (Số Mũ Hiện Tại: ?)"
             ],
             "levels": []
         },
@@ -4087,7 +4087,7 @@
         "name": "Ngón Đòn Hoàng Kim",
         "desc": {
             "description": [
-                "Ra đòn 85 lần trao ? vàng. Giá trị vàng được tăng thêm 1 mỗi lần kích hoạt. (Đòn Đánh: ? / 85)"
+                "Ra đòn 72 lần trao ? vàng. Giá trị vàng được tăng thêm 1 mỗi lần kích hoạt. (Đòn Đánh: ? / 72)"
             ],
             "levels": []
         },
@@ -4134,7 +4134,7 @@
         "desc": {
             "description": [
                 "Nhận 2 bầy đàn, chúng gây",
-                "18% (%i:TFTBaseAD%)",
+                "22% (%i:TFTBaseAD%)",
                 "sát thương vật lý. Khi Naafiri sử dụng Kỹ Năng, bầy đàn sẽ lướt tới kẻ địch thấp Máu nhất trong phạm vi 2 ô."
             ],
             "levels": []

@@ -1591,7 +1591,7 @@
       "magical_resistance": 30,
       "stats": [
         "Sát Thương: %i:scaleAP% [40 / 60 / 95]",
-        "Sát Thương: 400 = 360(%i:scaleAD%) + 40(%i:scaleAP%) [360 / 540 / 875]",
+        "Sát Thương: 400 = 360(%i:scaleAD%) + 40(%i:scaleAP%) [460 / 600 / 960]",
         "Sát Thương Phụ: 88 = 22% của 400"
       ],
       "traits": [
@@ -2088,7 +2088,7 @@
       "armor": 35,
       "magical_resistance": 35,
       "stats": [
-        "Sát Thương: 1050(%i:scaleAP%) [1050 / 1575 / 6500]"
+        "Sát Thương: 1050(%i:scaleAP%) [1160 / 1750 / 6500]"
       ],
       "traits": [
         {
@@ -2758,7 +2758,7 @@
       "magical_resistance": 60,
       "stats": [
         "Sát Thương: %i:scaleAP% [20 / 30 / 50]",
-        "Sát Thương: 200 = 180(%i:scaleAD%) + 20(%i:scaleAP%) [180 / 270 / 425]",
+        "Sát Thương: 200 = 180(%i:scaleAD%) + 20(%i:scaleAP%) [200 / 300 / 480]",
         "Sát Thương Tia Sét: %i:scaleAD% [70 / 105 / 170]",
         "Số Tia Sét: 7 = 1 mỗi %i:set14AmpIcon%"
       ],
@@ -2909,9 +2909,9 @@
         2106
       ],
       "attack_damage": [
-        50,
-        75,
-        113
+        60,
+        95,
+        135
       ],
       "damage_per_second": [
         33,
@@ -2924,7 +2924,7 @@
       "stats": [
         "Hồi Máu: 126 = 4% %i:scaleHealth% + 100(%i:scaleAP%) [100 / 105 / 110]",
         "Sát Thương: %i:scaleAP% [25 / 40 / 55]",
-        "Sát Thương: 125 = 100(%i:scaleAD%) + 25(%i:scaleAP%) [100 / 150 / 225]"
+        "Sát Thương: 125 = 100(%i:scaleAD%) + 25(%i:scaleAP%) [120 / 180 / 270]"
       ],
       "traits": [
         {
@@ -3927,9 +3927,9 @@
         124
       ],
       "damage_per_second": [
-        41,
-        62,
-        93
+        44,
+        66,
+        99
       ],
       "attack_speed": 0.75,
       "armor": 30,
@@ -3999,14 +3999,14 @@
       "skill_mana": 65,
       "skill_attack_range": 1,
       "health": [
-        800,
-        1440,
-        2592
+        700,
+        1260,
+        2268
       ],
       "attack_damage": [
-        50,
-        75,
-        113
+        60,
+        90,
+        135
       ],
       "damage_per_second": [
         33,
@@ -4502,8 +4502,8 @@
       ],
       "skill_name": "Vụ Nổ Linh Hỏa",
       "skill_image": "TFT15_Lux.png",
-      "starting_mana": 20,
-      "skill_mana": 60,
+      "starting_mana": 10,
+      "skill_mana": 50,
       "skill_attack_range": 4,
       "health": [
         550,
@@ -5410,7 +5410,7 @@
         "id": "bua_xanh_anh_sang",
         "name": "Bùa Xanh Ánh Sáng",
         "image": "TFT5_Item_BlueBuffRadiant.png",
-        "description": "Nhận thêm ?% Sức Mạnh Công Kích và Sức Mạnh Phép Thuật từ mọi nguồn.",
+        "description": "Nhận thêm 20% Sức Mạnh Công Kích và Sức Mạnh Phép Thuật từ mọi nguồn.",
         "damage_modifier": [
           {
             "image": "AD.png",
@@ -5557,7 +5557,7 @@
         "id": "nanh_nashor_anh_sang",
         "name": "Nanh Nashor Ánh Sáng",
         "image": "TFT5_Item_LeviathanRadiant.png",
-        "description": "Các đòn đánh giúp hồi lại ? Năng Lượng, tăng lên 8 nếu là đòn chí mạng.",
+        "description": "Các đòn đánh giúp hồi lại 2 Năng Lượng, tăng lên 4 nếu là đòn chí mạng.",
         "damage_modifier": [
           {
             "image": "AP.png",
@@ -6349,7 +6349,7 @@
         "id": "thinh_no_thuy_quai_anh_sang",
         "name": "Thịnh Nộ Thủy Quái Ánh Sáng",
         "image": "TFT5_Item_RunaansHurricaneRadiant.png",
-        "description": "Đòn đánh cho 6% Sức Mạnh Công Kích cộng dồn, tối đa 20 đòn đánh. Sau 20 đòn đánh, nhận ?% Tốc Độ Đánh.",
+        "description": "Đòn đánh cho 7% Sức Mạnh Công Kích cộng dồn, tối đa 20 đòn đánh. Sau 20 đòn đánh, nhận 80% Tốc Độ Đánh.",
         "damage_modifier": [
           {
             "image": "AD.png",
@@ -6545,7 +6545,7 @@
         "id": "quyen_nang_khong_lo_anh_sang",
         "name": "Quyền Năng Khổng Lồ Ánh Sáng",
         "image": "TFT5_Item_TitansResolveRadiant.png",
-        "description": "Nhận 3% Sức Mạnh Công Kích và 3% Sức Mạnh Phép Thuật khi tấn công hoặc nhận sát thương, cộng dồn tối đa 25 lần.\n\nỞ cộng dồn tối đa, nhận ?% Khuếch Đại Sát Thương và đồng thời được miễn nhiễm khống chế.",
+        "description": "Nhận 3% Sức Mạnh Công Kích và 3% Sức Mạnh Phép Thuật khi tấn công hoặc nhận sát thương, cộng dồn tối đa 25 lần.\n\nỞ cộng dồn tối đa, nhận 10% Khuếch Đại Sát Thương và đồng thời được miễn nhiễm khống chế.",
         "damage_modifier": [
           {
             "image": "AS.png",
@@ -9208,7 +9208,7 @@
         "id": "bua_xanh",
         "name": "Bùa Xanh",
         "image": "TFT_Item_BlueBuff.png",
-        "description": "Nhận thêm ?% Sức Mạnh Công Kích và Sức Mạnh Phép Thuật từ mọi nguồn.",
+        "description": "Nhận thêm 10% Sức Mạnh Công Kích và Sức Mạnh Phép Thuật từ mọi nguồn.",
         "damage_modifier": [
           {
             "image": "AD.png",
@@ -10588,7 +10588,7 @@
         "id": "thinh_no_thuy_quai",
         "name": "Thịnh Nộ Thủy Quái",
         "image": "TFT_Item_RunaansHurricane.png",
-        "description": "Đòn đánh cho 3% Sức Mạnh Công Kích cộng dồn, tối đa 20 đòn đánh. Sau 20 đòn đánh, nhận ?% Tốc Độ Đánh.",
+        "description": "Đòn đánh cho 3% Sức Mạnh Công Kích cộng dồn, tối đa 20 đòn đánh. Sau 20 đòn đánh, nhận 40% Tốc Độ Đánh.",
         "damage_modifier": [
           {
             "image": "AD.png",
@@ -13388,7 +13388,7 @@
           "12%",
           "SV.png",
           "",
-          "40%",
+          "30%",
           "AD.png"
         ],
         [
@@ -14030,7 +14030,7 @@
       "id": "hoc_vien",
       "name": "Học Viện",
       "image": "Trait_Icon_15_BattleClub.TFT_Set15.png",
-      "description": "Tướng Học Viện nâng cấp kỹ năng của họ và nhận Tiềm Năng \n. Tiềm Năng sẽ cải thiện các kỹ năng của họ. \n\nKim Cương: Triển khai 7 tướng Học Viện, sau đó nhận 160 điểm bằng cách lắp trang bị lên tướng.\n\nKim Cương: Nhận 1 điểm với mỗi trang bị Hoàn Chỉnh được tướng sử dụng trong giao tranh. Tốt nghiệp khi đạt 160 điểm. (?/160).\n\n\nMở Khóa Tiềm Năng Thực Thụ: +10",
+      "description": "Tướng Học Viện nâng cấp kỹ năng của họ và nhận Tiềm Năng \n. Tiềm Năng sẽ cải thiện các kỹ năng của họ. \n\nKim Cương: Triển khai 7 tướng Học Viện, sau đó nhận 140 điểm bằng cách lắp trang bị lên tướng.\n\nKim Cương: Nhận 1 điểm với mỗi trang bị Hoàn Chỉnh được tướng sử dụng trong giao tranh. Tốt nghiệp khi đạt 140 điểm. (?/140).\n\n\nMở Khóa Tiềm Năng Thực Thụ: +10",
       "description_icon": [
         "Tướng Học Viện nâng cấp kỹ năng của họ và nhận Tiềm Năng",
         "AMP.png",
@@ -15218,10 +15218,10 @@
         "Tướng Vệ Binh Tinh Tú sở hữu thưởng Đồng Đội đặc biệt. Mỗi tướng Vệ Binh Tinh Tú được triển khai sẽ tăng thêm hiệu ứng thưởng này!",
         "\n",
         "\n",
-        "Kim Cương: Triển khai 8 tướng, sau đó sử dụng 18500 năng lượng.",
+        "Kim Cương: Triển khai 8 tướng, sau đó sử dụng 16000 năng lượng.",
         "\n",
         "\n",
-        "Kim Cương: Tiêu hao 18500 Năng Lượng (?)",
+        "Kim Cương: Tiêu hao 16000 Năng Lượng (?)",
         "\n",
         "\n",
         "TINH TÚ THỨC GIẤC.",
@@ -21300,7 +21300,7 @@
         "id": "ta_se_thanh_bo_nao",
         "name": "Ta Sẽ Thành Bộ Não",
         "image": "AndIllBeTheHead_III.TFT_Set15.png",
-        "description": "Robot nhận 35% Tốc Độ Đánh. Nhận 3 Tướng Đại Cơ Giáp.\n\nTriển khai 7 Đại Cơ Giáp với tổng cộng ? Cấp Sao và đạt cấp 10 để kích hoạt GIAO THỨC HỢP NHẤT SIÊU ROBOT."
+        "description": "Robot nhận 45% Tốc Độ Đánh. Nhận 3 Tướng Đại Cơ Giáp.\n\nTriển khai 7 Đại Cơ Giáp với tổng cộng 14 Cấp Sao và đạt cấp 10 để kích hoạt GIAO THỨC HỢP NHẤT SIÊU ROBOT."
       },
       {
         "stt": 61,
@@ -22299,6 +22299,11 @@
   "champions_by_gold": [
     [
       {
+        "id": "garen",
+        "name": "Garen",
+        "img_url": "tft15_garen.tft_set15.png"
+      },
+      {
         "id": "kayle",
         "name": "Kayle",
         "img_url": "tft15_kayle.tft_set15.png"
@@ -22374,11 +22379,6 @@
         "id": "xayah",
         "name": "Xayah",
         "img_url": "tft15_xayah.tft_set15.png"
-      },
-      {
-        "id": "xin_zhao",
-        "name": "Xin Zhao",
-        "img_url": "tft15_xinzhao.tft_set15.png"
       }
     ],
     [
@@ -22388,19 +22388,9 @@
         "img_url": "tft15_ahri.tft_set15.png"
       },
       {
-        "id": "caitlyn",
-        "name": "Caitlyn",
-        "img_url": "tft15_caitlyn.tft_set15.png"
-      },
-      {
         "id": "darius",
         "name": "Darius",
         "img_url": "tft15_darius.tft_set15.png"
-      },
-      {
-        "id": "jayce",
-        "name": "Jayce",
-        "img_url": "tft15_jayce.tft_set15.png"
       },
       {
         "id": "kog'maw",
@@ -22512,6 +22502,11 @@
     ],
     [
       {
+        "id": "braum",
+        "name": "Braum",
+        "img_url": "tft15_braum.tft_set15.png"
+      },
+      {
         "id": "gwen",
         "name": "Gwen",
         "img_url": "tft15_gwen.tft_set15.png"
@@ -22520,6 +22515,11 @@
         "id": "lee_sin",
         "name": "Lee Sin",
         "img_url": "tft15_leesin.tft_set15.png"
+      },
+      {
+        "id": "seraphine",
+        "name": "Seraphine",
+        "img_url": "tft15_seraphine.tft_set15.png"
       },
       {
         "id": "twisted_fate",
@@ -24272,7 +24272,7 @@
       "name": "Chơi Khô Máu",
       "desc": {
         "description": [
-          "CHƠI KHÔ MÁU khi bắt đầu giao tranh, nhận 20% Giảm Sát thương và 45% Sức Mạnh Công Kích. Máu không còn giảm khi CHƠI KHÔ MÁU."
+          "CHƠI KHÔ MÁU khi bắt đầu giao tranh, nhận 20% Giảm Sát thương và 60% Sức Mạnh Công Kích. Máu không còn giảm khi CHƠI KHÔ MÁU."
         ],
         "levels": []
       },
@@ -24961,7 +24961,7 @@
       "name": "Hỗn Loạn Cuộn Trào",
       "desc": {
         "description": [
-          "Khi thi triển, bắn ra thêm 1 quả cầu gây 6% sát thương lên 1 kẻ địch ngẫu nhiên. Mỗi lần thi triển sau sẽ cho thêm 1 quả cầu."
+          "Khi thi triển, bắn ra thêm 1 quả cầu gây 7% sát thương lên 1 kẻ địch ngẫu nhiên. Mỗi lần thi triển sau sẽ cho thêm 1 quả cầu."
         ],
         "levels": []
       },
@@ -25323,7 +25323,7 @@
               "8%",
               "AD.png",
               "AS.png",
-              "| 115",
+              "| 150",
               "Health.png",
               ", 5",
               "Armor.png",
@@ -25336,7 +25336,7 @@
               "15%",
               "AD.png",
               "AS.png",
-              "| 225",
+              "| 275",
               "Health.png",
               ", 10",
               "Armor.png",
@@ -25870,7 +25870,7 @@
       "name": "Bàn Tay Vàng",
       "desc": {
         "description": [
-          "Đòn Đánh và Kỹ Năng hành quyết kẻ địch còn dưới 10% Máu. Mạng hạ gục có 25% cơ hội rớt ra vàng. (Vàng: ?)"
+          "Đòn Đánh và Kỹ Năng hành quyết kẻ địch còn dưới 10% Máu. Mạng hạ gục có 35% cơ hội rớt ra vàng. (Vàng: ?)"
         ],
         "levels": []
       },
@@ -26142,25 +26142,25 @@
       "name": "Phi Công Chiến Giáp",
       "desc": {
         "description": [
-          "Vào buồng lái, chuyển giao chỉ số của bạn cho Robot: 60%",
+          "Vào buồng lái, chuyển giao chỉ số của bạn cho Robot: 35%",
           "Health.png",
-          ", 70%",
+          ", 45%",
           "AD.png",
           "AP.png",
           "AS.png",
-          ". Ra khỏi buồng lái khi đạt ?%."
+          ". Ra khỏi buồng lái khi đạt 60%."
         ],
         "levels": [
           {
             "level": "1",
             "detail": [
-              "Vào buồng lái, chuyển giao chỉ số của bạn cho Robot: 60%",
+              "Vào buồng lái, chuyển giao chỉ số của bạn cho Robot: 35%",
               "Health.png",
-              ", 70%",
+              ", 45%",
               "AD.png",
               "AP.png",
               "AS.png",
-              ". Ra khỏi buồng lái khi đạt ?%."
+              ". Ra khỏi buồng lái khi đạt 60%."
             ]
           },
           {
@@ -26213,7 +26213,7 @@
       "name": "Hat Trick",
       "desc": {
         "description": [
-          "Nhận thêm 16% Sức Mạnh Công Kích và Sức Mạnh Phép Thuật. Mỗi lần tham gia hạ gục, đội 1 chiếc mũ giúp tăng thêm 0.75% SMCK và SMPT. Khi hy sinh, mất 50% mũ. (Số Mũ Hiện Tại: ?)"
+          "Nhận thêm 16% Sức Mạnh Công Kích và Sức Mạnh Phép Thuật. Mỗi lần tham gia hạ gục, đội 1 chiếc mũ giúp tăng thêm 1% SMCK và SMPT. Khi hy sinh, mất 50% mũ. (Số Mũ Hiện Tại: ?)"
         ],
         "levels": []
       },
@@ -26632,7 +26632,7 @@
       "name": "Ngón Đòn Hoàng Kim",
       "desc": {
         "description": [
-          "Ra đòn 85 lần trao ? vàng. Giá trị vàng được tăng thêm 1 mỗi lần kích hoạt. (Đòn Đánh: ? / 85)"
+          "Ra đòn 72 lần trao ? vàng. Giá trị vàng được tăng thêm 1 mỗi lần kích hoạt. (Đòn Đánh: ? / 72)"
         ],
         "levels": []
       },
@@ -26679,7 +26679,7 @@
       "desc": {
         "description": [
           "Nhận 2 bầy đàn, chúng gây",
-          "18% (%i:TFTBaseAD%)",
+          "22% (%i:TFTBaseAD%)",
           "sát thương vật lý. Khi Naafiri sử dụng Kỹ Năng, bầy đàn sẽ lướt tới kẻ địch thấp Máu nhất trong phạm vi 2 ô."
         ],
         "levels": []

@@ -1590,7 +1590,7 @@
         "magical_resistance": 30,
         "stats": [
             "Sát Thương: %i:scaleAP% [40 / 60 / 95]",
-            "Sát Thương: 400 = 360(%i:scaleAD%) + 40(%i:scaleAP%) [360 / 540 / 875]",
+            "Sát Thương: 400 = 360(%i:scaleAD%) + 40(%i:scaleAP%) [460 / 600 / 960]",
             "Sát Thương Phụ: 88 = 22% của 400"
         ],
         "traits": [
@@ -2087,7 +2087,7 @@
         "armor": 35,
         "magical_resistance": 35,
         "stats": [
-            "Sát Thương: 1050(%i:scaleAP%) [1050 / 1575 / 6500]"
+            "Sát Thương: 1050(%i:scaleAP%) [1160 / 1750 / 6500]"
         ],
         "traits": [
             {
@@ -2757,7 +2757,7 @@
         "magical_resistance": 60,
         "stats": [
             "Sát Thương: %i:scaleAP% [20 / 30 / 50]",
-            "Sát Thương: 200 = 180(%i:scaleAD%) + 20(%i:scaleAP%) [180 / 270 / 425]",
+            "Sát Thương: 200 = 180(%i:scaleAD%) + 20(%i:scaleAP%) [200 / 300 / 480]",
             "Sát Thương Tia Sét: %i:scaleAD% [70 / 105 / 170]",
             "Số Tia Sét: 7 = 1 mỗi %i:set14AmpIcon%"
         ],
@@ -2908,9 +2908,9 @@
             2106
         ],
         "attack_damage": [
-            50,
-            75,
-            113
+            60,
+            95,
+            135
         ],
         "damage_per_second": [
             33,
@@ -2923,7 +2923,7 @@
         "stats": [
             "Hồi Máu: 126 = 4% %i:scaleHealth% + 100(%i:scaleAP%) [100 / 105 / 110]",
             "Sát Thương: %i:scaleAP% [25 / 40 / 55]",
-            "Sát Thương: 125 = 100(%i:scaleAD%) + 25(%i:scaleAP%) [100 / 150 / 225]"
+            "Sát Thương: 125 = 100(%i:scaleAD%) + 25(%i:scaleAP%) [120 / 180 / 270]"
         ],
         "traits": [
             {
@@ -3926,9 +3926,9 @@
             124
         ],
         "damage_per_second": [
-            41,
-            62,
-            93
+            44,
+            66,
+            99
         ],
         "attack_speed": 0.75,
         "armor": 30,
@@ -3998,14 +3998,14 @@
         "skill_mana": 65,
         "skill_attack_range": 1,
         "health": [
-            800,
-            1440,
-            2592
+            700,
+            1260,
+            2268
         ],
         "attack_damage": [
-            50,
-            75,
-            113
+            60,
+            90,
+            135
         ],
         "damage_per_second": [
             33,
@@ -4501,8 +4501,8 @@
         ],
         "skill_name": "Vụ Nổ Linh Hỏa",
         "skill_image": "TFT15_Lux.png",
-        "starting_mana": 20,
-        "skill_mana": 60,
+        "starting_mana": 10,
+        "skill_mana": 50,
         "skill_attack_range": 4,
         "health": [
             550,
