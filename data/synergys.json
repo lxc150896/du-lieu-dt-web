@@ -43,7 +43,48 @@
                 "KHAI HỎA!"
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "illaoi",
+                "name": "Illaoi",
+                "image": "tft16_illaoi.tft_set16.png"
+            },
+            {
+                "id": "twisted_fate",
+                "name": "Twisted Fate",
+                "image": "tft16_twistedfate.tft_set16.png"
+            },
+            {
+                "id": "graves",
+                "name": "Graves",
+                "image": "tft16_graves.tft_set16.png"
+            },
+            {
+                "id": "nautilus",
+                "name": "Nautilus",
+                "image": "tft16_nautilus.tft_set16.png"
+            },
+            {
+                "id": "gangplank",
+                "name": "Gangplank",
+                "image": "tft16_gangplank.tft_set16.png"
+            },
+            {
+                "id": "miss_fortune",
+                "name": "Miss Fortune",
+                "image": "tft16_missfortune.tft_set16.png"
+            },
+            {
+                "id": "fizz",
+                "name": "Fizz",
+                "image": "tft16_fizz.tft_set16.png"
+            },
+            {
+                "id": "tahm_kench",
+                "name": "Tahm Kench",
+                "image": "tft16_tahmkench.tft_set16.png"
+            }
+        ],
         "average_position": "1",
         "top_4_rate": "100",
         "top_1_rate": "100.00",
@@ -79,7 +120,38 @@
                 "và khai quật thêm báu vật."
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "qiyana",
+                "name": "Qiyana",
+                "image": "tft16_qiyana.tft_set16.png"
+            },
+            {
+                "id": "neeko",
+                "name": "Neeko",
+                "image": "tft16_neeko.tft_set16.png"
+            },
+            {
+                "id": "milio",
+                "name": "Milio",
+                "image": "tft16_milio.tft_set16.png"
+            },
+            {
+                "id": "nidalee",
+                "name": "Nidalee",
+                "image": "tft16_nidalee.tft_set16.png"
+            },
+            {
+                "id": "skarner",
+                "name": "Skarner",
+                "image": "tft16_skarner.tft_set16.png"
+            },
+            {
+                "id": "brock",
+                "name": "Brock",
+                "image": "tft16_brock_splash_tile_0.tft_set16.png"
+            }
+        ],
         "average_position": "2",
         "top_4_rate": "100",
         "top_1_rate": "0.00",
@@ -129,7 +201,58 @@
                 "AP.png"
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "shen",
+                "name": "Shen",
+                "image": "tft16_shen.tft_set16.png"
+            },
+            {
+                "id": "jhin",
+                "name": "Jhin",
+                "image": "tft16_jhin.tft_set16.png"
+            },
+            {
+                "id": "yasuo",
+                "name": "Yasuo",
+                "image": "tft16_yasuo.tft_set16.png"
+            },
+            {
+                "id": "xin_zhao",
+                "name": "Xin Zhao",
+                "image": "tft16_xinzhao.tft_set16.png"
+            },
+            {
+                "id": "ahri",
+                "name": "Ahri",
+                "image": "tft16_ahri.tft_set16.png"
+            },
+            {
+                "id": "kennen",
+                "name": "Kennen",
+                "image": "tft16_kennen.tft_set16.png"
+            },
+            {
+                "id": "ngo_khong",
+                "name": "Ngộ Không",
+                "image": "tft16_wukong.tft_set16.png"
+            },
+            {
+                "id": "yone",
+                "name": "Yone",
+                "image": "tft16_yone.tft_set16.png"
+            },
+            {
+                "id": "yunara",
+                "name": "Yunara",
+                "image": "tft16_yunara.tft_set16.png"
+            },
+            {
+                "id": "sett",
+                "name": "Sett",
+                "image": "tft16_sett.tft_set16.png"
+            }
+        ],
         "average_position": "1",
         "top_4_rate": "100",
         "top_1_rate": "100.00",
@@ -173,7 +296,38 @@
                 "+ 5% mỗi Ô"
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "caitlyn",
+                "name": "Caitlyn",
+                "image": "tft16_caitlyn.tft_set16.png"
+            },
+            {
+                "id": "kog'maw",
+                "name": "Kog'Maw",
+                "image": "tft16_kogmaw.tft_set16.png"
+            },
+            {
+                "id": "teemo",
+                "name": "Teemo",
+                "image": "tft16_teemo.tft_set16.png"
+            },
+            {
+                "id": "vayne",
+                "name": "Vayne",
+                "image": "tft16_vayne.tft_set16.png"
+            },
+            {
+                "id": "kai'sa",
+                "name": "Kai'Sa",
+                "image": "tft16_kaisa.tft_set16.png"
+            },
+            {
+                "id": "ziggs",
+                "name": "Ziggs",
+                "image": "tft16_ziggs.tft_set16.png"
+            }
+        ],
         "average_position": "3",
         "top_4_rate": "100",
         "top_1_rate": "0.00",
@@ -234,7 +388,33 @@
                 "AP.png"
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "viego",
+                "name": "Viego",
+                "image": "tft16_viego.tft_set16.png"
+            },
+            {
+                "id": "yorick",
+                "name": "Yorick",
+                "image": "tft16_yorick.tft_set16.png"
+            },
+            {
+                "id": "gwen",
+                "name": "Gwen",
+                "image": "tft16_gwen.tft_set16.png"
+            },
+            {
+                "id": "kalista",
+                "name": "Kalista",
+                "image": "tft16_kalista.tft_set16.png"
+            },
+            {
+                "id": "thresh",
+                "name": "Thresh",
+                "image": "tft16_thresh.tft_set16.png"
+            }
+        ],
         "average_position": "2",
         "top_4_rate": "100",
         "top_1_rate": "0.00",
@@ -285,7 +465,58 @@
                 "VÀ nhận 1 Gói Yordle mỗi vòng!"
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "lulu",
+                "name": "Lulu",
+                "image": "tft16_lulu.tft_set16.png"
+            },
+            {
+                "id": "rumble",
+                "name": "Rumble",
+                "image": "tft16_rumble.tft_set16.png"
+            },
+            {
+                "id": "tristana",
+                "name": "Tristana",
+                "image": "tft16_tristana.tft_set16.png"
+            },
+            {
+                "id": "teemo",
+                "name": "Teemo",
+                "image": "tft16_teemo.tft_set16.png"
+            },
+            {
+                "id": "poppy",
+                "name": "Poppy",
+                "image": "tft16_poppy.tft_set16.png"
+            },
+            {
+                "id": "kennen",
+                "name": "Kennen",
+                "image": "tft16_kennen.tft_set16.png"
+            },
+            {
+                "id": "kobuko_&_yuumi",
+                "name": "Kobuko & Yuumi",
+                "image": "tft16_kobuko.tft_set16.png"
+            },
+            {
+                "id": "veigar",
+                "name": "Veigar",
+                "image": "tft16_veigar.tft_set16.png"
+            },
+            {
+                "id": "fizz",
+                "name": "Fizz",
+                "image": "tft16_fizz.tft_set16.png"
+            },
+            {
+                "id": "ziggs",
+                "name": "Ziggs",
+                "image": "tft16_ziggs.tft_set16.png"
+            }
+        ],
         "average_position": "3",
         "top_4_rate": "100",
         "top_1_rate": "0.00",
@@ -304,7 +535,13 @@
             "\n"
         ],
         "description_detail": [],
-        "champions": [],
+        "champions": [
+            {
+                "id": "zaahen",
+                "name": "Zaahen",
+                "image": "tft16_zaahen.tft_set16.png"
+            }
+        ],
         "average_position": "2",
         "top_4_rate": "100",
         "top_1_rate": "33.33",
@@ -323,7 +560,13 @@
             "\n"
         ],
         "description_detail": [],
-        "champions": [],
+        "champions": [
+            {
+                "id": "ryze",
+                "name": "Ryze",
+                "image": "tft16_ryze.tft_set16.png"
+            }
+        ],
         "average_position": "2.89",
         "top_4_rate": "84.21",
         "top_1_rate": "26.32",
@@ -342,7 +585,13 @@
             "\n"
         ],
         "description_detail": [],
-        "champions": [],
+        "champions": [
+            {
+                "id": "galio",
+                "name": "Galio",
+                "image": "tft16_galio.tft_set16.png"
+            }
+        ],
         "average_position": "3.1",
         "top_4_rate": "80",
         "top_1_rate": "20.00",
@@ -370,7 +619,38 @@
                 "40% sát thương cộng thêm"
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "ekko",
+                "name": "Ekko",
+                "image": "tft16_ekko.tft_set16.png"
+            },
+            {
+                "id": "malzahar",
+                "name": "Malzahar",
+                "image": "tft16_malzahar.tft_set16.png"
+            },
+            {
+                "id": "gwen",
+                "name": "Gwen",
+                "image": "tft16_gwen.tft_set16.png"
+            },
+            {
+                "id": "seraphine",
+                "name": "Seraphine",
+                "image": "tft16_seraphine.tft_set16.png"
+            },
+            {
+                "id": "azir",
+                "name": "Azir",
+                "image": "tft16_azir.tft_set16.png"
+            },
+            {
+                "id": "mel",
+                "name": "Mel",
+                "image": "tft16_mel.tft_set16.png"
+            }
+        ],
         "average_position": "4",
         "top_4_rate": "80",
         "top_1_rate": "0.00",
@@ -414,7 +694,48 @@
                 "SV.png"
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "briar",
+                "name": "Briar",
+                "image": "tft16_briar.tft_set16.png"
+            },
+            {
+                "id": "qiyana",
+                "name": "Qiyana",
+                "image": "tft16_qiyana.tft_set16.png"
+            },
+            {
+                "id": "yasuo",
+                "name": "Yasuo",
+                "image": "tft16_yasuo.tft_set16.png"
+            },
+            {
+                "id": "tryndamere",
+                "name": "Tryndamere",
+                "image": "tft16_tryndamere.tft_set16.png"
+            },
+            {
+                "id": "gangplank",
+                "name": "Gangplank",
+                "image": "tft16_gangplank.tft_set16.png"
+            },
+            {
+                "id": "bel'veth",
+                "name": "Bel'Veth",
+                "image": "tft16_belveth.tft_set16.png"
+            },
+            {
+                "id": "yone",
+                "name": "Yone",
+                "image": "tft16_yone.tft_set16.png"
+            },
+            {
+                "id": "aatrox",
+                "name": "Aatrox",
+                "image": "tft16_aatrox.tft_set16.png"
+            }
+        ],
         "average_position": "3.8",
         "top_4_rate": "80",
         "top_1_rate": "0.00",
@@ -433,7 +754,13 @@
             "\n"
         ],
         "description_detail": [],
-        "champions": [],
+        "champions": [
+            {
+                "id": "baron_nashor",
+                "name": "Baron Nashor",
+                "image": "tft16_baronnashor.tft_set16.png"
+            }
+        ],
         "average_position": "2.67",
         "top_4_rate": "77.78",
         "top_1_rate": "33.33",
@@ -481,7 +808,48 @@
                 "CHIẾN ĐẤU!"
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "jarvan_iv",
+                "name": "Jarvan IV",
+                "image": "tft16_jarvaniv.tft_set16.png"
+            },
+            {
+                "id": "sona",
+                "name": "Sona",
+                "image": "tft16_sona.tft_set16.png"
+            },
+            {
+                "id": "poppy",
+                "name": "Poppy",
+                "image": "tft16_poppy.tft_set16.png"
+            },
+            {
+                "id": "xin_zhao",
+                "name": "Xin Zhao",
+                "image": "tft16_xinzhao.tft_set16.png"
+            },
+            {
+                "id": "vayne",
+                "name": "Vayne",
+                "image": "tft16_vayne.tft_set16.png"
+            },
+            {
+                "id": "garen",
+                "name": "Garen",
+                "image": "tft16_garen.tft_set16.png"
+            },
+            {
+                "id": "lux",
+                "name": "Lux",
+                "image": "tft16_lux.tft_set16.png"
+            },
+            {
+                "id": "galio",
+                "name": "Galio",
+                "image": "tft16_galio.tft_set16.png"
+            }
+        ],
         "average_position": "3.11",
         "top_4_rate": "77.78",
         "top_1_rate": "16.67",
@@ -525,7 +893,48 @@
                 "AS.png"
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "kog'maw",
+                "name": "Kog'Maw",
+                "image": "tft16_kogmaw.tft_set16.png"
+            },
+            {
+                "id": "rek'sai",
+                "name": "Rek'Sai",
+                "image": "tft16_reksai.tft_set16.png"
+            },
+            {
+                "id": "cho'gath",
+                "name": "Cho'Gath",
+                "image": "tft16_chogath.tft_set16.png"
+            },
+            {
+                "id": "malzahar",
+                "name": "Malzahar",
+                "image": "tft16_malzahar.tft_set16.png"
+            },
+            {
+                "id": "bel'veth",
+                "name": "Bel'Veth",
+                "image": "tft16_belveth.tft_set16.png"
+            },
+            {
+                "id": "su_gia_khe_nut",
+                "name": "Sứ Giả Khe Nứt",
+                "image": "tft16_riftherald_splash_tile_0.tft_set16.png"
+            },
+            {
+                "id": "kai'sa",
+                "name": "Kai'Sa",
+                "image": "tft16_kaisa.tft_set16.png"
+            },
+            {
+                "id": "baron_nashor",
+                "name": "Baron Nashor",
+                "image": "tft16_baronnashor.tft_set16.png"
+            }
+        ],
         "average_position": "2.67",
         "top_4_rate": "77.78",
         "top_1_rate": "33.33",
@@ -561,7 +970,38 @@
                 "và khai quật thêm báu vật."
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "qiyana",
+                "name": "Qiyana",
+                "image": "tft16_qiyana.tft_set16.png"
+            },
+            {
+                "id": "neeko",
+                "name": "Neeko",
+                "image": "tft16_neeko.tft_set16.png"
+            },
+            {
+                "id": "milio",
+                "name": "Milio",
+                "image": "tft16_milio.tft_set16.png"
+            },
+            {
+                "id": "nidalee",
+                "name": "Nidalee",
+                "image": "tft16_nidalee.tft_set16.png"
+            },
+            {
+                "id": "skarner",
+                "name": "Skarner",
+                "image": "tft16_skarner.tft_set16.png"
+            },
+            {
+                "id": "brock",
+                "name": "Brock",
+                "image": "tft16_brock_splash_tile_0.tft_set16.png"
+            }
+        ],
         "average_position": "3.54",
         "top_4_rate": "76.92",
         "top_1_rate": "7.69",
@@ -580,7 +1020,13 @@
             "\n"
         ],
         "description_detail": [],
-        "champions": [],
+        "champions": [
+            {
+                "id": "lucian_&_senna",
+                "name": "Lucian & Senna",
+                "image": "tft16_lucian.tft_set16.png"
+            }
+        ],
         "average_position": "3.1",
         "top_4_rate": "75.94",
         "top_1_rate": "27.82",
@@ -612,7 +1058,28 @@
                 "1 tướng Shurima thăng hoa thành THẦN mỗi 3 giây."
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "renekton",
+                "name": "Renekton",
+                "image": "tft16_renekton.tft_set16.png"
+            },
+            {
+                "id": "nasus",
+                "name": "Nasus",
+                "image": "tft16_nasus.tft_set16.png"
+            },
+            {
+                "id": "azir",
+                "name": "Azir",
+                "image": "tft16_azir.tft_set16.png"
+            },
+            {
+                "id": "xerath",
+                "name": "Xerath",
+                "image": "tft16_xerath.tft_set16.png"
+            }
+        ],
         "average_position": "3.13",
         "top_4_rate": "75",
         "top_1_rate": "25.00",
@@ -648,7 +1115,48 @@
                 "Thưởng Dung Hợp Với Shimmer tăng thêm 50%. Thời gian làm mới đổi thành 3 giây."
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "blitzcrank",
+                "name": "Blitzcrank",
+                "image": "tft16_blitzcrank.tft_set16.png"
+            },
+            {
+                "id": "vi",
+                "name": "Vi",
+                "image": "tft16_vi.tft_set16.png"
+            },
+            {
+                "id": "ekko",
+                "name": "Ekko",
+                "image": "tft16_ekko.tft_set16.png"
+            },
+            {
+                "id": "jinx",
+                "name": "Jinx",
+                "image": "tft16_jinx.tft_set16.png"
+            },
+            {
+                "id": "dr._mundo",
+                "name": "Dr. Mundo",
+                "image": "tft16_drmundo.tft_set16.png"
+            },
+            {
+                "id": "singed",
+                "name": "Singed",
+                "image": "tft16_singed.tft_set16.png"
+            },
+            {
+                "id": "warwick",
+                "name": "Warwick",
+                "image": "tft16_warwick.tft_set16.png"
+            },
+            {
+                "id": "ziggs",
+                "name": "Ziggs",
+                "image": "tft16_ziggs.tft_set16.png"
+            }
+        ],
         "average_position": "3.82",
         "top_4_rate": "72.73",
         "top_1_rate": "9.09",
@@ -683,7 +1191,53 @@
                 "Health.png"
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "illaoi",
+                "name": "Illaoi",
+                "image": "tft16_illaoi.tft_set16.png"
+            },
+            {
+                "id": "shen",
+                "name": "Shen",
+                "image": "tft16_shen.tft_set16.png"
+            },
+            {
+                "id": "sion",
+                "name": "Sion",
+                "image": "tft16_sion.tft_set16.png"
+            },
+            {
+                "id": "dr._mundo",
+                "name": "Dr. Mundo",
+                "image": "tft16_drmundo.tft_set16.png"
+            },
+            {
+                "id": "kobuko_&_yuumi",
+                "name": "Kobuko & Yuumi",
+                "image": "tft16_kobuko.tft_set16.png"
+            },
+            {
+                "id": "ngo_khong",
+                "name": "Ngộ Không",
+                "image": "tft16_wukong.tft_set16.png"
+            },
+            {
+                "id": "su_gia_khe_nut",
+                "name": "Sứ Giả Khe Nứt",
+                "image": "tft16_riftherald_splash_tile_0.tft_set16.png"
+            },
+            {
+                "id": "tahm_kench",
+                "name": "Tahm Kench",
+                "image": "tft16_tahmkench.tft_set16.png"
+            },
+            {
+                "id": "volibear",
+                "name": "Volibear",
+                "image": "tft16_volibear.tft_set16.png"
+            }
+        ],
         "average_position": "3.88",
         "top_4_rate": "72",
         "top_1_rate": "4.00",
@@ -713,7 +1267,18 @@
                 "chúng gây 100 sát thương phép lên 2 kẻ địch gần nhất."
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "aatrox",
+                "name": "Aatrox",
+                "image": "tft16_aatrox.tft_set16.png"
+            },
+            {
+                "id": "zaahen",
+                "name": "Zaahen",
+                "image": "tft16_zaahen.tft_set16.png"
+            }
+        ],
         "average_position": "3.86",
         "top_4_rate": "71.43",
         "top_1_rate": "14.29",
@@ -761,7 +1326,43 @@
                 "."
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "anivia",
+                "name": "Anivia",
+                "image": "tft16_anivia.tft_set16.png"
+            },
+            {
+                "id": "ashe",
+                "name": "Ashe",
+                "image": "tft16_ashe.tft_set16.png"
+            },
+            {
+                "id": "tryndamere",
+                "name": "Tryndamere",
+                "image": "tft16_tryndamere.tft_set16.png"
+            },
+            {
+                "id": "sejuani",
+                "name": "Sejuani",
+                "image": "tft16_sejuani.tft_set16.png"
+            },
+            {
+                "id": "braum",
+                "name": "Braum",
+                "image": "tft16_braum.tft_set16.png"
+            },
+            {
+                "id": "lissandra",
+                "name": "Lissandra",
+                "image": "tft16_lissandra.tft_set16.png"
+            },
+            {
+                "id": "volibear",
+                "name": "Volibear",
+                "image": "tft16_volibear.tft_set16.png"
+            }
+        ],
         "average_position": "2.71",
         "top_4_rate": "71.43",
         "top_1_rate": "42.86",
@@ -794,7 +1395,58 @@
                 "VÀ nhận 1 Gói Yordle mỗi vòng!"
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "lulu",
+                "name": "Lulu",
+                "image": "tft16_lulu.tft_set16.png"
+            },
+            {
+                "id": "rumble",
+                "name": "Rumble",
+                "image": "tft16_rumble.tft_set16.png"
+            },
+            {
+                "id": "tristana",
+                "name": "Tristana",
+                "image": "tft16_tristana.tft_set16.png"
+            },
+            {
+                "id": "teemo",
+                "name": "Teemo",
+                "image": "tft16_teemo.tft_set16.png"
+            },
+            {
+                "id": "poppy",
+                "name": "Poppy",
+                "image": "tft16_poppy.tft_set16.png"
+            },
+            {
+                "id": "kennen",
+                "name": "Kennen",
+                "image": "tft16_kennen.tft_set16.png"
+            },
+            {
+                "id": "kobuko_&_yuumi",
+                "name": "Kobuko & Yuumi",
+                "image": "tft16_kobuko.tft_set16.png"
+            },
+            {
+                "id": "veigar",
+                "name": "Veigar",
+                "image": "tft16_veigar.tft_set16.png"
+            },
+            {
+                "id": "fizz",
+                "name": "Fizz",
+                "image": "tft16_fizz.tft_set16.png"
+            },
+            {
+                "id": "ziggs",
+                "name": "Ziggs",
+                "image": "tft16_ziggs.tft_set16.png"
+            }
+        ],
         "average_position": "3.45",
         "top_4_rate": "71.05",
         "top_1_rate": "23.68",
@@ -812,7 +1464,13 @@
             "Khi thi triển, Shyvana thay thế kỹ năng của mình bằng Hơi Thở Của Rồng. Khi hóa hình, mọi đồng minh giảm 10% sát thương gánh chịu từ Kỹ Năng của kẻ địch."
         ],
         "description_detail": [],
-        "champions": [],
+        "champions": [
+            {
+                "id": "shyvana",
+                "name": "Shyvana",
+                "image": "tft16_shyvana.tft_set16.png"
+            }
+        ],
         "average_position": "3.27",
         "top_4_rate": "70.25",
         "top_1_rate": "25.62",
@@ -830,7 +1488,13 @@
             "Mỗi đòn đánh thứ ba từ Kindred lên cùng một kẻ địch gây 350% sát thương khi Sói cắn xé mục tiêu."
         ],
         "description_detail": [],
-        "champions": [],
+        "champions": [
+            {
+                "id": "kindred",
+                "name": "Kindred",
+                "image": "tft16_kindred.tft_set16.png"
+            }
+        ],
         "average_position": "3.29",
         "top_4_rate": "69.64",
         "top_1_rate": "22.32",
@@ -882,7 +1546,33 @@
                 "CritMult.png"
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "rek'sai",
+                "name": "Rek'Sai",
+                "image": "tft16_reksai.tft_set16.png"
+            },
+            {
+                "id": "gangplank",
+                "name": "Gangplank",
+                "image": "tft16_gangplank.tft_set16.png"
+            },
+            {
+                "id": "ambessa",
+                "name": "Ambessa",
+                "image": "tft16_ambessa.tft_set16.png"
+            },
+            {
+                "id": "kalista",
+                "name": "Kalista",
+                "image": "tft16_kalista.tft_set16.png"
+            },
+            {
+                "id": "fiddlesticks",
+                "name": "Fiddlesticks",
+                "image": "tft16_fiddlesticks.tft_set16.png"
+            }
+        ],
         "average_position": "3.23",
         "top_4_rate": "69.23",
         "top_1_rate": "23.08",
@@ -901,7 +1591,13 @@
             "\n"
         ],
         "description_detail": [],
-        "champions": [],
+        "champions": [
+            {
+                "id": "fiddlesticks",
+                "name": "Fiddlesticks",
+                "image": "tft16_fiddlesticks.tft_set16.png"
+            }
+        ],
         "average_position": "3.43",
         "top_4_rate": "68.7",
         "top_1_rate": "23.48",
@@ -923,7 +1619,13 @@
             "\n"
         ],
         "description_detail": [],
-        "champions": [],
+        "champions": [
+            {
+                "id": "tahm_kench",
+                "name": "Tahm Kench",
+                "image": "tft16_tahmkench.tft_set16.png"
+            }
+        ],
         "average_position": "3.55",
         "top_4_rate": "68.42",
         "top_1_rate": "26.32",
@@ -955,7 +1657,28 @@
                 "1 tướng Shurima thăng hoa thành THẦN mỗi 3 giây."
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "renekton",
+                "name": "Renekton",
+                "image": "tft16_renekton.tft_set16.png"
+            },
+            {
+                "id": "nasus",
+                "name": "Nasus",
+                "image": "tft16_nasus.tft_set16.png"
+            },
+            {
+                "id": "azir",
+                "name": "Azir",
+                "image": "tft16_azir.tft_set16.png"
+            },
+            {
+                "id": "xerath",
+                "name": "Xerath",
+                "image": "tft16_xerath.tft_set16.png"
+            }
+        ],
         "average_position": "3.52",
         "top_4_rate": "67.74",
         "top_1_rate": "16.13",
@@ -990,7 +1713,48 @@
                 "DR.png"
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "briar",
+                "name": "Briar",
+                "image": "tft16_briar.tft_set16.png"
+            },
+            {
+                "id": "blitzcrank",
+                "name": "Blitzcrank",
+                "image": "tft16_blitzcrank.tft_set16.png"
+            },
+            {
+                "id": "cho'gath",
+                "name": "Cho'Gath",
+                "image": "tft16_chogath.tft_set16.png"
+            },
+            {
+                "id": "poppy",
+                "name": "Poppy",
+                "image": "tft16_poppy.tft_set16.png"
+            },
+            {
+                "id": "nautilus",
+                "name": "Nautilus",
+                "image": "tft16_nautilus.tft_set16.png"
+            },
+            {
+                "id": "singed",
+                "name": "Singed",
+                "image": "tft16_singed.tft_set16.png"
+            },
+            {
+                "id": "swain",
+                "name": "Swain",
+                "image": "tft16_swain.tft_set16.png"
+            },
+            {
+                "id": "shyvana",
+                "name": "Shyvana",
+                "image": "tft16_shyvana.tft_set16.png"
+            }
+        ],
         "average_position": "3.61",
         "top_4_rate": "67",
         "top_1_rate": "22.00",
@@ -1018,7 +1782,38 @@
                 "40% sát thương cộng thêm"
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "ekko",
+                "name": "Ekko",
+                "image": "tft16_ekko.tft_set16.png"
+            },
+            {
+                "id": "malzahar",
+                "name": "Malzahar",
+                "image": "tft16_malzahar.tft_set16.png"
+            },
+            {
+                "id": "gwen",
+                "name": "Gwen",
+                "image": "tft16_gwen.tft_set16.png"
+            },
+            {
+                "id": "seraphine",
+                "name": "Seraphine",
+                "image": "tft16_seraphine.tft_set16.png"
+            },
+            {
+                "id": "azir",
+                "name": "Azir",
+                "image": "tft16_azir.tft_set16.png"
+            },
+            {
+                "id": "mel",
+                "name": "Mel",
+                "image": "tft16_mel.tft_set16.png"
+            }
+        ],
         "average_position": "3.54",
         "top_4_rate": "66.99",
         "top_1_rate": "21.36",
@@ -1036,7 +1831,13 @@
             "Azir triển khai 2 Lính Gác có thể được đặt ở bất cứ đâu trên chiến trận. Chúng chỉ đứng yên, không tấn công và sẽ biến mất nếu Azir bị hạ gục."
         ],
         "description_detail": [],
-        "champions": [],
+        "champions": [
+            {
+                "id": "azir",
+                "name": "Azir",
+                "image": "tft16_azir.tft_set16.png"
+            }
+        ],
         "average_position": "3.74",
         "top_4_rate": "66.67",
         "top_1_rate": "11.11",
@@ -1070,7 +1871,43 @@
                 "200 sát thương cộng thêm"
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "jhin",
+                "name": "Jhin",
+                "image": "tft16_jhin.tft_set16.png"
+            },
+            {
+                "id": "tristana",
+                "name": "Tristana",
+                "image": "tft16_tristana.tft_set16.png"
+            },
+            {
+                "id": "graves",
+                "name": "Graves",
+                "image": "tft16_graves.tft_set16.png"
+            },
+            {
+                "id": "jinx",
+                "name": "Jinx",
+                "image": "tft16_jinx.tft_set16.png"
+            },
+            {
+                "id": "miss_fortune",
+                "name": "Miss Fortune",
+                "image": "tft16_missfortune.tft_set16.png"
+            },
+            {
+                "id": "t-hex",
+                "name": "T-Hex",
+                "image": "tft16_thex.tft_set16.png"
+            },
+            {
+                "id": "lucian_&_senna",
+                "name": "Lucian & Senna",
+                "image": "tft16_lucian.tft_set16.png"
+            }
+        ],
         "average_position": "3.77",
         "top_4_rate": "66.67",
         "top_1_rate": "17.78",
@@ -1114,7 +1951,38 @@
                 "+ 5% mỗi Ô"
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "caitlyn",
+                "name": "Caitlyn",
+                "image": "tft16_caitlyn.tft_set16.png"
+            },
+            {
+                "id": "kog'maw",
+                "name": "Kog'Maw",
+                "image": "tft16_kogmaw.tft_set16.png"
+            },
+            {
+                "id": "teemo",
+                "name": "Teemo",
+                "image": "tft16_teemo.tft_set16.png"
+            },
+            {
+                "id": "vayne",
+                "name": "Vayne",
+                "image": "tft16_vayne.tft_set16.png"
+            },
+            {
+                "id": "kai'sa",
+                "name": "Kai'Sa",
+                "image": "tft16_kaisa.tft_set16.png"
+            },
+            {
+                "id": "ziggs",
+                "name": "Ziggs",
+                "image": "tft16_ziggs.tft_set16.png"
+            }
+        ],
         "average_position": "3.33",
         "top_4_rate": "66.67",
         "top_1_rate": "33.33",
@@ -1154,7 +2022,43 @@
                 "AS.png"
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "viego",
+                "name": "Viego",
+                "image": "tft16_viego.tft_set16.png"
+            },
+            {
+                "id": "twisted_fate",
+                "name": "Twisted Fate",
+                "image": "tft16_twistedfate.tft_set16.png"
+            },
+            {
+                "id": "ashe",
+                "name": "Ashe",
+                "image": "tft16_ashe.tft_set16.png"
+            },
+            {
+                "id": "draven",
+                "name": "Draven",
+                "image": "tft16_draven.tft_set16.png"
+            },
+            {
+                "id": "warwick",
+                "name": "Warwick",
+                "image": "tft16_warwick.tft_set16.png"
+            },
+            {
+                "id": "yunara",
+                "name": "Yunara",
+                "image": "tft16_yunara.tft_set16.png"
+            },
+            {
+                "id": "kindred",
+                "name": "Kindred",
+                "image": "tft16_kindred.tft_set16.png"
+            }
+        ],
         "average_position": "3.67",
         "top_4_rate": "66.67",
         "top_1_rate": "16.67",
@@ -1201,7 +2105,58 @@
                 "với tướng Pháp Sư"
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "lulu",
+                "name": "Lulu",
+                "image": "tft16_lulu.tft_set16.png"
+            },
+            {
+                "id": "kog'maw",
+                "name": "Kog'Maw",
+                "image": "tft16_kogmaw.tft_set16.png"
+            },
+            {
+                "id": "neeko",
+                "name": "Neeko",
+                "image": "tft16_neeko.tft_set16.png"
+            },
+            {
+                "id": "ahri",
+                "name": "Ahri",
+                "image": "tft16_ahri.tft_set16.png"
+            },
+            {
+                "id": "lux",
+                "name": "Lux",
+                "image": "tft16_lux.tft_set16.png"
+            },
+            {
+                "id": "veigar",
+                "name": "Veigar",
+                "image": "tft16_veigar.tft_set16.png"
+            },
+            {
+                "id": "swain",
+                "name": "Swain",
+                "image": "tft16_swain.tft_set16.png"
+            },
+            {
+                "id": "annie",
+                "name": "Annie",
+                "image": "tft16_annie.tft_set16.png"
+            },
+            {
+                "id": "sylas",
+                "name": "Sylas",
+                "image": "tft16_sylas.tft_set16.png"
+            },
+            {
+                "id": "tibbers",
+                "name": "Tibbers",
+                "image": "tft16_annietibbers.tft_set16.png"
+            }
+        ],
         "average_position": "3.87",
         "top_4_rate": "66.67",
         "top_1_rate": "0.00",
@@ -1245,7 +2200,48 @@
                 "AS.png"
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "kog'maw",
+                "name": "Kog'Maw",
+                "image": "tft16_kogmaw.tft_set16.png"
+            },
+            {
+                "id": "rek'sai",
+                "name": "Rek'Sai",
+                "image": "tft16_reksai.tft_set16.png"
+            },
+            {
+                "id": "cho'gath",
+                "name": "Cho'Gath",
+                "image": "tft16_chogath.tft_set16.png"
+            },
+            {
+                "id": "malzahar",
+                "name": "Malzahar",
+                "image": "tft16_malzahar.tft_set16.png"
+            },
+            {
+                "id": "bel'veth",
+                "name": "Bel'Veth",
+                "image": "tft16_belveth.tft_set16.png"
+            },
+            {
+                "id": "su_gia_khe_nut",
+                "name": "Sứ Giả Khe Nứt",
+                "image": "tft16_riftherald_splash_tile_0.tft_set16.png"
+            },
+            {
+                "id": "kai'sa",
+                "name": "Kai'Sa",
+                "image": "tft16_kaisa.tft_set16.png"
+            },
+            {
+                "id": "baron_nashor",
+                "name": "Baron Nashor",
+                "image": "tft16_baronnashor.tft_set16.png"
+            }
+        ],
         "average_position": "4.17",
         "top_4_rate": "66.67",
         "top_1_rate": "16.67",
@@ -1263,7 +2259,13 @@
             "Sau mỗi giao tranh, Bùa Thăng Hoa xuất hiện trong cửa hàng của bạn. Đây là các hiệu ứng mạnh mẽ có thể mua bằng vàng.?"
         ],
         "description_detail": [],
-        "champions": [],
+        "champions": [
+            {
+                "id": "xerath",
+                "name": "Xerath",
+                "image": "tft16_xerath.tft_set16.png"
+            }
+        ],
         "average_position": "3.11",
         "top_4_rate": "66.67",
         "top_1_rate": "11.11",
@@ -1296,7 +2298,58 @@
                 "VÀ nhận 1 Gói Yordle mỗi vòng!"
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "lulu",
+                "name": "Lulu",
+                "image": "tft16_lulu.tft_set16.png"
+            },
+            {
+                "id": "rumble",
+                "name": "Rumble",
+                "image": "tft16_rumble.tft_set16.png"
+            },
+            {
+                "id": "tristana",
+                "name": "Tristana",
+                "image": "tft16_tristana.tft_set16.png"
+            },
+            {
+                "id": "teemo",
+                "name": "Teemo",
+                "image": "tft16_teemo.tft_set16.png"
+            },
+            {
+                "id": "poppy",
+                "name": "Poppy",
+                "image": "tft16_poppy.tft_set16.png"
+            },
+            {
+                "id": "kennen",
+                "name": "Kennen",
+                "image": "tft16_kennen.tft_set16.png"
+            },
+            {
+                "id": "kobuko_&_yuumi",
+                "name": "Kobuko & Yuumi",
+                "image": "tft16_kobuko.tft_set16.png"
+            },
+            {
+                "id": "veigar",
+                "name": "Veigar",
+                "image": "tft16_veigar.tft_set16.png"
+            },
+            {
+                "id": "fizz",
+                "name": "Fizz",
+                "image": "tft16_fizz.tft_set16.png"
+            },
+            {
+                "id": "ziggs",
+                "name": "Ziggs",
+                "image": "tft16_ziggs.tft_set16.png"
+            }
+        ],
         "average_position": "3.76",
         "top_4_rate": "66.67",
         "top_1_rate": "15.15",
@@ -1326,7 +2379,18 @@
                 "chúng gây 100 sát thương phép lên 2 kẻ địch gần nhất."
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "aatrox",
+                "name": "Aatrox",
+                "image": "tft16_aatrox.tft_set16.png"
+            },
+            {
+                "id": "zaahen",
+                "name": "Zaahen",
+                "image": "tft16_zaahen.tft_set16.png"
+            }
+        ],
         "average_position": "3.77",
         "top_4_rate": "66.04",
         "top_1_rate": "16.98",
@@ -1378,7 +2442,48 @@
                 "KHAI HỎA!"
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "illaoi",
+                "name": "Illaoi",
+                "image": "tft16_illaoi.tft_set16.png"
+            },
+            {
+                "id": "twisted_fate",
+                "name": "Twisted Fate",
+                "image": "tft16_twistedfate.tft_set16.png"
+            },
+            {
+                "id": "graves",
+                "name": "Graves",
+                "image": "tft16_graves.tft_set16.png"
+            },
+            {
+                "id": "nautilus",
+                "name": "Nautilus",
+                "image": "tft16_nautilus.tft_set16.png"
+            },
+            {
+                "id": "gangplank",
+                "name": "Gangplank",
+                "image": "tft16_gangplank.tft_set16.png"
+            },
+            {
+                "id": "miss_fortune",
+                "name": "Miss Fortune",
+                "image": "tft16_missfortune.tft_set16.png"
+            },
+            {
+                "id": "fizz",
+                "name": "Fizz",
+                "image": "tft16_fizz.tft_set16.png"
+            },
+            {
+                "id": "tahm_kench",
+                "name": "Tahm Kench",
+                "image": "tft16_tahmkench.tft_set16.png"
+            }
+        ],
         "average_position": "3.78",
         "top_4_rate": "65.63",
         "top_1_rate": "18.75",
@@ -1430,7 +2535,48 @@
                 "KHAI HỎA!"
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "illaoi",
+                "name": "Illaoi",
+                "image": "tft16_illaoi.tft_set16.png"
+            },
+            {
+                "id": "twisted_fate",
+                "name": "Twisted Fate",
+                "image": "tft16_twistedfate.tft_set16.png"
+            },
+            {
+                "id": "graves",
+                "name": "Graves",
+                "image": "tft16_graves.tft_set16.png"
+            },
+            {
+                "id": "nautilus",
+                "name": "Nautilus",
+                "image": "tft16_nautilus.tft_set16.png"
+            },
+            {
+                "id": "gangplank",
+                "name": "Gangplank",
+                "image": "tft16_gangplank.tft_set16.png"
+            },
+            {
+                "id": "miss_fortune",
+                "name": "Miss Fortune",
+                "image": "tft16_missfortune.tft_set16.png"
+            },
+            {
+                "id": "fizz",
+                "name": "Fizz",
+                "image": "tft16_fizz.tft_set16.png"
+            },
+            {
+                "id": "tahm_kench",
+                "name": "Tahm Kench",
+                "image": "tft16_tahmkench.tft_set16.png"
+            }
+        ],
         "average_position": "4",
         "top_4_rate": "63.64",
         "top_1_rate": "18.18",
@@ -1462,7 +2608,38 @@
                 "Chọn Mô-đun Thứ Ba"
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "caitlyn",
+                "name": "Caitlyn",
+                "image": "tft16_caitlyn.tft_set16.png"
+            },
+            {
+                "id": "vi",
+                "name": "Vi",
+                "image": "tft16_vi.tft_set16.png"
+            },
+            {
+                "id": "orianna",
+                "name": "Orianna",
+                "image": "tft16_orianna.tft_set16.png"
+            },
+            {
+                "id": "loris",
+                "name": "Loris",
+                "image": "tft16_loris.tft_set16.png"
+            },
+            {
+                "id": "seraphine",
+                "name": "Seraphine",
+                "image": "tft16_seraphine.tft_set16.png"
+            },
+            {
+                "id": "t-hex",
+                "name": "T-Hex",
+                "image": "tft16_thex.tft_set16.png"
+            }
+        ],
         "average_position": "3.79",
         "top_4_rate": "63.46",
         "top_1_rate": "16.67",
@@ -1490,7 +2667,48 @@
                 "Thêm 40% Năng Lượng nữa"
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "sona",
+                "name": "Sona",
+                "image": "tft16_sona.tft_set16.png"
+            },
+            {
+                "id": "anivia",
+                "name": "Anivia",
+                "image": "tft16_anivia.tft_set16.png"
+            },
+            {
+                "id": "orianna",
+                "name": "Orianna",
+                "image": "tft16_orianna.tft_set16.png"
+            },
+            {
+                "id": "milio",
+                "name": "Milio",
+                "image": "tft16_milio.tft_set16.png"
+            },
+            {
+                "id": "leblanc",
+                "name": "LeBlanc",
+                "image": "tft16_leblanc.tft_set16.png"
+            },
+            {
+                "id": "kobuko_&_yuumi",
+                "name": "Kobuko & Yuumi",
+                "image": "tft16_kobuko.tft_set16.png"
+            },
+            {
+                "id": "lissandra",
+                "name": "Lissandra",
+                "image": "tft16_lissandra.tft_set16.png"
+            },
+            {
+                "id": "zilean",
+                "name": "Zilean",
+                "image": "tft16_zilean.tft_set16.png"
+            }
+        ],
         "average_position": "4.06",
         "top_4_rate": "63.22",
         "top_1_rate": "12.64",
@@ -1520,7 +2738,13 @@
             "\n"
         ],
         "description_detail": [],
-        "champions": [],
+        "champions": [
+            {
+                "id": "t-hex",
+                "name": "T-Hex",
+                "image": "tft16_thex.tft_set16.png"
+            }
+        ],
         "average_position": "4.13",
         "top_4_rate": "62.5",
         "top_1_rate": "0.00",
@@ -1564,7 +2788,38 @@
                 "+ 5% mỗi Ô"
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "caitlyn",
+                "name": "Caitlyn",
+                "image": "tft16_caitlyn.tft_set16.png"
+            },
+            {
+                "id": "kog'maw",
+                "name": "Kog'Maw",
+                "image": "tft16_kogmaw.tft_set16.png"
+            },
+            {
+                "id": "teemo",
+                "name": "Teemo",
+                "image": "tft16_teemo.tft_set16.png"
+            },
+            {
+                "id": "vayne",
+                "name": "Vayne",
+                "image": "tft16_vayne.tft_set16.png"
+            },
+            {
+                "id": "kai'sa",
+                "name": "Kai'Sa",
+                "image": "tft16_kaisa.tft_set16.png"
+            },
+            {
+                "id": "ziggs",
+                "name": "Ziggs",
+                "image": "tft16_ziggs.tft_set16.png"
+            }
+        ],
         "average_position": "3.71",
         "top_4_rate": "62.5",
         "top_1_rate": "19.64",
@@ -1611,7 +2866,58 @@
                 "với tướng Pháp Sư"
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "lulu",
+                "name": "Lulu",
+                "image": "tft16_lulu.tft_set16.png"
+            },
+            {
+                "id": "kog'maw",
+                "name": "Kog'Maw",
+                "image": "tft16_kogmaw.tft_set16.png"
+            },
+            {
+                "id": "neeko",
+                "name": "Neeko",
+                "image": "tft16_neeko.tft_set16.png"
+            },
+            {
+                "id": "ahri",
+                "name": "Ahri",
+                "image": "tft16_ahri.tft_set16.png"
+            },
+            {
+                "id": "lux",
+                "name": "Lux",
+                "image": "tft16_lux.tft_set16.png"
+            },
+            {
+                "id": "veigar",
+                "name": "Veigar",
+                "image": "tft16_veigar.tft_set16.png"
+            },
+            {
+                "id": "swain",
+                "name": "Swain",
+                "image": "tft16_swain.tft_set16.png"
+            },
+            {
+                "id": "annie",
+                "name": "Annie",
+                "image": "tft16_annie.tft_set16.png"
+            },
+            {
+                "id": "sylas",
+                "name": "Sylas",
+                "image": "tft16_sylas.tft_set16.png"
+            },
+            {
+                "id": "tibbers",
+                "name": "Tibbers",
+                "image": "tft16_annietibbers.tft_set16.png"
+            }
+        ],
         "average_position": "3.86",
         "top_4_rate": "62.18",
         "top_1_rate": "20.17",
@@ -1633,7 +2939,13 @@
             "\n"
         ],
         "description_detail": [],
-        "champions": [],
+        "champions": [
+            {
+                "id": "zilean",
+                "name": "Zilean",
+                "image": "tft16_zilean.tft_set16.png"
+            }
+        ],
         "average_position": "3.79",
         "top_4_rate": "61.7",
         "top_1_rate": "19.15",
@@ -1673,7 +2985,43 @@
                 "AS.png"
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "viego",
+                "name": "Viego",
+                "image": "tft16_viego.tft_set16.png"
+            },
+            {
+                "id": "twisted_fate",
+                "name": "Twisted Fate",
+                "image": "tft16_twistedfate.tft_set16.png"
+            },
+            {
+                "id": "ashe",
+                "name": "Ashe",
+                "image": "tft16_ashe.tft_set16.png"
+            },
+            {
+                "id": "draven",
+                "name": "Draven",
+                "image": "tft16_draven.tft_set16.png"
+            },
+            {
+                "id": "warwick",
+                "name": "Warwick",
+                "image": "tft16_warwick.tft_set16.png"
+            },
+            {
+                "id": "yunara",
+                "name": "Yunara",
+                "image": "tft16_yunara.tft_set16.png"
+            },
+            {
+                "id": "kindred",
+                "name": "Kindred",
+                "image": "tft16_kindred.tft_set16.png"
+            }
+        ],
         "average_position": "3.87",
         "top_4_rate": "61.69",
         "top_1_rate": "15.58",
@@ -1711,7 +3059,48 @@
                 "TÀN PHÁ."
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "briar",
+                "name": "Briar",
+                "image": "tft16_briar.tft_set16.png"
+            },
+            {
+                "id": "sion",
+                "name": "Sion",
+                "image": "tft16_sion.tft_set16.png"
+            },
+            {
+                "id": "draven",
+                "name": "Draven",
+                "image": "tft16_draven.tft_set16.png"
+            },
+            {
+                "id": "darius",
+                "name": "Darius",
+                "image": "tft16_darius.tft_set16.png"
+            },
+            {
+                "id": "leblanc",
+                "name": "LeBlanc",
+                "image": "tft16_leblanc.tft_set16.png"
+            },
+            {
+                "id": "ambessa",
+                "name": "Ambessa",
+                "image": "tft16_ambessa.tft_set16.png"
+            },
+            {
+                "id": "swain",
+                "name": "Swain",
+                "image": "tft16_swain.tft_set16.png"
+            },
+            {
+                "id": "mel",
+                "name": "Mel",
+                "image": "tft16_mel.tft_set16.png"
+            }
+        ],
         "average_position": "3.93",
         "top_4_rate": "61.43",
         "top_1_rate": "18.57",
@@ -1733,7 +3122,13 @@
             "\n"
         ],
         "description_detail": [],
-        "champions": [],
+        "champions": [
+            {
+                "id": "ornn",
+                "name": "Ornn",
+                "image": "tft16_ornn.tft_set16.png"
+            }
+        ],
         "average_position": "3.82",
         "top_4_rate": "60.29",
         "top_1_rate": "19.85",
@@ -1768,7 +3163,53 @@
                 "Health.png"
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "illaoi",
+                "name": "Illaoi",
+                "image": "tft16_illaoi.tft_set16.png"
+            },
+            {
+                "id": "shen",
+                "name": "Shen",
+                "image": "tft16_shen.tft_set16.png"
+            },
+            {
+                "id": "sion",
+                "name": "Sion",
+                "image": "tft16_sion.tft_set16.png"
+            },
+            {
+                "id": "dr._mundo",
+                "name": "Dr. Mundo",
+                "image": "tft16_drmundo.tft_set16.png"
+            },
+            {
+                "id": "kobuko_&_yuumi",
+                "name": "Kobuko & Yuumi",
+                "image": "tft16_kobuko.tft_set16.png"
+            },
+            {
+                "id": "ngo_khong",
+                "name": "Ngộ Không",
+                "image": "tft16_wukong.tft_set16.png"
+            },
+            {
+                "id": "su_gia_khe_nut",
+                "name": "Sứ Giả Khe Nứt",
+                "image": "tft16_riftherald_splash_tile_0.tft_set16.png"
+            },
+            {
+                "id": "tahm_kench",
+                "name": "Tahm Kench",
+                "image": "tft16_tahmkench.tft_set16.png"
+            },
+            {
+                "id": "volibear",
+                "name": "Volibear",
+                "image": "tft16_volibear.tft_set16.png"
+            }
+        ],
         "average_position": "3.95",
         "top_4_rate": "60.24",
         "top_1_rate": "17.47",
@@ -1802,7 +3243,43 @@
                 "200 sát thương cộng thêm"
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "jhin",
+                "name": "Jhin",
+                "image": "tft16_jhin.tft_set16.png"
+            },
+            {
+                "id": "tristana",
+                "name": "Tristana",
+                "image": "tft16_tristana.tft_set16.png"
+            },
+            {
+                "id": "graves",
+                "name": "Graves",
+                "image": "tft16_graves.tft_set16.png"
+            },
+            {
+                "id": "jinx",
+                "name": "Jinx",
+                "image": "tft16_jinx.tft_set16.png"
+            },
+            {
+                "id": "miss_fortune",
+                "name": "Miss Fortune",
+                "image": "tft16_missfortune.tft_set16.png"
+            },
+            {
+                "id": "t-hex",
+                "name": "T-Hex",
+                "image": "tft16_thex.tft_set16.png"
+            },
+            {
+                "id": "lucian_&_senna",
+                "name": "Lucian & Senna",
+                "image": "tft16_lucian.tft_set16.png"
+            }
+        ],
         "average_position": "4.4",
         "top_4_rate": "60",
         "top_1_rate": "0.00",
@@ -1830,7 +3307,48 @@
                 "Thêm 40% Năng Lượng nữa"
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "sona",
+                "name": "Sona",
+                "image": "tft16_sona.tft_set16.png"
+            },
+            {
+                "id": "anivia",
+                "name": "Anivia",
+                "image": "tft16_anivia.tft_set16.png"
+            },
+            {
+                "id": "orianna",
+                "name": "Orianna",
+                "image": "tft16_orianna.tft_set16.png"
+            },
+            {
+                "id": "milio",
+                "name": "Milio",
+                "image": "tft16_milio.tft_set16.png"
+            },
+            {
+                "id": "leblanc",
+                "name": "LeBlanc",
+                "image": "tft16_leblanc.tft_set16.png"
+            },
+            {
+                "id": "kobuko_&_yuumi",
+                "name": "Kobuko & Yuumi",
+                "image": "tft16_kobuko.tft_set16.png"
+            },
+            {
+                "id": "lissandra",
+                "name": "Lissandra",
+                "image": "tft16_lissandra.tft_set16.png"
+            },
+            {
+                "id": "zilean",
+                "name": "Zilean",
+                "image": "tft16_zilean.tft_set16.png"
+            }
+        ],
         "average_position": "3.7",
         "top_4_rate": "60",
         "top_1_rate": "25.00",
@@ -1848,7 +3366,13 @@
             "Sylas luân chuyển giữa 3 kỹ năng khác nhau, tùy theo kỹ năng nào hữu dụng nhất vào thời điểm đó. Hắn không thể tung liên tiếp 2 lần cùng một kỹ năng."
         ],
         "description_detail": [],
-        "champions": [],
+        "champions": [
+            {
+                "id": "sylas",
+                "name": "Sylas",
+                "image": "tft16_sylas.tft_set16.png"
+            }
+        ],
         "average_position": "3.74",
         "top_4_rate": "60",
         "top_1_rate": "17.14",
@@ -1866,7 +3390,13 @@
             "Annie triệu hồi Tibbers lên hàng chờ của bạn. Bạn có thể triển khai chú, chiếm 1 vị trí đội hình và mang trang bị riêng biệt. Cấp sao của chú bằng với Annie."
         ],
         "description_detail": [],
-        "champions": [],
+        "champions": [
+            {
+                "id": "annie",
+                "name": "Annie",
+                "image": "tft16_annie.tft_set16.png"
+            }
+        ],
         "average_position": "4.09",
         "top_4_rate": "59.57",
         "top_1_rate": "12.77",
@@ -1904,7 +3434,53 @@
                 "MR.png"
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "rumble",
+                "name": "Rumble",
+                "image": "tft16_rumble.tft_set16.png"
+            },
+            {
+                "id": "jarvan_iv",
+                "name": "Jarvan IV",
+                "image": "tft16_jarvaniv.tft_set16.png"
+            },
+            {
+                "id": "neeko",
+                "name": "Neeko",
+                "image": "tft16_neeko.tft_set16.png"
+            },
+            {
+                "id": "vi",
+                "name": "Vi",
+                "image": "tft16_vi.tft_set16.png"
+            },
+            {
+                "id": "sejuani",
+                "name": "Sejuani",
+                "image": "tft16_sejuani.tft_set16.png"
+            },
+            {
+                "id": "darius",
+                "name": "Darius",
+                "image": "tft16_darius.tft_set16.png"
+            },
+            {
+                "id": "kennen",
+                "name": "Kennen",
+                "image": "tft16_kennen.tft_set16.png"
+            },
+            {
+                "id": "garen",
+                "name": "Garen",
+                "image": "tft16_garen.tft_set16.png"
+            },
+            {
+                "id": "sylas",
+                "name": "Sylas",
+                "image": "tft16_sylas.tft_set16.png"
+            }
+        ],
         "average_position": "4.04",
         "top_4_rate": "59.26",
         "top_1_rate": "15.56",
@@ -1944,7 +3520,43 @@
                 "Health.png"
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "xin_zhao",
+                "name": "Xin Zhao",
+                "image": "tft16_xinzhao.tft_set16.png"
+            },
+            {
+                "id": "yorick",
+                "name": "Yorick",
+                "image": "tft16_yorick.tft_set16.png"
+            },
+            {
+                "id": "nautilus",
+                "name": "Nautilus",
+                "image": "tft16_nautilus.tft_set16.png"
+            },
+            {
+                "id": "loris",
+                "name": "Loris",
+                "image": "tft16_loris.tft_set16.png"
+            },
+            {
+                "id": "braum",
+                "name": "Braum",
+                "image": "tft16_braum.tft_set16.png"
+            },
+            {
+                "id": "ornn",
+                "name": "Ornn",
+                "image": "tft16_ornn.tft_set16.png"
+            },
+            {
+                "id": "thresh",
+                "name": "Thresh",
+                "image": "tft16_thresh.tft_set16.png"
+            }
+        ],
         "average_position": "4",
         "top_4_rate": "58.33",
         "top_1_rate": "13.89",
@@ -1963,7 +3575,13 @@
             "\n"
         ],
         "description_detail": [],
-        "champions": [],
+        "champions": [
+            {
+                "id": "sett",
+                "name": "Sett",
+                "image": "tft16_sett.tft_set16.png"
+            }
+        ],
         "average_position": "3.48",
         "top_4_rate": "58",
         "top_1_rate": "26.00",
@@ -2003,7 +3621,43 @@
                 "Health.png"
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "xin_zhao",
+                "name": "Xin Zhao",
+                "image": "tft16_xinzhao.tft_set16.png"
+            },
+            {
+                "id": "yorick",
+                "name": "Yorick",
+                "image": "tft16_yorick.tft_set16.png"
+            },
+            {
+                "id": "nautilus",
+                "name": "Nautilus",
+                "image": "tft16_nautilus.tft_set16.png"
+            },
+            {
+                "id": "loris",
+                "name": "Loris",
+                "image": "tft16_loris.tft_set16.png"
+            },
+            {
+                "id": "braum",
+                "name": "Braum",
+                "image": "tft16_braum.tft_set16.png"
+            },
+            {
+                "id": "ornn",
+                "name": "Ornn",
+                "image": "tft16_ornn.tft_set16.png"
+            },
+            {
+                "id": "thresh",
+                "name": "Thresh",
+                "image": "tft16_thresh.tft_set16.png"
+            }
+        ],
         "average_position": "4.06",
         "top_4_rate": "57.58",
         "top_1_rate": "14.39",
@@ -2041,7 +3695,53 @@
                 "MR.png"
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "rumble",
+                "name": "Rumble",
+                "image": "tft16_rumble.tft_set16.png"
+            },
+            {
+                "id": "jarvan_iv",
+                "name": "Jarvan IV",
+                "image": "tft16_jarvaniv.tft_set16.png"
+            },
+            {
+                "id": "neeko",
+                "name": "Neeko",
+                "image": "tft16_neeko.tft_set16.png"
+            },
+            {
+                "id": "vi",
+                "name": "Vi",
+                "image": "tft16_vi.tft_set16.png"
+            },
+            {
+                "id": "sejuani",
+                "name": "Sejuani",
+                "image": "tft16_sejuani.tft_set16.png"
+            },
+            {
+                "id": "darius",
+                "name": "Darius",
+                "image": "tft16_darius.tft_set16.png"
+            },
+            {
+                "id": "kennen",
+                "name": "Kennen",
+                "image": "tft16_kennen.tft_set16.png"
+            },
+            {
+                "id": "garen",
+                "name": "Garen",
+                "image": "tft16_garen.tft_set16.png"
+            },
+            {
+                "id": "sylas",
+                "name": "Sylas",
+                "image": "tft16_sylas.tft_set16.png"
+            }
+        ],
         "average_position": "4.14",
         "top_4_rate": "57.14",
         "top_1_rate": "14.29",
@@ -2079,7 +3779,48 @@
                 "TÀN PHÁ."
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "briar",
+                "name": "Briar",
+                "image": "tft16_briar.tft_set16.png"
+            },
+            {
+                "id": "sion",
+                "name": "Sion",
+                "image": "tft16_sion.tft_set16.png"
+            },
+            {
+                "id": "draven",
+                "name": "Draven",
+                "image": "tft16_draven.tft_set16.png"
+            },
+            {
+                "id": "darius",
+                "name": "Darius",
+                "image": "tft16_darius.tft_set16.png"
+            },
+            {
+                "id": "leblanc",
+                "name": "LeBlanc",
+                "image": "tft16_leblanc.tft_set16.png"
+            },
+            {
+                "id": "ambessa",
+                "name": "Ambessa",
+                "image": "tft16_ambessa.tft_set16.png"
+            },
+            {
+                "id": "swain",
+                "name": "Swain",
+                "image": "tft16_swain.tft_set16.png"
+            },
+            {
+                "id": "mel",
+                "name": "Mel",
+                "image": "tft16_mel.tft_set16.png"
+            }
+        ],
         "average_position": "4.07",
         "top_4_rate": "57.14",
         "top_1_rate": "14.29",
@@ -2129,7 +3870,58 @@
                 "AP.png"
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "shen",
+                "name": "Shen",
+                "image": "tft16_shen.tft_set16.png"
+            },
+            {
+                "id": "jhin",
+                "name": "Jhin",
+                "image": "tft16_jhin.tft_set16.png"
+            },
+            {
+                "id": "yasuo",
+                "name": "Yasuo",
+                "image": "tft16_yasuo.tft_set16.png"
+            },
+            {
+                "id": "xin_zhao",
+                "name": "Xin Zhao",
+                "image": "tft16_xinzhao.tft_set16.png"
+            },
+            {
+                "id": "ahri",
+                "name": "Ahri",
+                "image": "tft16_ahri.tft_set16.png"
+            },
+            {
+                "id": "kennen",
+                "name": "Kennen",
+                "image": "tft16_kennen.tft_set16.png"
+            },
+            {
+                "id": "ngo_khong",
+                "name": "Ngộ Không",
+                "image": "tft16_wukong.tft_set16.png"
+            },
+            {
+                "id": "yone",
+                "name": "Yone",
+                "image": "tft16_yone.tft_set16.png"
+            },
+            {
+                "id": "yunara",
+                "name": "Yunara",
+                "image": "tft16_yunara.tft_set16.png"
+            },
+            {
+                "id": "sett",
+                "name": "Sett",
+                "image": "tft16_sett.tft_set16.png"
+            }
+        ],
         "average_position": "4.11",
         "top_4_rate": "56.6",
         "top_1_rate": "11.32",
@@ -2177,7 +3969,43 @@
                 "."
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "anivia",
+                "name": "Anivia",
+                "image": "tft16_anivia.tft_set16.png"
+            },
+            {
+                "id": "ashe",
+                "name": "Ashe",
+                "image": "tft16_ashe.tft_set16.png"
+            },
+            {
+                "id": "tryndamere",
+                "name": "Tryndamere",
+                "image": "tft16_tryndamere.tft_set16.png"
+            },
+            {
+                "id": "sejuani",
+                "name": "Sejuani",
+                "image": "tft16_sejuani.tft_set16.png"
+            },
+            {
+                "id": "braum",
+                "name": "Braum",
+                "image": "tft16_braum.tft_set16.png"
+            },
+            {
+                "id": "lissandra",
+                "name": "Lissandra",
+                "image": "tft16_lissandra.tft_set16.png"
+            },
+            {
+                "id": "volibear",
+                "name": "Volibear",
+                "image": "tft16_volibear.tft_set16.png"
+            }
+        ],
         "average_position": "4.11",
         "top_4_rate": "56.12",
         "top_1_rate": "13.27",
@@ -2217,7 +4045,43 @@
                 "Health.png"
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "xin_zhao",
+                "name": "Xin Zhao",
+                "image": "tft16_xinzhao.tft_set16.png"
+            },
+            {
+                "id": "yorick",
+                "name": "Yorick",
+                "image": "tft16_yorick.tft_set16.png"
+            },
+            {
+                "id": "nautilus",
+                "name": "Nautilus",
+                "image": "tft16_nautilus.tft_set16.png"
+            },
+            {
+                "id": "loris",
+                "name": "Loris",
+                "image": "tft16_loris.tft_set16.png"
+            },
+            {
+                "id": "braum",
+                "name": "Braum",
+                "image": "tft16_braum.tft_set16.png"
+            },
+            {
+                "id": "ornn",
+                "name": "Ornn",
+                "image": "tft16_ornn.tft_set16.png"
+            },
+            {
+                "id": "thresh",
+                "name": "Thresh",
+                "image": "tft16_thresh.tft_set16.png"
+            }
+        ],
         "average_position": "3.67",
         "top_4_rate": "55.56",
         "top_1_rate": "33.33",
@@ -2235,7 +4099,38 @@
             "Tướng Targon được nhào nặn bởi các tinh tú. Họ không mang tộc/hệ, nhưng mạnh hơn tướng thông thường."
         ],
         "description_detail": [],
-        "champions": [],
+        "champions": [
+            {
+                "id": "aphelios",
+                "name": "Aphelios",
+                "image": "tft16_aphelios.tft_set16.png"
+            },
+            {
+                "id": "zoe",
+                "name": "Zoe",
+                "image": "tft16_zoe.tft_set16.png"
+            },
+            {
+                "id": "leona",
+                "name": "Leona",
+                "image": "tft16_leona.tft_set16.png"
+            },
+            {
+                "id": "taric",
+                "name": "Taric",
+                "image": "tft16_taric.tft_set16.png"
+            },
+            {
+                "id": "diana",
+                "name": "Diana",
+                "image": "tft16_diana.tft_set16.png"
+            },
+            {
+                "id": "aurelion_sol",
+                "name": "Aurelion Sol",
+                "image": "tft16_aurelionsol.tft_set16.png"
+            }
+        ],
         "average_position": "4.28",
         "top_4_rate": "55.38",
         "top_1_rate": "11.28",
@@ -2253,7 +4148,13 @@
             "Khi Neeko mạnh nhất của bạn còn sống, Nidalee mạnh nhất của bạn không thể bị chọn mục tiêu bởi đòn đánh thường và nhận 50% Chống Chịu."
         ],
         "description_detail": [],
-        "champions": [],
+        "champions": [
+            {
+                "id": "nidalee",
+                "name": "Nidalee",
+                "image": "tft16_nidalee.tft_set16.png"
+            }
+        ],
         "average_position": "4.5",
         "top_4_rate": "54.55",
         "top_1_rate": "4.55",
@@ -2300,7 +4201,58 @@
                 "với tướng Pháp Sư"
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "lulu",
+                "name": "Lulu",
+                "image": "tft16_lulu.tft_set16.png"
+            },
+            {
+                "id": "kog'maw",
+                "name": "Kog'Maw",
+                "image": "tft16_kogmaw.tft_set16.png"
+            },
+            {
+                "id": "neeko",
+                "name": "Neeko",
+                "image": "tft16_neeko.tft_set16.png"
+            },
+            {
+                "id": "ahri",
+                "name": "Ahri",
+                "image": "tft16_ahri.tft_set16.png"
+            },
+            {
+                "id": "lux",
+                "name": "Lux",
+                "image": "tft16_lux.tft_set16.png"
+            },
+            {
+                "id": "veigar",
+                "name": "Veigar",
+                "image": "tft16_veigar.tft_set16.png"
+            },
+            {
+                "id": "swain",
+                "name": "Swain",
+                "image": "tft16_swain.tft_set16.png"
+            },
+            {
+                "id": "annie",
+                "name": "Annie",
+                "image": "tft16_annie.tft_set16.png"
+            },
+            {
+                "id": "sylas",
+                "name": "Sylas",
+                "image": "tft16_sylas.tft_set16.png"
+            },
+            {
+                "id": "tibbers",
+                "name": "Tibbers",
+                "image": "tft16_annietibbers.tft_set16.png"
+            }
+        ],
         "average_position": "4.05",
         "top_4_rate": "54.55",
         "top_1_rate": "18.18",
@@ -2352,7 +4304,33 @@
                 "CritMult.png"
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "rek'sai",
+                "name": "Rek'Sai",
+                "image": "tft16_reksai.tft_set16.png"
+            },
+            {
+                "id": "gangplank",
+                "name": "Gangplank",
+                "image": "tft16_gangplank.tft_set16.png"
+            },
+            {
+                "id": "ambessa",
+                "name": "Ambessa",
+                "image": "tft16_ambessa.tft_set16.png"
+            },
+            {
+                "id": "kalista",
+                "name": "Kalista",
+                "image": "tft16_kalista.tft_set16.png"
+            },
+            {
+                "id": "fiddlesticks",
+                "name": "Fiddlesticks",
+                "image": "tft16_fiddlesticks.tft_set16.png"
+            }
+        ],
         "average_position": "4.1",
         "top_4_rate": "52.78",
         "top_1_rate": "18.06",
@@ -2370,7 +4348,13 @@
             "Kỹ năng của Kai'Sa sẽ thay đổi tùy vào việc Sức Mạnh Công Kích hay Sức Mạnh Phép Thuật đang cao hơn."
         ],
         "description_detail": [],
-        "champions": [],
+        "champions": [
+            {
+                "id": "kai'sa",
+                "name": "Kai'Sa",
+                "image": "tft16_kaisa.tft_set16.png"
+            }
+        ],
         "average_position": "4.24",
         "top_4_rate": "52.63",
         "top_1_rate": "13.16",
@@ -2389,7 +4373,13 @@
             "\n"
         ],
         "description_detail": [],
-        "champions": [],
+        "champions": [
+            {
+                "id": "bard",
+                "name": "Bard",
+                "image": "tft16_bard.tft_set16.png"
+            }
+        ],
         "average_position": "4.72",
         "top_4_rate": "52.17",
         "top_1_rate": "4.35",
@@ -2408,7 +4398,13 @@
             "\n"
         ],
         "description_detail": [],
-        "champions": [],
+        "champions": [
+            {
+                "id": "aatrox",
+                "name": "Aatrox",
+                "image": "tft16_aatrox.tft_set16.png"
+            }
+        ],
         "average_position": "4.21",
         "top_4_rate": "51.72",
         "top_1_rate": "13.79",
@@ -2456,7 +4452,43 @@
                 "."
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "anivia",
+                "name": "Anivia",
+                "image": "tft16_anivia.tft_set16.png"
+            },
+            {
+                "id": "ashe",
+                "name": "Ashe",
+                "image": "tft16_ashe.tft_set16.png"
+            },
+            {
+                "id": "tryndamere",
+                "name": "Tryndamere",
+                "image": "tft16_tryndamere.tft_set16.png"
+            },
+            {
+                "id": "sejuani",
+                "name": "Sejuani",
+                "image": "tft16_sejuani.tft_set16.png"
+            },
+            {
+                "id": "braum",
+                "name": "Braum",
+                "image": "tft16_braum.tft_set16.png"
+            },
+            {
+                "id": "lissandra",
+                "name": "Lissandra",
+                "image": "tft16_lissandra.tft_set16.png"
+            },
+            {
+                "id": "volibear",
+                "name": "Volibear",
+                "image": "tft16_volibear.tft_set16.png"
+            }
+        ],
         "average_position": "4.59",
         "top_4_rate": "51.72",
         "top_1_rate": "6.90",
@@ -2504,7 +4536,48 @@
                 "CHIẾN ĐẤU!"
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "jarvan_iv",
+                "name": "Jarvan IV",
+                "image": "tft16_jarvaniv.tft_set16.png"
+            },
+            {
+                "id": "sona",
+                "name": "Sona",
+                "image": "tft16_sona.tft_set16.png"
+            },
+            {
+                "id": "poppy",
+                "name": "Poppy",
+                "image": "tft16_poppy.tft_set16.png"
+            },
+            {
+                "id": "xin_zhao",
+                "name": "Xin Zhao",
+                "image": "tft16_xinzhao.tft_set16.png"
+            },
+            {
+                "id": "vayne",
+                "name": "Vayne",
+                "image": "tft16_vayne.tft_set16.png"
+            },
+            {
+                "id": "garen",
+                "name": "Garen",
+                "image": "tft16_garen.tft_set16.png"
+            },
+            {
+                "id": "lux",
+                "name": "Lux",
+                "image": "tft16_lux.tft_set16.png"
+            },
+            {
+                "id": "galio",
+                "name": "Galio",
+                "image": "tft16_galio.tft_set16.png"
+            }
+        ],
         "average_position": "4.25",
         "top_4_rate": "50",
         "top_1_rate": "8.33",
@@ -2554,7 +4627,58 @@
                 "AP.png"
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "shen",
+                "name": "Shen",
+                "image": "tft16_shen.tft_set16.png"
+            },
+            {
+                "id": "jhin",
+                "name": "Jhin",
+                "image": "tft16_jhin.tft_set16.png"
+            },
+            {
+                "id": "yasuo",
+                "name": "Yasuo",
+                "image": "tft16_yasuo.tft_set16.png"
+            },
+            {
+                "id": "xin_zhao",
+                "name": "Xin Zhao",
+                "image": "tft16_xinzhao.tft_set16.png"
+            },
+            {
+                "id": "ahri",
+                "name": "Ahri",
+                "image": "tft16_ahri.tft_set16.png"
+            },
+            {
+                "id": "kennen",
+                "name": "Kennen",
+                "image": "tft16_kennen.tft_set16.png"
+            },
+            {
+                "id": "ngo_khong",
+                "name": "Ngộ Không",
+                "image": "tft16_wukong.tft_set16.png"
+            },
+            {
+                "id": "yone",
+                "name": "Yone",
+                "image": "tft16_yone.tft_set16.png"
+            },
+            {
+                "id": "yunara",
+                "name": "Yunara",
+                "image": "tft16_yunara.tft_set16.png"
+            },
+            {
+                "id": "sett",
+                "name": "Sett",
+                "image": "tft16_sett.tft_set16.png"
+            }
+        ],
         "average_position": "4.29",
         "top_4_rate": "50",
         "top_1_rate": "14.29",
@@ -2589,7 +4713,48 @@
                 "DR.png"
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "briar",
+                "name": "Briar",
+                "image": "tft16_briar.tft_set16.png"
+            },
+            {
+                "id": "blitzcrank",
+                "name": "Blitzcrank",
+                "image": "tft16_blitzcrank.tft_set16.png"
+            },
+            {
+                "id": "cho'gath",
+                "name": "Cho'Gath",
+                "image": "tft16_chogath.tft_set16.png"
+            },
+            {
+                "id": "poppy",
+                "name": "Poppy",
+                "image": "tft16_poppy.tft_set16.png"
+            },
+            {
+                "id": "nautilus",
+                "name": "Nautilus",
+                "image": "tft16_nautilus.tft_set16.png"
+            },
+            {
+                "id": "singed",
+                "name": "Singed",
+                "image": "tft16_singed.tft_set16.png"
+            },
+            {
+                "id": "swain",
+                "name": "Swain",
+                "image": "tft16_swain.tft_set16.png"
+            },
+            {
+                "id": "shyvana",
+                "name": "Shyvana",
+                "image": "tft16_shyvana.tft_set16.png"
+            }
+        ],
         "average_position": "4.5",
         "top_4_rate": "50",
         "top_1_rate": "0.00",
@@ -2633,7 +4798,38 @@
                 "+ 5% mỗi Ô"
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "caitlyn",
+                "name": "Caitlyn",
+                "image": "tft16_caitlyn.tft_set16.png"
+            },
+            {
+                "id": "kog'maw",
+                "name": "Kog'Maw",
+                "image": "tft16_kogmaw.tft_set16.png"
+            },
+            {
+                "id": "teemo",
+                "name": "Teemo",
+                "image": "tft16_teemo.tft_set16.png"
+            },
+            {
+                "id": "vayne",
+                "name": "Vayne",
+                "image": "tft16_vayne.tft_set16.png"
+            },
+            {
+                "id": "kai'sa",
+                "name": "Kai'Sa",
+                "image": "tft16_kaisa.tft_set16.png"
+            },
+            {
+                "id": "ziggs",
+                "name": "Ziggs",
+                "image": "tft16_ziggs.tft_set16.png"
+            }
+        ],
         "average_position": "4.5",
         "top_4_rate": "50",
         "top_1_rate": "50.00",
@@ -2665,7 +4861,38 @@
                 "Chọn Mô-đun Thứ Ba"
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "caitlyn",
+                "name": "Caitlyn",
+                "image": "tft16_caitlyn.tft_set16.png"
+            },
+            {
+                "id": "vi",
+                "name": "Vi",
+                "image": "tft16_vi.tft_set16.png"
+            },
+            {
+                "id": "orianna",
+                "name": "Orianna",
+                "image": "tft16_orianna.tft_set16.png"
+            },
+            {
+                "id": "loris",
+                "name": "Loris",
+                "image": "tft16_loris.tft_set16.png"
+            },
+            {
+                "id": "seraphine",
+                "name": "Seraphine",
+                "image": "tft16_seraphine.tft_set16.png"
+            },
+            {
+                "id": "t-hex",
+                "name": "T-Hex",
+                "image": "tft16_thex.tft_set16.png"
+            }
+        ],
         "average_position": "4.5",
         "top_4_rate": "50",
         "top_1_rate": "0.00",
@@ -2709,7 +4936,48 @@
                 "SV.png"
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "briar",
+                "name": "Briar",
+                "image": "tft16_briar.tft_set16.png"
+            },
+            {
+                "id": "qiyana",
+                "name": "Qiyana",
+                "image": "tft16_qiyana.tft_set16.png"
+            },
+            {
+                "id": "yasuo",
+                "name": "Yasuo",
+                "image": "tft16_yasuo.tft_set16.png"
+            },
+            {
+                "id": "tryndamere",
+                "name": "Tryndamere",
+                "image": "tft16_tryndamere.tft_set16.png"
+            },
+            {
+                "id": "gangplank",
+                "name": "Gangplank",
+                "image": "tft16_gangplank.tft_set16.png"
+            },
+            {
+                "id": "bel'veth",
+                "name": "Bel'Veth",
+                "image": "tft16_belveth.tft_set16.png"
+            },
+            {
+                "id": "yone",
+                "name": "Yone",
+                "image": "tft16_yone.tft_set16.png"
+            },
+            {
+                "id": "aatrox",
+                "name": "Aatrox",
+                "image": "tft16_aatrox.tft_set16.png"
+            }
+        ],
         "average_position": "4.47",
         "top_4_rate": "50",
         "top_1_rate": "16.67",
@@ -2745,7 +5013,48 @@
                 "Thưởng Dung Hợp Với Shimmer tăng thêm 50%. Thời gian làm mới đổi thành 3 giây."
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "blitzcrank",
+                "name": "Blitzcrank",
+                "image": "tft16_blitzcrank.tft_set16.png"
+            },
+            {
+                "id": "vi",
+                "name": "Vi",
+                "image": "tft16_vi.tft_set16.png"
+            },
+            {
+                "id": "ekko",
+                "name": "Ekko",
+                "image": "tft16_ekko.tft_set16.png"
+            },
+            {
+                "id": "jinx",
+                "name": "Jinx",
+                "image": "tft16_jinx.tft_set16.png"
+            },
+            {
+                "id": "dr._mundo",
+                "name": "Dr. Mundo",
+                "image": "tft16_drmundo.tft_set16.png"
+            },
+            {
+                "id": "singed",
+                "name": "Singed",
+                "image": "tft16_singed.tft_set16.png"
+            },
+            {
+                "id": "warwick",
+                "name": "Warwick",
+                "image": "tft16_warwick.tft_set16.png"
+            },
+            {
+                "id": "ziggs",
+                "name": "Ziggs",
+                "image": "tft16_ziggs.tft_set16.png"
+            }
+        ],
         "average_position": "4.58",
         "top_4_rate": "50",
         "top_1_rate": "5.26",
@@ -2781,7 +5090,48 @@
                 "Thưởng Dung Hợp Với Shimmer tăng thêm 50%. Thời gian làm mới đổi thành 3 giây."
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "blitzcrank",
+                "name": "Blitzcrank",
+                "image": "tft16_blitzcrank.tft_set16.png"
+            },
+            {
+                "id": "vi",
+                "name": "Vi",
+                "image": "tft16_vi.tft_set16.png"
+            },
+            {
+                "id": "ekko",
+                "name": "Ekko",
+                "image": "tft16_ekko.tft_set16.png"
+            },
+            {
+                "id": "jinx",
+                "name": "Jinx",
+                "image": "tft16_jinx.tft_set16.png"
+            },
+            {
+                "id": "dr._mundo",
+                "name": "Dr. Mundo",
+                "image": "tft16_drmundo.tft_set16.png"
+            },
+            {
+                "id": "singed",
+                "name": "Singed",
+                "image": "tft16_singed.tft_set16.png"
+            },
+            {
+                "id": "warwick",
+                "name": "Warwick",
+                "image": "tft16_warwick.tft_set16.png"
+            },
+            {
+                "id": "ziggs",
+                "name": "Ziggs",
+                "image": "tft16_ziggs.tft_set16.png"
+            }
+        ],
         "average_position": "4.5",
         "top_4_rate": "50",
         "top_1_rate": "0.00",
@@ -2831,7 +5181,58 @@
                 "AP.png"
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "shen",
+                "name": "Shen",
+                "image": "tft16_shen.tft_set16.png"
+            },
+            {
+                "id": "jhin",
+                "name": "Jhin",
+                "image": "tft16_jhin.tft_set16.png"
+            },
+            {
+                "id": "yasuo",
+                "name": "Yasuo",
+                "image": "tft16_yasuo.tft_set16.png"
+            },
+            {
+                "id": "xin_zhao",
+                "name": "Xin Zhao",
+                "image": "tft16_xinzhao.tft_set16.png"
+            },
+            {
+                "id": "ahri",
+                "name": "Ahri",
+                "image": "tft16_ahri.tft_set16.png"
+            },
+            {
+                "id": "kennen",
+                "name": "Kennen",
+                "image": "tft16_kennen.tft_set16.png"
+            },
+            {
+                "id": "ngo_khong",
+                "name": "Ngộ Không",
+                "image": "tft16_wukong.tft_set16.png"
+            },
+            {
+                "id": "yone",
+                "name": "Yone",
+                "image": "tft16_yone.tft_set16.png"
+            },
+            {
+                "id": "yunara",
+                "name": "Yunara",
+                "image": "tft16_yunara.tft_set16.png"
+            },
+            {
+                "id": "sett",
+                "name": "Sett",
+                "image": "tft16_sett.tft_set16.png"
+            }
+        ],
         "average_position": "4.11",
         "top_4_rate": "48.57",
         "top_1_rate": "20.00",
@@ -2883,7 +5284,48 @@
                 "KHAI HỎA!"
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "illaoi",
+                "name": "Illaoi",
+                "image": "tft16_illaoi.tft_set16.png"
+            },
+            {
+                "id": "twisted_fate",
+                "name": "Twisted Fate",
+                "image": "tft16_twistedfate.tft_set16.png"
+            },
+            {
+                "id": "graves",
+                "name": "Graves",
+                "image": "tft16_graves.tft_set16.png"
+            },
+            {
+                "id": "nautilus",
+                "name": "Nautilus",
+                "image": "tft16_nautilus.tft_set16.png"
+            },
+            {
+                "id": "gangplank",
+                "name": "Gangplank",
+                "image": "tft16_gangplank.tft_set16.png"
+            },
+            {
+                "id": "miss_fortune",
+                "name": "Miss Fortune",
+                "image": "tft16_missfortune.tft_set16.png"
+            },
+            {
+                "id": "fizz",
+                "name": "Fizz",
+                "image": "tft16_fizz.tft_set16.png"
+            },
+            {
+                "id": "tahm_kench",
+                "name": "Tahm Kench",
+                "image": "tft16_tahmkench.tft_set16.png"
+            }
+        ],
         "average_position": "4.81",
         "top_4_rate": "47.62",
         "top_1_rate": "14.29",
@@ -2923,7 +5365,43 @@
                 "Health.png"
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "xin_zhao",
+                "name": "Xin Zhao",
+                "image": "tft16_xinzhao.tft_set16.png"
+            },
+            {
+                "id": "yorick",
+                "name": "Yorick",
+                "image": "tft16_yorick.tft_set16.png"
+            },
+            {
+                "id": "nautilus",
+                "name": "Nautilus",
+                "image": "tft16_nautilus.tft_set16.png"
+            },
+            {
+                "id": "loris",
+                "name": "Loris",
+                "image": "tft16_loris.tft_set16.png"
+            },
+            {
+                "id": "braum",
+                "name": "Braum",
+                "image": "tft16_braum.tft_set16.png"
+            },
+            {
+                "id": "ornn",
+                "name": "Ornn",
+                "image": "tft16_ornn.tft_set16.png"
+            },
+            {
+                "id": "thresh",
+                "name": "Thresh",
+                "image": "tft16_thresh.tft_set16.png"
+            }
+        ],
         "average_position": "4.69",
         "top_4_rate": "46.15",
         "top_1_rate": "0.00",
@@ -2984,7 +5462,33 @@
                 "AP.png"
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "viego",
+                "name": "Viego",
+                "image": "tft16_viego.tft_set16.png"
+            },
+            {
+                "id": "yorick",
+                "name": "Yorick",
+                "image": "tft16_yorick.tft_set16.png"
+            },
+            {
+                "id": "gwen",
+                "name": "Gwen",
+                "image": "tft16_gwen.tft_set16.png"
+            },
+            {
+                "id": "kalista",
+                "name": "Kalista",
+                "image": "tft16_kalista.tft_set16.png"
+            },
+            {
+                "id": "thresh",
+                "name": "Thresh",
+                "image": "tft16_thresh.tft_set16.png"
+            }
+        ],
         "average_position": "4.44",
         "top_4_rate": "43.75",
         "top_1_rate": "18.75",
@@ -3022,7 +5526,48 @@
                 "TÀN PHÁ."
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "briar",
+                "name": "Briar",
+                "image": "tft16_briar.tft_set16.png"
+            },
+            {
+                "id": "sion",
+                "name": "Sion",
+                "image": "tft16_sion.tft_set16.png"
+            },
+            {
+                "id": "draven",
+                "name": "Draven",
+                "image": "tft16_draven.tft_set16.png"
+            },
+            {
+                "id": "darius",
+                "name": "Darius",
+                "image": "tft16_darius.tft_set16.png"
+            },
+            {
+                "id": "leblanc",
+                "name": "LeBlanc",
+                "image": "tft16_leblanc.tft_set16.png"
+            },
+            {
+                "id": "ambessa",
+                "name": "Ambessa",
+                "image": "tft16_ambessa.tft_set16.png"
+            },
+            {
+                "id": "swain",
+                "name": "Swain",
+                "image": "tft16_swain.tft_set16.png"
+            },
+            {
+                "id": "mel",
+                "name": "Mel",
+                "image": "tft16_mel.tft_set16.png"
+            }
+        ],
         "average_position": "4.64",
         "top_4_rate": "42.86",
         "top_1_rate": "14.29",
@@ -3066,7 +5611,48 @@
                 "AS.png"
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "kog'maw",
+                "name": "Kog'Maw",
+                "image": "tft16_kogmaw.tft_set16.png"
+            },
+            {
+                "id": "rek'sai",
+                "name": "Rek'Sai",
+                "image": "tft16_reksai.tft_set16.png"
+            },
+            {
+                "id": "cho'gath",
+                "name": "Cho'Gath",
+                "image": "tft16_chogath.tft_set16.png"
+            },
+            {
+                "id": "malzahar",
+                "name": "Malzahar",
+                "image": "tft16_malzahar.tft_set16.png"
+            },
+            {
+                "id": "bel'veth",
+                "name": "Bel'Veth",
+                "image": "tft16_belveth.tft_set16.png"
+            },
+            {
+                "id": "su_gia_khe_nut",
+                "name": "Sứ Giả Khe Nứt",
+                "image": "tft16_riftherald_splash_tile_0.tft_set16.png"
+            },
+            {
+                "id": "kai'sa",
+                "name": "Kai'Sa",
+                "image": "tft16_kaisa.tft_set16.png"
+            },
+            {
+                "id": "baron_nashor",
+                "name": "Baron Nashor",
+                "image": "tft16_baronnashor.tft_set16.png"
+            }
+        ],
         "average_position": "5.18",
         "top_4_rate": "41.18",
         "top_1_rate": "0.00",
@@ -3101,7 +5687,53 @@
                 "Health.png"
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "illaoi",
+                "name": "Illaoi",
+                "image": "tft16_illaoi.tft_set16.png"
+            },
+            {
+                "id": "shen",
+                "name": "Shen",
+                "image": "tft16_shen.tft_set16.png"
+            },
+            {
+                "id": "sion",
+                "name": "Sion",
+                "image": "tft16_sion.tft_set16.png"
+            },
+            {
+                "id": "dr._mundo",
+                "name": "Dr. Mundo",
+                "image": "tft16_drmundo.tft_set16.png"
+            },
+            {
+                "id": "kobuko_&_yuumi",
+                "name": "Kobuko & Yuumi",
+                "image": "tft16_kobuko.tft_set16.png"
+            },
+            {
+                "id": "ngo_khong",
+                "name": "Ngộ Không",
+                "image": "tft16_wukong.tft_set16.png"
+            },
+            {
+                "id": "su_gia_khe_nut",
+                "name": "Sứ Giả Khe Nứt",
+                "image": "tft16_riftherald_splash_tile_0.tft_set16.png"
+            },
+            {
+                "id": "tahm_kench",
+                "name": "Tahm Kench",
+                "image": "tft16_tahmkench.tft_set16.png"
+            },
+            {
+                "id": "volibear",
+                "name": "Volibear",
+                "image": "tft16_volibear.tft_set16.png"
+            }
+        ],
         "average_position": "5",
         "top_4_rate": "36",
         "top_1_rate": "12.00",
@@ -3145,7 +5777,48 @@
                 "AS.png"
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "kog'maw",
+                "name": "Kog'Maw",
+                "image": "tft16_kogmaw.tft_set16.png"
+            },
+            {
+                "id": "rek'sai",
+                "name": "Rek'Sai",
+                "image": "tft16_reksai.tft_set16.png"
+            },
+            {
+                "id": "cho'gath",
+                "name": "Cho'Gath",
+                "image": "tft16_chogath.tft_set16.png"
+            },
+            {
+                "id": "malzahar",
+                "name": "Malzahar",
+                "image": "tft16_malzahar.tft_set16.png"
+            },
+            {
+                "id": "bel'veth",
+                "name": "Bel'Veth",
+                "image": "tft16_belveth.tft_set16.png"
+            },
+            {
+                "id": "su_gia_khe_nut",
+                "name": "Sứ Giả Khe Nứt",
+                "image": "tft16_riftherald_splash_tile_0.tft_set16.png"
+            },
+            {
+                "id": "kai'sa",
+                "name": "Kai'Sa",
+                "image": "tft16_kaisa.tft_set16.png"
+            },
+            {
+                "id": "baron_nashor",
+                "name": "Baron Nashor",
+                "image": "tft16_baronnashor.tft_set16.png"
+            }
+        ],
         "average_position": "5.26",
         "top_4_rate": "34.78",
         "top_1_rate": "0.00",
@@ -3185,7 +5858,43 @@
                 "AS.png"
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "viego",
+                "name": "Viego",
+                "image": "tft16_viego.tft_set16.png"
+            },
+            {
+                "id": "twisted_fate",
+                "name": "Twisted Fate",
+                "image": "tft16_twistedfate.tft_set16.png"
+            },
+            {
+                "id": "ashe",
+                "name": "Ashe",
+                "image": "tft16_ashe.tft_set16.png"
+            },
+            {
+                "id": "draven",
+                "name": "Draven",
+                "image": "tft16_draven.tft_set16.png"
+            },
+            {
+                "id": "warwick",
+                "name": "Warwick",
+                "image": "tft16_warwick.tft_set16.png"
+            },
+            {
+                "id": "yunara",
+                "name": "Yunara",
+                "image": "tft16_yunara.tft_set16.png"
+            },
+            {
+                "id": "kindred",
+                "name": "Kindred",
+                "image": "tft16_kindred.tft_set16.png"
+            }
+        ],
         "average_position": "4.33",
         "top_4_rate": "33.33",
         "top_1_rate": "0.00",
@@ -3229,7 +5938,48 @@
                 "SV.png"
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "briar",
+                "name": "Briar",
+                "image": "tft16_briar.tft_set16.png"
+            },
+            {
+                "id": "qiyana",
+                "name": "Qiyana",
+                "image": "tft16_qiyana.tft_set16.png"
+            },
+            {
+                "id": "yasuo",
+                "name": "Yasuo",
+                "image": "tft16_yasuo.tft_set16.png"
+            },
+            {
+                "id": "tryndamere",
+                "name": "Tryndamere",
+                "image": "tft16_tryndamere.tft_set16.png"
+            },
+            {
+                "id": "gangplank",
+                "name": "Gangplank",
+                "image": "tft16_gangplank.tft_set16.png"
+            },
+            {
+                "id": "bel'veth",
+                "name": "Bel'Veth",
+                "image": "tft16_belveth.tft_set16.png"
+            },
+            {
+                "id": "yone",
+                "name": "Yone",
+                "image": "tft16_yone.tft_set16.png"
+            },
+            {
+                "id": "aatrox",
+                "name": "Aatrox",
+                "image": "tft16_aatrox.tft_set16.png"
+            }
+        ],
         "average_position": "5.17",
         "top_4_rate": "33.33",
         "top_1_rate": "0.00",
@@ -3267,7 +6017,13 @@
             "\n"
         ],
         "description_detail": [],
-        "champions": [],
+        "champions": [
+            {
+                "id": "aurelion_sol",
+                "name": "Aurelion Sol",
+                "image": "tft16_aurelionsol.tft_set16.png"
+            }
+        ],
         "average_position": "5",
         "top_4_rate": "25",
         "top_1_rate": "0.00",
@@ -3302,7 +6058,48 @@
                 "DR.png"
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "briar",
+                "name": "Briar",
+                "image": "tft16_briar.tft_set16.png"
+            },
+            {
+                "id": "blitzcrank",
+                "name": "Blitzcrank",
+                "image": "tft16_blitzcrank.tft_set16.png"
+            },
+            {
+                "id": "cho'gath",
+                "name": "Cho'Gath",
+                "image": "tft16_chogath.tft_set16.png"
+            },
+            {
+                "id": "poppy",
+                "name": "Poppy",
+                "image": "tft16_poppy.tft_set16.png"
+            },
+            {
+                "id": "nautilus",
+                "name": "Nautilus",
+                "image": "tft16_nautilus.tft_set16.png"
+            },
+            {
+                "id": "singed",
+                "name": "Singed",
+                "image": "tft16_singed.tft_set16.png"
+            },
+            {
+                "id": "swain",
+                "name": "Swain",
+                "image": "tft16_swain.tft_set16.png"
+            },
+            {
+                "id": "shyvana",
+                "name": "Shyvana",
+                "image": "tft16_shyvana.tft_set16.png"
+            }
+        ],
         "average_position": "5.75",
         "top_4_rate": "25",
         "top_1_rate": "0.00",
@@ -3363,7 +6160,33 @@
                 "AP.png"
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "viego",
+                "name": "Viego",
+                "image": "tft16_viego.tft_set16.png"
+            },
+            {
+                "id": "yorick",
+                "name": "Yorick",
+                "image": "tft16_yorick.tft_set16.png"
+            },
+            {
+                "id": "gwen",
+                "name": "Gwen",
+                "image": "tft16_gwen.tft_set16.png"
+            },
+            {
+                "id": "kalista",
+                "name": "Kalista",
+                "image": "tft16_kalista.tft_set16.png"
+            },
+            {
+                "id": "thresh",
+                "name": "Thresh",
+                "image": "tft16_thresh.tft_set16.png"
+            }
+        ],
         "average_position": "5.25",
         "top_4_rate": "25",
         "top_1_rate": "0.00",
@@ -3411,7 +6234,48 @@
                 "CHIẾN ĐẤU!"
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "jarvan_iv",
+                "name": "Jarvan IV",
+                "image": "tft16_jarvaniv.tft_set16.png"
+            },
+            {
+                "id": "sona",
+                "name": "Sona",
+                "image": "tft16_sona.tft_set16.png"
+            },
+            {
+                "id": "poppy",
+                "name": "Poppy",
+                "image": "tft16_poppy.tft_set16.png"
+            },
+            {
+                "id": "xin_zhao",
+                "name": "Xin Zhao",
+                "image": "tft16_xinzhao.tft_set16.png"
+            },
+            {
+                "id": "vayne",
+                "name": "Vayne",
+                "image": "tft16_vayne.tft_set16.png"
+            },
+            {
+                "id": "garen",
+                "name": "Garen",
+                "image": "tft16_garen.tft_set16.png"
+            },
+            {
+                "id": "lux",
+                "name": "Lux",
+                "image": "tft16_lux.tft_set16.png"
+            },
+            {
+                "id": "galio",
+                "name": "Galio",
+                "image": "tft16_galio.tft_set16.png"
+            }
+        ],
         "average_position": "6.6",
         "top_4_rate": "20",
         "top_1_rate": "0.00",
@@ -3443,7 +6307,38 @@
                 "Chọn Mô-đun Thứ Ba"
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "caitlyn",
+                "name": "Caitlyn",
+                "image": "tft16_caitlyn.tft_set16.png"
+            },
+            {
+                "id": "vi",
+                "name": "Vi",
+                "image": "tft16_vi.tft_set16.png"
+            },
+            {
+                "id": "orianna",
+                "name": "Orianna",
+                "image": "tft16_orianna.tft_set16.png"
+            },
+            {
+                "id": "loris",
+                "name": "Loris",
+                "image": "tft16_loris.tft_set16.png"
+            },
+            {
+                "id": "seraphine",
+                "name": "Seraphine",
+                "image": "tft16_seraphine.tft_set16.png"
+            },
+            {
+                "id": "t-hex",
+                "name": "T-Hex",
+                "image": "tft16_thex.tft_set16.png"
+            }
+        ],
         "average_position": "5.8",
         "top_4_rate": "20",
         "top_1_rate": "0.00",
@@ -3479,7 +6374,38 @@
                 "và khai quật thêm báu vật."
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "qiyana",
+                "name": "Qiyana",
+                "image": "tft16_qiyana.tft_set16.png"
+            },
+            {
+                "id": "neeko",
+                "name": "Neeko",
+                "image": "tft16_neeko.tft_set16.png"
+            },
+            {
+                "id": "milio",
+                "name": "Milio",
+                "image": "tft16_milio.tft_set16.png"
+            },
+            {
+                "id": "nidalee",
+                "name": "Nidalee",
+                "image": "tft16_nidalee.tft_set16.png"
+            },
+            {
+                "id": "skarner",
+                "name": "Skarner",
+                "image": "tft16_skarner.tft_set16.png"
+            },
+            {
+                "id": "brock",
+                "name": "Brock",
+                "image": "tft16_brock_splash_tile_0.tft_set16.png"
+            }
+        ],
         "average_position": "6.58",
         "top_4_rate": "10.53",
         "top_1_rate": "5.26",
@@ -3509,7 +6435,18 @@
                 "chúng gây 100 sát thương phép lên 2 kẻ địch gần nhất."
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "aatrox",
+                "name": "Aatrox",
+                "image": "tft16_aatrox.tft_set16.png"
+            },
+            {
+                "id": "zaahen",
+                "name": "Zaahen",
+                "image": "tft16_zaahen.tft_set16.png"
+            }
+        ],
         "average_position": "5",
         "top_4_rate": "0",
         "top_1_rate": "0.00",
@@ -3542,7 +6479,58 @@
                 "VÀ nhận 1 Gói Yordle mỗi vòng!"
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "lulu",
+                "name": "Lulu",
+                "image": "tft16_lulu.tft_set16.png"
+            },
+            {
+                "id": "rumble",
+                "name": "Rumble",
+                "image": "tft16_rumble.tft_set16.png"
+            },
+            {
+                "id": "tristana",
+                "name": "Tristana",
+                "image": "tft16_tristana.tft_set16.png"
+            },
+            {
+                "id": "teemo",
+                "name": "Teemo",
+                "image": "tft16_teemo.tft_set16.png"
+            },
+            {
+                "id": "poppy",
+                "name": "Poppy",
+                "image": "tft16_poppy.tft_set16.png"
+            },
+            {
+                "id": "kennen",
+                "name": "Kennen",
+                "image": "tft16_kennen.tft_set16.png"
+            },
+            {
+                "id": "kobuko_&_yuumi",
+                "name": "Kobuko & Yuumi",
+                "image": "tft16_kobuko.tft_set16.png"
+            },
+            {
+                "id": "veigar",
+                "name": "Veigar",
+                "image": "tft16_veigar.tft_set16.png"
+            },
+            {
+                "id": "fizz",
+                "name": "Fizz",
+                "image": "tft16_fizz.tft_set16.png"
+            },
+            {
+                "id": "ziggs",
+                "name": "Ziggs",
+                "image": "tft16_ziggs.tft_set16.png"
+            }
+        ],
         "average_position": "7",
         "top_4_rate": "0",
         "top_1_rate": "0.00",
@@ -3575,7 +6563,58 @@
                 "VÀ nhận 1 Gói Yordle mỗi vòng!"
             ]
         ],
-        "champions": [],
+        "champions": [
+            {
+                "id": "lulu",
+                "name": "Lulu",
+                "image": "tft16_lulu.tft_set16.png"
+            },
+            {
+                "id": "rumble",
+                "name": "Rumble",
+                "image": "tft16_rumble.tft_set16.png"
+            },
+            {
+                "id": "tristana",
+                "name": "Tristana",
+                "image": "tft16_tristana.tft_set16.png"
+            },
+            {
+                "id": "teemo",
+                "name": "Teemo",
+                "image": "tft16_teemo.tft_set16.png"
+            },
+            {
+                "id": "poppy",
+                "name": "Poppy",
+                "image": "tft16_poppy.tft_set16.png"
+            },
+            {
+                "id": "kennen",
+                "name": "Kennen",
+                "image": "tft16_kennen.tft_set16.png"
+            },
+            {
+                "id": "kobuko_&_yuumi",
+                "name": "Kobuko & Yuumi",
+                "image": "tft16_kobuko.tft_set16.png"
+            },
+            {
+                "id": "veigar",
+                "name": "Veigar",
+                "image": "tft16_veigar.tft_set16.png"
+            },
+            {
+                "id": "fizz",
+                "name": "Fizz",
+                "image": "tft16_fizz.tft_set16.png"
+            },
+            {
+                "id": "ziggs",
+                "name": "Ziggs",
+                "image": "tft16_ziggs.tft_set16.png"
+            }
+        ],
         "average_position": "6.8",
         "top_4_rate": "0",
         "top_1_rate": "0.00",
