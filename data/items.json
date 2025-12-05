@@ -5723,39 +5723,10 @@
         },
         {
             "stt": 40,
-            "id": "dong_vang_may_man",
-            "name": "Đồng Vàng May Mắn",
-            "image": "TFT16_Item_Bilgewater_BilgeratCutlass.png",
-            "description": "Khi tham gia hạ gục tạo thêm 3 vàng",
-            "damage_modifier": [
-                {
-                    "image": "AS.png",
-                    "damage": "+20%"
-                },
-                {
-                    "image": "Crit.png",
-                    "damage": "+20%"
-                }
-            ],
-            "average_position": "3.76",
-            "top_4_rate": "62.36",
-            "top_1_rate": "24.72",
-            "battle": "4,567",
-            "champions": [
-                {
-                    "id": "gangplank",
-                    "name": "Gangplank",
-                    "image": "tft16_gangplank.tft_set16.png"
-                }
-            ],
-            "item_components": []
-        },
-        {
-            "stt": 41,
             "id": "men_ruou_thuyen_truong",
             "name": "Men Rượu Thuyền Trưởng",
             "image": "TFT16_Item_Bilgewater_CaptainsBrew.png",
-            "description": "Các đòn đánh và kỹ năng sẽ thiêu đốt và áp dụng hiệu ứng tê tái lên kẻ địch trong 3 giây",
+            "description": "Các đòn đánh và Kỹ Năng sẽ Thiêu Đốt và áp dụng hiệu ứng Tê Tái lên kẻ địch trong 3 giây.\n\nTướng Khuyên Dùng: Twisted Fate",
             "damage_modifier": [
                 {
                     "image": "AD.png",
@@ -5770,44 +5741,133 @@
                     "damage": "+100"
                 }
             ],
-            "average_position": "3.65",
-            "top_4_rate": "64.86",
-            "top_1_rate": "24.19",
-            "battle": "3,130",
+            "average_position": "3.32",
+            "top_4_rate": "69.32",
+            "top_1_rate": "29.10",
+            "battle": "3,299",
             "champions": [
+                {
+                    "id": "miss_fortune",
+                    "name": "Miss Fortune",
+                    "image": "tft16_missfortune.tft_set16.png"
+                },
                 {
                     "id": "twisted_fate",
                     "name": "Twisted Fate",
                     "image": "tft16_twistedfate.tft_set16.png"
+                },
+                {
+                    "id": "gangplank",
+                    "name": "Gangplank",
+                    "image": "tft16_gangplank.tft_set16.png"
+                },
+                {
+                    "id": "nautilus",
+                    "name": "Nautilus",
+                    "image": "tft16_nautilus.tft_set16.png"
+                },
+                {
+                    "id": "tahm_kench",
+                    "name": "Tahm Kench",
+                    "image": "tft16_tahmkench.tft_set16.png"
+                }
+            ],
+            "item_components": []
+        },
+        {
+            "stt": 41,
+            "id": "vitamin_c",
+            "name": "Vitamin C",
+            "image": "TFT16_Item_Bilgewater_PileOCitrus.png",
+            "description": "Mỗi 7 giây, hồi lại 15% Máu tối đa và loại bỏ mọi hiệu ứng bất lợi. Sau 15 giây, nhận 20 .\n\nTướng Khuyên Dùng: Illaoi",
+            "damage_modifier": [
+                {
+                    "image": "Health.png",
+                    "damage": "+700"
+                }
+            ],
+            "average_position": "2.93",
+            "top_4_rate": "75.48",
+            "top_1_rate": "37.85",
+            "battle": "2,190",
+            "champions": [
+                {
+                    "id": "tahm_kench",
+                    "name": "Tahm Kench",
+                    "image": "tft16_tahmkench.tft_set16.png"
+                },
+                {
+                    "id": "nautilus",
+                    "name": "Nautilus",
+                    "image": "tft16_nautilus.tft_set16.png"
+                },
+                {
+                    "id": "illaoi",
+                    "name": "Illaoi",
+                    "image": "tft16_illaoi.tft_set16.png"
+                },
+                {
+                    "id": "gangplank",
+                    "name": "Gangplank",
+                    "image": "tft16_gangplank.tft_set16.png"
+                },
+                {
+                    "id": "fizz",
+                    "name": "Fizz",
+                    "image": "tft16_fizz.tft_set16.png"
                 }
             ],
             "item_components": []
         },
         {
             "stt": 42,
-            "id": "vitamin_c",
-            "name": "Vitamin C",
-            "image": "TFT16_Item_Bilgewater_PileOCitrus.png",
-            "description": "Mỗi 7 giây hồi lại 15% máu tối đa và loại bỏ mọi hiệu ứng bất lợi. sau thời gian nhận 20",
+            "id": "gang_da_thu",
+            "name": "Găng Dã Thú",
+            "image": "TFT16_Item_Bilgewater_FreebootersFrock.png",
+            "description": "Khi có trên 50% Máu, tăng gấp đôi lượng Giáp và Kháng Phép cộng thêm từ trang bị này.\n\nMỗi 4 giây, gây sát thương phép tương đương 50% tổng Giáp và Kháng Phép hiện tại lên 2 kẻ địch gần nhất.\n\nTướng Khuyên Dùng: Nautilus",
             "damage_modifier": [
                 {
-                    "image": "AD.png",
-                    "damage": "+20%"
+                    "image": "Armor.png",
+                    "damage": "+45"
                 },
                 {
-                    "image": "AP.png",
-                    "damage": "+20%"
+                    "image": "Health.png",
+                    "damage": "+300"
+                },
+                {
+                    "image": "MR.png",
+                    "damage": "+45"
                 }
             ],
-            "average_position": "3.06",
-            "top_4_rate": "73.89",
-            "top_1_rate": "35.26",
-            "battle": "1,716",
+            "average_position": "3.01",
+            "top_4_rate": "75.36",
+            "top_1_rate": "35.74",
+            "battle": "2,090",
             "champions": [
+                {
+                    "id": "nautilus",
+                    "name": "Nautilus",
+                    "image": "tft16_nautilus.tft_set16.png"
+                },
+                {
+                    "id": "tahm_kench",
+                    "name": "Tahm Kench",
+                    "image": "tft16_tahmkench.tft_set16.png"
+                },
                 {
                     "id": "illaoi",
                     "name": "Illaoi",
                     "image": "tft16_illaoi.tft_set16.png"
+                },
+                {
+                    "id": "gangplank",
+                    "name": "Gangplank",
+                    "image": "tft16_gangplank.tft_set16.png"
+                },
+                {
+                    "id": "ornn",
+                    "name": "Ornn",
+                    "image": "tft16_ornn.tft_set16.png"
                 }
             ],
             "item_components": []
@@ -5817,7 +5877,7 @@
             "id": "dao_tu_si",
             "name": "Dao Tử Sĩ",
             "image": "TFT16_Item_Bilgewater_DeadmansDagger.png",
-            "description": "Các đòn đánh và kỹ năng sẽ hành quyết kẻ địch dưới 12% máu. Khi có mạng hạ gục nhận 15% sức mạnh công kích và 15% sức mạnh phép thuật",
+            "description": "Các Đòn Đánh và Kỹ Năng sẽ hành quyết các kẻ địch còn dưới 12% Máu. Khi có mạng hạ gục, nhận 15% Sức Mạnh Công Kích và 15% Sức Mạnh Phép Thuật.\n\nTướng Khuyên Dùng: Graves",
             "damage_modifier": [
                 {
                     "image": "AD.png",
@@ -5825,28 +5885,97 @@
                 },
                 {
                     "image": "AP.png",
-                    "damage": "+20%"
+                    "damage": "+20"
                 }
             ],
-            "average_position": "3.41",
-            "top_4_rate": "68.98",
-            "top_1_rate": "29.95",
-            "battle": "1,686",
+            "average_position": "3.33",
+            "top_4_rate": "68.76",
+            "top_1_rate": "30.89",
+            "battle": "2,036",
             "champions": [
+                {
+                    "id": "miss_fortune",
+                    "name": "Miss Fortune",
+                    "image": "tft16_missfortune.tft_set16.png"
+                },
                 {
                     "id": "graves",
                     "name": "Graves",
                     "image": "tft16_graves.tft_set16.png"
+                },
+                {
+                    "id": "fizz",
+                    "name": "Fizz",
+                    "image": "tft16_fizz.tft_set16.png"
+                },
+                {
+                    "id": "gangplank",
+                    "name": "Gangplank",
+                    "image": "tft16_gangplank.tft_set16.png"
+                },
+                {
+                    "id": "twisted_fate",
+                    "name": "Twisted Fate",
+                    "image": "tft16_twistedfate.tft_set16.png"
                 }
             ],
             "item_components": []
         },
         {
             "stt": 44,
+            "id": "cung_darkin",
+            "name": "Cung Darkin",
+            "image": "TFT16_TheDarkinBow.png",
+            "description": "Chủ sở hữu nhận thêm tộc/hệ Darkin.\n\nMỗi 10 đòn đánh, bắn ra một mũi tên đi xuyên qua mục tiêu hiện tại, gây 500% Sức Mạnh Công Kích Cơ Bản dưới dạng sát thương vật lý, giảm đi 33% với mỗi kẻ địch trúng đòn.",
+            "damage_modifier": [
+                {
+                    "image": "AD.png",
+                    "damage": "+25%"
+                },
+                {
+                    "image": "AS.png",
+                    "damage": "+25%"
+                }
+            ],
+            "average_position": "3.3",
+            "top_4_rate": "72.25",
+            "top_1_rate": "24.83",
+            "battle": "2,018",
+            "champions": [
+                {
+                    "id": "bel'veth",
+                    "name": "Bel'Veth",
+                    "image": "tft16_belveth.tft_set16.png"
+                },
+                {
+                    "id": "yunara",
+                    "name": "Yunara",
+                    "image": "tft16_yunara.tft_set16.png"
+                },
+                {
+                    "id": "kindred",
+                    "name": "Kindred",
+                    "image": "tft16_kindred.tft_set16.png"
+                },
+                {
+                    "id": "lucian_&_senna",
+                    "name": "Lucian & Senna",
+                    "image": "tft16_lucian.tft_set16.png"
+                },
+                {
+                    "id": "draven",
+                    "name": "Draven",
+                    "image": "tft16_draven.tft_set16.png"
+                }
+            ],
+            "item_components": []
+        },
+        {
+            "stt": 45,
             "id": "sung_kip_thuyen_pho",
             "name": "Súng Kíp Thuyền Phó",
             "image": "TFT16_Item_Bilgewater_FirstMatesFlintlock.png",
-            "description": "Mỗi 5 giây, gây 15 + 12% sát thương đã gây ra trong 5 giây dưới dạng sát thương phép lên mục tiêu hiện tại và kẻ địch gần nhất",
+            "description": "Mỗi giây trong giao tranh, nhận 3% Sức Mạnh Công Kích và 3% Tốc Độ Đánh.\n\nTướng Khuyên Dùng: Miss Fortune",
             "damage_modifier": [
                 {
                     "image": "AD.png",
@@ -5861,40 +5990,31 @@
                     "damage": "+20%"
                 }
             ],
-            "average_position": "3.34",
-            "top_4_rate": "69.17",
-            "top_1_rate": "29.45",
-            "battle": "1,518",
+            "average_position": "3.12",
+            "top_4_rate": "72.29",
+            "top_1_rate": "34.21",
+            "battle": "1,815",
             "champions": [
                 {
                     "id": "miss_fortune",
                     "name": "Miss Fortune",
                     "image": "tft16_missfortune.tft_set16.png"
-                }
-            ],
-            "item_components": []
-        },
-        {
-            "stt": 45,
-            "id": "chat_no_cho_den",
-            "name": "Chất Nổ Chợ Đen",
-            "image": "TFT16_Item_Bilgewater_BlackmarketExplosives.png",
-            "description": "Mỗi 5 giây, gây 15 + 12% sát thương đã gây ra trong 5 giây dưới dạng sát thương phép lên mục tiêu hiện tại và kẻ địch gần nhất",
-            "damage_modifier": [
-                {
-                    "image": "AP.png",
-                    "damage": "+20"
                 },
                 {
-                    "image": "AS.png",
-                    "damage": "+10%"
-                }
-            ],
-            "average_position": "3.52",
-            "top_4_rate": "68.06",
-            "top_1_rate": "25.49",
-            "battle": "1,279",
-            "champions": [
+                    "id": "gangplank",
+                    "name": "Gangplank",
+                    "image": "tft16_gangplank.tft_set16.png"
+                },
+                {
+                    "id": "graves",
+                    "name": "Graves",
+                    "image": "tft16_graves.tft_set16.png"
+                },
+                {
+                    "id": "lucian_&_senna",
+                    "name": "Lucian & Senna",
+                    "image": "tft16_lucian.tft_set16.png"
+                },
                 {
                     "id": "fizz",
                     "name": "Fizz",
@@ -5908,22 +6028,144 @@
             "id": "kiem_sat_menh",
             "name": "Kiếm Sát Mệnh",
             "image": "TFT16_Item_Bilgewater_BilgeratCutlass.png",
-            "description": "Gây sát thương lên kẻ địch sẽ khiến chúng chảy máu, gây thêm 35% sát thương trong 4 giây",
+            "description": "Gây sát thương lên kẻ địch sẽ khiến chúng Chảy Máu, tăng thêm 35% sát thương trong 4 giây.\n\nTướng Khuyên Dùng: Gangplank",
             "damage_modifier": [
+                {
+                    "image": "AD.png",
+                    "damage": "+20%"
+                },
                 {
                     "image": "AP.png",
                     "damage": "+20"
-                },
-                {
-                    "image": "AS.png",
-                    "damage": "+20%"
                 }
             ],
-            "average_position": "3.52",
-            "top_4_rate": "68.06",
-            "top_1_rate": "25.49",
-            "battle": "1,279",
+            "average_position": "3.24",
+            "top_4_rate": "71.06",
+            "top_1_rate": "31.96",
+            "battle": "1,427",
             "champions": [
+                {
+                    "id": "miss_fortune",
+                    "name": "Miss Fortune",
+                    "image": "tft16_missfortune.tft_set16.png"
+                },
+                {
+                    "id": "gangplank",
+                    "name": "Gangplank",
+                    "image": "tft16_gangplank.tft_set16.png"
+                },
+                {
+                    "id": "fizz",
+                    "name": "Fizz",
+                    "image": "tft16_fizz.tft_set16.png"
+                },
+                {
+                    "id": "graves",
+                    "name": "Graves",
+                    "image": "tft16_graves.tft_set16.png"
+                },
+                {
+                    "id": "tahm_kench",
+                    "name": "Tahm Kench",
+                    "image": "tft16_tahmkench.tft_set16.png"
+                }
+            ],
+            "item_components": []
+        },
+        {
+            "stt": 47,
+            "id": "khien_darkin",
+            "name": "Khiên Darkin",
+            "image": "TFT16_TheDarkinAegis.png",
+            "description": "Chủ sở hữu nhận thêm tộc/hệ Darkin.\n\nMỗi giây, gây sát thương phép tương đương 1% Máu tối đa của chủ sở hữu lên các kẻ địch trong phạm vi 2 ô. Khi có đơn vị hy sinh trong phạm vi đó, hồi lại 2% Máu tối đa.",
+            "damage_modifier": [
+                {
+                    "image": "Armor.png",
+                    "damage": "+25"
+                },
+                {
+                    "image": "Health.png",
+                    "damage": "+200"
+                },
+                {
+                    "image": "MR.png",
+                    "damage": "+25"
+                }
+            ],
+            "average_position": "3.25",
+            "top_4_rate": "73.25",
+            "top_1_rate": "27.44",
+            "battle": "1,170",
+            "champions": [
+                {
+                    "id": "ornn",
+                    "name": "Ornn",
+                    "image": "tft16_ornn.tft_set16.png"
+                },
+                {
+                    "id": "sion",
+                    "name": "Sion",
+                    "image": "tft16_sion.tft_set16.png"
+                },
+                {
+                    "id": "swain",
+                    "name": "Swain",
+                    "image": "tft16_swain.tft_set16.png"
+                },
+                {
+                    "id": "nautilus",
+                    "name": "Nautilus",
+                    "image": "tft16_nautilus.tft_set16.png"
+                },
+                {
+                    "id": "braum",
+                    "name": "Braum",
+                    "image": "tft16_braum.tft_set16.png"
+                }
+            ],
+            "item_components": []
+        },
+        {
+            "stt": 48,
+            "id": "luoi_hai_darkin",
+            "name": "Lưỡi Hái Darkin",
+            "image": "TFT16_TheDarkinScythe.png",
+            "description": "Chủ sở hữu nhận thêm tộc/hệ Darkin.\n\nMỗi 4 giây, chém vào các kẻ địch liền kề, gây 100% Sức Mạnh Công Kích Cơ Bản dưới dạng sát thương vật lý. Khi tham gia hạ gục hoặc khi chủ sở hữu lướt đi, chém lần nữa.\n\nLướt - Hồi Chiêu: 1.5 giây",
+            "damage_modifier": [
+                {
+                    "image": "AD.png",
+                    "damage": "+25%"
+                },
+                {
+                    "image": "AP.png",
+                    "damage": "+25"
+                }
+            ],
+            "average_position": "3.38",
+            "top_4_rate": "70.53",
+            "top_1_rate": "23.38",
+            "battle": "1,018",
+            "champions": [
+                {
+                    "id": "shyvana",
+                    "name": "Shyvana",
+                    "image": "tft16_shyvana.tft_set16.png"
+                },
+                {
+                    "id": "ambessa",
+                    "name": "Ambessa",
+                    "image": "tft16_ambessa.tft_set16.png"
+                },
+                {
+                    "id": "ornn",
+                    "name": "Ornn",
+                    "image": "tft16_ornn.tft_set16.png"
+                },
+                {
+                    "id": "bel'veth",
+                    "name": "Bel'Veth",
+                    "image": "tft16_belveth.tft_set16.png"
+                },
                 {
                     "id": "gangplank",
                     "name": "Gangplank",
@@ -5933,34 +6175,144 @@
             "item_components": []
         },
         {
-            "stt": 47,
-            "id": "gang_da_thu",
-            "name": "Găng Dã Thú",
-            "image": "TFT16_Item_Bilgewater_FreebootersFrock.png",
-            "description": "Khi có trên 50% máu, tăng gấp đôi lượng giáp và kháng phép cộng thêm từ trang bị này \n Mỗi 4 giây, gây sát thương phép bằng 50% tổng giáp và kháng phép hiện tại lên 2 kẻ địch gần nhất",
+            "stt": 49,
+            "id": "truong_darkin",
+            "name": "Trượng Darkin",
+            "image": "TFT16_TheDarkinStaff.png",
+            "description": "Chủ sở hữu nhận thêm tộc/hệ Darkin.\n\nVới mỗi 20 Năng Lượng đã tiêu hao, tung ra một sợi xích vào các kẻ địch gần mục tiêu hiện tại, gây ? sát thương phép.\n\nSát thương tăng theo Giai Đoạn",
             "damage_modifier": [
                 {
-                    "image": "Armor.png",
-                    "damage": "+45"
+                    "image": "AP.png",
+                    "damage": "+40"
+                }
+            ],
+            "average_position": "3.32",
+            "top_4_rate": "71.37",
+            "top_1_rate": "27.03",
+            "battle": "936",
+            "champions": [
+                {
+                    "id": "fiddlesticks",
+                    "name": "Fiddlesticks",
+                    "image": "tft16_fiddlesticks.tft_set16.png"
+                },
+                {
+                    "id": "ornn",
+                    "name": "Ornn",
+                    "image": "tft16_ornn.tft_set16.png"
+                },
+                {
+                    "id": "lissandra",
+                    "name": "Lissandra",
+                    "image": "tft16_lissandra.tft_set16.png"
+                },
+                {
+                    "id": "annie",
+                    "name": "Annie",
+                    "image": "tft16_annie.tft_set16.png"
+                },
+                {
+                    "id": "zilean",
+                    "name": "Zilean",
+                    "image": "tft16_zilean.tft_set16.png"
+                }
+            ],
+            "item_components": []
+        },
+        {
+            "stt": 50,
+            "id": "chat_no_cho_den",
+            "name": "Chất Nổ Chợ Đen",
+            "image": "TFT16_Item_Bilgewater_BlackmarketExplosives.png",
+            "description": "Mỗi 5 giây, gây 15 + 12% sát thương đã gây ra trong 5 giây dưới dạng sát thương phép lên mục tiêu hiện tại và 2 kẻ địch gần nhất.\n\nTướng Khuyên Dùng: Fizz",
+            "damage_modifier": [
+                {
+                    "image": "AP.png",
+                    "damage": "+20"
+                },
+                {
+                    "image": "AS.png",
+                    "damage": "+10%"
+                }
+            ],
+            "average_position": "3.31",
+            "top_4_rate": "69.47",
+            "top_1_rate": "27.45",
+            "battle": "714",
+            "champions": [
+                {
+                    "id": "fizz",
+                    "name": "Fizz",
+                    "image": "tft16_fizz.tft_set16.png"
+                },
+                {
+                    "id": "miss_fortune",
+                    "name": "Miss Fortune",
+                    "image": "tft16_missfortune.tft_set16.png"
+                },
+                {
+                    "id": "tahm_kench",
+                    "name": "Tahm Kench",
+                    "image": "tft16_tahmkench.tft_set16.png"
+                },
+                {
+                    "id": "gangplank",
+                    "name": "Gangplank",
+                    "image": "tft16_gangplank.tft_set16.png"
+                },
+                {
+                    "id": "twisted_fate",
+                    "name": "Twisted Fate",
+                    "image": "tft16_twistedfate.tft_set16.png"
+                }
+            ],
+            "item_components": []
+        },
+        {
+            "stt": 51,
+            "id": "vuong_mien_demacia",
+            "name": "Vương Miện Demacia",
+            "image": "TFT9_Item_CrownOfDemacia.png",
+            "description": "Nếu tướng mang nó là tướng Đỡ Đòn, hồi lại 3 - 21% Máu tối đa mỗi 2 giây (tùy theo giai đoạn). Nếu không, nhận 10% Sức Mạnh Công Kích và Sức Mạnh Phép Thuật mỗi 2 giây.\n\nNếu chủ sở hữu trang bị này hy sinh, bạn lập tức thua giao tranh.\n\nBạn có thể gỡ bỏ trang bị này bằng cách chuyển chủ sở hữu về hàng dự bị.",
+            "damage_modifier": [
+                {
+                    "image": "AS.png",
+                    "damage": "+30%"
                 },
                 {
                     "image": "Health.png",
-                    "damage": "300"
-                },
-                {
-                    "image": "RM.png",
-                    "damage": "+45"
+                    "damage": "+300"
                 }
             ],
-            "average_position": "3.14",
-            "top_4_rate": "73.29",
-            "top_1_rate": "31.34",
-            "battle": "1,490",
+            "average_position": "3.91",
+            "top_4_rate": "59.38",
+            "top_1_rate": "14.06",
+            "battle": "256",
             "champions": [
                 {
-                    "id": "nautilus",
-                    "name": "Nautilus",
-                    "image": "tft16_nautilus.tft_set16.png"
+                    "id": "yunara",
+                    "name": "Yunara",
+                    "image": "tft16_yunara.tft_set16.png"
+                },
+                {
+                    "id": "draven",
+                    "name": "Draven",
+                    "image": "tft16_draven.tft_set16.png"
+                },
+                {
+                    "id": "kai'sa",
+                    "name": "Kai'Sa",
+                    "image": "tft16_kaisa.tft_set16.png"
+                },
+                {
+                    "id": "miss_fortune",
+                    "name": "Miss Fortune",
+                    "image": "tft16_missfortune.tft_set16.png"
+                },
+                {
+                    "id": "bard",
+                    "name": "Bard",
+                    "image": "tft16_bard.tft_set16.png"
                 }
             ],
             "item_components": []
