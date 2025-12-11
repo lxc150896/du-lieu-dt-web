@@ -1,16 +1,14 @@
 [
     [
-      {
-        "id": "viego",
-        "name": "Viego",
-        "img_url": "tft16_viego.tft_set16.png"
-      }
-    ],
-    [
         {
             "id": "aphelios",
             "name": "Aphelios",
             "img_url": "tft16_aphelios.tft_set16.png"
+        },
+        {
+            "id": "ashe",
+            "name": "Ashe",
+            "img_url": "tft16_ashe.tft_set16.png"
         },
         {
             "id": "bard",
@@ -28,14 +26,14 @@
             "img_url": "tft16_sion.tft_set16.png"
         },
         {
-            "id": "teemo",
-            "name": "Teemo",
-            "img_url": "tft16_teemo.tft_set16.png"
-        },
-        {
             "id": "tristana",
             "name": "Tristana",
             "img_url": "tft16_tristana.tft_set16.png"
+        },
+        {
+            "id": "tryndamere",
+            "name": "Tryndamere",
+            "img_url": "tft16_tryndamere.tft_set16.png"
         }
     ],
     [
@@ -70,17 +68,17 @@
             "img_url": "tft16_nautilus.tft_set16.png"
         },
         {
+            "id": "sejuani",
+            "name": "Sejuani",
+            "img_url": "tft16_sejuani.tft_set16.png"
+        },
+        {
             "id": "vayne",
             "name": "Vayne",
             "img_url": "tft16_vayne.tft_set16.png"
         }
     ],
     [
-        {
-            "id": "ambessa",
-            "name": "Ambessa",
-            "img_url": "tft16_ambessa.tft_set16.png"
-        },
         {
             "id": "bel'veth",
             "name": "Bel'Veth",
@@ -90,6 +88,16 @@
             "id": "braum",
             "name": "Braum",
             "img_url": "tft16_braum.tft_set16.png"
+        },
+        {
+            "id": "diana",
+            "name": "Diana",
+            "img_url": "tft16_diana.tft_set16.png"
+        },
+        {
+            "id": "fizz",
+            "name": "Fizz",
+            "img_url": "tft16_fizz.tft_set16.png"
         },
         {
             "id": "garen",
@@ -127,9 +135,29 @@
             "img_url": "tft16_wukong.tft_set16.png"
         },
         {
+            "id": "seraphine",
+            "name": "Seraphine",
+            "img_url": "tft16_seraphine.tft_set16.png"
+        },
+        {
+            "id": "singed",
+            "name": "Singed",
+            "img_url": "tft16_singed.tft_set16.png"
+        },
+        {
             "id": "su_gia_khe_nut",
             "name": "Sứ Giả Khe Nứt",
             "img_url": "tft16_riftherald_splash_tile_0.tft_set16.png"
+        },
+        {
+            "id": "swain",
+            "name": "Swain",
+            "img_url": "tft16_swain.tft_set16.png"
+        },
+        {
+            "id": "veigar",
+            "name": "Veigar",
+            "img_url": "tft16_veigar.tft_set16.png"
         },
         {
             "id": "warwick",
@@ -154,11 +182,6 @@
             "img_url": "tft16_annie.tft_set16.png"
         },
         {
-            "id": "azir",
-            "name": "Azir",
-            "img_url": "tft16_azir.tft_set16.png"
-        },
-        {
             "id": "kindred",
             "name": "Kindred",
             "img_url": "tft16_kindred.tft_set16.png"
@@ -174,6 +197,11 @@
             "img_url": "tft16_sett.tft_set16.png"
         },
         {
+            "id": "t-hex",
+            "name": "T-Hex",
+            "img_url": "tft16_thex.tft_set16.png"
+        },
+        {
             "id": "tahm_kench",
             "name": "Tahm Kench",
             "img_url": "tft16_tahmkench.tft_set16.png"
@@ -187,6 +215,11 @@
             "id": "volibear",
             "name": "Volibear",
             "img_url": "tft16_volibear.tft_set16.png"
+        },
+        {
+            "id": "ziggs",
+            "name": "Ziggs",
+            "img_url": "tft16_ziggs.tft_set16.png"
         }
     ],
     [
@@ -204,6 +237,13 @@
             "id": "sylas",
             "name": "Sylas",
             "img_url": "tft16_sylas.tft_set16.png"
+        }
+    ],
+    [
+        {
+            "id": "tibbers",
+            "name": "Tibbers",
+            "img_url": "tft16_annietibbers.tft_set16.png"
         }
     ]
 ]
