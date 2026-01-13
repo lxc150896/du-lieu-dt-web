@@ -1,0 +1,53 @@
+{
+    "trang_bi_anh_sang": [
+        {
+            "stt": 1,
+            "id": "gang_dao_tac_anh_sang",
+            "name": "Radiant Thief's Gloves",
+            "image": "TFT5_Item_ThiefsGlovesRadiant.png",
+            "description": "Each round: Equip 2 random Radiant items.\n\n[Consumes 3 item slots.]",
+            "damage_modifier": [
+                {
+                    "image": "Crit.png",
+                    "damage": "+20%"
+                },
+                {
+                    "image": "Health.png",
+                    "damage": "+150"
+                }
+            ],
+            "average_position": "4.04",
+            "top_4_rate": "58.23",
+            "top_1_rate": "17.34",
+            "battle": "43,924",
+            "champions": [
+                {
+                    "id": "sett",
+                    "name": "Sett",
+                    "image": "tft16_sett.tft_set16.png"
+                },
+                {
+                    "id": "brock",
+                    "name": "Brock",
+                    "image": "tft16_brock_splash_tile_0.tft_set16.png"
+                },
+                {
+                    "id": "fizz",
+                    "name": "Fizz",
+                    "image": "tft16_fizz.tft_set16.png"
+                },
+                {
+                    "id": "shyvana",
+                    "name": "Shyvana",
+                    "image": "tft16_shyvana.tft_set16.png"
+                },
+                {
+                    "id": "galio",
+                    "name": "Galio",
+                    "image": "tft16_galio.tft_set16.png"
+                }
+            ],
+            "item_components": []
+        }
+    ]
+}

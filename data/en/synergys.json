@@ -1,0 +1,75 @@
+[
+    {
+        "stt": 1,
+        "id": "demacia",
+        "name": "シュリーマ",
+        "image": "Trait_Icon_16_Demacia.TFT_Set16.png",
+        "description": "毎秒、「シュリーマ」チャンピオンの攻撃速度が2%増加し、体力を20回復する。戦闘開始時、追加効果を獲得する。",
+        "description_icon": [
+            "毎秒、「シュリーマ」チャンピオンの攻撃速度が2%増加し、体力を20回復する。戦闘開始時、追加効果を獲得する。",
+            "\n"
+        ],
+        "description_detail": [
+            [
+                "2",
+                "最大体力20%"
+            ],
+            [
+                "3",
+                "物理防御と魔法防御50"
+            ],
+            [
+                "4",
+                "3秒ごとに、「シュリーマ」1体が超越して「神」になる。"
+            ]
+        ],
+        "champions": [
+            {
+                "id": "jarvan_iv",
+                "name": "レネクトン",
+                "image": "tft16_jarvaniv.tft_set16.png"
+            },
+            {
+                "id": "sona",
+                "name": "ナサス",
+                "image": "tft16_sona.tft_set16.png"
+            },
+            {
+                "id": "poppy",
+                "name": "アジール",
+                "image": "tft16_poppy.tft_set16.png"
+            },
+            {
+                "id": "xin_zhao",
+                "name": "ゼラス",
+                "image": "tft16_xinzhao.tft_set16.png"
+            },
+            {
+                "id": "vayne",
+                "name": "Vayne",
+                "image": "tft16_vayne.tft_set16.png"
+            },
+            {
+                "id": "garen",
+                "name": "Garen",
+                "image": "tft16_garen.tft_set16.png"
+            },
+            {
+                "id": "lux",
+                "name": "Lux",
+                "image": "tft16_lux.tft_set16.png"
+            },
+            {
+                "id": "galio",
+                "name": "Galio",
+                "image": "tft16_galio.tft_set16.png"
+            }
+        ],
+        "average_position": "1.09",
+        "top_4_rate": "100",
+        "top_1_rate": "91.08",
+        "battle": "471",
+        "trait": "オリジン",
+        "kich_hoat": "11"
+    }
+]

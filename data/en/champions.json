@@ -1,0 +1,83 @@
+[
+    {
+        "stt": 1,
+        "id": "baron_nashor",
+        "name": "Baron Nashor",
+        "image": "tft16_baronnashor.tft_set16.png",
+        "price": "7",
+        "average_position": "2.68",
+        "top_4_rate": "83.53",
+        "top_1_rate": "32.33",
+        "battle": "50,445",
+        "description": "Field 7 unique  Void units. + 10 Level",
+        "description_icon": [
+            "Field 7 unique  Void units. + 10 Level"
+        ],
+        "skill_name": "Wrath of the Void",
+        "skill_image": "TFT16_BaronNashor.png",
+        "starting_mana": 0,
+        "skill_mana": 50,
+        "skill_attack_range": 2,
+        "health": [
+            3000,
+            5400,
+            9720
+        ],
+        "attack_damage": [
+            120,
+            180,
+            270
+        ],
+        "damage_per_second": [
+            60,
+            90,
+            135
+        ],
+        "attack_speed": 0.5,
+        "armor": 85,
+        "magical_resistance": 85,
+        "stats": [
+            "Damage: %i:scaleAP% [30 / 45 / 500]",
+            "Damage: 280 = 250(%i:scaleAD%) + 30(%i:scaleAP%) [250 / 375 / 20000]",
+            "Acid Damage: 112 = 40% of 280 [40% / 45% / 50%]"
+        ],
+        "traits": [
+            {
+                "id": "hu_khong",
+                "name": "Void",
+                "image": "Trait_Icon_16_Void.TFT_Set16.png"
+            },
+            {
+                "id": "tai_uong",
+                "name": "Riftscourge",
+                "image": "Trait_Icon_16_Riftscourge.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "huyet_kiem",
+                "image": "TFT_Item_Bloodthirster.png"
+            },
+            {
+                "id": "vo_cuc_kiem",
+                "image": "TFT_Item_InfinityEdge.png"
+            },
+            {
+                "id": "mong_vuot_sterak",
+                "image": "TFT_Item_SteraksGage.png"
+            },
+            {
+                "id": "ban_tay_cong_ly",
+                "image": "TFT_Item_UnstableConcoction.png"
+            },
+            {
+                "id": "quyen_nang_khong_lo",
+                "image": "TFT_Item_TitansResolve.png"
+            }
+        ],
+        "unlock": {
+            "description": "Field 7 unique Void units. + 10 Level",
+            "type": true
+        }
+    }
+]
