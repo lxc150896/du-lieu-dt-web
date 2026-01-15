@@ -3,1875 +3,1875 @@
         {
             "stt": 1,
             "id": "hop_pandora",
-            "name": "Band of Thieves",
+            "name": "パンドラのアイテム",
             "image": "Pandora1.png",
-            "description": "Gain 1 Thief's Gloves."
+            "description": "ラウンド開始時: ベンチのアイテムがランダムに変更される。\n\nランダムな素材アイテムを1個獲得する。"
         },
         {
             "stt": 2,
             "id": "thu_thach_duoi_anh_chang_vang",
-            "name": "Component Buffet",
+            "name": "黄昏の試練",
             "image": "TheDarkenGlaive_I.TFT_Set16.png",
-            "description": "Whenever you would get a component, gain a component anvil instead. Gain a random component now.\n\nThe anvil offers 4 choices."
+            "description": "シン・ジャオを?体獲得する。最も強い味方のシン・ジャオが近くの敵を攻撃し続け、敵にとどめを刺す。★3で対人戦を5回プレイすると、ザーヘンが解除される。ザーヘンがシン・ジャオに置き換わり、シン・ジャオが装備していたアイテムを装備する。"
         },
         {
             "stt": 3,
             "id": "an_mon",
-            "name": "Corrosion",
+            "name": "アイテム福袋",
             "image": "Corrosion_I.TFT_Set13.png",
-            "description": "Enemy champions in the first two rows lose 4 Armor and Magic Resist every 2 seconds."
+            "description": "ランダムな完成アイテム1個を獲得する。"
         },
         {
             "stt": 4,
             "id": "bang_trom",
-            "name": "Fire Axiom",
+            "name": "チーム構築",
             "image": "BandThieves1.png",
-            "description": "Gain a Fire Hex. Champions within gain 15% Attack Damage and Ability Power. Their damage 1% Burns and 33% Wounds for 6 seconds."
+            "description": "「小型チャンピオン複製器」を1個獲得する。対人戦を5回行うと、さらにもう1個獲得する。\n\nこのアイテムを使うとコスト3以下のチャンピオンを1体獲得できる。"
         },
         {
             "stt": 5,
             "id": "buoc_nhay_niem_tin",
-            "name": "Item Grab Bag",
+            "name": "小さな福袋",
             "image": "LeapofFaith_I.TFT_Set16.png",
-            "description": "Gain 1 random completed item."
+            "description": "ランダムな素材アイテムを2個獲得する。"
         },
         {
             "stt": 6,
             "id": "chuyen_doi_thuong",
-            "name": "Leap of Faith",
+            "name": "素材ビュッフェ",
             "image": "Slice_of_Life_I.TFT_Set15.png",
-            "description": "Gain an Illaoi. Your strongest Illaoi becomes a Fighter. Her Ability is replaced with an airborne slam that's recast when she kills her target."
+            "description": "素材アイテムを入手する際、代わりに「素材アイテムの金床」を獲得する。即座にランダムな素材アイテムを1個獲得する。\n\n金床を使うと4つのアイテムから1つ選ぶことができる。"
         },
         {
             "stt": 7,
             "id": "dai_tiec_trang_bi",
-            "name": "Pandora's Items",
+            "name": "腐食",
             "image": "The-customer-is-always-right-I.png",
-            "description": "Round start: items on your bench are randomized. \n\nGain 1 random component."
+            "description": "前衛2列の敵チャンピオンの物理防御と魔法防御が2秒ごとに4低下する。"
         },
         {
             "stt": 8,
             "id": "dac_quyen_phu_gia",
-            "name": "Rolling For Days I",
+            "name": "オーグメントパワー",
             "image": "Silver-Spoon-I.png",
-            "description": "Gain 10 free Shop rerolls."
+            "description": "次のオーグメントのティアが1つ高くなる。"
         },
         {
             "stt": 9,
             "id": "gia_duoc+",
-            "name": "Small Grab Bag",
+            "name": "カナとカネ",
             "image": "Placebo_I.TFT_Set12.png",
-            "description": "Gain 2 random item components."
+            "description": "「素材アイテムの金床」を1個と3ゴールドを獲得する。"
         },
         {
             "stt": 10,
             "id": "ket_noi_gian_doan",
-            "name": "Table Scraps",
+            "name": "シルバーの運命",
             "image": "Missed-Connections-I.png",
-            "description": "After the next 2 carousels, gain one champion that was not taken and its item. Gain 1 gold."
+            "description": "ランダムなシルバーオーグメントを1個と2ゴールドを獲得する。"
         },
         {
             "stt": 11,
             "id": "kho_bau_sat",
-            "name": "Team Building",
+            "name": "ちょっとだけ魔法のダイス",
             "image": "Iron-Assets-I.png",
-            "description": "Gain a Lesser Champion Duplicator. Gain another after 5 player combats.\n\nThis item allows you to copy a 3-cost or less champion."
+            "description": "ダイスを振る。出た目に応じて報酬を獲得する。\n\n報酬: ?"
         },
         {
             "stt": 12,
             "id": "mot,_hai,_ba",
-            "name": "Trials of Twilight",
+            "name": "プラシーボ+",
             "image": "Threes-Company-I.png",
-            "description": "Gain ? Xin Zhao. Your strongest Xin Zhao constantly strikes nearby enemies and executes enemies. After 5 player combats as a 3-star, unlock Zaahen. He replaces Xin Zhao and takes his items."
+            "description": "味方チームの攻撃速度が1%増加する。14ゴールドを獲得する。"
         },
         {
             "stt": 13,
             "id": "ngon_gio_thu_hai",
-            "name": "Air Axiom",
+            "name": "ミスコネクション",
             "image": "Second--Wind-I.png",
-            "description": "Gain an Air Hex. Champions within gain 25% Attack Speed and their damage 30% Sunders enemies for 5 seconds."
+            "description": "すべてのコスト1チャンピオンを1体ずつ獲得する。"
         },
         {
             "stt": 14,
             "id": "nguyen_to_lua",
-            "name": "Augmented Power",
+            "name": "ローリングデイズ I",
             "image": "FireAxiom_I.TFT_Set16.png",
-            "description": "Your next augment is one tier higher."
+            "description": "ショップの無料リロールを10回獲得する。"
         },
         {
             "stt": 15,
             "id": "phuoc_lanh_vu_tru_i",
-            "name": "Backup Bows",
+            "name": "ワンワン、ツーツー、スリー",
             "image": "CelestialBlessing1.png",
-            "description": "Gain a Recurve Bow. After your team attacks 1000 times, gain 2 more.\n\nAttacks: ?"
+            "description": "コスト1のチャンピオンを1体、コスト2のチャンピオンを2体、コスト3のチャンピオンを1体獲得する。"
         },
         {
             "stt": 16,
             "id": "thu_gom_do_thua",
-            "name": "Best Friends I",
+            "name": "信仰震",
             "image": "TableScraps_I.TFT_Set13.png",
-            "description": "Allies isolated in pairs gain 10% Attack Speed and 10 Armor at the start of combat."
+            "description": "イラオイを1体獲得する。最も強いイラオイがファイターになる。スキルが空中から叩きつけるスキルに変化し、対象を倒すと再発動されるようになる。"
         },
         {
             "stt": 17,
             "id": "tiep_te_trang_bi",
-            "name": "Celestial Blessing I",
+            "name": "天の祝福 I",
             "image": "ItemGrabBag1.png",
-            "description": "Your team gains 12% Omnivamp. Excess healing is converted to a shield up to 200 Health."
+            "description": "味方チームのオムニヴァンプが12%増加する。余剰の回復量は最大200までシールドに変換される。"
         },
         {
             "stt": 18,
             "id": "tren_da_phat_trien",
-            "name": "Continuous Conjuration",
+            "name": "巨大なタイタン",
             "image": "OnARoll_I.TFT_Set16.png",
-            "description": "Gain a Needlessly Large Rod. After your team deals 38000 magic damage, gain 2 more.\n\nDamage dealt: ?"
+            "description": "プレイヤーの現在体力と最大体力が25増加する。ドラフトラウンドで自分が先に解放されるが、移動速度が遅くなる。"
         },
         {
             "stt": 19,
             "id": "tui_do_co_nho",
-            "name": "Extra Buckles",
+            "name": "援護の弓",
             "image": "SmallGrabBag_I.TFT_Set16.png",
-            "description": "Gain a Giant's Belt. After your team takes 75000 damage, gain 2 more.\n\nDamage taken: ?"
+            "description": "「リカーブ ボウ」を1個獲得する。味方チームが通常攻撃を1000回行うと、さらに2個獲得する。\n\n通常攻撃: ?"
         },
         {
             "stt": 20,
             "id": "xay_dung_doi_hinh",
-            "name": "Eye For An Eye+",
+            "name": "普通の日々",
             "image": "Building-an-army-I.png",
-            "description": "Gain a random component. For every 18 ally champions that die, gain another component (max 2).\n\nDeaths Remaining: ?"
+            "description": "ステージごとに2回、ランダムなチャンピオンを1体獲得する。そのコストはステージごとに増加する。この効果はコスト5のチャンピオンを1体入手すると終了する。"
         },
         {
             "stt": 21,
             "id": "xuc_xac_vo_tan_i",
-            "name": "Find Your Center",
+            "name": "残り物",
             "image": "Rolling-For-Days-I.png",
-            "description": "Your champion that starts combat in the center of the front row gains 15% Damage Amp and 15% max Health."
+            "description": "次の2回のドラフトラウンドで、誰も取らなかったチャンピオン1体とそのアイテムを獲得する。1ゴールドを獲得する。"
         },
         {
             "stt": 22,
             "id": "an_mieng_tra_mieng",
-            "name": "Firesale",
+            "name": "水のアクシオム",
             "image": "EyeforanEye_I.TFT_Set13.png",
-            "description": "Each round, steal a random 3-cost or lower champion from the shop. Gain 1 gold."
+            "description": "「水」のマスを1個獲得する。マス内のチャンピオンのマナ自動回復が3増加する。与えるダメージが5秒間、敵に30%の細断を付与する。"
         },
         {
             "stt": 23,
             "id": "an_mieng_tra_mieng+",
-            "name": "Flowing Tears",
+            "name": "炎のアクシオム",
             "image": "EyeforanEye_I.TFT_Set13.png",
-            "description": "Gain a Tear of the Goddess. After your team spends 6500 Mana, gain 2 more.\n\nMana spent: ?"
+            "description": "「炎」のマスを1つ獲得する。マス内のチャンピオンは攻撃力と魔力が15%増加する。それらのチャンピオンのダメージが、6秒間、1%の燃焼と33%の負傷を付与する。"
         },
         {
             "stt": 24,
             "id": "ban_than_i",
-            "name": "Focused Fire",
+            "name": "盗賊団",
             "image": "Best-Friends-I.png",
-            "description": "Your team gains 5% Attack Damage. Every 5 seconds, they gain 5% more."
+            "description": "「盗賊のグローブ」1個を獲得。"
         },
         {
             "stt": 25,
             "id": "cau_hoi_phuc_i",
-            "name": "Healing Orbs I",
+            "name": "絶好調",
             "image": "Healing-Orbs-I.png",
-            "description": "When an enemy dies, the nearest ally is healed for 220."
+            "description": "前回の戦闘でボードに配置したチャンピオンをスターアップさせるたび、2回分のショップ無料リロールを獲得する。2ゴールドを獲得する。"
         },
         {
             "stt": 26,
             "id": "cung_du_phong",
-            "name": "Iron Assets",
+            "name": "起死回生",
             "image": "RecurveWrecker_I.TFT_Set16.png",
-            "description": "Gain a component anvil and 3 gold."
+            "description": "戦闘開始から10秒後、味方チームが減少体力の40%の体力を回復する。"
         },
         {
             "stt": 27,
             "id": "don_quyet_dinh",
-            "name": "Latent Forge",
+            "name": "追加のバックル",
             "image": "CalledShot_I.TFT_Set12.png",
-            "description": "After 8 player combats, gain an Artifact anvil. \n\nThe anvil offers 4 choices. Artifacts are more powerful items with a unique effect."
+            "description": "「ジャイアント ベルト」を1個獲得する。味方チームが75000ダメージを受けると、さらに2個獲得する。\n\n受けたダメージ量: ?"
         },
         {
             "stt": 28,
             "id": "doc_hanh_i",
-            "name": "Missed Connections",
+            "name": "連続魔法",
             "image": "Exiles1.png",
-            "description": "Gain a copy of each 1-cost champion."
+            "description": "「ムダニ デカイ ロッド」を1個獲得する。味方チームが38000の魔法ダメージを与えると、さらに2個獲得する。\n\n与えたダメージ: ?"
         },
         {
             "stt": 29,
             "id": "duoc_nay_mat_kia_i",
-            "name": "On a Roll",
+            "name": "銀の匙",
             "image": "Good-For-Something-I.png",
-            "description": "Whenever you star up a champion that you fielded last combat, gain 2 free Shop rerolls. Gain 2 gold."
+            "description": "経験値を10獲得する。"
         },
         {
             "stt": 30,
             "id": "gia_duoc",
-            "name": "Ones Twos Three",
+            "name": "集中砲火",
             "image": "Placebo_I.TFT_Set12.png",
-            "description": "Gain 1 1-cost champion, 2 2-cost champions, and 1 3-cost champion."
+            "description": "味方チームの攻撃力が5%増加する。5秒ごとに、さらに5%増加する。"
         },
         {
             "stt": 31,
             "id": "kheo_tay_hay_lam",
-            "name": "Placebo",
+            "name": "風のアクシオム",
             "image": "CraftedCrafting_I.TFT_Set13.png",
-            "description": "Your team gains 1% Attack Speed. Gain 8 gold."
+            "description": "「風」のマスを1つ獲得する。マス内のチャンピオンの攻撃速度が25%増加し、与えるダメージが敵に5秒間30%の分解を付与する。"
         },
         {
             "stt": 32,
             "id": "khoa_du_phong",
-            "name": "Placebo+",
+            "name": "エグザイル I",
             "image": "ExtraBuckles_I.TFT_Set16.png",
-            "description": "Your team gains 1% Attack Speed. Gain 14 gold."
+            "description": "戦闘開始時に他の味方のチャンピオンと隣接していない味方チャンピオンは、10秒間最大体力の20%にあたるシールドを獲得する。"
         },
         {
             "stt": 33,
             "id": "khong_lo_ngoai_co",
-            "name": "Second Wind",
+            "name": "グラスキャノン I",
             "image": "TitanicTitan_I.TFT_Set13.png",
-            "description": "After 10 seconds of combat, your team heals 40% of their missing Health."
+            "description": "後列で戦闘を開始した味方が80%の体力で戦闘を開始するが、ダメージ増加効果を17%獲得する。"
         },
         {
             "stt": 34,
             "id": "kien_nhan_la_mot_duc_tinh",
-            "name": "Silver Destiny",
+            "name": "クリティカル サクセス",
             "image": "PatienceIsAVirtue_I.TFT_Set12.png",
-            "description": "Gain a random Silver Augment and 2 gold."
+            "description": "「スパーリング グローブ」を1個獲得する。味方チームの通常攻撃が320回クリティカルになると、さらに2個獲得する。\n\nクリティカル発動回数: ?"
         },
         {
             "stt": 35,
             "id": "lap_doi",
-            "name": "Silver Destiny+",
+            "name": "コールショット",
             "image": "Teaming-Up-I.png",
-            "description": "Gain a random Silver Augment and 4 gold."
+            "description": "連勝数を4に設定する。4ゴールドを獲得する。"
         },
         {
             "stt": 36,
             "id": "le_luu_ly",
-            "name": "Silver Spoon",
+            "name": "ここがセンター",
             "image": "GriefoftheGreatGoddess_I.TFT_Set16.png",
-            "description": "Gain 10 XP."
+            "description": "前列の中央で戦闘を開始した味方チャンピオンは、ダメージ増加効果が15%、最大体力が15%増加する。"
         },
         {
             "stt": 37,
             "id": "lo_ren_tiem_an",
-            "name": "Slice of Life",
+            "name": "シルバーの運命+",
             "image": "Long-time-Crafting-I.png",
-            "description": "Twice per stage, gain a random champion. Its cost increases by Stage. This effect ends after receiving 1 5-cost champion."
+            "description": "ランダムなシルバーオーグメントを1個と4ゴールドを獲得する。"
         },
         {
             "stt": 38,
             "id": "mot,_hai,_nam!",
-            "name": "Slightly Magic Roll",
+            "name": "ツインガーディアン",
             "image": "One-Two-Five-I.png",
-            "description": "Roll a die. Gain rewards based on the number rolled.\n\nReward: ?"
+            "description": "最前列にちょうど2体の味方が配置されている場合、それらの味方の物理防御が40、魔法防御が40増加する。"
         },
         {
             "stt": 39,
             "id": "mo_loi",
-            "name": "Teaming Up",
+            "name": "ヒーリングオーブ I",
             "image": "CarveAPath_I.TFT_Set16.png",
-            "description": "Gain 1 random component and 2 random 3-cost champions."
+            "description": "敵ユニットがデスした際に、最も近くにいる味方の体力が220回復する。"
         },
         {
             "stt": 40,
             "id": "nang_tam_uy_luc",
-            "name": "Titanic Titan",
+            "name": "ビッグフレンド I",
             "image": "PowerUp_I.TFT_Set13.png",
-            "description": "Increase your current and max player Health by 25. On carousel rounds you are released earlier, but are much slower."
+            "description": "体力が1750を超える味方と隣接して戦闘を開始した味方ユニットは、耐久力が10%増加する。"
         },
         {
             "stt": 41,
             "id": "nguyen_to_go",
-            "name": "Water Axiom",
+            "name": "ファイアセール",
             "image": "WoodAxiom_I.TFT_Set16.png",
-            "description": "Gain a Water Hex. Champions within gain 3 Mana Regen. Their damage 30% Shreds enemies for 5 seconds."
+            "description": "毎ラウンド、ショップからランダムなコスト3以下のチャンピオンを1体盗む。1ゴールドを獲得する。"
         },
         {
             "stt": 42,
             "id": "nguyen_to_khi",
-            "name": "Wood Axiom",
+            "name": "プラシーボ",
             "image": "AirAxiom_I.TFT_Set16.png",
-            "description": "Gain a Wood Hex. Champions within gain 15% max Health. After combat, they permanently gain 40 Health."
+            "description": "味方チームの攻撃速度が1%増加する。8ゴールドを獲得する。"
         },
         {
             "stt": 43,
             "id": "nguyen_to_nuoc",
-            "name": "Big Friend I",
+            "name": "ベストフレンド I",
             "image": "WaterAxiom_I.TFT_Set16.png",
-            "description": "Allies that start combat next to an ally with over 1750 Health gain 10% Durability."
+            "description": "戦闘開始時、他の味方から離れた位置にいる味方のペアは、攻撃速度が10%、物理防御が10増加する。"
         },
         {
             "stt": 44,
             "id": "phan_nhanh",
-            "name": "Boxing Lessons",
+            "name": "ボクシングのレッスン",
             "image": "Branching-Out-I.png",
-            "description": "Your team gains 30 Health for each ally that starts combat in the front row."
+            "description": "最前列で戦闘を開始した味方1体ごとに、味方チームの体力が30増加する。"
         },
         {
             "stt": 45,
             "id": "quay_trung_thuong",
-            "name": "Branching Out",
+            "name": "ラインナップ",
             "image": "SlightlyMagicRoll_I.TFT_Set16.png",
-            "description": "Gain a random Emblem."
+            "description": "前衛2列で戦闘を開始した味方1体ごとに、味方チームの物理防御と魔法防御が2増加する。"
         },
         {
             "stt": 46,
             "id": "song_ve",
-            "name": "Called Shot",
+            "name": "ワン、ツー、ファイブ！",
             "image": "TwinGuardians_I.TFT_Set16.png",
-            "description": "Set your win streak to 4. Gain 4 gold."
+            "description": "ランダムな素材アイテムを1個、2ゴールド、ランダムなコスト5のチャンピオンを1体獲得する。"
         },
         {
             "stt": 47,
             "id": "tap_chiu_don",
-            "name": "Carve a Path",
+            "name": "一致団結",
             "image": "BoxingLessons_I.TFT_Set16.png",
-            "description": "Gain a B.F. Sword. After your team deals 65000 physical damage, gain 2 more.\n\nDamage dealt: ?"
+            "description": "ランダムな素材アイテムを1個とランダムなコスト3のチャンピオンを2体獲得する。"
         },
         {
             "stt": 48,
             "id": "tap_trung_hoa_luc",
-            "name": "Chaotic Evolution",
+            "name": "命懸けの戦い",
             "image": "MarksMan_I.TFT_Set16.png",
-            "description": "Starring up a champion grants them one of the following: 100 Health, 6% Durability, 10% Ability Power, 10% Attack Damage, 10% Attack Speed. Bonuses stack."
+            "description": "タクティシャンは体力を20失うが、対人戦ラウンドを7回終えると30ゴールドを獲得する。"
         },
         {
             "stt": 49,
             "id": "thanh_ly_toan_bo",
-            "name": "Crafted Crafting",
+            "name": "大地のアクシオム",
             "image": "Firesale_I.TFT_Set13.png",
-            "description": "Whenever you craft a completed item, gain 2 rerolls."
+            "description": "「大地」のマスを1つ獲得する。マス内のチャンピオンは物理防御と魔法防御が30増加する。体力が50%になると、2マス以内の敵を1.5秒間スタンさせる。"
         },
         {
             "stt": 50,
             "id": "tien_hoa_bat_dinh",
-            "name": "Critical Success",
+            "name": "巧みなクラフト",
             "image": "ChaosEvolution_I.TFT_Set15.png",
-            "description": "Gain a Sparring Glove. After your team's attacks critically strike 320 times, gain 2 more.\n\nCritical strikes: ?"
+            "description": "完成アイテムを作成するたびに、リロールを2回獲得する。"
         },
         {
             "stt": 51,
             "id": "tien_ve_trung_tam",
-            "name": "Delayed Start",
+            "name": "忍耐の美徳",
             "image": "FindYourCenter_I.TFT_Set12.png",
-            "description": "Sell your board and bench. Gain 4 random 2-star 1-cost champions. Disable your Shop for the next 3 rounds."
+            "description": "直前のラウンドでチャンピオンを購入していない場合、毎ラウンド2回分のリロールを無料で獲得する。"
         },
         {
             "stt": 52,
             "id": "trieu_hoi_bat_tan",
-            "name": "Earth Axiom",
+            "name": "戦闘準備 I",
             "image": "HyperbolicRodExtender_I.TFT_Set16.png",
-            "description": "Gain an Earth Hex. Champions within gain 30 Armor and Magic Resist. At 50% Health, they Stun enemies within 2 hexes for 1.5 seconds."
+            "description": "毎ラウンド、ベンチにいる味方チャンピオンの体力が30、攻撃力が2%、魔力が2%、恒久的に増加する。チャンピオンはこの効果を1スタック持った状態で開始し、最大4回までスタックする。"
         },
         {
             "stt": 53,
             "id": "van_menh_bac",
-            "name": "Exiles I",
+            "name": "昼食代",
             "image": "SilverDestiny_I.TFT_Set15.png",
-            "description": "Your champions that start combat with no adjacent champions gain a 20% max Health shield for 10 seconds."
+            "description": "敵のタクティシャンに7ダメージを与えるたびに、2ゴールドを獲得する。\n合計獲得量: ?ゴールド"
         },
         {
             "stt": 54,
             "id": "van_menh_bac+",
-            "name": "Eye For An Eye",
+            "name": "有効活用 I",
             "image": "SilverDestiny_I.TFT_Set15.png",
-            "description": "For every 15 ally champions that die, gain a random component (max 3).\n\nDeaths Remaining: ?"
+            "description": "アイテムを装備していないチャンピオンが、デス時に50%の確率で1ゴールドをドロップする。"
         },
         {
             "stt": 55,
             "id": "buoc_dot_pha",
-            "name": "Glass Cannon I",
+            "name": "木のアクシオム",
             "image": "CriticalSuccess_I.TFT_Set16.png",
-            "description": "Allies that start combat in the back row begin combat at 80% Health but gain 17% Damage Amp."
+            "description": "「木」のマスを1個獲得する。マス内のチャンピオンの最大体力が15%増加する。戦闘後、恒久的に体力が40増加する。"
         },
         {
             "stt": 56,
             "id": "chien_loi_pham_i",
-            "name": "Good For Something I",
+            "name": "未来の鍛冶場",
             "image": "Spoils-Of-War-Legend-I.png",
-            "description": "Champions that aren't holding items have a 50% chance to drop 1 gold on death."
+            "description": "対人戦ラウンドを8回終えると、「アーティファクトの金床」を1個獲得する。\n\n金床を使うと4つのアイテムから1つ選ぶことができる。アーティファクトは独特な効果を持つ強力なアイテム。"
         },
         {
             "stt": 57,
             "id": "dua_hoi_i",
-            "name": "Late Game Specialist",
+            "name": "構成拡大",
             "image": "Big-Friend-I.png",
-            "description": "When you reach Level 9, gain 36 gold."
+            "description": "ランダムな紋章アイテムを1個獲得する。"
         },
         {
             "stt": 58,
             "id": "giap_tu_che_i",
-            "name": "Lineup",
+            "name": "流れる涙",
             "image": "Makeshift1.png",
-            "description": "Your team gains 2 Armor and Magic Resist for each ally that starts combat in the front two rows."
+            "description": "「女神の涙」を1個獲得する。味方チームが6500マナを使用すると、さらに2個獲得する。\n\n消費マナ: ?"
         },
         {
             "stt": 59,
             "id": "huong_den_hoi_ket",
-            "name": "Lunch Money",
+            "name": "混沌の進化",
             "image": "Late-Game-Specialist-I.png",
-            "description": "Every 7 damage you deal to enemy tacticians gives you 2 gold.\nTotal Payouts: ? Gold"
+            "description": "チャンピオンのスターレベルを上げる際に、以下のいずれかが増加する: 体力100、耐久力6%、魔力10%、攻撃力10%、攻撃速度10%。ボーナスはスタックする。"
         },
         {
             "stt": 60,
             "id": "khoi_dau_cham_tre",
-            "name": "Makeshift Armor I",
+            "name": "目には目を",
             "image": "HeadStart_I.TFT_Set12.png",
-            "description": "Allies without items equipped gain 30 Armor and Magic Resist."
+            "description": "味方チャンピオンが15体倒されるたびに、ランダムな素材アイテムを1個獲得する(最大3個)。\n\n残りデス数: ?"
         },
         {
             "stt": 61,
             "id": "lay_cong_bu_thu_i",
-            "name": "One, Two, Five!",
+            "name": "目には目を+",
             "image": "GlassCannon_I.TFT_Set13.png",
-            "description": "Gain 1 random component, 2 gold, and 1 random 5-cost champion."
+            "description": "ランダムな素材アイテムを1個獲得する。味方チャンピオンが18体倒されるたびに、新たな素材アイテムを1個獲得する(最大2個)。\n\n残りデス数: ?"
         },
         {
             "stt": 62,
             "id": "nguyen_to_dat",
-            "name": "Patience is a Virtue",
+            "name": "遅れて開始",
             "image": "EarthAxiom_I.TFT_Set16.png",
-            "description": "Each round, gain 2 free rerolls if you did not buy a champion last round."
+            "description": "ボードとベンチを売却する。ランダムな★2のコスト1チャンピオンを4体獲得する。次の3ラウンドの間、自分のショップが無効になる。"
         },
         {
             "stt": 63,
             "id": "nhat_thong",
-            "name": "Preparation I",
+            "name": "道を切り拓け",
             "image": "StandUnited1.png",
-            "description": "Champions on your bench permanently gain 30 Health, 2% Attack Damage, and 2% Ability Power every round. Champions start with 1 stack of this effect, and can stack up to 4 times."
+            "description": "「B.F.ソード」を1個獲得する。味方チームが65000の物理ダメージを与えると、さらに2個獲得する。\n\n与えたダメージ: ?"
         },
         {
             "stt": 64,
             "id": "nuoc_di_lieu_linh",
-            "name": "Risky Moves",
+            "name": "サバイバー",
             "image": "Risky-Moves-I.png",
-            "description": "Your Tactician loses 20 Health, but after 7 player combats, gain 30 gold."
+            "description": "4ゴールドを獲得する。3人のプレイヤーが敗退すると、さらに100ゴールドを獲得する。"
         },
         {
             "stt": 65,
             "id": "phao_kich_tam_xa",
-            "name": "Spoils of War I",
+            "name": "ダミー化",
             "image": "ArtilleryBarrage_I.TFT_Set16.png",
-            "description": "Enemies have a 25% chance to drop loot when killed."
+            "description": "ボードとベンチにいるすべてのチャンピオンを失う。それらのユニットの合計体力の80%の体力を持つダミーを1体獲得する。ステージごとにダミーの体力が1200増加する。"
         },
         {
             "stt": 66,
             "id": "tien_an_trua",
-            "name": "Twin Guardians",
+            "name": "ミッションの再開",
             "image": "BloodBank_I.png",
-            "description": "If you have exactly 2 allies in your first row, grant them 40 Armor and 40 Magic Resist."
+            "description": "ボードとベンチにいるすべての味方チャンピオンを削除する。ランダムな★2のコスト3チャンピオンを2体、★2のコスト2チャンピオンを3体、★2のコスト1チャンピオンを1体獲得する。"
         },
         {
             "stt": 67,
             "id": "tien_tuyen_vung_chai",
-            "name": "Artillery Barrage",
+            "name": "レイトゲーム スペシャリスト",
             "image": "Lineup-I.png",
-            "description": "Gain a Rumble. Your strongest Rumble gains +7 Range and constantly fires missiles at enemies, increased with Attack Speed."
+            "description": "レベル9に到達すると、36ゴールドを獲得する。"
         },
         {
             "stt": 68,
             "id": "hinh_nhan_hoa",
-            "name": "Branching Out+",
+            "name": "一致団結",
             "image": "Dummify_I.TFT_Set13.png",
-            "description": "Gain a random Emblem and a Reforger.\n\nReforgers allow you to remake any item."
+            "description": "チーム内で発動している特性1つにつき(固有特性を除く)、攻撃力が2%、魔力が1.5%増加する。\n\n現在のボーナス: ?% \n  ?%"
         },
         {
             "stt": 69,
             "id": "ke_song_sot",
-            "name": "Dummify",
+            "name": "効率的なショッピング",
             "image": "Survivor_I.TFT_Set13.png",
-            "description": "Lose all champions on your board and bench. Gain a Training Dummy with 80% of their combined health. The dummy gains 1200 Health per stage."
+            "description": "次の4回のドラフトで、取得したチャンピオンのコピーを1体追加で獲得する。"
         },
         {
             "stt": 70,
             "id": "lam_nong_i",
-            "name": "Efficient Shopper",
+            "name": "即席アーマー I",
             "image": "Preparation-I.png",
-            "description": "For the next 4 carousels, gain a second copy of the champion taken."
+            "description": "アイテムを装備していない味方の物理防御と魔法防御が30増加する。"
         },
         {
             "stt": 71,
             "id": "phan_nhanh+",
-            "name": "Recombobulator",
+            "name": "大砲の雨",
             "image": "Branching-Out-I.png",
-            "description": "Champions on your board permanently transform into random champions 1 cost tier higher (max 5). Gain 2 Magnetic Removers."
+            "description": "ランブルを1体獲得する。最も強い味方のランブルの射程が+7増加し、敵にミサイルを発射し続ける。ミサイルは攻撃速度で増加する。"
         },
         {
             "stt": 72,
             "id": "tai_khoi_dong_nhiem_vu",
-            "name": "Restart Mission",
+            "name": "戦場の略奪 I",
             "image": "RestartMission_I.TFT_Set12.png",
-            "description": "Remove all champions on your board and bench. Gain 2 random 2-star 3-costs, 3 2-star 2-costs, and 1 2-star 1-cost champion."
+            "description": "敵が倒された際に、25%の確率で戦利品をドロップする。"
         },
         {
             "stt": 73,
             "id": "thuong_gia_khon_ngoan",
-            "name": "Stand United",
+            "name": "構成拡大+",
             "image": "EfficientShopper_I.TFT_Set15.png",
-            "description": "Gain 2% Attack Damage and 1.5% Ability Power for each non-unique Trait active across your team.\n\nCurrent Bonus: ?% \n  ?%"
+            "description": "ランダムな紋章アイテムを1個と「再合成装置」を1個獲得する。\n\n「再合成装置」はあらゆるアイテムを別のアイテムに変化させる。"
         },
         {
             "stt": 74,
             "id": "xoay_bai_tu_dong",
-            "name": "Survivor",
+            "name": "混乱回復装置",
             "image": "Recombobulator-I.png",
-            "description": "Gain 4 gold. After 3 players are eliminated, gain 100 more gold."
+            "description": "フィールド上のチャンピオンを、コストティアが1つ上のランダムなチャンピオンに恒久的に変化させる(最大5体)。「磁力式除去装置」を2個獲得する。"
         }
     ],
     "2": [
         {
             "stt": 1,
             "id": "demacia_truong_ton",
-            "name": "Big Grab Bag",
+            "name": "ジュエル ロータス I",
             "image": "DemaciaForever_II.TFT_Set16.png",
-            "description": "Gain 3 random components, 2 gold, and 1 Reforger. \n\nReforgers allow you to remake any item."
+            "description": "味方チームのクリティカル率が20%増加し、スキルがクリティカル判定を持つ。"
         },
         {
             "stt": 2,
             "id": "giap_gai_thep",
-            "name": "Jeweled Lotus I",
+            "name": "シルコの復讐",
             "image": "ThornPlatedArmor_II.TFT_Set12.png",
-            "description": "Your team gains 20% Critical Strike Chance, and their Abilities can critically strike."
+            "description": "「ゾウン」チャンピオンがデス時に爆発して「シマー」になり、周囲の敵2体に最大体力の40%にあたる魔法ダメージを与える。ブリッツクランク、エコー、ヴァイを1体ずつ獲得する。"
         },
         {
             "stt": 3,
             "id": "hac_diet_de_vuong",
-            "name": "Pandora's Items II",
+            "name": "ソーンプレートアーマー",
             "image": "RuinedKing_II.TFT_Set16.png",
-            "description": "Round start: items on your bench are randomized.\n\nGain 2 random components."
+            "description": "「ブランブル ベスト」を1個獲得する。味方の「ブランブル ベスト」はステージに応じてダメージが20-170%増加する。"
         },
         {
             "stt": 4,
             "id": "kham_bao_thach_i",
-            "name": "Portable Forge",
+            "name": "デマーシアよ永遠に",
             "image": "Jeweled-Lotus-II.png",
-            "description": "Choose 1 of 4 Artifacts.\n\nArtifacts are more powerful items with a unique effect."
+            "description": "奮起するごとに「デマーシア」の体力が恒久的に4増加する。さらに、3回奮起するごとに、恒久的に攻撃力と魔力が1.5%増加する。ジャーヴァンⅣ、ソナ、シン・ジャオを1体ずつ獲得する。"
         },
         {
             "stt": 5,
             "id": "lo_ren_than_thoai",
-            "name": "Silco's Revenge",
+            "name": "パンドラのアイテム II",
             "image": "PortableForge2.png",
-            "description": "Zaunites explode into Shimmer on death, dealing 40% of their max Health to 2 nearby enemies as magic damage. Gain a Blitzcrank, an Ekko, and a Vi."
+            "description": "ラウンド開始時: ベンチのアイテムがランダムに変更される。\n\nランダムな素材アイテムを2個獲得する。"
         },
         {
             "stt": 6,
             "id": "lua_chon_doc_quyen",
-            "name": "The Ruined King",
+            "name": "ポータブル フォージ",
             "image": "ExclusiveCustomization_II.TFT_Set15.png",
-            "description": "Gain a 2-star Viego. Your strongest Viego shares 30% of his Passive with other Shadow Isles allies. After collecting 100 souls, his Ability upgrades."
+            "description": "4個のアーティファクトから1個を選択する。\n\nアーティファクトは独自の効果を持つ強力なアイテム。"
         },
         {
             "stt": 7,
             "id": "silco_bao_thu",
-            "name": "A Magic Roll",
+            "name": "大きな福袋",
             "image": "SilcosRevenge_II.TFT_Set16.png",
-            "description": "Roll 3 dice. Gain rewards based on their total.\n\nReward: ?"
+            "description": "ランダムな素材アイテムを3個、2ゴールド、「再合成装置」を1個獲得する。\n\n「再合成装置」はアイテムを別のアイテムに変化させる。"
         },
         {
             "stt": 8,
             "id": "thoat_khoi_xieng_thep",
-            "name": "Ascension",
+            "name": "滅びの王",
             "image": "UnsealedFromSteel_II.TFT_Set16.png",
-            "description": "After 15 seconds of combat, gain 60% Damage Amp."
+            "description": "★2のヴィエゴを1体獲得する。最も強い味方のヴィエゴが固有スキルの30%を他の味方「シャドウアイル」ユニットに分配する。魂を100個集めると、スキルがアップグレードされる。"
         },
         {
             "stt": 9,
             "id": "trang_bi_pandora_ii",
-            "name": "Celestial Blessing II",
+            "name": "鋼からの解放",
             "image": "Pandora2.png",
-            "description": "Your team gains 18% Omnivamp. Excess healing is converted to a shield up to 400 Health."
+            "description": "4つあるダーキンの武器から1つを選ぶ。ダーキンの武器は、ダーキンの特性を付与するアーティファクト。"
         },
         {
             "stt": 10,
             "id": "tui_do_co_dai",
-            "name": "Crown's Will",
+            "name": "限定カスタマイズ",
             "image": "Grab-Bag-II.png",
-            "description": "Gain a Needlessly Large Rod. Your team gains 12 Ability Power and 10 Armor."
+            "description": "「幸運のアイテムチェスト」を1個、「磁力式除去装置」を1個、10ゴールドを獲得する。\n\n「幸運のアイテムチェスト」をチャンピオンに使用すると、おすすめアイテムのアーマリーから選択できる！"
         },
         {
             "stt": 11,
             "id": "bai_hoc_so_khai",
-            "name": "Deadlier Caps",
+            "name": "アセンション",
             "image": "EarlyLearning_II.TFT_Set16_ChampionAugments.png",
-            "description": "Gain a Rabadon's Deathcap. Rabadon's Deathcaps permanently gain null% Ability Power whenever their holders score a takedown."
+            "description": "戦闘開始から15秒経過すると、60%のダメージ増加効果を獲得する。"
         },
         {
             "stt": 12,
             "id": "bao_ve_thien_phan",
-            "name": "Defense of the Placidium",
+            "name": "ギリギリの救出",
             "image": "DefenseofIonia_II.TFT_Set16.png",
-            "description": "Your team gains 8% Durability, increased to 12% if the Ionia trait is active."
+            "description": "各味方ユニットの体力が初めて35%以下になったとき、体力が最大体力の20%回復する。"
         },
         {
             "stt": 13,
             "id": "cau_hoi_phuc_ii",
-            "name": "Demacia Forever",
+            "name": "クラウンの決意",
             "image": "Healing-Orbs-II.png",
-            "description": "Demacians gain 4 permanent Health every time they rally. They also gain 1.5% permanent Attack Damage and Ability Power every 3 rallies. Gain a Jarvan IV, a Sona, and a Xin Zhao."
+            "description": "「ムダニ デカイ ロッド」を1個獲得する。味方チームの魔力が12、物理防御が10増加する。"
         },
         {
             "stt": 14,
             "id": "chien_tuong_khai_hoan",
-            "name": "Early Learnings",
+            "name": "グラスキャノン II",
             "image": "Unforgotten_II.TFT_Set16.png",
-            "description": "Your team gains 8% Attack Damage & Ability Power. This increases by 1% after each player combat. 1-cost champions gain double.\n?\nTFT Vegas Open, 2023"
+            "description": "後列で戦闘を開始した味方が80%の体力で戦闘を開始するが、ダメージ増加効果を30%獲得する。"
         },
         {
             "stt": 15,
             "id": "chuan_xac_va_uyen_chuyen",
-            "name": "Exclusive Customization",
+            "name": "スター誕生",
             "image": "PrecisionGrace_II.TFT_Set16.png",
-            "description": "Gain a Lucky Item Chest and a Magnetic Remover and 10 gold.\n\nUse a Lucky Item Chest on a champion to choose from an armory of recommended items!"
+            "description": "最初に購入したコスト1のチャンピオンとコスト2のチャンピオンが即座に★2にアップグレードされる。7ゴールドを獲得する。"
         },
         {
             "stt": 16,
             "id": "cong_met_nghi!",
-            "name": "Feed the Flames",
+            "name": "セラフィムの杖",
             "image": "Tons-of-Stats-II.png",
-            "description": "Gain a Sunfire Cape. Your team gains 12% Omnivamp when attacking Burning enemies."
+            "description": "「アークエンジェル スタッフ」を1個獲得する。装備者の魔力が90%以上だった場合、「アークエンジェル スタッフ」から2のマナ自動回復を追加で獲得する。"
         },
         {
             "stt": 17,
             "id": "cuoc_thi_nang_ta",
-            "name": "Glass Cannon II",
+            "name": "プラシディウムの防衛",
             "image": "LiftingContest_II.TFT_Set16.png",
-            "description": "Allies that start combat in the back row begin combat at 80% Health but gain 30% Damage Amp."
+            "description": "味方チームの耐久力が8%増加し、「アイオニア」の特性が有効なら12%増加する。"
         },
         {
             "stt": 18,
             "id": "cuu_trong_gang_tac",
-            "name": "Heavy Is the Crown",
+            "name": "メイスの決意",
             "image": "LastSecondSave_II.TFT_Set15.png",
-            "description": "Gain a Crown of Demacia, which provides significant bonuses to the wearer. If the holder dies, lose the round."
+            "description": "「スパーリング グローブ」を1個獲得する。味方チームの攻撃速度が8%、クリティカル率が20%増加する。"
         },
         {
             "stt": 19,
             "id": "darkwill_xam_luoc",
-            "name": "Heroic Grab Bag+",
+            "name": "もっと怖いキャップ",
             "image": "NoxianInvasion_II.TFT_Set16.png",
-            "description": "Gain 2 Lesser Champion Duplicators and 8 gold.\n\nThis item allows you to copy a 3-cost or less champion."
+            "description": "「ラバドン デスキャップ」を1個獲得する。装備者がキルまたはアシストを獲得するたび、「ラバドン デスキャップ」の魔力が恒久的にnull%増加する。"
         },
         {
             "stt": 20,
             "id": "do_du_i",
-            "name": "Heroic Grab Bag++",
+            "name": "リデンプションの魂",
             "image": "IndecisionI_II.TFT_Set16.png",
-            "description": "Gain 2 Lesser Champion Duplicators and 14 gold.\n\nThis item allows you to copy a 3-cost or less champion."
+            "description": "「スピリット ビサージュ」を1個獲得する。5秒ごとに、「スピリット ビサージュ」が1マス以内の味方を、減少体力の10%回復する。"
         },
         {
             "stt": 21,
             "id": "do_du_ii",
-            "name": "Indecision II",
+            "name": "天の祝福 II",
             "image": "IndecisionI_II.TFT_Set16.png",
-            "description": "In 3 rounds, choose a new augment of the same tier. Gain 12 gold now."
+            "description": "味方チームのオムニヴァンプが18%増加する。余剰の回復量は最大400までシールドに変換される。"
         },
         {
             "stt": 22,
             "id": "dong_tien_mo_am",
-            "name": "Indiscriminate Killer",
+            "name": "早期教育",
             "image": "MirroredMonetization_II.TFT_Set13.png",
-            "description": "Gain a Giant Slayer. Giant Slayers gain their Damage Amp against all enemies instead of just Tanks."
+            "description": "味方チームの攻撃力と魔力が8%増加する。この効果は各対人戦終了後に1%増加する。コスト1のチャンピオンは増加量が2倍になる。\n?\n2023 TFT Vegas Open"
         },
         {
             "stt": 23,
             "id": "doi_hinh_toi_uu",
-            "name": "Last Second Save",
+            "name": "最強の四配者",
             "image": "MaxBuild_II.TFT_Set16_ChampionAugments.png",
-            "description": "The first time each ally falls below 35% Health, they restore 20% maximum Health."
+            "description": "次にゴールドで購入するコスト4のチャンピオンが、即座に★2にアップグレードされる。12ゴールドを獲得する。"
         },
         {
             "stt": 24,
             "id": "goi_bao_ho",
-            "name": "Lifting Competition",
+            "name": "英雄のラッキーバッグ+",
             "image": "CarePackage_II.TFT_Set15.png",
-            "description": "At the start of each round, if the combined Health of all your unique Bruisers is high enough, gain a reward and increase the threshold (up to four times). Gain an Shen and a Sion.\n\n?? / ?"
+            "description": "「小型チャンピオン複製器」2個と8ゴールドを獲得する。\n\n「小型チャンピオン複製器」を使うとコスト3以下のチャンピオンのコピーを1体獲得できる。"
         },
         {
             "stt": 25,
             "id": "hang_cho_pandora",
-            "name": "Mace's Will",
+            "name": "英雄のラッキーバッグ++",
             "image": "Pandoras-Bench-II.png",
-            "description": "Gain a Sparring Gloves. Your team gains 8% Attack Speed and 20% Critical Strike Chance."
+            "description": "「小型チャンピオン複製器」2個と14ゴールドを獲得する。\n\n「小型チャンピオン複製器」を使うとコスト3以下のチャンピオンのコピーを1体獲得できる。"
         },
         {
             "stt": 26,
             "id": "hao_quang_nhan_vat_chinh",
-            "name": "Malicious Monetization",
+            "name": "複製",
             "image": "PlotArmor_II.TFT_Set15.png",
-            "description": "Gain 2 gold. For the next 3 rounds, enemy champions drop 2 gold when killed.\n\n?"
+            "description": "3つの素材アイテムから1つを選ぶ。次の2ラウンドの間、その素材アイテムのコピーを1個獲得する。"
         },
         {
             "stt": 27,
             "id": "huyet_te",
-            "name": "Mess Hall",
+            "name": "邪悪な収益化",
             "image": "TrailofBlood_II.TFT_Set16.png",
-            "description": "After 10 seconds of combat, your champions gain 8% Attack Speed and attacks also hurl 2 delicious projectiles that deal 25 (\n) magic damage."
+            "description": "2ゴールドを獲得する。次の3ラウンドの間、敵チャンピオンが倒された際に2ゴールドをドロップする。\n\n?"
         },
         {
             "stt": 28,
             "id": "khu_giao_dich",
-            "name": "Pandora's Bench",
+            "name": "2のトリック",
             "image": "Trade2.png",
-            "description": "At the start of every round, champions on the 3 rightmost bench slots transform into random champions of the same cost. Gain 6 gold."
+            "description": "ランダムな★2のコスト2チャンピオンを1体とランダムな★2のコスト1チャンピオンを2体獲得する。"
         },
         {
             "stt": 29,
             "id": "kiem_tu_than",
-            "name": "ReinFOURcement",
+            "name": "インフィニティの守護",
             "image": "DeadlierBlades_II.TFT_Set15.png",
-            "description": "The next 4-cost champion you buy with gold is instantly upgraded to 2-star. Gain 12 gold."
+            "description": "即座に4ゴールドを獲得する。ステージ3-7で「インフィニティ フォース」を1個獲得する。「インフィニティ フォース」が同じ列の味方に体力の15%にあたる耐久値を持つシールドを付与する。\n\n2023 Monsters Attack Championship"
         },
         {
             "stt": 30,
             "id": "kien_nhan_hoc_tap",
-            "name": "Replication",
+            "name": "ウォーロードの名誉",
             "image": "Learning-From-Experience-II.png",
-            "description": "Choose 1 of 3 components. For the next 2 rounds, gain a copy of that component."
+            "description": "毎ラウンド、味方チームの攻撃力と魔力が5%増加する。この効果は最大4回までスタックする。"
         },
         {
             "stt": 31,
             "id": "ky_nguyen",
-            "name": "Sentinels of Light",
+            "name": "エポック",
             "image": "Epoch_II.png",
-            "description": "Gain a Lucian & Senna and a 2-star Vayne. Vayne fires additional bolts at enemies afflicted with Black Mist and on takedown, grants Attack Speed to Lucian & Senna."
+            "description": "このオーグメント獲得時、および各ステージ開始時に4 XPの経験値を獲得する。また、3回分の無料リロールを獲得する。"
         },
         {
             "stt": 32,
             "id": "lay_cong_bu_thu_ii",
-            "name": "Seraphim's Staff",
+            "name": "ゴールドの雨",
             "image": "GlassCannon_II.TFT_Set13.png",
-            "description": "Gain an Archangel's Staff. Archangel's Staff grants 2 additional Mana Regen if its holder has 90% or more Ability Power."
+            "description": "即座に7ゴールドを獲得し、その後は毎ラウンド1ゴールドを獲得する。"
         },
         {
             "stt": 33,
             "id": "linh_hon_chuoc_toi",
-            "name": "Speedy Double Kill",
+            "name": "ステータスマシマシ",
             "image": "SpiritofRedemption_II.TFT_Set16.png",
-            "description": "Gain a Guinsoo's Rageblade. When 2 players are eliminated, gain 40 gold.\n\nFates Championship, 2021"
+            "description": "味方チームの体力が44、攻撃力が4%、魔力が4%、物理防御が4、魔法防御が4、攻撃速度が4%、マナが4増加する。"
         },
         {
             "stt": 34,
             "id": "mu_tu_than",
-            "name": "Spirit of Redemption",
+            "name": "ダークウィルの侵略",
             "image": "DeadlierCaps_II.TFT_Set15.png",
-            "description": "Gain a Spirit Visage. Every 5 seconds, Spirit Visage heals allies within 1 hex for 10% of their missing Health."
+            "description": "味方チームのダメージ増加効果が10%増加し、「ノクサス」の特性が有効なら15%増加する。"
         },
         {
             "stt": 35,
             "id": "nem_mui_lua",
-            "name": "Stars Are Born",
+            "name": "デッドリアー ブレード",
             "image": "FeedTheFlames_II.TFT_Set16.png",
-            "description": "The first 1-cost and 2-cost champions you buy are instantly upgraded to 2-star. Gain 7 gold."
+            "description": "「デスブレード」を1個獲得する。装備者がキルまたはアシストを獲得するたび、「デスブレード」の攻撃力が恒久的に0%増加する。"
         },
         {
             "stt": 36,
             "id": "nha_may_tai_che+",
-            "name": "Thorn-Plated Armor",
+            "name": "トライフェクタ I",
             "image": "Salvage2.png",
-            "description": "Gain a Bramble Vest. Your Bramble Vests deal 20-170% more damage (based on Stage)."
+            "description": "コスト3チャンピオンを2体獲得する。\n戦闘開始時: ランダムな3体のコスト3チャンピオンの体力が220、攻撃速度が20%増加する。"
         },
         {
             "stt": 37,
             "id": "nhan_ban",
-            "name": "Unsealed From Steel",
+            "name": "トレードセクター",
             "image": "Replication-II.png",
-            "description": "Choose 1 of 4 Darkin Weapons. Darkin Weapons are Artifacts that grant the Darkin trait."
+            "description": "毎ラウンド、ショップの無料リロール1回分を獲得する。4ゴールドを獲得する。"
         },
         {
             "stt": 38,
             "id": "phuoc_lanh_vu_tru_ii",
-            "name": "Warlord's Honor",
+            "name": "パンドラのベンチ",
             "image": "CelestialBlessing2.png",
-            "description": "Every round, your team gain 5% Attack Damage and Ability Power, stacking up to 4 times."
+            "description": "各ラウンドの開始時に、ベンチの右側3スロットにいるチャンピオンが、同じコストのランダムなチャンピオンに変化する。6ゴールドを獲得する。"
         },
         {
             "stt": 39,
             "id": "sanh_dong_duc",
-            "name": "Blood Offering",
+            "name": "ヒーリングオーブ II",
             "image": "FoodfightTactics_II.TFT_Set15.png",
-            "description": "Gain a Bloodthirster. Combat start: Allies holding Bloodthirsters lose 20% Health but gain a 30% Health shield and 10% Attack Damage."
+            "description": "敵ユニットがデスした際に、最も近くにいる味方の体力が440回復する。"
         },
         {
             "stt": 40,
             "id": "sat_thu_khat_mau",
-            "name": "Bringer of Ruin",
+            "name": "マックスビルド",
             "image": "IndiscriminateSlayer_II.TFT_Set16.png",
-            "description": "Every takedown Atakhan scores permanently grants him 2% Ability Power and 40 max Health. Gain a Briar and a Sion. \n(Current Takedowns: ?)"
+            "description": "「チャンピオン複製器」を1個とショップの無料リロールを5回獲得する。ステージ6-1でこれらを再び獲得する。\n\n2020 Galaxies Championship"
         },
         {
             "stt": 41,
             "id": "song_sat_toc_hanh",
-            "name": "Care Package",
+            "name": "リフティング大会",
             "image": "SpeedyDoubleKill_II.TFT_Set16_ChampionAugments.png",
-            "description": "Now and at the start of the next 2 Stages, receive a care package with loot and 3 gold."
+            "description": "各ラウンドの開始時に、異なる味方ブルーザーすべての合計体力が一定値を上回っている場合、報酬を獲得し、しきい値が増加する(4回まで)。シェンとサイオンを1体ずつ獲得する。\n\n?? / ?"
         },
         {
             "stt": 42,
             "id": "tang_truong_bung_no+",
-            "name": "Cry Me A River",
+            "name": "主人公補正",
             "image": "ExplosiveGrowth_II.TFT_Set12.png",
-            "description": "Gain a Tear of the Goddess. Your team gains 1 Mana Regen. After 12 seconds in combat, increase this to 3."
+            "description": "味方チームの物理防御と魔法防御が8増加する。自身の体力が50%未満になると、戦闘終了まで、これが40に増加する。"
         },
         {
             "stt": 43,
             "id": "thang_hoa",
-            "name": "Darkwill's Invasion",
+            "name": "仕送り",
             "image": "Ascension2.png",
-            "description": "Your team gains 10% Damage Amp, increased to 15% if the Noxus trait is active."
+            "description": "即座に、そして次の2ステージの開始時に、戦利品と3ゴールドが入った贈り物を受け取る。"
         },
         {
             "stt": 44,
             "id": "toan_sao_la_sao",
-            "name": "Deadlier Blades",
+            "name": "俺だけレベルアップ",
             "image": "Stars-are-born-II.png",
-            "description": "Gain a Deathblade. Deathblades permanently gain 0% Attack Damage whenever their holders score a takedown."
+            "description": "次の5回の対人戦で、味方チームのサイズが1になるが、ボードに配置したチャンピオンはステータスが大幅に増加する。そのチャンピオンがキルを獲得するたびに1 XPの経験値を獲得する。その後、素材アイテムを2個獲得する。"
         },
         {
             "stt": 45,
             "id": "truong_dai_thien_su",
-            "name": "Epoch",
+            "name": "優柔不断 I",
             "image": "SeraphimsStaff_II.TFT_Set16.png",
-            "description": "Now, and at the start of every stage, gain 4 XP and 3 free rerolls."
+            "description": "3ラウンド後、同じティアの新たなオーグメントを1つ選択する。即座に8ゴールドを獲得する。"
         },
         {
             "stt": 46,
             "id": "tui_do_sieu_hung+",
-            "name": "Exiles II",
+            "name": "優柔不断 II",
             "image": "Heroic-Grab-Bag-II.png",
-            "description": "Your champions that start combat with no adjacent champions gain a 35% max Health shield for 10 seconds."
+            "description": "3ラウンド後、同じティアの新たなオーグメントを1つ選択する。即座に12ゴールドを獲得する。"
         },
         {
             "stt": 47,
             "id": "tui_do_sieu_hung++",
-            "name": "Explosive Growth",
+            "name": "光の番人",
             "image": "Heroic-Grab-Bag-II.png",
-            "description": "Now and at the start of the next 3 rounds, gain 7 XP."
+            "description": "ルシアン&セナを1体、★2のヴェインを1体獲得する。ヴェインは「黒き霧」を受けている敵に追加の矢を放ち、キルまたはアシスト時にルシアン&セナの攻撃速度を増加させる。"
         },
         {
             "stt": 48,
             "id": "tu_phuong_tiep_vien",
-            "name": "Explosive Growth+",
+            "name": "剣鍛冶",
             "image": "Reinfourcement_II.png",
-            "description": "Now and at the start of the next 3 rounds, gain 10 XP."
+            "description": "「B.F.ソード」から派生したランダムな完成アイテムを2個獲得する。"
         },
         {
             "stt": 49,
             "id": "ve_binh_anh_sang",
-            "name": "Gain @Gold@ Gold",
+            "name": "叩きつけ+",
             "image": "SentinelsOfLight_II.TFT_Set16.png",
-            "description": "Gain 21 gold."
+            "description": "ランダムな素材アイテムを1個と10 XPの経験値を獲得する。対人戦ラウンドが終了するたび、ベンチに消費アイテム以外のアイテムがなければ、2 XPの経験値を獲得する。"
         },
         {
             "stt": 50,
             "id": "vuong_mien_nang_triu",
-            "name": "Gold Destiny",
+            "name": "回収箱",
             "image": "HeavyIsTheCrown_II.TFT_Set15.png",
-            "description": "Gain a random Gold Augment and 3 gold."
+            "description": "即座にランダムな完成アイテムを1個獲得する。また、対人戦を8回終えると、素材アイテムを1個獲得する。チャンピオンを売却すると、完成アイテムが素材に解体される(タクティシャンアイテムと紋章は除く)。"
         },
         {
             "stt": 51,
             "id": "xuc_xac_ma_phap",
-            "name": "Healing Orbs II",
+            "name": "回収箱+",
             "image": "A-Magical-Roll-II.png",
-            "description": "When an enemy dies, the nearest ally is healed for 440."
+            "description": "即座にランダムな完成アイテムを1個獲得する。また、対人戦を4回終えると、素材アイテムを1個獲得する。チャンピオンを売却すると、完成アイテムが素材に解体される(タクティシャンアイテムと紋章は除く)。"
         },
         {
             "stt": 52,
             "id": "y_chi_vuong_mien",
-            "name": "Heroic Grab Bag",
+            "name": "好きなだけ泣くがいい",
             "image": "Will-of-the-Crown-II.png",
-            "description": "Gain 2 Lesser Champion Duplicators and 5 gold.\n\nThis item allows you to copy a 3-cost or less champion."
+            "description": "「女神の涙」を1個獲得する。味方チームが1のマナ自動回復を獲得する。戦闘開始から12秒後にこの効果は3になる。"
         },
         {
             "stt": 53,
             "id": "y_chi_xich_chuy",
-            "name": "High Voltage",
+            "name": "敵を知れ",
             "image": "Will-of-the-Flail-II.png",
-            "description": "Gain an Ionic Spark. Your Ionic Sparks have +3 hex radius and do 20% more damage."
+            "description": "次に戦う相手が分かる。味方チームが10%のダメージ増加効果を獲得する。自分と対戦相手が同じ特性を1つでも発動していた場合、この効果が18%に増加する。"
         },
         {
             "stt": 54,
             "id": "2_vang_la_nhat",
-            "name": "Hustler",
+            "name": "杖鍛冶",
             "image": "TwoMuchValue_II.TFT_Set13.png",
-            "description": "You earn no interest, but gain 2 gold and 2 XP at the start of every player combat round. Gain 1 gold now.\n\nInterest is extra gold you gain per 10g saved."
+            "description": "「ムダニ デカイ ロッド」から派生したランダムな完成アイテムを2個獲得する。"
         },
         {
             "stt": 55,
             "id": "arcane_viktor-y",
-            "name": "Indecision I",
+            "name": "災禍の使者",
             "image": "ArcaneViktory_II.TFT_Set16_ChampionAugments.png",
-            "description": "In 3 rounds, choose a new augment of the same tier. Gain 8 gold now."
+            "description": "アタカンがキルまたはアシストを獲得するたびに、その魔力が2%、最大体力が40恒久的に増加する。ブライアーとサイオンを1体ずつ獲得する。\n(現在のキルおよびアシストの合計数: ?)"
         },
         {
             "stt": 56,
             "id": "an_trom",
-            "name": "Infinity Protection",
+            "name": "炎を強めて",
             "image": "Pilfer_II.TFT_Set12.png",
-            "description": "Gain 4 gold now. On Stage 3-7, gain an Infinity Force. Infinity Force gives allies in the same row a 15% Health shield.\n\nMonsters Attack Championship, 2023"
+            "description": "「サンファイア ケープ」を1個獲得する。燃焼を付与された敵を攻撃するとき、味方チームのオムニヴァンプが12%増加する。"
         },
         {
             "stt": 57,
             "id": "bao_ho_vo_tan",
-            "name": "Know Your Enemy",
+            "name": "無差別殺人者",
             "image": "InfinityProtection_II.TFT_Set16_ChampionAugments.png",
-            "description": "You can see who you will fight next. Your team gains 10% Damage Amp, increased to 18% if you and your opponent have any of the same traits active."
+            "description": "「ジャイアント スレイヤー」を1個獲得する。「ジャイアント スレイヤー」がタンクだけでなく、すべての敵に対してダメージ増加効果を獲得する。"
         },
         {
             "stt": 58,
             "id": "bo_ba_hoan_hao_i",
-            "name": "Max Build",
+            "name": "爆発的成長+",
             "image": "Trifecta-II.png",
-            "description": "Gain a Champion Duplicator and 5 free Shop rerolls. On Stage 6-1, gain these again.\n\nGalaxies Championship, 2020"
+            "description": "即座に、そして次の3ラウンドに渡って、ラウンド開始時に10 XPの経験値を獲得する。"
         },
         {
             "stt": 59,
             "id": "cap_doi_bac_4",
-            "name": "NO SCOUT NO PIVOT",
+            "name": "王冠とは重きもの",
             "image": "PairofFours_II.TFT_Set13.png",
-            "description": "Champions that fight in player combat cannot be benched or sold. Your team gains 1% Health, and 1.5% Attack Damage and Ability Power after player combat. \n\n?"
+            "description": "「デマーシアの王冠」を獲得する。装備者は大きなボーナスを獲得する。装備者が倒されると、そのラウンドに敗北する。"
         },
         {
             "stt": 60,
             "id": "chi_3_vang",
-            "name": "Pair of Fours",
+            "name": "研究熱心",
             "image": "ThreeThrees_II.TFT_Set16.png",
-            "description": "If your team has exactly 2 4-cost champions, they each gain 504 Health and 28% Attack Speed. Gain a random 4-cost."
+            "description": "対人戦ラウンドに勝利すると経験値を2 XP、敗北すると経験値を3 XP獲得する。"
         },
         {
             "stt": 61,
             "id": "con_mua_vang",
-            "name": "Patient Study",
+            "name": "精密かつ優雅",
             "image": "RainingGold_II.png",
-            "description": "After player combat, gain 2 XP if you won or 3 XP if you lost."
+            "description": "戦闘開始時およびキルまたはアシスト獲得時に、味方チャンピオンが次の対象に向かってダッシュし、3秒間、攻撃速度が25%増加する。"
         },
         {
             "stt": 62,
             "id": "doc_hanh_ii",
-            "name": "Plot Armor",
+            "name": "英雄のラッキーバッグ",
             "image": "Exiles2.png",
-            "description": "Your team gains 8 Armor and Magic Resist. After falling below 50% Health, increase this to 40 for the rest of combat."
+            "description": "「小型チャンピオン複製器」2個と5ゴールドを獲得する。\n\n「小型チャンピオン複製器」を使うとコスト3以下のチャンピオンのコピーを1体獲得できる。"
         },
         {
             "stt": 63,
             "id": "giot_le_bi_ai",
-            "name": "Precision and Grace",
+            "name": "血の供物",
             "image": "CryMeARiver_II.TFT_Set15.png",
-            "description": "At the start of combat and on takedown, allies dash to their next target and gain 25% Attack Speed for 3 seconds."
+            "description": "「ブラッドサースター」を1個獲得する。戦闘開始時: 「ブラッドサースター」を装備した味方の体力が20%減少するが、体力の30%にあたる耐久値を持つシールドを獲得し、攻撃力が10%増加する。"
         },
         {
             "stt": 64,
             "id": "ha_do_van",
-            "name": "Preparation II",
+            "name": "食堂",
             "image": "Slammin_II.png",
-            "description": "Champions on your bench permanently gain 50 Health, 3% Attack Damage, and 3% Ability Power every round. Champions start with 1 stack of this effect, and can stack up to 4 times."
+            "description": "戦闘開始から10秒が経過すると、味方チャンピオンの攻撃速度が8%増加し、通常攻撃で美味しい飛翔物2つが投げられ、25 (\n)の魔法ダメージを与える。"
         },
         {
             "stt": 65,
             "id": "ha_do_van+",
-            "name": "Prizefighter",
+            "name": "高速ダブルキル",
             "image": "Slammin_II.png",
-            "description": "Gain 2 item components. Every 5 wins gives you an item component."
+            "description": "「グインソー レイジブレード」を1個獲得する。2人のプレイヤーが敗退すると、40ゴールドを獲得する。\n\n2021 Fates Championship"
         },
         {
             "stt": 66,
             "id": "hang_cho_dau_doi",
-            "name": "Pyromaniac",
+            "name": "高電圧",
             "image": "DuoQueue_II.TFT_Set12.png",
-            "description": "Gain a Red Buff. Your Burns deal 50% increased damage."
+            "description": "「アイオニック スパーク」を1個獲得する。「アイオニック スパーク」の半径が3マス増加し、ダメージが20%増加する。"
         },
         {
             "stt": 67,
             "id": "hanh_trinh_chinh_dao_i",
-            "name": "Raining Gold",
+            "name": "魔法のダイス",
             "image": "WalkTheTruePath_II.TFT_Set16.png",
-            "description": "Gain 7 gold now and 1 gold every round."
+            "description": "3個のダイスを振る。その合計に応じて報酬を獲得する。\n\n報酬: ?"
         },
         {
             "stt": 68,
             "id": "hoa_cuong_nhan",
-            "name": "Salvage Bin",
+            "name": "@Gold@ゴールド獲得",
             "image": "Pyromaniac_II.TFT_Set13.png",
-            "description": "Gain 1 random completed item now, and 1 component after 8 player combats. Selling champions breaks completed items into components (excluding Tactician's items and Emblems)."
+            "description": "21ゴールドを獲得する。"
         },
         {
             "stt": 69,
             "id": "huan_luyen_can_ve",
-            "name": "Salvage Bin+",
+            "name": "3×3",
             "image": "BodyguardsTraining_II.TFT_Set16_ChampionAugments.png",
-            "description": "Gain 1 random completed item now, and 1 component after 4 player combats. Selling champions breaks completed items into components (excluding Tactician's items and Emblems)."
+            "description": "ランダムな★2のコスト3チャンピオン3体と8ゴールドを獲得する。"
         },
         {
             "stt": 70,
             "id": "ke_tan_pha",
-            "name": "Slammin'",
+            "name": "3の軍団",
             "image": "BringerOfRuin_II.TFT_Set16.png",
-            "description": "Gain 1 random component(s). After each player combat, if there are no items on your bench (other than consumables), gain 2 XP."
+            "description": "ランダムな紋章アイテムを1個獲得する。味方のコスト3チャンピオンと紋章アイテムを装備したすべての味方の体力が200、攻撃速度が12%増加する。\n\n2021 Reckoning Championship"
         },
         {
             "stt": 71,
             "id": "khien_don_dau",
-            "name": "Slammin'+",
+            "name": "4のペア",
             "image": "SoloPlate_II.TFT_Set16.png",
-            "description": "Gain 1 random component(s) and 10 XP now. After each player combat, if there are no items on your bench (other than consumables), gain 2 XP."
+            "description": "味方チームにコスト4チャンピオンが2体のみ存在した場合、それぞれの体力が504、攻撃速度が28%増加する。ランダムなコスト4チャンピオンを1体獲得する。"
         },
         {
             "stt": 72,
             "id": "ky_nguyen+",
-            "name": "Solo Leveling",
+            "name": "Arcane ビクタリー",
             "image": "Epoch_II.png",
-            "description": "For the next 5 combats, your team size is 1 but the champion you field has massively increased stats. Gain 1 XP for every kill they get. Afterwards, gain 2 item components."
+            "description": "戦闘開始から8秒後、敵チームを1.5秒間スタンさせる。戦闘開始から20秒後にこれを繰り返す。\n\n2024 TFT Macao Open"
         },
         {
             "stt": 73,
             "id": "lam_nong_ii",
-            "name": "Spirit Link",
+            "name": "U.R.F.",
             "image": "Preparation-II.png",
-            "description": "Champions restore 5% of their max Health every 4 seconds. Increase the healing by 0.5% for every 10 missing player Health."
+            "description": "「へら」を1個獲得する。「へら」または「フライパン」アイテムを装備しているチャンピオンの攻撃速度が15%、マナ自動回復が2増加する。"
         },
         {
             "stt": 74,
             "id": "lien_ket_tam_linh",
-            "name": "Staffsmith",
+            "name": "アーフの策略",
             "image": "SpiritLink_II.TFT_Set13.png",
-            "description": "Gain 2 random completed items that build from Needlessly Large Rod."
+            "description": "次の対人戦で勝利すると、「へら」を1個獲得する。敗北すると、「フライパン」を1個獲得する。即座に「素材アイテムの金床」を1個と6ゴールドを獲得する。"
         },
         {
             "stt": 75,
             "id": "nam_ro_doi_thu",
-            "name": "Swordsmith",
+            "name": "エグザイル II",
             "image": "Know-Your-Enemy-II.png",
-            "description": "Gain 2 random completed items that build from B.F. Sword."
+            "description": "戦闘開始時に他の味方のチャンピオンと隣接していない味方チャンピオンは、10秒間最大体力の35%にあたるシールドを獲得する。"
         },
         {
             "stt": 76,
             "id": "nha_may_tai_che",
-            "name": "Tons of Stats!",
+            "name": "エピックなロールダウン",
             "image": "Salvage2.png",
-            "description": "Your team gains 44 Health, 4% Attack Damage, 4% Ability Power, 4 Armor, 4 Magic Resist, 4% Attack Speed, and 4 Mana."
+            "description": "レベル8に到達すると、ショップの無料リロールを23回獲得する。\n\n2023 Runeterra Reforged Championship"
         },
         {
             "stt": 77,
             "id": "nham_mat_choi_bua",
-            "name": "Trade Sector",
+            "name": "エポック+",
             "image": "NoScoutNoPivot_II.TFT_Set13.png",
-            "description": "Gain a free Shop reroll every round. Gain 4 gold."
+            "description": "このオーグメント獲得時、および各ステージ開始時に8 XPの経験値を獲得する。また、3回分の無料リロールを獲得する。"
         },
         {
             "stt": 78,
             "id": "nhan_@gold@_vang",
-            "name": "Trifecta I",
+            "name": "お得な2",
             "image": "Windfall2.png",
-            "description": "Gain 2 3-cost champions.\nCombat Start: 3 random 3-cost champions gain 220 Health and 20% Attack Speed."
+            "description": "前回の対人戦でボード上に配置していた種類の異なるコスト2のチャンピオン2体ごとに、1回のリロールを獲得する。コスト2のチャンピオンを2体獲得する。"
         },
         {
             "stt": 79,
             "id": "quan_doan_3_sao",
-            "name": "Two Trick",
+            "name": "ゴールドの運命",
             "image": "LegionofThrees_II.TFT_Set16_ChampionAugments.png",
-            "description": "Gain a random 2-star 2-cost and 2 random 2-star 1-cost champions."
+            "description": "ランダムなゴールドオーグメントを1個と3ゴールドを獲得する。"
         },
         {
             "stt": 80,
             "id": "set_cao_the",
-            "name": "Walk The True Path I",
+            "name": "ゴールドの運命+",
             "image": "HighVoltage_II.TFT_Set12.png",
-            "description": "Gain a Lesser Champion Duplicator, a Shen, a Jhin, and 6 gold. Ionia 10 gains a Prismatic upgrade."
+            "description": "ランダムなゴールドオーグメントを1個と6ゴールドを獲得する。"
         },
         {
             "stt": 81,
             "id": "sinh_nhat_doan_tu",
-            "name": "3 Threes",
+            "name": "デュオキュー",
             "image": "BirthdayReunion_II.TFT_Set16_ChampionAugments.png",
-            "description": "Gain 3 random 2-star 3-cost champions and 8 gold."
+            "description": "ランダムなコスト5のチャンピオンを2体獲得し、ランダムな素材アイテムのコピーを2個獲得する。"
         },
         {
             "stt": 82,
             "id": "so_2_may_man",
-            "name": "Advanced Loan",
+            "name": "バースデー リユニオン",
             "image": "Two-Trick-II.png",
-            "description": "Gain 20 Gold. Your next augment is one tier lower."
+            "description": "ランダムな★2のコスト2チャンピオンを1体獲得する。レベル?に到達すると、「盗賊のグローブ」を1個獲得する。レベル?に到達すると、ランダムな★2のコスト5チャンピオンを1体獲得する。\n\n2024 Inkborn Fables Tactician's Crown"
         },
         {
             "stt": 83,
             "id": "song_voi",
-            "name": "Advanced Loan+",
+            "name": "ハスラー",
             "image": "Hyperroll2.png",
-            "description": "Gain 33 Gold. Your next augment is one tier lower."
+            "description": "利子を獲得できなくなる代わりに、対人戦ラウンドの開始時に毎回2ゴールドと2XPを獲得する。即座に1ゴールドを獲得する。\n\n利子とは10ゴールド残しておくごとに獲得できる追加のゴールドのこと。"
         },
         {
             "stt": 84,
             "id": "tang_truong_bung_no",
-            "name": "Arcane Viktor-y",
+            "name": "プロボクサー",
             "image": "ExplosiveGrowth_II.TFT_Set12.png",
-            "description": "After 8 seconds of combat, stun the enemy team for 1.5 seconds. Repeat this after 20 seconds of combat.\n\nTFT Macao Open, 2024"
+            "description": "素材アイテムを2個獲得する。5勝するたびに、素材アイテムを1個獲得する。"
         },
         {
             "stt": 85,
             "id": "tho_ren_gay",
-            "name": "Best Friends II",
+            "name": "ベストフレンド II",
             "image": "Rodsmith_II.TFT_Set16.png",
-            "description": "Allies isolated in pairs gain 15% Attack Speed and 18 Armor at the start of combat."
+            "description": "戦闘開始時、他の味方から離れた位置にいる味方のペアは、攻撃速度が15%、物理防御が18増加する。"
         },
         {
             "stt": 86,
             "id": "tho_ren_kiem",
-            "name": "Birthday Reunion",
+            "name": "ボディーガードの訓練",
             "image": "Swordsmith_II.TFT_Set16.png",
-            "description": "Gain a random 2-star 2-cost champion. When you reach Level ?, gain a Thief's Gloves. When you reach Level ?, gain a random 2-star 5-cost champion.\n\nInkborn Fables Tactician's Crown, 2024"
+            "description": "味方の物理防御と魔法防御が10増加し、プレイヤーレベル1ごとに3ずつ増加する。\n\n2022 Gizmos & Gadgets Championship"
         },
         {
             "stt": 87,
             "id": "thua_co_tinh_toan",
-            "name": "Bodyguard Training",
+            "name": "一人前プレート",
             "image": "CalculatedLoss2.png",
-            "description": "Allies gain 10 Armor and Magic Resist, increased by 3 per player level.\n\nGizmos & Gadgets Championship, 2022"
+            "description": "「ガーゴイル ストーンプレート」を1個獲得する。戦闘開始時: 「ガーゴイル ストーンプレート」を装備している味方の列に他のユニットがいない場合、最大体力が15%増加する。"
         },
         {
             "stt": 88,
             "id": "toi_thang_cap_mot_minh",
-            "name": "Calculated Loss",
+            "name": "値切り上手",
             "image": "SoloLeveling_II.TFT_Set15.png",
-            "description": "After losing your combat, gain 2 gold and a free Shop reroll."
+            "description": "ドラフトの報酬を選択できなくなる。ドラフトラウンドごとに、プレイヤー体力が6増加し、10ゴールドを獲得する。\nドラフト報酬を選択しなかった場合、ピックされなかったチャンピオンとそれが所有するアイテムを獲得する"
         },
         {
             "stt": 89,
             "id": "trai_tim_sat_da",
-            "name": "Cluttered Mind",
+            "name": "偵察なし、変更なし",
             "image": "HealthyGains_II.TFT_Set16.png",
-            "description": "Gain 4 random 1-cost champions now. If your bench is full at the end of player combat, gain 3 XP."
+            "description": "対人戦に参加するチャンピオンはベンチに戻すことも、売却することもできない。対人戦後、味方チームの体力が1%、攻撃力と魔力が1.5%増加する。\n\n?"
         },
         {
             "stt": 90,
             "id": "tui_do_sieu_hung",
-            "name": "Duo Queue",
+            "name": "先見性",
             "image": "Heroic-Grab-Bag-II.png",
-            "description": "Gain 2 random 5-cost champions and 2 copies of a random component."
+            "description": "ゴールドをすべて失う。対人戦5ラウンド後、元のゴールドを取り戻し、追加で70ゴールドを獲得する。\n\n獲得予定のゴールド: ?"
         },
         {
             "stt": 91,
             "id": "u.r.f.",
-            "name": "Epic Rolldown",
+            "name": "前借り",
             "image": "UltraRapidFire_II.TFT_Set16.png",
-            "description": "When you reach Level 8, gain 23 Shop rerolls.\n\nRuneterra Reforged Championship, 2023"
+            "description": "20ゴールドを獲得する。次のオーグメントのティアが1つ低くなる。"
         },
         {
             "stt": 92,
             "id": "vay_tam_ung",
-            "name": "Epoch+",
+            "name": "前借り+",
             "image": "AdvancedLoan_II.TFT_Set16.png",
-            "description": "Now, and at the start of every stage, gain 8 XP and 3 free rerolls."
+            "description": "33ゴールドを獲得する。次のオーグメントのティアが1つ低くなる。"
         },
         {
             "stt": 93,
             "id": "van_menh_vang",
-            "name": "Evolve and Overcome",
+            "name": "叩きつけ",
             "image": "GoldenDestiny_II.TFT_Set15.png",
-            "description": "For every 5 enemies that Mutated Void allies takedown, gain 2 XP. Gain a Cho'Gath and a 2-star Kog'Maw. ?\n\nVoid provides unique Mutations."
+            "description": "ランダムな素材アイテムを1個獲得する。対人戦ラウンドが終了するたび、ベンチに消費アイテム以外のアイテムがなければ、2 XPの経験値を獲得する。"
         },
         {
             "stt": 94,
             "id": "van_menh_vang+",
-            "name": "Forward Thinking",
+            "name": "戦略的敗北",
             "image": "GoldenDestiny_II.TFT_Set15.png",
-            "description": "Lose all your gold. After 5 player combats, gain back the original amount and another 70 gold.\n\nIncoming Gold: ?"
+            "description": "戦闘に敗北すると、2ゴールドとショップの無料リロール1回分を獲得する。"
         },
         {
             "stt": 95,
             "id": "vo_si_giac_dau",
-            "name": "Gold Destiny+",
+            "name": "戦闘準備 II",
             "image": "PrizeFighter_II.png",
-            "description": "Gain a random Gold Augment and 6 gold."
+            "description": "毎ラウンド、ベンチにいる味方チャンピオンの体力が50、攻撃力が3%、魔力が3%、恒久的に増加する。チャンピオンはこの効果を1スタック持った状態で開始し、最大4回までスタックする。"
         },
         {
             "stt": 96,
             "id": "y_chi_ngon_giao",
-            "name": "Hard Bargain",
+            "name": "普通預金口座",
             "image": "Will-of-the-Spear-II.png",
-            "description": "You cannot choose your Carousel rewards. Gain an additional 6 player Health and 10 Gold each carousel round.\nWhen you do not pick a Carousel Reward, you are given an unpicked champion and the item it carries"
+            "description": "利子で50ゴールドを獲得後、30ゴールドを獲得する。最大利子が7に増加する。即座に4ゴールドを獲得する。\n\n獲得ゴールド: ?"
         },
         {
             "stt": 97,
             "id": "ban_than_ii",
-            "name": "Heart of Steel",
+            "name": "槍の決意",
             "image": "Best-Friends-II.png",
-            "description": "Gain a Steadfast Heart. Every 10 seconds of combat its holder survives, Steadfast Heart gains additional null permanent max Health."
+            "description": "味方チームの攻撃力が12%、マナが5増加する「B.F.ソード」を1個獲得する。"
         },
         {
             "stt": 98,
             "id": "bua_bon",
-            "name": "Hefty Rolls",
+            "name": "炎の愛好家",
             "image": "Dizzy-II.png",
-            "description": "Your team gains null Health and size for each time you've rolled this game.\n\nRolls: ? Health: ?"
+            "description": "「レッドバフ」を1個獲得する。「燃焼」が与えるダメージが50%増加する。"
         },
         {
             "stt": 99,
             "id": "cam_re_phan_tan",
-            "name": "Legion of Threes",
+            "name": "爆発的成長",
             "image": "SpreadingRoots_II.TFT_Set16.png",
-            "description": "Gain a random Emblem. Your 3-cost champions and all allies equipped with an Emblem gain 200 Health and 12% Attack Speed.\n\nReckoning Championship, 2021"
+            "description": "即座に、そして次の3ラウンドに渡って、ラウンド開始時に7 XPの経験値を獲得する。"
         },
         {
             "stt": 100,
             "id": "cap_doi_hoan_canh",
-            "name": "Makeshift Armor II",
+            "name": "真の道を歩めI",
             "image": "Double-Trouble-II.png",
-            "description": "Allies without items equipped gain 45 Armor and Magic Resist."
+            "description": "「小型チャンピオン複製器」を1個、シェンとジンを1体ずつ、6ゴールドを獲得する。「アイオニア」(10)で「プリズムアップグレード」を1個獲得する。"
         },
         {
             "stt": 101,
             "id": "chien_loi_pham_ii",
-            "name": "Pilfer",
+            "name": "確約された守護",
             "image": "Spoils-Of-War-Legend-II.png",
-            "description": "Each round, gain a 1-star copy of the first champion you killed last combat. The first time you gain 35 gold worth of champions in this way, gain a Thief's Gloves. ?\n\n?"
+            "description": "「プロテクターの誓い」を1個獲得する。「プロテクターの誓い」の装備者は、あらゆるソースから獲得するマナが18%増加する。"
         },
         {
             "stt": 102,
             "id": "cho_doi_xung_dang",
-            "name": "Promised Protection",
+            "name": "窃盗",
             "image": "WorthTheWait_II.TFT_Set12.png",
-            "description": "Gain a Protector's Vow. Protector's Vow grants its holder 18% additional Mana from all sources."
+            "description": "毎ラウンド、前回の戦闘で最初に倒したチャンピオンの★1コピーを獲得する。この方法で獲得したチャンピオンの総価値が最初に35ゴールドに到達した際に、「盗賊のグローブ」1個を獲得する。?\n\n?"
         },
         {
             "stt": 103,
             "id": "duong_ra_tran",
-            "name": "Savings Account",
+            "name": "精神の交わり",
             "image": "Warpath_II.TFT_Set13.png",
-            "description": "After you earn 50 gold in interest, gain 30 gold. Your max interest is increased to 7. Gain 4 gold now.\n\nGold earned: ?"
+            "description": "チャンピオンが4秒ごとに最大体力の5%を回復する。プレイヤー体力が10減少するごとに、体力回復効果が0.5%増加する。"
         },
         {
             "stt": 104,
             "id": "giap_tu_che_ii",
-            "name": "Solo Plate",
+            "name": "進化と克服",
             "image": "Makeshift2.png",
-            "description": "Gain a Gargoyle Stoneplate. Combat start: Allies holding Gargoyle Stoneplate gain 15% max Health if they're the only one in their row."
+            "description": "変異した味方のヴォイドが敵からキルまたはアシストを5回獲得するごとに、2XPを獲得する。チョ＝ガス1体と★2のコグ＝マウを1体獲得する。?\n\nヴォイドは独自の変異を起こす。"
         },
         {
             "stt": 105,
             "id": "khong_lo_hoa",
-            "name": "Spear's Will",
+            "name": "鋼の心",
             "image": "WildGrowth_II.TFT_Set16.png",
-            "description": "Your team gains 12% Attack Damage and 5 Mana. Gain a B.F. Sword."
+            "description": "「揺るがぬ心」を1個獲得する。戦闘で装備者が10秒生存するごとに、「揺るがぬ心」が最大体力を恒久的にnull追加で獲得する。"
         },
         {
             "stt": 106,
             "id": "kim_long",
-            "name": "Spreading Roots",
+            "name": "黄金の龍",
             "image": "TheGoldenDragon_II.TFT_Set16_ChampionAugments.png",
-            "description": "Gain 2 random Emblems and 1 gold."
+            "description": "「モーグル メイル」を1個獲得する。「モーグル メイル」を装備しているチャンピオンはチームスロットを2つ使用するが、体力が700、耐久力が20%増加する。\n\n「モーグル メイル」はゴールドと戦闘力を付与する。\n2022 Dragonlands Championship"
         },
         {
             "stt": 107,
             "id": "nghi_ve_tuong_lai",
-            "name": "The Golden Dragon",
+            "name": "イシュタル遠征者",
             "image": "ForwardThinking_II.TFT_Set13.png",
-            "description": "Gain a Mogul's Mail. Champions holding Mogul's Mail take up 2 team slots but gain 700 Health and 20% Durability.\n\nMogul's Mail gives gold as well as combat power.\nDragonlands Championship, 2022"
+            "description": "キヤナ、ニーコ、ミリオを1体ずつ獲得する。プレイヤーの現在体力と最大体力が10増加する。"
         },
         {
             "stt": 108,
             "id": "phep_thuat_hon_loan",
-            "name": "Two Much Value",
+            "name": "オーラ育成中",
             "image": "ChaosMagic_II.TFT_Set16.png",
-            "description": "Gain 1 reroll for every 2 unique 2-cost champions fielded last player combat. Gain 2 2-cost champions."
+            "description": "★2のコスト5チャンピオンを1体獲得する。これは4-3までボードに配置できない。"
         },
         {
             "stt": 109,
             "id": "tai_khoan_tiet_kiem",
-            "name": "U.R.F",
+            "name": "おおきくなぁれ！",
             "image": "SavingsAccount_II.TFT_Set16.png",
-            "description": "Gain a Spatula. Champions holding Spatula or Frying Pan items gain 15% Attack Speed and 2 Mana Regen."
+            "description": "★3のヨードルが大きくなり、移動速度が低下するが、体力が15%、攻撃力と魔力が25%増加する。ランブルとルルを1体ずつ獲得する。"
         },
         {
             "stt": 110,
             "id": "the_uoc_bao_ho",
-            "name": "Urf's Gambit",
+            "name": "ゴーレム化",
             "image": "PromisedProtection_II.TFT_Set16.png",
-            "description": "If you win your next player combat, gain a Spatula. If you lose, gain a Frying Pan. Gain a component anvil and 6 gold now."
+            "description": "ボードとベンチにいるすべてのチャンピオンを失う。それらのユニットの合計体力の60%と合計攻撃力の50%を持つゴーレムを1体獲得する。ステージごとにゴーレムの体力が1000増加する。"
         },
         {
             "stt": 111,
             "id": "thuong_vu_kho_xoi",
-            "name": "Wild Growth",
+            "name": "たっぷりリロール",
             "image": "HardBargain_II.TFT_Set15.png",
-            "description": "3-star Yordles become massive, moving slower but gaining 15% Health and 25% Attack Damage and Ability Power. Gain a Rumble and Lulu."
+            "description": "この試合であなたがリロールするたびに、味方チームの体力がnull増加し、サイズが増加する。\n\nリロール数: ? 体力: ?"
         },
         {
             "stt": 112,
             "id": "tien_hoa_va_tien_bo",
-            "name": "Worth the Wait",
+            "name": "ダブルトラブル",
             "image": "EvolveAndOvercome_II.TFT_Set16.png",
-            "description": "Gain a random 1-cost champion. After 2 rounds, gain another copy of them at the start of each round for the rest of the game.\n\nChampion: ?"
+            "description": "フィールド上にまったく同じチャンピオンを2体配置すると、両者の攻撃力が30%、魔力、物理防御、魔法防御が30%増加する。★3にアップグレードすると、★2のコピーを1体獲得する。"
         },
         {
             "stt": 113,
             "id": "van_co_may_rui",
-            "name": "Aura Farming",
+            "name": "バンドルバウンティー I",
             "image": "HeftyRolls_II.TFT_Set15.png",
-            "description": "Gain a 2-star 5-cost champion. You cannot field it until 4-3."
+            "description": "アンロック済み、または新たにアンロックするヨードル1体ごとに3ゴールドを獲得する。「バンドルへの道」が秘密のヨードル10を明らかにする。ランブルとルルを1体ずつ獲得する。"
         },
         {
             "stt": 114,
             "id": "van_cuoc_urf",
-            "name": "Bandle Bounty I",
+            "name": "バンドルバウンティー II",
             "image": "UrfsGambit_II.TFT_Set16.png",
-            "description": "For every Yordle you've unlocked or unlock, gain 3 gold. The Bandle Paths reveal a secret Yordle 10. Gain a Rumble and Lulu."
+            "description": "アンロック済み、または新たにアンロックするヨードル1体ごとに5ゴールドを獲得する。「バンドルへの道」が秘密のヨードル10を明らかにする！トリスターナとティーモを1体ずつ獲得する。"
         },
         {
             "stt": 115,
             "id": "vay_tam_ung+",
-            "name": "Bandle Bounty II",
+            "name": "レイトゲーム スケーリング",
             "image": "AdvancedLoan_II.TFT_Set16.png",
-            "description": "For every Yordle you've unlocked or unlock, gain 5 gold. The Bandle Paths reveal a secret Yordle 10! Gain a Tristana and Teemo."
+            "description": "プレイヤーの戦闘ラウンド開始時に、2 XPを獲得する。味方のコスト5チャンピオンの体力が12%、攻撃速度が12%増加する。\n\n2025 CyberCity Tactician's Crown"
         },
         {
             "stt": 116,
             "id": "xuc_xac_hoanh_trang",
-            "name": "Bronze For Life I",
+            "name": "乱れる思考",
             "image": "EpicRolldown_II.TFT_Set16_ChampionAugments.png",
-            "description": "Your team gains 3% Damage Amp for each Bronze-tier trait.\n\nDamage Amp Bonus: ?%"
+            "description": "今すぐランダムなコスト1のチャンピオンを4体獲得する。対人戦ラウンド終了時にベンチが満員の場合、3XPを獲得する。"
         },
         {
             "stt": 117,
             "id": "aura_farming",
-            "name": "Chaos Magic",
+            "name": "出陣",
             "image": "AuraFarming_II.TFT_Set15.png",
-            "description": "Arcanists gain 1 Mana Regen. After every 150 Mana they spend, a magical effect hits the board. Gain a Lulu and a Kog'Maw."
+            "description": "★★の2コストチャンピオンを獲得する。プレイヤーに80ダメージを与えると、高コストのチャンピオンとアイテムが入ったチェストを1個獲得する。\n(現在: ?)"
         },
         {
             "stt": 118,
             "id": "cam_re_phan_tan+",
-            "name": "Clear Mind",
+            "name": "即席アーマー II",
             "image": "SpreadingRoots_II.TFT_Set16.png",
-            "description": "If there are no champions on your bench at the end of player combat, gain 3 XP."
+            "description": "アイテムを装備していない味方の物理防御と魔法防御が45増加する。"
         },
         {
             "stt": 119,
             "id": "hinh_nom_va_cham",
-            "name": "Cooking Pot",
+            "name": "宝探し",
             "image": "Crash-Test-Dummies-II.png",
-            "description": "At the start of each turn, all allies holding a Frying Pan or Spatula item grant the nearest champion 50 permanent Health. Gain a Frying Pan."
+            "description": "現時点からステージnullまで、ステージごとにロックされた宝箱を1個獲得する。ショップのリロールでnullゴールドを使用すると、宝箱を1個開封できる。これらの宝箱は開封するまで消えずに残る。"
         },
         {
             "stt": 120,
             "id": "kho_bau_bandle_i",
-            "name": "Crash Test Dummies",
+            "name": "広がる根",
             "image": "BandleBounty_II.TFT_Set16.png",
-            "description": "Gain 2 Training Dummies. Combat start: Your Training Dummies launch themselves towards a group of enemies and Stun them for 1.25 seconds."
+            "description": "ランダムな紋章アイテム2個と1ゴールドを獲得する。"
         },
         {
             "stt": 121,
             "id": "kho_bau_bandle_ii",
-            "name": "Double Trouble",
+            "name": "広がる根+",
             "image": "BandleBountyPlus_II.TFT_Set16.png",
-            "description": "When you field exactly 2 copies of a champion, they both gain 30% Attack Damage and 30% Ability Power, Armor, and Magic Resist. When you 3-star, gain a 2-star copy."
+            "description": "ランダムな紋章アイテム2個、「再合成装置」1個と4ゴールドを獲得する。"
         },
         {
             "stt": 122,
             "id": "linh_hoat",
-            "name": "Flexible",
+            "name": "待つ価値あり",
             "image": "Flexible_II.TFT_Set12.png",
-            "description": "Gain 1 random Emblem. At the start of every Stage, gain a random Emblem. Your team gains 20 Health for each Emblem they are holding."
+            "description": "ランダムなコスト1のチャンピオン1体を獲得する。2ラウンド後、戦闘終了まで各ラウンドの開始時にそのユニットのコピーを1体得る。\n\nチャンピオン: ?"
         },
         {
             "stt": 123,
             "id": "nguoi_da_can_quet",
-            "name": "Golemify",
+            "name": "戦場の略奪 II",
             "image": "Golemify_II.TFT_Set13.png",
-            "description": "Lose all champions on your board and bench. Gain a Golem with 60% of their combined Health and 50% of their combined Attack Damage. The Golem gains 1000 Health per stage."
+            "description": "敵が倒された際に、30%の確率で戦利品をドロップする。"
         },
         {
             "stt": 124,
             "id": "nha_tham_hiem_ixtal",
-            "name": "Ixtal Expeditionist",
+            "name": "料理鍋",
             "image": "Rejuvenating-Flames-II.png",
-            "description": "Gain a Qiyana, a Neeko, and a Milio. Increase your current and max player Health by 10."
+            "description": "各ラウンド開始時に、「フライパン」か「へら」アイテムを装備したすべての味方が最も近くにいるチャンピオンの体力を恒久的に50増加させる。「フライパン」を1個獲得する。"
         },
         {
             "stt": 125,
             "id": "noi_nau_an",
-            "name": "Late Game Scaling",
+            "name": "明鏡止水",
             "image": "CookingPot_II.TFT_Set13.png",
-            "description": "Gain 2 XP at the start of player combat rounds. Your 5-cost champions gain 12% Health and 12% Attack Speed.\n\nCyberCity Tactician's Crown, 2025"
+            "description": "対人戦ラウンド終了時、ベンチにチャンピオンがいない場合は経験値を3獲得する。"
         },
         {
             "stt": 126,
             "id": "san_kho_bau",
-            "name": "Spoils of War II",
+            "name": "柔軟性",
             "image": "TreasureHunt_II.TFT_Set15.png",
-            "description": "Enemies have a 30% chance to drop loot when killed."
+            "description": "ランダムな紋章アイテムを1個獲得する。毎ステージ開始時、ランダムな紋章を1個獲得する。装備した紋章1つごとに、味方チームの体力が20増加する。"
         },
         {
             "stt": 127,
             "id": "tat_tay_bac_dong_i",
-            "name": "Spreading Roots+",
+            "name": "混沌の魔法",
             "image": "BronzeForLife_II.TFT_Set13.png",
-            "description": "Gain 2 random Emblems, a Reforger, and 4 gold."
+            "description": "「アルカニスト」のマナ自動回復が1増加する。「アルカニスト」が150マナを使用するごとに、ボードに不思議な効果が出現する。ルルとコグ＝マウを1体ずつ獲得する。"
         },
         {
             "stt": 128,
             "id": "thang_tien_cuoi_tran",
-            "name": "Treasure Hunt",
+            "name": "生涯ブロンズ I",
             "image": "LateGameScaling_II.TFT_Set16_ChampionAugments.png",
-            "description": "Gain a locked chest each Stage between now and Stage null. Unlock each chest when you spend null gold on Shop rerolls. These chests persist until opened."
+            "description": "ブロンズティアの特性1つごとに、味方チームが3%のダメージ増加効果を獲得する。\n\nダメージ増加ボーナス: ?%"
         },
         {
             "stt": 129,
             "id": "thong_thoang",
-            "name": "Warpath",
+            "name": "衝突試験用ダミー",
             "image": "ClearMind2.png",
-            "description": "Gain a 2-star 2-cost champion. After dealing 80 player damage, gain a chest of high cost champions and items.\n(Current: ?)"
+            "description": "「ダミー」を2体獲得する。戦闘開始時: 敵の集団に向かって「ダミー」が射出され、対象を1.25秒間スタンさせる。"
         }
     ],
     "3": [
         {
             "stt": 1,
             "id": "kham_bao_thach_ii",
-            "name": "Dragonguards",
+            "name": "ジュエル ロータス II",
             "image": "Jeweled-Lotus-III.png",
-            "description": "Gain a Shyvana and a 2-star Jarvan IV. When Jarvan casts, Shyvana gains Shield. When Shyvana casts, Jarvan jumps in and deals damage based on his Armor and Magic Resist. After every player combat, gain a Jarvan IV."
+            "description": "味方チームのクリティカル率が35%、クリティカルダメージが10%増加し、スキルがクリティカル判定を持つ。"
         },
         {
             "stt": 2,
             "id": "kho_than_tich",
-            "name": "Jeweled Lotus II",
+            "name": "ソウルの目覚め",
             "image": "RadiantRelic-III.png",
-            "description": "Your team gains 35% Critical Strike Chance and 10% Critical Strike Damage, and their Abilities can critically strike."
+            "description": "戦闘開始時: 10秒間、味方チームの攻撃力と魔力が2%増加する。最大スタックになると、15%の追加確定ダメージを与える。"
         },
         {
             "stt": 3,
             "id": "long_binh",
-            "name": "Radiant Relics",
+            "name": "ドラゴンの守護者",
             "image": "UncompromisingWill_III.TFT_Set16.png",
-            "description": "Choose 1 of 5 Radiant items. Gain a Magnetic Remover.\n\nRadiant items are very powerful versions of completed items."
+            "description": "シヴァーナを1体、★2のジャーヴァンⅣを1体獲得する。ジャーヴァンⅣがスキルを発動すると、シヴァーナがシールドを獲得する。シヴァーナがスキルを発動すると、ジャーヴァンⅣが飛び込んできて物理防御と魔法防御に応じたダメージを与える。各対人戦後に、ジャーヴァンⅣを1体獲得する。"
         },
         {
             "stt": 4,
             "id": "thuc_tinh_linh_hon",
-            "name": "Soul Awakening",
+            "name": "パンドラのアイテム III",
             "image": "AwakenedSoul_III.TFT_Set16.png",
-            "description": "Combat start: Your team gains 2% Attack Damage and Ability Power per second for 10 seconds. At max stacks, deal 15% bonus true damage."
+            "description": "ラウンド開始時: ベンチのアイテムがランダムに変更される。\n\nランダムなレディアントアイテムを1個獲得する。"
         },
         {
             "stt": 5,
             "id": "bao_oan",
-            "name": "Band of Thieves II+",
+            "name": "レディアントの遺物",
             "image": "Retribution_III.TFT_Set16.png",
-            "description": "Gain 2 Thief's Gloves. After 6 player combats, gain another."
+            "description": "5個のレディアントアイテムから1個を選択する。「磁力式除去装置」を1個獲得する。\n\nレディアントアイテムは非常に強力な完成アイテム。"
         },
         {
             "stt": 6,
             "id": "bang_trom_ii+",
-            "name": "Buried Treasures",
+            "name": "コンパニオン作成",
             "image": "BandThieves3.png",
-            "description": "Gain a random item component now and at the start of the next 5 rounds."
+            "description": "次に購入するコスト1チャンピオンが★3になる。2ゴールドを獲得する。"
         },
         {
             "stt": 7,
             "id": "bang_trom_ii++",
-            "name": "Call to Chaos",
+            "name": "スターターキット",
             "image": "BandThieves3.png",
-            "description": "Gain a powerful and random reward.\n\nReward: ?"
+            "description": "コスト4のチャンピオンを1体と、そのチャンピオンと特性が同じ★★のコスト1チャンピオンを1体と、8ゴールドを獲得する。\n\nその後2ステージに渡って、ステージ開始時に、もう一度そのコスト4のチャンピオンを獲得する。"
         },
         {
             "stt": 8,
             "id": "bo_ba_hoan_hao_ii",
-            "name": "Comeback Story",
+            "name": "プリズムチケット",
             "image": "Trifecta-III.png",
-            "description": "Your team gains 5 Health and 0.4000000059604645% Attack Speed per missing player Health.\n\n?"
+            "description": "ショップをリロールするたびに、50%の確率で無料リロール1回分を獲得する。"
         },
         {
             "stt": 9,
             "id": "bo_khoi_dau",
-            "name": "Construct a Companion",
+            "name": "ワンド オーバーフロー",
             "image": "Starter-Kit-III.png",
-            "description": "The next 1-cost champion you buy is 3 star. Gain 2 gold."
+            "description": "「ムダニ デカイ ロッド」を4個獲得する。所有する「ムダニ デカイ ロッド」が攻撃速度5%を付与するようになる。"
         },
         {
             "stt": 10,
             "id": "cho_doi_xung_dang_ii",
-            "name": "Expected Unexpectedness",
+            "name": "埋もれた宝物",
             "image": "WorthTheWait_III.TFT_Set12.png",
-            "description": "Now and at the start of the next 2 stages, roll 3 dice. Gain various rewards based on their total."
+            "description": "即座にランダムな素材アイテムを1個獲得し、次の5ラウンドに渡って、ラウンド開始時にランダムな素材アイテムを1個ずつ獲得する。"
         },
         {
             "stt": 11,
             "id": "co_gang_lat_keo",
-            "name": "Invested++",
+            "name": "待つ価値あり II",
             "image": "ComebackStory_III.TFT_Set16.png",
-            "description": "Gain 40 gold. After every combat, gain 1 Shop reroll for every 10 gold above 50 (max 80 gold)."
+            "description": "ランダムなコスト2のチャンピオンを2体獲得する。戦闘終了まで各ラウンドの開始時にそのユニットのコピーを1体得る。\n\nチャンピオン: ?"
         },
         {
             "stt": 12,
             "id": "dam_me_gay",
-            "name": "Lucky Gloves",
+            "name": "想定内の意外性",
             "image": "WandOverflow_III.TFT_Set13.png",
-            "description": "Thief's Gloves will always give your champions ideal items. Gain 2 Sparring Gloves."
+            "description": "現在および次の2ステージの開始時に、3個のダイスを振る。その合計に応じて様々な報酬を獲得する。"
         },
         {
             "stt": 13,
             "id": "dam_me_kiem",
-            "name": "Pandora's Items III",
+            "name": "混沌への呼び声",
             "image": "BladeOverflow_III.TFT_Set13.png",
-            "description": "Round start: items on your bench are randomized. \n\nGain 1 random Radiant item."
+            "description": "強力でランダムな報酬を1種類獲得する。\n\n報酬: ?"
         },
         {
             "stt": 14,
             "id": "dau_tu++",
-            "name": "Prismatic Destiny+",
+            "name": "甘いおやつ",
             "image": "Invested-III.png",
-            "description": "Gain a random Prismatic Augment and 10 gold."
+            "description": "「アーティファクトの金床」を1個獲得する。味方チームは、チャンピオンに装備しているアイテム1個につき体力が25増加する。\n\n体力増加量:?\n\n2024 Magic N' Mayhem Tactician's Crown"
         },
         {
             "stt": 15,
             "id": "do_ni_dong_giay",
-            "name": "Prismatic Ticket",
+            "name": "コマース コア",
             "image": "Lucky-Gloves-III.png",
-            "description": "Each time your Shop is rerolled, you have a 50% chance to gain a free reroll."
+            "description": "ショップの無料のリロールを即座に10回分獲得し、さらに試合終了まで毎ラウンド4回分獲得する。"
         },
         {
             "stt": 16,
             "id": "do_ni_dong_giay+",
-            "name": "Radiant Rascal",
+            "name": "シマースケールのエッセンス",
             "image": "Lucky-Gloves-III.png",
-            "description": "Gain a Rascal's Gloves item. This equips 2 random Radiant items every round.\n\nRadiant items are very powerful versions of completed items."
+            "description": "「モーグル メイル」を1個獲得する。5ラウンド後に、「ギャンブラーの剣」を1個獲得する。\n\nこれらのアイテムはゴールドと戦闘力を付与する。"
         },
         {
             "stt": 17,
             "id": "hanh_trinh_chinh_dao_ii",
-            "name": "Starter Kit",
+            "name": "ジャイアント&マイティ",
             "image": "WalkTheTruePathPlus_III.TFT_Set16.png",
-            "description": "Gain a 4-cost champion, a 2-star 1-cost champion that shares a trait with them, and 8 gold.\n\nAt the start of the next 2 stages, gain that 4-cost champion again."
+            "description": "味方チームが大きくなり、体力が200、最大体力が10%増加する。"
         },
         {
             "stt": 18,
             "id": "kho_bau_chon_giau",
-            "name": "Sweet Treats",
+            "name": "ソード オーバーフロー",
             "image": "Buried-Treasures-III.png",
-            "description": "Gain an Artifact anvil. Your team gains 25 Health for each item equipped on champions.\n\nHealth Gained: ?\n\nMagic N' Mayhem Tactician's Crown, 2024"
+            "description": "「B.F.ソード」を4個獲得する。味方の「B.F.ソード」が付与する攻撃速度が5%増加する。"
         },
         {
             "stt": 19,
             "id": "ky_vong_bat_ngo",
-            "name": "Walk The True Path II",
+            "name": "トライフェクタ II",
             "image": "Addicted-to-Rolling-III.png",
-            "description": "Gain 2 Lesser Champion Duplicators, a Jhin, a Shen, and an Infinity Edge. Ionia 10 gains a Prismatic upgrade."
+            "description": "コスト3チャンピオンを3体獲得する。味方の攻撃速度が5%増加する。\n戦闘開始時: ランダムな3体のコスト3チャンピオンの体力が300、攻撃速度が25%増加する。"
         },
         {
             "stt": 20,
             "id": "mon_qua_ngot_ngao",
-            "name": "Wand Overflow",
+            "name": "バフが1つ、バフが2つ",
             "image": "SweetTreats_III.TFT_Set16_ChampionAugments.png",
-            "description": "Gain 4 Needlessly Large Rods. Your Needlessly Large Rods grant +5% Attack Speed."
+            "description": "「レッドバフ」を1個、「ブルーバフ」を1個、「チャンピオン複製器」を1個獲得する。"
         },
         {
             "stt": 21,
             "id": "mot_bua,_hai_bua",
-            "name": "Worth the Wait II",
+            "name": "プリズムの運命+",
             "image": "OneBuffTwoBuff_III.TFT_Set13.png",
-            "description": "Gain 2 copies of a random 2-cost champion. Gain another copy of them at the start of each round for the rest of the game.\n\nChampion: ?"
+            "description": "ランダムなプリズムオーグメントを1個と10ゴールドを獲得する。"
         },
         {
             "stt": 22,
             "id": "nguoi_ban_vang",
-            "name": "Band of Thieves II",
+            "name": "ベルト オーバーフロー",
             "image": "ConstructaCompanion_III.TFT_Set16.png",
-            "description": "Gain 2 Thief's Gloves. After 8 player combats, gain another."
+            "description": "「ジャイアント ベルト」を4個獲得する。「ジャイアント ベルト」を装備すると体力が85増加する。"
         },
         {
             "stt": 23,
             "id": "nho_ma_co_vo",
-            "name": "Band of Thieves II++",
+            "name": "ミニマックス",
             "image": "TinyButDeadly_III.png",
-            "description": "Gain 2 Thief's Gloves. After 3 player combats, gain another."
+            "description": "「黄金のアイテム除去装置」を1個と、ランダムな素材アイテムを4個獲得する。\n\n「黄金のアイテム除去装置」は、無限に使用可能な「磁力式除去装置」。"
         },
         {
             "stt": 24,
             "id": "phuoc_lanh_vu_tru_iii",
-            "name": "Belt Overflow",
+            "name": "ラッキーグローブ",
             "image": "CelestialBlessing3.png",
-            "description": "Gain 4 Giant's Belts. Your Giant's Belts grant +85 bonus Health."
+            "description": "「盗賊のグローブ」が毎回、そのチャンピオンにとって理想的なアイテムを付与するようになる。「スパーリング グローブ」を2個獲得する。"
         },
         {
             "stt": 25,
             "id": "quang_lan_tieu_yeu",
-            "name": "Celestial Blessing III",
+            "name": "ラッキーグローブ+",
             "image": "Roll-the-Dice-III.png",
-            "description": "Your team gains 25% Omnivamp. Excess healing is converted to a shield up to 1000 Health."
+            "description": "「盗賊のグローブ」が毎回、そのチャンピオンにとって理想的なアイテムを付与するようになる。今すぐ「スパーリング グローブ」を2個獲得し、対人戦を4回行ったあとに、もう1個獲得する。"
         },
         {
             "stt": 26,
             "id": "thich_mo_rong",
-            "name": "Chosen Wolves",
+            "name": "レベルアップ！",
             "image": "Going-Long-III.png",
-            "description": "Gain an Ambessa and a Kindred. When Kindred casts, Ambessa always gains their protection against death and gains Attack Damage while protected. When Ambessa casts, Wolf strikes all enemies hit, dealing reduced damage."
+            "description": "経験値を購入する際、追加で経験値を2 XP獲得する。即座に経験値を12 XP獲得する。"
         },
         {
             "stt": 27,
             "id": "toi_da_hoa",
-            "name": "Commerce Core",
+            "name": "前線維持",
             "image": "MinMax_III.TFT_Set16.png",
-            "description": "Gain 10 free Shop rerolls now and 4 every round for the rest of the game."
+            "description": "前列で戦闘を開始した味方1体ごとに、後列の味方の魔力が10%、攻撃力が9%増加する。"
         },
         {
             "stt": 28,
             "id": "trang_bi_pandora_iii",
-            "name": "Coronation",
+            "name": "報復",
             "image": "Pandora3.png",
-            "description": "Gain a Tactician's Crown. Tactician's Crown, Shield, and Cape grant the holder an additional 20% Attack Speed, 25% Attack Damage, and 30% Ability Power."
+            "description": "「ハンド オブ ジャスティス」を2個獲得する。「ハンド オブ ジャスティス」を装備した味方のスキルがクリティカル判定を持つようになる。"
         },
         {
             "stt": 29,
             "id": "trieu_goi_hon_mang",
-            "name": "Forged in Strength",
+            "name": "天の祝福 III",
             "image": "CallToChaos_III.png",
-            "description": "Gain 1 random Artifact. When you drop below 35 Health, gain 3 more random Artifacts.\n\nRemix Rumble Championship, 2023"
+            "description": "味方チームのオムニヴァンプが25%増加する。余剰の回復量は最大1000までシールドに変換される。"
         },
         {
             "stt": 30,
             "id": "van_menh_kim_cuong+",
-            "name": "Giant and Mighty",
+            "name": "小さくても強烈",
             "image": "PrismaticDestiny_III.TFT_Set15.png",
-            "description": "Your team becomes large, gaining 200 Health and 10% max Health."
+            "description": "味方チームのサイズが小さくなり、攻撃速度と移動速度が30%増加する。"
         },
         {
             "stt": 31,
             "id": "ve_kim_cuong",
-            "name": "Going Long",
+            "name": "思惑買い",
             "image": "GoldenTicket3.png",
-            "description": "You no longer gain interest. Gain 4 gold now. Round start: gain 5 XP.\n\nInterest is extra gold you gain per 10g saved."
+            "description": "利子を獲得しなくなる。4ゴールドを即座に獲得する。ラウンド開始時: 5 XPを獲得する。\n\n利子は10ゴールド残しておくごとに獲得できる追加のゴールドのこと。"
         },
         {
             "stt": 32,
             "id": "bao_vang",
-            "name": "Hold the Line",
+            "name": "戴冠式",
             "image": "MoneyMonsoon_III.TFT_Set16.png",
-            "description": "Allies in your back 2 rows gain 10% Ability Power and 9% Attack Damage for each ally that starts combat in your front row."
+            "description": "「タクティシャンの王冠」を1個獲得する。タクティシャンの王冠、盾、ケープが装備者の攻撃速度を20%、攻撃力を25%、魔力を30%増加させる。"
         },
         {
             "stt": 33,
             "id": "bang_trom_ii",
-            "name": "Invested+",
+            "name": "投資完了++",
             "image": "BandThieves3.png",
-            "description": "Gain 26 gold. After every combat, gain 1 Shop reroll for every 10 gold above 50 (max 80 gold)."
+            "description": "40ゴールドを獲得する。各戦闘終了時、50ゴールドを超えるゴールド量が10ゴールドごとにショップのリロールを1回獲得する(最大80ゴールドまで)。"
         },
         {
             "stt": 34,
             "id": "chien_lang",
-            "name": "Level Up!",
+            "name": "盗賊団 II",
             "image": "ChosenWolves_III.TFT_Set16.png",
-            "description": "When you buy XP, gain an additional 2. Gain 12 immediately."
+            "description": "「盗賊のグローブ」2個を獲得。対人戦を8回行ったあとに、もう1個獲得する。"
         },
         {
             "stt": 35,
             "id": "dam_me_dai_lung",
-            "name": "Lucky Gloves+",
+            "name": "盗賊団 II+",
             "image": "BeltOverflow_III.TFT_Set13.png",
-            "description": "Thief's Gloves will always give your champions ideal items. Gain 2 Sparring Gloves now, then another after 4 player combats."
+            "description": "「盗賊のグローブ」2個を獲得。対人戦を6回行ったあとに、もう1個獲得する。"
         },
         {
             "stt": 36,
             "id": "dau_tu+",
-            "name": "Min-Max",
+            "name": "盗賊団 II++",
             "image": "Invested-III.png",
-            "description": "Gain a Golden Item Remover and 4 random components.\n\nGolden Item Remover is a Magnetic Remover with infinite uses."
+            "description": "「盗賊のグローブ」2個を獲得。対人戦を3回行ったあとに、もう1個獲得する。"
         },
         {
             "stt": 37,
             "id": "day_nhanh_tien_do",
-            "name": "Money Monsoon",
+            "name": "真の道を歩め II",
             "image": "UpwardMobility_III.TFT_Set12.png",
-            "description": "Gain 7 gold now and every round for the rest of the game."
+            "description": "「小型チャンピオン複製器」を2個、ジンとシェンを1体ずつ、「インフィニティ エッジ」1個を獲得する。「アイオニア」(10)で「プリズムアップグレード」を1個獲得する。"
         },
         {
             "stt": 38,
             "id": "giu_vung_hang_ngu",
-            "name": "One Buff, Two Buff",
+            "name": "輝く悪党",
             "image": "HoldTheLine_III.TFT_Set15.png",
-            "description": "Gain a Red Buff, a Blue Buff, and a Champion Duplicator."
+            "description": "「悪党のグローブ」を1個獲得する。このアイテムの装備者は毎ラウンド、ランダムなレディアントアイテムを2個装備する。\n\nレディアントアイテムは非常に強力な完成アイテム。"
         },
         {
             "stt": 39,
             "id": "goi_dang_ky_hang_sang",
-            "name": "Prismatic Destiny",
+            "name": "逆転劇",
             "image": "LuxurySubscription_III.TFT_Set16.png",
-            "description": "Gain a random Prismatic Augment and 4 gold."
+            "description": "プレイヤーの体力が減少するごとに、味方チームの体力が5、攻撃速度が0.4000000059604645%増加する。\n\n?"
         },
         {
             "stt": 40,
             "id": "ke_vai_sat_canh",
-            "name": "Retribution",
+            "name": "金のタマゴ",
             "image": "WeStickTogether_III.TFT_Set16_ChampionAugments.png",
-            "description": "Gain 2 Hands of Justice. Allies equipped with Hand of Justice can critically strike with their Abilities."
+            "description": "金のタマゴを1個獲得する。このタマゴは11ターン後に孵化して、大量の戦利品が産まれる。プレイヤーとの戦闘に勝利すると、孵化タイマーが追加で1ターン早まる。"
         },
         {
             "stt": 41,
             "id": "khong_lo_ti_hon",
-            "name": "Shimmerscale Essence",
+            "name": "いつでも一緒",
             "image": "Tiniest-TitanIII.png",
-            "description": "Gain a Mogul's Mail. In 5 rounds, gain a Gamblers Blade.\n\nThese items give gold as well as combat power."
+            "description": "ランダムな紋章アイテムを1個と、「完成アイテムの金床」を1個獲得する。その紋章と同じ特性を持っている味方の攻撃速度が20%増加する(紋章の特性: ?)。\n\n2025 Into The Arcane Tactician's Crown"
         },
         {
             "stt": 42,
             "id": "khuyen_mai_kinh_nghiem",
-            "name": "Sword Overflow",
+            "name": "バースデープレゼント",
             "image": "LevelUp3.png",
-            "description": "Gain 4 B.F. Swords. Your B.F. Swords grant +5% Attack Speed."
+            "description": "プレイヤーがレベルアップするたびに、★★のチャンピオン1体と1ゴールドを獲得する。プレイヤーのレベルから4を引いた値が、獲得できるチャンピオンのコストティアになる(上限: コスト5)。"
         },
         {
             "stt": 43,
             "id": "len_ngoi_vuong",
-            "name": "The Golden Egg",
+            "name": "プリズムの運命",
             "image": "Coronation_III.TFT_Set13.png",
-            "description": "Gain a golden egg that hatches in 11 turns for a huge amount of loot. Winning player combat speeds up the hatch timer by an extra turn."
+            "description": "ランダムなプリズムオーグメントを1個と4ゴールドを獲得する。"
         },
         {
             "stt": 44,
             "id": "ma_thuat_dan_ket",
-            "name": "Tiny, but Deadly",
+            "name": "ヘッジファンド",
             "image": "WovenMagic_III.TFT_Set16.png",
-            "description": "Your team becomes small, gaining 30% Attack Speed and Movement Speed."
+            "description": "25ゴールドを獲得する。利子の最大額が10まで増加する。\n\n利子は10ゴールド残しておくごとに獲得できる追加のゴールドのこと。"
         },
         {
             "stt": 45,
             "id": "quy_phong_ho",
-            "name": "Trifecta II",
+            "name": "もっと小さな巨人",
             "image": "RichGetRicher3.png",
-            "description": "Gain 3 3-cost champions. Allies gain 5% Attack Speed. \nCombat Start: 3 random 3-cost champions gain 300 Health and 25% Attack Speed."
+            "description": "対人戦ラウンドが終了するたびに、プレイヤーの体力が2増加し、2ゴールドを獲得する。また、自分のタクティシャンの移動速度が上がる。即座に15ゴールドを獲得する。"
         },
         {
             "stt": 46,
             "id": "rong_de_trung_vang",
-            "name": "Woven Magic",
+            "name": "上方移動",
             "image": "The-Golden-Egg-III.png",
-            "description": "Gain a random item component. Every 2200 Mana your team spends grants an additional component (max ?/3).\n\nMana spent: ?/2200"
+            "description": "経験値の購入コストが1減少する。レベルアップするたびに、体力2と無料リロールを2獲得する。"
         },
         {
             "stt": 47,
             "id": "tinh_tuy_kim_long",
-            "name": "Birthday Present",
+            "name": "九死に一生",
             "image": "ShimmerscaleEssence_III.TFT_Set12.png",
-            "description": "Gain a 2-star champion and 1 gold every time you level up. The champion's cost tier is your level minus 4 (max: 5-cost)."
+            "description": "プレイヤーの現在体力と最大体力が9になる。戦闘敗北時、体力を1しか失わず、戦利品を獲得する。体力が増加しなくなる。"
         },
         {
             "stt": 48,
             "id": "to_lon_&_manh_me",
-            "name": "Component Heist",
+            "name": "力に鍛えられしもの",
             "image": "GiantandMighty_III.TFT_Set12.png",
-            "description": "After 5 player combats, gain 1 of every item component.\n\n? ?"
+            "description": "ランダムなアーティファクトを1個獲得する。体力が35を下回ると、ランダムなアーティファクトを追加で3個獲得する。\n\n2023 TFT Remix Rumble Championship"
         },
         {
             "stt": 49,
             "id": "toi_luyen_suc_manh",
-            "name": "Hedge Fund",
+            "name": "戦場の略奪 III",
             "image": "ForgedInStrength_III.TFT_Set16_ChampionAugments.png",
-            "description": "Gain 25 gold. Your max interest is increased to 10.\n\nInterest is extra gold you gain per 10g saved."
+            "description": "敵が倒された際に、45%の確率で戦利品をドロップする。"
         },
         {
             "stt": 50,
             "id": "trung_tam_thuong_mai",
-            "name": "Living Forge",
+            "name": "投資完了+",
             "image": "Trade3.png",
-            "description": "Gain an Artifact anvil now and after every 10 player combats.\n\nArtifacts are more powerful items with a unique effect."
+            "description": "26ゴールドを獲得する。各戦闘終了時、50ゴールドを超えるゴールド量が10ゴールドごとにショップのリロールを1回獲得する(最大80ゴールドまで)。"
         },
         {
             "stt": 51,
             "id": "van_menh_kim_cuong",
-            "name": "Luxury Subscription",
+            "name": "歩く鍛冶場",
             "image": "PrismaticDestiny_III.TFT_Set15.png",
-            "description": "Gain a package containing a 5-cost champion, a 2-star 1-cost champion, and 5 gold.\n\nAt the start of the next 2 stages, gain the package again."
+            "description": "「アーティファクトの金床」を即座に1個獲得し、その後は対人戦ラウンドを10回終えるたびに1個獲得する。\n\nアーティファクトは独特な効果を持つ強力なアイテム。"
         },
         {
             "stt": 52,
             "id": "che_tao_tai_cho",
-            "name": "Nine Lives",
+            "name": "紡がれし魔法",
             "image": "Living-Forge-III.png",
-            "description": "Set your current and max player Health to 9. On combat loss, you only lose 1 health and gain loot. You can't gain health."
+            "description": "ランダムな素材アイテムを1個獲得する。味方チームが2200マナを消費するごとに、追加の素材アイテムを獲得する(最大?/3)。\n\n消費マナ: ?/2200"
         },
         {
             "stt": 53,
             "id": "chien_loi_pham_iii",
-            "name": "Spoils of War III",
+            "name": "豪華なサブスク",
             "image": "Spoils-Of-War-Legend-III.png",
-            "description": "Enemies have a 45% chance to drop loot when killed."
+            "description": "コスト5のチャンピオンが1体と、★2のコスト1チャンピオンが1体と、5ゴールドが入ったパックを獲得する。\n\n次の2ステージの開始時に、そのパックを再び獲得する。"
         },
         {
             "stt": 54,
             "id": "cuu_sinh",
-            "name": "Tiniest Titan",
+            "name": "選ばれし狼",
             "image": "NineLives_III.TFT_Set15.png",
-            "description": "Gain 2 player Health and 2 gold after every player combat. Your Tactician also moves faster. Gain 15 gold now."
+            "description": "アンベッサとキンドレッドを1体ずつ獲得する。キンドレッドがスキルを使用するたびにアンベッサは死を免れる保護を獲得し、その効果中は攻撃力が増加する。アンベッサがスキルを使用すると、狼がすべての敵を攻撃して減少ダメージを与える。"
         },
         {
             "stt": 55,
             "id": "phi_vu_trang_bi",
-            "name": "Upward Mobility",
+            "name": "金のモンスーン",
             "image": "MuseumHeist_III.TFT_Set16.png",
-            "description": "Buying XP costs 1 less. Gain 2 Health and 2 free rerolls whenever you level up."
+            "description": "即座に、そして残りの試合の毎ラウンド、7ゴールドを獲得する。"
         },
         {
             "stt": 56,
             "id": "qua_sinh_nhat",
-            "name": "We Stick Together",
+            "name": "カースドのクラウン",
             "image": "Golden-Gifts-III.png",
-            "description": "Gain a random Emblem and a completed item anvil. Allies that share a trait with that Emblem gain 20% Attack Speed. (Emblem Trait: ?)\n\nInto The Arcane Tactician's Crown, 2025"
+            "description": "チームサイズの上限が2増加し、味方チームの耐久力が4%増加するが、対人戦に敗北した際に受けるダメージが上昇する。"
         },
         {
             "stt": 57,
             "id": "vuong_mien_hac_hoa",
-            "name": "Bronze For Life II",
+            "name": "タクティシャンの台所",
             "image": "CursedCrown-III.png",
-            "description": "Your team gains 3% Damage Amp and 4 Armor and Magic Resist for each Bronze-tier trait.\n\nDamage Amp: ?%\nArmor and Magic Resist: ?"
+            "description": "ランダムな紋章アイテムを1個獲得する。6ラウンド終了後に「タクティシャンのケープ」を1個獲得する。"
         },
         {
             "stt": 58,
             "id": "cay_toc_he",
-            "name": "Cursed Crown",
+            "name": "ワールドルーン",
             "image": "TheTraitTree_III.TFT_Set16.png",
-            "description": "Gain +2 max team size and your team gains 4% Durability, but you take double player damage when you lose a player combat."
+            "description": "ランダムな地域特性の紋章を2個獲得する。4個の地域特性が発動した対人戦を4回行ったあとに、強力な報酬を1個獲得する(?/4)。"
         },
         {
             "stt": 59,
             "id": "cay_toc_he+",
-            "name": "Hard Commit",
+            "name": "全身全霊",
             "image": "TheTraitTree_III.TFT_Set16.png",
-            "description": "Gain a random Emblem. Now and at the start of each Stage, gain a 1-star champion of that trait with a cost equal to the Stage (max 5) and 2 gold."
+            "description": "ランダムな紋章アイテムを1個獲得する。今すぐ、および各ステージ開始時に、コストがステージ数と同じで(最大5)、その紋章の特性を持つ★1のユニットと2ゴールドを獲得する。"
         },
         {
             "stt": 60,
             "id": "chi_mot_con_duong",
-            "name": "Tactician's Kitchen",
+            "name": "勝ち抜け",
             "image": "HardCommit_III.TFT_Set12.png",
-            "description": "Gain a random Emblem. After 6 rounds, gain a Tactician's Cape."
+            "description": "レベル9に到達すると、即座にレベル10になり、ショップの無料リロールを2回獲得する。即座に6 XPを獲得する。"
         },
         {
             "stt": 61,
             "id": "co_ngu_the_gioi",
-            "name": "The Trait Tree",
+            "name": "特性の木",
             "image": "TheWorldRunes_III.TFT_Set16.png",
-            "description": "Gain 3 random Emblems and 7 gold."
+            "description": "ランダムな紋章アイテム3個と7ゴールドを獲得する。"
         },
         {
             "stt": 62,
             "id": "linh_thu_vao_bep",
-            "name": "The Trait Tree+",
+            "name": "特性の木+",
             "image": "TacticiansKitchen_III.TFT_Set13.png",
-            "description": "Gain 3 random Emblems, a Reforger, and 12 gold."
+            "description": "ランダムな紋章アイテム3個、「再合成装置」1個と12ゴールドを獲得する。"
         },
         {
             "stt": 63,
             "id": "tat_tay_bac_dong_ii",
-            "name": "The World Runes",
+            "name": "生涯ブロンズ II",
             "image": "BronzeForLife_III.TFT_Set13.png",
-            "description": "Gain 2 Emblems from random Region traits. After 4 player combats with 4 Region traits active, gain a powerful reward. (?/4)"
+            "description": "ブロンズティアの特性1つごとに、味方チームが3%のダメージ増加効果、および4の物理防御と魔法防御を獲得する。\n\nダメージ増加効果: ?%\n物理防御と魔法防御: ?"
         },
         {
             "stt": 64,
             "id": "toan_thang",
-            "name": "Win Out",
+            "name": "素材アイテムヘイスト",
             "image": "WinOut_III.TFT_Set16.png",
-            "description": "When you reach level 9, immediately level to 10 and gain 2 free Shop rerolls. Gain 6 XP now."
+            "description": "対人戦を5回行った後、すべての素材アイテムを1個ずつ獲得する。\n\n? ?"
         }
     ]
 }
