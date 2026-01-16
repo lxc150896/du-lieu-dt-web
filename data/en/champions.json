@@ -5,12 +5,24 @@
         "name": "Baron Nashor",
         "image": "tft16_baronnashor.tft_set16.png",
         "price": "7",
-        "average_position": "2.75",
-        "top_4_rate": "82.53",
-        "top_1_rate": "30.54",
-        "battle": "52,943",
+        "average_position": "2.76",
+        "top_4_rate": "82.51",
+        "top_1_rate": "30.49",
+        "battle": "58,463",
         "description_icon": [
-            "Field 7 unique  Void units. + 10 Level"
+            "Passive: Immune to Crowd Control effects. Attacks deal damage in a line on target. If no enemies are in range, dash to the next one and knock up adjacent enemies on arrival.",
+            "\n",
+            "\n",
+            "While in the Void Rift, erupt a tentacle below a random enemy every [ 3 / 3 / 0.25 ] seconds that knocks them up for 1.5 seconds.",
+            "\n",
+            "\n",
+            "Active: Slam and erect spikes in a 2 hex circle, dealing [ 280 / 420 / 20500 ] (",
+            "AD.png",
+            "AP.png",
+            ") physical damage to enemies hit. Then over 3 seconds, spit 10 globs of acid that deal [ 140 / 210 / 10250 ] (",
+            "AD.png",
+            "AP.png",
+            ") physical damage."
         ],
         "skill_name": "Wrath of the Void",
         "skill_image": "TFT16_BaronNashor.png",
@@ -86,13 +98,16 @@
         "image": "tft16_renekton.tft_set16.png",
         "price": "4",
         "average_position": "3.14",
-        "top_4_rate": "74.97",
-        "top_1_rate": "26.48",
-        "battle": "44,894",
+        "top_4_rate": "75.02",
+        "top_1_rate": "26.45",
+        "battle": "49,498",
         "description_icon": [
-            "Win 2 combats in a row with Azir.",
-            "\n",
-            "(Gets harder each time you unlock a Shuriman!)"
+            "Dash to the lowest Health enemy within 2 hexes, dealing [ 80 / 120 / 360 ] (",
+            "AD.png",
+            ") physical damage to all enemies in the path. Then slash 4 times, each dealing [ 55 / 85 / 600 ] (",
+            "AD.png",
+            "AP.png",
+            ") physical damage. Subsquent casts increase the number of slashes by 1."
         ],
         "skill_name": "Slice and Dice",
         "skill_image": "TFT16_Renekton.png",
@@ -162,12 +177,21 @@
         "name": "Veigar",
         "image": "tft16_veigar.tft_set16.png",
         "price": "4",
-        "average_position": "3.79",
-        "top_4_rate": "61.28",
-        "top_1_rate": "24.35",
-        "battle": "140,358",
+        "average_position": "3.78",
+        "top_4_rate": "61.29",
+        "top_1_rate": "24.34",
+        "battle": "155,246",
         "description_icon": [
-            "Unit with 2 Rabadon's Deathcaps equipped + 7 Level"
+            "Passive: Gain 50% more Ability Power from all sources.",
+            "\n",
+            "\n",
+            "Active: Call down a storm of [ 12 / 12 / 24 ] meteors across the battlefield that deal [ 66 / 99 / 199 ] (",
+            "AP.png",
+            ") magic damage each. They can innately critically strike. For each one that kills an enemy, permanently gain 1 Ability Power. (Permanent Ability Power: 0%",
+            "AP.png",
+            ")",
+            "\n",
+            "\n"
         ],
         "skill_name": "Dark Storm",
         "skill_image": "TFT16_Veigar.png",
@@ -221,11 +245,25 @@
         "image": "tft16_volibear.tft_set16.png",
         "price": "5",
         "average_position": "3.42",
-        "top_4_rate": "70.12",
-        "top_1_rate": "23.03",
-        "battle": "287,154",
+        "top_4_rate": "70.06",
+        "top_1_rate": "22.98",
+        "battle": "317,366",
         "description_icon": [
-            "A unit that starts combat with 3800  Health + 8 Level"
+            "Bite the target and mark them, dealing [ 136 / 215 / 2237 ] (",
+            "AD.png",
+            "Health.png",
+            ") physical damage, increased by 60% if they are already marked. After casting [ 5 / 5 / 2 ] times, leap to a nearby hex, activating Stormbringer and dealing [ 272 / 430 / 4473 ] (",
+            "Health.png",
+            "AD.png",
+            ") physical damage to enemies within a two hex radius.",
+            "\n",
+            "\n",
+            "Stormbringer: Gain [ 400 / 550 / 9999 ] Health and [ 50 / 50 / 999 ]% Attack Speed. Every [ 2 / 2 / 0.3 ] seconds, summon a lightning bolt on a nearby enemy, dealing [ 98 / 161 / 1315 ] (",
+            "Health.png",
+            "AP.png",
+            ") magic damage. Takedowns summon a bolt on fallen enemies.",
+            "\n",
+            "\n"
         ],
         "skill_name": "The Relentless Storm",
         "skill_image": "TFT16_Volibear.png",
@@ -302,11 +340,21 @@
         "image": "tft16_ziggs.tft_set16.png",
         "price": "5",
         "average_position": "3.51",
-        "top_4_rate": "68.23",
-        "top_1_rate": "22.23",
-        "battle": "539,181",
+        "top_4_rate": "68.24",
+        "top_1_rate": "22.22",
+        "battle": "596,087",
         "description_icon": [
-            "A  Yordle or a  Zaunite with 3 items equipped + 9 Level"
+            "Passive: Attacks are replaced with a bomb that bounces 1 time, dealing [ 30 / 50 / 500 ] (",
+            "AD.png",
+            "AP.png",
+            ") magic damage to units hit.",
+            "\n",
+            "\n",
+            "Active: Throw an enormous bomb at the largest 4-hex group of enemies that explodes on impact, dealing between [ 70 / 105 / 3000 ] (",
+            "AP.png",
+            ") and [ 550 / 875 / 7000 ] (",
+            "AP.png",
+            ") magic damage to enemies hit based on their distance from the epicenter."
         ],
         "skill_name": "Mega Inferno Bomb",
         "skill_image": "TFT16_Ziggs.png",
@@ -387,11 +435,49 @@
         "image": "tft16_ryze.tft_set16.png",
         "price": "7",
         "average_position": "3.64",
-        "top_4_rate": "64.9",
+        "top_4_rate": "64.89",
         "top_1_rate": "22.00",
-        "battle": "276,182",
+        "battle": "305,506",
         "description_icon": [
-            "4 Region Traits together + 9 Level"
+            "Release a runic blast, dealing [ 235 / 425 / 1500 ] (",
+            "AP.png",
+            ") magic damage. It splits in two, dealing 33% of the damage to the closest two enemies. Each secondary blast splits an additional time.",
+            "\n",
+            "\n",
+            "Bilgewater: Blasts explode on impact, dealing 25% of the damage as physical damage to adjacent enemies.",
+            "\n",
+            "Demacia: Execute targets below 12% (",
+            "Armor.png",
+            "MR.png",
+            ") Health.",
+            "\n",
+            "Freljord: Chill targets for 4 seconds and deal [ 60 / 108 / 434 ] (",
+            "Health.png",
+            ") bonus true damage.",
+            "\n",
+            "Ionia: Blasts split an additional time, dealing 50% damage.",
+            "\n",
+            "Ixtal: Gain a random Region's effect on combat start and every 10 seconds.",
+            "\n",
+            "Noxus: Blasts now pierce targets, dealing 60% reduced damage per enemy hit.",
+            "\n",
+            "Piltover: Every third cast is Overcharged, dealing 40% more damage.",
+            "\n",
+            "Shadow Isles: Increase blast damage by 5% (",
+            "TFT16_ShadowIsles_scaleSouls.png",
+            ").",
+            "\n",
+            "Shurima: Knock up enemies for 0.5 seconds, with a chance to dredge up Gold or Treasures.",
+            "\n",
+            "Targon: Heal the lowest Health ally for 10% of the damage dealt.",
+            "\n",
+            "Void: Ignore 30% of enemies' Armor and Magic Resistance.",
+            "\n",
+            "Yordle: Shrink targets hit, lowering their damage by 12% percent for 4 seconds.",
+            "\n",
+            "Zaun: Poison targets, dealing [ 15 / 30 / 500 ] magic damage 3 (",
+            "AS.png",
+            ") times over 4 seconds."
         ],
         "skill_name": "Runic Overload",
         "skill_image": "TFT16_Ryze.png",
@@ -465,11 +551,20 @@
         "image": "tft16_brock_splash_tile_0.tft_set16.png",
         "price": "7",
         "average_position": "4.12",
-        "top_4_rate": "55.43",
-        "top_1_rate": "21.59",
-        "battle": "48,387",
+        "top_4_rate": "55.36",
+        "top_1_rate": "21.53",
+        "battle": "53,364",
         "description_icon": [
-            "Collect 500  Ixtal Sunshards over the course of the game"
+            "Passive: Immune to crowd control effects. Attacks briefly knock up the target and deal 50% damage in a 1 hex radius around them.",
+            "\n",
+            "\n",
+            "Active: Slam the ground, dealing [ 186 / 265 / 1697 ] (",
+            "Health.png",
+            "AD.png",
+            ") physical damage to ALL enemies, reduced by 15% for each hex from the center (down to 40%.) If this is the first time they've been hit by Seismic Slam this combat, knock them up for up to 1.75 seconds. [ 12 / 12 / 99 ] rocks fall around the battlefield, each dealing [ 220 / 405 / 700 ] (",
+            "AD.png",
+            "AP.png",
+            ") physical damage to enemies hit."
         ],
         "skill_name": "Seismic Slam",
         "skill_image": "TFT16_Brock.png",
@@ -540,9 +635,9 @@
         "image": "tft16_lucian.tft_set16.png",
         "price": "5",
         "average_position": "3.67",
-        "top_4_rate": "65.23",
-        "top_1_rate": "20.95",
-        "battle": "373,840",
+        "top_4_rate": "65.18",
+        "top_1_rate": "20.96",
+        "battle": "412,787",
         "description_icon": [
             "Fire [ 12 / 12 / 42 ] (",
             "AS.png",
@@ -625,9 +720,9 @@
         "image": "tft16_fiddlesticks.tft_set16.png",
         "price": "5",
         "average_position": "3.6",
-        "top_4_rate": "66.8",
-        "top_1_rate": "20.65",
-        "battle": "373,949",
+        "top_4_rate": "66.79",
+        "top_1_rate": "20.63",
+        "battle": "413,007",
         "description_icon": [
             "Teleport into a large cluster of enemies within 2 hexes and Stun them for [ 1.25 / 1.25 / 99 ] seconds. Begin losing 22 mana per second. While casting, deal [ 100 / 150 / 6666 ] (",
             "AP.png",
@@ -705,11 +800,18 @@
         "image": "tft16_tahmkench.tft_set16.png",
         "price": "5",
         "average_position": "3.96",
-        "top_4_rate": "57.6",
-        "top_1_rate": "20.46",
-        "battle": "285,033",
+        "top_4_rate": "57.56",
+        "top_1_rate": "20.47",
+        "battle": "315,472",
         "description_icon": [
-            "Spend 500  Bilgewater Silver Serpents"
+            "Devour target for 2.5 seconds, dealing [ 1200 / 1800 / 30000 ] (",
+            "AP.png",
+            ") magic damage and making them immune to other sources of damage. During this time, gain 30% Durability. If they are immune to crowd control, deal [ 1000 / 1500 / 20000 ] (",
+            "AP.png",
+            ") magic damage instead.",
+            "\n",
+            "\n",
+            "If they die while devoured, spit out a random component they were holding or the unit's cost in gold. Otherwise, spit them towards the farthest enemy, briefly Stunning targets on impact."
         ],
         "skill_name": "Devour",
         "skill_image": "TFT16_TahmKench.png",
@@ -767,9 +869,9 @@
         "image": "tft16_shyvana.tft_set16.png",
         "price": "5",
         "average_position": "3.67",
-        "top_4_rate": "65.52",
-        "top_1_rate": "20.05",
-        "battle": "503,830",
+        "top_4_rate": "65.51",
+        "top_1_rate": "20.04",
+        "battle": "556,388",
         "description_icon": [
             "Dragon's Descent: Transform into a dragon, gaining [ 600 / 1000 / 9999 ] max Health. Briefly gain [ 20 / 20 / 90 ]% Durability and dive-bomb into the largest group of enemies, dealing [ 100 / 150 / 3000 ] (",
             "AD.png",
@@ -834,11 +936,23 @@
         "image": "tft16_zaahen.tft_set16.png",
         "price": "7",
         "average_position": "3.14",
-        "top_4_rate": "77.73",
-        "top_1_rate": "18.96",
-        "battle": "27,251",
+        "top_4_rate": "77.76",
+        "top_1_rate": "19.02",
+        "battle": "30,162",
         "description_icon": [
-            "Have the 'Trials of Twilight' Augment + Field a 3-star Xin Zhao for 5 combats."
+            "Dash around target and slash in a circle, dealing [ 110 / 165 / 1700 ] (",
+            "AD.png",
+            "AP.png",
+            ") physical damage to target and [ 44 / 66 / 680 ] (",
+            "AD.png",
+            "AP.png",
+            ") physical damage to all other adjacent enemies hit. If the target doesn't die, immediately cast again.",
+            "\n",
+            "\n",
+            "If this Ability is cast 22 times in a row, instead slam on target, instantly killing them and dealing [ 220 / 330 / 3400 ] (",
+            "AD.png",
+            "AP.png",
+            ") physical damage to all enemies within 3 hexes."
         ],
         "skill_name": "Divine Challenge",
         "skill_image": "TFT16_Zaahen.png",
@@ -910,14 +1024,76 @@
     },
     {
         "stt": 13,
+        "id": "sett",
+        "name": "Sett",
+        "image": "tft16_sett.tft_set16.png",
+        "price": "5",
+        "average_position": "4.05",
+        "top_4_rate": "57.73",
+        "top_1_rate": "17.85",
+        "battle": "482,965",
+        "description_icon": [
+            "Grab target and slam them forward, dealing [ 220 / 350 / 9999 ] (",
+            "AP.png",
+            ") + [ 3 / 9 / 900 ]% (",
+            "AP.png",
+            ") of their max Health as magic damage to them. All other enemies within 3 hexes take 50% of the total damage."
+        ],
+        "skill_name": "The Show Stopper",
+        "skill_image": "TFT16_Sett.png",
+        "starting_mana": 10,
+        "skill_mana": 60,
+        "skill_attack_range": 1,
+        "health": [
+            1200,
+            2160,
+            3888
+        ],
+        "attack_damage": [
+            60,
+            90,
+            135
+        ],
+        "damage_per_second": [
+            51,
+            77,
+            115
+        ],
+        "attack_speed": 0.85,
+        "armor": 70,
+        "magical_resistance": 70,
+        "stats": [
+            "Primary Damage: 20%(%i:scaleAP%) [20% / 30% / 400%]",
+            "Secondary Damage: 10%(%i:scaleAP%) [10% / 15% / 200%]"
+        ],
+        "traits": [
+            {
+                "id": "ionia",
+                "name": "Ionia",
+                "image": "Trait_Icon_16_Ionia.TFT_Set16.png"
+            },
+            {
+                "id": "the_boss",
+                "name": "The Boss",
+                "image": "Trait_Icon_4_Theboss.png"
+            }
+        ],
+        "items": [],
+        "unlock": {
+            "description": "Only 1 unit in the two front rows of the battlefield + 8 Level",
+            "type": true
+        }
+    },
+    {
+        "stt": 14,
         "id": "teemo",
         "name": "Teemo",
         "image": "tft16_teemo.tft_set16.png",
         "price": "2",
         "average_position": "4.54",
-        "top_4_rate": "48.15",
-        "top_1_rate": "17.86",
-        "battle": "242,868",
+        "top_4_rate": "48.19",
+        "top_1_rate": "17.85",
+        "battle": "268,562",
         "description_icon": [
             "Shoot the closest unpoisoned enemy, dealing [ 130 / 200 / 300 ] (",
             "AP.png",
@@ -971,75 +1147,21 @@
         }
     },
     {
-        "stt": 14,
-        "id": "sett",
-        "name": "Sett",
-        "image": "tft16_sett.tft_set16.png",
-        "price": "5",
-        "average_position": "4.05",
-        "top_4_rate": "57.75",
-        "top_1_rate": "17.85",
-        "battle": "436,698",
-        "description_icon": [
-            "Only 1 unit in the two front rows of the battlefield + 8 Level"
-        ],
-        "skill_name": "The Show Stopper",
-        "skill_image": "TFT16_Sett.png",
-        "starting_mana": 10,
-        "skill_mana": 60,
-        "skill_attack_range": 1,
-        "health": [
-            1200,
-            2160,
-            3888
-        ],
-        "attack_damage": [
-            60,
-            90,
-            135
-        ],
-        "damage_per_second": [
-            51,
-            77,
-            115
-        ],
-        "attack_speed": 0.85,
-        "armor": 70,
-        "magical_resistance": 70,
-        "stats": [
-            "Primary Damage: 20%(%i:scaleAP%) [20% / 30% / 400%]",
-            "Secondary Damage: 10%(%i:scaleAP%) [10% / 15% / 200%]"
-        ],
-        "traits": [
-            {
-                "id": "ionia",
-                "name": "Ionia",
-                "image": "Trait_Icon_16_Ionia.TFT_Set16.png"
-            },
-            {
-                "id": "the_boss",
-                "name": "The Boss",
-                "image": "Trait_Icon_4_Theboss.png"
-            }
-        ],
-        "items": [],
-        "unlock": {
-            "description": "Only 1 unit in the two front rows of the battlefield + 8 Level",
-            "type": true
-        }
-    },
-    {
         "stt": 15,
         "id": "fizz",
         "name": "Fizz",
         "image": "tft16_fizz.tft_set16.png",
         "price": "4",
         "average_position": "4.48",
-        "top_4_rate": "48.68",
-        "top_1_rate": "17.76",
-        "battle": "449,254",
+        "top_4_rate": "48.72",
+        "top_1_rate": "17.77",
+        "battle": "497,220",
         "description_icon": [
-            "5 unique  Yordles or  Bilgewater units + 7 Level"
+            "Become briefly untargetable, then jump to the farthest enemy within 4 hexes and deal [ 110 / 165 / 450 ] (",
+            "AP.png",
+            ") magic damage to adjacent enemies. For the next 4 attacks, gain 50% Attack Speed and deal [ 80 / 120 / 600 ] (",
+            "AP.png",
+            ") bonus magic damage on hit."
         ],
         "skill_name": "Playful Trickster",
         "skill_image": "TFT16_Fizz.png",
@@ -1113,10 +1235,10 @@
         "name": "Caitlyn",
         "image": "tft16_caitlyn.tft_set16.png",
         "price": "1",
-        "average_position": "4.39",
-        "top_4_rate": "51.22",
-        "top_1_rate": "17.61",
-        "battle": "224,070",
+        "average_position": "4.4",
+        "top_4_rate": "51.17",
+        "top_1_rate": "17.58",
+        "battle": "247,766",
         "description_icon": [
             "Fire a bullet towards the farthest enemy, dealing [ 515 / 775 / 1205 ] (",
             "AD.png",
@@ -1196,11 +1318,15 @@
         "image": "tft16_kennen.tft_set16.png",
         "price": "3",
         "average_position": "4.39",
-        "top_4_rate": "50.99",
-        "top_1_rate": "17.58",
-        "battle": "576,041",
+        "top_4_rate": "51.01",
+        "top_1_rate": "17.57",
+        "battle": "636,552",
         "description_icon": [
-            "8 unique star levels of  Ionia,  Yordle, or  Defender in combat."
+            "Gain [ 600 / 700 / 900 ] (",
+            "AP.png",
+            ") Shield and summon storm of lightning. 6 waves of bolts hit enemies within, dealing [ 120 / 180 / 290 ] (",
+            "AP.png",
+            ") magic damage over 3 seconds. The first 3 targets to be struck by 3 bolts are Stunned for 1.5 seconds. Multiple Stuns on the same enemy have 50% effectiveness."
         ],
         "skill_name": "Slicing Maelstrom",
         "skill_image": "TFT16_Kennen.png",
@@ -1280,9 +1406,9 @@
         "image": "tft16_kindred.tft_set16.png",
         "price": "5",
         "average_position": "3.77",
-        "top_4_rate": "64.01",
-        "top_1_rate": "17.56",
-        "battle": "351,193",
+        "top_4_rate": "64.02",
+        "top_1_rate": "17.54",
+        "battle": "387,353",
         "description_icon": [
             "Dash, then create a 2-hex radius zone for [ 2.5 / 2.5 / 99 ] seconds that prevents allies within from dying. While active, double current Attack Speed and on attack, fire a secondary arrow at a nearby enemy that deals [ 25 / 38 / 999 ] (",
             "AD.png",
@@ -1367,9 +1493,9 @@
         "image": "tft16_rumble.tft_set16.png",
         "price": "1",
         "average_position": "4.6",
-        "top_4_rate": "47.18",
-        "top_1_rate": "17.50",
-        "battle": "243,264",
+        "top_4_rate": "47.23",
+        "top_1_rate": "17.51",
+        "battle": "268,705",
         "description_icon": [
             "Gain [ 350 / 430 / 550 ] (",
             "AP.png",
@@ -1450,9 +1576,9 @@
         "image": "tft16_zilean.tft_set16.png",
         "price": "5",
         "average_position": "3.76",
-        "top_4_rate": "64.67",
-        "top_1_rate": "17.47",
-        "battle": "201,535",
+        "top_4_rate": "64.66",
+        "top_1_rate": "17.49",
+        "battle": "222,905",
         "description_icon": [
             "Throw a Time Bomb on the nearest enemy without one. Time Bombs deal [ 75 / 115 / 1000 ] (",
             "AP.png",
@@ -1516,10 +1642,10 @@
         "name": "Ornn",
         "image": "tft16_ornn.tft_set16.png",
         "price": "5",
-        "average_position": "4.06",
-        "top_4_rate": "57.67",
-        "top_1_rate": "17.36",
-        "battle": "334,270",
+        "average_position": "4.07",
+        "top_4_rate": "57.65",
+        "top_1_rate": "17.35",
+        "battle": "369,442",
         "description_icon": [
             "Summon an elemental from behind the farthest enemy. It 20% Chills enemies hit for 3 seconds and deals [ 100 / 150 / 3000 ] (",
             "AP.png",
@@ -1606,9 +1732,9 @@
         "image": "tft16_missfortune.tft_set16.png",
         "price": "4",
         "average_position": "4.41",
-        "top_4_rate": "49.92",
-        "top_1_rate": "17.02",
-        "battle": "286,928",
+        "top_4_rate": "49.88",
+        "top_1_rate": "17.01",
+        "battle": "317,321",
         "description_icon": [
             "Passive: Attacks ricochet to the highest current Health enemy, dealing [ 50 / 50 / 100 ]% damage.",
             "\n",
@@ -1694,14 +1820,14 @@
         "name": "Xerath",
         "image": "tft16_xerath.tft_set16.png",
         "price": "5",
-        "average_position": "3.87",
-        "top_4_rate": "60.99",
-        "top_1_rate": "16.99",
-        "battle": "27,418",
+        "average_position": "3.88",
+        "top_4_rate": "60.96",
+        "top_1_rate": "16.94",
+        "battle": "30,381",
         "description_icon": [
-            "Alternate between winning and losing for 3 combats with Azir.",
-            "\n",
-            "(Gets harder each time you unlock a Shuriman!)"
+            "Launch [ 10 / 10 / 99 ] arcane blasts randomly split between the closest [ 4 / 4 / 10 ] enemies that each deal [ 390 / 650 / 2500 ] (",
+            "AP.png",
+            ") magic damage."
         ],
         "skill_name": "Eye of the Ascendant",
         "skill_image": "TFT16_Xerath.png",
@@ -1776,11 +1902,29 @@
         "image": "tft16_sylas.tft_set16.png",
         "price": "7",
         "average_position": "3.68",
-        "top_4_rate": "66.5",
-        "top_1_rate": "16.24",
-        "battle": "26,911",
+        "top_4_rate": "66.41",
+        "top_1_rate": "16.35",
+        "battle": "29,672",
         "description_icon": [
-            "Sell a 2-star Jarvan IV + Sell a 2-star Garen + Sell a 2-star Lux"
+            "Cast one of three spells:",
+            "\n",
+            "\n",
+            "Cataclysm: Leap on a nearby enemy. Deal [ 100 / 180 / 1000 ] (",
+            "AP.png",
+            ") magic damage to all enemies within 2 hexes and Stun them for [ 1.5 / 1.75 / 30 ] seconds.",
+            "\n",
+            "\n",
+            "Demacian Justice: Deal [ 670 / 1000 / 99999 ] (",
+            "AP.png",
+            ") magic damage to target. If they are below 15% max Health, execute them.",
+            "\n",
+            "\n",
+            "Final Spark: Gain [ 400 / 450 / 800 ] (",
+            "AP.png",
+            ") Shield for 1.25 seconds. Deal [ 300 / 475 / 1000 ] (",
+            "AP.png",
+            ") magic damage to all enemies in a line.",
+            "\n"
         ],
         "skill_name": "Stolen Might",
         "skill_image": "TFT16_Sylas.png",
@@ -1864,10 +2008,18 @@
         "price": "3",
         "average_position": "4.34",
         "top_4_rate": "52.21",
-        "top_1_rate": "16.22",
-        "battle": "445,166",
+        "top_1_rate": "16.23",
+        "battle": "492,097",
         "description_icon": [
-            "6 unique star levels of  Yordle,  Bruiser, or  Invoker + 7 Level"
+            "Passive: Yuumi joins your strongest Kobuko. Every 3 seconds, she alternates between healing the lowest Health ally for [ 140 / 180 / 240 ] (",
+            "AP.png",
+            ") Health or granting [ 25 / 33 / 50 ]% Attack Speed to the ally who has dealt the most damage for 4 seconds.",
+            "\n",
+            "\n",
+            "Active: Dance, restoring [ 176 / 277 / 446 ] (",
+            "Health.png",
+            "AP.png",
+            ") Health over 3 seconds."
         ],
         "skill_name": "You & Me!",
         "skill_image": "TFT16_Kobuko.png",
@@ -1948,9 +2100,9 @@
         "image": "tft16_taric.tft_set16.png",
         "price": "4",
         "average_position": "4.28",
-        "top_4_rate": "53.54",
+        "top_4_rate": "53.53",
         "top_1_rate": "15.92",
-        "battle": "723,772",
+        "battle": "800,840",
         "description_icon": [
             "Passive: All allies gain [ 10 / 20 / 100 ] Magic Resist. Once per combat after dropping below 35% max Health, gain 90% Durability for 2 seconds.",
             "\n",
@@ -2033,9 +2185,9 @@
         "image": "tft16_wukong.tft_set16.png",
         "price": "4",
         "average_position": "4.26",
-        "top_4_rate": "53.94",
-        "top_1_rate": "15.70",
-        "battle": "723,946",
+        "top_4_rate": "53.92",
+        "top_1_rate": "15.71",
+        "battle": "800,170",
         "description_icon": [
             "Passive: On death, summon a Stone copy with [ 570 / 956 / 3561 ] (",
             "Health.png",
@@ -2101,9 +2253,9 @@
         "image": "tft16_lulu.tft_set16.png",
         "price": "1",
         "average_position": "4.84",
-        "top_4_rate": "42.66",
-        "top_1_rate": "15.53",
-        "battle": "176,500",
+        "top_4_rate": "42.69",
+        "top_1_rate": "15.54",
+        "battle": "194,939",
         "description_icon": [
             "Deal [ 285 / 425 / 635 ] (",
             "AP.png",
@@ -2183,12 +2335,30 @@
         "name": "Aatrox",
         "image": "tft16_aatrox.tft_set16.png",
         "price": "5",
-        "average_position": "3.72",
-        "top_4_rate": "66.27",
-        "top_1_rate": "14.68",
-        "battle": "42,939",
+        "average_position": "3.73",
+        "top_4_rate": "66.23",
+        "top_1_rate": "14.67",
+        "battle": "47,465",
         "description_icon": [
-            "A champion who starts combat with 40%  Omnivamp + 8 Level"
+            "On cast, cycle through one of the following abilities:",
+            "\n",
+            "\n",
+            "Slash in a line, dealing [ 100 / 195 / 2500 ] (",
+            "AD.png",
+            "AP.png",
+            ") physical damage to enemies hit and 20% Sundering them for 4 seconds.",
+            "\n",
+            "\n",
+            "Swipe in a cone, dealing [ 120 / 234 / 3000 ] (",
+            "AD.png",
+            "AP.png",
+            ") physical damage to enemies hit and knocking them up for 1 second.",
+            "\n",
+            "\n",
+            "Slam on target, dealing [ 160 / 312 / 4000 ] (",
+            "AD.png",
+            "AP.png",
+            ") physical damage in a 1 hex circle. Targets below 15% max Health are executed."
         ],
         "skill_name": "The Darkin Blade",
         "skill_image": "TFT16_Aatrox.png",
@@ -2270,9 +2440,9 @@
         "image": "tft16_twistedfate.tft_set16.png",
         "price": "2",
         "average_position": "4.82",
-        "top_4_rate": "42.82",
-        "top_1_rate": "14.59",
-        "battle": "180,719",
+        "top_4_rate": "42.78",
+        "top_1_rate": "14.55",
+        "battle": "199,970",
         "description_icon": [
             "Passive: Attacks deal [ 40 / 60 / 90 ] (",
             "AP.png",
@@ -2329,73 +2499,14 @@
     },
     {
         "stt": 31,
-        "id": "yone",
-        "name": "Yone",
-        "image": "tft16_yone.tft_set16.png",
-        "price": "4",
-        "average_position": "4.05",
-        "top_4_rate": "58.55",
-        "top_1_rate": "14.56",
-        "battle": "48,440",
-        "description_icon": [
-            "3-star Yasuo"
-        ],
-        "skill_name": "Kin of the Stained Blade",
-        "skill_image": "TFT16_Yone.png",
-        "starting_mana": 0,
-        "skill_mana": 60,
-        "skill_attack_range": 1,
-        "health": [
-            1200,
-            2160,
-            3888
-        ],
-        "attack_damage": [
-            80,
-            120,
-            180
-        ],
-        "damage_per_second": [
-            76,
-            114,
-            171
-        ],
-        "attack_speed": 0.95,
-        "armor": 70,
-        "magical_resistance": 70,
-        "stats": [
-            "Cast Damage: %i:scaleAP% [725 / 1050 / 15000]",
-            "Unforgotten Base Damage: %i:scaleAP% [275 / 600 / 9999]",
-            "Sunder and Shred [40% / 40% / 50%]"
-        ],
-        "traits": [
-            {
-                "id": "ionia",
-                "name": "Ionia",
-                "image": "Trait_Icon_16_Ionia.TFT_Set16.png"
-            },
-            {
-                "id": "slayer",
-                "name": "Slayer",
-                "image": "Trait_Icon_16_Slayer.png"
-            }
-        ],
-        "items": [],
-        "unlock": {
-            "description": "3-star Yasuo",
-            "type": true
-        }
-    },
-    {
-        "stt": 32,
         "id": "azir",
         "name": "Azir",
         "image": "tft16_azir.tft_set16.png",
         "price": "5",
         "average_position": "4.2",
-        "top_4_rate": "55.27",
-        "top_1_rate": "14.52",
-        "battle": "182,267",
+        "top_4_rate": "55.3",
+        "top_1_rate": "14.53",
+        "battle": "201,116",
         "description_icon": [
             "Passive: After witnessing 3 attacks from Azir, Sand Soldiers deal [ 100 / 150 / 3000 ] (",
             "AP.png",
@@ -2478,15 +2589,96 @@
         }
     },
     {
+        "stt": 32,
+        "id": "yone",
+        "name": "Yone",
+        "image": "tft16_yone.tft_set16.png",
+        "price": "4",
+        "average_position": "4.06",
+        "top_4_rate": "58.57",
+        "top_1_rate": "14.47",
+        "battle": "53,478",
+        "description_icon": [
+            "Passive: Attacks alternate between dealing [ 80 / 120 / 800 ] (",
+            "AD.png",
+            ") bonus physical damage and [ 140 / 210 / 1400 ] (",
+            "AP.png",
+            ") bonus magic damage.",
+            "\n",
+            "\n",
+            "Active: Strike through the most enemies possible within 3 hexes, knocking them up for 1.5 seconds and dealing [ 80 / 120 / 480 ] (",
+            "AD.png",
+            "AP.png",
+            ") physical damage and [ 80 / 120 / 480 ] (",
+            "AD.png",
+            "AP.png",
+            ") magic damage. Yone then splits [ 320 / 480 / 2160 ] (",
+            "AD.png",
+            "AP.png",
+            ") physical damage and [ 320 / 480 / 2160 ] (",
+            "AD.png",
+            "AP.png",
+            ") magic damage among all enemies hit.",
+            "\n",
+            "\n",
+            "Blade Brothers: When you field Yasuo and Yone, Yasuo assists Yone's casts.Blade Brothers: When Yone casts, your strongest Yasuo blinks to each target, dealing bonus physical damage."
+        ],
+        "skill_name": "Kin of the Stained Blade",
+        "skill_image": "TFT16_Yone.png",
+        "starting_mana": 0,
+        "skill_mana": 60,
+        "skill_attack_range": 1,
+        "health": [
+            1200,
+            2160,
+            3888
+        ],
+        "attack_damage": [
+            80,
+            120,
+            180
+        ],
+        "damage_per_second": [
+            76,
+            114,
+            171
+        ],
+        "attack_speed": 0.95,
+        "armor": 70,
+        "magical_resistance": 70,
+        "stats": [
+            "Cast Damage: %i:scaleAP% [725 / 1050 / 15000]",
+            "Unforgotten Base Damage: %i:scaleAP% [275 / 600 / 9999]",
+            "Sunder and Shred [40% / 40% / 50%]"
+        ],
+        "traits": [
+            {
+                "id": "ionia",
+                "name": "Ionia",
+                "image": "Trait_Icon_16_Ionia.TFT_Set16.png"
+            },
+            {
+                "id": "slayer",
+                "name": "Slayer",
+                "image": "Trait_Icon_16_Slayer.png"
+            }
+        ],
+        "items": [],
+        "unlock": {
+            "description": "3-star Yasuo",
+            "type": true
+        }
+    },
+    {
         "stt": 33,
         "id": "nautilus",
         "name": "Nautilus",
         "image": "tft16_nautilus.tft_set16.png",
         "price": "3",
         "average_position": "4.62",
-        "top_4_rate": "46.69",
-        "top_1_rate": "14.16",
-        "battle": "377,670",
+        "top_4_rate": "46.65",
+        "top_1_rate": "14.14",
+        "battle": "418,025",
         "description_icon": [
             "Passive: Every 4 seconds and on cast, the next attack deals damage in a 1 hex circle and deals [ 45 / 68 / 108 ] (",
             "MR.png",
@@ -2578,7 +2770,7 @@
         "average_position": "4.1",
         "top_4_rate": "57.91",
         "top_1_rate": "13.79",
-        "battle": "939,747",
+        "battle": "1,039,800",
         "description_icon": [
             "Passive: Each second, restore [ 30 / 42 / 144 ] (",
             "Health.png",
@@ -2651,9 +2843,9 @@
         "image": "tft16_reksai.tft_set16.png",
         "price": "2",
         "average_position": "4.48",
-        "top_4_rate": "49.71",
-        "top_1_rate": "13.72",
-        "battle": "115,548",
+        "top_4_rate": "49.66",
+        "top_1_rate": "13.68",
+        "battle": "127,882",
         "description_icon": [
             "Dash to the furthest enemy within 3 hexes and deal [ 160 / 240 / 360 ] (",
             "AD.png",
@@ -2731,98 +2923,14 @@
     },
     {
         "stt": 36,
-        "id": "poppy",
-        "name": "Poppy",
-        "image": "tft16_poppy.tft_set16.png",
-        "price": "2",
-        "average_position": "4.44",
-        "top_4_rate": "51.45",
-        "top_1_rate": "13.56",
-        "battle": "525,410",
-        "description_icon": [
-            "Demacian or a  Yordle with 2 items equipped"
-        ],
-        "skill_name": "Hammer Shock",
-        "skill_image": "TFT16_Poppy.png",
-        "starting_mana": 40,
-        "skill_mana": 80,
-        "skill_attack_range": 1,
-        "health": [
-            850,
-            1530,
-            2754
-        ],
-        "attack_damage": [
-            50,
-            75,
-            113
-        ],
-        "damage_per_second": [
-            35,
-            53,
-            79
-        ],
-        "attack_speed": 0.7,
-        "armor": 45,
-        "magical_resistance": 45,
-        "stats": [
-            "Damage: 70(%i:scaleAD%) [70 / 105 / 165]",
-            "Shield: 330(%i:scaleAP%) [330 / 410 / 500]"
-        ],
-        "traits": [
-            {
-                "id": "demacia",
-                "name": "Demacia",
-                "image": "Trait_Icon_16_Demacia.TFT_Set16.png"
-            },
-            {
-                "id": "yordle",
-                "name": "Yordle",
-                "image": "Trait_Icon_16_Yordle.TFT_Set16.png"
-            },
-            {
-                "id": "juggernaut",
-                "name": "Juggernaut",
-                "image": "Trait_Icon_16_Juggernaut.png"
-            }
-        ],
-        "items": [
-            {
-                "id": "gargoyle_stoneplate",
-                "image": "TFT_Item_GargoyleStoneplate.png"
-            },
-            {
-                "id": "sunfire_cape",
-                "image": "TFT_Item_RedBuff.png"
-            },
-            {
-                "id": "warmog's_armor",
-                "image": "TFT_Item_WarmogsArmor.png"
-            },
-            {
-                "id": "spirit_visage",
-                "image": "TFT_Item_Redemption.png"
-            },
-            {
-                "id": "dragon's_claw",
-                "image": "TFT_Item_DragonsClaw.png"
-            }
-        ],
-        "unlock": {
-            "description": "Demacian or a Yordle with 2 items equipped",
-            "type": true
-        }
-    },
-    {
-        "stt": 37,
         "id": "yunara",
         "name": "Yunara",
         "image": "tft16_yunara.tft_set16.png",
         "price": "4",
         "average_position": "4.34",
-        "top_4_rate": "52.82",
-        "top_1_rate": "13.54",
-        "battle": "266,202",
+        "top_4_rate": "52.83",
+        "top_1_rate": "13.58",
+        "battle": "294,045",
         "description_icon": [
             "For the next 4 seconds, gain [ 75 / 75 / 300 ]% (",
             "AP.png",
@@ -2897,15 +3005,103 @@
         }
     },
     {
+        "stt": 37,
+        "id": "poppy",
+        "name": "Poppy",
+        "image": "tft16_poppy.tft_set16.png",
+        "price": "2",
+        "average_position": "4.44",
+        "top_4_rate": "51.47",
+        "top_1_rate": "13.56",
+        "battle": "581,011",
+        "description_icon": [
+            "Gain [ 330 / 410 / 500 ] (",
+            "AP.png",
+            ") Shield for 4 seconds and deal [ 70 / 105 / 165 ] (",
+            "AD.png",
+            ") physical damage to target. After a delay, briefly knock them up and deal the damage again. Bucklers fly out from the target, granting 2 nearby allies 30% of the Shield gained."
+        ],
+        "skill_name": "Hammer Shock",
+        "skill_image": "TFT16_Poppy.png",
+        "starting_mana": 40,
+        "skill_mana": 80,
+        "skill_attack_range": 1,
+        "health": [
+            850,
+            1530,
+            2754
+        ],
+        "attack_damage": [
+            50,
+            75,
+            113
+        ],
+        "damage_per_second": [
+            35,
+            53,
+            79
+        ],
+        "attack_speed": 0.7,
+        "armor": 45,
+        "magical_resistance": 45,
+        "stats": [
+            "Damage: 70(%i:scaleAD%) [70 / 105 / 165]",
+            "Shield: 330(%i:scaleAP%) [330 / 410 / 500]"
+        ],
+        "traits": [
+            {
+                "id": "demacia",
+                "name": "Demacia",
+                "image": "Trait_Icon_16_Demacia.TFT_Set16.png"
+            },
+            {
+                "id": "yordle",
+                "name": "Yordle",
+                "image": "Trait_Icon_16_Yordle.TFT_Set16.png"
+            },
+            {
+                "id": "juggernaut",
+                "name": "Juggernaut",
+                "image": "Trait_Icon_16_Juggernaut.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "gargoyle_stoneplate",
+                "image": "TFT_Item_GargoyleStoneplate.png"
+            },
+            {
+                "id": "sunfire_cape",
+                "image": "TFT_Item_RedBuff.png"
+            },
+            {
+                "id": "warmog's_armor",
+                "image": "TFT_Item_WarmogsArmor.png"
+            },
+            {
+                "id": "spirit_visage",
+                "image": "TFT_Item_Redemption.png"
+            },
+            {
+                "id": "dragon's_claw",
+                "image": "TFT_Item_DragonsClaw.png"
+            }
+        ],
+        "unlock": {
+            "description": "Demacian or a Yordle with 2 items equipped",
+            "type": true
+        }
+    },
+    {
         "stt": 38,
         "id": "ahri",
         "name": "Ahri",
         "image": "tft16_ahri.tft_set16.png",
         "price": "3",
-        "average_position": "4.59",
-        "top_4_rate": "48.27",
-        "top_1_rate": "13.37",
-        "battle": "160,993",
+        "average_position": "4.58",
+        "top_4_rate": "48.3",
+        "top_1_rate": "13.42",
+        "battle": "178,364",
         "description_icon": [
             "Fire 3 flames at target, each dealing [ 82 / 125 / 195 ] (",
             "AP.png",
@@ -2986,11 +3182,14 @@
         "image": "tft16_kaisa.tft_set16.png",
         "price": "4",
         "average_position": "4.27",
-        "top_4_rate": "54.15",
-        "top_1_rate": "13.36",
-        "battle": "243,900",
+        "top_4_rate": "54.12",
+        "top_1_rate": "13.32",
+        "battle": "269,146",
         "description_icon": [
-            "a  Longshot unit with 3 items equipped + 8 Level"
+            "Dash away from all enemies, then fire [ 15 / 15 / 25 ] missiles split across the 4 nearest enemies. Each missile deals [ 44 / 66 / 155 ] (",
+            "AD.png",
+            "AP.png",
+            ") physical damage."
         ],
         "skill_name": "Icathian Rain",
         "skill_image": "TFT16_Kaisa.png",
@@ -3071,11 +3270,20 @@
         "image": "tft16_mel.tft_set16.png",
         "price": "5",
         "average_position": "4",
-        "top_4_rate": "59.35",
-        "top_1_rate": "13.32",
-        "battle": "77,814",
+        "top_4_rate": "59.27",
+        "top_1_rate": "13.28",
+        "battle": "85,936",
         "description_icon": [
-            "2-star Ambessa with an item dies in combat"
+            "Passive: While gaining Mana, throw out [ 2 / 2 / 9 ] radiant orbs that orbit around target. They deal [ 40 / 60 / 90 ] (",
+            "AP.png",
+            ") magic damage in a 1 hex radius and drain 1 Mana from enemies hit each second. After draining [ 235 / 235 / 10 ] mana, gain a random Radiant Item. (0/[ 235 / 235 / 10 ])",
+            "\n",
+            "\n",
+            "Active: Detonate orbs on target, causing a 3 hex radius explosion that deals [ 900 / 1500 / 10000 ] (",
+            "AP.png",
+            ") magic damage to them and [ 400 / 600 / 10000 ] (",
+            "AP.png",
+            ") damage to all other enemies hit."
         ],
         "skill_name": "Radiant Eclipse",
         "skill_image": "TFT16_Mel.png",
@@ -3151,11 +3359,19 @@
         "image": "tft16_thresh.tft_set16.png",
         "price": "5",
         "average_position": "3.92",
-        "top_4_rate": "61.52",
-        "top_1_rate": "13.24",
-        "battle": "99,499",
+        "top_4_rate": "61.49",
+        "top_1_rate": "13.18",
+        "battle": "110,330",
         "description_icon": [
-            "Collect 175  Shadow Isles Souls"
+            "Passive: Each second, deal [ 30 / 50 / 400 ] (",
+            "AP.png",
+            "TFT16_ShadowIsles_scaleSouls.png",
+            ") magic damage to all enemies within 2 hexes. Heal for 50% of the damage dealt by this effect.",
+            "\n",
+            "\n",
+            "Active: Create a prison of walls in a 2 hex radius that lasts [ 5 / 5 / 60 ] seconds. While active, the Passive's damage is doubled. When an enemy touches a wall, they take [ 100 / 150 / 4000 ] (",
+            "AP.png",
+            ") magic damage. If there are less than 2 enemies inside The Box at any time, drag an enemy in."
         ],
         "skill_name": "The Box",
         "skill_image": "TFT16_Thresh.png",
@@ -3230,9 +3446,9 @@
         "image": "tft16_kogmaw.tft_set16.png",
         "price": "1",
         "average_position": "4.46",
-        "top_4_rate": "50.13",
-        "top_1_rate": "13.18",
-        "battle": "179,324",
+        "top_4_rate": "50.08",
+        "top_1_rate": "13.12",
+        "battle": "198,089",
         "description_icon": [
             "Deal [ 140 / 200 / 300 ] (",
             "AP.png",
@@ -3316,11 +3532,20 @@
         "image": "tft16_galio.tft_set16.png",
         "price": "5",
         "average_position": "3.84",
-        "top_4_rate": "63.96",
-        "top_1_rate": "13.08",
-        "battle": "285,183",
+        "top_4_rate": "63.93",
+        "top_1_rate": "13.09",
+        "battle": "315,430",
         "description_icon": [
-            "12 unique star levels of  Demacia"
+            "Passive: Every 3rd attack deals [ 247 / 371 / 5850 ] (",
+            "MR.png",
+            ") magic damage in a circle around the target.",
+            "\n",
+            "\n",
+            "Active: Dash into the largest group of units and inspire all allies within 2 hexes, granting them [ 500 / 600 / 2000 ] (",
+            "AP.png",
+            ") Shield for 4 seconds. Then crash down, dealing [ 260 / 439 / 3250 ] (",
+            "MR.png",
+            ") bonus magic damage to all enemies with 2 hexes."
         ],
         "skill_name": "Inspirational Might",
         "skill_image": "TFT16_Galio.png",
@@ -3396,9 +3621,9 @@
         "image": "tft16_illaoi.tft_set16.png",
         "price": "1",
         "average_position": "4.81",
-        "top_4_rate": "43.35",
+        "top_4_rate": "43.37",
         "top_1_rate": "13.05",
-        "battle": "289,197",
+        "battle": "320,145",
         "description_icon": [
             "Restore [ 249 / 328 / 439 ] (",
             "Health.png",
@@ -3479,10 +3704,10 @@
         "name": "Bel'Veth",
         "image": "tft16_belveth.tft_set16.png",
         "price": "4",
-        "average_position": "4.36",
-        "top_4_rate": "52.11",
-        "top_1_rate": "13.00",
-        "battle": "158,792",
+        "average_position": "4.37",
+        "top_4_rate": "52.09",
+        "top_1_rate": "12.98",
+        "battle": "175,809",
         "description_icon": [
             "Passive: On takedown, gain [ 100 / 100 / 200 ]% stacking Attack Speed that decays over 3 seconds.",
             "\n",
@@ -3571,9 +3796,9 @@
         "image": "tft16_tristana.tft_set16.png",
         "price": "2",
         "average_position": "5.23",
-        "top_4_rate": "35.81",
-        "top_1_rate": "12.97",
-        "battle": "104,080",
+        "top_4_rate": "35.83",
+        "top_1_rate": "12.98",
+        "battle": "114,618",
         "description_icon": [
             "Fire a massive cannonball at target, dealing [ 280 / 420 / 635 ] (",
             "AD.png",
@@ -3632,11 +3857,19 @@
         "image": "tft16_graves.tft_set16.png",
         "price": "2",
         "average_position": "5.23",
-        "top_4_rate": "34.44",
-        "top_1_rate": "12.95",
-        "battle": "124,462",
+        "top_4_rate": "34.37",
+        "top_1_rate": "12.94",
+        "battle": "137,622",
         "description_icon": [
-            "Twisted Fate with 2 items equipped"
+            "Passive: Attacks fire in a cone on target, dealing 45% damage to other enemies hit.",
+            "\n",
+            "\n",
+            "Active: Fire an explosive shell at target, dealing [ 200 / 300 / 450 ] (",
+            "AD.png",
+            ") physical damage split among enemies in a 1 hex circle.",
+            "\n",
+            "\n",
+            "Partners in Crime: When you field Graves and Twisted Fate, both gain bonuses."
         ],
         "skill_name": "Collateral Damage",
         "skill_image": "TFT16_Graves.png",
@@ -3711,9 +3944,9 @@
         "image": "tft16_malzahar.tft_set16.png",
         "price": "3",
         "average_position": "4.52",
-        "top_4_rate": "49.02",
-        "top_1_rate": "12.91",
-        "battle": "105,793",
+        "top_4_rate": "48.99",
+        "top_1_rate": "12.93",
+        "battle": "116,530",
         "description_icon": [
             "Summon 2 Voidlings that each attack a nearby enemy 8 times. Each attack deals [ 27 / 40 / 65 ] (",
             "AP.png",
@@ -3786,14 +4019,96 @@
     },
     {
         "stt": 49,
+        "id": "jhin",
+        "name": "Jhin",
+        "image": "tft16_jhin.tft_set16.png",
+        "price": "1",
+        "average_position": "4.87",
+        "top_4_rate": "43.24",
+        "top_1_rate": "12.71",
+        "battle": "73,150",
+        "description_icon": [
+            "For the next 4 attacks, gain infinite range and replace attacks with a cannon shot. Cannon shots deal [ 140 / 212 / 314 ] (",
+            "AD.png",
+            "AP.png",
+            ") physical damage. The 4th shot deals 144% more damage."
+        ],
+        "skill_name": "Curtain Call",
+        "skill_image": "TFT16_Jhin.png",
+        "starting_mana": 0,
+        "skill_mana": 70,
+        "skill_attack_range": 4,
+        "health": [
+            444,
+            799,
+            1439
+        ],
+        "attack_damage": [
+            48,
+            72,
+            108
+        ],
+        "damage_per_second": [
+            34,
+            50,
+            76
+        ],
+        "attack_speed": 0.7,
+        "armor": 24,
+        "magical_resistance": 24,
+        "stats": [
+            "Damage: %i:scaleAP% [15 / 22 / 34]",
+            "Damage: 140 = 125(%i:scaleAD%) + 15(%i:scaleAP%) [125 / 190 / 280]"
+        ],
+        "traits": [
+            {
+                "id": "ionia",
+                "name": "Ionia",
+                "image": "Trait_Icon_16_Ionia.TFT_Set16.png"
+            },
+            {
+                "id": "gunslinger",
+                "name": "Gunslinger",
+                "image": "Trait_Icon_16_Gunslinger.TFT_Set16.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "guinsoo's_rageblade",
+                "image": "TFT_Item_GuinsoosRageblade.png"
+            },
+            {
+                "id": "infinity_edge",
+                "image": "TFT_Item_InfinityEdge.png"
+            },
+            {
+                "id": "kraken's_fury",
+                "image": "TFT_Item_RunaansHurricane.png"
+            },
+            {
+                "id": "giant_slayer",
+                "image": "TFT_Item_MadredsBloodrazor.png"
+            },
+            {
+                "id": "deathblade",
+                "image": "TFT_Item_Deathblade.png"
+            }
+        ],
+        "unlock": {
+            "description": "",
+            "type": false
+        }
+    },
+    {
+        "stt": 50,
         "id": "dr._mundo",
         "name": "Dr. Mundo",
         "image": "tft16_drmundo.tft_set16.png",
         "price": "3",
         "average_position": "4.42",
-        "top_4_rate": "51.61",
+        "top_4_rate": "51.59",
         "top_1_rate": "12.68",
-        "battle": "443,893",
+        "battle": "489,680",
         "description_icon": [
             "Bulk up for 5 seconds. While bulked, restore [ 114 / 177 / 275 ] (",
             "Health.png",
@@ -3870,97 +4185,15 @@
         }
     },
     {
-        "stt": 50,
-        "id": "jhin",
-        "name": "Jhin",
-        "image": "tft16_jhin.tft_set16.png",
-        "price": "1",
-        "average_position": "4.87",
-        "top_4_rate": "43.29",
-        "top_1_rate": "12.66",
-        "battle": "66,333",
-        "description_icon": [
-            "For the next 4 attacks, gain infinite range and replace attacks with a cannon shot. Cannon shots deal [ 140 / 212 / 314 ] (",
-            "AD.png",
-            "AP.png",
-            ") physical damage. The 4th shot deals 144% more damage."
-        ],
-        "skill_name": "Curtain Call",
-        "skill_image": "TFT16_Jhin.png",
-        "starting_mana": 0,
-        "skill_mana": 70,
-        "skill_attack_range": 4,
-        "health": [
-            444,
-            799,
-            1439
-        ],
-        "attack_damage": [
-            48,
-            72,
-            108
-        ],
-        "damage_per_second": [
-            34,
-            50,
-            76
-        ],
-        "attack_speed": 0.7,
-        "armor": 24,
-        "magical_resistance": 24,
-        "stats": [
-            "Damage: %i:scaleAP% [15 / 22 / 34]",
-            "Damage: 140 = 125(%i:scaleAD%) + 15(%i:scaleAP%) [125 / 190 / 280]"
-        ],
-        "traits": [
-            {
-                "id": "ionia",
-                "name": "Ionia",
-                "image": "Trait_Icon_16_Ionia.TFT_Set16.png"
-            },
-            {
-                "id": "gunslinger",
-                "name": "Gunslinger",
-                "image": "Trait_Icon_16_Gunslinger.TFT_Set16.png"
-            }
-        ],
-        "items": [
-            {
-                "id": "guinsoo's_rageblade",
-                "image": "TFT_Item_GuinsoosRageblade.png"
-            },
-            {
-                "id": "infinity_edge",
-                "image": "TFT_Item_InfinityEdge.png"
-            },
-            {
-                "id": "kraken's_fury",
-                "image": "TFT_Item_RunaansHurricane.png"
-            },
-            {
-                "id": "giant_slayer",
-                "image": "TFT_Item_MadredsBloodrazor.png"
-            },
-            {
-                "id": "deathblade",
-                "image": "TFT_Item_Deathblade.png"
-            }
-        ],
-        "unlock": {
-            "description": "",
-            "type": false
-        }
-    },
-    {
         "stt": 51,
         "id": "vi",
         "name": "Vi",
         "image": "tft16_vi.tft_set16.png",
         "price": "2",
         "average_position": "4.4",
-        "top_4_rate": "52.49",
-        "top_1_rate": "12.48",
-        "battle": "592,422",
+        "top_4_rate": "52.5",
+        "top_1_rate": "12.47",
+        "battle": "654,399",
         "description_icon": [
             "Gain [ 125 / 150 / 175 ] (",
             "AP.png",
@@ -4027,9 +4260,9 @@
         "image": "tft16_shen.tft_set16.png",
         "price": "1",
         "average_position": "4.53",
-        "top_4_rate": "49.72",
-        "top_1_rate": "12.44",
-        "battle": "313,464",
+        "top_4_rate": "49.73",
+        "top_1_rate": "12.46",
+        "battle": "346,628",
         "description_icon": [
             "Grant [ 250 / 325 / 425 ] (",
             "AP.png",
@@ -4082,94 +4315,14 @@
     },
     {
         "stt": 53,
-        "id": "kalista",
-        "name": "Kalista",
-        "image": "tft16_kalista.tft_set16.png",
-        "price": "4",
-        "average_position": "4.13",
-        "top_4_rate": "57.89",
-        "top_1_rate": "12.41",
-        "battle": "103,201",
-        "description_icon": [
-            "Collect 70  Shadow Isles Souls"
-        ],
-        "skill_name": "Endless Rend",
-        "skill_image": "TFT16_Kalista.png",
-        "starting_mana": 20,
-        "skill_mana": 65,
-        "skill_attack_range": 4,
-        "health": [
-            800,
-            1440,
-            2592
-        ],
-        "attack_damage": [
-            50,
-            75,
-            113
-        ],
-        "damage_per_second": [
-            43,
-            64,
-            96
-        ],
-        "attack_speed": 0.85,
-        "armor": 30,
-        "magical_resistance": 30,
-        "stats": [
-            "Number of Spears: 20 = 20 + 1 per 25 %i:scaleSouls%",
-            "Damage: %i:scaleAP% [3 / 5 / 15]",
-            "Damage: 35 = 32(%i:scaleAD%) + 3(%i:scaleAP%) [32 / 48 / 450]"
-        ],
-        "traits": [
-            {
-                "id": "shadow_isles",
-                "name": "Shadow Isles",
-                "image": "Trait_Icon_16_ShadowIsles.TFT_Set16.png"
-            },
-            {
-                "id": "vanquisher",
-                "name": "Vanquisher",
-                "image": "Trait_Icon_16_Vanquisher.png"
-            }
-        ],
-        "items": [
-            {
-                "id": "spear_of_shojin",
-                "image": "TFT_Item_SpearOfShojin.png"
-            },
-            {
-                "id": "last_whisper",
-                "image": "TFT_Item_LastWhisper.png"
-            },
-            {
-                "id": "striker's_flail",
-                "image": "TFT_Item_PowerGauntlet.png"
-            },
-            {
-                "id": "infinity_edge",
-                "image": "TFT_Item_InfinityEdge.png"
-            },
-            {
-                "id": "guinsoo's_rageblade",
-                "image": "TFT_Item_GuinsoosRageblade.png"
-            }
-        ],
-        "unlock": {
-            "description": "Collect 70 Shadow Isles Souls",
-            "type": true
-        }
-    },
-    {
-        "stt": 54,
         "id": "annie",
         "name": "Annie",
         "image": "tft16_annie.tft_set16.png",
         "price": "5",
         "average_position": "4.37",
         "top_4_rate": "52.59",
-        "top_1_rate": "12.37",
-        "battle": "84,588",
+        "top_1_rate": "12.38",
+        "battle": "93,133",
         "description_icon": [
             "Erupt the entire battlefield in flames, permanently Burning and Wounding all enemies and dealing [ 1500 / 2250 / 8000 ] (",
             "AP.png",
@@ -4252,17 +4405,170 @@
         }
     },
     {
+        "stt": 54,
+        "id": "kalista",
+        "name": "Kalista",
+        "image": "tft16_kalista.tft_set16.png",
+        "price": "4",
+        "average_position": "4.14",
+        "top_4_rate": "57.83",
+        "top_1_rate": "12.34",
+        "battle": "114,533",
+        "description_icon": [
+            "Summon 20 (",
+            "TFT16_ShadowIsles_scaleSouls.png",
+            ") spears split among the 3 nearest enemies. After a brief delay, they each impale their target, dealing [ 35 / 53 / 465 ] (",
+            "AD.png",
+            "AP.png",
+            ") physical damage and reducing Armor by 1."
+        ],
+        "skill_name": "Endless Rend",
+        "skill_image": "TFT16_Kalista.png",
+        "starting_mana": 20,
+        "skill_mana": 65,
+        "skill_attack_range": 4,
+        "health": [
+            800,
+            1440,
+            2592
+        ],
+        "attack_damage": [
+            50,
+            75,
+            113
+        ],
+        "damage_per_second": [
+            43,
+            64,
+            96
+        ],
+        "attack_speed": 0.85,
+        "armor": 30,
+        "magical_resistance": 30,
+        "stats": [
+            "Number of Spears: 20 = 20 + 1 per 25 %i:scaleSouls%",
+            "Damage: %i:scaleAP% [3 / 5 / 15]",
+            "Damage: 35 = 32(%i:scaleAD%) + 3(%i:scaleAP%) [32 / 48 / 450]"
+        ],
+        "traits": [
+            {
+                "id": "shadow_isles",
+                "name": "Shadow Isles",
+                "image": "Trait_Icon_16_ShadowIsles.TFT_Set16.png"
+            },
+            {
+                "id": "vanquisher",
+                "name": "Vanquisher",
+                "image": "Trait_Icon_16_Vanquisher.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "spear_of_shojin",
+                "image": "TFT_Item_SpearOfShojin.png"
+            },
+            {
+                "id": "last_whisper",
+                "image": "TFT_Item_LastWhisper.png"
+            },
+            {
+                "id": "striker's_flail",
+                "image": "TFT_Item_PowerGauntlet.png"
+            },
+            {
+                "id": "infinity_edge",
+                "image": "TFT_Item_InfinityEdge.png"
+            },
+            {
+                "id": "guinsoo's_rageblade",
+                "image": "TFT_Item_GuinsoosRageblade.png"
+            }
+        ],
+        "unlock": {
+            "description": "Collect 70 Shadow Isles Souls",
+            "type": true
+        }
+    },
+    {
         "stt": 55,
+        "id": "tibbers",
+        "name": "Tibbers",
+        "image": "tft16_annietibbers.tft_set16.png",
+        "price": "11",
+        "average_position": "4.41",
+        "top_4_rate": "51.65",
+        "top_1_rate": "12.30",
+        "battle": "80,295",
+        "description_icon": [
+            "Passive: After attacking an enemy, restore ? (",
+            "Health.png",
+            ") Health. If they are Burning, the healing is doubled.",
+            "\n",
+            "\n",
+            "Active: Gain [ 200 / 200 / 500 ]% Attack Speed and [ 1000 / 1200 / 9000 ] (",
+            "AP.png",
+            ") Shield that decays over 4 seconds. Gain immunity to Crowd Control effects for the same duration.",
+            "\n",
+            "\n",
+            "Burn: Deal 1% of the target's max Health as true damage every second"
+        ],
+        "skill_name": "Rage of Embers",
+        "skill_image": "TFT16_AnnieTibbers.png",
+        "starting_mana": 40,
+        "skill_mana": 100,
+        "skill_attack_range": 1,
+        "health": [
+            1500,
+            2700,
+            4860
+        ],
+        "attack_damage": [
+            90,
+            135,
+            203
+        ],
+        "damage_per_second": [
+            68,
+            101,
+            152
+        ],
+        "attack_speed": 0.75,
+        "armor": 80,
+        "magical_resistance": 80,
+        "stats": [
+            "Heal: 38(%i:scaleHealth%) [2.5% / 2.5% / 100%]",
+            "Shield: 1000(%i:scaleAP%) [1000 / 1200 / 9000]"
+        ],
+        "traits": [
+            {
+                "id": "arcanist",
+                "name": "Arcanist",
+                "image": "Trait_Icon_6_Arcanist.png"
+            }
+        ],
+        "items": [],
+        "unlock": {
+            "description": "",
+            "type": false
+        }
+    },
+    {
+        "stt": 56,
         "id": "rift_herald",
         "name": "Rift Herald",
         "image": "tft16_riftherald_splash_tile_0.tft_set16.png",
         "price": "4",
         "average_position": "4.49",
-        "top_4_rate": "49.26",
-        "top_1_rate": "12.31",
-        "battle": "194,465",
+        "top_4_rate": "49.23",
+        "top_1_rate": "12.29",
+        "battle": "214,685",
         "description_icon": [
-            "Have  Void active for 8 player combats"
+            "Gain [ 350 / 450 / 2000 ] max Health and grow larger. Slam in a 2 Hex circle on the target, dealing [ 166 / 269 / 2488 ] (",
+            "AP.png",
+            "Health.png",
+            ") magic damage to enemies hit. For 4 seconds, gain [ 25 / 25 / 80 ]% (",
+            "AP.png",
+            ") Durability + 1% for each enemy targeting this unit."
         ],
         "skill_name": "Warp Armor",
         "skill_image": "TFT16_RiftHerald.png",
@@ -4332,17 +4638,23 @@
         }
     },
     {
-        "stt": 56,
+        "stt": 57,
         "id": "gwen",
         "name": "Gwen",
         "image": "tft16_gwen.tft_set16.png",
         "price": "3",
         "average_position": "4.22",
-        "top_4_rate": "56.28",
-        "top_1_rate": "12.30",
-        "battle": "95,135",
+        "top_4_rate": "56.23",
+        "top_1_rate": "12.24",
+        "battle": "105,551",
         "description_icon": [
-            "Collect 20  Shadow Isles Souls"
+            "Dash around target and snip 5 (",
+            "TFT16_ShadowIsles_scaleSouls.png",
+            ") times, dealing [ 45 / 68 / 105 ] (",
+            "AP.png",
+            ") magic damage to them and [ 20 / 30 / 50 ] (",
+            "AP.png",
+            ") damage to all other enemies in a cone."
         ],
         "skill_name": "Snip Snip!",
         "skill_image": "TFT16_Gwen.png",
@@ -4412,78 +4724,15 @@
         }
     },
     {
-        "stt": 57,
-        "id": "tibbers",
-        "name": "Tibbers",
-        "image": "tft16_annietibbers.tft_set16.png",
-        "price": "11",
-        "average_position": "4.41",
-        "top_4_rate": "51.65",
-        "top_1_rate": "12.29",
-        "battle": "72,971",
-        "description_icon": [
-            "Passive: After attacking an enemy, restore ? (",
-            "Health.png",
-            ") Health. If they are Burning, the healing is doubled.",
-            "\n",
-            "\n",
-            "Active: Gain [ 200 / 200 / 500 ]% Attack Speed and [ 1000 / 1200 / 9000 ] (",
-            "AP.png",
-            ") Shield that decays over 4 seconds. Gain immunity to Crowd Control effects for the same duration.",
-            "\n",
-            "\n",
-            "Burn: Deal 1% of the target's max Health as true damage every second"
-        ],
-        "skill_name": "Rage of Embers",
-        "skill_image": "TFT16_AnnieTibbers.png",
-        "starting_mana": 40,
-        "skill_mana": 100,
-        "skill_attack_range": 1,
-        "health": [
-            1500,
-            2700,
-            4860
-        ],
-        "attack_damage": [
-            90,
-            135,
-            203
-        ],
-        "damage_per_second": [
-            68,
-            101,
-            152
-        ],
-        "attack_speed": 0.75,
-        "armor": 80,
-        "magical_resistance": 80,
-        "stats": [
-            "Heal: 38(%i:scaleHealth%) [2.5% / 2.5% / 100%]",
-            "Shield: 1000(%i:scaleAP%) [1000 / 1200 / 9000]"
-        ],
-        "traits": [
-            {
-                "id": "arcanist",
-                "name": "Arcanist",
-                "image": "Trait_Icon_6_Arcanist.png"
-            }
-        ],
-        "items": [],
-        "unlock": {
-            "description": "",
-            "type": false
-        }
-    },
-    {
         "stt": 58,
         "id": "braum",
         "name": "Braum",
         "image": "tft16_braum.tft_set16.png",
         "price": "4",
         "average_position": "4.52",
-        "top_4_rate": "49.33",
-        "top_1_rate": "12.20",
-        "battle": "270,720",
+        "top_4_rate": "49.34",
+        "top_1_rate": "12.21",
+        "battle": "299,712",
         "description_icon": [
             "Raise shield for 4 seconds, gaining [ 55 / 55 / 90 ]% (",
             "AP.png",
@@ -4564,93 +4813,14 @@
     },
     {
         "stt": 59,
-        "id": "yorick",
-        "name": "Yorick",
-        "image": "tft16_yorick.tft_set16.png",
-        "price": "2",
-        "average_position": "4.23",
-        "top_4_rate": "56.01",
-        "top_1_rate": "12.18",
-        "battle": "100,825",
-        "description_icon": [
-            "2-star Viego with 2 items equipped"
-        ],
-        "skill_name": "Mourning Mist",
-        "skill_image": "TFT16_Yorick.png",
-        "starting_mana": 15,
-        "skill_mana": 75,
-        "skill_attack_range": 1,
-        "health": [
-            850,
-            1530,
-            2754
-        ],
-        "attack_damage": [
-            60,
-            90,
-            135
-        ],
-        "damage_per_second": [
-            36,
-            54,
-            81
-        ],
-        "attack_speed": 0.6,
-        "armor": 45,
-        "magical_resistance": 45,
-        "stats": [
-            "Heal: 325 = 7 per 10 %i:scaleSouls% + 325(%i:scaleAP%) [325 / 370 / 500]",
-            "Damage: 123 = 5% %i:scaleHealth% + 80 [80 / 110 / 150]"
-        ],
-        "traits": [
-            {
-                "id": "shadow_isles",
-                "name": "Shadow Isles",
-                "image": "Trait_Icon_16_ShadowIsles.TFT_Set16.png"
-            },
-            {
-                "id": "warden",
-                "name": "Warden",
-                "image": "Trait_Icon_16_Warden.TFT_Set16.png"
-            }
-        ],
-        "items": [
-            {
-                "id": "gargoyle_stoneplate",
-                "image": "TFT_Item_GargoyleStoneplate.png"
-            },
-            {
-                "id": "spirit_visage",
-                "image": "TFT_Item_Redemption.png"
-            },
-            {
-                "id": "warmog's_armor",
-                "image": "TFT_Item_WarmogsArmor.png"
-            },
-            {
-                "id": "sunfire_cape",
-                "image": "TFT_Item_RedBuff.png"
-            },
-            {
-                "id": "bramble_vest",
-                "image": "TFT_Item_BrambleVest.png"
-            }
-        ],
-        "unlock": {
-            "description": "2-star Viego with 2 items equipped",
-            "type": true
-        }
-    },
-    {
-        "stt": 60,
         "id": "gangplank",
         "name": "Gangplank",
         "image": "tft16_gangplank.tft_set16.png",
         "price": "3",
         "average_position": "4.93",
-        "top_4_rate": "41.52",
-        "top_1_rate": "12.15",
-        "battle": "166,206",
+        "top_4_rate": "41.53",
+        "top_1_rate": "12.17",
+        "battle": "184,028",
         "description_icon": [
             "Toss barrels at the 3 nearest enemies and detonate them. They deal [ 200 / 300 / 475 ] (",
             "AD.png",
@@ -4729,15 +4899,102 @@
         }
     },
     {
+        "stt": 60,
+        "id": "yorick",
+        "name": "Yorick",
+        "image": "tft16_yorick.tft_set16.png",
+        "price": "2",
+        "average_position": "4.24",
+        "top_4_rate": "55.94",
+        "top_1_rate": "12.12",
+        "battle": "111,839",
+        "description_icon": [
+            "Restore [ 325 / 370 / 500 ] (",
+            "AP.png",
+            "TFT16_ShadowIsles_scaleSouls.png",
+            ") Health. Throw a globule of black mist at the enemy who has dealt the most damage this combat, preferring unique enemies. It 20% Chills them for 4 seconds and raises the Mana cost of their next cast by 20. It then deals [ 123 / 187 / 288 ] (",
+            "Health.png",
+            ") magic damage in 1 hex radius.",
+            "\n",
+            "\n",
+            "Chill: Reduce Attack Speed"
+        ],
+        "skill_name": "Mourning Mist",
+        "skill_image": "TFT16_Yorick.png",
+        "starting_mana": 15,
+        "skill_mana": 75,
+        "skill_attack_range": 1,
+        "health": [
+            850,
+            1530,
+            2754
+        ],
+        "attack_damage": [
+            60,
+            90,
+            135
+        ],
+        "damage_per_second": [
+            36,
+            54,
+            81
+        ],
+        "attack_speed": 0.6,
+        "armor": 45,
+        "magical_resistance": 45,
+        "stats": [
+            "Heal: 325 = 7 per 10 %i:scaleSouls% + 325(%i:scaleAP%) [325 / 370 / 500]",
+            "Damage: 123 = 5% %i:scaleHealth% + 80 [80 / 110 / 150]"
+        ],
+        "traits": [
+            {
+                "id": "shadow_isles",
+                "name": "Shadow Isles",
+                "image": "Trait_Icon_16_ShadowIsles.TFT_Set16.png"
+            },
+            {
+                "id": "warden",
+                "name": "Warden",
+                "image": "Trait_Icon_16_Warden.TFT_Set16.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "gargoyle_stoneplate",
+                "image": "TFT_Item_GargoyleStoneplate.png"
+            },
+            {
+                "id": "spirit_visage",
+                "image": "TFT_Item_Redemption.png"
+            },
+            {
+                "id": "warmog's_armor",
+                "image": "TFT_Item_WarmogsArmor.png"
+            },
+            {
+                "id": "sunfire_cape",
+                "image": "TFT_Item_RedBuff.png"
+            },
+            {
+                "id": "bramble_vest",
+                "image": "TFT_Item_BrambleVest.png"
+            }
+        ],
+        "unlock": {
+            "description": "2-star Viego with 2 items equipped",
+            "type": true
+        }
+    },
+    {
         "stt": 61,
         "id": "lissandra",
         "name": "Lissandra",
         "image": "tft16_lissandra.tft_set16.png",
         "price": "4",
         "average_position": "4.57",
-        "top_4_rate": "48.47",
+        "top_4_rate": "48.48",
         "top_1_rate": "12.01",
-        "battle": "240,545",
+        "battle": "265,966",
         "description_icon": [
             "Encase target in ice, Stunning them for 1 second and dealing [ 275 / 415 / 2800 ] (",
             "AP.png",
@@ -4825,8 +5082,8 @@
         "price": "4",
         "average_position": "4.17",
         "top_4_rate": "57.54",
-        "top_1_rate": "11.70",
-        "battle": "311,916",
+        "top_1_rate": "11.71",
+        "battle": "345,016",
         "description_icon": [
             "Fire a ball of light at the most enemies, dealing [ 30 / 45 / 100 ] (",
             "AP.png",
@@ -4910,11 +5167,21 @@
         "image": "tft16_darius.tft_set16.png",
         "price": "3",
         "average_position": "4.44",
-        "top_4_rate": "50.27",
+        "top_4_rate": "50.21",
         "top_1_rate": "11.62",
-        "battle": "68,374",
+        "battle": "75,494",
         "description_icon": [
-            "Have Draven drop 1 gold"
+            "Restore [ 270 / 382 / 572 ] (",
+            "Health.png",
+            "AP.png",
+            ") Health and spin, dealing [ 90 / 135 / 210 ] (",
+            "AD.png",
+            ") physical damage to adjacent enemies and applying a stack of Hemorrhage that deals [ 15 / 25 / 40 ] (",
+            "AD.png",
+            ") physical damage each second for 4 seconds.",
+            "\n",
+            "\n",
+            "If an enemy with Hemorrhage drops below 8% Health, slam on them, instantly killing them. (Each stack increases the execute threshold by 5%)"
         ],
         "skill_name": "Decimate",
         "skill_image": "TFT16_Darius.png",
@@ -4990,9 +5257,9 @@
         "image": "tft16_yasuo.tft_set16.png",
         "price": "2",
         "average_position": "4.79",
-        "top_4_rate": "45.06",
-        "top_1_rate": "11.61",
-        "battle": "77,663",
+        "top_4_rate": "45.07",
+        "top_1_rate": "11.60",
+        "battle": "85,740",
         "description_icon": [
             "Dash, then deal [ 93 / 137 / 208 ] (",
             "AD.png",
@@ -5051,98 +5318,14 @@
     },
     {
         "stt": 65,
-        "id": "cho'gath",
-        "name": "Cho'Gath",
-        "image": "tft16_chogath.tft_set16.png",
-        "price": "2",
-        "average_position": "4.6",
-        "top_4_rate": "47.38",
-        "top_1_rate": "11.53",
-        "battle": "184,492",
-        "description_icon": [
-            "Restore [ 200 / 225 / 400 ] (",
-            "AP.png",
-            ") Health and rupture a 2 hex circle beneath target. After a brief delay, enemies within are knocked up for 1.5 seconds and take [ 88 / 152 / 248 ] (",
-            "Health.png",
-            "AP.png",
-            ") magic damage."
-        ],
-        "skill_name": "Rupture",
-        "skill_image": "TFT16_ChoGath.png",
-        "starting_mana": 40,
-        "skill_mana": 100,
-        "skill_attack_range": 1,
-        "health": [
-            850,
-            1530,
-            2754
-        ],
-        "attack_damage": [
-            50,
-            75,
-            113
-        ],
-        "damage_per_second": [
-            30,
-            45,
-            68
-        ],
-        "attack_speed": 0.6,
-        "armor": 45,
-        "magical_resistance": 45,
-        "stats": [
-            "Heal: 200(%i:scaleAP%) [200 / 225 / 400]",
-            "Damage: 88 = 5% %i:scaleHealth% + 45(%i:scaleAP%) [45 / 75 / 110]"
-        ],
-        "traits": [
-            {
-                "id": "void",
-                "name": "Void",
-                "image": "Trait_Icon_16_Void.TFT_Set16.png"
-            },
-            {
-                "id": "juggernaut",
-                "name": "Juggernaut",
-                "image": "Trait_Icon_16_Juggernaut.png"
-            }
-        ],
-        "items": [
-            {
-                "id": "sunfire_cape",
-                "image": "TFT_Item_RedBuff.png"
-            },
-            {
-                "id": "spirit_visage",
-                "image": "TFT_Item_Redemption.png"
-            },
-            {
-                "id": "gargoyle_stoneplate",
-                "image": "TFT_Item_GargoyleStoneplate.png"
-            },
-            {
-                "id": "warmog's_armor",
-                "image": "TFT_Item_WarmogsArmor.png"
-            },
-            {
-                "id": "dragon's_claw",
-                "image": "TFT_Item_DragonsClaw.png"
-            }
-        ],
-        "unlock": {
-            "description": "",
-            "type": false
-        }
-    },
-    {
-        "stt": 66,
         "id": "garen",
         "name": "Garen",
         "image": "tft16_garen.tft_set16.png",
         "price": "4",
-        "average_position": "4.21",
-        "top_4_rate": "56.62",
+        "average_position": "4.22",
+        "top_4_rate": "56.59",
         "top_1_rate": "11.53",
-        "battle": "373,657",
+        "battle": "413,155",
         "description_icon": [
             "Spin for 3 seconds, gaining [ 50 / 50 / 80 ]% Durability and healing for [ 420 / 566 / 1639 ] (",
             "Health.png",
@@ -5219,17 +5402,108 @@
         }
     },
     {
+        "stt": 66,
+        "id": "cho'gath",
+        "name": "Cho'Gath",
+        "image": "tft16_chogath.tft_set16.png",
+        "price": "2",
+        "average_position": "4.61",
+        "top_4_rate": "47.35",
+        "top_1_rate": "11.50",
+        "battle": "204,068",
+        "description_icon": [
+            "Restore [ 200 / 225 / 400 ] (",
+            "AP.png",
+            ") Health and rupture a 2 hex circle beneath target. After a brief delay, enemies within are knocked up for 1.5 seconds and take [ 88 / 152 / 248 ] (",
+            "Health.png",
+            "AP.png",
+            ") magic damage."
+        ],
+        "skill_name": "Rupture",
+        "skill_image": "TFT16_ChoGath.png",
+        "starting_mana": 40,
+        "skill_mana": 100,
+        "skill_attack_range": 1,
+        "health": [
+            850,
+            1530,
+            2754
+        ],
+        "attack_damage": [
+            50,
+            75,
+            113
+        ],
+        "damage_per_second": [
+            30,
+            45,
+            68
+        ],
+        "attack_speed": 0.6,
+        "armor": 45,
+        "magical_resistance": 45,
+        "stats": [
+            "Heal: 200(%i:scaleAP%) [200 / 225 / 400]",
+            "Damage: 88 = 5% %i:scaleHealth% + 45(%i:scaleAP%) [45 / 75 / 110]"
+        ],
+        "traits": [
+            {
+                "id": "void",
+                "name": "Void",
+                "image": "Trait_Icon_16_Void.TFT_Set16.png"
+            },
+            {
+                "id": "juggernaut",
+                "name": "Juggernaut",
+                "image": "Trait_Icon_16_Juggernaut.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "sunfire_cape",
+                "image": "TFT_Item_RedBuff.png"
+            },
+            {
+                "id": "spirit_visage",
+                "image": "TFT_Item_Redemption.png"
+            },
+            {
+                "id": "gargoyle_stoneplate",
+                "image": "TFT_Item_GargoyleStoneplate.png"
+            },
+            {
+                "id": "warmog's_armor",
+                "image": "TFT_Item_WarmogsArmor.png"
+            },
+            {
+                "id": "dragon's_claw",
+                "image": "TFT_Item_DragonsClaw.png"
+            }
+        ],
+        "unlock": {
+            "description": "",
+            "type": false
+        }
+    },
+    {
         "stt": 67,
         "id": "skarner",
         "name": "Skarner",
         "image": "tft16_skarner.tft_set16.png",
         "price": "4",
         "average_position": "5",
-        "top_4_rate": "40.25",
-        "top_1_rate": "11.51",
-        "battle": "120,256",
+        "top_4_rate": "40.28",
+        "top_1_rate": "11.49",
+        "battle": "132,729",
         "description_icon": [
-            "A non-Tank with a Gargoyle's Stoneplate equipped + 7 Level"
+            "Passive: All allies gain [ 10 / 20 / 100 ] Armor.",
+            "\n",
+            "\n",
+            "Active: Gain [ 750 / 950 / 3000 ] (",
+            "AP.png",
+            ") Shield for 4 seconds. Impale up to three nearby enemies in a line, dealing [ 84 / 126 / 1750 ] (",
+            "Armor.png",
+            ") physical damage and Stunning them for [ 2 / 2.25 / 8 ] seconds."
         ],
         "skill_name": "Impale",
         "skill_image": "TFT16_Skarner.png",
@@ -5301,9 +5575,9 @@
         "image": "tft16_viego.tft_set16.png",
         "price": "1",
         "average_position": "4.42",
-        "top_4_rate": "52.81",
-        "top_1_rate": "11.35",
-        "battle": "73,815",
+        "top_4_rate": "52.73",
+        "top_1_rate": "11.26",
+        "battle": "81,682",
         "description_icon": [
             "Passive: Gain 10% (",
             "TFT16_ShadowIsles_scaleSouls.png",
@@ -5390,9 +5664,9 @@
         "image": "tft16_sona.tft_set16.png",
         "price": "1",
         "average_position": "4.36",
-        "top_4_rate": "54.15",
-        "top_1_rate": "11.22",
-        "battle": "247,562",
+        "top_4_rate": "54.13",
+        "top_1_rate": "11.24",
+        "battle": "274,160",
         "description_icon": [
             "Deal [ 130 / 195 / 300 ] (",
             "AP.png",
@@ -5468,94 +5742,14 @@
     },
     {
         "stt": 70,
-        "id": "aurelion_sol",
-        "name": "Aurelion Sol",
-        "image": "tft16_aurelionsol.tft_set16.png",
-        "price": "7",
-        "average_position": "4.99",
-        "top_4_rate": "37.92",
-        "top_1_rate": "10.91",
-        "battle": "40,157",
-        "description_icon": [
-            "5 unique  Targonians"
-        ],
-        "skill_name": "The Skies Descend",
-        "skill_image": "TFT16_AurelionSol.png",
-        "starting_mana": 20,
-        "skill_mana": 90,
-        "skill_attack_range": 4,
-        "health": [
-            1100,
-            1980,
-            3564
-        ],
-        "attack_damage": [
-            50,
-            75,
-            113
-        ],
-        "damage_per_second": [
-            40,
-            60,
-            90
-        ],
-        "attack_speed": 0.8,
-        "armor": 40,
-        "magical_resistance": 40,
-        "stats": [
-            "Damage: 450(%i:scaleAP%) [450 / 800 / 5000]",
-            "Shockwave Damage: 50(%i:scaleAP%) [50 / 75 / 1000]",
-            "Meteor Storm Damage: 1000(%i:scaleAP%) [1000 / 1500 / 9999]"
-        ],
-        "traits": [
-            {
-                "id": "star_forger",
-                "name": "Star Forger",
-                "image": "Trait_Icon_16_StarForger.TFT_Set16.png"
-            },
-            {
-                "id": "targon",
-                "name": "Targon",
-                "image": "Trait_Icon_16_Targon.TFT_Set16.png"
-            }
-        ],
-        "items": [
-            {
-                "id": "spear_of_shojin",
-                "image": "TFT_Item_SpearOfShojin.png"
-            },
-            {
-                "id": "guinsoo's_rageblade",
-                "image": "TFT_Item_GuinsoosRageblade.png"
-            },
-            {
-                "id": "blue_buff",
-                "image": "TFT_Item_BlueBuff.png"
-            },
-            {
-                "id": "jeweled_gauntlet",
-                "image": "TFT_Item_JeweledGauntlet.png"
-            },
-            {
-                "id": "adaptive_helm",
-                "image": "TFT_Item_AdaptiveHelm.png"
-            }
-        ],
-        "unlock": {
-            "description": "5 unique Targonians",
-            "type": true
-        }
-    },
-    {
-        "stt": 71,
         "id": "jarvan_iv",
         "name": "Jarvan IV",
         "image": "tft16_jarvaniv.tft_set16.png",
         "price": "1",
         "average_position": "4.35",
-        "top_4_rate": "54.35",
-        "top_1_rate": "10.90",
-        "battle": "341,648",
+        "top_4_rate": "54.34",
+        "top_1_rate": "10.91",
+        "battle": "377,732",
         "description_icon": [
             "Gain [ 350 / 425 / 500 ] (",
             "AP.png",
@@ -5630,15 +5824,127 @@
         }
     },
     {
+        "stt": 71,
+        "id": "aurelion_sol",
+        "name": "Aurelion Sol",
+        "image": "tft16_aurelionsol.tft_set16.png",
+        "price": "7",
+        "average_position": "4.99",
+        "top_4_rate": "37.85",
+        "top_1_rate": "10.89",
+        "battle": "44,427",
+        "description_icon": [
+            "Passive: After dealing ability damage to an enemy, gain Stardust. Stardust makes The Skies Descend more powerful. (Current Stardust: 0)",
+            "\n",
+            "\n",
+            "Active: Crash a star on target, dealing [ 350 / 615 / 5000 ] (",
+            "AP.png",
+            ") magic damage in a 2 hex radius.",
+            "\n",
+            "\n",
+            "Stardust Upgrades:",
+            "\n",
+            "15: Create a shockwave that deals [ 50 / 75 / 1000 ] (",
+            "AP.png",
+            ") additional magic damage in a 3 Hex radius.15: Create a shockwave that deals [ 50 / 75 / 1000 ] (",
+            "AP.png",
+            ") additional magic damage in a 3 Hex radius.",
+            "\n",
+            "60: The star crash deals 15% more damage.60: The star crash deals 15% more damage.",
+            "\n",
+            "100: Shockwave increases to a 4 hex radius.100: Shockwave increases to a 4 hex radius.",
+            "\n",
+            "175: Knock up targets in the star crash for 2 seconds.175: Knock up targets in the star crash for 2 seconds.",
+            "\n",
+            "250: Shockwave increases to 10 radius.250: Shockwave increases to 10 radius.",
+            "\n",
+            "400: The star crash deals 33% bonus true damage.400: The star crash deals 33% bonus true damage.",
+            "\n",
+            "700: Also call down a meteor storm that deals [ 1000 / 1500 / 9999 ] (",
+            "AP.png",
+            ") magic damage split between living enemies.700: Also call down a meteor storm that deals [ 1000 / 1500 / 9999 ] (",
+            "AP.png",
+            ") magic damage split between living enemies.",
+            "\n",
+            "1988: Summon a black hole at the epicenter, instantly killing enemies within.1988: Summon a black hole at the epicenter, instantly killing enemies within."
+        ],
+        "skill_name": "The Skies Descend",
+        "skill_image": "TFT16_AurelionSol.png",
+        "starting_mana": 20,
+        "skill_mana": 90,
+        "skill_attack_range": 4,
+        "health": [
+            1100,
+            1980,
+            3564
+        ],
+        "attack_damage": [
+            50,
+            75,
+            113
+        ],
+        "damage_per_second": [
+            40,
+            60,
+            90
+        ],
+        "attack_speed": 0.8,
+        "armor": 40,
+        "magical_resistance": 40,
+        "stats": [
+            "Damage: 450(%i:scaleAP%) [450 / 800 / 5000]",
+            "Shockwave Damage: 50(%i:scaleAP%) [50 / 75 / 1000]",
+            "Meteor Storm Damage: 1000(%i:scaleAP%) [1000 / 1500 / 9999]"
+        ],
+        "traits": [
+            {
+                "id": "star_forger",
+                "name": "Star Forger",
+                "image": "Trait_Icon_16_StarForger.TFT_Set16.png"
+            },
+            {
+                "id": "targon",
+                "name": "Targon",
+                "image": "Trait_Icon_16_Targon.TFT_Set16.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "spear_of_shojin",
+                "image": "TFT_Item_SpearOfShojin.png"
+            },
+            {
+                "id": "guinsoo's_rageblade",
+                "image": "TFT_Item_GuinsoosRageblade.png"
+            },
+            {
+                "id": "blue_buff",
+                "image": "TFT_Item_BlueBuff.png"
+            },
+            {
+                "id": "jeweled_gauntlet",
+                "image": "TFT_Item_JeweledGauntlet.png"
+            },
+            {
+                "id": "adaptive_helm",
+                "image": "TFT_Item_AdaptiveHelm.png"
+            }
+        ],
+        "unlock": {
+            "description": "5 unique Targonians",
+            "type": true
+        }
+    },
+    {
         "stt": 72,
         "id": "seraphine",
         "name": "Seraphine",
         "image": "tft16_seraphine.tft_set16.png",
         "price": "4",
         "average_position": "4.19",
-        "top_4_rate": "57.14",
+        "top_4_rate": "57.17",
         "top_1_rate": "10.87",
-        "battle": "381,056",
+        "battle": "421,175",
         "description_icon": [
             "Gain 3 notes. For each one active, deal [ 25 / 40 / 200 ] (",
             "AP.png",
@@ -5720,14 +6026,97 @@
     },
     {
         "stt": 73,
+        "id": "leblanc",
+        "name": "LeBlanc",
+        "image": "tft16_leblanc.tft_set16.png",
+        "price": "3",
+        "average_position": "4.64",
+        "top_4_rate": "46.73",
+        "top_1_rate": "10.44",
+        "battle": "81,502",
+        "description_icon": [
+            "Summon ? dashing mirror images that strike the target and up to 3 other nearby enemies. The target takes [ 270 / 405 / 630 ] (",
+            "AP.png",
+            ") magic damage and is Stunned for 1 second, while other units hit take [ 150 / 225 / 350 ] (",
+            "AP.png",
+            ") magic damage."
+        ],
+        "skill_name": "Distortions",
+        "skill_image": "TFT16_Leblanc.png",
+        "starting_mana": 0,
+        "skill_mana": 60,
+        "skill_attack_range": 4,
+        "health": [
+            650,
+            1170,
+            2106
+        ],
+        "attack_damage": [
+            35,
+            53,
+            79
+        ],
+        "damage_per_second": [
+            26,
+            39,
+            59
+        ],
+        "attack_speed": 0.75,
+        "armor": 25,
+        "magical_resistance": 25,
+        "stats": [
+            "Damage: 300(%i:scaleAP%) [300 / 450 / 700]",
+            "Secondary Damage: 180(%i:scaleAP%) [180 / 270 / 450]"
+        ],
+        "traits": [
+            {
+                "id": "noxus",
+                "name": "Noxus",
+                "image": "Trait_Icon_16_Noxus.TFT_Set16.png"
+            },
+            {
+                "id": "invoker",
+                "name": "Invoker",
+                "image": "Trait_Icon_16_Invoker.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "jeweled_gauntlet",
+                "image": "TFT_Item_JeweledGauntlet.png"
+            },
+            {
+                "id": "spear_of_shojin",
+                "image": "TFT_Item_SpearOfShojin.png"
+            },
+            {
+                "id": "void_staff",
+                "image": "TFT_Item_StatikkShiv.png"
+            },
+            {
+                "id": "blue_buff",
+                "image": "TFT_Item_BlueBuff.png"
+            },
+            {
+                "id": "nashor's_tooth",
+                "image": "TFT_Item_Leviathan.png"
+            }
+        ],
+        "unlock": {
+            "description": "Sion with 2 items equipped",
+            "type": true
+        }
+    },
+    {
+        "stt": 74,
         "id": "ambessa",
         "name": "Ambessa",
         "image": "tft16_ambessa.tft_set16.png",
         "price": "4",
-        "average_position": "4.43",
-        "top_4_rate": "51.13",
-        "top_1_rate": "10.45",
-        "battle": "193,727",
+        "average_position": "4.44",
+        "top_4_rate": "51.09",
+        "top_1_rate": "10.40",
+        "battle": "214,129",
         "description_icon": [
             "Swipe and dash around target, dealing [ 50 / 75 / 350 ] (",
             "AD.png",
@@ -5805,98 +6194,21 @@
         }
     },
     {
-        "stt": 74,
-        "id": "leblanc",
-        "name": "LeBlanc",
-        "image": "tft16_leblanc.tft_set16.png",
-        "price": "3",
-        "average_position": "4.64",
-        "top_4_rate": "46.79",
-        "top_1_rate": "10.43",
-        "battle": "73,724",
-        "description_icon": [
-            "Sion with 2 items equipped"
-        ],
-        "skill_name": "Distortions",
-        "skill_image": "TFT16_Leblanc.png",
-        "starting_mana": 0,
-        "skill_mana": 60,
-        "skill_attack_range": 4,
-        "health": [
-            650,
-            1170,
-            2106
-        ],
-        "attack_damage": [
-            35,
-            53,
-            79
-        ],
-        "damage_per_second": [
-            26,
-            39,
-            59
-        ],
-        "attack_speed": 0.75,
-        "armor": 25,
-        "magical_resistance": 25,
-        "stats": [
-            "Damage: 300(%i:scaleAP%) [300 / 450 / 700]",
-            "Secondary Damage: 180(%i:scaleAP%) [180 / 270 / 450]"
-        ],
-        "traits": [
-            {
-                "id": "noxus",
-                "name": "Noxus",
-                "image": "Trait_Icon_16_Noxus.TFT_Set16.png"
-            },
-            {
-                "id": "invoker",
-                "name": "Invoker",
-                "image": "Trait_Icon_16_Invoker.png"
-            }
-        ],
-        "items": [
-            {
-                "id": "jeweled_gauntlet",
-                "image": "TFT_Item_JeweledGauntlet.png"
-            },
-            {
-                "id": "spear_of_shojin",
-                "image": "TFT_Item_SpearOfShojin.png"
-            },
-            {
-                "id": "void_staff",
-                "image": "TFT_Item_StatikkShiv.png"
-            },
-            {
-                "id": "blue_buff",
-                "image": "TFT_Item_BlueBuff.png"
-            },
-            {
-                "id": "nashor's_tooth",
-                "image": "TFT_Item_Leviathan.png"
-            }
-        ],
-        "unlock": {
-            "description": "Sion with 2 items equipped",
-            "type": true
-        }
-    },
-    {
         "stt": 75,
         "id": "nasus",
         "name": "Nasus",
         "image": "tft16_nasus.tft_set16.png",
         "price": "4",
         "average_position": "4.7",
-        "top_4_rate": "45.03",
-        "top_1_rate": "10.18",
-        "battle": "42,952",
+        "top_4_rate": "45.1",
+        "top_1_rate": "10.19",
+        "battle": "47,409",
         "description_icon": [
-            "Lose 2 combats in a row with Azir.",
-            "\n",
-            "(Gets harder each time you unlock a Shuriman!)"
+            "Steal [ 485 / 620 / 3000 ] (",
+            "AP.png",
+            ") Health split between the [ 4 / 4 / 8 ] nearest enemies. For 8 seconds, gain 30 Armor and Magic Resist and deal [ 15 / 27 / 643 ] (",
+            "Health.png",
+            ") magic damage to adjacent enemies each second."
         ],
         "skill_name": "Fury of the Sands",
         "skill_image": "TFT16_Nasus.png",
@@ -5968,8 +6280,8 @@
         "price": "3",
         "average_position": "4.64",
         "top_4_rate": "47.66",
-        "top_1_rate": "9.88",
-        "battle": "167,090",
+        "top_1_rate": "9.87",
+        "battle": "185,140",
         "description_icon": [
             "Gain [ 700 / 800 / 1000 ] (",
             "AP.png",
@@ -6045,93 +6357,14 @@
     },
     {
         "stt": 77,
-        "id": "nidalee",
-        "name": "Nidalee",
-        "image": "tft16_nidalee.tft_set16.png",
-        "price": "4",
-        "average_position": "4.48",
-        "top_4_rate": "51.54",
-        "top_1_rate": "9.78",
-        "battle": "105,858",
-        "description_icon": [
-            "Two 2-star Neekos"
-        ],
-        "skill_name": "Relentless Pounce",
-        "skill_image": "TFT16_Nidalee.png",
-        "starting_mana": 0,
-        "skill_mana": 40,
-        "skill_attack_range": 1,
-        "health": [
-            1100,
-            1980,
-            3564
-        ],
-        "attack_damage": [
-            45,
-            68,
-            101
-        ],
-        "damage_per_second": [
-            41,
-            61,
-            91
-        ],
-        "attack_speed": 0.9,
-        "armor": 70,
-        "magical_resistance": 70,
-        "stats": [
-            "Damage: 320(%i:scaleAP%) [320 / 500 / 2000]",
-            "Secondary Damage: 100(%i:scaleAP%) [100 / 150 / 600]"
-        ],
-        "traits": [
-            {
-                "id": "ixtal",
-                "name": "Ixtal",
-                "image": "Trait_Icon_16_Ixtal.TFT_Set16.png"
-            },
-            {
-                "id": "huntress",
-                "name": "Huntress",
-                "image": "Trait_Icon_16_Huntress.TFT_Set16.png"
-            }
-        ],
-        "items": [
-            {
-                "id": "jeweled_gauntlet",
-                "image": "TFT_Item_JeweledGauntlet.png"
-            },
-            {
-                "id": "hand_of_justice",
-                "image": "TFT_Item_UnstableConcoction.png"
-            },
-            {
-                "id": "bloodthirster",
-                "image": "TFT_Item_Bloodthirster.png"
-            },
-            {
-                "id": "rabadon's_deathcap",
-                "image": "TFT_Item_RabadonsDeathcap.png"
-            },
-            {
-                "id": "hextech_gunblade",
-                "image": "TFT_Item_HextechGunblade.png"
-            }
-        ],
-        "unlock": {
-            "description": "Two 2-star Neekos",
-            "type": true
-        }
-    },
-    {
-        "stt": 78,
         "id": "xin_zhao",
         "name": "Xin Zhao",
         "image": "tft16_xinzhao.tft_set16.png",
         "price": "2",
         "average_position": "4.71",
-        "top_4_rate": "46.91",
-        "top_1_rate": "9.77",
-        "battle": "319,588",
+        "top_4_rate": "46.87",
+        "top_1_rate": "9.79",
+        "battle": "353,357",
         "description_icon": [
             "Strike target 3 times. Each strike deals [ 65 / 100 / 150 ] (",
             "AD.png",
@@ -6211,17 +6444,112 @@
         }
     },
     {
+        "stt": 78,
+        "id": "nidalee",
+        "name": "Nidalee",
+        "image": "tft16_nidalee.tft_set16.png",
+        "price": "4",
+        "average_position": "4.48",
+        "top_4_rate": "51.7",
+        "top_1_rate": "9.77",
+        "battle": "118,259",
+        "description_icon": [
+            "Jump on an adjacent enemy with the lowest health, then deal [ 320 / 500 / 2000 ] (",
+            "AP.png",
+            ") magic damage to them and [ 100 / 150 / 600 ] (",
+            "AP.png",
+            ") magic damage to adjacent enemies. If any die, cast again, dealing 70% damage.",
+            "\n",
+            "\n",
+            "Tanks take 60% more damage from this ability and Fighters take 30% more."
+        ],
+        "skill_name": "Relentless Pounce",
+        "skill_image": "TFT16_Nidalee.png",
+        "starting_mana": 0,
+        "skill_mana": 40,
+        "skill_attack_range": 1,
+        "health": [
+            1100,
+            1980,
+            3564
+        ],
+        "attack_damage": [
+            45,
+            68,
+            101
+        ],
+        "damage_per_second": [
+            41,
+            61,
+            91
+        ],
+        "attack_speed": 0.9,
+        "armor": 70,
+        "magical_resistance": 70,
+        "stats": [
+            "Damage: 320(%i:scaleAP%) [320 / 500 / 2000]",
+            "Secondary Damage: 100(%i:scaleAP%) [100 / 150 / 600]"
+        ],
+        "traits": [
+            {
+                "id": "ixtal",
+                "name": "Ixtal",
+                "image": "Trait_Icon_16_Ixtal.TFT_Set16.png"
+            },
+            {
+                "id": "huntress",
+                "name": "Huntress",
+                "image": "Trait_Icon_16_Huntress.TFT_Set16.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "jeweled_gauntlet",
+                "image": "TFT_Item_JeweledGauntlet.png"
+            },
+            {
+                "id": "hand_of_justice",
+                "image": "TFT_Item_UnstableConcoction.png"
+            },
+            {
+                "id": "bloodthirster",
+                "image": "TFT_Item_Bloodthirster.png"
+            },
+            {
+                "id": "rabadon's_deathcap",
+                "image": "TFT_Item_RabadonsDeathcap.png"
+            },
+            {
+                "id": "hextech_gunblade",
+                "image": "TFT_Item_HextechGunblade.png"
+            }
+        ],
+        "unlock": {
+            "description": "Two 2-star Neekos",
+            "type": true
+        }
+    },
+    {
         "stt": 79,
         "id": "diana",
         "name": "Diana",
         "image": "tft16_diana.tft_set16.png",
         "price": "4",
         "average_position": "5.07",
-        "top_4_rate": "37.18",
-        "top_1_rate": "9.76",
-        "battle": "49,819",
+        "top_4_rate": "37.13",
+        "top_1_rate": "9.73",
+        "battle": "54,996",
         "description_icon": [
-            "2-star Leona with 3 items equipped + 6 Level"
+            "Passive: Ability damage from your strongest Leona and strongest Diana marks enemies as Moonlit, reducing their damage by 10%.",
+            "\n",
+            "\n",
+            "Active: Gain [ 200 / 250 / 300 ] (",
+            "AP.png",
+            ") Shield for 2 seconds. Unleash a bolt of lunar energy at the farthest non-Moonlit enemy within 4 hexes, dealing [ 165 / 250 / 500 ] (",
+            "AP.png",
+            ") magic damage. Then, dash to all Moonlit enemies, dealing [ 150 / 225 / 1350 ] (",
+            "AP.png",
+            ") magic damage to them."
         ],
         "skill_name": "Lunar Rush",
         "skill_image": "TFT16_Diana.png",
@@ -6291,10 +6619,10 @@
         "name": "Aphelios",
         "image": "tft16_aphelios.tft_set16.png",
         "price": "2",
-        "average_position": "4.72",
-        "top_4_rate": "45.96",
-        "top_1_rate": "9.60",
-        "battle": "97,878",
+        "average_position": "4.73",
+        "top_4_rate": "45.95",
+        "top_1_rate": "9.59",
+        "battle": "108,170",
         "description_icon": [
             "Start with Infernum equipped. On cast, switch to Severum for 8 (",
             "AP.png",
@@ -6377,10 +6705,10 @@
         "name": "Sion",
         "image": "tft16_sion.tft_set16.png",
         "price": "2",
-        "average_position": "4.63",
-        "top_4_rate": "47.85",
-        "top_1_rate": "9.57",
-        "battle": "213,765",
+        "average_position": "4.64",
+        "top_4_rate": "47.79",
+        "top_1_rate": "9.54",
+        "battle": "236,391",
         "description_icon": [
             "Passive: Takedowns grant [ 18 / 20 / 50 ] permanent max Health. (Total: 0)",
             "\n",
@@ -6466,9 +6794,9 @@
         "image": "tft16_draven.tft_set16.png",
         "price": "3",
         "average_position": "4.73",
-        "top_4_rate": "45.18",
-        "top_1_rate": "9.36",
-        "battle": "138,902",
+        "top_4_rate": "45.14",
+        "top_1_rate": "9.31",
+        "battle": "153,146",
         "description_icon": [
             "Passive: If Draven has an empowered axe in hand, his next attack will throw it. On takedown, gain an Adoration stack, doubled if Draven or Darius scored the kill. Every 11 Adoration stacks grants [ 1 / 3 / 5 ] Gold. (Adoration Left: 9, Gold Generated: 0g)",
             "\n",
@@ -6553,10 +6881,10 @@
         "name": "Sejuani",
         "image": "tft16_sejuani.tft_set16.png",
         "price": "3",
-        "average_position": "4.87",
-        "top_4_rate": "43.01",
-        "top_1_rate": "9.22",
-        "battle": "141,802",
+        "average_position": "4.88",
+        "top_4_rate": "43",
+        "top_1_rate": "9.21",
+        "battle": "156,322",
         "description_icon": [
             "Gain [ 475 / 525 / 625 ] (",
             "AP.png",
@@ -6640,9 +6968,9 @@
         "image": "tft16_neeko.tft_set16.png",
         "price": "2",
         "average_position": "4.72",
-        "top_4_rate": "47.21",
-        "top_1_rate": "9.14",
-        "battle": "350,720",
+        "top_4_rate": "47.24",
+        "top_1_rate": "9.12",
+        "battle": "388,314",
         "description_icon": [
             "Leap at target and gain [ 400 / 475 / 600 ] (",
             "AP.png",
@@ -6731,9 +7059,9 @@
         "image": "tft16_vayne.tft_set16.png",
         "price": "3",
         "average_position": "4.6",
-        "top_4_rate": "49.48",
-        "top_1_rate": "9.08",
-        "battle": "172,670",
+        "top_4_rate": "49.43",
+        "top_1_rate": "9.06",
+        "battle": "190,689",
         "description_icon": [
             "Tumble to a nearby hex, then fire a bolt at target that deals [ 106 / 160 / 245 ] (",
             "AD.png",
@@ -6813,9 +7141,9 @@
         "image": "tft16_briar.tft_set16.png",
         "price": "1",
         "average_position": "4.74",
-        "top_4_rate": "45.73",
-        "top_1_rate": "9.06",
-        "battle": "145,595",
+        "top_4_rate": "45.68",
+        "top_1_rate": "9.05",
+        "battle": "160,723",
         "description_icon": [
             "Leap to the furthest enemy within 2 hexes. For 4 seconds gain increased Move Speed, 25% Attack Damage, and 300% (",
             "AP.png",
@@ -6898,9 +7226,9 @@
         "image": "tft16_ashe.tft_set16.png",
         "price": "2",
         "average_position": "4.76",
-        "top_4_rate": "45.16",
-        "top_1_rate": "8.97",
-        "battle": "79,876",
+        "top_4_rate": "45.21",
+        "top_1_rate": "8.96",
+        "battle": "88,026",
         "description_icon": [
             "Fire an arrow at target that deals [ 140 / 210 / 325 ] (",
             "AD.png",
@@ -6993,11 +7321,14 @@
         "image": "tft16_bard.tft_set16.png",
         "price": "2",
         "average_position": "4.91",
-        "top_4_rate": "43.93",
-        "top_1_rate": "8.95",
-        "battle": "93,972",
+        "top_4_rate": "43.99",
+        "top_1_rate": "8.94",
+        "battle": "103,532",
         "description_icon": [
-            "Reroll 4 times before Stage 2 Carousel"
+            "Launch 6 Meeps at nearby enemies that deal [ 115 / 155 / 220 ] (",
+            "AP.png",
+            ") magic damage. Add an additional Meep for each 3-star unit on your board. (Total Meeps: 0)",
+            "\n"
         ],
         "skill_name": "Traveler's Call",
         "skill_image": "TFT16_Bard.png",
@@ -7066,11 +7397,20 @@
         "image": "tft16_singed.tft_set16.png",
         "price": "4",
         "average_position": "4.24",
-        "top_4_rate": "56.49",
-        "top_1_rate": "8.86",
-        "battle": "314,161",
+        "top_4_rate": "56.48",
+        "top_1_rate": "8.84",
+        "battle": "347,256",
         "description_icon": [
-            "4 unique  Zaunites or  Juggernauts + Lose 35 Player Health"
+            "Passive: Run around the battlefield, leaving a poison trail that lingers for 4 seconds. Poison trails deal [ 8 / 18 / 160 ] (",
+            "AP.png",
+            ") magic damage per second to enemies within. Gain 10 (",
+            "AS.png",
+            ") Mana each second.",
+            "\n",
+            "\n",
+            "Active: For 4 seconds, gain increased Move Speed, restore [ 12 / 65 / 500 ] (",
+            "AP.png",
+            ") Health each second, and gain 20 Armor and Magic Resistance."
         ],
         "skill_name": "Poison Trail",
         "skill_image": "TFT16_Singed.png",
@@ -7147,8 +7487,8 @@
         "price": "2",
         "average_position": "4.23",
         "top_4_rate": "57.05",
-        "top_1_rate": "8.80",
-        "battle": "260,413",
+        "top_1_rate": "8.78",
+        "battle": "288,238",
         "description_icon": [
             "Create a 1 hex zone around the target that lasts 3 seconds. The next 3 attacks deal [ 150 / 225 / 340 ] (",
             "AP.png",
@@ -7232,9 +7572,9 @@
         "image": "tft16_blitzcrank.tft_set16.png",
         "price": "1",
         "average_position": "4.31",
-        "top_4_rate": "55.41",
-        "top_1_rate": "8.57",
-        "battle": "215,394",
+        "top_4_rate": "55.39",
+        "top_1_rate": "8.56",
+        "battle": "237,675",
         "description_icon": [
             "Gain [ 400 / 480 / 600 ] (",
             "AP.png",
@@ -7315,11 +7655,15 @@
         "image": "tft16_warwick.tft_set16.png",
         "price": "4",
         "average_position": "4.05",
-        "top_4_rate": "60.82",
-        "top_1_rate": "8.10",
-        "battle": "105,055",
+        "top_4_rate": "60.83",
+        "top_1_rate": "8.09",
+        "battle": "115,321",
         "description_icon": [
-            "1-star Jinx + 2-star Vi + 7 Level"
+            "Gain [ 100 / 100 / 400 ]% Attack Speed, 15% Omnivamp, increased Move Speed, and deal [ 45 / 70 / 550 ] (",
+            "AD.png",
+            ") bonus physical damage on attack for the rest of combat. While this effect is active, takedowns grant Warwick, Jinx, and Vi [ 20 / 20 / 50 ]% (",
+            "AP.png",
+            ") Attack Speed for 3 seconds."
         ],
         "skill_name": "Eternal Hunger",
         "skill_image": "TFT16_Warwick.png",
@@ -7395,9 +7739,9 @@
         "image": "tft16_zoe.tft_set16.png",
         "price": "3",
         "average_position": "5.41",
-        "top_4_rate": "31.41",
-        "top_1_rate": "7.91",
-        "battle": "48,723",
+        "top_4_rate": "31.43",
+        "top_1_rate": "7.90",
+        "battle": "53,967",
         "description_icon": [
             "Passive: Damaging an enemy applies 30% Shred for 6 seconds.",
             "\n",
@@ -7479,8 +7823,8 @@
         "price": "3",
         "average_position": "5.69",
         "top_4_rate": "28.93",
-        "top_1_rate": "7.79",
-        "battle": "91,682",
+        "top_1_rate": "7.76",
+        "battle": "101,182",
         "description_icon": [
             "Launch a fuemigo at target that bounces 3 times, dealing [ 190 / 285 / 445 ] (",
             "AP.png",
@@ -7561,9 +7905,9 @@
         "image": "tft16_leona.tft_set16.png",
         "price": "3",
         "average_position": "5.53",
-        "top_4_rate": "29.43",
+        "top_4_rate": "29.42",
         "top_1_rate": "7.16",
-        "battle": "63,018",
+        "battle": "69,663",
         "description_icon": [
             "Passive: Reduce instances of incoming damage by [ 15 / 30 / 60 ] (",
             "AP.png",
@@ -7647,11 +7991,24 @@
         "image": "tft16_thex.tft_set16.png",
         "price": "5",
         "average_position": "5.02",
-        "top_4_rate": "39.13",
-        "top_1_rate": "7.11",
-        "battle": "21,294",
+        "top_4_rate": "39.14",
+        "top_1_rate": "7.14",
+        "battle": "23,405",
         "description_icon": [
-            "9 unique star levels of  Piltover"
+            "Passive: Attacks fire a barrage of 4 bullets.",
+            "\n",
+            "\n",
+            "Active: Gain [ 580 / 904 / 68373 ] (",
+            "Health.png",
+            ") Shield and begin consuming 33 mana per second. Each second while casting, fire a laser that deals [ 145 / 255 / 2150 ] (",
+            "AD.png",
+            "AP.png",
+            ") physical damage, reduced by 18% per enemy hit up to 55%. Additionally, launch 4 (",
+            "AS.png",
+            ") missiles split between 4 nearby enemies that each deal [ 44 / 77 / 645 ] (",
+            "AD.png",
+            "AP.png",
+            ") physical damage."
         ],
         "skill_name": "Hextech Arsenal",
         "skill_image": "TFT16_THex.png",
@@ -7734,11 +8091,20 @@
         "image": "tft16_orianna.tft_set16.png",
         "price": "2",
         "average_position": "5.37",
-        "top_4_rate": "33.18",
-        "top_1_rate": "6.82",
-        "battle": "27,245",
+        "top_4_rate": "33.11",
+        "top_1_rate": "6.81",
+        "battle": "29,923",
         "description_icon": [
-            "3 unique  Piltover units"
+            "Send the Ball to target, dealing [ 220 / 330 / 500 ] (",
+            "AP.png",
+            ") magic damage and splitting [ 120 / 180 / 300 ] (",
+            "AP.png",
+            ") magic damage among enemies within a 1 hex circle.",
+            "\n",
+            "\n",
+            "Then grant [ 80 / 120 / 200 ] (",
+            "AP.png",
+            ") Shield to the two lowest Health allies for 3 seconds."
         ],
         "skill_name": "Command: Protect",
         "skill_image": "TFT16_Orianna.png",
@@ -7814,9 +8180,9 @@
         "image": "tft16_anivia.tft_set16.png",
         "price": "1",
         "average_position": "5.13",
-        "top_4_rate": "38.75",
+        "top_4_rate": "38.64",
         "top_1_rate": "6.65",
-        "battle": "62,033",
+        "battle": "68,411",
         "description_icon": [
             "Fire an ice shard at target that deals [ 325 / 455 / 650 ] (",
             "AP.png",
@@ -7899,11 +8265,21 @@
         "image": "tft16_tryndamere.tft_set16.png",
         "price": "2",
         "average_position": "4.72",
-        "top_4_rate": "46.64",
-        "top_1_rate": "6.61",
-        "battle": "19,905",
+        "top_4_rate": "46.65",
+        "top_1_rate": "6.59",
+        "battle": "21,879",
         "description_icon": [
-            "Ashe with 2 items equipped"
+            "Become enraged for 5 seconds. While enraged, gain 25% (",
+            "AP.png",
+            ") Durability and attacks are replaced with a strike that deals [ 120 / 180 / 270 ] (",
+            "AD.png",
+            ") physical damage. Ignore 30% of Armor against Chilled enemies.",
+            "\n",
+            "\n",
+            "Bloodsworn Bond: When you field Ashe and Tryndamere, your strongest copies permanently increase their power on kill.Bloodsworn Bond: Gain increased Move Speed. Gain 10% Attack Damage, permanently increased by 1% whenever Ashe or Tryndamere score a kill. (Current Bonus: ?%)",
+            "\n",
+            "\n",
+            "Chill: Reduce Attack Speed"
         ],
         "skill_name": "Undying Rage",
         "skill_image": "TFT16_Tryndamere.png",
@@ -7957,9 +8333,9 @@
         "image": "tft16_jinx.tft_set16.png",
         "price": "3",
         "average_position": "4.57",
-        "top_4_rate": "50.22",
-        "top_1_rate": "6.17",
-        "battle": "96,624",
+        "top_4_rate": "50.18",
+        "top_1_rate": "6.16",
+        "battle": "105,989",
         "description_icon": [
             "Passive: After attacking [ 18 / 18 / 16 ] times, switch to Fishbones. While equipped, attacks are replaced with 3 rockets that target random enemies and deal [ 46 / 69 / 119 ] (",
             "AD.png",
@@ -8039,9 +8415,9 @@
         "image": "tft16_qiyana.tft_set16.png",
         "price": "1",
         "average_position": "6.4",
-        "top_4_rate": "17.11",
-        "top_1_rate": "3.91",
-        "battle": "50,448",
+        "top_4_rate": "17.17",
+        "top_1_rate": "3.90",
+        "battle": "55,623",
         "description_icon": [
             "Dash to a nearby hex and swing forward, dealing [ 180 / 270 / 405 ] (",
             "AD.png",
