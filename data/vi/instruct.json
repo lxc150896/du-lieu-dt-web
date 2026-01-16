@@ -1,0 +1,779 @@
+{
+  "vong_ky_ngo": [
+    {
+      "title": "Lõi Công Nghệ",
+      "items": [
+        {
+          "name": "Khúc Dạo Tối Thượng",
+          "description": "Nâng cấp đầu tiên nhận được trong trận này sẽ ở bậc kim cương."
+        },
+        {
+          "name": "Gala Hoàng Kim",
+          "description": "Tất cả nâng cấp nhận được trong trận này sẽ ở bậc vàng."
+        },
+        {
+          "name": "Tổ Đội Lăng Kính",
+          "description": "Tất cả các nâng cấp nhận được trong trận này sẽ ở bậc kim cương."
+        },
+        {
+          "name": "Kết Thúc Tối Thượng",
+          "description": "Nâng cấp cuối cùng nhận được trong trận này sẽ ở bậc kim cương."
+        },
+        {
+          "name": "Khúc Dạo Hoàng Kim",
+          "description": "Nâng cấp đầu tiên nhận được trong trận này sẽ ở bậc vàng."
+        },
+        {
+          "name": "Kết Thúc Hoàng Kim",
+          "description": "Nâng cấp cuối cùng nhận được trong trận này sẽ ở bậc vàng."
+        },
+        {
+          "name": "Nâng Cấp Thăng Hoa",
+          "description": "Nâng cấp trong trận này sẽ ở bậc bạc, vàng, sau đó tới kim cương."
+        },
+        {
+          "name": "7Ổ ĐỘ1 BẠC",
+          "description": "Tất cả các nâng cấp trong trận này sẽ ở bậc bạc."
+        }
+      ]
+    },
+    {
+      "title": "Tướng",
+      "items": [
+        {
+          "name": "Khởi Đầu Với Tướng 3 Vàng",
+          "description": "Khởi đầu với 1 tướng 3 vàng ngẫu nhiên."
+        },
+        {
+          "name": "Tướng Nâng Cấp",
+          "description": "Khởi đầu với 1 tướng 2 sao 1 vàng ngẫu nhiên."
+        },
+        {
+          "name": "Khởi Đầu Với Tướng 2 Vàng",
+          "description": "Khởi đầu với 1 tướng 2 vàng ngẫu nhiên."
+        },
+        {
+          "name": "Máy Nhân Bản",
+          "description": "Bắt đầu trận đấu với 1 Máy Nhân Bản."
+        },
+        {
+          "name": "3 Tướng",
+          "description": "Khởi đầu với 3 tướng 1 vàng ngẫu nhiên."
+        },
+        {
+          "name": "Phân Phối Tướng",
+          "description": "2 lần mỗi giai đoạn, nhận 1 tướng đắt tiền miễn phí. Càng về cuối trận, giá trị càng cao hơn."
+        },
+        {
+          "name": "Hội Nghị Họp Tướng",
+          "description": "Mỗi giai đoạn, nhận 1 tướng phù hợp với đội hình của bạn."
+        }
+      ]
+    },
+    {
+      "title": "Trang bị",
+      "items": [
+        {
+          "name": "Gói Trang Bị Tạo Tác",
+          "description": "Khởi đầu với 1 Gói Trang Bị Tạo Tác (chọn 1 trang bị mạnh)."
+        },
+        {
+          "name": "Gói Trang Bị Thành Phần",
+          "description": "Khởi đầu với 2 gói trang bị thành phần."
+        },
+        {
+          "name": "Gói Trang Bị Hoàn Chỉnh",
+          "description": "Khởi đầu với 1 gói trang bị hoàn chỉnh."
+        },
+        {
+          "name": "Trang Bị Ánh Sáng",
+          "description": "Chọn 1 trong 5 Trang Bị Ánh Sáng ở giai đoạn cuối trận (phiên bản mạnh mẽ hơn của những trang bị hoàn chỉnh)."
+        },
+        {
+          "name": "Gói Trang Bị Hỗ Trợ",
+          "description": "Khởi đầu với 1 gói trang bị Hỗ Trợ."
+        },
+        {
+          "name": "Vương Miện Chiến Thuật",
+          "description": "Khởi đầu với 1 Vương Miện Chiến Thuật (tăng +1 số tướng tối đa)."
+        },
+        {
+          "name": "Đại Tiệc Gói Trang Bị",
+          "description": "Tất cả trang bị sẽ rớt dưới dạng gói trang bị thành phần."
+        },
+        {
+          "name": "Nổi Lửa Lên Nào",
+          "description": "Khởi đầu với 1 Xẻng Vàng và 1 Chảo Vàng. Búa rèn sẽ không rơi."
+        }
+      ]
+    },
+    {
+      "title": "Vàng",
+      "items": [
+        {
+          "name": "Gói Đăng Ký Vàng",
+          "description": "Mỗi giai đoạn, nhận lượng vàng ngẫu nhiên. Tất cả người chơi nhận lượng vàng bằng nhau."
+        },
+        {
+          "name": "Hũ Vàng",
+          "description": "Tại vòng 6-1, tất cả người chơi còn trong trận sẽ chia nhau hũ chứa 250 vàng."
+        },
+        {
+          "name": "Thưởng Trang Bị",
+          "description": "Nhận vàng khi bạn ghép trang bị."
+        },
+        {
+          "name": "Vàng Khởi Đầu",
+          "description": "Khởi đầu với 7 vàng cộng thêm."
+        }
+      ]
+    },
+    {
+      "title": "Độc nhất",
+      "items": [
+        {
+          "name": "Đầm Cua",
+          "description": "Quái vật sẽ được thay thế bằng Cua Kỳ Cục, cho thêm phần thưởng khi bị tiêu diệt!"
+        },
+        {
+          "name": "Người Đá Tập Huấn",
+          "description": "Bắt đầu với 1 Người Đá có gắn vĩnh viễn 3 ấn."
+        },
+        {
+          "name": "Đăng Ký Báu Vật",
+          "description": "Mỗi giai đoạn, nhận 1 báu vật ngẫu nhiên từ bể trang bị đa dạng."
+        },
+        {
+          "name": "Cua Khiêu Vũ",
+          "description": "Quái vật sẽ được thay thế bằng Cua Kỳ Cục, cho thêm phần thưởng khi bị tiêu diệt! Cua khổng lồ CỰC KỲ NGUY HIỂM."
+        },
+        {
+          "name": "Hoán Đổi Vòng Nâng Cấp",
+          "description": "Nâng Cấp sẽ được trao sớm hơn trong trận này."
+        },
+        {
+          "name": "Thức Tỉnh Sớm",
+          "description": "Trái Thức Tỉnh thứ hai sẽ xuất hiện vào vòng 2-6 thay vì 3-6."
+        },
+        {
+          "name": "Bóng Chuyền Bãi Biển",
+          "description": "Bóng Chuyền Bãi Biển! Nhận 1 trái bóng bãi biển mà Linh Thú có thể tung hứng!"
+        },
+        {
+          "name": "Hội Chiến Thắng",
+          "description": "Sau Top 4, những người chơi còn sống sót nhận 10 vàng và 2 Gói Trang Bị Thành Phần."
+        },
+        {
+          "name": "Vương Giả Ồn Ào",
+          "description": "Vòng đi chợ đã có thêm đối thủ cạnh tranh!"
+        },
+        {
+          "name": "Chung Kết Tổng",
+          "description": "Đây là Chung Kết Tổng! Anh hùng à, hãy tự mình tiến lên nhé."
+        },
+        {
+          "name": "Bộ Sưu Tập Ấn",
+          "description": "Bắt đầu với 3 ấn ngẫu nhiên."
+        },
+        {
+          "name": "Cao Thủ Đối Đầu",
+          "description": "2 người chơi sống sót cuối cùng nhận 70 vàng để có một trận quyết chiến sinh tử."
+        },
+        {
+          "name": "Biệt Đội Trinh Sát",
+          "description": "Nhận +1 lượt đổi lại Nâng Cấp trong trận này."
+        },
+        {
+          "name": "Vực Gió Hú",
+          "description": "Khởi đầu trận đấu với 5 tướng 1 vàng ngẫu nhiên."
+        },
+        {
+          "name": "Sân Đấu Chiến Binh",
+          "description": "Mỗi khi một người chơi bị loại, những người chơi còn sống nhận 3 vàng với mỗi người chơi bị loại."
+        },
+        {
+          "name": "Hành Trình Vũ Trụ",
+          "description": "Nhận các lượt đổi miễn phí khi khởi đầu mỗi giai đoạn."
+        },
+        {
+          "name": "Món Quà Từ Gwen",
+          "description": "Sau 3 vòng đi chợ đầu tiên, Gwen sẽ tặng cho người chơi 1 trang bị thành phần và 1 chiếc kéo có thể cắt tách trang bị."
+        },
+        {
+          "name": "Xẻng Vàng",
+          "description": "Khởi đầu với 1 Xẻng Vàng."
+        },
+        {
+          "name": "Phước Lành Của Mel",
+          "description": "Mel sẽ cho bạn một báu vật mạnh mẽ khi còn 40 máu người chơi."
+        },
+        {
+          "name": "Vòng Đi Chợ Đủ Đầy",
+          "description": "Các tướng ở vòng đi chợ có thêm 1 trang bị thành phần."
+        },
+        {
+          "name": "Người Đá Báu Vật",
+          "description": "Khởi đầu với 1 Người Đá được trang bị vĩnh viễn 1 Rương Báu Bất Ổn. Về cuối trận, Người Đá sẽ được trang bị Rương Báu Bất Ổn thứ hai."
+        },
+        {
+          "name": "Kho Báu Vật",
+          "description": "Tại giai đoạn 4-7, chọn 1 gói gồm 5 món báu vật mạnh mẽ."
+        },
+        {
+          "name": "Chảo Vàng",
+          "description": "Khởi đầu với 1 Chảo Vàng."
+        },
+        {
+          "name": "Siêu Báu Thần Long",
+          "description": "Siêu Báu Thần Long"
+        },
+        {
+          "name": "Sứ Giả Thần Long",
+          "description": "Sứ Giả Thần Long"
+        },
+        {
+          "name": "HACK: Kho Báu Vật",
+          "description": "Vòng NPC ở giai đoạn 4 được thay thế bằng một Kho Báu Vật có thể đổi lại!"
+        },
+        {
+          "name": "Gói Long Tộc",
+          "description": "Gói Long Tộc"
+        }
+      ]
+    },
+    {
+      "title": "Mặc định",
+      "items": [
+        {
+          "name": "Không có vòng kỳ ngộ.",
+          "description": "Không có vòng kỳ ngộ trong trận này."
+        }
+      ]
+    },
+    {
+      "title": "Choncc",
+      "items": [
+        {
+          "name": "Buổi Huấn Luyện Của Choncc",
+          "description": "Choncc sẽ cho Trái Thức Tỉnh mỗi lần cậu ghé qua!"
+        }
+      ]
+    }
+  ],
+  "roll": [
+    ["Tối đa 30 tướng", "Tối đa 25 tướng", "Tối đa 18 tướng", "Tối đa 10 tướng", "Tối đa 9 tướng"],
+    ["100%", "0", "0", "0", "0"],
+    ["100%", "0", "0", "0", "0"],
+    ["75%", "25%", "0", "0", "0"],
+    ["50%", "30%", "15%", "0", "0"],
+    ["45%", "30%", "20%", "2%", "0"],
+    ["30%", "40%", "25%", "5%", "0"],
+    ["19%", "30%", "40%","10%","1%"],
+    ["17%", "24%", "32%", "24%", "3%"],
+    ["15%",	"18%", "25%", "30%", "12%"],
+    ["5%", "10%", "20%", "40%", "25%"],
+    ["1%", "2%", "12%", "50%", "35%"]
+  ],
+  "vang_kinh_nghiem": {
+    "thuong_vong": [
+      {
+        "col_one": "Vòng",
+        "col_tow": "Thưởng"
+      },
+      {
+        "icon": "round",
+        "name": "Vòng 1-2",
+        "value": "+2 Vàng"
+      },
+      {
+        "icon": "round",
+        "name": "Vòng 1-3",
+        "value": "+2 Vàng"
+      },
+      {
+        "icon": "round",
+        "name": "Vòng 1-4",
+        "value": "+3 Vàng"
+      },
+      {
+        "icon": "round",
+        "name": "Vòng 2-1",
+        "value": "+4 Vàng"
+      },
+      {
+        "icon": "round",
+        "name": "Vòng 2-2+",
+        "value": "+5 Vàng"
+      }
+    ],
+    "thuong_vong_pvp": [
+      {
+        "col_one": "Thắng/Thua",
+        "col_tow": "Thưởng"
+      },
+      {
+        "icon": "imperial",
+        "name": "Win Vòng",
+        "value": "+1 Vàng"
+      },
+      {
+        "icon": "death",
+        "name": "Lose Vòng",
+        "value": "0 Vàng"
+      }
+    ],
+    "win": [
+      {
+        "col_one": "Chuỗi Thắng",
+        "col_tow": "Thưởng"
+      },
+      {
+        "icon": "fire",
+        "name": "6 Win",
+        "value": "+3 Vàng"
+      },
+      {
+        "icon": "fire",
+        "name": "5 Win",
+        "value": "+2 Vàng"
+      },
+      {
+        "icon": "fire",
+        "name": "4 Win",
+        "value": "+1 Vàng"
+      },
+      {
+        "icon": "fire",
+        "name": "3 Win",
+        "value": "+1 Vàng"
+      },
+      {
+        "icon": "fire",
+        "name": "2 Win",
+        "value": "+1 Vàng"
+      }
+    ],
+    "lose": [
+      {
+        "col_one": "Chuỗi Thua",
+        "col_tow": "Thưởng"
+      },
+      {
+        "icon": "death",
+        "name": "2 Lose",
+        "value": "+1 Vàng"
+      },
+      {
+        "icon": "death",
+        "name": "3 Lose",
+        "value": "+1 Vàng"
+      },
+      {
+        "icon": "death",
+        "name": "4 Lose",
+        "value": "+1 Vàng"
+      },
+      {
+        "icon": "death",
+        "name": "5 Lose",
+        "value": "+2 Vàng"
+      },
+      {
+        "icon": "death",
+        "name": "6 Lose",
+        "value": "+3 Vàng"
+      }
+    ],
+    "loi_tuc": [
+      {
+        "col_one": "Vàng",
+        "col_tow": "Thưởng"
+      },
+      {
+        "icon": "gold",
+        "name": "0 Vàng",
+        "value": "0 Vàng"
+      },
+      {
+        "icon": "gold",
+        "name": "+1 Vàng",
+        "value": "+1 Vàng"
+      },
+      {
+        "icon": "gold",
+        "name": "+2 Vàng",
+        "value": "+2 Vàng"
+      },
+      {
+        "icon": "gold",
+        "name": "+3 Vàng",
+        "value": "+3 Vàng"
+      },
+      {
+        "icon": "gold",
+        "name": "+4 Vàng",
+        "value": "+4 Vàng"
+      },
+      {
+        "icon": "gold",
+        "name": "+5 Vàng",
+        "value": "+5 Vàng"
+      }
+    ],
+    "bang_xp": [
+      {
+        "col_one": "Cấp",
+        "col_tow": "Số XP cần"
+      },
+      {
+        "icon": "level",
+        "name": "Cấp 1",
+        "value": "0 XP"
+      },
+      {
+        "icon": "level",
+        "name": "Cấp 2",
+        "value": "0 XP"
+      },
+      {
+        "icon": "level",
+        "name": "Cấp 3",
+        "value": "2 XP"
+      },
+      {
+        "icon": "level",
+        "name": "Cấp 4",
+        "value": "6 XP"
+      },
+      {
+        "icon": "level",
+        "name": "Cấp 5",
+        "value": "10 XP"
+      },
+      {
+        "icon": "level",
+        "name": "Cấp 6",
+        "value": "20 XP"
+      },
+      {
+        "icon": "level",
+        "name": "Cấp 7",
+        "value": "36 XP"
+      },
+      {
+        "icon": "level",
+        "name": "Cấp 8",
+        "value": "48 XP"
+      },
+      {
+        "icon": "level",
+        "name": "Cấp 9",
+        "value": "76 XP"
+      },
+      {
+        "icon": "level",
+        "name": "Cấp 10",
+        "value": "84 XP"
+      }
+    ]
+  },
+  "cong_thuc_sat_thuong": {
+    "sat_thuong_vong": [
+      {
+        "col_one": "Tổng số tướng",
+        "col_tow": "Sát thương"
+      },
+      {
+        "icon": "champion",
+        "name": "1 Tướng",
+        "value": "1 Sát thương"
+      },
+      {
+        "icon": "champion",
+        "name": "2 Tướng",
+        "value": "2 Sát thương"
+      },
+      {
+        "icon": "champion",
+        "name": "3 Tướng",
+        "value": "3 Sát thương"
+      },
+      {
+        "icon": "champion",
+        "name": "4 Tướng",
+        "value": "4 Sát thương"
+      },
+      {
+        "icon": "champion",
+        "name": "5 Tướng",
+        "value": "5 Sát thương"
+      },
+      {
+        "icon": "champion",
+        "name": "6 Tướng",
+        "value": "6 Sát thương"
+      },
+      {
+        "icon": "champion",
+        "name": "7 Tướng",
+        "value": "7 Sát thương"
+      },
+      {
+        "icon": "champion",
+        "name": "8 Tướng",
+        "value": "8 Sát thương"
+      },
+      {
+        "icon": "champion",
+        "name": "9 Tướng",
+        "value": "9 Sát thương"
+      },
+      {
+        "icon": "champion",
+        "name": "10 Tướng",
+        "value": "10 Sát thương"
+      }
+    ],
+    "sat_thuong_tuong": [
+      {
+        "col_one": "Vòng đấu",
+        "col_tow": "Sát thương"
+      },
+      {
+        "icon": "round",
+        "name": "Vòng 1",
+        "value": "+0 Sát thương"
+      },
+      {
+        "icon": "round",
+        "name": "Vòng 2",
+        "value": "+2 Sát thương"
+      },
+      {
+        "icon": "round",
+        "name": "Vòng 3",
+        "value": "+5 Sát thương"
+      },
+      {
+        "icon": "round",
+        "name": "Vòng 4",
+        "value": "+8 Sát thương"
+      },
+      {
+        "icon": "round",
+        "name": "Vòng 5",
+        "value": "+10 Sát thương"
+      },
+      {
+        "icon": "round",
+        "name": "Vòng 6",
+        "value": "+12 Sát thương"
+      },
+      {
+        "icon": "round",
+        "name": "Vòng 7+",
+        "value": "+17 Sát thương"
+      }
+    ]
+  },
+  "vong": [
+    [
+      {
+        "image": "round-select-portal.webp",
+        "title": "Chọn cổng dịch chuyển"
+      },
+      {
+        "image": "round-minions.webp",
+        "title": "Lính"
+      },
+      {
+        "image": "round-minions.webp",
+        "title": "Lính"
+      },
+      {
+        "image": "round-minions.webp",
+        "title": "Lính"
+      }
+    ],
+    [
+      {
+        "image": "round-box.webp",
+        "title": "Người chơi"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Người chơi"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Người chơi"
+      },
+      {
+        "image": "round-select-item.webp",
+        "title": "Chọn trang bị"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Người chơi"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Người chơi"
+      },
+      {
+        "image": "round-krugs.webp",
+        "title": "Quái đá"
+      }
+    ],
+    [
+      {
+        "image": "round-weapon.webp",
+        "title": "Người chơi"
+      },
+      {
+        "image": "round-box.webp",
+        "title": "Người chơi"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Người chơi"
+      },
+      {
+        "image": "round-select-item.webp",
+        "title": "Chọn trang bị"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Người chơi"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Người chơi"
+      },
+      {
+        "image": "round-murk-wolves.webp",
+        "title": "Sói Hắc Ám"
+      }
+    ],
+    [
+      {
+        "image": "round-weapon.webp",
+        "title": "Người chơi"
+      },
+      {
+        "image": "round-box.webp",
+        "title": "Người chơi"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Người chơi"
+      },
+      {
+        "image": "round-select-item.webp",
+        "title": "Chọn trang bị"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Người chơi"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Người chơi"
+      },
+      {
+        "image": "round-raptor.webp",
+        "title": "Chim Biến Dị"
+      }
+    ],
+    [
+      {
+        "image": "round-weapon.webp",
+        "title": "Người chơi"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Người chơi"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Người chơi"
+      },
+      {
+        "image": "round-select-item.webp",
+        "title": "Chọn trang bị"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Người chơi"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Người chơi"
+      },
+      {
+        "image": "round-elder-dragon.webp",
+        "title": "Rồng Nghàn Tuổi"
+      }
+    ],
+    [
+      {
+        "image": "round-weapon.webp",
+        "title": "Người chơi"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Người chơi"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Người chơi"
+      },
+      {
+        "image": "round-select-item.webp",
+        "title": "Chọn trang bị"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Người chơi"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Người chơi"
+      },
+      {
+        "image": "round-elder-dragon.webp",
+        "title": "Rồng Nghàn Tuổi"
+      }
+    ],
+    [
+      {
+        "image": "round-weapon.webp",
+        "title": "Người chơi"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Người chơi"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Người chơi"
+      },
+      {
+        "image": "round-select-item.webp",
+        "title": "Chọn trang bị"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Người chơi"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Người chơi"
+      },
+      {
+        "image": "round-elder-dragon.webp",
+        "title": "Rồng Ngàn Tuổi"
+      }
+    ]
+  ]
+}

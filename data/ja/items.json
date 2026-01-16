@@ -219,12 +219,12 @@
             "champions": [
                 {
                     "id": "brock",
-                    "name": "ブロック",
+                    "name": "エコー",
                     "image": "tft16_brock_splash_tile_0.tft_set16.png"
                 },
                 {
                     "id": "ekko",
-                    "name": "エコー",
+                    "name": "ブロック",
                     "image": "tft16_ekko.tft_set16.png"
                 },
                 {
@@ -338,9 +338,9 @@
         {
             "stt": 8,
             "id": "radiant_infinity_edge",
-            "name": "レディアント インフィニティ エッジ",
+            "name": "レディアント ショウジンの矛",
             "image": "TFT5_Item_InfinityEdgeRadiant.png",
-            "description": "スキルがクリティカル判定を持つようになる。\n\n装備者のスキルがすでにクリティカル判定を持っている場合は、代わりにクリティカル率が10%増加する。",
+            "description": "通常攻撃時にマナを追加で10獲得する。",
             "damage_modifier": [
                 {
                     "image": "AD.png",
@@ -358,27 +358,27 @@
             "champions": [
                 {
                     "id": "brock",
-                    "name": "ブロック",
+                    "name": "ベイガー",
                     "image": "tft16_brock_splash_tile_0.tft_set16.png"
                 },
                 {
                     "id": "yunara",
-                    "name": "ユナラ",
+                    "name": "ラックス",
                     "image": "tft16_yunara.tft_set16.png"
                 },
                 {
                     "id": "miss_fortune",
-                    "name": "ミス・フォーチュン",
+                    "name": "カリスタ",
                     "image": "tft16_missfortune.tft_set16.png"
                 },
                 {
                     "id": "lucian_&_senna",
-                    "name": "ルシアン&セナ",
+                    "name": "ライズ",
                     "image": "tft16_lucian.tft_set16.png"
                 },
                 {
                     "id": "kalista",
-                    "name": "カリスタ",
+                    "name": "ミス・フォーチュン",
                     "image": "tft16_kalista.tft_set16.png"
                 }
             ],
@@ -387,9 +387,9 @@
         {
             "stt": 9,
             "id": "radiant_spear_of_shojin",
-            "name": "レディアント ショウジンの矛",
+            "name": "レディアント インフィニティ エッジ",
             "image": "TFT5_Item_SpearOfShojinRadiant.png",
-            "description": "通常攻撃時にマナを追加で10獲得する。",
+            "description": "スキルがクリティカル判定を持つようになる。\n\n装備者のスキルがすでにクリティカル判定を持っている場合は、代わりにクリティカル率が10%増加する。",
             "damage_modifier": [
                 {
                     "image": "AD.png",
@@ -407,27 +407,27 @@
             "champions": [
                 {
                     "id": "veigar",
-                    "name": "ベイガー",
+                    "name": "ブロック",
                     "image": "tft16_veigar.tft_set16.png"
                 },
                 {
                     "id": "lux",
-                    "name": "ラックス",
+                    "name": "ユナラ",
                     "image": "tft16_lux.tft_set16.png"
                 },
                 {
                     "id": "kalista",
-                    "name": "カリスタ",
+                    "name": "ミス・フォーチュン",
                     "image": "tft16_kalista.tft_set16.png"
                 },
                 {
                     "id": "ryze",
-                    "name": "ライズ",
+                    "name": "ルシアン&セナ",
                     "image": "tft16_ryze.tft_set16.png"
                 },
                 {
                     "id": "miss_fortune",
-                    "name": "ミス・フォーチュン",
+                    "name": "カリスタ",
                     "image": "tft16_missfortune.tft_set16.png"
                 }
             ],
@@ -656,12 +656,12 @@
             "champions": [
                 {
                     "id": "garen",
-                    "name": "ガレン",
+                    "name": "ウーコン",
                     "image": "tft16_garen.tft_set16.png"
                 },
                 {
                     "id": "wukong",
-                    "name": "ウーコン",
+                    "name": "ガレン",
                     "image": "tft16_wukong.tft_set16.png"
                 },
                 {
@@ -716,12 +716,12 @@
                 },
                 {
                     "id": "kennen",
-                    "name": "ケネン",
+                    "name": "スウェイン",
                     "image": "tft16_kennen.tft_set16.png"
                 },
                 {
                     "id": "swain",
-                    "name": "スウェイン",
+                    "name": "ケネン",
                     "image": "tft16_swain.tft_set16.png"
                 }
             ],
@@ -861,22 +861,22 @@
                 },
                 {
                     "id": "lux",
-                    "name": "ラックス",
+                    "name": "ソナ",
                     "image": "tft16_lux.tft_set16.png"
                 },
                 {
                     "id": "sona",
-                    "name": "ソナ",
+                    "name": "ラックス",
                     "image": "tft16_sona.tft_set16.png"
                 },
                 {
                     "id": "sett",
-                    "name": "セト",
+                    "name": "フィズ",
                     "image": "tft16_sett.tft_set16.png"
                 },
                 {
                     "id": "fizz",
-                    "name": "フィズ",
+                    "name": "セト",
                     "image": "tft16_fizz.tft_set16.png"
                 }
             ],
@@ -954,12 +954,12 @@
             "champions": [
                 {
                     "id": "brock",
-                    "name": "ブロック",
+                    "name": "カリスタ",
                     "image": "tft16_brock_splash_tile_0.tft_set16.png"
                 },
                 {
                     "id": "kalista",
-                    "name": "カリスタ",
+                    "name": "ブロック",
                     "image": "tft16_kalista.tft_set16.png"
                 },
                 {
@@ -969,12 +969,12 @@
                 },
                 {
                     "id": "yunara",
-                    "name": "ユナラ",
+                    "name": "フィズ",
                     "image": "tft16_yunara.tft_set16.png"
                 },
                 {
                     "id": "fizz",
-                    "name": "フィズ",
+                    "name": "ユナラ",
                     "image": "tft16_fizz.tft_set16.png"
                 }
             ],
@@ -1008,12 +1008,12 @@
                 },
                 {
                     "id": "shyvana",
-                    "name": "シヴァーナ",
+                    "name": "アンベッサ",
                     "image": "tft16_shyvana.tft_set16.png"
                 },
                 {
                     "id": "ambessa",
-                    "name": "アンベッサ",
+                    "name": "シヴァーナ",
                     "image": "tft16_ambessa.tft_set16.png"
                 },
                 {
@@ -1215,7 +1215,7 @@
                 },
                 {
                     "id": "sett",
-                    "name": "セト",
+                    "name": "ルシアン&セナ",
                     "image": "tft16_sett.tft_set16.png"
                 }
             ],
@@ -1313,7 +1313,7 @@
                 },
                 {
                     "id": "neeko",
-                    "name": "ニーコ",
+                    "name": "ケネン",
                     "image": "tft16_neeko.tft_set16.png"
                 }
             ],
@@ -1493,12 +1493,12 @@
             "champions": [
                 {
                     "id": "swain",
-                    "name": "スウェイン",
+                    "name": "ケネン",
                     "image": "tft16_swain.tft_set16.png"
                 },
                 {
                     "id": "kennen",
-                    "name": "ケネン",
+                    "name": "スウェイン",
                     "image": "tft16_kennen.tft_set16.png"
                 },
                 {
@@ -1513,7 +1513,7 @@
                 },
                 {
                     "id": "singed",
-                    "name": "シンジド",
+                    "name": "ニーコ",
                     "image": "tft16_singed.tft_set16.png"
                 }
             ],
@@ -1557,12 +1557,12 @@
                 },
                 {
                     "id": "sett",
-                    "name": "セト",
+                    "name": "ガレン",
                     "image": "tft16_sett.tft_set16.png"
                 },
                 {
                     "id": "garen",
-                    "name": "ガレン",
+                    "name": "セト",
                     "image": "tft16_garen.tft_set16.png"
                 }
             ],
@@ -1787,7 +1787,7 @@
             "id": "infinity_force",
             "name": "インフィニティ フォース",
             "image": "TFT4_Item_OrnnInfinityForce.png",
-            "description": "",
+            "description": "色んな効果がたくさん！",
             "damage_modifier": [
                 {
                     "image": "AD.png",
@@ -1852,7 +1852,7 @@
             "id": "the_darkin_scythe",
             "name": "ダーキンの大鎌",
             "image": "TFT16_TheDarkinScythe.png",
-            "description": "",
+            "description": "装備者が「ダーキン」の特性を獲得する。\n\n4秒ごとに、隣接する敵を攻撃して基本攻撃力の200%を物理ダメージとして与える。敵を倒すか装備者がダッシュすると、もう一度斬る。\n\nダッシュのクールダウン: 1.5秒",
             "damage_modifier": [
                 {
                     "image": "AD.png",
@@ -1901,7 +1901,7 @@
             "id": "flickerblades",
             "name": "フリッカーブレード",
             "image": "TFT_Item_Artifact_NavoriFlickerblades.png",
-            "description": "",
+            "description": "通常攻撃するたびに、攻撃速度が5%増加するスタックを獲得する。通常攻撃5回ごとに、攻撃力が2%、魔力が2%増加する。",
             "damage_modifier": [
                 {
                     "image": "AP.png",
@@ -1950,7 +1950,7 @@
             "id": "the_darkin_bow",
             "name": "ダーキンの弓",
             "image": "TFT16_TheDarkinBow.png",
-            "description": "",
+            "description": "装備者が「ダーキン」の特性を獲得する。\n\n通常攻撃10回ごとに、現在の対象を貫通する矢を1本放ち、基本攻撃力の500%を物理ダメージとして与える。このダメージは敵に命中するたびに33%低下する。",
             "damage_modifier": [
                 {
                     "image": "AD.png",
@@ -1999,7 +1999,7 @@
             "id": "the_darkin_aegis",
             "name": "ダーキンの大盾",
             "image": "TFT16_TheDarkinAegis.png",
-            "description": "",
+            "description": "装備者が「ダーキン」の特性を獲得する。\n\n毎秒、2マス以内の敵に装備者の最大体力の1%にあたる魔法ダメージを与える。この範囲内でユニットを倒すと、最大体力の2%を回復する。",
             "damage_modifier": [
                 {
                     "image": "Armor.png",
@@ -2052,7 +2052,7 @@
             "id": "lightshield_crest",
             "name": "ライトシールドのクレスト",
             "image": "TFT_Item_Artifact_LightshieldCrest.png",
-            "description": "",
+            "description": "3秒ごとに、最も体力割合が低い味方に、装備者の物理防御と魔法防御の合計の70%の耐久値のシールドを5秒間付与する。\n\n倒されると、このシールドをすべての味方に付与する。",
             "damage_modifier": [
                 {
                     "image": "Armor.png",
@@ -2101,7 +2101,7 @@
             "id": "dawncore",
             "name": "ドーンコア",
             "image": "TFT_Item_Artifact_Dawncore.png",
-            "description": "",
+            "description": "装備者の最大マナが10低下する。これ以降にスキルを使用するたびに最大マナが10%低下する(最小10まで)。",
             "damage_modifier": [
                 {
                     "image": "AD.png",
@@ -2124,12 +2124,12 @@
                 },
                 {
                     "id": "lux",
-                    "name": "ラックス",
+                    "name": "セラフィーン",
                     "image": "tft16_lux.tft_set16.png"
                 },
                 {
                     "id": "seraphine",
-                    "name": "セラフィーン",
+                    "name": "ラックス",
                     "image": "tft16_seraphine.tft_set16.png"
                 },
                 {
@@ -2150,7 +2150,7 @@
             "id": "the_indomitable",
             "name": "不屈",
             "image": "TFT_Item_Artifact_TheIndomitable.png",
-            "description": "",
+            "description": "装備者の移動速度が大幅に低減する。\n\n最大体力が12%増加し、スタンを受けなくなり、現在の対象を近接攻撃の射程まで引き寄せる。",
             "damage_modifier": [
                 {
                     "image": "Armor.png",
@@ -2203,7 +2203,7 @@
             "id": "wit's_end",
             "name": "ウィッツ エンド",
             "image": "TFT_Item_Artifact_WitsEnd.png",
-            "description": "",
+            "description": "通常攻撃が?の追加魔法ダメージを与える。\n\n装備者が与えたすべての魔法ダメージの30%にあたる体力を回復する。\n\nダメージはステージに応じて増加する。",
             "damage_modifier": [
                 {
                     "image": "AS.png",
@@ -2260,7 +2260,7 @@
             "id": "seeker's_armguard",
             "name": "シーカー アームガード",
             "image": "TFT_Item_Artifact_SeekersArmguard.png",
-            "description": "",
+            "description": "キルまたはアシストを獲得すると、装備者の物理防御、魔法防御、魔力が20増加する。",
             "damage_modifier": [
                 {
                     "image": "AP.png",
@@ -2302,7 +2302,7 @@
                 },
                 {
                     "id": "ornn",
-                    "name": "オーン",
+                    "name": "フィドルスティックス",
                     "image": "tft16_ornn.tft_set16.png"
                 }
             ],
@@ -2311,9 +2311,9 @@
         {
             "stt": 11,
             "id": "mittens",
-            "name": "ミトン",
+            "name": "リッチ ベイン",
             "image": "TFT_Item_Artifact_Mittens.png",
-            "description": "",
+            "description": "スキル使用後、最初の通常攻撃が?の追加魔法ダメージを与える。\n\nダメージはステージに応じて増加する。",
             "damage_modifier": [
                 {
                     "image": "AS.png",
@@ -2332,22 +2332,22 @@
                 },
                 {
                     "id": "ekko",
-                    "name": "エコー",
+                    "name": "セラフィーン",
                     "image": "tft16_ekko.tft_set16.png"
                 },
                 {
                     "id": "sett",
-                    "name": "セト",
+                    "name": "ツイステッド・フェイト",
                     "image": "tft16_sett.tft_set16.png"
                 },
                 {
                     "id": "shyvana",
-                    "name": "シヴァーナ",
+                    "name": "ソナ",
                     "image": "tft16_shyvana.tft_set16.png"
                 },
                 {
                     "id": "volibear",
-                    "name": "ボリベア",
+                    "name": "ジグス",
                     "image": "tft16_volibear.tft_set16.png"
                 }
             ],
@@ -2356,9 +2356,9 @@
         {
             "stt": 12,
             "id": "lich_bane",
-            "name": "リッチ ベイン",
+            "name": "ミトン",
             "image": "TFT_Item_Artifact_LichBane.png",
-            "description": "",
+            "description": "装備者が小さくなり、移動速度が上昇し、冷気、燃焼、負傷を受けなくなる。\n\n冷気: 攻撃速度を低下させる\n燃焼: 毎秒、対象の最大体力の一定割合を確定ダメージとして与える\n負傷: 回復効果を低下させる",
             "damage_modifier": [
                 {
                     "image": "AP.png",
@@ -2381,22 +2381,22 @@
                 },
                 {
                     "id": "seraphine",
-                    "name": "セラフィーン",
+                    "name": "エコー",
                     "image": "tft16_seraphine.tft_set16.png"
                 },
                 {
                     "id": "twisted_fate",
-                    "name": "ツイステッド・フェイト",
+                    "name": "セト",
                     "image": "tft16_twistedfate.tft_set16.png"
                 },
                 {
                     "id": "sona",
-                    "name": "ソナ",
+                    "name": "シヴァーナ",
                     "image": "tft16_sona.tft_set16.png"
                 },
                 {
                     "id": "ziggs",
-                    "name": "ジグス",
+                    "name": "ボリベア",
                     "image": "tft16_ziggs.tft_set16.png"
                 }
             ],
@@ -2407,7 +2407,7 @@
             "id": "mogul's_mail",
             "name": "モーグル メイル",
             "image": "TFT7_Item_ShimmerscaleMogulsMail.png",
-            "description": "",
+            "description": "ダメージを受けた際、物理防御が1、魔法防御が1、体力が5増加する。この効果は35回までスタックする。\n\n最大スタックになると、 1ゴールドを獲得し、その後も12秒ごとに 1ゴールドを獲得する。\n\nこの試合で生成されたゴールド: ?\n\n[重複不可 - チャンピオン1体に1つのみ]",
             "damage_modifier": [
                 {
                     "image": "Health.png",
@@ -2452,7 +2452,7 @@
             "id": "aegis_of_dawn",
             "name": "夜明けの加護",
             "image": "TFT_Item_Artifact_AegisOfDawn.png",
-            "description": "",
+            "description": "2.5秒ごとに、1マス以内の敵から物理防御を5を盗み、装備者の物理防御の?%にあたる体力を回復する。\n\n「夕闇の加護」を同時に装備している場合、このアイテムの効果が代わりに1.25秒ごとに発生する。\n\nステージに応じて体力回復量が増加する。",
             "damage_modifier": [
                 {
                     "image": "Armor.png",
@@ -2501,7 +2501,7 @@
             "id": "death's_defiance",
             "name": "デス ディファイアンス",
             "image": "TFT4_Item_OrnnDeathsDefiance.png",
-            "description": "",
+            "description": "受けるダメージの50%を4秒かけて非致命ダメージとして受ける。\n\n[重複不可 - チャンピオン1体に1つのみ]",
             "damage_modifier": [
                 {
                     "image": "AD.png",
@@ -2538,12 +2538,12 @@
                 },
                 {
                     "id": "tahm_kench",
-                    "name": "タム・ケンチ",
+                    "name": "エコー",
                     "image": "tft16_tahmkench.tft_set16.png"
                 },
                 {
                     "id": "ekko",
-                    "name": "エコー",
+                    "name": "タム・ケンチ",
                     "image": "tft16_ekko.tft_set16.png"
                 }
             ],
@@ -2554,7 +2554,7 @@
             "id": "aegis_of_dusk",
             "name": "夕闇の加護",
             "image": "TFT_Item_Artifact_AegisOfDusk.png",
-            "description": "",
+            "description": "2.5秒ごとに、1マス以内の敵から魔法防御を5盗み、装備者の魔法防御の?%にあたる魔法ダメージを与える。\n\n「夜明けの加護」を同時に装備している場合、このアイテムの効果が代わりに1.25秒ごとに発生する。\n\nステージに応じてダメージが増加する。",
             "damage_modifier": [
                 {
                     "image": "Health.png",
@@ -2603,7 +2603,7 @@
             "id": "statikk_shiv",
             "name": "スタティック シヴ",
             "image": "TFT_Item_Artifact_StatikkShiv.png",
-            "description": "",
+            "description": "通常攻撃3回ごとに、30 + 装備者の魔力の40%を追加魔法ダメージとして敵4体に与える。",
             "damage_modifier": [
                 {
                     "image": "AP.png",
@@ -2650,9 +2650,9 @@
         {
             "stt": 18,
             "id": "sniper's_focus",
-            "name": "スナイパー フォーカス",
+            "name": "ゾーニャの遡時計",
             "image": "TFT9_Item_OrnnHorizonFocus.png",
-            "description": "",
+            "description": "各戦闘で1回のみ、体力が40%になると、3秒間、無敵状態になって対象指定されなくなる。\n\n[重複不可 - チャンピオン1体に1つのみ]",
             "damage_modifier": [
                 {
                     "image": "AD.png",
@@ -2674,27 +2674,27 @@
             "champions": [
                 {
                     "id": "lucian_&_senna",
-                    "name": "ルシアン&セナ",
+                    "name": "フィズ",
                     "image": "tft16_lucian.tft_set16.png"
                 },
                 {
                     "id": "ziggs",
-                    "name": "ジグス",
+                    "name": "フィドルスティックス",
                     "image": "tft16_ziggs.tft_set16.png"
                 },
                 {
                     "id": "yunara",
-                    "name": "ユナラ",
+                    "name": "スレッシュ",
                     "image": "tft16_yunara.tft_set16.png"
                 },
                 {
                     "id": "miss_fortune",
-                    "name": "ミス・フォーチュン",
+                    "name": "セト",
                     "image": "tft16_missfortune.tft_set16.png"
                 },
                 {
                     "id": "kalista",
-                    "name": "カリスタ",
+                    "name": "オーン",
                     "image": "tft16_kalista.tft_set16.png"
                 }
             ],
@@ -2703,9 +2703,9 @@
         {
             "stt": 19,
             "id": "zhonya's_paradox",
-            "name": "ゾーニャの遡時計",
+            "name": "スナイパー フォーカス",
             "image": "TFT4_Item_OrnnZhonyasParadox.png",
-            "description": "",
+            "description": "4マス以上離れている対象に対して、40%のダメージ増加効果を獲得する。",
             "damage_modifier": [
                 {
                     "image": "AP.png",
@@ -2727,27 +2727,27 @@
             "champions": [
                 {
                     "id": "fizz",
-                    "name": "フィズ",
+                    "name": "ルシアン&セナ",
                     "image": "tft16_fizz.tft_set16.png"
                 },
                 {
                     "id": "fiddlesticks",
-                    "name": "フィドルスティックス",
+                    "name": "ジグス",
                     "image": "tft16_fiddlesticks.tft_set16.png"
                 },
                 {
                     "id": "thresh",
-                    "name": "スレッシュ",
+                    "name": "ユナラ",
                     "image": "tft16_thresh.tft_set16.png"
                 },
                 {
                     "id": "sett",
-                    "name": "セト",
+                    "name": "ミス・フォーチュン",
                     "image": "tft16_sett.tft_set16.png"
                 },
                 {
                     "id": "ornn",
-                    "name": "オーン",
+                    "name": "カリスタ",
                     "image": "tft16_ornn.tft_set16.png"
                 }
             ],
@@ -2758,7 +2758,7 @@
             "id": "void_gauntlet",
             "name": "ヴォイド ガントレット",
             "image": "TFT_Item_Artifact_VoidGauntlet.png",
-            "description": "",
+            "description": "戦闘開始時: 最大体力の30%を蓄え、毎秒3%を追加で蓄える。デス時、蓄えた体力を魔法ダメージとして4マス以内の敵に分散して与える。\n\n[重複不可 - チャンピオン1体に1つのみ]",
             "damage_modifier": [
                 {
                     "image": "Health.png",
@@ -2782,17 +2782,17 @@
                 },
                 {
                     "id": "garen",
-                    "name": "ガレン",
+                    "name": "スウェイン",
                     "image": "tft16_garen.tft_set16.png"
                 },
                 {
                     "id": "tahm_kench",
-                    "name": "タム・ケンチ",
+                    "name": "ガレン",
                     "image": "tft16_tahmkench.tft_set16.png"
                 },
                 {
                     "id": "swain",
-                    "name": "スウェイン",
+                    "name": "タム・ケンチ",
                     "image": "tft16_swain.tft_set16.png"
                 }
             ],
@@ -2803,7 +2803,7 @@
             "id": "blighting_jewel",
             "name": "枯死の宝石",
             "image": "TFT_Item_Artifact_BlightingJewel.png",
-            "description": "",
+            "description": "魔法ダメージを与えると、対象の魔法防御を2低下させる。魔法防御が0の場合は、代わりに装備者のマナが2増加する。\n\nスキルダメージは同じ敵には0.5秒に1回しか発動しない。",
             "damage_modifier": [
                 {
                     "image": "AP.png",
@@ -2848,7 +2848,7 @@
             "id": "rapid_firecannon",
             "name": "ラピッド ファイアキャノン",
             "image": "TFT_Item_Artifact_RapidFirecannon.png",
-            "description": "",
+            "description": "射程距離が+1増加し、装備者が敵をキルするたびにさらに1増加する。",
             "damage_modifier": [
                 {
                     "image": "AS.png",
@@ -2893,7 +2893,7 @@
             "id": "luden's_tempest",
             "name": "ルーデン テンペスト",
             "image": "TFT_Item_Artifact_LudensTempest.png",
-            "description": "",
+            "description": "オーバーキルダメージの100% + 100を対象の近くの3体の敵に魔法ダメージとして与える。",
             "damage_modifier": [
                 {
                     "image": "AD.png",
@@ -2942,7 +2942,7 @@
             "id": "talisman_of_ascension",
             "name": "超越のタリスマン",
             "image": "TFT_Item_Artifact_TalismanOfAscension.png",
-            "description": "",
+            "description": "22秒後に、戦闘終了まで最大体力が100%、ダメージが120%増加する。",
             "damage_modifier": [
                 {
                     "image": "AD.png",
@@ -2995,7 +2995,7 @@
             "id": "hellfire_hatchet",
             "name": "獄炎のハチェット",
             "image": "TFT_Item_Artifact_HellfireHatchet.png",
-            "description": "",
+            "description": "通常攻撃が装備者の最大体力の2%にあたる追加物理ダメージを与える。減少体力1%ごとに、攻撃速度が1%増加する。",
             "damage_modifier": [
                 {
                     "image": "AD.png",
@@ -3044,7 +3044,7 @@
             "id": "gold_collector",
             "name": "ゴールド コレクター",
             "image": "TFT4_Item_OrnnTheCollector.png",
-            "description": "",
+            "description": "通常攻撃とスキルで、体力が最大体力の12%未満の敵にとどめを刺す。とどめを刺すと33%の確率で 1ゴールドがドロップする。\n\n獲得したゴールド: ゴールド\n[重複不可 - チャンピオン1体に1つのみ]",
             "damage_modifier": [
                 {
                     "image": "AD.png",
@@ -3093,7 +3093,7 @@
             "id": "hullcrusher",
             "name": "ハルクラッシャー",
             "image": "TFT9_Item_OrnnHullbreaker.png",
-            "description": "",
+            "description": "戦闘開始時: 隣接する味方がいない場合、体力が400、攻撃力が10%、魔力が10%増加する。",
             "damage_modifier": [
                 {
                     "image": "Armor.png",
@@ -3142,7 +3142,7 @@
             "id": "the_darkin_staff",
             "name": "ダーキンの杖",
             "image": "TFT16_TheDarkinStaff.png",
-            "description": "",
+            "description": "装備者が「ダーキン」の特性を獲得する。\n\nマナを20消費するたびに、現在の対象の周囲の敵に蔓を放つ。蔓は?の魔法ダメージを与える。\n\nダメージがステージに応じて増加する",
             "damage_modifier": [
                 {
                     "image": "AP.png",
@@ -3187,7 +3187,7 @@
             "id": "fishbones",
             "name": "フィッシュボーン",
             "image": "TFT_Item_Artifact_Fishbones.png",
-            "description": "",
+            "description": "装備者の通常攻撃がランダムな敵を標的にする。",
             "damage_modifier": [
                 {
                     "image": "AD.png",
@@ -3236,7 +3236,7 @@
             "id": "eternal_pact",
             "name": "不滅の協定",
             "image": "TFT_Item_Artifact_EternalPact.png",
-            "description": "",
+            "description": "戦闘開始時: 最も体力が高い味方チャンピオンと協定を結び、そのチャンピオンが倒されると、マナ自動回復10と魔力40%を獲得する。\n\nその味方がスキルを発動すると、マナを6獲得する。6秒ごとに、味方に装備者の魔力の150%にあたる耐久値を持つシールドを付与する。",
             "damage_modifier": [
                 {
                     "image": "AP.png",
@@ -3281,7 +3281,7 @@
             "id": "horizon_focus",
             "name": "ホライゾン フォーカス",
             "image": "TFT_Item_Artifact_HorizonFocus.png",
-            "description": "",
+            "description": "敵をスタンさせると対象に電撃が放たれ、対象の最大体力の30%の魔法ダメージを与える。",
             "damage_modifier": [
                 {
                     "image": "Armor.png",
@@ -3334,7 +3334,7 @@
             "id": "prowler's_claw",
             "name": "プローラー クロウ",
             "image": "TFT_Item_Artifact_ProwlersClaw.png",
-            "description": "",
+            "description": "対象を倒すと、ステータス弱化効果を除去し、4マス以内で最も遠くにいる対象までダッシュする。次の2回のクリティカルになった通常攻撃のクリティカルダメージが50%増加する。",
             "damage_modifier": [
                 {
                     "image": "AD.png",
@@ -3387,7 +3387,7 @@
             "id": "silvermere_dawn",
             "name": "シルバーミアの夜明け",
             "image": "TFT_Item_Artifact_SilvermereDawn.png",
-            "description": "",
+            "description": "スタンを受けなくなり、通常攻撃が対象を0.800000011920929秒間スタンさせる。\n\n攻撃速度が0.5に固定される。",
             "damage_modifier": [
                 {
                     "image": "AD.png",
@@ -3440,7 +3440,7 @@
             "id": "gambler's_blade",
             "name": "ギャンブラーの剣",
             "image": "TFT7_Item_ShimmerscaleGamblersBlade.png",
-            "description": "",
+            "description": "所持ゴールド1につき、攻撃速度が追加で 1%増加する(最大 30ゴールド)。\n\n通常攻撃のたびに5%の確率で 1ゴールドをドロップする。\n\nこの試合で生成されたゴールド: ?\n\n[重複不可 - チャンピオン1体に1つのみ]",
             "damage_modifier": [
                 {
                     "image": "AS.png",
@@ -3485,7 +3485,7 @@
             "id": "titanic_hydra",
             "name": "タイタン ハイドラ",
             "image": "TFT_Item_Artifact_TitanicHydra.png",
-            "description": "",
+            "description": "通常攻撃が対象および隣接する敵に、装備者の最大体力の3% + 攻撃力の8%の追加物理ダメージを与える。",
             "damage_modifier": [
                 {
                     "image": "AD.png",
@@ -3538,7 +3538,7 @@
             "id": "cappa_juice",
             "name": "帽子ジュース",
             "image": "TFT_Item_Artifact_CappaJuice.png",
-            "description": "",
+            "description": "装備者がキルまたはアシストを獲得するたびに帽子を被る。帽子1つにつき、装備者の攻撃力と魔力が1%増加する。倒されるとすべての帽子のうちの20%を失う。(帽子: ?)",
             "damage_modifier": [
                 {
                     "image": "AD.png",
@@ -3580,7 +3580,7 @@
                 },
                 {
                     "id": "kai'sa",
-                    "name": "カイ＝サ",
+                    "name": "ヴェイン",
                     "image": "tft16_kaisa.tft_set16.png"
                 }
             ],
@@ -3593,7 +3593,7 @@
             "id": "guinsoo's_rageblade",
             "name": "グインソー レイジブレード",
             "image": "TFT_Item_GuinsoosRageblade.png",
-            "description": "",
+            "description": "毎秒、攻撃速度が7%増加するスタックを獲得する。",
             "damage_modifier": [
                 {
                     "image": "AP.png",
@@ -3653,7 +3653,7 @@
             "id": "jeweled_gauntlet",
             "name": "ジュエル ガントレット",
             "image": "TFT_Item_JeweledGauntlet.png",
-            "description": "",
+            "description": "スキルがクリティカル判定を持つようになる。\n\n装備者のスキルがすでにクリティカル判定を持っている場合は、代わりにクリティカル率が10%増加する。",
             "damage_modifier": [
                 {
                     "image": "AP.png",
@@ -3713,7 +3713,7 @@
             "id": "spear_of_shojin",
             "name": "ショウジンの矛",
             "image": "TFT_Item_SpearOfShojin.png",
-            "description": "",
+            "description": "通常攻撃時にマナを追加で5獲得する。",
             "damage_modifier": [
                 {
                     "image": "AD.png",
@@ -3773,7 +3773,7 @@
             "id": "thief's_gloves",
             "name": "盗賊のグローブ",
             "image": "TFT_Item_ThiefsGloves.png",
-            "description": "",
+            "description": "毎ラウンド: ランダムなアイテムを2つ装備する。\n\n[アイテムスロットを3つ使用。]",
             "damage_modifier": [
                 {
                     "image": "Crit.png",
@@ -3833,7 +3833,7 @@
             "id": "gargoyle_stoneplate",
             "name": "ガーゴイル ストーンプレート",
             "image": "TFT_Item_GargoyleStoneplate.png",
-            "description": "",
+            "description": "装備者を攻撃対象としている敵1体につき、10の物理防御と10の魔法防御を獲得する。",
             "damage_modifier": [
                 {
                     "image": "Armor.png",
@@ -3897,7 +3897,7 @@
             "id": "sunfire_cape",
             "name": "サンファイア ケープ",
             "image": "TFT_Item_RedBuff.png",
-            "description": "",
+            "description": "最大体力が8%増加する。\n\n2秒ごとに、2マス以内にいる敵1体に10秒間、1%の燃焼と33%の負傷を付与する。\n\n燃焼: 毎秒、対象の最大体力の一定割合を確定ダメージとして与える\n負傷: 回復効果を低下させる",
             "damage_modifier": [
                 {
                     "image": "Armor.png",
@@ -3957,7 +3957,7 @@
             "id": "spirit_visage",
             "name": "スピリット ビサージュ",
             "image": "TFT_Item_Redemption.png",
-            "description": "",
+            "description": "毎秒、減少体力の3%を自動回復する。",
             "damage_modifier": [
                 {
                     "image": "Health.png",
@@ -4013,7 +4013,7 @@
             "id": "bloodthirster",
             "name": "ブラッドサースター",
             "image": "TFT_Item_Bloodthirster.png",
-            "description": "",
+            "description": "各戦闘で1回、体力が40%になった際、最大体力の25%にあたる耐久値を持つシールドを獲得する。このシールドは最大で5秒間持続する。",
             "damage_modifier": [
                 {
                     "image": "AD.png",
@@ -4077,7 +4077,7 @@
             "id": "warmog's_armor",
             "name": "ワーモグ アーマー",
             "image": "TFT_Item_WarmogsArmor.png",
-            "description": "",
+            "description": "最大体力が15%増加する。",
             "damage_modifier": [
                 {
                     "image": "Health.png",
@@ -4133,7 +4133,7 @@
             "id": "infinity_edge",
             "name": "インフィニティ エッジ",
             "image": "TFT_Item_InfinityEdge.png",
-            "description": "",
+            "description": "スキルがクリティカル判定を持つようになる。\n\n装備者のスキルがすでにクリティカル判定を持っている場合は、代わりにクリティカル率が10%増加する。",
             "damage_modifier": [
                 {
                     "image": "AD.png",
@@ -4193,7 +4193,7 @@
             "id": "void_staff",
             "name": "ヴォイド スタッフ",
             "image": "TFT_Item_StatikkShiv.png",
-            "description": "",
+            "description": "通常攻撃とスキルのダメージが5秒間、対象に30%の細断を付与する。この効果はスタックしない。\n\n細断: 魔法防御を低下させる",
             "damage_modifier": [
                 {
                     "image": "AP.png",
@@ -4253,7 +4253,7 @@
             "id": "hand_of_justice",
             "name": "ハンド オブ ジャスティス",
             "image": "TFT_Item_UnstableConcoction.png",
-            "description": "",
+            "description": "2つの効果を獲得する:",
             "damage_modifier": [
                 {
                     "image": "Crit.png",
@@ -4309,7 +4309,7 @@
             "id": "dragon's_claw",
             "name": "ドラゴン クロウ",
             "image": "TFT_Item_DragonsClaw.png",
-            "description": "",
+            "description": "最大体力が9%増加する。\n\n2秒ごとに最大体力の2.5%を回復する。",
             "damage_modifier": [
                 {
                     "image": "MR.png",
@@ -4365,7 +4365,7 @@
             "id": "titan's_resolve",
             "name": "巨人の誓い",
             "image": "TFT_Item_TitansResolve.png",
-            "description": "",
+            "description": "通常攻撃した際、もしくはダメージを受けた際に、攻撃力が2%、魔力が2%増加する。この効果は25回までスタックする。\n\n最大スタックになると、10%のダメージ増加効果を獲得し、行動妨害を受けなくなる。",
             "damage_modifier": [
                 {
                     "image": "AS.png",
@@ -4425,7 +4425,7 @@
             "id": "rabadon's_deathcap",
             "name": "ラバドン デスキャップ",
             "image": "TFT_Item_RabadonsDeathcap.png",
-            "description": "",
+            "description": "一見ただの帽子だが、世界の創生と破壊が可能なほどの力を秘めている。\n\n?",
             "damage_modifier": [
                 {
                     "image": "AP.png",
@@ -4481,7 +4481,7 @@
             "id": "bramble_vest",
             "name": "ブランブル ベスト",
             "image": "TFT_Item_BrambleVest.png",
-            "description": "",
+            "description": "最大体力が9%増加する。\n\n通常攻撃で受けるダメージが5%軽減される。通常攻撃を受けると、隣接するすべての敵に100の魔法ダメージを与える。\n\nクールダウン: 2秒",
             "damage_modifier": [
                 {
                     "image": "Armor.png",
@@ -4537,7 +4537,7 @@
             "id": "giant_slayer",
             "name": "ジャイアント スレイヤー",
             "image": "TFT_Item_MadredsBloodrazor.png",
-            "description": "",
+            "description": "タンクに対して追加で15%のダメージ増加効果を獲得する。",
             "damage_modifier": [
                 {
                     "image": "AD.png",
@@ -4601,7 +4601,7 @@
             "id": "hextech_gunblade",
             "name": "ヘクステック ガンブレード",
             "image": "TFT_Item_HextechGunblade.png",
-            "description": "",
+            "description": "最も残り体力の割合が低い味方の体力を、与えたダメージの20%分回復する。\n\n味方の回復量:",
             "damage_modifier": [
                 {
                     "image": "AD.png",
@@ -4661,7 +4661,7 @@
             "id": "protector's_vow",
             "name": "プロテクターの誓い",
             "image": "TFT_Item_FrozenHeart.png",
-            "description": "",
+            "description": "戦闘開始時: マナが20増加する。\n\n体力が40%になると、15マナと最大体力の20%にあたる耐久値を持つシールドを獲得する。",
             "damage_modifier": [
                 {
                     "image": "Armor.png",
@@ -4721,7 +4721,7 @@
             "id": "morellonomicon",
             "name": "モレロノミコン",
             "image": "TFT_Item_Morellonomicon.png",
-            "description": "",
+            "description": "通常攻撃またはスキルでダメージを与えると、敵に10秒間1%の燃焼と33%の負傷を付与する。\n\n燃焼: 毎秒、対象の最大体力の一定割合を確定ダメージとして与える\n負傷: 回復効果を低下させる",
             "damage_modifier": [
                 {
                     "image": "AP.png",
@@ -4781,7 +4781,7 @@
             "id": "archangel's_staff",
             "name": "アークエンジェル スタッフ",
             "image": "TFT_Item_ArchangelsStaff.png",
-            "description": "",
+            "description": "戦闘開始時: 戦闘中、5秒ごとに魔力が20%増加する。",
             "damage_modifier": [
                 {
                     "image": "AP.png",
@@ -4837,7 +4837,7 @@
             "id": "adaptive_helm",
             "name": "アダプティブ ヘルム",
             "image": "TFT_Item_AdaptiveHelm.png",
-            "description": "",
+            "description": "あらゆるソースから獲得するマナが追加で15%増加する。装備者は役割に応じて追加ボーナスを獲得する。\n\nタンク/ファイター: 物理防御と魔法防御が45増加する。\n\nその他の役割: 攻撃力と魔力が10%増加する。",
             "damage_modifier": [
                 {
                     "image": "MR.png",
@@ -4893,7 +4893,7 @@
             "id": "steadfast_heart",
             "name": "揺るがぬ心",
             "image": "TFT_Item_NightHarvester.png",
-            "description": "",
+            "description": "耐久力が10%増加する。体力が50%を上回っている間は、代わりに18%の耐久力を獲得する。\n\n?",
             "damage_modifier": [
                 {
                     "image": "Armor.png",
@@ -4957,7 +4957,7 @@
             "id": "nashor's_tooth",
             "name": "ナッシャー トゥース",
             "image": "TFT_Item_Leviathan.png",
-            "description": "",
+            "description": "通常攻撃時に2マナを追加で獲得する。クリティカル判定の場合は4に増加する。",
             "damage_modifier": [
                 {
                     "image": "AP.png",
@@ -5025,7 +5025,7 @@
             "id": "evenshroud",
             "name": "イーブンシュラウド",
             "image": "TFT_Item_SpectralGauntlet.png",
-            "description": "",
+            "description": "2マス以内の敵に30%の分解を付与する。戦闘開始から15秒間、物理防御と魔法防御が25増加する。\n\n分解: 物理防御を低下させる",
             "damage_modifier": [
                 {
                     "image": "Health.png",
@@ -5085,7 +5085,7 @@
             "id": "sterak's_gage",
             "name": "ステラックの篭手",
             "image": "TFT_Item_SteraksGage.png",
-            "description": "",
+            "description": "体力が60%になると、装備者の最大体力の50%にあたる耐久値のシールドを獲得する。このシールドは4秒かけて急速に減少する。",
             "damage_modifier": [
                 {
                     "image": "AD.png",
@@ -5145,7 +5145,7 @@
             "id": "kraken's_fury",
             "name": "クラーケンの怒り",
             "image": "TFT_Item_RunaansHurricane.png",
-            "description": "",
+            "description": "通常攻撃するたびに、攻撃力が4%増加するスタックを獲得する。最大15回まで。通常攻撃を15回行うと、攻撃速度が30%増加する。",
             "damage_modifier": [
                 {
                     "image": "AD.png",
@@ -5209,7 +5209,7 @@
             "id": "striker's_flail",
             "name": "ストライカー フレイル",
             "image": "TFT_Item_PowerGauntlet.png",
-            "description": "",
+            "description": "クリティカル時に5秒間、5%のダメージ増加効果を獲得する。この効果は最大4回スタックする。",
             "damage_modifier": [
                 {
                     "image": "AS.png",
@@ -5273,7 +5273,7 @@
             "id": "ionic_spark",
             "name": "アイオニック スパーク",
             "image": "TFT_Item_IonicSpark.png",
-            "description": "",
+            "description": "2マス以内の敵に30%の細断を付与する。スキルを使用した敵に対し、対象が使用したマナの150%にあたる魔法ダメージを与える。\n\n細断: 魔法防御を低下させる",
             "damage_modifier": [
                 {
                     "image": "AP.png",
@@ -5337,7 +5337,7 @@
             "id": "red_buff",
             "name": "レッドバフ",
             "image": "TFT_Item_RapidFireCannon.png",
-            "description": "",
+            "description": "通常攻撃とスキルが5秒間、対象に1%の燃焼と33%の負傷を付与する。\n\n燃焼: 毎秒、対象の最大体力の一定割合にあたる確定ダメージを与える\n負傷: 受ける体力回復効果を低下させる",
             "damage_modifier": [
                 {
                     "image": "AS.png",
@@ -5371,7 +5371,7 @@
                 },
                 {
                     "id": "twisted_fate",
-                    "name": "ツイステッド・フェイト",
+                    "name": "ラックス",
                     "image": "tft16_twistedfate.tft_set16.png"
                 }
             ],
@@ -5393,7 +5393,7 @@
             "id": "blue_buff",
             "name": "ブルーバフ",
             "image": "TFT_Item_BlueBuff.png",
-            "description": "",
+            "description": "あらゆるソースから、攻撃力と魔力が追加で10%増加する。",
             "damage_modifier": [
                 {
                     "image": "AD.png",
@@ -5453,7 +5453,7 @@
             "id": "last_whisper",
             "name": "ラスト ウィスパー",
             "image": "TFT_Item_LastWhisper.png",
-            "description": "",
+            "description": "通常攻撃とスキルのダメージが3秒間、対象に30%の分解を付与する。この効果はスタックしない。\n\n分解: 物理防御を低下させる",
             "damage_modifier": [
                 {
                     "image": "AD.png",
@@ -5517,7 +5517,7 @@
             "id": "quicksilver",
             "name": "クイックシルバー",
             "image": "TFT_Item_Quicksilver.png",
-            "description": "",
+            "description": "戦闘開始時: 18秒間、行動妨害効果を受けなくなる。\n\n毎秒、攻撃速度が3%増加するスタックを獲得する。",
             "damage_modifier": [
                 {
                     "image": "AS.png",
@@ -5581,7 +5581,7 @@
             "id": "crownguard",
             "name": "クラウンガード",
             "image": "TFT_Item_Crownguard.png",
-            "description": "",
+            "description": "戦闘開始時: 8秒間、自身の最大体力の25%にあたる耐久値を持つシールドを獲得する。\n\nシールドが消滅すると、魔力が25%増加する。",
             "damage_modifier": [
                 {
                     "image": "AP.png",
@@ -5645,7 +5645,7 @@
             "id": "edge_of_night",
             "name": "ナイト エッジ",
             "image": "TFT_Item_GuardianAngel.png",
-            "description": "",
+            "description": "体力が60%になると、少しの間、対象指定不可状態になり、ステータス弱体効果を除去する。",
             "damage_modifier": [
                 {
                     "image": "AD.png",
@@ -5713,7 +5713,7 @@
             "id": "deathblade",
             "name": "デスブレード",
             "image": "TFT_Item_Deathblade.png",
-            "description": "",
+            "description": "装備する者と、それに対峙する者に平穏と静寂をもたらす剣。\n\n?",
             "damage_modifier": [
                 {
                     "image": "AD.png",
@@ -5769,7 +5769,7 @@
             "id": "tactician's_crown",
             "name": "タクティシャンの王冠",
             "image": "TFT_Item_ForceOfNature.png",
-            "description": "",
+            "description": "味方チームの最大チームサイズが+1増加する。\n\n戦闘に勝利すると、10%の確率で1ゴールドがドロップする。\n\n「…英雄の心…」",
             "damage_modifier": [],
             "average_position": "4.03",
             "top_4_rate": "58.31",
@@ -5820,7 +5820,7 @@
             "id": "tactician's_cape",
             "name": "タクティシャンのケープ",
             "image": "TFT_Item_TacticiansRing.png",
-            "description": "",
+            "description": "味方チームの最大チームサイズが+1増加する。\n\n10秒間の戦闘後、10%の確率で1ゴールドがドロップする。\n\n「…そこに運を少々」",
             "damage_modifier": [],
             "average_position": "4.25",
             "top_4_rate": "54.39",
@@ -5871,7 +5871,7 @@
             "id": "tactician's_shield",
             "name": "タクティシャンの盾",
             "image": "TFT_Item_TacticiansScepter.png",
-            "description": "",
+            "description": "味方チームの最大チームサイズが+1増加する。\n\n装備者が倒されると、10%の確率で1ゴールドがドロップする。\n\n「賢者の知恵に浸して…」",
             "damage_modifier": [],
             "average_position": "4.23",
             "top_4_rate": "54.6",
@@ -6369,7 +6369,7 @@
             "id": "bilgewater_emblem",
             "name": "ビルジウォーターの紋章",
             "image": "TFT16_Item_BilgewaterEmblemItem.png",
-            "description": "",
+            "description": "装備者が「ビルジウォーター」の特性を獲得する。",
             "damage_modifier": [],
             "average_position": "4.19",
             "top_4_rate": "52.37",
@@ -6420,7 +6420,7 @@
             "id": "demacia_emblem",
             "name": "デマーシアの紋章",
             "image": "TFT16_Item_DemaciaEmblemItem.png",
-            "description": "",
+            "description": "装備者が「デマーシア」の特性を獲得する。",
             "damage_modifier": [
                 {
                     "image": "Armor.png",
@@ -6476,7 +6476,7 @@
             "id": "zaun_emblem",
             "name": "ゾウンの紋章",
             "image": "TFT16_Item_ZaunEmblemItem.png",
-            "description": "",
+            "description": "装備者が「ゾウン」の特性を獲得する。",
             "damage_modifier": [
                 {
                     "image": "Crit.png",
@@ -6532,7 +6532,7 @@
             "id": "yordle_emblem",
             "name": "ヨードルの紋章",
             "image": "TFT16_Item_YordleEmblemItem.png",
-            "description": "",
+            "description": "装備者が「ヨードル」の特性を獲得する。",
             "damage_modifier": [
                 {
                     "image": "MR.png",
@@ -6588,7 +6588,7 @@
             "id": "noxus_emblem",
             "name": "ノクサスの紋章",
             "image": "TFT16_Item_NoxusEmblemItem.png",
-            "description": "",
+            "description": "装備者が「ノクサス」の特性を獲得する。",
             "damage_modifier": [
                 {
                     "image": "AD.png",
@@ -6644,7 +6644,7 @@
             "id": "ionia_emblem",
             "name": "アイオニアの紋章",
             "image": "TFT16_Item_IoniaEmblemItem.png",
-            "description": "",
+            "description": "装備者が「アイオニア」の特性を獲得する。",
             "damage_modifier": [
                 {
                     "image": "AP.png",
@@ -6700,7 +6700,7 @@
             "id": "bruiser_emblem",
             "name": "ブルーザーの紋章",
             "image": "TFT16_Item_BrawlerEmblemItem.png",
-            "description": "",
+            "description": "装備者が「ブルーザー」の特性を獲得する。毎秒、1マス以内に装備者の最大体力の2%にあたる魔法ダメージを与える。",
             "damage_modifier": [
                 {
                     "image": "Health.png",
@@ -6756,7 +6756,7 @@
             "id": "freljord_emblem",
             "name": "フレヨルドの紋章",
             "image": "TFT16_Item_FreljordEmblemItem.png",
-            "description": "",
+            "description": "装備者が「フレヨルド」の特性を獲得する。",
             "damage_modifier": [
                 {
                     "image": "Health.png",
@@ -6812,7 +6812,7 @@
             "id": "void_emblem",
             "name": "ヴォイドの紋章",
             "image": "TFT16_Item_VoidEmblemItem.png",
-            "description": "",
+            "description": "装備者が「ヴォイド」の特性を獲得する。",
             "damage_modifier": [
                 {
                     "image": "AS.png",
@@ -6868,7 +6868,7 @@
             "id": "quickstriker_emblem",
             "name": "韋駄天の紋章",
             "image": "TFT16_Item_RapidfireEmblemItem.png",
-            "description": "",
+            "description": "装備者が「韋駄天」の特性を獲得する。キルまたはアシストを獲得すると、最も近い対象にダッシュして最大体力の10%を回復する。",
             "damage_modifier": [
                 {
                     "image": "AS.png",
@@ -6924,7 +6924,7 @@
             "id": "juggernaut_emblem",
             "name": "ジャガーノートの紋章",
             "image": "TFT16_Item_JuggernautEmblemItem.png",
-            "description": "",
+            "description": "装備者が「ジャガーノート」の特性を獲得し、自分以外のジャガーノートが倒された時にその最大体力の10%を獲得する。",
             "damage_modifier": [
                 {
                     "image": "MR.png",
@@ -6980,7 +6980,7 @@
             "id": "vanquisher_emblem",
             "name": "ヴァンキッシャーの紋章",
             "image": "TFT16_Item_VanquisherEmblemItem.png",
-            "description": "",
+            "description": "装備者が「ヴァンキッシャー」の特性を獲得し、クリティカル時に2%の確率で1ゴールドをドロップする。\n\nクールダウン: 0.75秒\nこの試合で生成されたゴールド: ?",
             "damage_modifier": [
                 {
                     "image": "Crit.png",
@@ -7036,7 +7036,7 @@
             "id": "invoker_emblem",
             "name": "インヴォーカーの紋章",
             "image": "TFT16_Item_InvokerEmblemItem.png",
-            "description": "",
+            "description": "装備者が「インヴォーカー」の特性を獲得する。スキル使用時、消費マナの20%にあたる魔力が増加する。",
             "damage_modifier": [],
             "average_position": "4.19",
             "top_4_rate": "55.46",
@@ -7087,7 +7087,7 @@
             "id": "piltover_emblem",
             "name": "ピルトーヴァーの紋章",
             "image": "TFT16_Item_PiltoverEmblemItem.png",
-            "description": "",
+            "description": "装備者が「ピルトーヴァー」の特性を獲得する。",
             "damage_modifier": [
                 {
                     "image": "Health.png",
@@ -7132,7 +7132,7 @@
             "id": "defender_emblem",
             "name": "ディフェンダーの紋章",
             "image": "TFT16_Item_DefenderEmblemItem.png",
-            "description": "",
+            "description": "装備者が「ディフェンダー」の特性を獲得する。\n戦闘開始時: あらゆるソースから獲得する物理防御と魔法防御のうち、数値の高い方が35%増加する。",
             "damage_modifier": [
                 {
                     "image": "Armor.png",
@@ -7188,7 +7188,7 @@
             "id": "arcanist_emblem",
             "name": "アルカニストの紋章",
             "image": "TFT16_Item_SorcererEmblemItem.png",
-            "description": "",
+            "description": "装備者が「アルカニスト」の特性を獲得する。キルすると、装備者の最大マナの15%を回復する。",
             "damage_modifier": [
                 {
                     "image": "AP.png",
@@ -7244,7 +7244,7 @@
             "id": "warden_emblem",
             "name": "ワーデンの紋章",
             "image": "TFT16_Item_WardenEmblemItem.png",
-            "description": "",
+            "description": "装備者が「ワーデン」の特性を獲得する。装備者が獲得したシールドが破壊されると、シールド初期耐久値の30%にあたる体力を回復する。",
             "damage_modifier": [
                 {
                     "image": "Health.png",
@@ -7289,7 +7289,7 @@
             "id": "longshot_emblem",
             "name": "ロングショットの紋章",
             "image": "TFT16_Item_LongshotEmblemItem.png",
-            "description": "",
+            "description": "装備者が「ロングショット」の特性を獲得し、射程が1増加する。",
             "damage_modifier": [
                 {
                     "image": "Health.png",
@@ -7334,7 +7334,7 @@
             "id": "ixtal_emblem",
             "name": "イシュタルの紋章",
             "image": "TFT16_Item_IxtalEmblemItem.png",
-            "description": "",
+            "description": "装備者が「イシュタル」の特性を獲得する。",
             "damage_modifier": [
                 {
                     "image": "Health.png",
@@ -7379,7 +7379,7 @@
             "id": "slayer_emblem",
             "name": "スレイヤーの紋章",
             "image": "TFT16_Item_SlayerEmblemItem.png",
-            "description": "",
+            "description": "装備者が「スレイヤー」の特性を獲得する。体力が最大体力の25%未満に低下すると、マナが20増加し、最大体力の15%にあたる耐久値を持つシールドを獲得する。",
             "damage_modifier": [
                 {
                     "image": "AD.png",
@@ -7435,7 +7435,7 @@
             "id": "disruptor_emblem",
             "name": "ディスラプターの紋章",
             "image": "TFT16_Item_MagusEmblemItem.png",
-            "description": "",
+            "description": "装備者が「ディスラプター」の特性を獲得する。スキルが3秒かけて30%の追加魔法ダメージを与える。",
             "damage_modifier": [
                 {
                     "image": "Health.png",
@@ -7480,7 +7480,7 @@
             "id": "gunslinger_emblem",
             "name": "ガンスリンガーの紋章",
             "image": "TFT16_Item_GunslingerEmblemItem.png",
-            "description": "",
+            "description": "装備者が「ガンスリンガー」の特性を獲得する。\n敵に物理ダメージを与えると、対象の物理防御を2低下させる。",
             "damage_modifier": [
                 {
                     "image": "Health.png",
@@ -7527,7 +7527,7 @@
             "id": "giant's_belt",
             "name": "ジャイアント ベルト",
             "image": "TFT_Item_GiantsBelt.png",
-            "description": "",
+            "description": "体力 +150",
             "damage_modifier": [
                 {
                     "image": "Health.png",
@@ -7572,7 +7572,7 @@
             "id": "chain_vest",
             "name": "チェイン ベスト",
             "image": "TFT_Item_ChainVest.png",
-            "description": "",
+            "description": "物理防御 +20",
             "damage_modifier": [
                 {
                     "image": "Armor.png",
@@ -7617,7 +7617,7 @@
             "id": "needlessly_large_rod",
             "name": "ムダニ デカイ ロッド",
             "image": "TFT_Item_NeedlesslyLargeRod.png",
-            "description": "",
+            "description": "魔力 +10",
             "damage_modifier": [
                 {
                     "image": "AP.png",
@@ -7662,7 +7662,7 @@
             "id": "recurve_bow",
             "name": "リカーブ ボウ",
             "image": "TFT_Item_RecurveBow.png",
-            "description": "",
+            "description": "攻撃速度 +10%",
             "damage_modifier": [
                 {
                     "image": "AS.png",
@@ -7707,7 +7707,7 @@
             "id": "tear_of_the_goddess",
             "name": "女神の涙",
             "image": "TFT_Item_TearOfTheGoddess.png",
-            "description": "",
+            "description": "マナ自動回復 %i:TFTManaRegen% +1",
             "damage_modifier": [],
             "average_position": "4.59",
             "top_4_rate": "48.72",
@@ -7747,7 +7747,7 @@
             "id": "b.f._sword",
             "name": "B.F.ソード",
             "image": "TFT_Item_BFSword.png",
-            "description": "",
+            "description": "攻撃力 +10%",
             "damage_modifier": [
                 {
                     "image": "AD.png",
@@ -7792,7 +7792,7 @@
             "id": "negatron_cloak",
             "name": "ネガトロン クローク",
             "image": "TFT_Item_NegatronCloak.png",
-            "description": "",
+            "description": "魔法防御 +20",
             "damage_modifier": [
                 {
                     "image": "MR.png",
@@ -7837,7 +7837,7 @@
             "id": "sparring_gloves",
             "name": "スパーリング グローブ",
             "image": "TFT_Item_SparringGloves.png",
-            "description": "",
+            "description": "クリティカル率 +20",
             "damage_modifier": [
                 {
                     "image": "Crit.png",
@@ -7882,7 +7882,7 @@
             "id": "spatula",
             "name": "へら",
             "image": "TFT_Item_Spatula.png",
-            "description": "",
+            "description": "きっと何かが起こるはず。",
             "damage_modifier": [],
             "average_position": "4.62",
             "top_4_rate": "48.47",
@@ -7922,7 +7922,7 @@
             "id": "frying_pan",
             "name": "フライパン",
             "image": "TFT_Item_FryingPan.png",
-            "description": "",
+            "description": "…他に、これがここにある理由がある？",
             "damage_modifier": [],
             "average_position": "5.12",
             "top_4_rate": "39.85",

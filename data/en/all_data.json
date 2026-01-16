@@ -25110,6 +25110,853 @@
       }
     ]
   },
+  "instruct": {
+    "vong_ky_ngo": [
+      {
+        "title": "Technology Core",
+        "items": [
+          {
+            "name": "The Supreme Overture",
+            "description": "The first upgrade received in this match will be at diamond level."
+          },
+          {
+            "name": "Golden Gala",
+            "description": "All upgrades received in this battle will be at gold tier."
+          },
+          {
+            "name": "Prism Team",
+            "description": "All upgrades received in this battle will be at diamond tier."
+          },
+          {
+            "name": "The Ultimate End",
+            "description": "The final upgrade received in this match will be at diamond level."
+          },
+          {
+            "name": "Golden Promenade",
+            "description": "The first upgrade received in this match will be at gold tier."
+          },
+          {
+            "name": "Golden End",
+            "description": "The final upgrade received in this battle will be at the gold tier."
+          },
+          {
+            "name": "Sublimation Upgrade",
+            "description": "Upgrades in this match will be at silver, gold, then diamond levels."
+          },
+          {
+            "name": "7DEGREE 1 SILVER",
+            "description": "All upgrades in this match will be at silver tier."
+          }
+        ]
+      },
+      {
+        "title": "General",
+        "items": [
+          {
+            "name": "Start with a 3 Gold Champion",
+            "description": "Start with a random 3-gold champion."
+          },
+          {
+            "name": "General Upgrade",
+            "description": "Start with a random 2-star 1-gold general."
+          },
+          {
+            "name": "Start with a 2 Gold Champion",
+            "description": "Start with a random 2-gold champion."
+          },
+          {
+            "name": "Cloning Machine",
+            "description": "Start the match with 1 Replicator."
+          },
+          {
+            "name": "3 Generals",
+            "description": "Start with 3 random 1-gold generals."
+          },
+          {
+            "name": "General Distribution",
+            "description": "2 times per stage, get 1 expensive champion for free. The closer to the end of the game, the higher the value."
+          },
+          {
+            "name": "General Meeting Conference",
+            "description": "Each stage, receive 1 champion suitable for your squad."
+          }
+        ]
+      },
+      {
+        "title": "Equipment",
+        "items": [
+          {
+            "name": "Artifact Equipment Pack",
+            "description": "Start with 1 Artifact Equipment Pack (choose 1 strong equipment)."
+          },
+          {
+            "name": "Component Equipment Package",
+            "description": "Start with 2 component equipment packages."
+          },
+          {
+            "name": "Complete Equipment Package",
+            "description": "Start with a complete equipment package."
+          },
+          {
+            "name": "Light Equipment",
+            "description": "Choose 1 of 5 late-game Light Items (more powerful versions of full items)."
+          },
+          {
+            "name": "Support Equipment Package",
+            "description": "Start with 1 Support equipment package."
+          },
+          {
+            "name": "Tactical Crown",
+            "description": "Start with 1 Tactical Crown (increases the maximum number of champions by +1)."
+          },
+          {
+            "name": "Equipment Package Party",
+            "description": "All equipment will drop as component equipment packs."
+          },
+          {
+            "name": "Let's Get Fired Up",
+            "description": "Start with 1 Golden Shovel and 1 Golden Pan. The forging hammer will not fall."
+          }
+        ]
+      },
+      {
+        "title": "Yellow",
+        "items": [
+          {
+            "name": "Gold Subscription Package",
+            "description": "Each stage, receive a random amount of gold. All players receive equal amounts of gold."
+          },
+          {
+            "name": "Golden Pot",
+            "description": "In round 6-1, all players still in the match will share a pot containing 250 gold."
+          },
+          {
+            "name": "Equipment Bonus",
+            "description": "Get gold when you combine equipment."
+          },
+          {
+            "name": "Starting Gold",
+            "description": "Start with 7 bonus gold."
+          }
+        ]
+      },
+      {
+        "title": "Unique",
+        "items": [
+          {
+            "name": "Dam Cua",
+            "description": "Monsters will be replaced by Scuttlers, giving additional rewards when defeated!"
+          },
+          {
+            "name": "Kicker Training",
+            "description": "Start with 1 Stone Man with 3 seals permanently attached."
+          },
+          {
+            "name": "Sign Up for Treasures",
+            "description": "Each stage, receive 1 random treasure from a diverse equipment pool."
+          },
+          {
+            "name": "Dancing Crab",
+            "description": "Monsters will be replaced by Scuttlers, giving additional rewards when defeated! Giant crabs are EXTREMELY DANGEROUS."
+          },
+          {
+            "name": "Upgrade Ring Swap",
+            "description": "Upgrades will be awarded earlier in this battle."
+          },
+          {
+            "name": "Early Awakening",
+            "description": "The second Awakening Fruit will appear in rounds 2-6 instead of 3-6."
+          },
+          {
+            "name": "Beach Volleyball",
+            "description": "Beach Volleyball! Get a beach ball that the Spirit Beast can juggle!"
+          },
+          {
+            "name": "Victory Society",
+            "description": "After Top 4, surviving players receive 10 gold and 2 Component Equipment Packs."
+          },
+          {
+            "name": "King of Noise",
+            "description": "The shopping round has new competitors!"
+          },
+          {
+            "name": "Grand Final",
+            "description": "This is the Grand Final! Hero, please move forward on your own."
+          },
+          {
+            "name": "Indian Collection",
+            "description": "Start with 3 random presses."
+          },
+          {
+            "name": "Confrontation Masters",
+            "description": "The last 2 surviving players receive 70 gold to have a decisive battle to the death."
+          },
+          {
+            "name": "Reconnaissance Squad",
+            "description": "Get +1 turns in exchange for Upgrades in this battle."
+          },
+          {
+            "name": "Howling Abyss",
+            "description": "Start the match with 5 random 1-gold generals."
+          },
+          {
+            "name": "Warrior Arena",
+            "description": "Every time a player is eliminated, the surviving players receive 3 gold for each eliminated player."
+          },
+          {
+            "name": "Cosmic Journey",
+            "description": "Get free redemptions at the start of each period."
+          },
+          {
+            "name": "Gift From Gwen",
+            "description": "After the first 3 rounds of shopping, Gwen will give the player 1 component equipment and 1 pair of scissors that can cut the equipment apart."
+          },
+          {
+            "name": "Golden Shovel",
+            "description": "Start with 1 Gold Shovel."
+          },
+          {
+            "name": "Mel's Blessings",
+            "description": "Mel will give you a powerful treasure when the player has 40 health remaining."
+          },
+          {
+            "name": "Full Shopping Circle",
+            "description": "Generals in the shopping round have 1 additional equipment component."
+          },
+          {
+            "name": "Treasure Stone Man",
+            "description": "Start with 1 Stone Man permanently equipped with 1 Unstable Treasure Chest. At the end of the game, the Stone Man will be equipped with a second Unstable Treasure Chest."
+          },
+          {
+            "name": "Treasures",
+            "description": "At stages 4-7, choose a pack of 5 powerful treasures."
+          },
+          {
+            "name": "Golden Pan",
+            "description": "Start with 1 Gold Pan."
+          },
+          {
+            "name": "Super Treasure Divine Dragon",
+            "description": "Super Treasure Divine Dragon"
+          },
+          {
+            "name": "Divine Dragon Messenger",
+            "description": "Divine Dragon Messenger"
+          },
+          {
+            "name": "HACK: Treasure",
+            "description": "The stage 4 NPC ring is replaced by a redeemable Treasure!"
+          },
+          {
+            "name": "Dragon Tribe Package",
+            "description": "Dragon Tribe Package"
+          }
+        ]
+      },
+      {
+        "title": "Default",
+        "items": [
+          {
+            "name": "There is no cycle of encounter.",
+            "description": "There are no reunions in this match."
+          }
+        ]
+      }
+    ],
+    "roll": [
+      [
+        "Maximum 30 generals",
+        "Maximum 25 generals",
+        "Maximum 18 generals",
+        "Maximum 10 generals",
+        "Maximum 9 generals"
+      ],
+      [
+        "100%",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      [
+        "100%",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      [
+        "75%",
+        "25%",
+        "0",
+        "0",
+        "0"
+      ],
+      [
+        "50%",
+        "30%",
+        "15%",
+        "0",
+        "0"
+      ],
+      [
+        "45%",
+        "30%",
+        "20%",
+        "2%",
+        "0"
+      ],
+      [
+        "30%",
+        "40%",
+        "25%",
+        "5%",
+        "0"
+      ],
+      [
+        "19%",
+        "30%",
+        "40%",
+        "10%",
+        "1%"
+      ],
+      [
+        "17%",
+        "24%",
+        "32%",
+        "24%",
+        "3%"
+      ],
+      [
+        "15%",
+        "18%",
+        "25%",
+        "30%",
+        "12%"
+      ],
+      [
+        "5%",
+        "10%",
+        "20%",
+        "40%",
+        "25%"
+      ],
+      [
+        "1%",
+        "2%",
+        "12%",
+        "50%",
+        "35%"
+      ]
+    ],
+    "vang_kinh_nghiem": {
+      "thuong_vong": [
+        {
+          "col_one": "Ring",
+          "col_tow": "Bonus"
+        },
+        {
+          "icon": "round",
+          "name": "Round 1-2",
+          "value": "+2 Gold"
+        },
+        {
+          "icon": "round",
+          "name": "Rounds 1-3",
+          "value": "+2 Gold"
+        },
+        {
+          "icon": "round",
+          "name": "Rounds 1-4",
+          "value": "+3 Gold"
+        },
+        {
+          "icon": "round",
+          "name": "Round 2-1",
+          "value": "+4 Gold"
+        },
+        {
+          "icon": "round",
+          "name": "Round 2-2+",
+          "value": "+5 Gold"
+        }
+      ],
+      "thuong_vong_pvp": [
+        {
+          "col_one": "Win/Loss",
+          "col_tow": "Bonus"
+        },
+        {
+          "icon": "imperial",
+          "name": "Win Round",
+          "value": "+1 Gold"
+        },
+        {
+          "icon": "death",
+          "name": "Lose Round",
+          "value": "0 Gold"
+        }
+      ],
+      "win": [
+        {
+          "col_one": "Winning Chain",
+          "col_tow": "Bonus"
+        },
+        {
+          "icon": "fire",
+          "name": "6 Win",
+          "value": "+3 Gold"
+        },
+        {
+          "icon": "fire",
+          "name": "5 Win",
+          "value": "+2 Gold"
+        },
+        {
+          "icon": "fire",
+          "name": "4 Win",
+          "value": "+1 Gold"
+        },
+        {
+          "icon": "fire",
+          "name": "3 Win",
+          "value": "+1 Gold"
+        },
+        {
+          "icon": "fire",
+          "name": "2 Win",
+          "value": "+1 Gold"
+        }
+      ],
+      "lose": [
+        {
+          "col_one": "Losing Streak",
+          "col_tow": "Bonus"
+        },
+        {
+          "icon": "death",
+          "name": "2 Lose",
+          "value": "+1 Gold"
+        },
+        {
+          "icon": "death",
+          "name": "3 Lose",
+          "value": "+1 Gold"
+        },
+        {
+          "icon": "death",
+          "name": "4 Lose",
+          "value": "+1 Gold"
+        },
+        {
+          "icon": "death",
+          "name": "5 Lose",
+          "value": "+2 Gold"
+        },
+        {
+          "icon": "death",
+          "name": "6 Lose",
+          "value": "+3 Gold"
+        }
+      ],
+      "loi_tuc": [
+        {
+          "col_one": "Yellow",
+          "col_tow": "Bonus"
+        },
+        {
+          "icon": "gold",
+          "name": "0 Gold",
+          "value": "0 Gold"
+        },
+        {
+          "icon": "gold",
+          "name": "+1 Gold",
+          "value": "+1 Gold"
+        },
+        {
+          "icon": "gold",
+          "name": "+2 Gold",
+          "value": "+2 Gold"
+        },
+        {
+          "icon": "gold",
+          "name": "+3 Gold",
+          "value": "+3 Gold"
+        },
+        {
+          "icon": "gold",
+          "name": "+4 Gold",
+          "value": "+4 Gold"
+        },
+        {
+          "icon": "gold",
+          "name": "+5 Gold",
+          "value": "+5 Gold"
+        }
+      ],
+      "bang_xp": [
+        {
+          "col_one": "Grant",
+          "col_tow": "Number of XP needed"
+        },
+        {
+          "icon": "level",
+          "name": "Level 1",
+          "value": "0 Gold"
+        },
+        {
+          "icon": "level",
+          "name": "Level 1",
+          "value": "0 XP"
+        },
+        {
+          "icon": "level",
+          "name": "Level 2",
+          "value": "0 XP"
+        },
+        {
+          "icon": "level",
+          "name": "Level 3",
+          "value": "2 XP"
+        },
+        {
+          "icon": "level",
+          "name": "Level 4",
+          "value": "6 XP"
+        },
+        {
+          "icon": "level",
+          "name": "Level 5",
+          "value": "10 XP"
+        },
+        {
+          "icon": "level",
+          "name": "Level 6",
+          "value": "20 XP"
+        },
+        {
+          "icon": "level",
+          "name": "Level 7",
+          "value": "36 XP"
+        },
+        {
+          "icon": "level",
+          "name": "Level 8",
+          "value": "48 XP"
+        },
+        {
+          "icon": "level",
+          "name": "Level 9",
+          "value": "76 XP"
+        },
+        {
+          "icon": "level",
+          "name": "Level 10",
+          "value": "84 XP"
+        }
+      ]
+    },
+    "cong_thuc_sat_thuong": {
+      "sat_thuong_vong": [
+        {
+          "col_one": "Total number of generals",
+          "col_tow": "Damage"
+        },
+        {
+          "icon": "champion",
+          "name": "1 General",
+          "value": "1 Damage"
+        },
+        {
+          "icon": "champion",
+          "name": "2 Generals",
+          "value": "2 Damage"
+        },
+        {
+          "icon": "champion",
+          "name": "3 Generals",
+          "value": "3 Damage"
+        },
+        {
+          "icon": "champion",
+          "name": "4 Generals",
+          "value": "4 Damage"
+        },
+        {
+          "icon": "champion",
+          "name": "5 Generals",
+          "value": "5 Damage"
+        },
+        {
+          "icon": "champion",
+          "name": "6 Generals",
+          "value": "6 Damage"
+        },
+        {
+          "icon": "champion",
+          "name": "7 Generals",
+          "value": "7 Damage"
+        },
+        {
+          "icon": "champion",
+          "name": "8 Generals",
+          "value": "8 Damage"
+        },
+        {
+          "icon": "champion",
+          "name": "9 Generals",
+          "value": "9 Damage"
+        },
+        {
+          "icon": "champion",
+          "name": "10 Generals",
+          "value": "10 Damage"
+        }
+      ],
+      "sat_thuong_tuong": [
+        {
+          "col_one": "Round",
+          "col_tow": "Damage"
+        },
+        {
+          "icon": "round",
+          "name": "Round 1",
+          "value": "+0 Damage"
+        },
+        {
+          "icon": "round",
+          "name": "Round 2",
+          "value": "+2 Damage"
+        },
+        {
+          "icon": "round",
+          "name": "Round 3",
+          "value": "+5 Damage"
+        },
+        {
+          "icon": "round",
+          "name": "Round 4",
+          "value": "+8 Damage"
+        },
+        {
+          "icon": "round",
+          "name": "Round 5",
+          "value": "+10 Damage"
+        },
+        {
+          "icon": "round",
+          "name": "Round 6",
+          "value": "+12 Damage"
+        },
+        {
+          "icon": "round",
+          "name": "Round 7+",
+          "value": "+17 Damage"
+        }
+      ]
+    },
+    "vong": [
+      [
+        {
+          "image": "round-select-portal.webp",
+          "title": "Select the teleportation portal"
+        },
+        {
+          "image": "round-minions.webp",
+          "title": "Soldier"
+        },
+        {
+          "image": "round-minions.webp",
+          "title": "Soldier"
+        },
+        {
+          "image": "round-minions.webp",
+          "title": "Soldier"
+        }
+      ],
+      [
+        {
+          "image": "round-box.webp",
+          "title": "Player"
+        },
+        {
+          "image": "round-weapon.webp",
+          "title": "Player"
+        },
+        {
+          "image": "round-weapon.webp",
+          "title": "Player"
+        },
+        {
+          "image": "round-select-item.webp",
+          "title": "Choose equipment"
+        },
+        {
+          "image": "round-weapon.webp",
+          "title": "Player"
+        },
+        {
+          "image": "round-weapon.webp",
+          "title": "Player"
+        },
+        {
+          "image": "round-krugs.webp",
+          "title": "Fuck rock"
+        }
+      ],
+      [
+        {
+          "image": "round-weapon.webp",
+          "title": "Player"
+        },
+        {
+          "image": "round-box.webp",
+          "title": "Player"
+        },
+        {
+          "image": "round-weapon.webp",
+          "title": "Player"
+        },
+        {
+          "image": "round-select-item.webp",
+          "title": "Choose equipment"
+        },
+        {
+          "image": "round-weapon.webp",
+          "title": "Player"
+        },
+        {
+          "image": "round-weapon.webp",
+          "title": "Player"
+        },
+        {
+          "image": "round-murk-wolves.webp",
+          "title": "Dark Wolf"
+        }
+      ],
+      [
+        {
+          "image": "round-weapon.webp",
+          "title": "Player"
+        },
+        {
+          "image": "round-box.webp",
+          "title": "Player"
+        },
+        {
+          "image": "round-weapon.webp",
+          "title": "Player"
+        },
+        {
+          "image": "round-select-item.webp",
+          "title": "Choose equipment"
+        },
+        {
+          "image": "round-weapon.webp",
+          "title": "Player"
+        },
+        {
+          "image": "round-weapon.webp",
+          "title": "Player"
+        },
+        {
+          "image": "round-raptor.webp",
+          "title": "Mutant Bird"
+        }
+      ],
+      [
+        {
+          "image": "round-weapon.webp",
+          "title": "Player"
+        },
+        {
+          "image": "round-weapon.webp",
+          "title": "Player"
+        },
+        {
+          "image": "round-weapon.webp",
+          "title": "Player"
+        },
+        {
+          "image": "round-select-item.webp",
+          "title": "Choose equipment"
+        },
+        {
+          "image": "round-weapon.webp",
+          "title": "Player"
+        },
+        {
+          "image": "round-weapon.webp",
+          "title": "Player"
+        },
+        {
+          "image": "round-elder-dragon.webp",
+          "title": "Elder Dragon"
+        }
+      ],
+      [
+        {
+          "image": "round-weapon.webp",
+          "title": "Player"
+        },
+        {
+          "image": "round-weapon.webp",
+          "title": "Player"
+        },
+        {
+          "image": "round-weapon.webp",
+          "title": "Player"
+        },
+        {
+          "image": "round-select-item.webp",
+          "title": "Choose equipment"
+        },
+        {
+          "image": "round-weapon.webp",
+          "title": "Player"
+        },
+        {
+          "image": "round-weapon.webp",
+          "title": "Player"
+        },
+        {
+          "image": "round-elder-dragon.webp",
+          "title": "Elder Dragon"
+        }
+      ],
+      [
+        {
+          "image": "round-weapon.webp",
+          "title": "Player"
+        },
+        {
+          "image": "round-weapon.webp",
+          "title": "Player"
+        },
+        {
+          "image": "round-weapon.webp",
+          "title": "Player"
+        },
+        {
+          "image": "round-select-item.webp",
+          "title": "Choose equipment"
+        },
+        {
+          "image": "round-weapon.webp",
+          "title": "Player"
+        },
+        {
+          "image": "round-weapon.webp",
+          "title": "Player"
+        },
+        {
+          "image": "round-elder-dragon.webp",
+          "title": "Elder Dragon"
+        }
+      ]
+    ]
+  },
   "champions_by_gold": [
     [
       {
