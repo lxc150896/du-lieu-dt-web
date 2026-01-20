@@ -92,7 +92,7 @@
                 },
                 {
                     "id": "vayne",
-                    "name": "ヴェイン",
+                    "name": "Vayne",
                     "image": "tft16_vayne.tft_set16.png"
                 }
             ],
@@ -148,104 +148,6 @@
             "item_components": []
         },
         {
-            "stt": 4,
-            "id": "radiant_warmog's_armor",
-            "name": "レディアント ワーモグ アーマー",
-            "image": "TFT5_Item_WarmogsArmorRadiant.png",
-            "description": "最大体力が33%増加する。",
-            "damage_modifier": [
-                {
-                    "image": "Health.png",
-                    "damage": "+1200"
-                }
-            ],
-            "average_position": "4.39",
-            "top_4_rate": "51.26",
-            "top_1_rate": "14.59",
-            "battle": "8,299",
-            "champions": [
-                {
-                    "id": "garen",
-                    "name": "ガレン",
-                    "image": "tft16_garen.tft_set16.png"
-                },
-                {
-                    "id": "wukong",
-                    "name": "ウーコン",
-                    "image": "tft16_wukong.tft_set16.png"
-                },
-                {
-                    "id": "kennen",
-                    "name": "ケネン",
-                    "image": "tft16_kennen.tft_set16.png"
-                },
-                {
-                    "id": "swain",
-                    "name": "スウェイン",
-                    "image": "tft16_swain.tft_set16.png"
-                },
-                {
-                    "id": "rift_herald",
-                    "name": "リフトヘラルド",
-                    "image": "tft16_riftherald_splash_tile_0.tft_set16.png"
-                }
-            ],
-            "item_components": []
-        },
-        {
-            "stt": 5,
-            "id": "radiant_bloodthirster",
-            "name": "レディアント ブラッドサースター",
-            "image": "TFT5_Item_BloodthirsterRadiant.png",
-            "description": "各戦闘で1回、体力が40%になった際、最大体力の50%にあたる耐久値を持つシールドを獲得する。このシールドは最大で5秒間持続する。",
-            "damage_modifier": [
-                {
-                    "image": "AD.png",
-                    "damage": "+30%"
-                },
-                {
-                    "image": "AP.png",
-                    "damage": "+30"
-                },
-                {
-                    "image": "MR.png",
-                    "damage": "+40"
-                }
-            ],
-            "average_position": "3.87",
-            "top_4_rate": "61.61",
-            "top_1_rate": "19.74",
-            "battle": "8,051",
-            "champions": [
-                {
-                    "id": "brock",
-                    "name": "エコー",
-                    "image": "tft16_brock_splash_tile_0.tft_set16.png"
-                },
-                {
-                    "id": "ekko",
-                    "name": "ブロック",
-                    "image": "tft16_ekko.tft_set16.png"
-                },
-                {
-                    "id": "sett",
-                    "name": "セト",
-                    "image": "tft16_sett.tft_set16.png"
-                },
-                {
-                    "id": "fizz",
-                    "name": "フィズ",
-                    "image": "tft16_fizz.tft_set16.png"
-                },
-                {
-                    "id": "ambessa",
-                    "name": "アンベッサ",
-                    "image": "tft16_ambessa.tft_set16.png"
-                }
-            ],
-            "item_components": []
-        },
-        {
             "stt": 6,
             "id": "radiant_spirit_visage",
             "name": "レディアント スピリット ビサージュ",
@@ -284,8 +186,106 @@
                 },
                 {
                     "id": "sion",
-                    "name": "サイオン",
+                    "name": "Sion",
                     "image": "tft16_sion.tft_set16.png"
+                }
+            ],
+            "item_components": []
+        },
+        {
+            "stt": 5,
+            "id": "radiant_bloodthirster",
+            "name": "レディアント ブラッドサースター",
+            "image": "TFT5_Item_BloodthirsterRadiant.png",
+            "description": "各戦闘で1回、体力が40%になった際、最大体力の50%にあたる耐久値を持つシールドを獲得する。このシールドは最大で5秒間持続する。",
+            "damage_modifier": [
+                {
+                    "image": "AD.png",
+                    "damage": "+30%"
+                },
+                {
+                    "image": "AP.png",
+                    "damage": "+30"
+                },
+                {
+                    "image": "MR.png",
+                    "damage": "+40"
+                }
+            ],
+            "average_position": "3.87",
+            "top_4_rate": "61.61",
+            "top_1_rate": "19.74",
+            "battle": "8,051",
+            "champions": [
+                {
+                    "id": "brock",
+                    "name": "ブロック",
+                    "image": "tft16_brock_splash_tile_0.tft_set16.png"
+                },
+                {
+                    "id": "ekko",
+                    "name": "エコー",
+                    "image": "tft16_ekko.tft_set16.png"
+                },
+                {
+                    "id": "sett",
+                    "name": "セト",
+                    "image": "tft16_sett.tft_set16.png"
+                },
+                {
+                    "id": "fizz",
+                    "name": "フィズ",
+                    "image": "tft16_fizz.tft_set16.png"
+                },
+                {
+                    "id": "ambessa",
+                    "name": "アンベッサ",
+                    "image": "tft16_ambessa.tft_set16.png"
+                }
+            ],
+            "item_components": []
+        },
+        {
+            "stt": 4,
+            "id": "radiant_warmog's_armor",
+            "name": "レディアント ワーモグ アーマー",
+            "image": "TFT5_Item_WarmogsArmorRadiant.png",
+            "description": "最大体力が33%増加する。",
+            "damage_modifier": [
+                {
+                    "image": "Health.png",
+                    "damage": "+1200"
+                }
+            ],
+            "average_position": "4.39",
+            "top_4_rate": "51.26",
+            "top_1_rate": "14.59",
+            "battle": "8,299",
+            "champions": [
+                {
+                    "id": "garen",
+                    "name": "ガレン",
+                    "image": "tft16_garen.tft_set16.png"
+                },
+                {
+                    "id": "wukong",
+                    "name": "ウーコン",
+                    "image": "tft16_wukong.tft_set16.png"
+                },
+                {
+                    "id": "kennen",
+                    "name": "ケネン",
+                    "image": "tft16_kennen.tft_set16.png"
+                },
+                {
+                    "id": "swain",
+                    "name": "スウェイン",
+                    "image": "tft16_swain.tft_set16.png"
+                },
+                {
+                    "id": "rift_herald",
+                    "name": "Rift Herald",
+                    "image": "tft16_riftherald_splash_tile_0.tft_set16.png"
                 }
             ],
             "item_components": []
@@ -329,7 +329,7 @@
                 },
                 {
                     "id": "sett",
-                    "name": "セト",
+                    "name": "Sett",
                     "image": "tft16_sett.tft_set16.png"
                 }
             ],
@@ -338,9 +338,9 @@
         {
             "stt": 8,
             "id": "radiant_infinity_edge",
-            "name": "レディアント ショウジンの矛",
+            "name": "レディアント インフィニティ エッジ",
             "image": "TFT5_Item_InfinityEdgeRadiant.png",
-            "description": "通常攻撃時にマナを追加で10獲得する。",
+            "description": "スキルがクリティカル判定を持つようになる。\n\n装備者のスキルがすでにクリティカル判定を持っている場合は、代わりにクリティカル率が10%増加する。",
             "damage_modifier": [
                 {
                     "image": "AD.png",
@@ -358,27 +358,27 @@
             "champions": [
                 {
                     "id": "brock",
-                    "name": "ベイガー",
+                    "name": "ブロック",
                     "image": "tft16_brock_splash_tile_0.tft_set16.png"
                 },
                 {
                     "id": "yunara",
-                    "name": "ラックス",
+                    "name": "ユナラ",
                     "image": "tft16_yunara.tft_set16.png"
                 },
                 {
                     "id": "miss_fortune",
-                    "name": "カリスタ",
+                    "name": "ミス・フォーチュン",
                     "image": "tft16_missfortune.tft_set16.png"
                 },
                 {
                     "id": "lucian_&_senna",
-                    "name": "ライズ",
+                    "name": "ルシアン&セナ",
                     "image": "tft16_lucian.tft_set16.png"
                 },
                 {
                     "id": "kalista",
-                    "name": "ミス・フォーチュン",
+                    "name": "カリスタ",
                     "image": "tft16_kalista.tft_set16.png"
                 }
             ],
@@ -387,9 +387,9 @@
         {
             "stt": 9,
             "id": "radiant_spear_of_shojin",
-            "name": "レディアント インフィニティ エッジ",
+            "name": "レディアント ショウジンの矛",
             "image": "TFT5_Item_SpearOfShojinRadiant.png",
-            "description": "スキルがクリティカル判定を持つようになる。\n\n装備者のスキルがすでにクリティカル判定を持っている場合は、代わりにクリティカル率が10%増加する。",
+            "description": "通常攻撃時にマナを追加で10獲得する。",
             "damage_modifier": [
                 {
                     "image": "AD.png",
@@ -407,27 +407,27 @@
             "champions": [
                 {
                     "id": "veigar",
-                    "name": "ブロック",
+                    "name": "ベイガー",
                     "image": "tft16_veigar.tft_set16.png"
                 },
                 {
                     "id": "lux",
-                    "name": "ユナラ",
+                    "name": "ラックス",
                     "image": "tft16_lux.tft_set16.png"
                 },
                 {
                     "id": "kalista",
-                    "name": "ミス・フォーチュン",
+                    "name": "カリスタ",
                     "image": "tft16_kalista.tft_set16.png"
                 },
                 {
                     "id": "ryze",
-                    "name": "ルシアン&セナ",
+                    "name": "ライズ",
                     "image": "tft16_ryze.tft_set16.png"
                 },
                 {
                     "id": "miss_fortune",
-                    "name": "カリスタ",
+                    "name": "ミス・フォーチュン",
                     "image": "tft16_missfortune.tft_set16.png"
                 }
             ],
@@ -613,7 +613,7 @@
                 },
                 {
                     "id": "ziggs",
-                    "name": "ジグス",
+                    "name": "Ziggs",
                     "image": "tft16_ziggs.tft_set16.png"
                 },
                 {
@@ -623,7 +623,7 @@
                 },
                 {
                     "id": "kai'sa",
-                    "name": "カイ＝サ",
+                    "name": "Kai'Sa",
                     "image": "tft16_kaisa.tft_set16.png"
                 }
             ],
@@ -656,12 +656,12 @@
             "champions": [
                 {
                     "id": "garen",
-                    "name": "ウーコン",
+                    "name": "ガレン",
                     "image": "tft16_garen.tft_set16.png"
                 },
                 {
                     "id": "wukong",
-                    "name": "ガレン",
+                    "name": "ウーコン",
                     "image": "tft16_wukong.tft_set16.png"
                 },
                 {
@@ -671,7 +671,7 @@
                 },
                 {
                     "id": "kennen",
-                    "name": "ケネン",
+                    "name": "Kennen",
                     "image": "tft16_kennen.tft_set16.png"
                 },
                 {
@@ -716,62 +716,13 @@
                 },
                 {
                     "id": "kennen",
-                    "name": "スウェイン",
+                    "name": "ケネン",
                     "image": "tft16_kennen.tft_set16.png"
                 },
                 {
                     "id": "swain",
-                    "name": "ケネン",
+                    "name": "スウェイン",
                     "image": "tft16_swain.tft_set16.png"
-                }
-            ],
-            "item_components": []
-        },
-        {
-            "stt": 16,
-            "id": "radiant_blue_buff",
-            "name": "レディアント ブルーバフ",
-            "image": "TFT5_Item_BlueBuffRadiant.png",
-            "description": "あらゆるソースから、攻撃力と魔力が追加で20%増加する。",
-            "damage_modifier": [
-                {
-                    "image": "AD.png",
-                    "damage": "+30%"
-                },
-                {
-                    "image": "AP.png",
-                    "damage": "+30"
-                }
-            ],
-            "average_position": "3.99",
-            "top_4_rate": "58.5",
-            "top_1_rate": "19.96",
-            "battle": "5,325",
-            "champions": [
-                {
-                    "id": "veigar",
-                    "name": "ベイガー",
-                    "image": "tft16_veigar.tft_set16.png"
-                },
-                {
-                    "id": "lux",
-                    "name": "ラックス",
-                    "image": "tft16_lux.tft_set16.png"
-                },
-                {
-                    "id": "sona",
-                    "name": "ソナ",
-                    "image": "tft16_sona.tft_set16.png"
-                },
-                {
-                    "id": "mel",
-                    "name": "メル",
-                    "image": "tft16_mel.tft_set16.png"
-                },
-                {
-                    "id": "sett",
-                    "name": "セト",
-                    "image": "tft16_sett.tft_set16.png"
                 }
             ],
             "item_components": []
@@ -826,58 +777,50 @@
             "item_components": []
         },
         {
-            "stt": 18,
-            "id": "radiant_nashor's_tooth",
-            "name": "レディアント ナッシャー トゥース",
-            "image": "TFT5_Item_LeviathanRadiant.png",
-            "description": "通常攻撃時に4マナを追加で獲得する。クリティカル判定の場合は8に増加する。",
+            "stt": 16,
+            "id": "radiant_blue_buff",
+            "name": "レディアント ブルーバフ",
+            "image": "TFT5_Item_BlueBuffRadiant.png",
+            "description": "あらゆるソースから、攻撃力と魔力が追加で20%増加する。",
             "damage_modifier": [
+                {
+                    "image": "AD.png",
+                    "damage": "+30%"
+                },
                 {
                     "image": "AP.png",
                     "damage": "+30"
-                },
-                {
-                    "image": "AS.png",
-                    "damage": "+20%"
-                },
-                {
-                    "image": "Crit.png",
-                    "damage": "+40%"
-                },
-                {
-                    "image": "Health.png",
-                    "damage": "+300"
                 }
             ],
-            "average_position": "3.92",
-            "top_4_rate": "60.49",
-            "top_1_rate": "20.23",
-            "battle": "5,027",
+            "average_position": "3.99",
+            "top_4_rate": "58.5",
+            "top_1_rate": "19.96",
+            "battle": "5,325",
             "champions": [
                 {
-                    "id": "ziggs",
-                    "name": "ジグス",
-                    "image": "tft16_ziggs.tft_set16.png"
+                    "id": "veigar",
+                    "name": "ベイガー",
+                    "image": "tft16_veigar.tft_set16.png"
                 },
                 {
                     "id": "lux",
-                    "name": "ソナ",
+                    "name": "ラックス",
                     "image": "tft16_lux.tft_set16.png"
                 },
                 {
                     "id": "sona",
-                    "name": "ラックス",
+                    "name": "ソナ",
                     "image": "tft16_sona.tft_set16.png"
                 },
                 {
-                    "id": "sett",
-                    "name": "フィズ",
-                    "image": "tft16_sett.tft_set16.png"
+                    "id": "mel",
+                    "name": "メル",
+                    "image": "tft16_mel.tft_set16.png"
                 },
                 {
-                    "id": "fizz",
-                    "name": "セト",
-                    "image": "tft16_fizz.tft_set16.png"
+                    "id": "sett",
+                    "name": "Sett",
+                    "image": "tft16_sett.tft_set16.png"
                 }
             ],
             "item_components": []
@@ -954,12 +897,12 @@
             "champions": [
                 {
                     "id": "brock",
-                    "name": "カリスタ",
+                    "name": "ブロック",
                     "image": "tft16_brock_splash_tile_0.tft_set16.png"
                 },
                 {
                     "id": "kalista",
-                    "name": "ブロック",
+                    "name": "カリスタ",
                     "image": "tft16_kalista.tft_set16.png"
                 },
                 {
@@ -969,12 +912,69 @@
                 },
                 {
                     "id": "yunara",
-                    "name": "フィズ",
+                    "name": "ユナラ",
                     "image": "tft16_yunara.tft_set16.png"
                 },
                 {
                     "id": "fizz",
-                    "name": "ユナラ",
+                    "name": "フィズ",
+                    "image": "tft16_fizz.tft_set16.png"
+                }
+            ],
+            "item_components": []
+        },
+        {
+            "stt": 18,
+            "id": "radiant_nashor's_tooth",
+            "name": "レディアント ナッシャー トゥース",
+            "image": "TFT5_Item_LeviathanRadiant.png",
+            "description": "通常攻撃時に4マナを追加で獲得する。クリティカル判定の場合は8に増加する。",
+            "damage_modifier": [
+                {
+                    "image": "AP.png",
+                    "damage": "+30"
+                },
+                {
+                    "image": "AS.png",
+                    "damage": "+20%"
+                },
+                {
+                    "image": "Crit.png",
+                    "damage": "+40%"
+                },
+                {
+                    "image": "Health.png",
+                    "damage": "+300"
+                }
+            ],
+            "average_position": "3.92",
+            "top_4_rate": "60.49",
+            "top_1_rate": "20.23",
+            "battle": "5,027",
+            "champions": [
+                {
+                    "id": "ziggs",
+                    "name": "ジグス",
+                    "image": "tft16_ziggs.tft_set16.png"
+                },
+                {
+                    "id": "lux",
+                    "name": "ラックス",
+                    "image": "tft16_lux.tft_set16.png"
+                },
+                {
+                    "id": "sona",
+                    "name": "ソナ",
+                    "image": "tft16_sona.tft_set16.png"
+                },
+                {
+                    "id": "sett",
+                    "name": "セト",
+                    "image": "tft16_sett.tft_set16.png"
+                },
+                {
+                    "id": "fizz",
+                    "name": "フィズ",
                     "image": "tft16_fizz.tft_set16.png"
                 }
             ],
@@ -1008,12 +1008,12 @@
                 },
                 {
                     "id": "shyvana",
-                    "name": "アンベッサ",
+                    "name": "シヴァーナ",
                     "image": "tft16_shyvana.tft_set16.png"
                 },
                 {
                     "id": "ambessa",
-                    "name": "シヴァーナ",
+                    "name": "アンベッサ",
                     "image": "tft16_ambessa.tft_set16.png"
                 },
                 {
@@ -1025,6 +1025,55 @@
                     "id": "gangplank",
                     "name": "ガングプランク",
                     "image": "tft16_gangplank.tft_set16.png"
+                }
+            ],
+            "item_components": []
+        },
+        {
+            "stt": 24,
+            "id": "radiant_sunfire_cape",
+            "name": "レディアント サンファイア ケープ",
+            "image": "TFT5_Item_SunfireCapeRadiant.png",
+            "description": "最大体力が16%増加する。\n\n2秒ごとに、2マス以内にいる敵1体に10秒間、2%の燃焼と33%の負傷を付与する。\n\n燃焼: 毎秒、対象の最大体力の一定割合を確定ダメージとして与える\n負傷: 回復効果を低下させる",
+            "damage_modifier": [
+                {
+                    "image": "Armor.png",
+                    "damage": "+40"
+                },
+                {
+                    "image": "Health.png",
+                    "damage": "+300"
+                }
+            ],
+            "average_position": "4.12",
+            "top_4_rate": "56.31",
+            "top_1_rate": "18.23",
+            "battle": "4,285",
+            "champions": [
+                {
+                    "id": "wukong",
+                    "name": "ウーコン",
+                    "image": "tft16_wukong.tft_set16.png"
+                },
+                {
+                    "id": "garen",
+                    "name": "ガレン",
+                    "image": "tft16_garen.tft_set16.png"
+                },
+                {
+                    "id": "swain",
+                    "name": "スウェイン",
+                    "image": "tft16_swain.tft_set16.png"
+                },
+                {
+                    "id": "kennen",
+                    "name": "ケネン",
+                    "image": "tft16_kennen.tft_set16.png"
+                },
+                {
+                    "id": "sion",
+                    "name": "Sion",
+                    "image": "tft16_sion.tft_set16.png"
                 }
             ],
             "item_components": []
@@ -1066,7 +1115,7 @@
                 },
                 {
                     "id": "jinx",
-                    "name": "ジンクス",
+                    "name": "Jinx",
                     "image": "tft16_jinx.tft_set16.png"
                 },
                 {
@@ -1128,55 +1177,6 @@
             "item_components": []
         },
         {
-            "stt": 24,
-            "id": "radiant_sunfire_cape",
-            "name": "レディアント サンファイア ケープ",
-            "image": "TFT5_Item_SunfireCapeRadiant.png",
-            "description": "最大体力が16%増加する。\n\n2秒ごとに、2マス以内にいる敵1体に10秒間、2%の燃焼と33%の負傷を付与する。\n\n燃焼: 毎秒、対象の最大体力の一定割合を確定ダメージとして与える\n負傷: 回復効果を低下させる",
-            "damage_modifier": [
-                {
-                    "image": "Armor.png",
-                    "damage": "+40"
-                },
-                {
-                    "image": "Health.png",
-                    "damage": "+300"
-                }
-            ],
-            "average_position": "4.12",
-            "top_4_rate": "56.31",
-            "top_1_rate": "18.23",
-            "battle": "4,285",
-            "champions": [
-                {
-                    "id": "wukong",
-                    "name": "ウーコン",
-                    "image": "tft16_wukong.tft_set16.png"
-                },
-                {
-                    "id": "garen",
-                    "name": "ガレン",
-                    "image": "tft16_garen.tft_set16.png"
-                },
-                {
-                    "id": "swain",
-                    "name": "スウェイン",
-                    "image": "tft16_swain.tft_set16.png"
-                },
-                {
-                    "id": "kennen",
-                    "name": "ケネン",
-                    "image": "tft16_kennen.tft_set16.png"
-                },
-                {
-                    "id": "sion",
-                    "name": "サイオン",
-                    "image": "tft16_sion.tft_set16.png"
-                }
-            ],
-            "item_components": []
-        },
-        {
             "stt": 25,
             "id": "radiant_deathblade",
             "name": "レディアント デスブレード",
@@ -1215,7 +1215,7 @@
                 },
                 {
                     "id": "sett",
-                    "name": "ルシアン&セナ",
+                    "name": "Sett",
                     "image": "tft16_sett.tft_set16.png"
                 }
             ],
@@ -1255,12 +1255,12 @@
                 },
                 {
                     "id": "brock",
-                    "name": "ブロック",
+                    "name": "Brock",
                     "image": "tft16_brock_splash_tile_0.tft_set16.png"
                 },
                 {
                     "id": "annie",
-                    "name": "アニー",
+                    "name": "Annie",
                     "image": "tft16_annie.tft_set16.png"
                 }
             ],
@@ -1313,7 +1313,7 @@
                 },
                 {
                     "id": "neeko",
-                    "name": "ケネン",
+                    "name": "ニーコ",
                     "image": "tft16_neeko.tft_set16.png"
                 }
             ],
@@ -1369,6 +1369,59 @@
             "item_components": []
         },
         {
+            "stt": 31,
+            "id": "radiant_ionic_spark",
+            "name": "レディアント アイオニック スパーク",
+            "image": "TFT5_Item_IonicSparkRadiant.png",
+            "description": "2マス以内の敵に30%の細断を付与する。スキルを使用した敵に対し、対象が使用したマナの300%にあたる魔法ダメージを与える。\n\n[直接ダメージアイテム]\n細断: 魔法防御を低下させる",
+            "damage_modifier": [
+                {
+                    "image": "AP.png",
+                    "damage": "+30"
+                },
+                {
+                    "image": "Health.png",
+                    "damage": "+500"
+                },
+                {
+                    "image": "MR.png",
+                    "damage": "+70"
+                }
+            ],
+            "average_position": "4.1",
+            "top_4_rate": "56.58",
+            "top_1_rate": "18.96",
+            "battle": "2,653",
+            "champions": [
+                {
+                    "id": "swain",
+                    "name": "スウェイン",
+                    "image": "tft16_swain.tft_set16.png"
+                },
+                {
+                    "id": "kennen",
+                    "name": "ケネン",
+                    "image": "tft16_kennen.tft_set16.png"
+                },
+                {
+                    "id": "sett",
+                    "name": "セト",
+                    "image": "tft16_sett.tft_set16.png"
+                },
+                {
+                    "id": "fizz",
+                    "name": "フィズ",
+                    "image": "tft16_fizz.tft_set16.png"
+                },
+                {
+                    "id": "singed",
+                    "name": "Singed",
+                    "image": "tft16_singed.tft_set16.png"
+                }
+            ],
+            "item_components": []
+        },
+        {
             "stt": 29,
             "id": "radiant_red_buff",
             "name": "レディアント レッドバフ",
@@ -1402,7 +1455,7 @@
                 },
                 {
                     "id": "fizz",
-                    "name": "フィズ",
+                    "name": "Fizz",
                     "image": "tft16_fizz.tft_set16.png"
                 },
                 {
@@ -1450,7 +1503,7 @@
                 },
                 {
                     "id": "fizz",
-                    "name": "フィズ",
+                    "name": "Fizz",
                     "image": "tft16_fizz.tft_set16.png"
                 },
                 {
@@ -1462,59 +1515,6 @@
                     "id": "gangplank",
                     "name": "ガングプランク",
                     "image": "tft16_gangplank.tft_set16.png"
-                }
-            ],
-            "item_components": []
-        },
-        {
-            "stt": 31,
-            "id": "radiant_ionic_spark",
-            "name": "レディアント アイオニック スパーク",
-            "image": "TFT5_Item_IonicSparkRadiant.png",
-            "description": "2マス以内の敵に30%の細断を付与する。スキルを使用した敵に対し、対象が使用したマナの300%にあたる魔法ダメージを与える。\n\n[直接ダメージアイテム]\n細断: 魔法防御を低下させる",
-            "damage_modifier": [
-                {
-                    "image": "AP.png",
-                    "damage": "+30"
-                },
-                {
-                    "image": "Health.png",
-                    "damage": "+500"
-                },
-                {
-                    "image": "MR.png",
-                    "damage": "+70"
-                }
-            ],
-            "average_position": "4.1",
-            "top_4_rate": "56.58",
-            "top_1_rate": "18.96",
-            "battle": "2,653",
-            "champions": [
-                {
-                    "id": "swain",
-                    "name": "ケネン",
-                    "image": "tft16_swain.tft_set16.png"
-                },
-                {
-                    "id": "kennen",
-                    "name": "スウェイン",
-                    "image": "tft16_kennen.tft_set16.png"
-                },
-                {
-                    "id": "sett",
-                    "name": "セト",
-                    "image": "tft16_sett.tft_set16.png"
-                },
-                {
-                    "id": "fizz",
-                    "name": "フィズ",
-                    "image": "tft16_fizz.tft_set16.png"
-                },
-                {
-                    "id": "singed",
-                    "name": "ニーコ",
-                    "image": "tft16_singed.tft_set16.png"
                 }
             ],
             "item_components": []
@@ -1557,12 +1557,12 @@
                 },
                 {
                     "id": "sett",
-                    "name": "ガレン",
+                    "name": "セト",
                     "image": "tft16_sett.tft_set16.png"
                 },
                 {
                     "id": "garen",
-                    "name": "セト",
+                    "name": "ガレン",
                     "image": "tft16_garen.tft_set16.png"
                 }
             ],
@@ -1774,7 +1774,7 @@
                 },
                 {
                     "id": "shyvana",
-                    "name": "シヴァーナ",
+                    "name": "Shyvana",
                     "image": "tft16_shyvana.tft_set16.png"
                 }
             ],
@@ -1841,7 +1841,7 @@
                 },
                 {
                     "id": "ornn",
-                    "name": "オーン",
+                    "name": "Ornn",
                     "image": "tft16_ornn.tft_set16.png"
                 }
             ],
@@ -2097,6 +2097,116 @@
             "item_components": []
         },
         {
+            "stt": 10,
+            "id": "seeker's_armguard",
+            "name": "シーカー アームガード",
+            "image": "TFT_Item_Artifact_SeekersArmguard.png",
+            "description": "キルまたはアシストを獲得すると、装備者の物理防御、魔法防御、魔力が20増加する。",
+            "damage_modifier": [
+                {
+                    "image": "AP.png",
+                    "damage": "+25"
+                },
+                {
+                    "image": "Armor.png",
+                    "damage": "+10"
+                },
+                {
+                    "image": "MR.png",
+                    "damage": "+10"
+                }
+            ],
+            "average_position": "3.8",
+            "top_4_rate": "62.8",
+            "top_1_rate": "20.16",
+            "battle": "24,574",
+            "champions": [
+                {
+                    "id": "ekko",
+                    "name": "エコー",
+                    "image": "tft16_ekko.tft_set16.png"
+                },
+                {
+                    "id": "fizz",
+                    "name": "フィズ",
+                    "image": "tft16_fizz.tft_set16.png"
+                },
+                {
+                    "id": "sett",
+                    "name": "セト",
+                    "image": "tft16_sett.tft_set16.png"
+                },
+                {
+                    "id": "thresh",
+                    "name": "スレッシュ",
+                    "image": "tft16_thresh.tft_set16.png"
+                },
+                {
+                    "id": "ornn",
+                    "name": "オーン",
+                    "image": "tft16_ornn.tft_set16.png"
+                }
+            ],
+            "item_components": []
+        },
+        {
+            "stt": 9,
+            "id": "wit's_end",
+            "name": "ウィッツ エンド",
+            "image": "TFT_Item_Artifact_WitsEnd.png",
+            "description": "通常攻撃が?の追加魔法ダメージを与える。\n\n装備者が与えたすべての魔法ダメージの30%にあたる体力を回復する。\n\nダメージはステージに応じて増加する。",
+            "damage_modifier": [
+                {
+                    "image": "AS.png",
+                    "damage": "+25%"
+                },
+                {
+                    "image": "Armor.png",
+                    "damage": "+20"
+                },
+                {
+                    "image": "Health.png",
+                    "damage": "+400"
+                },
+                {
+                    "image": "MR.png",
+                    "damage": "+20"
+                }
+            ],
+            "average_position": "3.69",
+            "top_4_rate": "64.93",
+            "top_1_rate": "20.83",
+            "battle": "24,581",
+            "champions": [
+                {
+                    "id": "ekko",
+                    "name": "エコー",
+                    "image": "tft16_ekko.tft_set16.png"
+                },
+                {
+                    "id": "fizz",
+                    "name": "フィズ",
+                    "image": "tft16_fizz.tft_set16.png"
+                },
+                {
+                    "id": "ziggs",
+                    "name": "ジグス",
+                    "image": "tft16_ziggs.tft_set16.png"
+                },
+                {
+                    "id": "sett",
+                    "name": "セト",
+                    "image": "tft16_sett.tft_set16.png"
+                },
+                {
+                    "id": "kai'sa",
+                    "name": "カイ＝サ",
+                    "image": "tft16_kaisa.tft_set16.png"
+                }
+            ],
+            "item_components": []
+        },
+        {
             "stt": 7,
             "id": "dawncore",
             "name": "ドーンコア",
@@ -2124,12 +2234,12 @@
                 },
                 {
                     "id": "lux",
-                    "name": "セラフィーン",
+                    "name": "ラックス",
                     "image": "tft16_lux.tft_set16.png"
                 },
                 {
                     "id": "seraphine",
-                    "name": "ラックス",
+                    "name": "セラフィーン",
                     "image": "tft16_seraphine.tft_set16.png"
                 },
                 {
@@ -2199,121 +2309,11 @@
             "item_components": []
         },
         {
-            "stt": 9,
-            "id": "wit's_end",
-            "name": "ウィッツ エンド",
-            "image": "TFT_Item_Artifact_WitsEnd.png",
-            "description": "通常攻撃が?の追加魔法ダメージを与える。\n\n装備者が与えたすべての魔法ダメージの30%にあたる体力を回復する。\n\nダメージはステージに応じて増加する。",
-            "damage_modifier": [
-                {
-                    "image": "AS.png",
-                    "damage": "+25%"
-                },
-                {
-                    "image": "Armor.png",
-                    "damage": "+20"
-                },
-                {
-                    "image": "Health.png",
-                    "damage": "+400"
-                },
-                {
-                    "image": "MR.png",
-                    "damage": "+20"
-                }
-            ],
-            "average_position": "3.69",
-            "top_4_rate": "64.93",
-            "top_1_rate": "20.83",
-            "battle": "24,581",
-            "champions": [
-                {
-                    "id": "ekko",
-                    "name": "エコー",
-                    "image": "tft16_ekko.tft_set16.png"
-                },
-                {
-                    "id": "fizz",
-                    "name": "フィズ",
-                    "image": "tft16_fizz.tft_set16.png"
-                },
-                {
-                    "id": "ziggs",
-                    "name": "ジグス",
-                    "image": "tft16_ziggs.tft_set16.png"
-                },
-                {
-                    "id": "sett",
-                    "name": "セト",
-                    "image": "tft16_sett.tft_set16.png"
-                },
-                {
-                    "id": "kai'sa",
-                    "name": "カイ＝サ",
-                    "image": "tft16_kaisa.tft_set16.png"
-                }
-            ],
-            "item_components": []
-        },
-        {
-            "stt": 10,
-            "id": "seeker's_armguard",
-            "name": "シーカー アームガード",
-            "image": "TFT_Item_Artifact_SeekersArmguard.png",
-            "description": "キルまたはアシストを獲得すると、装備者の物理防御、魔法防御、魔力が20増加する。",
-            "damage_modifier": [
-                {
-                    "image": "AP.png",
-                    "damage": "+25"
-                },
-                {
-                    "image": "Armor.png",
-                    "damage": "+10"
-                },
-                {
-                    "image": "MR.png",
-                    "damage": "+10"
-                }
-            ],
-            "average_position": "3.8",
-            "top_4_rate": "62.8",
-            "top_1_rate": "20.16",
-            "battle": "24,574",
-            "champions": [
-                {
-                    "id": "ekko",
-                    "name": "エコー",
-                    "image": "tft16_ekko.tft_set16.png"
-                },
-                {
-                    "id": "fizz",
-                    "name": "フィズ",
-                    "image": "tft16_fizz.tft_set16.png"
-                },
-                {
-                    "id": "sett",
-                    "name": "セト",
-                    "image": "tft16_sett.tft_set16.png"
-                },
-                {
-                    "id": "thresh",
-                    "name": "スレッシュ",
-                    "image": "tft16_thresh.tft_set16.png"
-                },
-                {
-                    "id": "ornn",
-                    "name": "フィドルスティックス",
-                    "image": "tft16_ornn.tft_set16.png"
-                }
-            ],
-            "item_components": []
-        },
-        {
             "stt": 11,
             "id": "mittens",
-            "name": "リッチ ベイン",
+            "name": "ミトン",
             "image": "TFT_Item_Artifact_Mittens.png",
-            "description": "スキル使用後、最初の通常攻撃が?の追加魔法ダメージを与える。\n\nダメージはステージに応じて増加する。",
+            "description": "装備者が小さくなり、移動速度が上昇し、冷気、燃焼、負傷を受けなくなる。\n\n冷気: 攻撃速度を低下させる\n燃焼: 毎秒、対象の最大体力の一定割合を確定ダメージとして与える\n負傷: 回復効果を低下させる",
             "damage_modifier": [
                 {
                     "image": "AS.png",
@@ -2332,22 +2332,22 @@
                 },
                 {
                     "id": "ekko",
-                    "name": "セラフィーン",
+                    "name": "エコー",
                     "image": "tft16_ekko.tft_set16.png"
                 },
                 {
                     "id": "sett",
-                    "name": "ツイステッド・フェイト",
+                    "name": "セト",
                     "image": "tft16_sett.tft_set16.png"
                 },
                 {
                     "id": "shyvana",
-                    "name": "ソナ",
+                    "name": "シヴァーナ",
                     "image": "tft16_shyvana.tft_set16.png"
                 },
                 {
                     "id": "volibear",
-                    "name": "ジグス",
+                    "name": "ボリベア",
                     "image": "tft16_volibear.tft_set16.png"
                 }
             ],
@@ -2356,9 +2356,9 @@
         {
             "stt": 12,
             "id": "lich_bane",
-            "name": "ミトン",
+            "name": "リッチ ベイン",
             "image": "TFT_Item_Artifact_LichBane.png",
-            "description": "装備者が小さくなり、移動速度が上昇し、冷気、燃焼、負傷を受けなくなる。\n\n冷気: 攻撃速度を低下させる\n燃焼: 毎秒、対象の最大体力の一定割合を確定ダメージとして与える\n負傷: 回復効果を低下させる",
+            "description": "スキル使用後、最初の通常攻撃が?の追加魔法ダメージを与える。\n\nダメージはステージに応じて増加する。",
             "damage_modifier": [
                 {
                     "image": "AP.png",
@@ -2381,68 +2381,23 @@
                 },
                 {
                     "id": "seraphine",
-                    "name": "エコー",
+                    "name": "セラフィーン",
                     "image": "tft16_seraphine.tft_set16.png"
                 },
                 {
                     "id": "twisted_fate",
-                    "name": "セト",
+                    "name": "ツイステッド・フェイト",
                     "image": "tft16_twistedfate.tft_set16.png"
                 },
                 {
                     "id": "sona",
-                    "name": "シヴァーナ",
+                    "name": "ソナ",
                     "image": "tft16_sona.tft_set16.png"
                 },
                 {
                     "id": "ziggs",
-                    "name": "ボリベア",
+                    "name": "ジグス",
                     "image": "tft16_ziggs.tft_set16.png"
-                }
-            ],
-            "item_components": []
-        },
-        {
-            "stt": 13,
-            "id": "mogul's_mail",
-            "name": "モーグル メイル",
-            "image": "TFT7_Item_ShimmerscaleMogulsMail.png",
-            "description": "ダメージを受けた際、物理防御が1、魔法防御が1、体力が5増加する。この効果は35回までスタックする。\n\n最大スタックになると、 1ゴールドを獲得し、その後も12秒ごとに 1ゴールドを獲得する。\n\nこの試合で生成されたゴールド: ?\n\n[重複不可 - チャンピオン1体に1つのみ]",
-            "damage_modifier": [
-                {
-                    "image": "Health.png",
-                    "damage": "+300"
-                }
-            ],
-            "average_position": "4.35",
-            "top_4_rate": "53",
-            "top_1_rate": "12.82",
-            "battle": "23,512",
-            "champions": [
-                {
-                    "id": "wukong",
-                    "name": "ウーコン",
-                    "image": "tft16_wukong.tft_set16.png"
-                },
-                {
-                    "id": "garen",
-                    "name": "ガレン",
-                    "image": "tft16_garen.tft_set16.png"
-                },
-                {
-                    "id": "nautilus",
-                    "name": "ノーチラス",
-                    "image": "tft16_nautilus.tft_set16.png"
-                },
-                {
-                    "id": "sion",
-                    "name": "サイオン",
-                    "image": "tft16_sion.tft_set16.png"
-                },
-                {
-                    "id": "rift_herald",
-                    "name": "リフトヘラルド",
-                    "image": "tft16_riftherald_splash_tile_0.tft_set16.png"
                 }
             ],
             "item_components": []
@@ -2538,13 +2493,58 @@
                 },
                 {
                     "id": "tahm_kench",
-                    "name": "エコー",
+                    "name": "Tahm Kench",
                     "image": "tft16_tahmkench.tft_set16.png"
                 },
                 {
                     "id": "ekko",
-                    "name": "タム・ケンチ",
+                    "name": "エコー",
                     "image": "tft16_ekko.tft_set16.png"
+                }
+            ],
+            "item_components": []
+        },
+        {
+            "stt": 13,
+            "id": "mogul's_mail",
+            "name": "モーグル メイル",
+            "image": "TFT7_Item_ShimmerscaleMogulsMail.png",
+            "description": "ダメージを受けた際、物理防御が1、魔法防御が1、体力が5増加する。この効果は35回までスタックする。\n\n最大スタックになると、 1ゴールドを獲得し、その後も12秒ごとに 1ゴールドを獲得する。\n\nこの試合で生成されたゴールド: ?\n\n[重複不可 - チャンピオン1体に1つのみ]",
+            "damage_modifier": [
+                {
+                    "image": "Health.png",
+                    "damage": "+300"
+                }
+            ],
+            "average_position": "4.35",
+            "top_4_rate": "53",
+            "top_1_rate": "12.82",
+            "battle": "23,512",
+            "champions": [
+                {
+                    "id": "wukong",
+                    "name": "ウーコン",
+                    "image": "tft16_wukong.tft_set16.png"
+                },
+                {
+                    "id": "garen",
+                    "name": "ガレン",
+                    "image": "tft16_garen.tft_set16.png"
+                },
+                {
+                    "id": "nautilus",
+                    "name": "ノーチラス",
+                    "image": "tft16_nautilus.tft_set16.png"
+                },
+                {
+                    "id": "sion",
+                    "name": "サイオン",
+                    "image": "tft16_sion.tft_set16.png"
+                },
+                {
+                    "id": "rift_herald",
+                    "name": "リフトヘラルド",
+                    "image": "tft16_riftherald_splash_tile_0.tft_set16.png"
                 }
             ],
             "item_components": []
@@ -2641,61 +2641,8 @@
                 },
                 {
                     "id": "azir",
-                    "name": "アジール",
+                    "name": "Azir",
                     "image": "tft16_azir.tft_set16.png"
-                }
-            ],
-            "item_components": []
-        },
-        {
-            "stt": 18,
-            "id": "sniper's_focus",
-            "name": "ゾーニャの遡時計",
-            "image": "TFT9_Item_OrnnHorizonFocus.png",
-            "description": "各戦闘で1回のみ、体力が40%になると、3秒間、無敵状態になって対象指定されなくなる。\n\n[重複不可 - チャンピオン1体に1つのみ]",
-            "damage_modifier": [
-                {
-                    "image": "AD.png",
-                    "damage": "+20%"
-                },
-                {
-                    "image": "AP.png",
-                    "damage": "+20"
-                },
-                {
-                    "image": "AS.png",
-                    "damage": "+20%"
-                }
-            ],
-            "average_position": "3.92",
-            "top_4_rate": "60.53",
-            "top_1_rate": "18.64",
-            "battle": "21,138",
-            "champions": [
-                {
-                    "id": "lucian_&_senna",
-                    "name": "フィズ",
-                    "image": "tft16_lucian.tft_set16.png"
-                },
-                {
-                    "id": "ziggs",
-                    "name": "フィドルスティックス",
-                    "image": "tft16_ziggs.tft_set16.png"
-                },
-                {
-                    "id": "yunara",
-                    "name": "スレッシュ",
-                    "image": "tft16_yunara.tft_set16.png"
-                },
-                {
-                    "id": "miss_fortune",
-                    "name": "セト",
-                    "image": "tft16_missfortune.tft_set16.png"
-                },
-                {
-                    "id": "kalista",
-                    "name": "オーン",
-                    "image": "tft16_kalista.tft_set16.png"
                 }
             ],
             "item_components": []
@@ -2703,9 +2650,9 @@
         {
             "stt": 19,
             "id": "zhonya's_paradox",
-            "name": "スナイパー フォーカス",
+            "name": "ゾーニャの遡時計",
             "image": "TFT4_Item_OrnnZhonyasParadox.png",
-            "description": "4マス以上離れている対象に対して、40%のダメージ増加効果を獲得する。",
+            "description": "各戦闘で1回のみ、体力が40%になると、3秒間、無敵状態になって対象指定されなくなる。\n\n[重複不可 - チャンピオン1体に1つのみ]",
             "damage_modifier": [
                 {
                     "image": "AP.png",
@@ -2727,28 +2674,81 @@
             "champions": [
                 {
                     "id": "fizz",
-                    "name": "ルシアン&セナ",
+                    "name": "フィズ",
                     "image": "tft16_fizz.tft_set16.png"
                 },
                 {
                     "id": "fiddlesticks",
-                    "name": "ジグス",
+                    "name": "フィドルスティックス",
                     "image": "tft16_fiddlesticks.tft_set16.png"
                 },
                 {
                     "id": "thresh",
-                    "name": "ユナラ",
+                    "name": "スレッシュ",
                     "image": "tft16_thresh.tft_set16.png"
                 },
                 {
                     "id": "sett",
-                    "name": "ミス・フォーチュン",
+                    "name": "セト",
                     "image": "tft16_sett.tft_set16.png"
                 },
                 {
                     "id": "ornn",
-                    "name": "カリスタ",
+                    "name": "オーン",
                     "image": "tft16_ornn.tft_set16.png"
+                }
+            ],
+            "item_components": []
+        },
+        {
+            "stt": 18,
+            "id": "sniper's_focus",
+            "name": "スナイパー フォーカス",
+            "image": "TFT9_Item_OrnnHorizonFocus.png",
+            "description": "4マス以上離れている対象に対して、40%のダメージ増加効果を獲得する。",
+            "damage_modifier": [
+                {
+                    "image": "AD.png",
+                    "damage": "+20%"
+                },
+                {
+                    "image": "AP.png",
+                    "damage": "+20"
+                },
+                {
+                    "image": "AS.png",
+                    "damage": "+20%"
+                }
+            ],
+            "average_position": "3.92",
+            "top_4_rate": "60.53",
+            "top_1_rate": "18.64",
+            "battle": "21,138",
+            "champions": [
+                {
+                    "id": "lucian_&_senna",
+                    "name": "ルシアン&セナ",
+                    "image": "tft16_lucian.tft_set16.png"
+                },
+                {
+                    "id": "ziggs",
+                    "name": "ジグス",
+                    "image": "tft16_ziggs.tft_set16.png"
+                },
+                {
+                    "id": "yunara",
+                    "name": "ユナラ",
+                    "image": "tft16_yunara.tft_set16.png"
+                },
+                {
+                    "id": "miss_fortune",
+                    "name": "ミス・フォーチュン",
+                    "image": "tft16_missfortune.tft_set16.png"
+                },
+                {
+                    "id": "kalista",
+                    "name": "カリスタ",
+                    "image": "tft16_kalista.tft_set16.png"
                 }
             ],
             "item_components": []
@@ -2782,18 +2782,63 @@
                 },
                 {
                     "id": "garen",
-                    "name": "スウェイン",
+                    "name": "ガレン",
                     "image": "tft16_garen.tft_set16.png"
                 },
                 {
                     "id": "tahm_kench",
-                    "name": "ガレン",
+                    "name": "タム・ケンチ",
                     "image": "tft16_tahmkench.tft_set16.png"
                 },
                 {
                     "id": "swain",
-                    "name": "タム・ケンチ",
+                    "name": "スウェイン",
                     "image": "tft16_swain.tft_set16.png"
+                }
+            ],
+            "item_components": []
+        },
+        {
+            "stt": 22,
+            "id": "rapid_firecannon",
+            "name": "ラピッド ファイアキャノン",
+            "image": "TFT_Item_Artifact_RapidFirecannon.png",
+            "description": "射程距離が+1増加し、装備者が敵をキルするたびにさらに1増加する。",
+            "damage_modifier": [
+                {
+                    "image": "AS.png",
+                    "damage": "+65%"
+                }
+            ],
+            "average_position": "3.78",
+            "top_4_rate": "63.41",
+            "top_1_rate": "18.99",
+            "battle": "20,822",
+            "champions": [
+                {
+                    "id": "ekko",
+                    "name": "エコー",
+                    "image": "tft16_ekko.tft_set16.png"
+                },
+                {
+                    "id": "lucian_&_senna",
+                    "name": "ルシアン&セナ",
+                    "image": "tft16_lucian.tft_set16.png"
+                },
+                {
+                    "id": "kindred",
+                    "name": "キンドレッド",
+                    "image": "tft16_kindred.tft_set16.png"
+                },
+                {
+                    "id": "bel'veth",
+                    "name": "ベル＝ヴェス",
+                    "image": "tft16_belveth.tft_set16.png"
+                },
+                {
+                    "id": "ziggs",
+                    "name": "Ziggs",
+                    "image": "tft16_ziggs.tft_set16.png"
                 }
             ],
             "item_components": []
@@ -2844,51 +2889,6 @@
             "item_components": []
         },
         {
-            "stt": 22,
-            "id": "rapid_firecannon",
-            "name": "ラピッド ファイアキャノン",
-            "image": "TFT_Item_Artifact_RapidFirecannon.png",
-            "description": "射程距離が+1増加し、装備者が敵をキルするたびにさらに1増加する。",
-            "damage_modifier": [
-                {
-                    "image": "AS.png",
-                    "damage": "+65%"
-                }
-            ],
-            "average_position": "3.78",
-            "top_4_rate": "63.41",
-            "top_1_rate": "18.99",
-            "battle": "20,822",
-            "champions": [
-                {
-                    "id": "ekko",
-                    "name": "エコー",
-                    "image": "tft16_ekko.tft_set16.png"
-                },
-                {
-                    "id": "lucian_&_senna",
-                    "name": "ルシアン&セナ",
-                    "image": "tft16_lucian.tft_set16.png"
-                },
-                {
-                    "id": "kindred",
-                    "name": "キンドレッド",
-                    "image": "tft16_kindred.tft_set16.png"
-                },
-                {
-                    "id": "bel'veth",
-                    "name": "ベル＝ヴェス",
-                    "image": "tft16_belveth.tft_set16.png"
-                },
-                {
-                    "id": "ziggs",
-                    "name": "ジグス",
-                    "image": "tft16_ziggs.tft_set16.png"
-                }
-            ],
-            "item_components": []
-        },
-        {
             "stt": 23,
             "id": "luden's_tempest",
             "name": "ルーデン テンペスト",
@@ -2931,8 +2931,57 @@
                 },
                 {
                     "id": "lissandra",
-                    "name": "リサンドラ",
+                    "name": "Lissandra",
                     "image": "tft16_lissandra.tft_set16.png"
+                }
+            ],
+            "item_components": []
+        },
+        {
+            "stt": 26,
+            "id": "gold_collector",
+            "name": "ゴールド コレクター",
+            "image": "TFT4_Item_OrnnTheCollector.png",
+            "description": "通常攻撃とスキルで、体力が最大体力の12%未満の敵にとどめを刺す。とどめを刺すと33%の確率で 1ゴールドがドロップする。\n\n獲得したゴールド: ゴールド\n[重複不可 - チャンピオン1体に1つのみ]",
+            "damage_modifier": [
+                {
+                    "image": "AD.png",
+                    "damage": "+40%"
+                },
+                {
+                    "image": "Crit.png",
+                    "damage": "+20%"
+                }
+            ],
+            "average_position": "3.58",
+            "top_4_rate": "66.95",
+            "top_1_rate": "22.54",
+            "battle": "19,761",
+            "champions": [
+                {
+                    "id": "miss_fortune",
+                    "name": "ミス・フォーチュン",
+                    "image": "tft16_missfortune.tft_set16.png"
+                },
+                {
+                    "id": "lucian_&_senna",
+                    "name": "ルシアン&セナ",
+                    "image": "tft16_lucian.tft_set16.png"
+                },
+                {
+                    "id": "yunara",
+                    "name": "ユナラ",
+                    "image": "tft16_yunara.tft_set16.png"
+                },
+                {
+                    "id": "kalista",
+                    "name": "カリスタ",
+                    "image": "tft16_kalista.tft_set16.png"
+                },
+                {
+                    "id": "kindred",
+                    "name": "キンドレッド",
+                    "image": "tft16_kindred.tft_set16.png"
                 }
             ],
             "item_components": []
@@ -3040,55 +3089,6 @@
             "item_components": []
         },
         {
-            "stt": 26,
-            "id": "gold_collector",
-            "name": "ゴールド コレクター",
-            "image": "TFT4_Item_OrnnTheCollector.png",
-            "description": "通常攻撃とスキルで、体力が最大体力の12%未満の敵にとどめを刺す。とどめを刺すと33%の確率で 1ゴールドがドロップする。\n\n獲得したゴールド: ゴールド\n[重複不可 - チャンピオン1体に1つのみ]",
-            "damage_modifier": [
-                {
-                    "image": "AD.png",
-                    "damage": "+40%"
-                },
-                {
-                    "image": "Crit.png",
-                    "damage": "+20%"
-                }
-            ],
-            "average_position": "3.58",
-            "top_4_rate": "66.95",
-            "top_1_rate": "22.54",
-            "battle": "19,761",
-            "champions": [
-                {
-                    "id": "miss_fortune",
-                    "name": "ミス・フォーチュン",
-                    "image": "tft16_missfortune.tft_set16.png"
-                },
-                {
-                    "id": "lucian_&_senna",
-                    "name": "ルシアン&セナ",
-                    "image": "tft16_lucian.tft_set16.png"
-                },
-                {
-                    "id": "yunara",
-                    "name": "ユナラ",
-                    "image": "tft16_yunara.tft_set16.png"
-                },
-                {
-                    "id": "kalista",
-                    "name": "カリスタ",
-                    "image": "tft16_kalista.tft_set16.png"
-                },
-                {
-                    "id": "kindred",
-                    "name": "キンドレッド",
-                    "image": "tft16_kindred.tft_set16.png"
-                }
-            ],
-            "item_components": []
-        },
-        {
             "stt": 27,
             "id": "hullcrusher",
             "name": "ハルクラッシャー",
@@ -3176,7 +3176,7 @@
                 },
                 {
                     "id": "ziggs",
-                    "name": "ジグス",
+                    "name": "Ziggs",
                     "image": "tft16_ziggs.tft_set16.png"
                 }
             ],
@@ -3429,7 +3429,7 @@
                 },
                 {
                     "id": "singed",
-                    "name": "シンジド",
+                    "name": "Singed",
                     "image": "tft16_singed.tft_set16.png"
                 }
             ],
@@ -3469,7 +3469,7 @@
                 },
                 {
                     "id": "kai'sa",
-                    "name": "カイ＝サ",
+                    "name": "Kai'Sa",
                     "image": "tft16_kaisa.tft_set16.png"
                 },
                 {
@@ -3580,7 +3580,7 @@
                 },
                 {
                     "id": "kai'sa",
-                    "name": "ヴェイン",
+                    "name": "カイ＝サ",
                     "image": "tft16_kaisa.tft_set16.png"
                 }
             ],
@@ -3751,7 +3751,7 @@
                 },
                 {
                     "id": "seraphine",
-                    "name": "セラフィーン",
+                    "name": "Seraphine",
                     "image": "tft16_seraphine.tft_set16.png"
                 }
             ],
@@ -3765,6 +3765,66 @@
                     "id": "tear_of_the_goddess",
                     "name": "女神の涙",
                     "image": "TFT_Item_TearOfTheGoddess.png"
+                }
+            ]
+        },
+        {
+            "stt": 6,
+            "id": "sunfire_cape",
+            "name": "サンファイア ケープ",
+            "image": "TFT_Item_RedBuff.png",
+            "description": "最大体力が8%増加する。\n\n2秒ごとに、2マス以内にいる敵1体に10秒間、1%の燃焼と33%の負傷を付与する。\n\n燃焼: 毎秒、対象の最大体力の一定割合を確定ダメージとして与える\n負傷: 回復効果を低下させる",
+            "damage_modifier": [
+                {
+                    "image": "Armor.png",
+                    "damage": "+20"
+                },
+                {
+                    "image": "Health.png",
+                    "damage": "+150"
+                }
+            ],
+            "average_position": "4.2",
+            "top_4_rate": "55.46",
+            "top_1_rate": "14.84",
+            "battle": "1,134,105",
+            "champions": [
+                {
+                    "id": "wukong",
+                    "name": "ウーコン",
+                    "image": "tft16_wukong.tft_set16.png"
+                },
+                {
+                    "id": "kennen",
+                    "name": "ケネン",
+                    "image": "tft16_kennen.tft_set16.png"
+                },
+                {
+                    "id": "swain",
+                    "name": "スウェイン",
+                    "image": "tft16_swain.tft_set16.png"
+                },
+                {
+                    "id": "garen",
+                    "name": "ガレン",
+                    "image": "tft16_garen.tft_set16.png"
+                },
+                {
+                    "id": "nautilus",
+                    "name": "Nautilus",
+                    "image": "tft16_nautilus.tft_set16.png"
+                }
+            ],
+            "item_components": [
+                {
+                    "id": "chain_vest",
+                    "name": "チェイン ベスト",
+                    "image": "TFT_Item_ChainVest.png"
+                },
+                {
+                    "id": "giant's_belt",
+                    "name": "ジャイアント ベルト",
+                    "image": "TFT_Item_GiantsBelt.png"
                 }
             ]
         },
@@ -3823,8 +3883,64 @@
                 },
                 {
                     "id": "sparring_gloves",
-                    "name": "スパーリング グローブ",
+                    "name": "Sparring Gloves",
                     "image": "TFT_Item_SparringGloves.png"
+                }
+            ]
+        },
+        {
+            "stt": 7,
+            "id": "spirit_visage",
+            "name": "スピリット ビサージュ",
+            "image": "TFT_Item_Redemption.png",
+            "description": "毎秒、減少体力の3%を自動回復する。",
+            "damage_modifier": [
+                {
+                    "image": "Health.png",
+                    "damage": "+300"
+                }
+            ],
+            "average_position": "4.13",
+            "top_4_rate": "57.02",
+            "top_1_rate": "14.98",
+            "battle": "1,119,106",
+            "champions": [
+                {
+                    "id": "wukong",
+                    "name": "ウーコン",
+                    "image": "tft16_wukong.tft_set16.png"
+                },
+                {
+                    "id": "garen",
+                    "name": "ガレン",
+                    "image": "tft16_garen.tft_set16.png"
+                },
+                {
+                    "id": "swain",
+                    "name": "スウェイン",
+                    "image": "tft16_swain.tft_set16.png"
+                },
+                {
+                    "id": "rift_herald",
+                    "name": "Rift Herald",
+                    "image": "tft16_riftherald_splash_tile_0.tft_set16.png"
+                },
+                {
+                    "id": "kennen",
+                    "name": "ケネン",
+                    "image": "tft16_kennen.tft_set16.png"
+                }
+            ],
+            "item_components": [
+                {
+                    "id": "tear_of_the_goddess",
+                    "name": "女神の涙",
+                    "image": "TFT_Item_TearOfTheGoddess.png"
+                },
+                {
+                    "id": "giant's_belt",
+                    "name": "ジャイアント ベルト",
+                    "image": "TFT_Item_GiantsBelt.png"
                 }
             ]
         },
@@ -3889,122 +4005,6 @@
                     "id": "negatron_cloak",
                     "name": "ネガトロン クローク",
                     "image": "TFT_Item_NegatronCloak.png"
-                }
-            ]
-        },
-        {
-            "stt": 6,
-            "id": "sunfire_cape",
-            "name": "サンファイア ケープ",
-            "image": "TFT_Item_RedBuff.png",
-            "description": "最大体力が8%増加する。\n\n2秒ごとに、2マス以内にいる敵1体に10秒間、1%の燃焼と33%の負傷を付与する。\n\n燃焼: 毎秒、対象の最大体力の一定割合を確定ダメージとして与える\n負傷: 回復効果を低下させる",
-            "damage_modifier": [
-                {
-                    "image": "Armor.png",
-                    "damage": "+20"
-                },
-                {
-                    "image": "Health.png",
-                    "damage": "+150"
-                }
-            ],
-            "average_position": "4.2",
-            "top_4_rate": "55.46",
-            "top_1_rate": "14.84",
-            "battle": "1,134,105",
-            "champions": [
-                {
-                    "id": "wukong",
-                    "name": "ウーコン",
-                    "image": "tft16_wukong.tft_set16.png"
-                },
-                {
-                    "id": "kennen",
-                    "name": "ケネン",
-                    "image": "tft16_kennen.tft_set16.png"
-                },
-                {
-                    "id": "swain",
-                    "name": "スウェイン",
-                    "image": "tft16_swain.tft_set16.png"
-                },
-                {
-                    "id": "garen",
-                    "name": "ガレン",
-                    "image": "tft16_garen.tft_set16.png"
-                },
-                {
-                    "id": "nautilus",
-                    "name": "ノーチラス",
-                    "image": "tft16_nautilus.tft_set16.png"
-                }
-            ],
-            "item_components": [
-                {
-                    "id": "chain_vest",
-                    "name": "チェイン ベスト",
-                    "image": "TFT_Item_ChainVest.png"
-                },
-                {
-                    "id": "giant's_belt",
-                    "name": "ジャイアント ベルト",
-                    "image": "TFT_Item_GiantsBelt.png"
-                }
-            ]
-        },
-        {
-            "stt": 7,
-            "id": "spirit_visage",
-            "name": "スピリット ビサージュ",
-            "image": "TFT_Item_Redemption.png",
-            "description": "毎秒、減少体力の3%を自動回復する。",
-            "damage_modifier": [
-                {
-                    "image": "Health.png",
-                    "damage": "+300"
-                }
-            ],
-            "average_position": "4.13",
-            "top_4_rate": "57.02",
-            "top_1_rate": "14.98",
-            "battle": "1,119,106",
-            "champions": [
-                {
-                    "id": "wukong",
-                    "name": "ウーコン",
-                    "image": "tft16_wukong.tft_set16.png"
-                },
-                {
-                    "id": "garen",
-                    "name": "ガレン",
-                    "image": "tft16_garen.tft_set16.png"
-                },
-                {
-                    "id": "swain",
-                    "name": "スウェイン",
-                    "image": "tft16_swain.tft_set16.png"
-                },
-                {
-                    "id": "rift_herald",
-                    "name": "リフトヘラルド",
-                    "image": "tft16_riftherald_splash_tile_0.tft_set16.png"
-                },
-                {
-                    "id": "kennen",
-                    "name": "ケネン",
-                    "image": "tft16_kennen.tft_set16.png"
-                }
-            ],
-            "item_components": [
-                {
-                    "id": "tear_of_the_goddess",
-                    "name": "女神の涙",
-                    "image": "TFT_Item_TearOfTheGoddess.png"
-                },
-                {
-                    "id": "giant's_belt",
-                    "name": "ジャイアント ベルト",
-                    "image": "TFT_Item_GiantsBelt.png"
                 }
             ]
         },
@@ -4123,7 +4123,7 @@
                 },
                 {
                     "id": "giant's_belt",
-                    "name": "ジャイアント ベルト",
+                    "name": "Giant's Belt",
                     "image": "TFT_Item_GiantsBelt.png"
                 }
             ]
@@ -4171,7 +4171,7 @@
                 },
                 {
                     "id": "kindred",
-                    "name": "キンドレッド",
+                    "name": "Kindred",
                     "image": "tft16_kindred.tft_set16.png"
                 }
             ],
@@ -4287,7 +4287,7 @@
                 },
                 {
                     "id": "shyvana",
-                    "name": "シヴァーナ",
+                    "name": "Shyvana",
                     "image": "tft16_shyvana.tft_set16.png"
                 }
             ],
@@ -4355,7 +4355,7 @@
                 },
                 {
                     "id": "negatron_cloak",
-                    "name": "ネガトロン クローク",
+                    "name": "Negatron Cloak",
                     "image": "TFT_Item_NegatronCloak.png"
                 }
             ]
@@ -4471,7 +4471,7 @@
                 },
                 {
                     "id": "needlessly_large_rod",
-                    "name": "ムダニ デカイ ロッド",
+                    "name": "Needlessly Large Rod",
                     "image": "TFT_Item_NeedlesslyLargeRod.png"
                 }
             ]
@@ -4527,8 +4527,68 @@
                 },
                 {
                     "id": "chain_vest",
-                    "name": "チェイン ベスト",
+                    "name": "Chain Vest",
                     "image": "TFT_Item_ChainVest.png"
+                }
+            ]
+        },
+        {
+            "stt": 18,
+            "id": "hextech_gunblade",
+            "name": "ヘクステック ガンブレード",
+            "image": "TFT_Item_HextechGunblade.png",
+            "description": "最も残り体力の割合が低い味方の体力を、与えたダメージの20%分回復する。\n\n味方の回復量:",
+            "damage_modifier": [
+                {
+                    "image": "AD.png",
+                    "damage": "+20%"
+                },
+                {
+                    "image": "AP.png",
+                    "damage": "+20"
+                }
+            ],
+            "average_position": "3.99",
+            "top_4_rate": "59.8",
+            "top_1_rate": "16.21",
+            "battle": "574,639",
+            "champions": [
+                {
+                    "id": "kai'sa",
+                    "name": "カイ＝サ",
+                    "image": "tft16_kaisa.tft_set16.png"
+                },
+                {
+                    "id": "sona",
+                    "name": "ソナ",
+                    "image": "tft16_sona.tft_set16.png"
+                },
+                {
+                    "id": "lux",
+                    "name": "ラックス",
+                    "image": "tft16_lux.tft_set16.png"
+                },
+                {
+                    "id": "ziggs",
+                    "name": "ジグス",
+                    "image": "tft16_ziggs.tft_set16.png"
+                },
+                {
+                    "id": "vayne",
+                    "name": "Vayne",
+                    "image": "tft16_vayne.tft_set16.png"
+                }
+            ],
+            "item_components": [
+                {
+                    "id": "b.f._sword",
+                    "name": "B.F.ソード",
+                    "image": "TFT_Item_BFSword.png"
+                },
+                {
+                    "id": "needlessly_large_rod",
+                    "name": "ムダニ デカイ ロッド",
+                    "image": "TFT_Item_NeedlesslyLargeRod.png"
                 }
             ]
         },
@@ -4579,7 +4639,7 @@
                 },
                 {
                     "id": "kai'sa",
-                    "name": "カイ＝サ",
+                    "name": "Kai'Sa",
                     "image": "tft16_kaisa.tft_set16.png"
                 }
             ],
@@ -4593,66 +4653,6 @@
                     "id": "recurve_bow",
                     "name": "リカーブ ボウ",
                     "image": "TFT_Item_RecurveBow.png"
-                }
-            ]
-        },
-        {
-            "stt": 18,
-            "id": "hextech_gunblade",
-            "name": "ヘクステック ガンブレード",
-            "image": "TFT_Item_HextechGunblade.png",
-            "description": "最も残り体力の割合が低い味方の体力を、与えたダメージの20%分回復する。\n\n味方の回復量:",
-            "damage_modifier": [
-                {
-                    "image": "AD.png",
-                    "damage": "+20%"
-                },
-                {
-                    "image": "AP.png",
-                    "damage": "+20"
-                }
-            ],
-            "average_position": "3.99",
-            "top_4_rate": "59.8",
-            "top_1_rate": "16.21",
-            "battle": "574,639",
-            "champions": [
-                {
-                    "id": "kai'sa",
-                    "name": "カイ＝サ",
-                    "image": "tft16_kaisa.tft_set16.png"
-                },
-                {
-                    "id": "sona",
-                    "name": "ソナ",
-                    "image": "tft16_sona.tft_set16.png"
-                },
-                {
-                    "id": "lux",
-                    "name": "ラックス",
-                    "image": "tft16_lux.tft_set16.png"
-                },
-                {
-                    "id": "ziggs",
-                    "name": "ジグス",
-                    "image": "tft16_ziggs.tft_set16.png"
-                },
-                {
-                    "id": "vayne",
-                    "name": "ヴェイン",
-                    "image": "tft16_vayne.tft_set16.png"
-                }
-            ],
-            "item_components": [
-                {
-                    "id": "b.f._sword",
-                    "name": "B.F.ソード",
-                    "image": "TFT_Item_BFSword.png"
-                },
-                {
-                    "id": "needlessly_large_rod",
-                    "name": "ムダニ デカイ ロッド",
-                    "image": "TFT_Item_NeedlesslyLargeRod.png"
                 }
             ]
         },
@@ -4953,74 +4953,6 @@
             ]
         },
         {
-            "stt": 24,
-            "id": "nashor's_tooth",
-            "name": "ナッシャー トゥース",
-            "image": "TFT_Item_Leviathan.png",
-            "description": "通常攻撃時に2マナを追加で獲得する。クリティカル判定の場合は4に増加する。",
-            "damage_modifier": [
-                {
-                    "image": "AP.png",
-                    "damage": "+15"
-                },
-                {
-                    "image": "AS.png",
-                    "damage": "+10%"
-                },
-                {
-                    "image": "Crit.png",
-                    "damage": "+20%"
-                },
-                {
-                    "image": "Health.png",
-                    "damage": "+150"
-                }
-            ],
-            "average_position": "4.07",
-            "top_4_rate": "58.2",
-            "top_1_rate": "16.09",
-            "battle": "465,150",
-            "champions": [
-                {
-                    "id": "ziggs",
-                    "name": "ジグス",
-                    "image": "tft16_ziggs.tft_set16.png"
-                },
-                {
-                    "id": "lux",
-                    "name": "ラックス",
-                    "image": "tft16_lux.tft_set16.png"
-                },
-                {
-                    "id": "sona",
-                    "name": "ソナ",
-                    "image": "tft16_sona.tft_set16.png"
-                },
-                {
-                    "id": "seraphine",
-                    "name": "セラフィーン",
-                    "image": "tft16_seraphine.tft_set16.png"
-                },
-                {
-                    "id": "ryze",
-                    "name": "ライズ",
-                    "image": "tft16_ryze.tft_set16.png"
-                }
-            ],
-            "item_components": [
-                {
-                    "id": "recurve_bow",
-                    "name": "リカーブ ボウ",
-                    "image": "TFT_Item_RecurveBow.png"
-                },
-                {
-                    "id": "giant's_belt",
-                    "name": "ジャイアント ベルト",
-                    "image": "TFT_Item_GiantsBelt.png"
-                }
-            ]
-        },
-        {
             "stt": 25,
             "id": "evenshroud",
             "name": "イーブンシュラウド",
@@ -5123,7 +5055,7 @@
                 },
                 {
                     "id": "warwick",
-                    "name": "ワーウィック",
+                    "name": "Warwick",
                     "image": "tft16_warwick.tft_set16.png"
                 }
             ],
@@ -5187,7 +5119,7 @@
                 },
                 {
                     "id": "jinx",
-                    "name": "ジンクス",
+                    "name": "Jinx",
                     "image": "tft16_jinx.tft_set16.png"
                 }
             ],
@@ -5201,6 +5133,74 @@
                     "id": "recurve_bow",
                     "name": "リカーブ ボウ",
                     "image": "TFT_Item_RecurveBow.png"
+                }
+            ]
+        },
+        {
+            "stt": 24,
+            "id": "nashor's_tooth",
+            "name": "ナッシャー トゥース",
+            "image": "TFT_Item_Leviathan.png",
+            "description": "通常攻撃時に2マナを追加で獲得する。クリティカル判定の場合は4に増加する。",
+            "damage_modifier": [
+                {
+                    "image": "AP.png",
+                    "damage": "+15"
+                },
+                {
+                    "image": "AS.png",
+                    "damage": "+10%"
+                },
+                {
+                    "image": "Crit.png",
+                    "damage": "+20%"
+                },
+                {
+                    "image": "Health.png",
+                    "damage": "+150"
+                }
+            ],
+            "average_position": "4.07",
+            "top_4_rate": "58.2",
+            "top_1_rate": "16.09",
+            "battle": "465,150",
+            "champions": [
+                {
+                    "id": "ziggs",
+                    "name": "ジグス",
+                    "image": "tft16_ziggs.tft_set16.png"
+                },
+                {
+                    "id": "lux",
+                    "name": "ラックス",
+                    "image": "tft16_lux.tft_set16.png"
+                },
+                {
+                    "id": "sona",
+                    "name": "ソナ",
+                    "image": "tft16_sona.tft_set16.png"
+                },
+                {
+                    "id": "seraphine",
+                    "name": "セラフィーン",
+                    "image": "tft16_seraphine.tft_set16.png"
+                },
+                {
+                    "id": "ryze",
+                    "name": "ライズ",
+                    "image": "tft16_ryze.tft_set16.png"
+                }
+            ],
+            "item_components": [
+                {
+                    "id": "recurve_bow",
+                    "name": "リカーブ ボウ",
+                    "image": "TFT_Item_RecurveBow.png"
+                },
+                {
+                    "id": "giant's_belt",
+                    "name": "ジャイアント ベルト",
+                    "image": "TFT_Item_GiantsBelt.png"
                 }
             ]
         },
@@ -5251,7 +5251,7 @@
                 },
                 {
                     "id": "lucian_&_senna",
-                    "name": "ルシアン&セナ",
+                    "name": "Lucian & Senna",
                     "image": "tft16_lucian.tft_set16.png"
                 }
             ],
@@ -5371,7 +5371,7 @@
                 },
                 {
                     "id": "twisted_fate",
-                    "name": "ラックス",
+                    "name": "ツイステッド・フェイト",
                     "image": "tft16_twistedfate.tft_set16.png"
                 }
             ],
@@ -5383,7 +5383,7 @@
                 },
                 {
                     "id": "recurve_bow",
-                    "name": "リカーブ ボウ",
+                    "name": "Recurve Bow",
                     "image": "TFT_Item_RecurveBow.png"
                 }
             ]
@@ -5443,7 +5443,7 @@
                 },
                 {
                     "id": "tear_of_the_goddess",
-                    "name": "女神の涙",
+                    "name": "Tear of the Goddess",
                     "image": "TFT_Item_TearOfTheGoddess.png"
                 }
             ]
@@ -5747,7 +5747,7 @@
                 },
                 {
                     "id": "vayne",
-                    "name": "ヴェイン",
+                    "name": "Vayne",
                     "image": "tft16_vayne.tft_set16.png"
                 }
             ],
@@ -5759,7 +5759,7 @@
                 },
                 {
                     "id": "b.f._sword",
-                    "name": "B.F.ソード",
+                    "name": "B.F. Sword",
                     "image": "TFT_Item_BFSword.png"
                 }
             ]
@@ -5798,7 +5798,7 @@
                 },
                 {
                     "id": "kindred",
-                    "name": "キンドレッド",
+                    "name": "Kindred",
                     "image": "tft16_kindred.tft_set16.png"
                 }
             ],
@@ -5810,7 +5810,7 @@
                 },
                 {
                     "id": "spatula",
-                    "name": "へら",
+                    "name": "Spatula",
                     "image": "TFT_Item_Spatula.png"
                 }
             ]
@@ -5849,7 +5849,7 @@
                 },
                 {
                     "id": "taric",
-                    "name": "タリック",
+                    "name": "Taric",
                     "image": "tft16_taric.tft_set16.png"
                 }
             ],
@@ -5900,7 +5900,7 @@
                 },
                 {
                     "id": "swain",
-                    "name": "スウェイン",
+                    "name": "Swain",
                     "image": "tft16_swain.tft_set16.png"
                 }
             ],
@@ -5912,7 +5912,7 @@
                 },
                 {
                     "id": "frying_pan",
-                    "name": "フライパン",
+                    "name": "Frying Pan",
                     "image": "TFT_Item_FryingPan.png"
                 }
             ]
@@ -6009,7 +6009,7 @@
                 },
                 {
                     "id": "gangplank",
-                    "name": "ガングプランク",
+                    "name": "ウーコン",
                     "image": "tft16_gangplank.tft_set16.png"
                 }
             ],
@@ -6111,7 +6111,7 @@
                 },
                 {
                     "id": "fizz",
-                    "name": "フィズ",
+                    "name": "オーン",
                     "image": "tft16_fizz.tft_set16.png"
                 }
             ],
@@ -6351,12 +6351,12 @@
                 },
                 {
                     "id": "yunara",
-                    "name": "ユナラ",
+                    "name": "アフェリオス",
                     "image": "tft16_yunara.tft_set16.png"
                 },
                 {
                     "id": "aphelios",
-                    "name": "アフェリオス",
+                    "name": "ユナラ",
                     "image": "tft16_aphelios.tft_set16.png"
                 }
             ],
@@ -6584,62 +6584,6 @@
             ]
         },
         {
-            "stt": 5,
-            "id": "noxus_emblem",
-            "name": "ノクサスの紋章",
-            "image": "TFT16_Item_NoxusEmblemItem.png",
-            "description": "装備者が「ノクサス」の特性を獲得する。",
-            "damage_modifier": [
-                {
-                    "image": "AD.png",
-                    "damage": "+10%"
-                }
-            ],
-            "average_position": "4.39",
-            "top_4_rate": "50.2",
-            "top_1_rate": "16.69",
-            "battle": "69,342",
-            "champions": [
-                {
-                    "id": "kindred",
-                    "name": "キンドレッド",
-                    "image": "tft16_kindred.tft_set16.png"
-                },
-                {
-                    "id": "fiddlesticks",
-                    "name": "フィドルスティックス",
-                    "image": "tft16_fiddlesticks.tft_set16.png"
-                },
-                {
-                    "id": "shyvana",
-                    "name": "シヴァーナ",
-                    "image": "tft16_shyvana.tft_set16.png"
-                },
-                {
-                    "id": "azir",
-                    "name": "アジール",
-                    "image": "tft16_azir.tft_set16.png"
-                },
-                {
-                    "id": "kobuko_&_yuumi",
-                    "name": "コブコ&ユーミ",
-                    "image": "tft16_kobuko.tft_set16.png"
-                }
-            ],
-            "item_components": [
-                {
-                    "id": "spatula",
-                    "name": "へら",
-                    "image": "TFT_Item_Spatula.png"
-                },
-                {
-                    "id": "b.f._sword",
-                    "name": "B.F.ソード",
-                    "image": "TFT_Item_BFSword.png"
-                }
-            ]
-        },
-        {
             "stt": 6,
             "id": "ionia_emblem",
             "name": "アイオニアの紋章",
@@ -6692,6 +6636,62 @@
                     "id": "needlessly_large_rod",
                     "name": "ムダニ デカイ ロッド",
                     "image": "TFT_Item_NeedlesslyLargeRod.png"
+                }
+            ]
+        },
+        {
+            "stt": 5,
+            "id": "noxus_emblem",
+            "name": "ノクサスの紋章",
+            "image": "TFT16_Item_NoxusEmblemItem.png",
+            "description": "装備者が「ノクサス」の特性を獲得する。",
+            "damage_modifier": [
+                {
+                    "image": "AD.png",
+                    "damage": "+10%"
+                }
+            ],
+            "average_position": "4.39",
+            "top_4_rate": "50.2",
+            "top_1_rate": "16.69",
+            "battle": "69,342",
+            "champions": [
+                {
+                    "id": "kindred",
+                    "name": "キンドレッド",
+                    "image": "tft16_kindred.tft_set16.png"
+                },
+                {
+                    "id": "fiddlesticks",
+                    "name": "フィドルスティックス",
+                    "image": "tft16_fiddlesticks.tft_set16.png"
+                },
+                {
+                    "id": "shyvana",
+                    "name": "シヴァーナ",
+                    "image": "tft16_shyvana.tft_set16.png"
+                },
+                {
+                    "id": "azir",
+                    "name": "アジール",
+                    "image": "tft16_azir.tft_set16.png"
+                },
+                {
+                    "id": "kobuko_&_yuumi",
+                    "name": "コブコ&ユーミ",
+                    "image": "tft16_kobuko.tft_set16.png"
+                }
+            ],
+            "item_components": [
+                {
+                    "id": "spatula",
+                    "name": "へら",
+                    "image": "TFT_Item_Spatula.png"
+                },
+                {
+                    "id": "b.f._sword",
+                    "name": "B.F.ソード",
+                    "image": "TFT_Item_BFSword.png"
                 }
             ]
         },
@@ -6864,6 +6864,118 @@
             ]
         },
         {
+            "stt": 12,
+            "id": "vanquisher_emblem",
+            "name": "ヴァンキッシャーの紋章",
+            "image": "TFT16_Item_VanquisherEmblemItem.png",
+            "description": "装備者が「ヴァンキッシャー」の特性を獲得し、クリティカル時に2%の確率で1ゴールドをドロップする。\n\nクールダウン: 0.75秒\nこの試合で生成されたゴールド: ?",
+            "damage_modifier": [
+                {
+                    "image": "Crit.png",
+                    "damage": "+20%"
+                }
+            ],
+            "average_position": "4.07",
+            "top_4_rate": "57.39",
+            "top_1_rate": "17.51",
+            "battle": "47,851",
+            "champions": [
+                {
+                    "id": "bel'veth",
+                    "name": "ベル＝ヴェス",
+                    "image": "tft16_belveth.tft_set16.png"
+                },
+                {
+                    "id": "miss_fortune",
+                    "name": "ミス・フォーチュン",
+                    "image": "tft16_missfortune.tft_set16.png"
+                },
+                {
+                    "id": "thresh",
+                    "name": "スレッシュ",
+                    "image": "tft16_thresh.tft_set16.png"
+                },
+                {
+                    "id": "lucian_&_senna",
+                    "name": "ルシアン&セナ",
+                    "image": "tft16_lucian.tft_set16.png"
+                },
+                {
+                    "id": "kindred",
+                    "name": "Kindred",
+                    "image": "tft16_kindred.tft_set16.png"
+                }
+            ],
+            "item_components": [
+                {
+                    "id": "frying_pan",
+                    "name": "フライパン",
+                    "image": "TFT_Item_FryingPan.png"
+                },
+                {
+                    "id": "sparring_gloves",
+                    "name": "スパーリング グローブ",
+                    "image": "TFT_Item_SparringGloves.png"
+                }
+            ]
+        },
+        {
+            "stt": 11,
+            "id": "juggernaut_emblem",
+            "name": "ジャガーノートの紋章",
+            "image": "TFT16_Item_JuggernautEmblemItem.png",
+            "description": "装備者が「ジャガーノート」の特性を獲得し、自分以外のジャガーノートが倒された時にその最大体力の10%を獲得する。",
+            "damage_modifier": [
+                {
+                    "image": "MR.png",
+                    "damage": "+20"
+                }
+            ],
+            "average_position": "4.03",
+            "top_4_rate": "58.64",
+            "top_1_rate": "17.05",
+            "battle": "49,514",
+            "champions": [
+                {
+                    "id": "rift_herald",
+                    "name": "リフトヘラルド",
+                    "image": "tft16_riftherald_splash_tile_0.tft_set16.png"
+                },
+                {
+                    "id": "garen",
+                    "name": "ガレン",
+                    "image": "tft16_garen.tft_set16.png"
+                },
+                {
+                    "id": "taric",
+                    "name": "タリック",
+                    "image": "tft16_taric.tft_set16.png"
+                },
+                {
+                    "id": "wukong",
+                    "name": "Wukong",
+                    "image": "tft16_wukong.tft_set16.png"
+                },
+                {
+                    "id": "tahm_kench",
+                    "name": "タム・ケンチ",
+                    "image": "tft16_tahmkench.tft_set16.png"
+                }
+            ],
+            "item_components": [
+                {
+                    "id": "frying_pan",
+                    "name": "フライパン",
+                    "image": "TFT_Item_FryingPan.png"
+                },
+                {
+                    "id": "negatron_cloak",
+                    "name": "ネガトロン クローク",
+                    "image": "TFT_Item_NegatronCloak.png"
+                }
+            ]
+        },
+        {
             "stt": 10,
             "id": "quickstriker_emblem",
             "name": "韋駄天の紋章",
@@ -6920,118 +7032,6 @@
             ]
         },
         {
-            "stt": 11,
-            "id": "juggernaut_emblem",
-            "name": "ジャガーノートの紋章",
-            "image": "TFT16_Item_JuggernautEmblemItem.png",
-            "description": "装備者が「ジャガーノート」の特性を獲得し、自分以外のジャガーノートが倒された時にその最大体力の10%を獲得する。",
-            "damage_modifier": [
-                {
-                    "image": "MR.png",
-                    "damage": "+20"
-                }
-            ],
-            "average_position": "4.03",
-            "top_4_rate": "58.64",
-            "top_1_rate": "17.05",
-            "battle": "49,514",
-            "champions": [
-                {
-                    "id": "rift_herald",
-                    "name": "リフトヘラルド",
-                    "image": "tft16_riftherald_splash_tile_0.tft_set16.png"
-                },
-                {
-                    "id": "garen",
-                    "name": "ガレン",
-                    "image": "tft16_garen.tft_set16.png"
-                },
-                {
-                    "id": "taric",
-                    "name": "タリック",
-                    "image": "tft16_taric.tft_set16.png"
-                },
-                {
-                    "id": "wukong",
-                    "name": "ウーコン",
-                    "image": "tft16_wukong.tft_set16.png"
-                },
-                {
-                    "id": "tahm_kench",
-                    "name": "タム・ケンチ",
-                    "image": "tft16_tahmkench.tft_set16.png"
-                }
-            ],
-            "item_components": [
-                {
-                    "id": "frying_pan",
-                    "name": "フライパン",
-                    "image": "TFT_Item_FryingPan.png"
-                },
-                {
-                    "id": "negatron_cloak",
-                    "name": "ネガトロン クローク",
-                    "image": "TFT_Item_NegatronCloak.png"
-                }
-            ]
-        },
-        {
-            "stt": 12,
-            "id": "vanquisher_emblem",
-            "name": "ヴァンキッシャーの紋章",
-            "image": "TFT16_Item_VanquisherEmblemItem.png",
-            "description": "装備者が「ヴァンキッシャー」の特性を獲得し、クリティカル時に2%の確率で1ゴールドをドロップする。\n\nクールダウン: 0.75秒\nこの試合で生成されたゴールド: ?",
-            "damage_modifier": [
-                {
-                    "image": "Crit.png",
-                    "damage": "+20%"
-                }
-            ],
-            "average_position": "4.07",
-            "top_4_rate": "57.39",
-            "top_1_rate": "17.51",
-            "battle": "47,851",
-            "champions": [
-                {
-                    "id": "bel'veth",
-                    "name": "ベル＝ヴェス",
-                    "image": "tft16_belveth.tft_set16.png"
-                },
-                {
-                    "id": "miss_fortune",
-                    "name": "ミス・フォーチュン",
-                    "image": "tft16_missfortune.tft_set16.png"
-                },
-                {
-                    "id": "thresh",
-                    "name": "スレッシュ",
-                    "image": "tft16_thresh.tft_set16.png"
-                },
-                {
-                    "id": "lucian_&_senna",
-                    "name": "ルシアン&セナ",
-                    "image": "tft16_lucian.tft_set16.png"
-                },
-                {
-                    "id": "kindred",
-                    "name": "キンドレッド",
-                    "image": "tft16_kindred.tft_set16.png"
-                }
-            ],
-            "item_components": [
-                {
-                    "id": "frying_pan",
-                    "name": "フライパン",
-                    "image": "TFT_Item_FryingPan.png"
-                },
-                {
-                    "id": "sparring_gloves",
-                    "name": "スパーリング グローブ",
-                    "image": "TFT_Item_SparringGloves.png"
-                }
-            ]
-        },
-        {
             "stt": 13,
             "id": "invoker_emblem",
             "name": "インヴォーカーの紋章",
@@ -7060,7 +7060,7 @@
                 },
                 {
                     "id": "ziggs",
-                    "name": "ジグス",
+                    "name": "Ziggs",
                     "image": "tft16_ziggs.tft_set16.png"
                 },
                 {
@@ -7469,7 +7469,7 @@
                 },
                 {
                     "id": "vi",
-                    "name": "ヴァイ",
+                    "name": "Vi",
                     "image": "tft16_vi.tft_set16.png"
                 }
             ],
@@ -7743,6 +7743,51 @@
             "item_components": []
         },
         {
+            "stt": 7,
+            "id": "negatron_cloak",
+            "name": "ネガトロン クローク",
+            "image": "TFT_Item_NegatronCloak.png",
+            "description": "魔法防御 +20",
+            "damage_modifier": [
+                {
+                    "image": "MR.png",
+                    "damage": "+20"
+                }
+            ],
+            "average_position": "4.68",
+            "top_4_rate": "47.33",
+            "top_1_rate": "11.78",
+            "battle": "107,858",
+            "champions": [
+                {
+                    "id": "swain",
+                    "name": "スウェイン",
+                    "image": "tft16_swain.tft_set16.png"
+                },
+                {
+                    "id": "taric",
+                    "name": "タリック",
+                    "image": "tft16_taric.tft_set16.png"
+                },
+                {
+                    "id": "wukong",
+                    "name": "ウーコン",
+                    "image": "tft16_wukong.tft_set16.png"
+                },
+                {
+                    "id": "kennen",
+                    "name": "ケネン",
+                    "image": "tft16_kennen.tft_set16.png"
+                },
+                {
+                    "id": "galio",
+                    "name": "Galio",
+                    "image": "tft16_galio.tft_set16.png"
+                }
+            ],
+            "item_components": []
+        },
+        {
             "stt": 6,
             "id": "b.f._sword",
             "name": "B.F.ソード",
@@ -7783,51 +7828,6 @@
                     "id": "vayne",
                     "name": "ヴェイン",
                     "image": "tft16_vayne.tft_set16.png"
-                }
-            ],
-            "item_components": []
-        },
-        {
-            "stt": 7,
-            "id": "negatron_cloak",
-            "name": "ネガトロン クローク",
-            "image": "TFT_Item_NegatronCloak.png",
-            "description": "魔法防御 +20",
-            "damage_modifier": [
-                {
-                    "image": "MR.png",
-                    "damage": "+20"
-                }
-            ],
-            "average_position": "4.68",
-            "top_4_rate": "47.33",
-            "top_1_rate": "11.78",
-            "battle": "107,858",
-            "champions": [
-                {
-                    "id": "swain",
-                    "name": "スウェイン",
-                    "image": "tft16_swain.tft_set16.png"
-                },
-                {
-                    "id": "taric",
-                    "name": "タリック",
-                    "image": "tft16_taric.tft_set16.png"
-                },
-                {
-                    "id": "wukong",
-                    "name": "ウーコン",
-                    "image": "tft16_wukong.tft_set16.png"
-                },
-                {
-                    "id": "kennen",
-                    "name": "ケネン",
-                    "image": "tft16_kennen.tft_set16.png"
-                },
-                {
-                    "id": "galio",
-                    "name": "ガリオ",
-                    "image": "tft16_galio.tft_set16.png"
                 }
             ],
             "item_components": []

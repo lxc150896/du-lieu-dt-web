@@ -8646,104 +8646,6 @@
         "item_components": []
       },
       {
-        "stt": 4,
-        "id": "radiant_warmog's_armor",
-        "name": "Giáp Máu Warmog Ánh Sáng",
-        "image": "TFT5_Item_WarmogsArmorRadiant.png",
-        "description": "Nhận 33% Máu tối đa.",
-        "damage_modifier": [
-          {
-            "image": "Health.png",
-            "damage": "+1200"
-          }
-        ],
-        "average_position": "4.39",
-        "top_4_rate": "51.26",
-        "top_1_rate": "14.59",
-        "battle": "8,299",
-        "champions": [
-          {
-            "id": "garen",
-            "name": "Garen",
-            "image": "tft16_garen.tft_set16.png"
-          },
-          {
-            "id": "wukong",
-            "name": "Ngộ Không",
-            "image": "tft16_wukong.tft_set16.png"
-          },
-          {
-            "id": "kennen",
-            "name": "Kennen",
-            "image": "tft16_kennen.tft_set16.png"
-          },
-          {
-            "id": "swain",
-            "name": "Swain",
-            "image": "tft16_swain.tft_set16.png"
-          },
-          {
-            "id": "rift_herald",
-            "name": "Sion",
-            "image": "tft16_riftherald_splash_tile_0.tft_set16.png"
-          }
-        ],
-        "item_components": []
-      },
-      {
-        "stt": 5,
-        "id": "radiant_bloodthirster",
-        "name": "Huyết Kiếm Ánh Sáng",
-        "image": "TFT5_Item_BloodthirsterRadiant.png",
-        "description": "Một lần mỗi giao tranh: Khi còn 40% Máu, nhận Lá Chắn bằng 50% Máu tối đa, duy trì trong 5 giây.",
-        "damage_modifier": [
-          {
-            "image": "AD.png",
-            "damage": "+30%"
-          },
-          {
-            "image": "AP.png",
-            "damage": "+30"
-          },
-          {
-            "image": "MR.png",
-            "damage": "+40"
-          }
-        ],
-        "average_position": "3.87",
-        "top_4_rate": "61.61",
-        "top_1_rate": "19.74",
-        "battle": "8,051",
-        "champions": [
-          {
-            "id": "brock",
-            "name": "Ekko",
-            "image": "tft16_brock_splash_tile_0.tft_set16.png"
-          },
-          {
-            "id": "ekko",
-            "name": "Brock",
-            "image": "tft16_ekko.tft_set16.png"
-          },
-          {
-            "id": "sett",
-            "name": "Sett",
-            "image": "tft16_sett.tft_set16.png"
-          },
-          {
-            "id": "fizz",
-            "name": "Fizz",
-            "image": "tft16_fizz.tft_set16.png"
-          },
-          {
-            "id": "ambessa",
-            "name": "Ambessa",
-            "image": "tft16_ambessa.tft_set16.png"
-          }
-        ],
-        "item_components": []
-      },
-      {
         "stt": 6,
         "id": "radiant_spirit_visage",
         "name": "Giáp Tâm Linh Ánh Sáng",
@@ -8784,6 +8686,104 @@
             "id": "sion",
             "name": "Sion",
             "image": "tft16_sion.tft_set16.png"
+          }
+        ],
+        "item_components": []
+      },
+      {
+        "stt": 5,
+        "id": "radiant_bloodthirster",
+        "name": "Huyết Kiếm Ánh Sáng",
+        "image": "TFT5_Item_BloodthirsterRadiant.png",
+        "description": "Một lần mỗi giao tranh: Khi còn 40% Máu, nhận Lá Chắn bằng 50% Máu tối đa, duy trì trong 5 giây.",
+        "damage_modifier": [
+          {
+            "image": "AD.png",
+            "damage": "+30%"
+          },
+          {
+            "image": "AP.png",
+            "damage": "+30"
+          },
+          {
+            "image": "MR.png",
+            "damage": "+40"
+          }
+        ],
+        "average_position": "3.87",
+        "top_4_rate": "61.61",
+        "top_1_rate": "19.74",
+        "battle": "8,051",
+        "champions": [
+          {
+            "id": "brock",
+            "name": "Brock",
+            "image": "tft16_brock_splash_tile_0.tft_set16.png"
+          },
+          {
+            "id": "ekko",
+            "name": "Ekko",
+            "image": "tft16_ekko.tft_set16.png"
+          },
+          {
+            "id": "sett",
+            "name": "Sett",
+            "image": "tft16_sett.tft_set16.png"
+          },
+          {
+            "id": "fizz",
+            "name": "Fizz",
+            "image": "tft16_fizz.tft_set16.png"
+          },
+          {
+            "id": "ambessa",
+            "name": "Ambessa",
+            "image": "tft16_ambessa.tft_set16.png"
+          }
+        ],
+        "item_components": []
+      },
+      {
+        "stt": 4,
+        "id": "radiant_warmog's_armor",
+        "name": "Giáp Máu Warmog Ánh Sáng",
+        "image": "TFT5_Item_WarmogsArmorRadiant.png",
+        "description": "Nhận 33% Máu tối đa.",
+        "damage_modifier": [
+          {
+            "image": "Health.png",
+            "damage": "+1200"
+          }
+        ],
+        "average_position": "4.39",
+        "top_4_rate": "51.26",
+        "top_1_rate": "14.59",
+        "battle": "8,299",
+        "champions": [
+          {
+            "id": "garen",
+            "name": "Garen",
+            "image": "tft16_garen.tft_set16.png"
+          },
+          {
+            "id": "wukong",
+            "name": "Ngộ Không",
+            "image": "tft16_wukong.tft_set16.png"
+          },
+          {
+            "id": "kennen",
+            "name": "Kennen",
+            "image": "tft16_kennen.tft_set16.png"
+          },
+          {
+            "id": "swain",
+            "name": "Swain",
+            "image": "tft16_swain.tft_set16.png"
+          },
+          {
+            "id": "rift_herald",
+            "name": "Rift Herald",
+            "image": "tft16_riftherald_splash_tile_0.tft_set16.png"
           }
         ],
         "item_components": []
@@ -9226,55 +9226,6 @@
         "item_components": []
       },
       {
-        "stt": 16,
-        "id": "radiant_blue_buff",
-        "name": "Bùa Xanh Ánh Sáng",
-        "image": "TFT5_Item_BlueBuffRadiant.png",
-        "description": "Nhận thêm 20% Sức Mạnh Công Kích và Sức Mạnh Phép Thuật từ mọi nguồn.",
-        "damage_modifier": [
-          {
-            "image": "AD.png",
-            "damage": "+30%"
-          },
-          {
-            "image": "AP.png",
-            "damage": "+30"
-          }
-        ],
-        "average_position": "3.99",
-        "top_4_rate": "58.5",
-        "top_1_rate": "19.96",
-        "battle": "5,325",
-        "champions": [
-          {
-            "id": "veigar",
-            "name": "Veigar",
-            "image": "tft16_veigar.tft_set16.png"
-          },
-          {
-            "id": "lux",
-            "name": "Lux",
-            "image": "tft16_lux.tft_set16.png"
-          },
-          {
-            "id": "sona",
-            "name": "Sona",
-            "image": "tft16_sona.tft_set16.png"
-          },
-          {
-            "id": "mel",
-            "name": "Mel",
-            "image": "tft16_mel.tft_set16.png"
-          },
-          {
-            "id": "sett",
-            "name": "Sett",
-            "image": "tft16_sett.tft_set16.png"
-          }
-        ],
-        "item_components": []
-      },
-      {
         "stt": 17,
         "id": "radiant_void_staff",
         "name": "Trượng Hư Vô Ánh Sáng",
@@ -9324,58 +9275,50 @@
         "item_components": []
       },
       {
-        "stt": 18,
-        "id": "radiant_nashor's_tooth",
-        "name": "Nanh Nashor Ánh Sáng",
-        "image": "TFT5_Item_LeviathanRadiant.png",
-        "description": "Các đòn đánh giúp hồi lại 4 Năng Lượng, tăng lên 8 nếu là đòn chí mạng.",
+        "stt": 16,
+        "id": "radiant_blue_buff",
+        "name": "Bùa Xanh Ánh Sáng",
+        "image": "TFT5_Item_BlueBuffRadiant.png",
+        "description": "Nhận thêm 20% Sức Mạnh Công Kích và Sức Mạnh Phép Thuật từ mọi nguồn.",
         "damage_modifier": [
+          {
+            "image": "AD.png",
+            "damage": "+30%"
+          },
           {
             "image": "AP.png",
             "damage": "+30"
-          },
-          {
-            "image": "AS.png",
-            "damage": "+20%"
-          },
-          {
-            "image": "Crit.png",
-            "damage": "+40%"
-          },
-          {
-            "image": "Health.png",
-            "damage": "+300"
           }
         ],
-        "average_position": "3.92",
-        "top_4_rate": "60.49",
-        "top_1_rate": "20.23",
-        "battle": "5,027",
+        "average_position": "3.99",
+        "top_4_rate": "58.5",
+        "top_1_rate": "19.96",
+        "battle": "5,325",
         "champions": [
           {
-            "id": "ziggs",
-            "name": "Ziggs",
-            "image": "tft16_ziggs.tft_set16.png"
+            "id": "veigar",
+            "name": "Veigar",
+            "image": "tft16_veigar.tft_set16.png"
           },
           {
             "id": "lux",
-            "name": "Sona",
+            "name": "Lux",
             "image": "tft16_lux.tft_set16.png"
           },
           {
             "id": "sona",
-            "name": "Lux",
+            "name": "Sona",
             "image": "tft16_sona.tft_set16.png"
+          },
+          {
+            "id": "mel",
+            "name": "Mel",
+            "image": "tft16_mel.tft_set16.png"
           },
           {
             "id": "sett",
             "name": "Sett",
             "image": "tft16_sett.tft_set16.png"
-          },
-          {
-            "id": "fizz",
-            "name": "Fizz",
-            "image": "tft16_fizz.tft_set16.png"
           }
         ],
         "item_components": []
@@ -9467,12 +9410,69 @@
           },
           {
             "id": "yunara",
-            "name": "Fizz",
+            "name": "Yunara",
             "image": "tft16_yunara.tft_set16.png"
           },
           {
             "id": "fizz",
-            "name": "Yunara",
+            "name": "Fizz",
+            "image": "tft16_fizz.tft_set16.png"
+          }
+        ],
+        "item_components": []
+      },
+      {
+        "stt": 18,
+        "id": "radiant_nashor's_tooth",
+        "name": "Nanh Nashor Ánh Sáng",
+        "image": "TFT5_Item_LeviathanRadiant.png",
+        "description": "Các đòn đánh giúp hồi lại 4 Năng Lượng, tăng lên 8 nếu là đòn chí mạng.",
+        "damage_modifier": [
+          {
+            "image": "AP.png",
+            "damage": "+30"
+          },
+          {
+            "image": "AS.png",
+            "damage": "+20%"
+          },
+          {
+            "image": "Crit.png",
+            "damage": "+40%"
+          },
+          {
+            "image": "Health.png",
+            "damage": "+300"
+          }
+        ],
+        "average_position": "3.92",
+        "top_4_rate": "60.49",
+        "top_1_rate": "20.23",
+        "battle": "5,027",
+        "champions": [
+          {
+            "id": "ziggs",
+            "name": "Ziggs",
+            "image": "tft16_ziggs.tft_set16.png"
+          },
+          {
+            "id": "lux",
+            "name": "Lux",
+            "image": "tft16_lux.tft_set16.png"
+          },
+          {
+            "id": "sona",
+            "name": "Sona",
+            "image": "tft16_sona.tft_set16.png"
+          },
+          {
+            "id": "sett",
+            "name": "Sett",
+            "image": "tft16_sett.tft_set16.png"
+          },
+          {
+            "id": "fizz",
+            "name": "Fizz",
             "image": "tft16_fizz.tft_set16.png"
           }
         ],
@@ -9523,6 +9523,55 @@
             "id": "gangplank",
             "name": "Gangplank",
             "image": "tft16_gangplank.tft_set16.png"
+          }
+        ],
+        "item_components": []
+      },
+      {
+        "stt": 24,
+        "id": "radiant_sunfire_cape",
+        "name": "Áo Choàng Lửa Ánh Sáng",
+        "image": "TFT5_Item_SunfireCapeRadiant.png",
+        "description": "Nhận 16% Máu tối đa.\n\nMỗi 2 giây, gây 2% Thiêu Đốt và 33% Vết Thương Sâu lên 1 kẻ địch trong phạm vi 2 ô trong 10 giây.\n\nThiêu Đốt: Gây sát thương chuẩn mỗi giây theo Máu tối đa của mục tiêu\nVết Thương Sâu: Giảm hồi máu nhận được",
+        "damage_modifier": [
+          {
+            "image": "Armor.png",
+            "damage": "+40"
+          },
+          {
+            "image": "Health.png",
+            "damage": "+300"
+          }
+        ],
+        "average_position": "4.12",
+        "top_4_rate": "56.31",
+        "top_1_rate": "18.23",
+        "battle": "4,285",
+        "champions": [
+          {
+            "id": "wukong",
+            "name": "Ngộ Không",
+            "image": "tft16_wukong.tft_set16.png"
+          },
+          {
+            "id": "garen",
+            "name": "Garen",
+            "image": "tft16_garen.tft_set16.png"
+          },
+          {
+            "id": "swain",
+            "name": "Swain",
+            "image": "tft16_swain.tft_set16.png"
+          },
+          {
+            "id": "kennen",
+            "name": "Kennen",
+            "image": "tft16_kennen.tft_set16.png"
+          },
+          {
+            "id": "sion",
+            "name": "Sion",
+            "image": "tft16_sion.tft_set16.png"
           }
         ],
         "item_components": []
@@ -9626,55 +9675,6 @@
         "item_components": []
       },
       {
-        "stt": 24,
-        "id": "radiant_sunfire_cape",
-        "name": "Áo Choàng Lửa Ánh Sáng",
-        "image": "TFT5_Item_SunfireCapeRadiant.png",
-        "description": "Nhận 16% Máu tối đa.\n\nMỗi 2 giây, gây 2% Thiêu Đốt và 33% Vết Thương Sâu lên 1 kẻ địch trong phạm vi 2 ô trong 10 giây.\n\nThiêu Đốt: Gây sát thương chuẩn mỗi giây theo Máu tối đa của mục tiêu\nVết Thương Sâu: Giảm hồi máu nhận được",
-        "damage_modifier": [
-          {
-            "image": "Armor.png",
-            "damage": "+40"
-          },
-          {
-            "image": "Health.png",
-            "damage": "+300"
-          }
-        ],
-        "average_position": "4.12",
-        "top_4_rate": "56.31",
-        "top_1_rate": "18.23",
-        "battle": "4,285",
-        "champions": [
-          {
-            "id": "wukong",
-            "name": "Ngộ Không",
-            "image": "tft16_wukong.tft_set16.png"
-          },
-          {
-            "id": "garen",
-            "name": "Garen",
-            "image": "tft16_garen.tft_set16.png"
-          },
-          {
-            "id": "swain",
-            "name": "Swain",
-            "image": "tft16_swain.tft_set16.png"
-          },
-          {
-            "id": "kennen",
-            "name": "Kennen",
-            "image": "tft16_kennen.tft_set16.png"
-          },
-          {
-            "id": "sion",
-            "name": "Sion",
-            "image": "tft16_sion.tft_set16.png"
-          }
-        ],
-        "item_components": []
-      },
-      {
         "stt": 25,
         "id": "radiant_deathblade",
         "name": "Kiếm Tử Thần Ánh Sáng",
@@ -9713,7 +9713,7 @@
           },
           {
             "id": "sett",
-            "name": "Lucian & Senna",
+            "name": "Sett",
             "image": "tft16_sett.tft_set16.png"
           }
         ],
@@ -9753,12 +9753,12 @@
           },
           {
             "id": "brock",
-            "name": "Annie",
+            "name": "Brock",
             "image": "tft16_brock_splash_tile_0.tft_set16.png"
           },
           {
             "id": "annie",
-            "name": "Brock",
+            "name": "Annie",
             "image": "tft16_annie.tft_set16.png"
           }
         ],
@@ -9811,7 +9811,7 @@
           },
           {
             "id": "neeko",
-            "name": "Kennen",
+            "name": "Neeko",
             "image": "tft16_neeko.tft_set16.png"
           }
         ],
@@ -9855,13 +9855,66 @@
           },
           {
             "id": "sett",
-            "name": "Thresh",
+            "name": "Sett",
             "image": "tft16_sett.tft_set16.png"
           },
           {
             "id": "thresh",
-            "name": "Sett",
+            "name": "Thresh",
             "image": "tft16_thresh.tft_set16.png"
+          }
+        ],
+        "item_components": []
+      },
+      {
+        "stt": 31,
+        "id": "radiant_ionic_spark",
+        "name": "Nỏ Sét Ánh Sáng",
+        "image": "TFT5_Item_IonicSparkRadiant.png",
+        "description": "30% Cào Xé kẻ địch trong vòng 2 ô. Khi kẻ địch sử dụng Kỹ Năng, gây sát thương phép tương đương 300% Năng Lượng đã tiêu hao.\n\n[Sát thương trực tiếp từ trang bị]\nCào Xé: Giảm Kháng Phép",
+        "damage_modifier": [
+          {
+            "image": "AP.png",
+            "damage": "+30"
+          },
+          {
+            "image": "Health.png",
+            "damage": "+500"
+          },
+          {
+            "image": "MR.png",
+            "damage": "+70"
+          }
+        ],
+        "average_position": "4.1",
+        "top_4_rate": "56.58",
+        "top_1_rate": "18.96",
+        "battle": "2,653",
+        "champions": [
+          {
+            "id": "swain",
+            "name": "Swain",
+            "image": "tft16_swain.tft_set16.png"
+          },
+          {
+            "id": "kennen",
+            "name": "Kennen",
+            "image": "tft16_kennen.tft_set16.png"
+          },
+          {
+            "id": "sett",
+            "name": "Sett",
+            "image": "tft16_sett.tft_set16.png"
+          },
+          {
+            "id": "fizz",
+            "name": "Fizz",
+            "image": "tft16_fizz.tft_set16.png"
+          },
+          {
+            "id": "singed",
+            "name": "Singed",
+            "image": "tft16_singed.tft_set16.png"
           }
         ],
         "item_components": []
@@ -9965,59 +10018,6 @@
         "item_components": []
       },
       {
-        "stt": 31,
-        "id": "radiant_ionic_spark",
-        "name": "Nỏ Sét Ánh Sáng",
-        "image": "TFT5_Item_IonicSparkRadiant.png",
-        "description": "30% Cào Xé kẻ địch trong vòng 2 ô. Khi kẻ địch sử dụng Kỹ Năng, gây sát thương phép tương đương 300% Năng Lượng đã tiêu hao.\n\n[Sát thương trực tiếp từ trang bị]\nCào Xé: Giảm Kháng Phép",
-        "damage_modifier": [
-          {
-            "image": "AP.png",
-            "damage": "+30"
-          },
-          {
-            "image": "Health.png",
-            "damage": "+500"
-          },
-          {
-            "image": "MR.png",
-            "damage": "+70"
-          }
-        ],
-        "average_position": "4.1",
-        "top_4_rate": "56.58",
-        "top_1_rate": "18.96",
-        "battle": "2,653",
-        "champions": [
-          {
-            "id": "swain",
-            "name": "Kennen",
-            "image": "tft16_swain.tft_set16.png"
-          },
-          {
-            "id": "kennen",
-            "name": "Swain",
-            "image": "tft16_kennen.tft_set16.png"
-          },
-          {
-            "id": "sett",
-            "name": "Sett",
-            "image": "tft16_sett.tft_set16.png"
-          },
-          {
-            "id": "fizz",
-            "name": "Fizz",
-            "image": "tft16_fizz.tft_set16.png"
-          },
-          {
-            "id": "singed",
-            "name": "Neeko",
-            "image": "tft16_singed.tft_set16.png"
-          }
-        ],
-        "item_components": []
-      },
-      {
         "stt": 32,
         "id": "radiant_protector's_vow",
         "name": "Lời Thề Hộ Vệ Ánh Sáng",
@@ -10050,12 +10050,12 @@
           },
           {
             "id": "wukong",
-            "name": "Sett",
+            "name": "Ngộ Không",
             "image": "tft16_wukong.tft_set16.png"
           },
           {
             "id": "sett",
-            "name": "Ngộ Không",
+            "name": "Sett",
             "image": "tft16_sett.tft_set16.png"
           },
           {
@@ -10595,6 +10595,116 @@
         "item_components": []
       },
       {
+        "stt": 10,
+        "id": "seeker's_armguard",
+        "name": "Giáp Tay Seeker",
+        "image": "TFT_Item_Artifact_SeekersArmguard.png",
+        "description": "Tham gia hạ gục sẽ tăng 20 Sức Mạnh Phép Thuật, Giáp và Kháng Phép cho chủ sở hữu.",
+        "damage_modifier": [
+          {
+            "image": "AP.png",
+            "damage": "+25"
+          },
+          {
+            "image": "Armor.png",
+            "damage": "+10"
+          },
+          {
+            "image": "MR.png",
+            "damage": "+10"
+          }
+        ],
+        "average_position": "3.8",
+        "top_4_rate": "62.8",
+        "top_1_rate": "20.16",
+        "battle": "24,574",
+        "champions": [
+          {
+            "id": "ekko",
+            "name": "Ekko",
+            "image": "tft16_ekko.tft_set16.png"
+          },
+          {
+            "id": "fizz",
+            "name": "Fizz",
+            "image": "tft16_fizz.tft_set16.png"
+          },
+          {
+            "id": "sett",
+            "name": "Sett",
+            "image": "tft16_sett.tft_set16.png"
+          },
+          {
+            "id": "thresh",
+            "name": "Thresh",
+            "image": "tft16_thresh.tft_set16.png"
+          },
+          {
+            "id": "ornn",
+            "name": "Ornn",
+            "image": "tft16_ornn.tft_set16.png"
+          }
+        ],
+        "item_components": []
+      },
+      {
+        "stt": 9,
+        "id": "wit's_end",
+        "name": "Đao Tím",
+        "image": "TFT_Item_Artifact_WitsEnd.png",
+        "description": "Đòn đánh gây thêm ? sát thương phép.\n\nHồi máu cho chủ sở hữu bằng 30% tổng lượng sát thương phép đã gây ra.\n\nSát thương tăng dựa theo Giai Đoạn.",
+        "damage_modifier": [
+          {
+            "image": "AS.png",
+            "damage": "+25%"
+          },
+          {
+            "image": "Armor.png",
+            "damage": "+20"
+          },
+          {
+            "image": "Health.png",
+            "damage": "+400"
+          },
+          {
+            "image": "MR.png",
+            "damage": "+20"
+          }
+        ],
+        "average_position": "3.69",
+        "top_4_rate": "64.93",
+        "top_1_rate": "20.83",
+        "battle": "24,581",
+        "champions": [
+          {
+            "id": "ekko",
+            "name": "Ekko",
+            "image": "tft16_ekko.tft_set16.png"
+          },
+          {
+            "id": "fizz",
+            "name": "Fizz",
+            "image": "tft16_fizz.tft_set16.png"
+          },
+          {
+            "id": "ziggs",
+            "name": "Ziggs",
+            "image": "tft16_ziggs.tft_set16.png"
+          },
+          {
+            "id": "sett",
+            "name": "Sett",
+            "image": "tft16_sett.tft_set16.png"
+          },
+          {
+            "id": "kai'sa",
+            "name": "Kai'Sa",
+            "image": "tft16_kaisa.tft_set16.png"
+          }
+        ],
+        "item_components": []
+      },
+      {
         "stt": 7,
         "id": "dawncore",
         "name": "Lõi Bình Minh",
@@ -10697,121 +10807,11 @@
         "item_components": []
       },
       {
-        "stt": 9,
-        "id": "wit's_end",
-        "name": "Đao Tím",
-        "image": "TFT_Item_Artifact_WitsEnd.png",
-        "description": "Đòn đánh gây thêm ? sát thương phép.\n\nHồi máu cho chủ sở hữu bằng 30% tổng lượng sát thương phép đã gây ra.\n\nSát thương tăng dựa theo Giai Đoạn.",
-        "damage_modifier": [
-          {
-            "image": "AS.png",
-            "damage": "+25%"
-          },
-          {
-            "image": "Armor.png",
-            "damage": "+20"
-          },
-          {
-            "image": "Health.png",
-            "damage": "+400"
-          },
-          {
-            "image": "MR.png",
-            "damage": "+20"
-          }
-        ],
-        "average_position": "3.69",
-        "top_4_rate": "64.93",
-        "top_1_rate": "20.83",
-        "battle": "24,581",
-        "champions": [
-          {
-            "id": "ekko",
-            "name": "Ekko",
-            "image": "tft16_ekko.tft_set16.png"
-          },
-          {
-            "id": "fizz",
-            "name": "Fizz",
-            "image": "tft16_fizz.tft_set16.png"
-          },
-          {
-            "id": "ziggs",
-            "name": "Ziggs",
-            "image": "tft16_ziggs.tft_set16.png"
-          },
-          {
-            "id": "sett",
-            "name": "Sett",
-            "image": "tft16_sett.tft_set16.png"
-          },
-          {
-            "id": "kai'sa",
-            "name": "Kai'Sa",
-            "image": "tft16_kaisa.tft_set16.png"
-          }
-        ],
-        "item_components": []
-      },
-      {
-        "stt": 10,
-        "id": "seeker's_armguard",
-        "name": "Giáp Tay Seeker",
-        "image": "TFT_Item_Artifact_SeekersArmguard.png",
-        "description": "Tham gia hạ gục sẽ tăng 20 Sức Mạnh Phép Thuật, Giáp và Kháng Phép cho chủ sở hữu.",
-        "damage_modifier": [
-          {
-            "image": "AP.png",
-            "damage": "+25"
-          },
-          {
-            "image": "Armor.png",
-            "damage": "+10"
-          },
-          {
-            "image": "MR.png",
-            "damage": "+10"
-          }
-        ],
-        "average_position": "3.8",
-        "top_4_rate": "62.8",
-        "top_1_rate": "20.16",
-        "battle": "24,574",
-        "champions": [
-          {
-            "id": "ekko",
-            "name": "Ekko",
-            "image": "tft16_ekko.tft_set16.png"
-          },
-          {
-            "id": "fizz",
-            "name": "Fizz",
-            "image": "tft16_fizz.tft_set16.png"
-          },
-          {
-            "id": "sett",
-            "name": "Sett",
-            "image": "tft16_sett.tft_set16.png"
-          },
-          {
-            "id": "thresh",
-            "name": "Thresh",
-            "image": "tft16_thresh.tft_set16.png"
-          },
-          {
-            "id": "ornn",
-            "name": "Fiddlesticks",
-            "image": "tft16_ornn.tft_set16.png"
-          }
-        ],
-        "item_components": []
-      },
-      {
         "stt": 11,
         "id": "mittens",
-        "name": "Kiếm Tai Ương",
+        "name": "Găng Đấu Sĩ",
         "image": "TFT_Item_Artifact_Mittens.png",
-        "description": "Đòn đánh đầu tiên của chủ sở hữu sau mỗi lần thi triển Kỹ Năng sẽ gây thêm ? sát thương phép.\n\nSát thương tăng lên theo Giai Đoạn",
+        "description": "Thu nhỏ chủ sở hữu, tăng tốc độ di chuyển và miễn nhiễm Tê Tái, Thiêu Đốt và Vết Thương Sâu.\n\nTê Tái: giảm Tốc Độ Đánh\nThiêu Đốt: Gây sát thương chuẩn mỗi giây theo Máu tối đa của mục tiêu\nVết Thương Sâu: Giảm hồi máu nhận được",
         "damage_modifier": [
           {
             "image": "AS.png",
@@ -10830,22 +10830,22 @@
           },
           {
             "id": "ekko",
-            "name": "Seraphine",
+            "name": "Ekko",
             "image": "tft16_ekko.tft_set16.png"
           },
           {
             "id": "sett",
-            "name": "Twisted Fate",
+            "name": "Sett",
             "image": "tft16_sett.tft_set16.png"
           },
           {
             "id": "shyvana",
-            "name": "Sona",
+            "name": "Shyvana",
             "image": "tft16_shyvana.tft_set16.png"
           },
           {
             "id": "volibear",
-            "name": "Ziggs",
+            "name": "Volibear",
             "image": "tft16_volibear.tft_set16.png"
           }
         ],
@@ -10854,9 +10854,9 @@
       {
         "stt": 12,
         "id": "lich_bane",
-        "name": "Găng Đấu Sĩ",
+        "name": "Kiếm Tai Ương",
         "image": "TFT_Item_Artifact_LichBane.png",
-        "description": "Thu nhỏ chủ sở hữu, tăng tốc độ di chuyển và miễn nhiễm Tê Tái, Thiêu Đốt và Vết Thương Sâu.\n\nTê Tái: giảm Tốc Độ Đánh\nThiêu Đốt: Gây sát thương chuẩn mỗi giây theo Máu tối đa của mục tiêu\nVết Thương Sâu: Giảm hồi máu nhận được",
+        "description": "Đòn đánh đầu tiên của chủ sở hữu sau mỗi lần thi triển Kỹ Năng sẽ gây thêm ? sát thương phép.\n\nSát thương tăng lên theo Giai Đoạn",
         "damage_modifier": [
           {
             "image": "AP.png",
@@ -10879,68 +10879,23 @@
           },
           {
             "id": "seraphine",
-            "name": "Ekko",
+            "name": "Seraphine",
             "image": "tft16_seraphine.tft_set16.png"
           },
           {
             "id": "twisted_fate",
-            "name": "Sett",
+            "name": "Twisted Fate",
             "image": "tft16_twistedfate.tft_set16.png"
           },
           {
             "id": "sona",
-            "name": "Shyvana",
+            "name": "Sona",
             "image": "tft16_sona.tft_set16.png"
           },
           {
             "id": "ziggs",
-            "name": "Volibear",
+            "name": "Ziggs",
             "image": "tft16_ziggs.tft_set16.png"
-          }
-        ],
-        "item_components": []
-      },
-      {
-        "stt": 13,
-        "id": "mogul's_mail",
-        "name": "Giáp Đại Hãn",
-        "image": "TFT7_Item_ShimmerscaleMogulsMail.png",
-        "description": "Cho 1 Giáp, 1 Kháng Phép và 5 Máu khi nhận sát thương, cộng dồn tối đa 35 lần.\n\nKhi đạt cộng dồn tối đa, cho 1 vàng và tiếp tục cho thêm 1 vàng sau mỗi 12 giây.\n\nVàng đã tạo ra trong trận này: ?\n\n[Duy Nhất - chỉ 1 mỗi tướng]",
-        "damage_modifier": [
-          {
-            "image": "Health.png",
-            "damage": "+300"
-          }
-        ],
-        "average_position": "4.35",
-        "top_4_rate": "53",
-        "top_1_rate": "12.82",
-        "battle": "23,512",
-        "champions": [
-          {
-            "id": "wukong",
-            "name": "Ngộ Không",
-            "image": "tft16_wukong.tft_set16.png"
-          },
-          {
-            "id": "garen",
-            "name": "Garen",
-            "image": "tft16_garen.tft_set16.png"
-          },
-          {
-            "id": "nautilus",
-            "name": "Nautilus",
-            "image": "tft16_nautilus.tft_set16.png"
-          },
-          {
-            "id": "sion",
-            "name": "Sion",
-            "image": "tft16_sion.tft_set16.png"
-          },
-          {
-            "id": "rift_herald",
-            "name": "Sứ Giả Khe Nứt",
-            "image": "tft16_riftherald_splash_tile_0.tft_set16.png"
           }
         ],
         "item_components": []
@@ -11048,6 +11003,51 @@
         "item_components": []
       },
       {
+        "stt": 13,
+        "id": "mogul's_mail",
+        "name": "Giáp Đại Hãn",
+        "image": "TFT7_Item_ShimmerscaleMogulsMail.png",
+        "description": "Cho 1 Giáp, 1 Kháng Phép và 5 Máu khi nhận sát thương, cộng dồn tối đa 35 lần.\n\nKhi đạt cộng dồn tối đa, cho 1 vàng và tiếp tục cho thêm 1 vàng sau mỗi 12 giây.\n\nVàng đã tạo ra trong trận này: ?\n\n[Duy Nhất - chỉ 1 mỗi tướng]",
+        "damage_modifier": [
+          {
+            "image": "Health.png",
+            "damage": "+300"
+          }
+        ],
+        "average_position": "4.35",
+        "top_4_rate": "53",
+        "top_1_rate": "12.82",
+        "battle": "23,512",
+        "champions": [
+          {
+            "id": "wukong",
+            "name": "Ngộ Không",
+            "image": "tft16_wukong.tft_set16.png"
+          },
+          {
+            "id": "garen",
+            "name": "Garen",
+            "image": "tft16_garen.tft_set16.png"
+          },
+          {
+            "id": "nautilus",
+            "name": "Nautilus",
+            "image": "tft16_nautilus.tft_set16.png"
+          },
+          {
+            "id": "sion",
+            "name": "Sion",
+            "image": "tft16_sion.tft_set16.png"
+          },
+          {
+            "id": "rift_herald",
+            "name": "Sứ Giả Khe Nứt",
+            "image": "tft16_riftherald_splash_tile_0.tft_set16.png"
+          }
+        ],
+        "item_components": []
+      },
+      {
         "stt": 16,
         "id": "aegis_of_dusk",
         "name": "Khiên Hoàng Hôn",
@@ -11146,64 +11146,11 @@
         "item_components": []
       },
       {
-        "stt": 18,
-        "id": "sniper's_focus",
-        "name": "Lưỡng Cực Zhonya",
-        "image": "TFT9_Item_OrnnHorizonFocus.png",
-        "description": "Một lần mỗi giao tranh: Khi còn dưới 40% Máu, trở nên bất tử và không thể chỉ định trong 3 giây.\n\n[Duy nhất - chỉ 1 mỗi tướng]",
-        "damage_modifier": [
-          {
-            "image": "AD.png",
-            "damage": "+20%"
-          },
-          {
-            "image": "AP.png",
-            "damage": "+20"
-          },
-          {
-            "image": "AS.png",
-            "damage": "+20%"
-          }
-        ],
-        "average_position": "3.92",
-        "top_4_rate": "60.53",
-        "top_1_rate": "18.64",
-        "battle": "21,138",
-        "champions": [
-          {
-            "id": "lucian_&_senna",
-            "name": "Fizz",
-            "image": "tft16_lucian.tft_set16.png"
-          },
-          {
-            "id": "ziggs",
-            "name": "Fiddlesticks",
-            "image": "tft16_ziggs.tft_set16.png"
-          },
-          {
-            "id": "yunara",
-            "name": "Sett",
-            "image": "tft16_yunara.tft_set16.png"
-          },
-          {
-            "id": "miss_fortune",
-            "name": "Thresh",
-            "image": "tft16_missfortune.tft_set16.png"
-          },
-          {
-            "id": "kalista",
-            "name": "Ornn",
-            "image": "tft16_kalista.tft_set16.png"
-          }
-        ],
-        "item_components": []
-      },
-      {
         "stt": 19,
         "id": "zhonya's_paradox",
-        "name": "Kính Nhắm Thiện Xạ",
+        "name": "Lưỡng Cực Zhonya",
         "image": "TFT4_Item_OrnnZhonyasParadox.png",
-        "description": "Nhận 40% Khuếch Đại Sát Thương lên các mục tiêu cách xa từ 4 ô trở lên.",
+        "description": "Một lần mỗi giao tranh: Khi còn dưới 40% Máu, trở nên bất tử và không thể chỉ định trong 3 giây.\n\n[Duy nhất - chỉ 1 mỗi tướng]",
         "damage_modifier": [
           {
             "image": "AP.png",
@@ -11225,28 +11172,81 @@
         "champions": [
           {
             "id": "fizz",
-            "name": "Lucian & Senna",
+            "name": "Fizz",
             "image": "tft16_fizz.tft_set16.png"
           },
           {
             "id": "fiddlesticks",
-            "name": "Ziggs",
+            "name": "Fiddlesticks",
             "image": "tft16_fiddlesticks.tft_set16.png"
           },
           {
             "id": "thresh",
-            "name": "Yunara",
+            "name": "Thresh",
             "image": "tft16_thresh.tft_set16.png"
           },
           {
             "id": "sett",
-            "name": "Miss Fortune",
+            "name": "Sett",
             "image": "tft16_sett.tft_set16.png"
           },
           {
             "id": "ornn",
-            "name": "Kalista",
+            "name": "Ornn",
             "image": "tft16_ornn.tft_set16.png"
+          }
+        ],
+        "item_components": []
+      },
+      {
+        "stt": 18,
+        "id": "sniper's_focus",
+        "name": "Kính Nhắm Thiện Xạ",
+        "image": "TFT9_Item_OrnnHorizonFocus.png",
+        "description": "Nhận 40% Khuếch Đại Sát Thương lên các mục tiêu cách xa từ 4 ô trở lên.",
+        "damage_modifier": [
+          {
+            "image": "AD.png",
+            "damage": "+20%"
+          },
+          {
+            "image": "AP.png",
+            "damage": "+20"
+          },
+          {
+            "image": "AS.png",
+            "damage": "+20%"
+          }
+        ],
+        "average_position": "3.92",
+        "top_4_rate": "60.53",
+        "top_1_rate": "18.64",
+        "battle": "21,138",
+        "champions": [
+          {
+            "id": "lucian_&_senna",
+            "name": "Lucian & Senna",
+            "image": "tft16_lucian.tft_set16.png"
+          },
+          {
+            "id": "ziggs",
+            "name": "Ziggs",
+            "image": "tft16_ziggs.tft_set16.png"
+          },
+          {
+            "id": "yunara",
+            "name": "Yunara",
+            "image": "tft16_yunara.tft_set16.png"
+          },
+          {
+            "id": "miss_fortune",
+            "name": "Miss Fortune",
+            "image": "tft16_missfortune.tft_set16.png"
+          },
+          {
+            "id": "kalista",
+            "name": "Kalista",
+            "image": "tft16_kalista.tft_set16.png"
           }
         ],
         "item_components": []
@@ -11297,51 +11297,6 @@
         "item_components": []
       },
       {
-        "stt": 21,
-        "id": "blighting_jewel",
-        "name": "Đá Hắc Hóa",
-        "image": "TFT_Item_Artifact_BlightingJewel.png",
-        "description": "Gây sát thương phép sẽ giảm Kháng Phép của mục tiêu đi 2. Nếu Kháng Phép của mục tiêu là 0, thay vào đó, tăng 2 Năng Lượng cho chủ sở hữu.\n\nSát thương kỹ năng chỉ có thể kích hoạt lên mỗi kẻ địch 1 lần mỗi 0.5 giây.",
-        "damage_modifier": [
-          {
-            "image": "AP.png",
-            "damage": "+60"
-          }
-        ],
-        "average_position": "3.87",
-        "top_4_rate": "61.42",
-        "top_1_rate": "19.44",
-        "battle": "20,974",
-        "champions": [
-          {
-            "id": "fiddlesticks",
-            "name": "Fiddlesticks",
-            "image": "tft16_fiddlesticks.tft_set16.png"
-          },
-          {
-            "id": "ziggs",
-            "name": "Ziggs",
-            "image": "tft16_ziggs.tft_set16.png"
-          },
-          {
-            "id": "seraphine",
-            "name": "Seraphine",
-            "image": "tft16_seraphine.tft_set16.png"
-          },
-          {
-            "id": "ryze",
-            "name": "Ryze",
-            "image": "tft16_ryze.tft_set16.png"
-          },
-          {
-            "id": "zilean",
-            "name": "Zilean",
-            "image": "tft16_zilean.tft_set16.png"
-          }
-        ],
-        "item_components": []
-      },
-      {
         "stt": 22,
         "id": "rapid_firecannon",
         "name": "Đại Bác Liên Thanh",
@@ -11382,6 +11337,51 @@
             "id": "ziggs",
             "name": "Ziggs",
             "image": "tft16_ziggs.tft_set16.png"
+          }
+        ],
+        "item_components": []
+      },
+      {
+        "stt": 21,
+        "id": "blighting_jewel",
+        "name": "Đá Hắc Hóa",
+        "image": "TFT_Item_Artifact_BlightingJewel.png",
+        "description": "Gây sát thương phép sẽ giảm Kháng Phép của mục tiêu đi 2. Nếu Kháng Phép của mục tiêu là 0, thay vào đó, tăng 2 Năng Lượng cho chủ sở hữu.\n\nSát thương kỹ năng chỉ có thể kích hoạt lên mỗi kẻ địch 1 lần mỗi 0.5 giây.",
+        "damage_modifier": [
+          {
+            "image": "AP.png",
+            "damage": "+60"
+          }
+        ],
+        "average_position": "3.87",
+        "top_4_rate": "61.42",
+        "top_1_rate": "19.44",
+        "battle": "20,974",
+        "champions": [
+          {
+            "id": "fiddlesticks",
+            "name": "Fiddlesticks",
+            "image": "tft16_fiddlesticks.tft_set16.png"
+          },
+          {
+            "id": "ziggs",
+            "name": "Ziggs",
+            "image": "tft16_ziggs.tft_set16.png"
+          },
+          {
+            "id": "seraphine",
+            "name": "Seraphine",
+            "image": "tft16_seraphine.tft_set16.png"
+          },
+          {
+            "id": "ryze",
+            "name": "Ryze",
+            "image": "tft16_ryze.tft_set16.png"
+          },
+          {
+            "id": "zilean",
+            "name": "Zilean",
+            "image": "tft16_zilean.tft_set16.png"
           }
         ],
         "item_components": []
@@ -11431,6 +11431,55 @@
             "id": "lissandra",
             "name": "Lissandra",
             "image": "tft16_lissandra.tft_set16.png"
+          }
+        ],
+        "item_components": []
+      },
+      {
+        "stt": 26,
+        "id": "gold_collector",
+        "name": "Đại Bác Hải Tặc",
+        "image": "TFT4_Item_OrnnTheCollector.png",
+        "description": "Các đòn đánh và kỹ năng sẽ hành quyết những kẻ địch còn dưới 12% Máu tối đa. Khi hành quyết có 33% xác suất rơi ra vàng.\n\nVàng Đã Thu Được: v\n[Duy nhất - chỉ 1 mỗi tướng]",
+        "damage_modifier": [
+          {
+            "image": "AD.png",
+            "damage": "+40%"
+          },
+          {
+            "image": "Crit.png",
+            "damage": "+20%"
+          }
+        ],
+        "average_position": "3.58",
+        "top_4_rate": "66.95",
+        "top_1_rate": "22.54",
+        "battle": "19,761",
+        "champions": [
+          {
+            "id": "miss_fortune",
+            "name": "Miss Fortune",
+            "image": "tft16_missfortune.tft_set16.png"
+          },
+          {
+            "id": "lucian_&_senna",
+            "name": "Lucian & Senna",
+            "image": "tft16_lucian.tft_set16.png"
+          },
+          {
+            "id": "yunara",
+            "name": "Yunara",
+            "image": "tft16_yunara.tft_set16.png"
+          },
+          {
+            "id": "kalista",
+            "name": "Kalista",
+            "image": "tft16_kalista.tft_set16.png"
+          },
+          {
+            "id": "kindred",
+            "name": "Kindred",
+            "image": "tft16_kindred.tft_set16.png"
           }
         ],
         "item_components": []
@@ -11533,55 +11582,6 @@
             "id": "sion",
             "name": "Sion",
             "image": "tft16_sion.tft_set16.png"
-          }
-        ],
-        "item_components": []
-      },
-      {
-        "stt": 26,
-        "id": "gold_collector",
-        "name": "Đại Bác Hải Tặc",
-        "image": "TFT4_Item_OrnnTheCollector.png",
-        "description": "Các đòn đánh và kỹ năng sẽ hành quyết những kẻ địch còn dưới 12% Máu tối đa. Khi hành quyết có 33% xác suất rơi ra vàng.\n\nVàng Đã Thu Được: v\n[Duy nhất - chỉ 1 mỗi tướng]",
-        "damage_modifier": [
-          {
-            "image": "AD.png",
-            "damage": "+40%"
-          },
-          {
-            "image": "Crit.png",
-            "damage": "+20%"
-          }
-        ],
-        "average_position": "3.58",
-        "top_4_rate": "66.95",
-        "top_1_rate": "22.54",
-        "battle": "19,761",
-        "champions": [
-          {
-            "id": "miss_fortune",
-            "name": "Miss Fortune",
-            "image": "tft16_missfortune.tft_set16.png"
-          },
-          {
-            "id": "lucian_&_senna",
-            "name": "Lucian & Senna",
-            "image": "tft16_lucian.tft_set16.png"
-          },
-          {
-            "id": "yunara",
-            "name": "Yunara",
-            "image": "tft16_yunara.tft_set16.png"
-          },
-          {
-            "id": "kalista",
-            "name": "Kalista",
-            "image": "tft16_kalista.tft_set16.png"
-          },
-          {
-            "id": "kindred",
-            "name": "Kindred",
-            "image": "tft16_kindred.tft_set16.png"
           }
         ],
         "item_components": []
@@ -12078,7 +12078,7 @@
           },
           {
             "id": "kai'sa",
-            "name": "Vayne",
+            "name": "Kai'Sa",
             "image": "tft16_kaisa.tft_set16.png"
           }
         ],
@@ -12267,6 +12267,66 @@
         ]
       },
       {
+        "stt": 6,
+        "id": "sunfire_cape",
+        "name": "Áo Choàng Lửa",
+        "image": "TFT_Item_RedBuff.png",
+        "description": "Nhận 8% Máu tối đa.\n\nMỗi 2 giây, gây 1% Thiêu Đốt và 33% Vết Thương Sâu lên 1 kẻ địch trong phạm vi 2 ô trong 10 giây.\n\nThiêu Đốt: Gây sát thương chuẩn mỗi giây theo Máu tối đa của mục tiêu\nVết Thương Sâu: Giảm hồi máu nhận được",
+        "damage_modifier": [
+          {
+            "image": "Armor.png",
+            "damage": "+20"
+          },
+          {
+            "image": "Health.png",
+            "damage": "+150"
+          }
+        ],
+        "average_position": "4.2",
+        "top_4_rate": "55.46",
+        "top_1_rate": "14.84",
+        "battle": "1,134,105",
+        "champions": [
+          {
+            "id": "wukong",
+            "name": "Ngộ Không",
+            "image": "tft16_wukong.tft_set16.png"
+          },
+          {
+            "id": "kennen",
+            "name": "Kennen",
+            "image": "tft16_kennen.tft_set16.png"
+          },
+          {
+            "id": "swain",
+            "name": "Swain",
+            "image": "tft16_swain.tft_set16.png"
+          },
+          {
+            "id": "garen",
+            "name": "Garen",
+            "image": "tft16_garen.tft_set16.png"
+          },
+          {
+            "id": "nautilus",
+            "name": "Nautilus",
+            "image": "tft16_nautilus.tft_set16.png"
+          }
+        ],
+        "item_components": [
+          {
+            "id": "chain_vest",
+            "name": "Giáp Lưới",
+            "image": "TFT_Item_ChainVest.png"
+          },
+          {
+            "id": "giant's_belt",
+            "name": "Đai Khổng Lồ",
+            "image": "TFT_Item_GiantsBelt.png"
+          }
+        ]
+      },
+      {
         "stt": 4,
         "id": "thief's_gloves",
         "name": "Găng Đạo Tặc",
@@ -12321,8 +12381,64 @@
           },
           {
             "id": "sparring_gloves",
-            "name": "Găng Đấu Tập",
+            "name": "Sparring Gloves",
             "image": "TFT_Item_SparringGloves.png"
+          }
+        ]
+      },
+      {
+        "stt": 7,
+        "id": "spirit_visage",
+        "name": "Giáp Tâm Linh",
+        "image": "TFT_Item_Redemption.png",
+        "description": "Hồi lại 3% Máu đã mất mỗi giây.",
+        "damage_modifier": [
+          {
+            "image": "Health.png",
+            "damage": "+300"
+          }
+        ],
+        "average_position": "4.13",
+        "top_4_rate": "57.02",
+        "top_1_rate": "14.98",
+        "battle": "1,119,106",
+        "champions": [
+          {
+            "id": "wukong",
+            "name": "Ngộ Không",
+            "image": "tft16_wukong.tft_set16.png"
+          },
+          {
+            "id": "garen",
+            "name": "Garen",
+            "image": "tft16_garen.tft_set16.png"
+          },
+          {
+            "id": "swain",
+            "name": "Swain",
+            "image": "tft16_swain.tft_set16.png"
+          },
+          {
+            "id": "rift_herald",
+            "name": "Rift Herald",
+            "image": "tft16_riftherald_splash_tile_0.tft_set16.png"
+          },
+          {
+            "id": "kennen",
+            "name": "Kennen",
+            "image": "tft16_kennen.tft_set16.png"
+          }
+        ],
+        "item_components": [
+          {
+            "id": "tear_of_the_goddess",
+            "name": "Nước Mắt Nữ Thần",
+            "image": "TFT_Item_TearOfTheGoddess.png"
+          },
+          {
+            "id": "giant's_belt",
+            "name": "Đai Khổng Lồ",
+            "image": "TFT_Item_GiantsBelt.png"
           }
         ]
       },
@@ -12387,122 +12503,6 @@
             "id": "negatron_cloak",
             "name": "Áo Choàng Bạc",
             "image": "TFT_Item_NegatronCloak.png"
-          }
-        ]
-      },
-      {
-        "stt": 6,
-        "id": "sunfire_cape",
-        "name": "Áo Choàng Lửa",
-        "image": "TFT_Item_RedBuff.png",
-        "description": "Nhận 8% Máu tối đa.\n\nMỗi 2 giây, gây 1% Thiêu Đốt và 33% Vết Thương Sâu lên 1 kẻ địch trong phạm vi 2 ô trong 10 giây.\n\nThiêu Đốt: Gây sát thương chuẩn mỗi giây theo Máu tối đa của mục tiêu\nVết Thương Sâu: Giảm hồi máu nhận được",
-        "damage_modifier": [
-          {
-            "image": "Armor.png",
-            "damage": "+20"
-          },
-          {
-            "image": "Health.png",
-            "damage": "+150"
-          }
-        ],
-        "average_position": "4.2",
-        "top_4_rate": "55.46",
-        "top_1_rate": "14.84",
-        "battle": "1,134,105",
-        "champions": [
-          {
-            "id": "wukong",
-            "name": "Ngộ Không",
-            "image": "tft16_wukong.tft_set16.png"
-          },
-          {
-            "id": "kennen",
-            "name": "Kennen",
-            "image": "tft16_kennen.tft_set16.png"
-          },
-          {
-            "id": "swain",
-            "name": "Swain",
-            "image": "tft16_swain.tft_set16.png"
-          },
-          {
-            "id": "garen",
-            "name": "Garen",
-            "image": "tft16_garen.tft_set16.png"
-          },
-          {
-            "id": "nautilus",
-            "name": "Nautilus",
-            "image": "tft16_nautilus.tft_set16.png"
-          }
-        ],
-        "item_components": [
-          {
-            "id": "chain_vest",
-            "name": "Giáp Lưới",
-            "image": "TFT_Item_ChainVest.png"
-          },
-          {
-            "id": "giant's_belt",
-            "name": "Đai Khổng Lồ",
-            "image": "TFT_Item_GiantsBelt.png"
-          }
-        ]
-      },
-      {
-        "stt": 7,
-        "id": "spirit_visage",
-        "name": "Giáp Tâm Linh",
-        "image": "TFT_Item_Redemption.png",
-        "description": "Hồi lại 3% Máu đã mất mỗi giây.",
-        "damage_modifier": [
-          {
-            "image": "Health.png",
-            "damage": "+300"
-          }
-        ],
-        "average_position": "4.13",
-        "top_4_rate": "57.02",
-        "top_1_rate": "14.98",
-        "battle": "1,119,106",
-        "champions": [
-          {
-            "id": "wukong",
-            "name": "Ngộ Không",
-            "image": "tft16_wukong.tft_set16.png"
-          },
-          {
-            "id": "garen",
-            "name": "Garen",
-            "image": "tft16_garen.tft_set16.png"
-          },
-          {
-            "id": "swain",
-            "name": "Swain",
-            "image": "tft16_swain.tft_set16.png"
-          },
-          {
-            "id": "rift_herald",
-            "name": "Sứ Giả Khe Nứt",
-            "image": "tft16_riftherald_splash_tile_0.tft_set16.png"
-          },
-          {
-            "id": "kennen",
-            "name": "Kennen",
-            "image": "tft16_kennen.tft_set16.png"
-          }
-        ],
-        "item_components": [
-          {
-            "id": "tear_of_the_goddess",
-            "name": "Nước Mắt Nữ Thần",
-            "image": "TFT_Item_TearOfTheGoddess.png"
-          },
-          {
-            "id": "giant's_belt",
-            "name": "Đai Khổng Lồ",
-            "image": "TFT_Item_GiantsBelt.png"
           }
         ]
       },
@@ -12621,7 +12621,7 @@
           },
           {
             "id": "giant's_belt",
-            "name": "Đai Khổng Lồ",
+            "name": "Giant's Belt",
             "image": "TFT_Item_GiantsBelt.png"
           }
         ]
@@ -12853,7 +12853,7 @@
           },
           {
             "id": "negatron_cloak",
-            "name": "Áo Choàng Bạc",
+            "name": "Negatron Cloak",
             "image": "TFT_Item_NegatronCloak.png"
           }
         ]
@@ -12969,7 +12969,7 @@
           },
           {
             "id": "needlessly_large_rod",
-            "name": "Gậy Quá Khổ",
+            "name": "Needlessly Large Rod",
             "image": "TFT_Item_NeedlesslyLargeRod.png"
           }
         ]
@@ -13025,8 +13025,68 @@
           },
           {
             "id": "chain_vest",
-            "name": "Giáp Lưới",
+            "name": "Chain Vest",
             "image": "TFT_Item_ChainVest.png"
+          }
+        ]
+      },
+      {
+        "stt": 18,
+        "id": "hextech_gunblade",
+        "name": "Kiếm Súng Hextech",
+        "image": "TFT_Item_HextechGunblade.png",
+        "description": "Hồi máu cho đồng minh thấp Máu nhất bằng 20% lượng sát thương gây ra.\n\nHồi Máu Đồng Minh:",
+        "damage_modifier": [
+          {
+            "image": "AD.png",
+            "damage": "+20%"
+          },
+          {
+            "image": "AP.png",
+            "damage": "+20"
+          }
+        ],
+        "average_position": "3.99",
+        "top_4_rate": "59.8",
+        "top_1_rate": "16.21",
+        "battle": "574,639",
+        "champions": [
+          {
+            "id": "kai'sa",
+            "name": "Kai'Sa",
+            "image": "tft16_kaisa.tft_set16.png"
+          },
+          {
+            "id": "sona",
+            "name": "Sona",
+            "image": "tft16_sona.tft_set16.png"
+          },
+          {
+            "id": "lux",
+            "name": "Lux",
+            "image": "tft16_lux.tft_set16.png"
+          },
+          {
+            "id": "ziggs",
+            "name": "Ziggs",
+            "image": "tft16_ziggs.tft_set16.png"
+          },
+          {
+            "id": "vayne",
+            "name": "Vayne",
+            "image": "tft16_vayne.tft_set16.png"
+          }
+        ],
+        "item_components": [
+          {
+            "id": "b.f._sword",
+            "name": "Kiếm B.F.",
+            "image": "TFT_Item_BFSword.png"
+          },
+          {
+            "id": "needlessly_large_rod",
+            "name": "Gậy Quá Khổ",
+            "image": "TFT_Item_NeedlesslyLargeRod.png"
           }
         ]
       },
@@ -13091,66 +13151,6 @@
             "id": "recurve_bow",
             "name": "Cung Gỗ",
             "image": "TFT_Item_RecurveBow.png"
-          }
-        ]
-      },
-      {
-        "stt": 18,
-        "id": "hextech_gunblade",
-        "name": "Kiếm Súng Hextech",
-        "image": "TFT_Item_HextechGunblade.png",
-        "description": "Hồi máu cho đồng minh thấp Máu nhất bằng 20% lượng sát thương gây ra.\n\nHồi Máu Đồng Minh:",
-        "damage_modifier": [
-          {
-            "image": "AD.png",
-            "damage": "+20%"
-          },
-          {
-            "image": "AP.png",
-            "damage": "+20"
-          }
-        ],
-        "average_position": "3.99",
-        "top_4_rate": "59.8",
-        "top_1_rate": "16.21",
-        "battle": "574,639",
-        "champions": [
-          {
-            "id": "kai'sa",
-            "name": "Kai'Sa",
-            "image": "tft16_kaisa.tft_set16.png"
-          },
-          {
-            "id": "sona",
-            "name": "Sona",
-            "image": "tft16_sona.tft_set16.png"
-          },
-          {
-            "id": "lux",
-            "name": "Lux",
-            "image": "tft16_lux.tft_set16.png"
-          },
-          {
-            "id": "ziggs",
-            "name": "Ziggs",
-            "image": "tft16_ziggs.tft_set16.png"
-          },
-          {
-            "id": "vayne",
-            "name": "Vayne",
-            "image": "tft16_vayne.tft_set16.png"
-          }
-        ],
-        "item_components": [
-          {
-            "id": "b.f._sword",
-            "name": "Kiếm B.F.",
-            "image": "TFT_Item_BFSword.png"
-          },
-          {
-            "id": "needlessly_large_rod",
-            "name": "Gậy Quá Khổ",
-            "image": "TFT_Item_NeedlesslyLargeRod.png"
           }
         ]
       },
@@ -13451,79 +13451,11 @@
         ]
       },
       {
-        "stt": 24,
-        "id": "nashor's_tooth",
-        "name": "Nanh Nashor",
-        "image": "TFT_Item_Leviathan.png",
-        "description": "Các đòn đánh giúp hồi lại 2 Năng Lượng, tăng lên 4 nếu là đòn chí mạng.",
-        "damage_modifier": [
-          {
-            "image": "AP.png",
-            "damage": "+15"
-          },
-          {
-            "image": "AS.png",
-            "damage": "+10%"
-          },
-          {
-            "image": "Crit.png",
-            "damage": "+20%"
-          },
-          {
-            "image": "Health.png",
-            "damage": "+150"
-          }
-        ],
-        "average_position": "4.07",
-        "top_4_rate": "58.2",
-        "top_1_rate": "16.09",
-        "battle": "465,150",
-        "champions": [
-          {
-            "id": "ziggs",
-            "name": "Ziggs",
-            "image": "tft16_ziggs.tft_set16.png"
-          },
-          {
-            "id": "lux",
-            "name": "Lux",
-            "image": "tft16_lux.tft_set16.png"
-          },
-          {
-            "id": "sona",
-            "name": "Sona",
-            "image": "tft16_sona.tft_set16.png"
-          },
-          {
-            "id": "seraphine",
-            "name": "Seraphine",
-            "image": "tft16_seraphine.tft_set16.png"
-          },
-          {
-            "id": "ryze",
-            "name": "Ryze",
-            "image": "tft16_ryze.tft_set16.png"
-          }
-        ],
-        "item_components": [
-          {
-            "id": "recurve_bow",
-            "name": "Cung Gỗ",
-            "image": "TFT_Item_RecurveBow.png"
-          },
-          {
-            "id": "giant's_belt",
-            "name": "Đai Khổng Lồ",
-            "image": "TFT_Item_GiantsBelt.png"
-          }
-        ]
-      },
-      {
         "stt": 25,
         "id": "evenshroud",
-        "name": "Móng Vuốt Sterak",
+        "name": "Giáp Vai Nguyệt Thần",
         "image": "TFT_Item_SpectralGauntlet.png",
-        "description": "Khi còn 60% Máu, nhận một Lá Chắn bằng 50% Máu tối đa của chủ sở hữu, giảm dần trong vòng 4 giây.",
+        "description": "30% Phân Tách kẻ địch trong vòng 2 ô. Tăng 25 Giáp và Kháng Phép trong 15 giây đầu giao tranh.\n\nPhân Tách: Giảm Giáp",
         "damage_modifier": [
           {
             "image": "Health.png",
@@ -13541,34 +13473,34 @@
         "champions": [
           {
             "id": "wukong",
-            "name": "Volibear",
+            "name": "Ngộ Không",
             "image": "tft16_wukong.tft_set16.png"
           },
           {
             "id": "nautilus",
-            "name": "Shyvana",
+            "name": "Nautilus",
             "image": "tft16_nautilus.tft_set16.png"
           },
           {
             "id": "swain",
-            "name": "Ambessa",
+            "name": "Swain",
             "image": "tft16_swain.tft_set16.png"
           },
           {
             "id": "taric",
-            "name": "Gangplank",
+            "name": "Taric",
             "image": "tft16_taric.tft_set16.png"
           },
           {
             "id": "garen",
-            "name": "Warwick",
+            "name": "Garen",
             "image": "tft16_garen.tft_set16.png"
           }
         ],
         "item_components": [
           {
             "id": "negatron_cloak",
-            "name": "Kiếm B.F.",
+            "name": "Áo Choàng Bạc",
             "image": "TFT_Item_NegatronCloak.png"
           },
           {
@@ -13581,9 +13513,9 @@
       {
         "stt": 26,
         "id": "sterak's_gage",
-        "name": "Giáp Vai Nguyệt Thần",
+        "name": "Móng Vuốt Sterak",
         "image": "TFT_Item_SteraksGage.png",
-        "description": "30% Phân Tách kẻ địch trong vòng 2 ô. Tăng 25 Giáp và Kháng Phép trong 15 giây đầu giao tranh.\n\nPhân Tách: Giảm Giáp",
+        "description": "Khi còn 60% Máu, nhận một Lá Chắn bằng 50% Máu tối đa của chủ sở hữu, giảm dần trong vòng 4 giây.",
         "damage_modifier": [
           {
             "image": "AD.png",
@@ -13601,34 +13533,34 @@
         "champions": [
           {
             "id": "volibear",
-            "name": "Ngộ Không",
+            "name": "Volibear",
             "image": "tft16_volibear.tft_set16.png"
           },
           {
             "id": "shyvana",
-            "name": "Nautilus",
+            "name": "Shyvana",
             "image": "tft16_shyvana.tft_set16.png"
           },
           {
             "id": "ambessa",
-            "name": "Swain",
+            "name": "Ambessa",
             "image": "tft16_ambessa.tft_set16.png"
           },
           {
             "id": "gangplank",
-            "name": "Taric",
+            "name": "Gangplank",
             "image": "tft16_gangplank.tft_set16.png"
           },
           {
             "id": "warwick",
-            "name": "Garen",
+            "name": "Warwick",
             "image": "tft16_warwick.tft_set16.png"
           }
         ],
         "item_components": [
           {
             "id": "b.f._sword",
-            "name": "Áo Choàng Bạc",
+            "name": "Kiếm B.F.",
             "image": "TFT_Item_BFSword.png"
           },
           {
@@ -13699,6 +13631,74 @@
             "id": "recurve_bow",
             "name": "Cung Gỗ",
             "image": "TFT_Item_RecurveBow.png"
+          }
+        ]
+      },
+      {
+        "stt": 24,
+        "id": "nashor's_tooth",
+        "name": "Nanh Nashor",
+        "image": "TFT_Item_Leviathan.png",
+        "description": "Các đòn đánh giúp hồi lại 2 Năng Lượng, tăng lên 4 nếu là đòn chí mạng.",
+        "damage_modifier": [
+          {
+            "image": "AP.png",
+            "damage": "+15"
+          },
+          {
+            "image": "AS.png",
+            "damage": "+10%"
+          },
+          {
+            "image": "Crit.png",
+            "damage": "+20%"
+          },
+          {
+            "image": "Health.png",
+            "damage": "+150"
+          }
+        ],
+        "average_position": "4.07",
+        "top_4_rate": "58.2",
+        "top_1_rate": "16.09",
+        "battle": "465,150",
+        "champions": [
+          {
+            "id": "ziggs",
+            "name": "Ziggs",
+            "image": "tft16_ziggs.tft_set16.png"
+          },
+          {
+            "id": "lux",
+            "name": "Lux",
+            "image": "tft16_lux.tft_set16.png"
+          },
+          {
+            "id": "sona",
+            "name": "Sona",
+            "image": "tft16_sona.tft_set16.png"
+          },
+          {
+            "id": "seraphine",
+            "name": "Seraphine",
+            "image": "tft16_seraphine.tft_set16.png"
+          },
+          {
+            "id": "ryze",
+            "name": "Ryze",
+            "image": "tft16_ryze.tft_set16.png"
+          }
+        ],
+        "item_components": [
+          {
+            "id": "recurve_bow",
+            "name": "Cung Gỗ",
+            "image": "TFT_Item_RecurveBow.png"
+          },
+          {
+            "id": "giant's_belt",
+            "name": "Đai Khổng Lồ",
+            "image": "TFT_Item_GiantsBelt.png"
           }
         ]
       },
@@ -13881,7 +13881,7 @@
           },
           {
             "id": "recurve_bow",
-            "name": "Cung Gỗ",
+            "name": "Recurve Bow",
             "image": "TFT_Item_RecurveBow.png"
           }
         ]
@@ -13941,7 +13941,7 @@
           },
           {
             "id": "tear_of_the_goddess",
-            "name": "Nước Mắt Nữ Thần",
+            "name": "Tear of the Goddess",
             "image": "TFT_Item_TearOfTheGoddess.png"
           }
         ]
@@ -14257,7 +14257,7 @@
           },
           {
             "id": "b.f._sword",
-            "name": "Kiếm B.F.",
+            "name": "B.F. Sword",
             "image": "TFT_Item_BFSword.png"
           }
         ]
@@ -14308,7 +14308,7 @@
           },
           {
             "id": "spatula",
-            "name": "Siêu Xẻng",
+            "name": "Spatula",
             "image": "TFT_Item_Spatula.png"
           }
         ]
@@ -14347,7 +14347,7 @@
           },
           {
             "id": "taric",
-            "name": "Lulu",
+            "name": "Taric",
             "image": "tft16_taric.tft_set16.png"
           }
         ],
@@ -14410,7 +14410,7 @@
           },
           {
             "id": "frying_pan",
-            "name": "Chảo Vàng",
+            "name": "Frying Pan",
             "image": "TFT_Item_FryingPan.png"
           }
         ]
@@ -14507,7 +14507,7 @@
           },
           {
             "id": "gangplank",
-            "name": "Gangplank",
+            "name": "Ngộ Không",
             "image": "tft16_gangplank.tft_set16.png"
           }
         ],
@@ -14609,7 +14609,7 @@
           },
           {
             "id": "fizz",
-            "name": "Fizz",
+            "name": "Ornn",
             "image": "tft16_fizz.tft_set16.png"
           }
         ],
@@ -14849,12 +14849,12 @@
           },
           {
             "id": "yunara",
-            "name": "Yunara",
+            "name": "Aphelios",
             "image": "tft16_yunara.tft_set16.png"
           },
           {
             "id": "aphelios",
-            "name": "Aphelios",
+            "name": "Yunara",
             "image": "tft16_aphelios.tft_set16.png"
           }
         ],
@@ -15082,62 +15082,6 @@
         ]
       },
       {
-        "stt": 5,
-        "id": "noxus_emblem",
-        "name": "Ấn Noxus",
-        "image": "TFT16_Item_NoxusEmblemItem.png",
-        "description": "Chủ sở hữu nhận thêm tộc/hệ Noxus.",
-        "damage_modifier": [
-          {
-            "image": "AD.png",
-            "damage": "+10%"
-          }
-        ],
-        "average_position": "4.39",
-        "top_4_rate": "50.2",
-        "top_1_rate": "16.69",
-        "battle": "69,342",
-        "champions": [
-          {
-            "id": "kindred",
-            "name": "Kindred",
-            "image": "tft16_kindred.tft_set16.png"
-          },
-          {
-            "id": "fiddlesticks",
-            "name": "Fiddlesticks",
-            "image": "tft16_fiddlesticks.tft_set16.png"
-          },
-          {
-            "id": "shyvana",
-            "name": "Shyvana",
-            "image": "tft16_shyvana.tft_set16.png"
-          },
-          {
-            "id": "azir",
-            "name": "Azir",
-            "image": "tft16_azir.tft_set16.png"
-          },
-          {
-            "id": "kobuko_&_yuumi",
-            "name": "Kobuko & Yuumi",
-            "image": "tft16_kobuko.tft_set16.png"
-          }
-        ],
-        "item_components": [
-          {
-            "id": "spatula",
-            "name": "Siêu Xẻng",
-            "image": "TFT_Item_Spatula.png"
-          },
-          {
-            "id": "b.f._sword",
-            "name": "Kiếm B.F.",
-            "image": "TFT_Item_BFSword.png"
-          }
-        ]
-      },
-      {
         "stt": 6,
         "id": "ionia_emblem",
         "name": "Ấn Ionia",
@@ -15190,6 +15134,62 @@
             "id": "needlessly_large_rod",
             "name": "Gậy Quá Khổ",
             "image": "TFT_Item_NeedlesslyLargeRod.png"
+          }
+        ]
+      },
+      {
+        "stt": 5,
+        "id": "noxus_emblem",
+        "name": "Ấn Noxus",
+        "image": "TFT16_Item_NoxusEmblemItem.png",
+        "description": "Chủ sở hữu nhận thêm tộc/hệ Noxus.",
+        "damage_modifier": [
+          {
+            "image": "AD.png",
+            "damage": "+10%"
+          }
+        ],
+        "average_position": "4.39",
+        "top_4_rate": "50.2",
+        "top_1_rate": "16.69",
+        "battle": "69,342",
+        "champions": [
+          {
+            "id": "kindred",
+            "name": "Kindred",
+            "image": "tft16_kindred.tft_set16.png"
+          },
+          {
+            "id": "fiddlesticks",
+            "name": "Fiddlesticks",
+            "image": "tft16_fiddlesticks.tft_set16.png"
+          },
+          {
+            "id": "shyvana",
+            "name": "Shyvana",
+            "image": "tft16_shyvana.tft_set16.png"
+          },
+          {
+            "id": "azir",
+            "name": "Azir",
+            "image": "tft16_azir.tft_set16.png"
+          },
+          {
+            "id": "kobuko_&_yuumi",
+            "name": "Kobuko & Yuumi",
+            "image": "tft16_kobuko.tft_set16.png"
+          }
+        ],
+        "item_components": [
+          {
+            "id": "spatula",
+            "name": "Siêu Xẻng",
+            "image": "TFT_Item_Spatula.png"
+          },
+          {
+            "id": "b.f._sword",
+            "name": "Kiếm B.F.",
+            "image": "TFT_Item_BFSword.png"
           }
         ]
       },
@@ -15362,118 +15362,6 @@
         ]
       },
       {
-        "stt": 10,
-        "id": "quickstriker_emblem",
-        "name": "Ấn Cực Tốc",
-        "image": "TFT16_Item_RapidfireEmblemItem.png",
-        "description": "Chủ sở hữu nhận thêm tộc/hệ Cực Tốc. Khi tham gia hạ gục, lướt tới mục tiêu gần nhất và hồi lại 10% Máu tối đa.",
-        "damage_modifier": [
-          {
-            "image": "AS.png",
-            "damage": "+10%"
-          }
-        ],
-        "average_position": "4.05",
-        "top_4_rate": "58.24",
-        "top_1_rate": "16.25",
-        "battle": "49,791",
-        "champions": [
-          {
-            "id": "lucian_&_senna",
-            "name": "Lucian & Senna",
-            "image": "tft16_lucian.tft_set16.png"
-          },
-          {
-            "id": "sett",
-            "name": "Sett",
-            "image": "tft16_sett.tft_set16.png"
-          },
-          {
-            "id": "ambessa",
-            "name": "Ambessa",
-            "image": "tft16_ambessa.tft_set16.png"
-          },
-          {
-            "id": "fizz",
-            "name": "Fizz",
-            "image": "tft16_fizz.tft_set16.png"
-          },
-          {
-            "id": "miss_fortune",
-            "name": "Miss Fortune",
-            "image": "tft16_missfortune.tft_set16.png"
-          }
-        ],
-        "item_components": [
-          {
-            "id": "frying_pan",
-            "name": "Chảo Vàng",
-            "image": "TFT_Item_FryingPan.png"
-          },
-          {
-            "id": "recurve_bow",
-            "name": "Cung Gỗ",
-            "image": "TFT_Item_RecurveBow.png"
-          }
-        ]
-      },
-      {
-        "stt": 11,
-        "id": "juggernaut_emblem",
-        "name": "Ấn Dũng Sĩ",
-        "image": "TFT16_Item_JuggernautEmblemItem.png",
-        "description": "Chủ sở hữu nhận tộc/hệ Dũng Sĩ và 10% Máu tối đa của các tướng Dũng Sĩ khác khi họ hy sinh.",
-        "damage_modifier": [
-          {
-            "image": "MR.png",
-            "damage": "+20"
-          }
-        ],
-        "average_position": "4.03",
-        "top_4_rate": "58.64",
-        "top_1_rate": "17.05",
-        "battle": "49,514",
-        "champions": [
-          {
-            "id": "rift_herald",
-            "name": "Sứ Giả Khe Nứt",
-            "image": "tft16_riftherald_splash_tile_0.tft_set16.png"
-          },
-          {
-            "id": "garen",
-            "name": "Garen",
-            "image": "tft16_garen.tft_set16.png"
-          },
-          {
-            "id": "taric",
-            "name": "Taric",
-            "image": "tft16_taric.tft_set16.png"
-          },
-          {
-            "id": "wukong",
-            "name": "Ngộ Không",
-            "image": "tft16_wukong.tft_set16.png"
-          },
-          {
-            "id": "tahm_kench",
-            "name": "Tahm Kench",
-            "image": "tft16_tahmkench.tft_set16.png"
-          }
-        ],
-        "item_components": [
-          {
-            "id": "frying_pan",
-            "name": "Chảo Vàng",
-            "image": "TFT_Item_FryingPan.png"
-          },
-          {
-            "id": "negatron_cloak",
-            "name": "Áo Choàng Bạc",
-            "image": "TFT_Item_NegatronCloak.png"
-          }
-        ]
-      },
-      {
         "stt": 12,
         "id": "vanquisher_emblem",
         "name": "Ấn Chinh Phạt",
@@ -15526,6 +15414,118 @@
             "id": "sparring_gloves",
             "name": "Găng Đấu Tập",
             "image": "TFT_Item_SparringGloves.png"
+          }
+        ]
+      },
+      {
+        "stt": 11,
+        "id": "juggernaut_emblem",
+        "name": "Ấn Dũng Sĩ",
+        "image": "TFT16_Item_JuggernautEmblemItem.png",
+        "description": "Chủ sở hữu nhận tộc/hệ Dũng Sĩ và 10% Máu tối đa của các tướng Dũng Sĩ khác khi họ hy sinh.",
+        "damage_modifier": [
+          {
+            "image": "MR.png",
+            "damage": "+20"
+          }
+        ],
+        "average_position": "4.03",
+        "top_4_rate": "58.64",
+        "top_1_rate": "17.05",
+        "battle": "49,514",
+        "champions": [
+          {
+            "id": "rift_herald",
+            "name": "Sứ Giả Khe Nứt",
+            "image": "tft16_riftherald_splash_tile_0.tft_set16.png"
+          },
+          {
+            "id": "garen",
+            "name": "Garen",
+            "image": "tft16_garen.tft_set16.png"
+          },
+          {
+            "id": "taric",
+            "name": "Taric",
+            "image": "tft16_taric.tft_set16.png"
+          },
+          {
+            "id": "wukong",
+            "name": "Wukong",
+            "image": "tft16_wukong.tft_set16.png"
+          },
+          {
+            "id": "tahm_kench",
+            "name": "Tahm Kench",
+            "image": "tft16_tahmkench.tft_set16.png"
+          }
+        ],
+        "item_components": [
+          {
+            "id": "frying_pan",
+            "name": "Chảo Vàng",
+            "image": "TFT_Item_FryingPan.png"
+          },
+          {
+            "id": "negatron_cloak",
+            "name": "Áo Choàng Bạc",
+            "image": "TFT_Item_NegatronCloak.png"
+          }
+        ]
+      },
+      {
+        "stt": 10,
+        "id": "quickstriker_emblem",
+        "name": "Ấn Cực Tốc",
+        "image": "TFT16_Item_RapidfireEmblemItem.png",
+        "description": "Chủ sở hữu nhận thêm tộc/hệ Cực Tốc. Khi tham gia hạ gục, lướt tới mục tiêu gần nhất và hồi lại 10% Máu tối đa.",
+        "damage_modifier": [
+          {
+            "image": "AS.png",
+            "damage": "+10%"
+          }
+        ],
+        "average_position": "4.05",
+        "top_4_rate": "58.24",
+        "top_1_rate": "16.25",
+        "battle": "49,791",
+        "champions": [
+          {
+            "id": "lucian_&_senna",
+            "name": "Lucian & Senna",
+            "image": "tft16_lucian.tft_set16.png"
+          },
+          {
+            "id": "sett",
+            "name": "Sett",
+            "image": "tft16_sett.tft_set16.png"
+          },
+          {
+            "id": "ambessa",
+            "name": "Ambessa",
+            "image": "tft16_ambessa.tft_set16.png"
+          },
+          {
+            "id": "fizz",
+            "name": "Fizz",
+            "image": "tft16_fizz.tft_set16.png"
+          },
+          {
+            "id": "miss_fortune",
+            "name": "Miss Fortune",
+            "image": "tft16_missfortune.tft_set16.png"
+          }
+        ],
+        "item_components": [
+          {
+            "id": "frying_pan",
+            "name": "Chảo Vàng",
+            "image": "TFT_Item_FryingPan.png"
+          },
+          {
+            "id": "recurve_bow",
+            "name": "Cung Gỗ",
+            "image": "TFT_Item_RecurveBow.png"
           }
         ]
       },
@@ -16241,51 +16241,6 @@
         "item_components": []
       },
       {
-        "stt": 6,
-        "id": "b.f._sword",
-        "name": "Kiếm B.F.",
-        "image": "TFT_Item_BFSword.png",
-        "description": "+10% Sức Mạnh Công Kích",
-        "damage_modifier": [
-          {
-            "image": "AD.png",
-            "damage": "+10%"
-          }
-        ],
-        "average_position": "4.78",
-        "top_4_rate": "45.48",
-        "top_1_rate": "10.50",
-        "battle": "109,136",
-        "champions": [
-          {
-            "id": "lucian_&_senna",
-            "name": "Lucian & Senna",
-            "image": "tft16_lucian.tft_set16.png"
-          },
-          {
-            "id": "kindred",
-            "name": "Kindred",
-            "image": "tft16_kindred.tft_set16.png"
-          },
-          {
-            "id": "shyvana",
-            "name": "Shyvana",
-            "image": "tft16_shyvana.tft_set16.png"
-          },
-          {
-            "id": "vi",
-            "name": "Vi",
-            "image": "tft16_vi.tft_set16.png"
-          },
-          {
-            "id": "vayne",
-            "name": "Vayne",
-            "image": "tft16_vayne.tft_set16.png"
-          }
-        ],
-        "item_components": []
-      },
-      {
         "stt": 7,
         "id": "negatron_cloak",
         "name": "Áo Choàng Bạc",
@@ -16326,6 +16281,51 @@
             "id": "galio",
             "name": "Galio",
             "image": "tft16_galio.tft_set16.png"
+          }
+        ],
+        "item_components": []
+      },
+      {
+        "stt": 6,
+        "id": "b.f._sword",
+        "name": "Kiếm B.F.",
+        "image": "TFT_Item_BFSword.png",
+        "description": "+10% Sức Mạnh Công Kích",
+        "damage_modifier": [
+          {
+            "image": "AD.png",
+            "damage": "+10%"
+          }
+        ],
+        "average_position": "4.78",
+        "top_4_rate": "45.48",
+        "top_1_rate": "10.50",
+        "battle": "109,136",
+        "champions": [
+          {
+            "id": "lucian_&_senna",
+            "name": "Lucian & Senna",
+            "image": "tft16_lucian.tft_set16.png"
+          },
+          {
+            "id": "kindred",
+            "name": "Kindred",
+            "image": "tft16_kindred.tft_set16.png"
+          },
+          {
+            "id": "shyvana",
+            "name": "Shyvana",
+            "image": "tft16_shyvana.tft_set16.png"
+          },
+          {
+            "id": "vi",
+            "name": "Vi",
+            "image": "tft16_vi.tft_set16.png"
+          },
+          {
+            "id": "vayne",
+            "name": "Vayne",
+            "image": "tft16_vayne.tft_set16.png"
           }
         ],
         "item_components": []
