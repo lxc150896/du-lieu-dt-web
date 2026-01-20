@@ -641,7 +641,31 @@
         "kich_hoat": "9"
     },
     {
-        "stt": 10,
+        "stt": 11,
+        "id": "immortal",
+        "name": "Bất Tử",
+        "image": "Trait_Icon_16_Immortal.TFT_Set16.png",
+        "description_icon": [
+            "Khi Xin Zhao không ở trên bàn đấu, Zaahen nhận tộc/hệ Ionia, Demacia và Cảnh Vệ.",
+            "\n"
+        ],
+        "description_detail": [],
+        "champions": [
+            {
+                "id": "zaahen",
+                "name": "Zaahen",
+                "image": "tft16_zaahen.tft_set16.png"
+            }
+        ],
+        "average_position": "3.21",
+        "top_4_rate": "76.45",
+        "top_1_rate": "18.75",
+        "battle": "24,551",
+        "trait": "Tộc",
+        "kich_hoat": "1"
+    },
+    {
+        "stt": 7,
         "id": "darkin",
         "name": "Darkin",
         "image": "Trait_Icon_16_Darkin.TFT_Set16.png",
@@ -673,36 +697,64 @@
                 "image": "tft16_zaahen.tft_set16.png"
             }
         ],
-        "average_position": "3.2",
-        "top_4_rate": "76.6",
-        "top_1_rate": "20.00",
-        "battle": "16,604",
+        "average_position": "2.56",
+        "top_4_rate": "88.75",
+        "top_1_rate": "26.66",
+        "battle": "1,538",
         "trait": "Tộc",
-        "kich_hoat": "2"
+        "kich_hoat": "3"
     },
     {
-        "stt": 11,
-        "id": "immortal",
-        "name": "Bất Tử",
-        "image": "Trait_Icon_16_Immortal.TFT_Set16.png",
+        "stt": 1,
+        "id": "shurima",
+        "name": "Shurima",
+        "image": "Trait_Icon_16_Shurima.TFT_Set16.png",
         "description_icon": [
-            "Khi Xin Zhao không ở trên bàn đấu, Zaahen nhận tộc/hệ Ionia, Demacia và Cảnh Vệ.",
+            "Mỗi giây, tướng Shurima nhận 2% Tốc Độ Đánh và hồi lại 20 Máu. Khi bắt đầu giao tranh, họ nhận thêm hiệu ứng.",
             "\n"
         ],
-        "description_detail": [],
+        "description_detail": [
+            [
+                "2",
+                "20% Máu tối đa"
+            ],
+            [
+                "3",
+                "50 Giáp và Kháng Phép"
+            ],
+            [
+                "4",
+                "1 tướng Shurima thăng hoa thành THẦN mỗi 3 giây."
+            ]
+        ],
         "champions": [
             {
-                "id": "zaahen",
-                "name": "Zaahen",
-                "image": "tft16_zaahen.tft_set16.png"
+                "id": "renekton",
+                "name": "Renekton",
+                "image": "tft16_renekton.tft_set16.png"
+            },
+            {
+                "id": "nasus",
+                "name": "Nasus",
+                "image": "tft16_nasus.tft_set16.png"
+            },
+            {
+                "id": "azir",
+                "name": "Azir",
+                "image": "tft16_azir.tft_set16.png"
+            },
+            {
+                "id": "xerath",
+                "name": "Xerath",
+                "image": "tft16_xerath.tft_set16.png"
             }
         ],
-        "average_position": "3.21",
-        "top_4_rate": "76.45",
-        "top_1_rate": "18.75",
-        "battle": "24,551",
+        "average_position": "1.03",
+        "top_4_rate": "100",
+        "top_1_rate": "97.43",
+        "battle": "1,013",
         "trait": "Tộc",
-        "kich_hoat": "1"
+        "kich_hoat": "4"
     },
     {
         "stt": 12,
@@ -779,7 +831,7 @@
         "kich_hoat": "5"
     },
     {
-        "stt": 13,
+        "stt": 12,
         "id": "longshot",
         "name": "Viễn Kích",
         "image": "Trait_Icon_16_Longshot.TFT_Set16.png",
@@ -845,64 +897,12 @@
                 "image": "tft16_ziggs.tft_set16.png"
             }
         ],
-        "average_position": "3.43",
-        "top_4_rate": "71.72",
-        "top_1_rate": "18.35",
-        "battle": "16,200",
+        "average_position": "3.4",
+        "top_4_rate": "72.05",
+        "top_1_rate": "17.43",
+        "battle": "2,197",
         "trait": "Hệ",
-        "kich_hoat": "4"
-    },
-    {
-        "stt": 14,
-        "id": "shurima",
-        "name": "Shurima",
-        "image": "Trait_Icon_16_Shurima.TFT_Set16.png",
-        "description_icon": [
-            "Mỗi giây, tướng Shurima nhận 2% Tốc Độ Đánh và hồi lại 20 Máu. Khi bắt đầu giao tranh, họ nhận thêm hiệu ứng.",
-            "\n"
-        ],
-        "description_detail": [
-            [
-                "2",
-                "20% Máu tối đa"
-            ],
-            [
-                "3",
-                "50 Giáp và Kháng Phép"
-            ],
-            [
-                "4",
-                "1 tướng Shurima thăng hoa thành THẦN mỗi 3 giây."
-            ]
-        ],
-        "champions": [
-            {
-                "id": "renekton",
-                "name": "Renekton",
-                "image": "tft16_renekton.tft_set16.png"
-            },
-            {
-                "id": "nasus",
-                "name": "Nasus",
-                "image": "tft16_nasus.tft_set16.png"
-            },
-            {
-                "id": "azir",
-                "name": "Azir",
-                "image": "tft16_azir.tft_set16.png"
-            },
-            {
-                "id": "xerath",
-                "name": "Xerath",
-                "image": "tft16_xerath.tft_set16.png"
-            }
-        ],
-        "average_position": "3.39",
-        "top_4_rate": "70.92",
-        "top_1_rate": "20.94",
-        "battle": "14,301",
-        "trait": "Tộc",
-        "kich_hoat": "3"
+        "kich_hoat": "5"
     },
     {
         "stt": 15,
@@ -982,7 +982,65 @@
         "kich_hoat": "5"
     },
     {
-        "stt": 16,
+        "stt": 17,
+        "id": "disruptor",
+        "name": "Nhiễu Loạn",
+        "image": "Trait_Icon_16_Disruptor.png",
+        "description_icon": [
+            "Kỹ năng của tướng Nhiễu Loạn làm Chói Lóa các kẻ địch trúng đòn. Tướng Nhiễu Loạn gây thêm sát thương lên những kẻ địch bị Chói Lóa.",
+            "\n"
+        ],
+        "description_detail": [
+            [
+                "2",
+                "18% sát thương cộng thêm"
+            ],
+            [
+                "4",
+                "40% sát thương cộng thêm"
+            ]
+        ],
+        "champions": [
+            {
+                "id": "ekko",
+                "name": "Ekko",
+                "image": "tft16_ekko.tft_set16.png"
+            },
+            {
+                "id": "malzahar",
+                "name": "Malzahar",
+                "image": "tft16_malzahar.tft_set16.png"
+            },
+            {
+                "id": "gwen",
+                "name": "Gwen",
+                "image": "tft16_gwen.tft_set16.png"
+            },
+            {
+                "id": "seraphine",
+                "name": "Seraphine",
+                "image": "tft16_seraphine.tft_set16.png"
+            },
+            {
+                "id": "azir",
+                "name": "Azir",
+                "image": "tft16_azir.tft_set16.png"
+            },
+            {
+                "id": "mel",
+                "name": "Mel",
+                "image": "tft16_mel.tft_set16.png"
+            }
+        ],
+        "average_position": "3.69",
+        "top_4_rate": "68",
+        "top_1_rate": "12.14",
+        "battle": "9,710",
+        "trait": "Hệ",
+        "kich_hoat": "4"
+    },
+    {
+        "stt": 15,
         "id": "vanquisher",
         "name": "Chinh Phạt",
         "image": "Trait_Icon_16_Vanquisher.png",
@@ -1051,70 +1109,12 @@
                 "image": "tft16_fiddlesticks.tft_set16.png"
             }
         ],
-        "average_position": "3.66",
-        "top_4_rate": "68.09",
-        "top_1_rate": "14.53",
-        "battle": "12,439",
+        "average_position": "3.55",
+        "top_4_rate": "68.96",
+        "top_1_rate": "17.55",
+        "battle": "2,935",
         "trait": "Hệ",
-        "kich_hoat": "4"
-    },
-    {
-        "stt": 17,
-        "id": "disruptor",
-        "name": "Nhiễu Loạn",
-        "image": "Trait_Icon_16_Disruptor.png",
-        "description_icon": [
-            "Kỹ năng của tướng Nhiễu Loạn làm Chói Lóa các kẻ địch trúng đòn. Tướng Nhiễu Loạn gây thêm sát thương lên những kẻ địch bị Chói Lóa.",
-            "\n"
-        ],
-        "description_detail": [
-            [
-                "2",
-                "18% sát thương cộng thêm"
-            ],
-            [
-                "4",
-                "40% sát thương cộng thêm"
-            ]
-        ],
-        "champions": [
-            {
-                "id": "ekko",
-                "name": "Ekko",
-                "image": "tft16_ekko.tft_set16.png"
-            },
-            {
-                "id": "malzahar",
-                "name": "Malzahar",
-                "image": "tft16_malzahar.tft_set16.png"
-            },
-            {
-                "id": "gwen",
-                "name": "Gwen",
-                "image": "tft16_gwen.tft_set16.png"
-            },
-            {
-                "id": "seraphine",
-                "name": "Seraphine",
-                "image": "tft16_seraphine.tft_set16.png"
-            },
-            {
-                "id": "azir",
-                "name": "Azir",
-                "image": "tft16_azir.tft_set16.png"
-            },
-            {
-                "id": "mel",
-                "name": "Mel",
-                "image": "tft16_mel.tft_set16.png"
-            }
-        ],
-        "average_position": "3.69",
-        "top_4_rate": "68",
-        "top_1_rate": "12.14",
-        "battle": "9,710",
-        "trait": "Hệ",
-        "kich_hoat": "4"
+        "kich_hoat": "5"
     },
     {
         "stt": 18,
@@ -1132,6 +1132,129 @@
         "battle": "10,714",
         "trait": "Hệ",
         "kich_hoat": "2"
+    },
+    {
+        "stt": 20,
+        "id": "harvester",
+        "name": "Bù Nhìn",
+        "image": "Trait_Icon_16_Harvester.TFT_Set16.png",
+        "description_icon": [
+            "Mỗi lần một tướng địch bị hạ gục, nhận 10 Năng Lượng. Thi triển kỹ năng sẽ không tiêu hao Năng Lượng.",
+            "\n"
+        ],
+        "description_detail": [],
+        "champions": [
+            {
+                "id": "fiddlesticks",
+                "name": "Fiddlesticks",
+                "image": "tft16_fiddlesticks.tft_set16.png"
+            }
+        ],
+        "average_position": "3.62",
+        "top_4_rate": "66.52",
+        "top_1_rate": "20.73",
+        "battle": "353,097",
+        "trait": "Tộc",
+        "kich_hoat": "1"
+    },
+    {
+        "stt": 25,
+        "id": "zaun",
+        "name": "Zaun",
+        "image": "Trait_Icon_16_Zaun.TFT_Set16.png",
+        "description_icon": [
+            "Sau 4 giây, tướng Zaun Dung Hợp Với Shimmer, tăng 10% Chống Chịu và 90% Tốc Độ Đánh giảm dần trong 4 giây.",
+            "\n",
+            "\n",
+            "Sau khoảng hồi chiêu ngắn, họ Dung Hợp Với Shimmer lần nữa.",
+            "\n"
+        ],
+        "description_detail": [
+            [
+                "3",
+                "Làm mới sau 4 giây."
+            ],
+            [
+                "5",
+                "Ở 60% Máu",
+                "tướng Zaun hồi 25% Máu trong 3 giây và lập tức Dung Hợp Với Shimmer."
+            ],
+            [
+                "7",
+                "Thưởng Dung Hợp Với Shimmer tăng thêm 50%. Thời gian làm mới đổi thành 3 giây."
+            ]
+        ],
+        "champions": [
+            {
+                "id": "blitzcrank",
+                "name": "Blitzcrank",
+                "image": "tft16_blitzcrank.tft_set16.png"
+            },
+            {
+                "id": "vi",
+                "name": "Vi",
+                "image": "tft16_vi.tft_set16.png"
+            },
+            {
+                "id": "ekko",
+                "name": "Ekko",
+                "image": "tft16_ekko.tft_set16.png"
+            },
+            {
+                "id": "jinx",
+                "name": "Jinx",
+                "image": "tft16_jinx.tft_set16.png"
+            },
+            {
+                "id": "dr._mundo",
+                "name": "Dr. Mundo",
+                "image": "tft16_drmundo.tft_set16.png"
+            },
+            {
+                "id": "singed",
+                "name": "Singed",
+                "image": "tft16_singed.tft_set16.png"
+            },
+            {
+                "id": "warwick",
+                "name": "Warwick",
+                "image": "tft16_warwick.tft_set16.png"
+            },
+            {
+                "id": "ziggs",
+                "name": "Ziggs",
+                "image": "tft16_ziggs.tft_set16.png"
+            }
+        ],
+        "average_position": "3.86",
+        "top_4_rate": "64.7",
+        "top_1_rate": "9.55",
+        "battle": "81,623",
+        "trait": "Tộc",
+        "kich_hoat": "7"
+    },
+    {
+        "stt": 21,
+        "id": "chainbreaker",
+        "name": "Kẻ Phá Xiềng",
+        "image": "Trait_Icon_16_Chainbreaker.TFT_Set16.png",
+        "description_icon": [
+            "Sylas luân chuyển giữa 3 kỹ năng khác nhau, tùy theo kỹ năng nào hữu dụng nhất vào thời điểm đó. Hắn không thể tung liên tiếp 2 lần cùng một kỹ năng."
+        ],
+        "description_detail": [],
+        "champions": [
+            {
+                "id": "sylas",
+                "name": "Sylas",
+                "image": "tft16_sylas.tft_set16.png"
+            }
+        ],
+        "average_position": "3.71",
+        "top_4_rate": "66.08",
+        "top_1_rate": "16.26",
+        "battle": "25,080",
+        "trait": "Tộc",
+        "kich_hoat": "1"
     },
     {
         "stt": 19,
@@ -1214,49 +1337,25 @@
         "kich_hoat": "6"
     },
     {
-        "stt": 20,
-        "id": "harvester",
-        "name": "Bù Nhìn",
-        "image": "Trait_Icon_16_Harvester.TFT_Set16.png",
+        "stt": 23,
+        "id": "dragonborn",
+        "name": "Long Nữ",
+        "image": "Trait_Icon_16_Dragonborn.TFT_Set16.png",
         "description_icon": [
-            "Mỗi lần một tướng địch bị hạ gục, nhận 10 Năng Lượng. Thi triển kỹ năng sẽ không tiêu hao Năng Lượng.",
-            "\n"
+            "Khi thi triển, Shyvana thay thế kỹ năng của mình bằng Hơi Thở Của Rồng. Khi hóa hình, mọi đồng minh giảm 10% sát thương gánh chịu từ Kỹ Năng của kẻ địch."
         ],
         "description_detail": [],
         "champions": [
             {
-                "id": "fiddlesticks",
-                "name": "Fiddlesticks",
-                "image": "tft16_fiddlesticks.tft_set16.png"
+                "id": "shyvana",
+                "name": "Shyvana",
+                "image": "tft16_shyvana.tft_set16.png"
             }
         ],
-        "average_position": "3.62",
-        "top_4_rate": "66.52",
-        "top_1_rate": "20.73",
-        "battle": "353,097",
-        "trait": "Tộc",
-        "kich_hoat": "1"
-    },
-    {
-        "stt": 21,
-        "id": "chainbreaker",
-        "name": "Kẻ Phá Xiềng",
-        "image": "Trait_Icon_16_Chainbreaker.TFT_Set16.png",
-        "description_icon": [
-            "Sylas luân chuyển giữa 3 kỹ năng khác nhau, tùy theo kỹ năng nào hữu dụng nhất vào thời điểm đó. Hắn không thể tung liên tiếp 2 lần cùng một kỹ năng."
-        ],
-        "description_detail": [],
-        "champions": [
-            {
-                "id": "sylas",
-                "name": "Sylas",
-                "image": "tft16_sylas.tft_set16.png"
-            }
-        ],
-        "average_position": "3.71",
-        "top_4_rate": "66.08",
-        "top_1_rate": "16.26",
-        "battle": "25,080",
+        "average_position": "3.68",
+        "top_4_rate": "65.33",
+        "top_1_rate": "20.11",
+        "battle": "476,243",
         "trait": "Tộc",
         "kich_hoat": "1"
     },
@@ -1285,29 +1384,6 @@
         "kich_hoat": "1"
     },
     {
-        "stt": 23,
-        "id": "dragonborn",
-        "name": "Long Nữ",
-        "image": "Trait_Icon_16_Dragonborn.TFT_Set16.png",
-        "description_icon": [
-            "Khi thi triển, Shyvana thay thế kỹ năng của mình bằng Hơi Thở Của Rồng. Khi hóa hình, mọi đồng minh giảm 10% sát thương gánh chịu từ Kỹ Năng của kẻ địch."
-        ],
-        "description_detail": [],
-        "champions": [
-            {
-                "id": "shyvana",
-                "name": "Shyvana",
-                "image": "tft16_shyvana.tft_set16.png"
-            }
-        ],
-        "average_position": "3.68",
-        "top_4_rate": "65.33",
-        "top_1_rate": "20.11",
-        "battle": "476,243",
-        "trait": "Tộc",
-        "kich_hoat": "1"
-    },
-    {
         "stt": 24,
         "id": "soulbound",
         "name": "Linh Hồn",
@@ -1332,80 +1408,79 @@
         "kich_hoat": "1"
     },
     {
-        "stt": 25,
-        "id": "zaun",
-        "name": "Zaun",
-        "image": "Trait_Icon_16_Zaun.TFT_Set16.png",
+        "stt": 28,
+        "id": "warden",
+        "name": "Cảnh Vệ",
+        "image": "Trait_Icon_16_Warden.TFT_Set16.png",
         "description_icon": [
-            "Sau 4 giây, tướng Zaun Dung Hợp Với Shimmer, tăng 10% Chống Chịu và 90% Tốc Độ Đánh giảm dần trong 4 giây.",
-            "\n",
-            "\n",
-            "Sau khoảng hồi chiêu ngắn, họ Dung Hợp Với Shimmer lần nữa.",
+            "Khi tướng Cảnh Vệ rớt xuống dưới 75% và 25% Máu lần đầu tiên, họ nhận Lá Chắn dựa trên Máu tối đa.",
             "\n"
         ],
         "description_detail": [
             [
+                "2",
+                "16%",
+                "Health.png"
+            ],
+            [
                 "3",
-                "Làm mới sau 4 giây."
+                "20%",
+                "Health.png"
+            ],
+            [
+                "4",
+                "26%",
+                "Health.png"
             ],
             [
                 "5",
-                "Ở 60% Máu",
-                "tướng Zaun hồi 25% Máu trong 3 giây và lập tức Dung Hợp Với Shimmer."
-            ],
-            [
-                "7",
-                "Thưởng Dung Hợp Với Shimmer tăng thêm 50%. Thời gian làm mới đổi thành 3 giây."
+                "33%",
+                "Health.png"
             ]
         ],
         "champions": [
             {
-                "id": "blitzcrank",
-                "name": "Blitzcrank",
-                "image": "tft16_blitzcrank.tft_set16.png"
+                "id": "xin_zhao",
+                "name": "Xin Zhao",
+                "image": "tft16_xinzhao.tft_set16.png"
             },
             {
-                "id": "vi",
-                "name": "Vi",
-                "image": "tft16_vi.tft_set16.png"
+                "id": "yorick",
+                "name": "Yorick",
+                "image": "tft16_yorick.tft_set16.png"
             },
             {
-                "id": "ekko",
-                "name": "Ekko",
-                "image": "tft16_ekko.tft_set16.png"
+                "id": "nautilus",
+                "name": "Nautilus",
+                "image": "tft16_nautilus.tft_set16.png"
             },
             {
-                "id": "jinx",
-                "name": "Jinx",
-                "image": "tft16_jinx.tft_set16.png"
+                "id": "loris",
+                "name": "Loris",
+                "image": "tft16_loris.tft_set16.png"
             },
             {
-                "id": "dr._mundo",
-                "name": "Dr. Mundo",
-                "image": "tft16_drmundo.tft_set16.png"
+                "id": "braum",
+                "name": "Braum",
+                "image": "tft16_braum.tft_set16.png"
             },
             {
-                "id": "singed",
-                "name": "Singed",
-                "image": "tft16_singed.tft_set16.png"
+                "id": "ornn",
+                "name": "Ornn",
+                "image": "tft16_ornn.tft_set16.png"
             },
             {
-                "id": "warwick",
-                "name": "Warwick",
-                "image": "tft16_warwick.tft_set16.png"
-            },
-            {
-                "id": "ziggs",
-                "name": "Ziggs",
-                "image": "tft16_ziggs.tft_set16.png"
+                "id": "thresh",
+                "name": "Thresh",
+                "image": "tft16_thresh.tft_set16.png"
             }
         ],
-        "average_position": "3.86",
-        "top_4_rate": "64.7",
-        "top_1_rate": "9.55",
-        "battle": "81,623",
-        "trait": "Tộc",
-        "kich_hoat": "7"
+        "average_position": "3.78",
+        "top_4_rate": "64.39",
+        "top_1_rate": "15.34",
+        "battle": "36,859",
+        "trait": "Hệ",
+        "kich_hoat": "5"
     },
     {
         "stt": 26,
@@ -1428,6 +1503,80 @@
         "top_4_rate": "64.49",
         "top_1_rate": "22.10",
         "battle": "259,967",
+        "trait": "Tộc",
+        "kich_hoat": "1"
+    },
+    {
+        "stt": 29,
+        "id": "chronokeeper",
+        "name": "Giám Hộ",
+        "image": "Trait_Icon_16_Chronokeeper.TFT_Set16.png",
+        "description_icon": [
+            "Mỗi 2 lần thi triển, tướng Giám Hộ tích trữ 1 XP. Nếu đã tích trữ đủ XP để bạn thăng cấp, ông ấy sẽ chuyển cho bạn lượng XP cần thiết.",
+            "\n",
+            "\n",
+            "Nếu đã đạt cấp 10, thay vào đó ông ấy sẽ trao 15% Khuếch Đại Sát Thương.",
+            "\n"
+        ],
+        "description_detail": [],
+        "champions": [
+            {
+                "id": "zilean",
+                "name": "Zilean",
+                "image": "tft16_zilean.tft_set16.png"
+            }
+        ],
+        "average_position": "3.78",
+        "top_4_rate": "64.26",
+        "top_1_rate": "17.48",
+        "battle": "190,022",
+        "trait": "Tộc",
+        "kich_hoat": "1"
+    },
+    {
+        "stt": 32,
+        "id": "eternal",
+        "name": "Vĩnh Hằng",
+        "image": "Trait_Icon_5_Eternal.png",
+        "description_icon": [
+            "Mỗi đòn đánh thứ ba từ Kindred lên cùng một kẻ địch gây 350% sát thương khi Sói cắn xé mục tiêu."
+        ],
+        "description_detail": [],
+        "champions": [
+            {
+                "id": "kindred",
+                "name": "Kindred",
+                "image": "tft16_kindred.tft_set16.png"
+            }
+        ],
+        "average_position": "3.79",
+        "top_4_rate": "63.7",
+        "top_1_rate": "17.58",
+        "battle": "331,714",
+        "trait": "Tộc",
+        "kich_hoat": "1"
+    },
+    {
+        "stt": 31,
+        "id": "heroic",
+        "name": "Siêu Hùng",
+        "image": "Trait_Icon_16_Heroic.TFT_Set16.png",
+        "description_icon": [
+            "Galio không thể được triển khai trong giao tranh này. Thay vào đó, tộc/hệ của ông vẫn sẽ được tính từ hàng chờ và khi các tướng Demacia Hiệu Triệu, ông sẽ tham gia giao tranh.",
+            "\n"
+        ],
+        "description_detail": [],
+        "champions": [
+            {
+                "id": "galio",
+                "name": "Galio",
+                "image": "tft16_galio.tft_set16.png"
+            }
+        ],
+        "average_position": "3.84",
+        "top_4_rate": "63.89",
+        "top_1_rate": "13.06",
+        "battle": "273,408",
         "trait": "Tộc",
         "kich_hoat": "1"
     },
@@ -1507,106 +1656,149 @@
         "kich_hoat": "4"
     },
     {
-        "stt": 28,
-        "id": "warden",
-        "name": "Cảnh Vệ",
-        "image": "Trait_Icon_16_Warden.TFT_Set16.png",
+        "stt": 33,
+        "id": "gunslinger",
+        "name": "Xạ Thủ",
+        "image": "Trait_Icon_16_Gunslinger.TFT_Set16.png",
         "description_icon": [
-            "Khi tướng Cảnh Vệ rớt xuống dưới 75% và 25% Máu lần đầu tiên, họ nhận Lá Chắn dựa trên Máu tối đa.",
+            "Tướng Xạ Thủ nhận Sức Mạnh Công Kích. Mỗi đòn đánh thứ 4 của tướng Xạ Thủ gây thêm sát thương vật lý.",
             "\n"
         ],
         "description_detail": [
             [
                 "2",
-                "16%",
-                "Health.png"
-            ],
-            [
-                "3",
                 "20%",
-                "Health.png"
+                "AD.png",
+                "",
+                "100 sát thương cộng thêm"
             ],
             [
                 "4",
-                "26%",
-                "Health.png"
-            ],
-            [
-                "5",
-                "33%",
-                "Health.png"
+                "35%",
+                "AD.png",
+                "",
+                "200 sát thương cộng thêm"
             ]
         ],
         "champions": [
             {
-                "id": "xin_zhao",
-                "name": "Xin Zhao",
-                "image": "tft16_xinzhao.tft_set16.png"
+                "id": "jhin",
+                "name": "Jhin",
+                "image": "tft16_jhin.tft_set16.png"
             },
             {
-                "id": "yorick",
-                "name": "Yorick",
-                "image": "tft16_yorick.tft_set16.png"
+                "id": "tristana",
+                "name": "Tristana",
+                "image": "tft16_tristana.tft_set16.png"
             },
             {
-                "id": "nautilus",
-                "name": "Nautilus",
-                "image": "tft16_nautilus.tft_set16.png"
+                "id": "graves",
+                "name": "Graves",
+                "image": "tft16_graves.tft_set16.png"
             },
             {
-                "id": "loris",
-                "name": "Loris",
-                "image": "tft16_loris.tft_set16.png"
+                "id": "jinx",
+                "name": "Jinx",
+                "image": "tft16_jinx.tft_set16.png"
             },
             {
-                "id": "braum",
-                "name": "Braum",
-                "image": "tft16_braum.tft_set16.png"
+                "id": "miss_fortune",
+                "name": "Miss Fortune",
+                "image": "tft16_missfortune.tft_set16.png"
             },
             {
-                "id": "ornn",
-                "name": "Ornn",
-                "image": "tft16_ornn.tft_set16.png"
+                "id": "t-hex",
+                "name": "T-Hex",
+                "image": "tft16_thex.tft_set16.png"
             },
             {
-                "id": "thresh",
-                "name": "Thresh",
-                "image": "tft16_thresh.tft_set16.png"
+                "id": "lucian_&_senna",
+                "name": "Lucian & Senna",
+                "image": "tft16_lucian.tft_set16.png"
             }
         ],
-        "average_position": "3.78",
-        "top_4_rate": "64.39",
-        "top_1_rate": "15.34",
-        "battle": "36,859",
+        "average_position": "3.8",
+        "top_4_rate": "62.14",
+        "top_1_rate": "20.97",
+        "battle": "7,708",
         "trait": "Hệ",
-        "kich_hoat": "5"
+        "kich_hoat": "4"
     },
     {
-        "stt": 29,
-        "id": "chronokeeper",
-        "name": "Giám Hộ",
-        "image": "Trait_Icon_16_Chronokeeper.TFT_Set16.png",
+        "stt": 25,
+        "id": "zaun",
+        "name": "Zaun",
+        "image": "Trait_Icon_16_Zaun.TFT_Set16.png",
         "description_icon": [
-            "Mỗi 2 lần thi triển, tướng Giám Hộ tích trữ 1 XP. Nếu đã tích trữ đủ XP để bạn thăng cấp, ông ấy sẽ chuyển cho bạn lượng XP cần thiết.",
+            "Sau 4 giây, tướng Zaun Dung Hợp Với Shimmer, tăng 10% Chống Chịu và 90% Tốc Độ Đánh giảm dần trong 4 giây.",
             "\n",
             "\n",
-            "Nếu đã đạt cấp 10, thay vào đó ông ấy sẽ trao 15% Khuếch Đại Sát Thương.",
+            "Sau khoảng hồi chiêu ngắn, họ Dung Hợp Với Shimmer lần nữa.",
             "\n"
         ],
-        "description_detail": [],
+        "description_detail": [
+            [
+                "3",
+                "Làm mới sau 4 giây."
+            ],
+            [
+                "5",
+                "Ở 60% Máu",
+                "tướng Zaun hồi 25% Máu trong 3 giây và lập tức Dung Hợp Với Shimmer."
+            ],
+            [
+                "7",
+                "Thưởng Dung Hợp Với Shimmer tăng thêm 50%. Thời gian làm mới đổi thành 3 giây."
+            ]
+        ],
         "champions": [
             {
-                "id": "zilean",
-                "name": "Zilean",
-                "image": "tft16_zilean.tft_set16.png"
+                "id": "blitzcrank",
+                "name": "Blitzcrank",
+                "image": "tft16_blitzcrank.tft_set16.png"
+            },
+            {
+                "id": "vi",
+                "name": "Vi",
+                "image": "tft16_vi.tft_set16.png"
+            },
+            {
+                "id": "ekko",
+                "name": "Ekko",
+                "image": "tft16_ekko.tft_set16.png"
+            },
+            {
+                "id": "jinx",
+                "name": "Jinx",
+                "image": "tft16_jinx.tft_set16.png"
+            },
+            {
+                "id": "dr._mundo",
+                "name": "Dr. Mundo",
+                "image": "tft16_drmundo.tft_set16.png"
+            },
+            {
+                "id": "singed",
+                "name": "Singed",
+                "image": "tft16_singed.tft_set16.png"
+            },
+            {
+                "id": "warwick",
+                "name": "Warwick",
+                "image": "tft16_warwick.tft_set16.png"
+            },
+            {
+                "id": "ziggs",
+                "name": "Ziggs",
+                "image": "tft16_ziggs.tft_set16.png"
             }
         ],
-        "average_position": "3.78",
-        "top_4_rate": "64.26",
-        "top_1_rate": "17.48",
-        "battle": "190,022",
+        "average_position": "3.86",
+        "top_4_rate": "64.7",
+        "top_1_rate": "9.55",
+        "battle": "81,623",
         "trait": "Tộc",
-        "kich_hoat": "1"
+        "kich_hoat": "7"
     },
     {
         "stt": 30,
@@ -1692,198 +1884,6 @@
         "kich_hoat": "7"
     },
     {
-        "stt": 31,
-        "id": "heroic",
-        "name": "Siêu Hùng",
-        "image": "Trait_Icon_16_Heroic.TFT_Set16.png",
-        "description_icon": [
-            "Galio không thể được triển khai trong giao tranh này. Thay vào đó, tộc/hệ của ông vẫn sẽ được tính từ hàng chờ và khi các tướng Demacia Hiệu Triệu, ông sẽ tham gia giao tranh.",
-            "\n"
-        ],
-        "description_detail": [],
-        "champions": [
-            {
-                "id": "galio",
-                "name": "Galio",
-                "image": "tft16_galio.tft_set16.png"
-            }
-        ],
-        "average_position": "3.84",
-        "top_4_rate": "63.89",
-        "top_1_rate": "13.06",
-        "battle": "273,408",
-        "trait": "Tộc",
-        "kich_hoat": "1"
-    },
-    {
-        "stt": 32,
-        "id": "eternal",
-        "name": "Vĩnh Hằng",
-        "image": "Trait_Icon_5_Eternal.png",
-        "description_icon": [
-            "Mỗi đòn đánh thứ ba từ Kindred lên cùng một kẻ địch gây 350% sát thương khi Sói cắn xé mục tiêu."
-        ],
-        "description_detail": [],
-        "champions": [
-            {
-                "id": "kindred",
-                "name": "Kindred",
-                "image": "tft16_kindred.tft_set16.png"
-            }
-        ],
-        "average_position": "3.79",
-        "top_4_rate": "63.7",
-        "top_1_rate": "17.58",
-        "battle": "331,714",
-        "trait": "Tộc",
-        "kich_hoat": "1"
-    },
-    {
-        "stt": 33,
-        "id": "gunslinger",
-        "name": "Xạ Thủ",
-        "image": "Trait_Icon_16_Gunslinger.TFT_Set16.png",
-        "description_icon": [
-            "Tướng Xạ Thủ nhận Sức Mạnh Công Kích. Mỗi đòn đánh thứ 4 của tướng Xạ Thủ gây thêm sát thương vật lý.",
-            "\n"
-        ],
-        "description_detail": [
-            [
-                "2",
-                "20%",
-                "AD.png",
-                "",
-                "100 sát thương cộng thêm"
-            ],
-            [
-                "4",
-                "35%",
-                "AD.png",
-                "",
-                "200 sát thương cộng thêm"
-            ]
-        ],
-        "champions": [
-            {
-                "id": "jhin",
-                "name": "Jhin",
-                "image": "tft16_jhin.tft_set16.png"
-            },
-            {
-                "id": "tristana",
-                "name": "Tristana",
-                "image": "tft16_tristana.tft_set16.png"
-            },
-            {
-                "id": "graves",
-                "name": "Graves",
-                "image": "tft16_graves.tft_set16.png"
-            },
-            {
-                "id": "jinx",
-                "name": "Jinx",
-                "image": "tft16_jinx.tft_set16.png"
-            },
-            {
-                "id": "miss_fortune",
-                "name": "Miss Fortune",
-                "image": "tft16_missfortune.tft_set16.png"
-            },
-            {
-                "id": "t-hex",
-                "name": "T-Hex",
-                "image": "tft16_thex.tft_set16.png"
-            },
-            {
-                "id": "lucian_&_senna",
-                "name": "Lucian & Senna",
-                "image": "tft16_lucian.tft_set16.png"
-            }
-        ],
-        "average_position": "3.8",
-        "top_4_rate": "62.14",
-        "top_1_rate": "20.97",
-        "battle": "7,708",
-        "trait": "Hệ",
-        "kich_hoat": "4"
-    },
-    {
-        "stt": 34,
-        "id": "zaun",
-        "name": "Zaun",
-        "image": "Trait_Icon_16_Zaun.TFT_Set16.png",
-        "description_icon": [
-            "Sau 4 giây, tướng Zaun Dung Hợp Với Shimmer, tăng 10% Chống Chịu và 90% Tốc Độ Đánh giảm dần trong 4 giây.",
-            "\n",
-            "\n",
-            "Sau khoảng hồi chiêu ngắn, họ Dung Hợp Với Shimmer lần nữa.",
-            "\n"
-        ],
-        "description_detail": [
-            [
-                "3",
-                "Làm mới sau 4 giây."
-            ],
-            [
-                "5",
-                "Ở 60% Máu",
-                "tướng Zaun hồi 25% Máu trong 3 giây và lập tức Dung Hợp Với Shimmer."
-            ],
-            [
-                "7",
-                "Thưởng Dung Hợp Với Shimmer tăng thêm 50%. Thời gian làm mới đổi thành 3 giây."
-            ]
-        ],
-        "champions": [
-            {
-                "id": "blitzcrank",
-                "name": "Blitzcrank",
-                "image": "tft16_blitzcrank.tft_set16.png"
-            },
-            {
-                "id": "vi",
-                "name": "Vi",
-                "image": "tft16_vi.tft_set16.png"
-            },
-            {
-                "id": "ekko",
-                "name": "Ekko",
-                "image": "tft16_ekko.tft_set16.png"
-            },
-            {
-                "id": "jinx",
-                "name": "Jinx",
-                "image": "tft16_jinx.tft_set16.png"
-            },
-            {
-                "id": "dr._mundo",
-                "name": "Dr. Mundo",
-                "image": "tft16_drmundo.tft_set16.png"
-            },
-            {
-                "id": "singed",
-                "name": "Singed",
-                "image": "tft16_singed.tft_set16.png"
-            },
-            {
-                "id": "warwick",
-                "name": "Warwick",
-                "image": "tft16_warwick.tft_set16.png"
-            },
-            {
-                "id": "ziggs",
-                "name": "Ziggs",
-                "image": "tft16_ziggs.tft_set16.png"
-            }
-        ],
-        "average_position": "4.01",
-        "top_4_rate": "61.19",
-        "top_1_rate": "10.88",
-        "battle": "99,545",
-        "trait": "Tộc",
-        "kich_hoat": "5"
-    },
-    {
         "stt": 35,
         "id": "quickstriker",
         "name": "Cực Tốc",
@@ -1959,81 +1959,6 @@
         "kich_hoat": "3"
     },
     {
-        "stt": 36,
-        "id": "quickstriker",
-        "name": "Cực Tốc",
-        "image": "Trait_Icon_16_Quickstriker.png",
-        "description_icon": [
-            "Đội của bạn nhận 15% Tốc Độ Đánh. Tướng Cực Tốc nhận thêm Tốc Độ Đánh dựa trên Máu đã mất của mục tiêu.",
-            "\n"
-        ],
-        "description_detail": [
-            [
-                "2",
-                "10 - 30%",
-                "AS.png"
-            ],
-            [
-                "3",
-                "20 - 45%",
-                "AS.png"
-            ],
-            [
-                "4",
-                "30 - 60%",
-                "AS.png"
-            ],
-            [
-                "5",
-                "40 - 80%",
-                "AS.png"
-            ]
-        ],
-        "champions": [
-            {
-                "id": "viego",
-                "name": "Viego",
-                "image": "tft16_viego.tft_set16.png"
-            },
-            {
-                "id": "twisted_fate",
-                "name": "Twisted Fate",
-                "image": "tft16_twistedfate.tft_set16.png"
-            },
-            {
-                "id": "ashe",
-                "name": "Ashe",
-                "image": "tft16_ashe.tft_set16.png"
-            },
-            {
-                "id": "draven",
-                "name": "Draven",
-                "image": "tft16_draven.tft_set16.png"
-            },
-            {
-                "id": "warwick",
-                "name": "Warwick",
-                "image": "tft16_warwick.tft_set16.png"
-            },
-            {
-                "id": "yunara",
-                "name": "Yunara",
-                "image": "tft16_yunara.tft_set16.png"
-            },
-            {
-                "id": "kindred",
-                "name": "Kindred",
-                "image": "tft16_kindred.tft_set16.png"
-            }
-        ],
-        "average_position": "3.96",
-        "top_4_rate": "60.96",
-        "top_1_rate": "13.85",
-        "battle": "3,942",
-        "trait": "Hệ",
-        "kich_hoat": "4"
-    },
-    {
         "stt": 37,
         "id": "ascendant",
         "name": "Thăng Hoa",
@@ -2057,7 +1982,7 @@
         "kich_hoat": "1"
     },
     {
-        "stt": 38,
+        "stt": 2,
         "id": "demacia",
         "name": "Demacia",
         "image": "Trait_Icon_16_Demacia.TFT_Set16.png",
@@ -2137,12 +2062,201 @@
                 "image": "tft16_galio.tft_set16.png"
             }
         ],
-        "average_position": "4.02",
-        "top_4_rate": "60.4",
-        "top_1_rate": "12.23",
-        "battle": "252,449",
+        "average_position": "1.1",
+        "top_4_rate": "100",
+        "top_1_rate": "90.27",
+        "battle": "524",
         "trait": "Tộc",
-        "kich_hoat": "7"
+        "kich_hoat": "11"
+    },
+    {
+        "stt": 35,
+        "id": "quickstriker",
+        "name": "Cực Tốc",
+        "image": "Trait_Icon_16_Quickstriker.png",
+        "description_icon": [
+            "Đội của bạn nhận 15% Tốc Độ Đánh. Tướng Cực Tốc nhận thêm Tốc Độ Đánh dựa trên Máu đã mất của mục tiêu.",
+            "\n"
+        ],
+        "description_detail": [
+            [
+                "2",
+                "10 - 30%",
+                "AS.png"
+            ],
+            [
+                "3",
+                "20 - 45%",
+                "AS.png"
+            ],
+            [
+                "4",
+                "30 - 60%",
+                "AS.png"
+            ],
+            [
+                "5",
+                "40 - 80%",
+                "AS.png"
+            ]
+        ],
+        "champions": [
+            {
+                "id": "viego",
+                "name": "Viego",
+                "image": "tft16_viego.tft_set16.png"
+            },
+            {
+                "id": "twisted_fate",
+                "name": "Twisted Fate",
+                "image": "tft16_twistedfate.tft_set16.png"
+            },
+            {
+                "id": "ashe",
+                "name": "Ashe",
+                "image": "tft16_ashe.tft_set16.png"
+            },
+            {
+                "id": "draven",
+                "name": "Draven",
+                "image": "tft16_draven.tft_set16.png"
+            },
+            {
+                "id": "warwick",
+                "name": "Warwick",
+                "image": "tft16_warwick.tft_set16.png"
+            },
+            {
+                "id": "yunara",
+                "name": "Yunara",
+                "image": "tft16_yunara.tft_set16.png"
+            },
+            {
+                "id": "kindred",
+                "name": "Kindred",
+                "image": "tft16_kindred.tft_set16.png"
+            }
+        ],
+        "average_position": "3.95",
+        "top_4_rate": "60.96",
+        "top_1_rate": "14.92",
+        "battle": "34,449",
+        "trait": "Hệ",
+        "kich_hoat": "3"
+    },
+    {
+        "stt": 7,
+        "id": "darkin",
+        "name": "Darkin",
+        "image": "Trait_Icon_16_Darkin.TFT_Set16.png",
+        "description_icon": [],
+        "description_detail": [
+            [
+                "1",
+                "Tướng Darkin nhận 15% Hút Máu Toàn Phần."
+            ],
+            [
+                "2",
+                "VÀ bạn hồi máu bằng 25% lượng sát thương gây ra."
+            ],
+            [
+                "3",
+                "VÀ mỗi khi tướng Darkin hồi lại 600 Máu",
+                "chúng gây 100 sát thương phép lên 2 kẻ địch gần nhất."
+            ]
+        ],
+        "champions": [
+            {
+                "id": "aatrox",
+                "name": "Aatrox",
+                "image": "tft16_aatrox.tft_set16.png"
+            },
+            {
+                "id": "zaahen",
+                "name": "Zaahen",
+                "image": "tft16_zaahen.tft_set16.png"
+            }
+        ],
+        "average_position": "2.56",
+        "top_4_rate": "88.75",
+        "top_1_rate": "26.66",
+        "battle": "1,538",
+        "trait": "Tộc",
+        "kich_hoat": "3"
+    },
+    {
+        "stt": 12,
+        "id": "longshot",
+        "name": "Viễn Kích",
+        "image": "Trait_Icon_16_Longshot.TFT_Set16.png",
+        "description_icon": [
+            "Tướng Viễn Kích nhận Khuếch Đại Sát Thương và gây thêm sát thương lên những mục tiêu ở xa.",
+            "\n"
+        ],
+        "description_detail": [
+            [
+                "2",
+                "18%",
+                "DA.png",
+                "+ 2% mỗi Ô"
+            ],
+            [
+                "3",
+                "24%",
+                "DA.png",
+                "+ 3% mỗi Ô"
+            ],
+            [
+                "4",
+                "28%",
+                "DA.png",
+                "+ 4% mỗi Ô"
+            ],
+            [
+                "5",
+                "32%",
+                "DA.png",
+                "+ 5% mỗi Ô"
+            ]
+        ],
+        "champions": [
+            {
+                "id": "caitlyn",
+                "name": "Caitlyn",
+                "image": "tft16_caitlyn.tft_set16.png"
+            },
+            {
+                "id": "kog'maw",
+                "name": "Kog'Maw",
+                "image": "tft16_kogmaw.tft_set16.png"
+            },
+            {
+                "id": "teemo",
+                "name": "Teemo",
+                "image": "tft16_teemo.tft_set16.png"
+            },
+            {
+                "id": "vayne",
+                "name": "Vayne",
+                "image": "tft16_vayne.tft_set16.png"
+            },
+            {
+                "id": "kai'sa",
+                "name": "Kai'Sa",
+                "image": "tft16_kaisa.tft_set16.png"
+            },
+            {
+                "id": "ziggs",
+                "name": "Ziggs",
+                "image": "tft16_ziggs.tft_set16.png"
+            }
+        ],
+        "average_position": "3.4",
+        "top_4_rate": "72.05",
+        "top_1_rate": "17.43",
+        "battle": "2,197",
+        "trait": "Hệ",
+        "kich_hoat": "5"
     },
     {
         "stt": 39,
@@ -2231,205 +2345,7 @@
         "kich_hoat": "5"
     },
     {
-        "stt": 40,
-        "id": "slayer",
-        "name": "Đồ Tể",
-        "image": "Trait_Icon_16_Slayer.png",
-        "description_icon": [
-            "Tướng Đồ Tể nhận Hút Máu Toàn Phần và Sức Mạnh Công Kích. Sức Mạnh Công Kích cộng thêm tăng lên tối đa 50% dựa trên Máu đã mất của họ.",
-            "\n"
-        ],
-        "description_detail": [
-            [
-                "2",
-                "22%",
-                "AD.png",
-                "",
-                "10%",
-                "SV.png"
-            ],
-            [
-                "4",
-                "33%",
-                "AD.png",
-                "",
-                "16%",
-                "SV.png"
-            ],
-            [
-                "6",
-                "44%",
-                "AD.png",
-                "",
-                "20%",
-                "SV.png"
-            ]
-        ],
-        "champions": [
-            {
-                "id": "briar",
-                "name": "Briar",
-                "image": "tft16_briar.tft_set16.png"
-            },
-            {
-                "id": "qiyana",
-                "name": "Qiyana",
-                "image": "tft16_qiyana.tft_set16.png"
-            },
-            {
-                "id": "yasuo",
-                "name": "Yasuo",
-                "image": "tft16_yasuo.tft_set16.png"
-            },
-            {
-                "id": "tryndamere",
-                "name": "Tryndamere",
-                "image": "tft16_tryndamere.tft_set16.png"
-            },
-            {
-                "id": "gangplank",
-                "name": "Gangplank",
-                "image": "tft16_gangplank.tft_set16.png"
-            },
-            {
-                "id": "bel'veth",
-                "name": "Bel'Veth",
-                "image": "tft16_belveth.tft_set16.png"
-            },
-            {
-                "id": "yone",
-                "name": "Yone",
-                "image": "tft16_yone.tft_set16.png"
-            },
-            {
-                "id": "aatrox",
-                "name": "Aatrox",
-                "image": "tft16_aatrox.tft_set16.png"
-            }
-        ],
-        "average_position": "4.05",
-        "top_4_rate": "60.06",
-        "top_1_rate": "11.81",
-        "battle": "22,066",
-        "trait": "Hệ",
-        "kich_hoat": "4"
-    },
-    {
-        "stt": 41,
-        "id": "darkin",
-        "name": "Darkin",
-        "image": "Trait_Icon_16_Darkin.TFT_Set16.png",
-        "description_icon": [],
-        "description_detail": [
-            [
-                "1",
-                "Tướng Darkin nhận 15% Hút Máu Toàn Phần."
-            ],
-            [
-                "2",
-                "VÀ bạn hồi máu bằng 25% lượng sát thương gây ra."
-            ],
-            [
-                "3",
-                "VÀ mỗi khi tướng Darkin hồi lại 600 Máu",
-                "chúng gây 100 sát thương phép lên 2 kẻ địch gần nhất."
-            ]
-        ],
-        "champions": [
-            {
-                "id": "aatrox",
-                "name": "Aatrox",
-                "image": "tft16_aatrox.tft_set16.png"
-            },
-            {
-                "id": "zaahen",
-                "name": "Zaahen",
-                "image": "tft16_zaahen.tft_set16.png"
-            }
-        ],
-        "average_position": "4",
-        "top_4_rate": "59.64",
-        "top_1_rate": "15.48",
-        "battle": "133,099",
-        "trait": "Tộc",
-        "kich_hoat": "1"
-    },
-    {
-        "stt": 42,
-        "id": "longshot",
-        "name": "Viễn Kích",
-        "image": "Trait_Icon_16_Longshot.TFT_Set16.png",
-        "description_icon": [
-            "Tướng Viễn Kích nhận Khuếch Đại Sát Thương và gây thêm sát thương lên những mục tiêu ở xa.",
-            "\n"
-        ],
-        "description_detail": [
-            [
-                "2",
-                "18%",
-                "DA.png",
-                "+ 2% mỗi Ô"
-            ],
-            [
-                "3",
-                "24%",
-                "DA.png",
-                "+ 3% mỗi Ô"
-            ],
-            [
-                "4",
-                "28%",
-                "DA.png",
-                "+ 4% mỗi Ô"
-            ],
-            [
-                "5",
-                "32%",
-                "DA.png",
-                "+ 5% mỗi Ô"
-            ]
-        ],
-        "champions": [
-            {
-                "id": "caitlyn",
-                "name": "Caitlyn",
-                "image": "tft16_caitlyn.tft_set16.png"
-            },
-            {
-                "id": "kog'maw",
-                "name": "Kog'Maw",
-                "image": "tft16_kogmaw.tft_set16.png"
-            },
-            {
-                "id": "teemo",
-                "name": "Teemo",
-                "image": "tft16_teemo.tft_set16.png"
-            },
-            {
-                "id": "vayne",
-                "name": "Vayne",
-                "image": "tft16_vayne.tft_set16.png"
-            },
-            {
-                "id": "kai'sa",
-                "name": "Kai'Sa",
-                "image": "tft16_kaisa.tft_set16.png"
-            },
-            {
-                "id": "ziggs",
-                "name": "Ziggs",
-                "image": "tft16_ziggs.tft_set16.png"
-            }
-        ],
-        "average_position": "4.01",
-        "top_4_rate": "59.54",
-        "top_1_rate": "15.33",
-        "battle": "75,326",
-        "trait": "Hệ",
-        "kich_hoat": "3"
-    },
-    {
-        "stt": 43,
+        "stt": 17,
         "id": "disruptor",
         "name": "Nhiễu Loạn",
         "image": "Trait_Icon_16_Disruptor.png",
@@ -2479,104 +2395,12 @@
                 "image": "tft16_mel.tft_set16.png"
             }
         ],
-        "average_position": "4.07",
-        "top_4_rate": "59.33",
-        "top_1_rate": "11.67",
-        "battle": "366,525",
+        "average_position": "3.69",
+        "top_4_rate": "68",
+        "top_1_rate": "12.14",
+        "battle": "9,710",
         "trait": "Hệ",
-        "kich_hoat": "2"
-    },
-    {
-        "stt": 44,
-        "id": "bilgewater",
-        "name": "Bilgewater",
-        "image": "Trait_Icon_9_Bilgewater.png",
-        "description_icon": [
-            "Mỗi giao tranh người chơi, nhận Đồng Ngân Xà (",
-            "TFT16_Bilgewater_scaleSerpents.png",
-            "), cộng thêm 2 với mỗi lần tướng Bilgewater tham gia hạ gục.",
-            "\n",
-            "\n",
-            "Đồng Ngân Xà có thể được dùng trong Chợ Đen để mang lại chỉ số thưởng cho các tướng Bilgewater cùng báu vật đặc biệt. Bậc càng cao sẽ mở khóa báu vật càng hiếm.",
-            "\n"
-        ],
-        "description_detail": [
-            [
-                "3",
-                "15",
-                "TFT16_Bilgewater_scaleSerpents.png"
-            ],
-            [
-                "5",
-                "35",
-                "TFT16_Bilgewater_scaleSerpents.png",
-                "",
-                "báu vật nâng cấp"
-            ],
-            [
-                "7",
-                "65",
-                "TFT16_Bilgewater_scaleSerpents.png",
-                "",
-                "báu vật thượng hạng"
-            ],
-            [
-                "10",
-                "150",
-                "TFT16_Bilgewater_scaleSerpents.png",
-                "",
-                "2x chỉ số",
-                "KHAI HỎA ĐẠI BÁC!"
-            ]
-        ],
-        "champions": [
-            {
-                "id": "illaoi",
-                "name": "Illaoi",
-                "image": "tft16_illaoi.tft_set16.png"
-            },
-            {
-                "id": "twisted_fate",
-                "name": "Twisted Fate",
-                "image": "tft16_twistedfate.tft_set16.png"
-            },
-            {
-                "id": "graves",
-                "name": "Graves",
-                "image": "tft16_graves.tft_set16.png"
-            },
-            {
-                "id": "nautilus",
-                "name": "Nautilus",
-                "image": "tft16_nautilus.tft_set16.png"
-            },
-            {
-                "id": "gangplank",
-                "name": "Gangplank",
-                "image": "tft16_gangplank.tft_set16.png"
-            },
-            {
-                "id": "miss_fortune",
-                "name": "Miss Fortune",
-                "image": "tft16_missfortune.tft_set16.png"
-            },
-            {
-                "id": "fizz",
-                "name": "Fizz",
-                "image": "tft16_fizz.tft_set16.png"
-            },
-            {
-                "id": "tahm_kench",
-                "name": "Tahm Kench",
-                "image": "tft16_tahmkench.tft_set16.png"
-            }
-        ],
-        "average_position": "3.98",
-        "top_4_rate": "58.98",
-        "top_1_rate": "18.80",
-        "battle": "139,575",
-        "trait": "Tộc",
-        "kich_hoat": "3"
+        "kich_hoat": "4"
     },
     {
         "stt": 45,
@@ -2676,7 +2500,7 @@
         "kich_hoat": "2"
     },
     {
-        "stt": 46,
+        "stt": 12,
         "id": "longshot",
         "name": "Viễn Kích",
         "image": "Trait_Icon_16_Longshot.TFT_Set16.png",
@@ -2742,15 +2566,107 @@
                 "image": "tft16_ziggs.tft_set16.png"
             }
         ],
-        "average_position": "3.96",
-        "top_4_rate": "58.94",
-        "top_1_rate": "20.57",
-        "battle": "439,153",
+        "average_position": "3.4",
+        "top_4_rate": "72.05",
+        "top_1_rate": "17.43",
+        "battle": "2,197",
         "trait": "Hệ",
-        "kich_hoat": "2"
+        "kich_hoat": "5"
     },
     {
-        "stt": 47,
+        "stt": 4,
+        "id": "bilgewater",
+        "name": "Bilgewater",
+        "image": "Trait_Icon_9_Bilgewater.png",
+        "description_icon": [
+            "Mỗi giao tranh người chơi, nhận Đồng Ngân Xà (",
+            "TFT16_Bilgewater_scaleSerpents.png",
+            "), cộng thêm 2 với mỗi lần tướng Bilgewater tham gia hạ gục.",
+            "\n",
+            "\n",
+            "Đồng Ngân Xà có thể được dùng trong Chợ Đen để mang lại chỉ số thưởng cho các tướng Bilgewater cùng báu vật đặc biệt. Bậc càng cao sẽ mở khóa báu vật càng hiếm.",
+            "\n"
+        ],
+        "description_detail": [
+            [
+                "3",
+                "15",
+                "TFT16_Bilgewater_scaleSerpents.png"
+            ],
+            [
+                "5",
+                "35",
+                "TFT16_Bilgewater_scaleSerpents.png",
+                "",
+                "báu vật nâng cấp"
+            ],
+            [
+                "7",
+                "65",
+                "TFT16_Bilgewater_scaleSerpents.png",
+                "",
+                "báu vật thượng hạng"
+            ],
+            [
+                "10",
+                "150",
+                "TFT16_Bilgewater_scaleSerpents.png",
+                "",
+                "2x chỉ số",
+                "KHAI HỎA ĐẠI BÁC!"
+            ]
+        ],
+        "champions": [
+            {
+                "id": "illaoi",
+                "name": "Illaoi",
+                "image": "tft16_illaoi.tft_set16.png"
+            },
+            {
+                "id": "twisted_fate",
+                "name": "Twisted Fate",
+                "image": "tft16_twistedfate.tft_set16.png"
+            },
+            {
+                "id": "graves",
+                "name": "Graves",
+                "image": "tft16_graves.tft_set16.png"
+            },
+            {
+                "id": "nautilus",
+                "name": "Nautilus",
+                "image": "tft16_nautilus.tft_set16.png"
+            },
+            {
+                "id": "gangplank",
+                "name": "Gangplank",
+                "image": "tft16_gangplank.tft_set16.png"
+            },
+            {
+                "id": "miss_fortune",
+                "name": "Miss Fortune",
+                "image": "tft16_missfortune.tft_set16.png"
+            },
+            {
+                "id": "fizz",
+                "name": "Fizz",
+                "image": "tft16_fizz.tft_set16.png"
+            },
+            {
+                "id": "tahm_kench",
+                "name": "Tahm Kench",
+                "image": "tft16_tahmkench.tft_set16.png"
+            }
+        ],
+        "average_position": "1.17",
+        "top_4_rate": "98.84",
+        "top_1_rate": "91.37",
+        "battle": "8,329",
+        "trait": "Tộc",
+        "kich_hoat": "10"
+    },
+    {
+        "stt": 35,
         "id": "quickstriker",
         "name": "Cực Tốc",
         "image": "Trait_Icon_16_Quickstriker.png",
@@ -2817,92 +2733,15 @@
                 "image": "tft16_kindred.tft_set16.png"
             }
         ],
-        "average_position": "4.05",
-        "top_4_rate": "58.6",
-        "top_1_rate": "15.48",
-        "battle": "347,655",
-        "trait": "Hệ",
-        "kich_hoat": "2"
-    },
-    {
-        "stt": 48,
-        "id": "vanquisher",
-        "name": "Chinh Phạt",
-        "image": "Trait_Icon_16_Vanquisher.png",
-        "description_icon": [
-            "Kỹ năng của tướng Chinh Phạt có thể chí mạng. Họ đồng thời nhận thêm Tỉ Lệ Chí Mạng và Sát Thương Chí Mạng.",
-            "\n"
-        ],
-        "description_detail": [
-            [
-                "2",
-                "15%",
-                "Crit.png",
-                "",
-                "15%",
-                "CritMult.png"
-            ],
-            [
-                "3",
-                "20%",
-                "Crit.png",
-                "",
-                "20%",
-                "CritMult.png"
-            ],
-            [
-                "4",
-                "25%",
-                "Crit.png",
-                "",
-                "25%",
-                "CritMult.png"
-            ],
-            [
-                "5",
-                "30%",
-                "Crit.png",
-                "",
-                "30%",
-                "CritMult.png"
-            ]
-        ],
-        "champions": [
-            {
-                "id": "rek'sai",
-                "name": "Rek'Sai",
-                "image": "tft16_reksai.tft_set16.png"
-            },
-            {
-                "id": "gangplank",
-                "name": "Gangplank",
-                "image": "tft16_gangplank.tft_set16.png"
-            },
-            {
-                "id": "ambessa",
-                "name": "Ambessa",
-                "image": "tft16_ambessa.tft_set16.png"
-            },
-            {
-                "id": "kalista",
-                "name": "Kalista",
-                "image": "tft16_kalista.tft_set16.png"
-            },
-            {
-                "id": "fiddlesticks",
-                "name": "Fiddlesticks",
-                "image": "tft16_fiddlesticks.tft_set16.png"
-            }
-        ],
-        "average_position": "4.09",
-        "top_4_rate": "58.48",
-        "top_1_rate": "13.07",
-        "battle": "37,630",
+        "average_position": "3.95",
+        "top_4_rate": "60.96",
+        "top_1_rate": "14.92",
+        "battle": "34,449",
         "trait": "Hệ",
         "kich_hoat": "3"
     },
     {
-        "stt": 49,
+        "stt": 27,
         "id": "juggernaut",
         "name": "Dũng Sĩ",
         "image": "Trait_Icon_16_Juggernaut.png",
@@ -2969,90 +2808,126 @@
                 "image": "tft16_shyvana.tft_set16.png"
             }
         ],
-        "average_position": "4.08",
-        "top_4_rate": "58.17",
-        "top_1_rate": "14.54",
-        "battle": "1,027,753",
+        "average_position": "3.81",
+        "top_4_rate": "64.46",
+        "top_1_rate": "14.68",
+        "battle": "97,632",
         "trait": "Hệ",
-        "kich_hoat": "2"
+        "kich_hoat": "4"
     },
     {
-        "stt": 50,
-        "id": "quickstriker",
-        "name": "Cực Tốc",
-        "image": "Trait_Icon_16_Quickstriker.png",
+        "stt": 40,
+        "id": "slayer",
+        "name": "Đồ Tể",
+        "image": "Trait_Icon_16_Slayer.png",
         "description_icon": [
-            "Đội của bạn nhận 15% Tốc Độ Đánh. Tướng Cực Tốc nhận thêm Tốc Độ Đánh dựa trên Máu đã mất của mục tiêu.",
+            "Tướng Đồ Tể nhận Hút Máu Toàn Phần và Sức Mạnh Công Kích. Sức Mạnh Công Kích cộng thêm tăng lên tối đa 50% dựa trên Máu đã mất của họ.",
             "\n"
         ],
         "description_detail": [
             [
                 "2",
-                "10 - 30%",
-                "AS.png"
-            ],
-            [
-                "3",
-                "20 - 45%",
-                "AS.png"
+                "22%",
+                "AD.png",
+                "",
+                "10%",
+                "SV.png"
             ],
             [
                 "4",
-                "30 - 60%",
-                "AS.png"
+                "33%",
+                "AD.png",
+                "",
+                "16%",
+                "SV.png"
             ],
             [
-                "5",
-                "40 - 80%",
-                "AS.png"
+                "6",
+                "44%",
+                "AD.png",
+                "",
+                "20%",
+                "SV.png"
             ]
         ],
         "champions": [
             {
-                "id": "viego",
-                "name": "Viego",
-                "image": "tft16_viego.tft_set16.png"
+                "id": "briar",
+                "name": "Briar",
+                "image": "tft16_briar.tft_set16.png"
             },
             {
-                "id": "twisted_fate",
-                "name": "Twisted Fate",
-                "image": "tft16_twistedfate.tft_set16.png"
+                "id": "qiyana",
+                "name": "Qiyana",
+                "image": "tft16_qiyana.tft_set16.png"
             },
             {
-                "id": "ashe",
-                "name": "Ashe",
-                "image": "tft16_ashe.tft_set16.png"
+                "id": "yasuo",
+                "name": "Yasuo",
+                "image": "tft16_yasuo.tft_set16.png"
             },
             {
-                "id": "draven",
-                "name": "Draven",
-                "image": "tft16_draven.tft_set16.png"
+                "id": "tryndamere",
+                "name": "Tryndamere",
+                "image": "tft16_tryndamere.tft_set16.png"
             },
             {
-                "id": "warwick",
-                "name": "Warwick",
-                "image": "tft16_warwick.tft_set16.png"
+                "id": "gangplank",
+                "name": "Gangplank",
+                "image": "tft16_gangplank.tft_set16.png"
             },
             {
-                "id": "yunara",
-                "name": "Yunara",
-                "image": "tft16_yunara.tft_set16.png"
+                "id": "bel'veth",
+                "name": "Bel'Veth",
+                "image": "tft16_belveth.tft_set16.png"
             },
             {
-                "id": "kindred",
-                "name": "Kindred",
-                "image": "tft16_kindred.tft_set16.png"
+                "id": "yone",
+                "name": "Yone",
+                "image": "tft16_yone.tft_set16.png"
+            },
+            {
+                "id": "aatrox",
+                "name": "Aatrox",
+                "image": "tft16_aatrox.tft_set16.png"
             }
         ],
-        "average_position": "4.13",
-        "top_4_rate": "57.87",
-        "top_1_rate": "10.53",
-        "battle": "997",
+        "average_position": "4.05",
+        "top_4_rate": "60.06",
+        "top_1_rate": "11.81",
+        "battle": "22,066",
         "trait": "Hệ",
-        "kich_hoat": "5"
+        "kich_hoat": "4"
     },
     {
-        "stt": 51,
+        "stt": 53,
+        "id": "blacksmith",
+        "name": "Thần Rèn",
+        "image": "Trait_Icon_16_Blacksmith.TFT_Set16.png",
+        "description_icon": [
+            "Sau mỗi giao tranh người chơi mà Ornn mạnh nhất của bạn tham gia, ông sẽ tăng tiến độ rèn ra một trang bị Tạo Tác.",
+            "\n",
+            "\n",
+            "Mỗi trang bị mà Ornn mang sẽ cho ông 250/450/2000 Máu tối đa. Các tạo tác cho thêm 300% .",
+            "\n"
+        ],
+        "description_detail": [],
+        "champions": [
+            {
+                "id": "ornn",
+                "name": "Ornn",
+                "image": "tft16_ornn.tft_set16.png"
+            }
+        ],
+        "average_position": "4.08",
+        "top_4_rate": "57.37",
+        "top_1_rate": "17.32",
+        "battle": "316,744",
+        "trait": "Tộc",
+        "kich_hoat": "1"
+    },
+    {
+        "stt": 6,
         "id": "yordle",
         "name": "Yordle",
         "image": "Trait_Icon_16_Yordle.TFT_Set16.png",
@@ -3127,12 +3002,12 @@
                 "image": "tft16_ziggs.tft_set16.png"
             }
         ],
-        "average_position": "4.06",
-        "top_4_rate": "57.71",
-        "top_1_rate": "18.27",
-        "battle": "402,223",
+        "average_position": "1.39",
+        "top_4_rate": "97.38",
+        "top_1_rate": "79.42",
+        "battle": "8,523",
         "trait": "Tộc",
-        "kich_hoat": "2"
+        "kich_hoat": "10"
     },
     {
         "stt": 52,
@@ -3155,33 +3030,6 @@
         "top_4_rate": "57.45",
         "top_1_rate": "17.98",
         "battle": "410,488",
-        "trait": "Tộc",
-        "kich_hoat": "1"
-    },
-    {
-        "stt": 53,
-        "id": "blacksmith",
-        "name": "Thần Rèn",
-        "image": "Trait_Icon_16_Blacksmith.TFT_Set16.png",
-        "description_icon": [
-            "Sau mỗi giao tranh người chơi mà Ornn mạnh nhất của bạn tham gia, ông sẽ tăng tiến độ rèn ra một trang bị Tạo Tác.",
-            "\n",
-            "\n",
-            "Mỗi trang bị mà Ornn mang sẽ cho ông 250/450/2000 Máu tối đa. Các tạo tác cho thêm 300% .",
-            "\n"
-        ],
-        "description_detail": [],
-        "champions": [
-            {
-                "id": "ornn",
-                "name": "Ornn",
-                "image": "tft16_ornn.tft_set16.png"
-            }
-        ],
-        "average_position": "4.08",
-        "top_4_rate": "57.37",
-        "top_1_rate": "17.32",
-        "battle": "316,744",
         "trait": "Tộc",
         "kich_hoat": "1"
     },
@@ -3213,7 +3061,7 @@
         "kich_hoat": "1"
     },
     {
-        "stt": 55,
+        "stt": 15,
         "id": "vanquisher",
         "name": "Chinh Phạt",
         "image": "Trait_Icon_16_Vanquisher.png",
@@ -3282,12 +3130,12 @@
                 "image": "tft16_fiddlesticks.tft_set16.png"
             }
         ],
-        "average_position": "4.12",
-        "top_4_rate": "57.07",
-        "top_1_rate": "14.83",
-        "battle": "173,920",
+        "average_position": "3.55",
+        "top_4_rate": "68.96",
+        "top_1_rate": "17.55",
+        "battle": "2,935",
         "trait": "Hệ",
-        "kich_hoat": "2"
+        "kich_hoat": "5"
     },
     {
         "stt": 56,
@@ -3352,7 +3200,107 @@
         "kich_hoat": "2"
     },
     {
-        "stt": 57,
+        "stt": 15,
+        "id": "vanquisher",
+        "name": "Chinh Phạt",
+        "image": "Trait_Icon_16_Vanquisher.png",
+        "description_icon": [
+            "Kỹ năng của tướng Chinh Phạt có thể chí mạng. Họ đồng thời nhận thêm Tỉ Lệ Chí Mạng và Sát Thương Chí Mạng.",
+            "\n"
+        ],
+        "description_detail": [
+            [
+                "2",
+                "15%",
+                "Crit.png",
+                "",
+                "15%",
+                "CritMult.png"
+            ],
+            [
+                "3",
+                "20%",
+                "Crit.png",
+                "",
+                "20%",
+                "CritMult.png"
+            ],
+            [
+                "4",
+                "25%",
+                "Crit.png",
+                "",
+                "25%",
+                "CritMult.png"
+            ],
+            [
+                "5",
+                "30%",
+                "Crit.png",
+                "",
+                "30%",
+                "CritMult.png"
+            ]
+        ],
+        "champions": [
+            {
+                "id": "rek'sai",
+                "name": "Rek'Sai",
+                "image": "tft16_reksai.tft_set16.png"
+            },
+            {
+                "id": "gangplank",
+                "name": "Gangplank",
+                "image": "tft16_gangplank.tft_set16.png"
+            },
+            {
+                "id": "ambessa",
+                "name": "Ambessa",
+                "image": "tft16_ambessa.tft_set16.png"
+            },
+            {
+                "id": "kalista",
+                "name": "Kalista",
+                "image": "tft16_kalista.tft_set16.png"
+            },
+            {
+                "id": "fiddlesticks",
+                "name": "Fiddlesticks",
+                "image": "tft16_fiddlesticks.tft_set16.png"
+            }
+        ],
+        "average_position": "3.55",
+        "top_4_rate": "68.96",
+        "top_1_rate": "17.55",
+        "battle": "2,935",
+        "trait": "Hệ",
+        "kich_hoat": "5"
+    },
+    {
+        "stt": 81,
+        "id": "huntress",
+        "name": "Nữ Thợ Săn",
+        "image": "Trait_Icon_16_Huntress.TFT_Set16.png",
+        "description_icon": [
+            "Khi Neeko mạnh nhất của bạn còn sống, Nidalee mạnh nhất của bạn không thể bị chọn mục tiêu bởi đòn đánh thường và nhận 50% Chống Chịu."
+        ],
+        "description_detail": [],
+        "champions": [
+            {
+                "id": "nidalee",
+                "name": "Nidalee",
+                "image": "tft16_nidalee.tft_set16.png"
+            }
+        ],
+        "average_position": "4.51",
+        "top_4_rate": "51.11",
+        "top_1_rate": "9.82",
+        "battle": "98,693",
+        "trait": "Tộc",
+        "kich_hoat": "1"
+    },
+    {
+        "stt": 5,
         "id": "ionia",
         "name": "Ionia",
         "image": "Trait_Icon_16_Ionia.TFT_Set16.png",
@@ -3444,99 +3392,337 @@
                 "image": "tft16_sett.tft_set16.png"
             }
         ],
-        "average_position": "4.2",
-        "top_4_rate": "55.73",
-        "top_1_rate": "14.83",
-        "battle": "126,272",
+        "average_position": "1.26",
+        "top_4_rate": "98.34",
+        "top_1_rate": "85.24",
+        "battle": "2,948",
         "trait": "Tộc",
-        "kich_hoat": "5"
+        "kich_hoat": "10"
     },
     {
-        "stt": 58,
-        "id": "slayer",
-        "name": "Đồ Tể",
-        "image": "Trait_Icon_16_Slayer.png",
+        "stt": 25,
+        "id": "zaun",
+        "name": "Zaun",
+        "image": "Trait_Icon_16_Zaun.TFT_Set16.png",
         "description_icon": [
-            "Tướng Đồ Tể nhận Hút Máu Toàn Phần và Sức Mạnh Công Kích. Sức Mạnh Công Kích cộng thêm tăng lên tối đa 50% dựa trên Máu đã mất của họ.",
+            "Sau 4 giây, tướng Zaun Dung Hợp Với Shimmer, tăng 10% Chống Chịu và 90% Tốc Độ Đánh giảm dần trong 4 giây.",
+            "\n",
+            "\n",
+            "Sau khoảng hồi chiêu ngắn, họ Dung Hợp Với Shimmer lần nữa.",
+            "\n"
+        ],
+        "description_detail": [
+            [
+                "3",
+                "Làm mới sau 4 giây."
+            ],
+            [
+                "5",
+                "Ở 60% Máu",
+                "tướng Zaun hồi 25% Máu trong 3 giây và lập tức Dung Hợp Với Shimmer."
+            ],
+            [
+                "7",
+                "Thưởng Dung Hợp Với Shimmer tăng thêm 50%. Thời gian làm mới đổi thành 3 giây."
+            ]
+        ],
+        "champions": [
+            {
+                "id": "blitzcrank",
+                "name": "Blitzcrank",
+                "image": "tft16_blitzcrank.tft_set16.png"
+            },
+            {
+                "id": "vi",
+                "name": "Vi",
+                "image": "tft16_vi.tft_set16.png"
+            },
+            {
+                "id": "ekko",
+                "name": "Ekko",
+                "image": "tft16_ekko.tft_set16.png"
+            },
+            {
+                "id": "jinx",
+                "name": "Jinx",
+                "image": "tft16_jinx.tft_set16.png"
+            },
+            {
+                "id": "dr._mundo",
+                "name": "Dr. Mundo",
+                "image": "tft16_drmundo.tft_set16.png"
+            },
+            {
+                "id": "singed",
+                "name": "Singed",
+                "image": "tft16_singed.tft_set16.png"
+            },
+            {
+                "id": "warwick",
+                "name": "Warwick",
+                "image": "tft16_warwick.tft_set16.png"
+            },
+            {
+                "id": "ziggs",
+                "name": "Ziggs",
+                "image": "tft16_ziggs.tft_set16.png"
+            }
+        ],
+        "average_position": "3.86",
+        "top_4_rate": "64.7",
+        "top_1_rate": "9.55",
+        "battle": "81,623",
+        "trait": "Tộc",
+        "kich_hoat": "7"
+    },
+    {
+        "stt": 62,
+        "id": "invoker",
+        "name": "Thuật Sĩ",
+        "image": "Trait_Icon_16_Invoker.png",
+        "description_icon": [
+            "Đội của bạn nhận 1 Hồi Năng Lượng. Tướng Thuật Sĩ nhận thêm Năng Lượng từ mọi nguồn.",
             "\n"
         ],
         "description_detail": [
             [
                 "2",
-                "22%",
-                "AD.png",
-                "",
-                "10%",
-                "SV.png"
+                "Thêm 25% Năng Lượng nữa"
             ],
             [
                 "4",
-                "33%",
-                "AD.png",
-                "",
-                "16%",
-                "SV.png"
-            ],
-            [
-                "6",
-                "44%",
-                "AD.png",
-                "",
-                "20%",
-                "SV.png"
+                "Thêm 40% Năng Lượng nữa"
             ]
         ],
         "champions": [
             {
-                "id": "briar",
-                "name": "Briar",
-                "image": "tft16_briar.tft_set16.png"
+                "id": "sona",
+                "name": "Sona",
+                "image": "tft16_sona.tft_set16.png"
             },
             {
-                "id": "qiyana",
-                "name": "Qiyana",
-                "image": "tft16_qiyana.tft_set16.png"
+                "id": "anivia",
+                "name": "Anivia",
+                "image": "tft16_anivia.tft_set16.png"
             },
             {
-                "id": "yasuo",
-                "name": "Yasuo",
-                "image": "tft16_yasuo.tft_set16.png"
+                "id": "orianna",
+                "name": "Orianna",
+                "image": "tft16_orianna.tft_set16.png"
             },
             {
-                "id": "tryndamere",
-                "name": "Tryndamere",
-                "image": "tft16_tryndamere.tft_set16.png"
+                "id": "milio",
+                "name": "Milio",
+                "image": "tft16_milio.tft_set16.png"
             },
             {
-                "id": "gangplank",
-                "name": "Gangplank",
-                "image": "tft16_gangplank.tft_set16.png"
+                "id": "leblanc",
+                "name": "LeBlanc",
+                "image": "tft16_leblanc.tft_set16.png"
             },
             {
-                "id": "bel'veth",
-                "name": "Bel'Veth",
-                "image": "tft16_belveth.tft_set16.png"
+                "id": "kobuko_&_yuumi",
+                "name": "Kobuko & Yuumi",
+                "image": "tft16_kobuko.tft_set16.png"
             },
             {
-                "id": "yone",
-                "name": "Yone",
-                "image": "tft16_yone.tft_set16.png"
+                "id": "lissandra",
+                "name": "Lissandra",
+                "image": "tft16_lissandra.tft_set16.png"
             },
             {
-                "id": "aatrox",
-                "name": "Aatrox",
-                "image": "tft16_aatrox.tft_set16.png"
+                "id": "zilean",
+                "name": "Zilean",
+                "image": "tft16_zilean.tft_set16.png"
             }
         ],
-        "average_position": "4.27",
-        "top_4_rate": "55.55",
-        "top_1_rate": "8.84",
-        "battle": "3,721",
+        "average_position": "4.25",
+        "top_4_rate": "55.05",
+        "top_1_rate": "14.29",
+        "battle": "366,269",
+        "trait": "Hệ",
+        "kich_hoat": "2"
+    },
+    {
+        "stt": 28,
+        "id": "warden",
+        "name": "Cảnh Vệ",
+        "image": "Trait_Icon_16_Warden.TFT_Set16.png",
+        "description_icon": [
+            "Khi tướng Cảnh Vệ rớt xuống dưới 75% và 25% Máu lần đầu tiên, họ nhận Lá Chắn dựa trên Máu tối đa.",
+            "\n"
+        ],
+        "description_detail": [
+            [
+                "2",
+                "16%",
+                "Health.png"
+            ],
+            [
+                "3",
+                "20%",
+                "Health.png"
+            ],
+            [
+                "4",
+                "26%",
+                "Health.png"
+            ],
+            [
+                "5",
+                "33%",
+                "Health.png"
+            ]
+        ],
+        "champions": [
+            {
+                "id": "xin_zhao",
+                "name": "Xin Zhao",
+                "image": "tft16_xinzhao.tft_set16.png"
+            },
+            {
+                "id": "yorick",
+                "name": "Yorick",
+                "image": "tft16_yorick.tft_set16.png"
+            },
+            {
+                "id": "nautilus",
+                "name": "Nautilus",
+                "image": "tft16_nautilus.tft_set16.png"
+            },
+            {
+                "id": "loris",
+                "name": "Loris",
+                "image": "tft16_loris.tft_set16.png"
+            },
+            {
+                "id": "braum",
+                "name": "Braum",
+                "image": "tft16_braum.tft_set16.png"
+            },
+            {
+                "id": "ornn",
+                "name": "Ornn",
+                "image": "tft16_ornn.tft_set16.png"
+            },
+            {
+                "id": "thresh",
+                "name": "Thresh",
+                "image": "tft16_thresh.tft_set16.png"
+            }
+        ],
+        "average_position": "3.78",
+        "top_4_rate": "64.39",
+        "top_1_rate": "15.34",
+        "battle": "36,859",
+        "trait": "Hệ",
+        "kich_hoat": "5"
+    },
+    {
+        "stt": 19,
+        "id": "bruiser",
+        "name": "Đấu Sĩ",
+        "image": "Trait_Icon_16_Bruiser.TFT_Set16.png",
+        "description_icon": [
+            "Đội của bạn nhận 150 Máu tối đa. Tướng Đấu Sĩ nhận được nhiều hơn.",
+            "\n"
+        ],
+        "description_detail": [
+            [
+                "2",
+                "25%",
+                "Health.png"
+            ],
+            [
+                "4",
+                "45%",
+                "Health.png"
+            ],
+            [
+                "6",
+                "65%",
+                "Health.png"
+            ]
+        ],
+        "champions": [
+            {
+                "id": "illaoi",
+                "name": "Illaoi",
+                "image": "tft16_illaoi.tft_set16.png"
+            },
+            {
+                "id": "shen",
+                "name": "Shen",
+                "image": "tft16_shen.tft_set16.png"
+            },
+            {
+                "id": "sion",
+                "name": "Sion",
+                "image": "tft16_sion.tft_set16.png"
+            },
+            {
+                "id": "dr._mundo",
+                "name": "Dr. Mundo",
+                "image": "tft16_drmundo.tft_set16.png"
+            },
+            {
+                "id": "kobuko_&_yuumi",
+                "name": "Kobuko & Yuumi",
+                "image": "tft16_kobuko.tft_set16.png"
+            },
+            {
+                "id": "wukong",
+                "name": "Ngộ Không",
+                "image": "tft16_wukong.tft_set16.png"
+            },
+            {
+                "id": "rift_herald",
+                "name": "Sứ Giả Khe Nứt",
+                "image": "tft16_riftherald_splash_tile_0.tft_set16.png"
+            },
+            {
+                "id": "tahm_kench",
+                "name": "Tahm Kench",
+                "image": "tft16_tahmkench.tft_set16.png"
+            },
+            {
+                "id": "volibear",
+                "name": "Volibear",
+                "image": "tft16_volibear.tft_set16.png"
+            }
+        ],
+        "average_position": "3.72",
+        "top_4_rate": "66.95",
+        "top_1_rate": "13.89",
+        "battle": "53,433",
         "trait": "Hệ",
         "kich_hoat": "6"
     },
     {
-        "stt": 59,
+        "stt": 65,
+        "id": "emperor",
+        "name": "Hoàng Đế",
+        "image": "Trait_Icon_16_Emperor.TFT_Set16.png",
+        "description_icon": [
+            "Azir triển khai 2 Lính Gác có thể được đặt ở bất cứ đâu trên chiến trận. Chúng chỉ đứng yên, không tấn công và sẽ biến mất nếu Azir bị hạ gục."
+        ],
+        "description_detail": [],
+        "champions": [
+            {
+                "id": "azir",
+                "name": "Azir",
+                "image": "tft16_azir.tft_set16.png"
+            }
+        ],
+        "average_position": "4.22",
+        "top_4_rate": "54.83",
+        "top_1_rate": "14.51",
+        "battle": "171,848",
+        "trait": "Tộc",
+        "kich_hoat": "1"
+    },
+    {
+        "stt": 45,
         "id": "arcanist",
         "name": "Pháp Sư",
         "image": "Trait_Icon_6_Arcanist.png",
@@ -3625,293 +3811,64 @@
                 "image": "tft16_annietibbers.tft_set16.png"
             }
         ],
-        "average_position": "4.25",
-        "top_4_rate": "55.24",
-        "top_1_rate": "13.08",
-        "battle": "47,279",
-        "trait": "Hệ",
-        "kich_hoat": "4"
-    },
-    {
-        "stt": 60,
-        "id": "warden",
-        "name": "Cảnh Vệ",
-        "image": "Trait_Icon_16_Warden.TFT_Set16.png",
-        "description_icon": [
-            "Khi tướng Cảnh Vệ rớt xuống dưới 75% và 25% Máu lần đầu tiên, họ nhận Lá Chắn dựa trên Máu tối đa.",
-            "\n"
-        ],
-        "description_detail": [
-            [
-                "2",
-                "16%",
-                "Health.png"
-            ],
-            [
-                "3",
-                "20%",
-                "Health.png"
-            ],
-            [
-                "4",
-                "26%",
-                "Health.png"
-            ],
-            [
-                "5",
-                "33%",
-                "Health.png"
-            ]
-        ],
-        "champions": [
-            {
-                "id": "xin_zhao",
-                "name": "Xin Zhao",
-                "image": "tft16_xinzhao.tft_set16.png"
-            },
-            {
-                "id": "yorick",
-                "name": "Yorick",
-                "image": "tft16_yorick.tft_set16.png"
-            },
-            {
-                "id": "nautilus",
-                "name": "Nautilus",
-                "image": "tft16_nautilus.tft_set16.png"
-            },
-            {
-                "id": "loris",
-                "name": "Loris",
-                "image": "tft16_loris.tft_set16.png"
-            },
-            {
-                "id": "braum",
-                "name": "Braum",
-                "image": "tft16_braum.tft_set16.png"
-            },
-            {
-                "id": "ornn",
-                "name": "Ornn",
-                "image": "tft16_ornn.tft_set16.png"
-            },
-            {
-                "id": "thresh",
-                "name": "Thresh",
-                "image": "tft16_thresh.tft_set16.png"
-            }
-        ],
-        "average_position": "4.24",
-        "top_4_rate": "55.21",
-        "top_1_rate": "12.08",
-        "battle": "44,535",
-        "trait": "Hệ",
-        "kich_hoat": "4"
-    },
-    {
-        "stt": 61,
-        "id": "bruiser",
-        "name": "Đấu Sĩ",
-        "image": "Trait_Icon_16_Bruiser.TFT_Set16.png",
-        "description_icon": [
-            "Đội của bạn nhận 150 Máu tối đa. Tướng Đấu Sĩ nhận được nhiều hơn.",
-            "\n"
-        ],
-        "description_detail": [
-            [
-                "2",
-                "25%",
-                "Health.png"
-            ],
-            [
-                "4",
-                "45%",
-                "Health.png"
-            ],
-            [
-                "6",
-                "65%",
-                "Health.png"
-            ]
-        ],
-        "champions": [
-            {
-                "id": "illaoi",
-                "name": "Illaoi",
-                "image": "tft16_illaoi.tft_set16.png"
-            },
-            {
-                "id": "shen",
-                "name": "Shen",
-                "image": "tft16_shen.tft_set16.png"
-            },
-            {
-                "id": "sion",
-                "name": "Sion",
-                "image": "tft16_sion.tft_set16.png"
-            },
-            {
-                "id": "dr._mundo",
-                "name": "Dr. Mundo",
-                "image": "tft16_drmundo.tft_set16.png"
-            },
-            {
-                "id": "kobuko_&_yuumi",
-                "name": "Kobuko & Yuumi",
-                "image": "tft16_kobuko.tft_set16.png"
-            },
-            {
-                "id": "wukong",
-                "name": "Ngộ Không",
-                "image": "tft16_wukong.tft_set16.png"
-            },
-            {
-                "id": "rift_herald",
-                "name": "Sứ Giả Khe Nứt",
-                "image": "tft16_riftherald_splash_tile_0.tft_set16.png"
-            },
-            {
-                "id": "tahm_kench",
-                "name": "Tahm Kench",
-                "image": "tft16_tahmkench.tft_set16.png"
-            },
-            {
-                "id": "volibear",
-                "name": "Volibear",
-                "image": "tft16_volibear.tft_set16.png"
-            }
-        ],
-        "average_position": "4.18",
-        "top_4_rate": "55.15",
-        "top_1_rate": "17.22",
-        "battle": "919,866",
+        "average_position": "4.05",
+        "top_4_rate": "58.94",
+        "top_1_rate": "15.45",
+        "battle": "743,279",
         "trait": "Hệ",
         "kich_hoat": "2"
     },
     {
-        "stt": 62,
-        "id": "invoker",
-        "name": "Thuật Sĩ",
-        "image": "Trait_Icon_16_Invoker.png",
+        "stt": 35,
+        "id": "quickstriker",
+        "name": "Cực Tốc",
+        "image": "Trait_Icon_16_Quickstriker.png",
         "description_icon": [
-            "Đội của bạn nhận 1 Hồi Năng Lượng. Tướng Thuật Sĩ nhận thêm Năng Lượng từ mọi nguồn.",
+            "Đội của bạn nhận 15% Tốc Độ Đánh. Tướng Cực Tốc nhận thêm Tốc Độ Đánh dựa trên Máu đã mất của mục tiêu.",
             "\n"
         ],
         "description_detail": [
             [
                 "2",
-                "Thêm 25% Năng Lượng nữa"
+                "10 - 30%",
+                "AS.png"
+            ],
+            [
+                "3",
+                "20 - 45%",
+                "AS.png"
             ],
             [
                 "4",
-                "Thêm 40% Năng Lượng nữa"
-            ]
-        ],
-        "champions": [
-            {
-                "id": "sona",
-                "name": "Sona",
-                "image": "tft16_sona.tft_set16.png"
-            },
-            {
-                "id": "anivia",
-                "name": "Anivia",
-                "image": "tft16_anivia.tft_set16.png"
-            },
-            {
-                "id": "orianna",
-                "name": "Orianna",
-                "image": "tft16_orianna.tft_set16.png"
-            },
-            {
-                "id": "milio",
-                "name": "Milio",
-                "image": "tft16_milio.tft_set16.png"
-            },
-            {
-                "id": "leblanc",
-                "name": "LeBlanc",
-                "image": "tft16_leblanc.tft_set16.png"
-            },
-            {
-                "id": "kobuko_&_yuumi",
-                "name": "Kobuko & Yuumi",
-                "image": "tft16_kobuko.tft_set16.png"
-            },
-            {
-                "id": "lissandra",
-                "name": "Lissandra",
-                "image": "tft16_lissandra.tft_set16.png"
-            },
-            {
-                "id": "zilean",
-                "name": "Zilean",
-                "image": "tft16_zilean.tft_set16.png"
-            }
-        ],
-        "average_position": "4.25",
-        "top_4_rate": "55.05",
-        "top_1_rate": "14.29",
-        "battle": "366,269",
-        "trait": "Hệ",
-        "kich_hoat": "2"
-    },
-    {
-        "stt": 63,
-        "id": "zaun",
-        "name": "Zaun",
-        "image": "Trait_Icon_16_Zaun.TFT_Set16.png",
-        "description_icon": [
-            "Sau 4 giây, tướng Zaun Dung Hợp Với Shimmer, tăng 10% Chống Chịu và 90% Tốc Độ Đánh giảm dần trong 4 giây.",
-            "\n",
-            "\n",
-            "Sau khoảng hồi chiêu ngắn, họ Dung Hợp Với Shimmer lần nữa.",
-            "\n"
-        ],
-        "description_detail": [
-            [
-                "3",
-                "Làm mới sau 4 giây."
+                "30 - 60%",
+                "AS.png"
             ],
             [
                 "5",
-                "Ở 60% Máu",
-                "tướng Zaun hồi 25% Máu trong 3 giây và lập tức Dung Hợp Với Shimmer."
-            ],
-            [
-                "7",
-                "Thưởng Dung Hợp Với Shimmer tăng thêm 50%. Thời gian làm mới đổi thành 3 giây."
+                "40 - 80%",
+                "AS.png"
             ]
         ],
         "champions": [
             {
-                "id": "blitzcrank",
-                "name": "Blitzcrank",
-                "image": "tft16_blitzcrank.tft_set16.png"
+                "id": "viego",
+                "name": "Viego",
+                "image": "tft16_viego.tft_set16.png"
             },
             {
-                "id": "vi",
-                "name": "Vi",
-                "image": "tft16_vi.tft_set16.png"
+                "id": "twisted_fate",
+                "name": "Twisted Fate",
+                "image": "tft16_twistedfate.tft_set16.png"
             },
             {
-                "id": "ekko",
-                "name": "Ekko",
-                "image": "tft16_ekko.tft_set16.png"
+                "id": "ashe",
+                "name": "Ashe",
+                "image": "tft16_ashe.tft_set16.png"
             },
             {
-                "id": "jinx",
-                "name": "Jinx",
-                "image": "tft16_jinx.tft_set16.png"
-            },
-            {
-                "id": "dr._mundo",
-                "name": "Dr. Mundo",
-                "image": "tft16_drmundo.tft_set16.png"
-            },
-            {
-                "id": "singed",
-                "name": "Singed",
-                "image": "tft16_singed.tft_set16.png"
+                "id": "draven",
+                "name": "Draven",
+                "image": "tft16_draven.tft_set16.png"
             },
             {
                 "id": "warwick",
@@ -3919,111 +3876,25 @@
                 "image": "tft16_warwick.tft_set16.png"
             },
             {
-                "id": "ziggs",
-                "name": "Ziggs",
-                "image": "tft16_ziggs.tft_set16.png"
+                "id": "yunara",
+                "name": "Yunara",
+                "image": "tft16_yunara.tft_set16.png"
+            },
+            {
+                "id": "kindred",
+                "name": "Kindred",
+                "image": "tft16_kindred.tft_set16.png"
             }
         ],
-        "average_position": "4.21",
-        "top_4_rate": "54.99",
-        "top_1_rate": "15.62",
-        "battle": "306,999",
-        "trait": "Tộc",
+        "average_position": "3.95",
+        "top_4_rate": "60.96",
+        "top_1_rate": "14.92",
+        "battle": "34,449",
+        "trait": "Hệ",
         "kich_hoat": "3"
     },
     {
-        "stt": 64,
-        "id": "invoker",
-        "name": "Thuật Sĩ",
-        "image": "Trait_Icon_16_Invoker.png",
-        "description_icon": [
-            "Đội của bạn nhận 1 Hồi Năng Lượng. Tướng Thuật Sĩ nhận thêm Năng Lượng từ mọi nguồn.",
-            "\n"
-        ],
-        "description_detail": [
-            [
-                "2",
-                "Thêm 25% Năng Lượng nữa"
-            ],
-            [
-                "4",
-                "Thêm 40% Năng Lượng nữa"
-            ]
-        ],
-        "champions": [
-            {
-                "id": "sona",
-                "name": "Sona",
-                "image": "tft16_sona.tft_set16.png"
-            },
-            {
-                "id": "anivia",
-                "name": "Anivia",
-                "image": "tft16_anivia.tft_set16.png"
-            },
-            {
-                "id": "orianna",
-                "name": "Orianna",
-                "image": "tft16_orianna.tft_set16.png"
-            },
-            {
-                "id": "milio",
-                "name": "Milio",
-                "image": "tft16_milio.tft_set16.png"
-            },
-            {
-                "id": "leblanc",
-                "name": "LeBlanc",
-                "image": "tft16_leblanc.tft_set16.png"
-            },
-            {
-                "id": "kobuko_&_yuumi",
-                "name": "Kobuko & Yuumi",
-                "image": "tft16_kobuko.tft_set16.png"
-            },
-            {
-                "id": "lissandra",
-                "name": "Lissandra",
-                "image": "tft16_lissandra.tft_set16.png"
-            },
-            {
-                "id": "zilean",
-                "name": "Zilean",
-                "image": "tft16_zilean.tft_set16.png"
-            }
-        ],
-        "average_position": "4.28",
-        "top_4_rate": "54.88",
-        "top_1_rate": "11.91",
-        "battle": "44,871",
-        "trait": "Hệ",
-        "kich_hoat": "4"
-    },
-    {
-        "stt": 65,
-        "id": "emperor",
-        "name": "Hoàng Đế",
-        "image": "Trait_Icon_16_Emperor.TFT_Set16.png",
-        "description_icon": [
-            "Azir triển khai 2 Lính Gác có thể được đặt ở bất cứ đâu trên chiến trận. Chúng chỉ đứng yên, không tấn công và sẽ biến mất nếu Azir bị hạ gục."
-        ],
-        "description_detail": [],
-        "champions": [
-            {
-                "id": "azir",
-                "name": "Azir",
-                "image": "tft16_azir.tft_set16.png"
-            }
-        ],
-        "average_position": "4.22",
-        "top_4_rate": "54.83",
-        "top_1_rate": "14.51",
-        "battle": "171,848",
-        "trait": "Tộc",
-        "kich_hoat": "1"
-    },
-    {
-        "stt": 66,
+        "stt": 1,
         "id": "shurima",
         "name": "Shurima",
         "image": "Trait_Icon_16_Shurima.TFT_Set16.png",
@@ -4067,15 +3938,99 @@
                 "image": "tft16_xerath.tft_set16.png"
             }
         ],
-        "average_position": "4.22",
-        "top_4_rate": "54.58",
-        "top_1_rate": "14.02",
-        "battle": "73,341",
+        "average_position": "1.03",
+        "top_4_rate": "100",
+        "top_1_rate": "97.43",
+        "battle": "1,013",
         "trait": "Tộc",
-        "kich_hoat": "2"
+        "kich_hoat": "4"
     },
     {
-        "stt": 67,
+        "stt": 40,
+        "id": "slayer",
+        "name": "Đồ Tể",
+        "image": "Trait_Icon_16_Slayer.png",
+        "description_icon": [
+            "Tướng Đồ Tể nhận Hút Máu Toàn Phần và Sức Mạnh Công Kích. Sức Mạnh Công Kích cộng thêm tăng lên tối đa 50% dựa trên Máu đã mất của họ.",
+            "\n"
+        ],
+        "description_detail": [
+            [
+                "2",
+                "22%",
+                "AD.png",
+                "",
+                "10%",
+                "SV.png"
+            ],
+            [
+                "4",
+                "33%",
+                "AD.png",
+                "",
+                "16%",
+                "SV.png"
+            ],
+            [
+                "6",
+                "44%",
+                "AD.png",
+                "",
+                "20%",
+                "SV.png"
+            ]
+        ],
+        "champions": [
+            {
+                "id": "briar",
+                "name": "Briar",
+                "image": "tft16_briar.tft_set16.png"
+            },
+            {
+                "id": "qiyana",
+                "name": "Qiyana",
+                "image": "tft16_qiyana.tft_set16.png"
+            },
+            {
+                "id": "yasuo",
+                "name": "Yasuo",
+                "image": "tft16_yasuo.tft_set16.png"
+            },
+            {
+                "id": "tryndamere",
+                "name": "Tryndamere",
+                "image": "tft16_tryndamere.tft_set16.png"
+            },
+            {
+                "id": "gangplank",
+                "name": "Gangplank",
+                "image": "tft16_gangplank.tft_set16.png"
+            },
+            {
+                "id": "bel'veth",
+                "name": "Bel'Veth",
+                "image": "tft16_belveth.tft_set16.png"
+            },
+            {
+                "id": "yone",
+                "name": "Yone",
+                "image": "tft16_yone.tft_set16.png"
+            },
+            {
+                "id": "aatrox",
+                "name": "Aatrox",
+                "image": "tft16_aatrox.tft_set16.png"
+            }
+        ],
+        "average_position": "4.05",
+        "top_4_rate": "60.06",
+        "top_1_rate": "11.81",
+        "battle": "22,066",
+        "trait": "Hệ",
+        "kich_hoat": "4"
+    },
+    {
+        "stt": 5,
         "id": "ionia",
         "name": "Ionia",
         "image": "Trait_Icon_16_Ionia.TFT_Set16.png",
@@ -4167,66 +4122,47 @@
                 "image": "tft16_sett.tft_set16.png"
             }
         ],
-        "average_position": "4.22",
-        "top_4_rate": "54.48",
-        "top_1_rate": "17.79",
-        "battle": "294,333",
+        "average_position": "1.26",
+        "top_4_rate": "98.34",
+        "top_1_rate": "85.24",
+        "battle": "2,948",
         "trait": "Tộc",
-        "kich_hoat": "3"
+        "kich_hoat": "10"
     },
     {
-        "stt": 68,
-        "id": "assimilator",
-        "name": "Cộng Sinh",
-        "image": "Trait_Icon_16_Assimilator.TFT_Set16.png",
-        "description_icon": [
-            "Kỹ năng của Kai'Sa sẽ thay đổi tùy vào việc Sức Mạnh Công Kích hay Sức Mạnh Phép Thuật đang cao hơn."
-        ],
-        "description_detail": [],
-        "champions": [
-            {
-                "id": "kai'sa",
-                "name": "Kai'Sa",
-                "image": "tft16_kaisa.tft_set16.png"
-            }
-        ],
-        "average_position": "4.27",
-        "top_4_rate": "54",
-        "top_1_rate": "13.48",
-        "battle": "231,041",
-        "trait": "Tộc",
-        "kich_hoat": "1"
-    },
-    {
-        "stt": 69,
-        "id": "gunslinger",
-        "name": "Xạ Thủ",
-        "image": "Trait_Icon_16_Gunslinger.TFT_Set16.png",
-        "description_icon": [
-            "Tướng Xạ Thủ nhận Sức Mạnh Công Kích. Mỗi đòn đánh thứ 4 của tướng Xạ Thủ gây thêm sát thương vật lý.",
-            "\n"
-        ],
+        "stt": 6,
+        "id": "yordle",
+        "name": "Yordle",
+        "image": "Trait_Icon_16_Yordle.TFT_Set16.png",
+        "description_icon": [],
         "description_detail": [
             [
                 "2",
-                "20%",
-                "AD.png",
-                "",
-                "100 sát thương cộng thêm"
+                "Tướng Yordle nhận 40 Máu và 5% Tốc Độ Đánh với mỗi tướng Yordle khác nhau được triển khai. Tướng Yordle 3 sao nhận thêm 100% nữa!"
             ],
             [
                 "4",
-                "35%",
-                "AD.png",
-                "",
-                "200 sát thương cộng thêm"
+                "VÀ cửa hàng đầu tiên của bạn mỗi vòng sẽ có 1 tướng Yordle!"
+            ],
+            [
+                "6",
+                "VÀ nhận 1 lượt đổi miễn phí mỗi vòng!"
+            ],
+            [
+                "8",
+                "VÀ nhận 1 Gói Yordle mỗi vòng!"
             ]
         ],
         "champions": [
             {
-                "id": "jhin",
-                "name": "Jhin",
-                "image": "tft16_jhin.tft_set16.png"
+                "id": "lulu",
+                "name": "Lulu",
+                "image": "tft16_lulu.tft_set16.png"
+            },
+            {
+                "id": "rumble",
+                "name": "Rumble",
+                "image": "tft16_rumble.tft_set16.png"
             },
             {
                 "id": "tristana",
@@ -4234,35 +4170,113 @@
                 "image": "tft16_tristana.tft_set16.png"
             },
             {
-                "id": "graves",
-                "name": "Graves",
-                "image": "tft16_graves.tft_set16.png"
+                "id": "teemo",
+                "name": "Teemo",
+                "image": "tft16_teemo.tft_set16.png"
             },
             {
-                "id": "jinx",
-                "name": "Jinx",
-                "image": "tft16_jinx.tft_set16.png"
+                "id": "poppy",
+                "name": "Poppy",
+                "image": "tft16_poppy.tft_set16.png"
             },
             {
-                "id": "miss_fortune",
-                "name": "Miss Fortune",
-                "image": "tft16_missfortune.tft_set16.png"
+                "id": "kennen",
+                "name": "Kennen",
+                "image": "tft16_kennen.tft_set16.png"
             },
             {
-                "id": "t-hex",
-                "name": "T-Hex",
-                "image": "tft16_thex.tft_set16.png"
+                "id": "kobuko_&_yuumi",
+                "name": "Kobuko & Yuumi",
+                "image": "tft16_kobuko.tft_set16.png"
             },
             {
-                "id": "lucian_&_senna",
-                "name": "Lucian & Senna",
-                "image": "tft16_lucian.tft_set16.png"
+                "id": "veigar",
+                "name": "Veigar",
+                "image": "tft16_veigar.tft_set16.png"
+            },
+            {
+                "id": "fizz",
+                "name": "Fizz",
+                "image": "tft16_fizz.tft_set16.png"
+            },
+            {
+                "id": "ziggs",
+                "name": "Ziggs",
+                "image": "tft16_ziggs.tft_set16.png"
             }
         ],
-        "average_position": "4.24",
-        "top_4_rate": "53.94",
-        "top_1_rate": "17.29",
-        "battle": "315,037",
+        "average_position": "1.39",
+        "top_4_rate": "97.38",
+        "top_1_rate": "79.42",
+        "battle": "8,523",
+        "trait": "Tộc",
+        "kich_hoat": "10"
+    },
+    {
+        "stt": 62,
+        "id": "invoker",
+        "name": "Thuật Sĩ",
+        "image": "Trait_Icon_16_Invoker.png",
+        "description_icon": [
+            "Đội của bạn nhận 1 Hồi Năng Lượng. Tướng Thuật Sĩ nhận thêm Năng Lượng từ mọi nguồn.",
+            "\n"
+        ],
+        "description_detail": [
+            [
+                "2",
+                "Thêm 25% Năng Lượng nữa"
+            ],
+            [
+                "4",
+                "Thêm 40% Năng Lượng nữa"
+            ]
+        ],
+        "champions": [
+            {
+                "id": "sona",
+                "name": "Sona",
+                "image": "tft16_sona.tft_set16.png"
+            },
+            {
+                "id": "anivia",
+                "name": "Anivia",
+                "image": "tft16_anivia.tft_set16.png"
+            },
+            {
+                "id": "orianna",
+                "name": "Orianna",
+                "image": "tft16_orianna.tft_set16.png"
+            },
+            {
+                "id": "milio",
+                "name": "Milio",
+                "image": "tft16_milio.tft_set16.png"
+            },
+            {
+                "id": "leblanc",
+                "name": "LeBlanc",
+                "image": "tft16_leblanc.tft_set16.png"
+            },
+            {
+                "id": "kobuko_&_yuumi",
+                "name": "Kobuko & Yuumi",
+                "image": "tft16_kobuko.tft_set16.png"
+            },
+            {
+                "id": "lissandra",
+                "name": "Lissandra",
+                "image": "tft16_lissandra.tft_set16.png"
+            },
+            {
+                "id": "zilean",
+                "name": "Zilean",
+                "image": "tft16_zilean.tft_set16.png"
+            }
+        ],
+        "average_position": "4.25",
+        "top_4_rate": "55.05",
+        "top_1_rate": "14.29",
+        "battle": "366,269",
         "trait": "Hệ",
         "kich_hoat": "2"
     },
@@ -4350,90 +4364,7 @@
         "kich_hoat": "2"
     },
     {
-        "stt": 71,
-        "id": "yordle",
-        "name": "Yordle",
-        "image": "Trait_Icon_16_Yordle.TFT_Set16.png",
-        "description_icon": [],
-        "description_detail": [
-            [
-                "2",
-                "Tướng Yordle nhận 40 Máu và 5% Tốc Độ Đánh với mỗi tướng Yordle khác nhau được triển khai. Tướng Yordle 3 sao nhận thêm 100% nữa!"
-            ],
-            [
-                "4",
-                "VÀ cửa hàng đầu tiên của bạn mỗi vòng sẽ có 1 tướng Yordle!"
-            ],
-            [
-                "6",
-                "VÀ nhận 1 lượt đổi miễn phí mỗi vòng!"
-            ],
-            [
-                "8",
-                "VÀ nhận 1 Gói Yordle mỗi vòng!"
-            ]
-        ],
-        "champions": [
-            {
-                "id": "lulu",
-                "name": "Lulu",
-                "image": "tft16_lulu.tft_set16.png"
-            },
-            {
-                "id": "rumble",
-                "name": "Rumble",
-                "image": "tft16_rumble.tft_set16.png"
-            },
-            {
-                "id": "tristana",
-                "name": "Tristana",
-                "image": "tft16_tristana.tft_set16.png"
-            },
-            {
-                "id": "teemo",
-                "name": "Teemo",
-                "image": "tft16_teemo.tft_set16.png"
-            },
-            {
-                "id": "poppy",
-                "name": "Poppy",
-                "image": "tft16_poppy.tft_set16.png"
-            },
-            {
-                "id": "kennen",
-                "name": "Kennen",
-                "image": "tft16_kennen.tft_set16.png"
-            },
-            {
-                "id": "kobuko_&_yuumi",
-                "name": "Kobuko & Yuumi",
-                "image": "tft16_kobuko.tft_set16.png"
-            },
-            {
-                "id": "veigar",
-                "name": "Veigar",
-                "image": "tft16_veigar.tft_set16.png"
-            },
-            {
-                "id": "fizz",
-                "name": "Fizz",
-                "image": "tft16_fizz.tft_set16.png"
-            },
-            {
-                "id": "ziggs",
-                "name": "Ziggs",
-                "image": "tft16_ziggs.tft_set16.png"
-            }
-        ],
-        "average_position": "4.23",
-        "top_4_rate": "53.3",
-        "top_1_rate": "20.87",
-        "battle": "189,300",
-        "trait": "Tộc",
-        "kich_hoat": "8"
-    },
-    {
-        "stt": 72,
+        "stt": 39,
         "id": "shadow_isles",
         "name": "Đảo Bóng Đêm",
         "image": "Trait_Icon_16_ShadowIsles.TFT_Set16.png",
@@ -4511,32 +4442,155 @@
                 "image": "tft16_thresh.tft_set16.png"
             }
         ],
-        "average_position": "4.43",
-        "top_4_rate": "52.97",
-        "top_1_rate": "11.60",
-        "battle": "34,849",
+        "average_position": "3.98",
+        "top_4_rate": "60.2",
+        "top_1_rate": "13.23",
+        "battle": "54,749",
         "trait": "Tộc",
+        "kich_hoat": "5"
+    },
+    {
+        "stt": 68,
+        "id": "assimilator",
+        "name": "Cộng Sinh",
+        "image": "Trait_Icon_16_Assimilator.TFT_Set16.png",
+        "description_icon": [
+            "Kỹ năng của Kai'Sa sẽ thay đổi tùy vào việc Sức Mạnh Công Kích hay Sức Mạnh Phép Thuật đang cao hơn."
+        ],
+        "description_detail": [],
+        "champions": [
+            {
+                "id": "kai'sa",
+                "name": "Kai'Sa",
+                "image": "tft16_kaisa.tft_set16.png"
+            }
+        ],
+        "average_position": "4.27",
+        "top_4_rate": "54",
+        "top_1_rate": "13.48",
+        "battle": "231,041",
+        "trait": "Tộc",
+        "kich_hoat": "1"
+    },
+    {
+        "stt": 33,
+        "id": "gunslinger",
+        "name": "Xạ Thủ",
+        "image": "Trait_Icon_16_Gunslinger.TFT_Set16.png",
+        "description_icon": [
+            "Tướng Xạ Thủ nhận Sức Mạnh Công Kích. Mỗi đòn đánh thứ 4 của tướng Xạ Thủ gây thêm sát thương vật lý.",
+            "\n"
+        ],
+        "description_detail": [
+            [
+                "2",
+                "20%",
+                "AD.png",
+                "",
+                "100 sát thương cộng thêm"
+            ],
+            [
+                "4",
+                "35%",
+                "AD.png",
+                "",
+                "200 sát thương cộng thêm"
+            ]
+        ],
+        "champions": [
+            {
+                "id": "jhin",
+                "name": "Jhin",
+                "image": "tft16_jhin.tft_set16.png"
+            },
+            {
+                "id": "tristana",
+                "name": "Tristana",
+                "image": "tft16_tristana.tft_set16.png"
+            },
+            {
+                "id": "graves",
+                "name": "Graves",
+                "image": "tft16_graves.tft_set16.png"
+            },
+            {
+                "id": "jinx",
+                "name": "Jinx",
+                "image": "tft16_jinx.tft_set16.png"
+            },
+            {
+                "id": "miss_fortune",
+                "name": "Miss Fortune",
+                "image": "tft16_missfortune.tft_set16.png"
+            },
+            {
+                "id": "t-hex",
+                "name": "T-Hex",
+                "image": "tft16_thex.tft_set16.png"
+            },
+            {
+                "id": "lucian_&_senna",
+                "name": "Lucian & Senna",
+                "image": "tft16_lucian.tft_set16.png"
+            }
+        ],
+        "average_position": "3.8",
+        "top_4_rate": "62.14",
+        "top_1_rate": "20.97",
+        "battle": "7,708",
+        "trait": "Hệ",
         "kich_hoat": "4"
     },
     {
-        "stt": 73,
-        "id": "sentinels_of_light",
-        "name": "Vệ Binh Ánh Sáng",
-        "image": "TeamUp_Trait_SentinelsOfLight.TFT_Set16.png",
+        "stt": 75,
+        "id": "targon",
+        "name": "Targon",
+        "image": "Trait_Icon_16_Targon.TFT_Set16.png",
         "description_icon": [
-            "Khi Vayne thi triển lên kẻ địch đang bị ảnh hưởng bởi Sương đen, cô bắn ra thêm 2 mũi tên với 25% hiệu lực. Khi cô tham gia hạ gục, Lucian và Senna nhận 50% Tốc Độ Đánh."
+            "Tướng Targon được nhào nặn bởi các tinh tú. Họ không mang tộc/hệ, nhưng mạnh hơn tướng thông thường."
         ],
         "description_detail": [],
-        "champions": [],
-        "average_position": "4.43",
-        "top_4_rate": "52.73",
-        "top_1_rate": "8.06",
-        "battle": "4,531",
-        "trait": "Hệ",
-        "kich_hoat": "2"
+        "champions": [
+            {
+                "id": "aphelios",
+                "name": "Aphelios",
+                "image": "tft16_aphelios.tft_set16.png"
+            },
+            {
+                "id": "zoe",
+                "name": "Zoe",
+                "image": "tft16_zoe.tft_set16.png"
+            },
+            {
+                "id": "leona",
+                "name": "Leona",
+                "image": "tft16_leona.tft_set16.png"
+            },
+            {
+                "id": "taric",
+                "name": "Taric",
+                "image": "tft16_taric.tft_set16.png"
+            },
+            {
+                "id": "diana",
+                "name": "Diana",
+                "image": "tft16_diana.tft_set16.png"
+            },
+            {
+                "id": "aurelion_sol",
+                "name": "Aurelion Sol",
+                "image": "tft16_aurelionsol.tft_set16.png"
+            }
+        ],
+        "average_position": "4.35",
+        "top_4_rate": "52.36",
+        "top_1_rate": "15.07",
+        "battle": "773,653",
+        "trait": "Tộc",
+        "kich_hoat": "1"
     },
     {
-        "stt": 74,
+        "stt": 28,
         "id": "warden",
         "name": "Cảnh Vệ",
         "image": "Trait_Icon_16_Warden.TFT_Set16.png",
@@ -4603,63 +4657,168 @@
                 "image": "tft16_thresh.tft_set16.png"
             }
         ],
-        "average_position": "4.34",
-        "top_4_rate": "52.44",
-        "top_1_rate": "15.24",
-        "battle": "282,329",
+        "average_position": "3.78",
+        "top_4_rate": "64.39",
+        "top_1_rate": "15.34",
+        "battle": "36,859",
         "trait": "Hệ",
-        "kich_hoat": "2"
+        "kich_hoat": "5"
     },
     {
-        "stt": 75,
-        "id": "targon",
-        "name": "Targon",
-        "image": "Trait_Icon_16_Targon.TFT_Set16.png",
+        "stt": 28,
+        "id": "warden",
+        "name": "Cảnh Vệ",
+        "image": "Trait_Icon_16_Warden.TFT_Set16.png",
         "description_icon": [
-            "Tướng Targon được nhào nặn bởi các tinh tú. Họ không mang tộc/hệ, nhưng mạnh hơn tướng thông thường."
+            "Khi tướng Cảnh Vệ rớt xuống dưới 75% và 25% Máu lần đầu tiên, họ nhận Lá Chắn dựa trên Máu tối đa.",
+            "\n"
         ],
-        "description_detail": [],
+        "description_detail": [
+            [
+                "2",
+                "16%",
+                "Health.png"
+            ],
+            [
+                "3",
+                "20%",
+                "Health.png"
+            ],
+            [
+                "4",
+                "26%",
+                "Health.png"
+            ],
+            [
+                "5",
+                "33%",
+                "Health.png"
+            ]
+        ],
         "champions": [
             {
-                "id": "aphelios",
-                "name": "Aphelios",
-                "image": "tft16_aphelios.tft_set16.png"
+                "id": "xin_zhao",
+                "name": "Xin Zhao",
+                "image": "tft16_xinzhao.tft_set16.png"
             },
             {
-                "id": "zoe",
-                "name": "Zoe",
-                "image": "tft16_zoe.tft_set16.png"
+                "id": "yorick",
+                "name": "Yorick",
+                "image": "tft16_yorick.tft_set16.png"
             },
             {
-                "id": "leona",
-                "name": "Leona",
-                "image": "tft16_leona.tft_set16.png"
+                "id": "nautilus",
+                "name": "Nautilus",
+                "image": "tft16_nautilus.tft_set16.png"
             },
             {
-                "id": "taric",
-                "name": "Taric",
-                "image": "tft16_taric.tft_set16.png"
+                "id": "loris",
+                "name": "Loris",
+                "image": "tft16_loris.tft_set16.png"
             },
             {
-                "id": "diana",
-                "name": "Diana",
-                "image": "tft16_diana.tft_set16.png"
+                "id": "braum",
+                "name": "Braum",
+                "image": "tft16_braum.tft_set16.png"
             },
             {
-                "id": "aurelion_sol",
-                "name": "Aurelion Sol",
-                "image": "tft16_aurelionsol.tft_set16.png"
+                "id": "ornn",
+                "name": "Ornn",
+                "image": "tft16_ornn.tft_set16.png"
+            },
+            {
+                "id": "thresh",
+                "name": "Thresh",
+                "image": "tft16_thresh.tft_set16.png"
             }
         ],
-        "average_position": "4.35",
-        "top_4_rate": "52.36",
-        "top_1_rate": "15.07",
-        "battle": "773,653",
-        "trait": "Tộc",
-        "kich_hoat": "1"
+        "average_position": "3.78",
+        "top_4_rate": "64.39",
+        "top_1_rate": "15.34",
+        "battle": "36,859",
+        "trait": "Hệ",
+        "kich_hoat": "5"
     },
     {
-        "stt": 76,
+        "stt": 3,
+        "id": "noxus",
+        "name": "Noxus",
+        "image": "Trait_Icon_16_Noxus.TFT_Set16.png",
+        "description_icon": [
+            "Sau khi tướng địch đã mất đi 15% Máu, triệu hồi Atakhan, Kẻ Tàn Phá. Mỗi cấp sao của tướng Noxus sẽ tăng sức mạnh cho hắn.",
+            "\n"
+        ],
+        "description_detail": [
+            [
+                "3",
+                "Hắn chém kẻ địch",
+                "gây sát thương phép."
+            ],
+            [
+                "5",
+                "Tướng Noxus trở nên mạnh hơn nếu hắn sống sót."
+            ],
+            [
+                "7",
+                "Hắn hút cạn linh hồn của kẻ địch khi thi triển."
+            ],
+            [
+                "10",
+                "Sau 10 giây",
+                "TÀN PHÁ."
+            ]
+        ],
+        "champions": [
+            {
+                "id": "briar",
+                "name": "Briar",
+                "image": "tft16_briar.tft_set16.png"
+            },
+            {
+                "id": "sion",
+                "name": "Sion",
+                "image": "tft16_sion.tft_set16.png"
+            },
+            {
+                "id": "draven",
+                "name": "Draven",
+                "image": "tft16_draven.tft_set16.png"
+            },
+            {
+                "id": "darius",
+                "name": "Darius",
+                "image": "tft16_darius.tft_set16.png"
+            },
+            {
+                "id": "leblanc",
+                "name": "LeBlanc",
+                "image": "tft16_leblanc.tft_set16.png"
+            },
+            {
+                "id": "ambessa",
+                "name": "Ambessa",
+                "image": "tft16_ambessa.tft_set16.png"
+            },
+            {
+                "id": "swain",
+                "name": "Swain",
+                "image": "tft16_swain.tft_set16.png"
+            },
+            {
+                "id": "mel",
+                "name": "Mel",
+                "image": "tft16_mel.tft_set16.png"
+            }
+        ],
+        "average_position": "1.27",
+        "top_4_rate": "99.02",
+        "top_1_rate": "83.35",
+        "battle": "3,267",
+        "trait": "Tộc",
+        "kich_hoat": "10"
+    },
+    {
+        "stt": 9,
         "id": "void",
         "name": "Hư Không",
         "image": "Trait_Icon_16_Void.TFT_Set16.png",
@@ -4735,116 +4894,15 @@
                 "image": "tft16_baronnashor.tft_set16.png"
             }
         ],
-        "average_position": "4.44",
-        "top_4_rate": "52.26",
-        "top_1_rate": "9.95",
-        "battle": "105,643",
+        "average_position": "2.85",
+        "top_4_rate": "80.54",
+        "top_1_rate": "31.14",
+        "battle": "37,621",
         "trait": "Tộc",
-        "kich_hoat": "2"
+        "kich_hoat": "9"
     },
     {
-        "stt": 77,
-        "id": "noxus",
-        "name": "Noxus",
-        "image": "Trait_Icon_16_Noxus.TFT_Set16.png",
-        "description_icon": [
-            "Sau khi tướng địch đã mất đi 15% Máu, triệu hồi Atakhan, Kẻ Tàn Phá. Mỗi cấp sao của tướng Noxus sẽ tăng sức mạnh cho hắn.",
-            "\n"
-        ],
-        "description_detail": [
-            [
-                "3",
-                "Hắn chém kẻ địch",
-                "gây sát thương phép."
-            ],
-            [
-                "5",
-                "Tướng Noxus trở nên mạnh hơn nếu hắn sống sót."
-            ],
-            [
-                "7",
-                "Hắn hút cạn linh hồn của kẻ địch khi thi triển."
-            ],
-            [
-                "10",
-                "Sau 10 giây",
-                "TÀN PHÁ."
-            ]
-        ],
-        "champions": [
-            {
-                "id": "briar",
-                "name": "Briar",
-                "image": "tft16_briar.tft_set16.png"
-            },
-            {
-                "id": "sion",
-                "name": "Sion",
-                "image": "tft16_sion.tft_set16.png"
-            },
-            {
-                "id": "draven",
-                "name": "Draven",
-                "image": "tft16_draven.tft_set16.png"
-            },
-            {
-                "id": "darius",
-                "name": "Darius",
-                "image": "tft16_darius.tft_set16.png"
-            },
-            {
-                "id": "leblanc",
-                "name": "LeBlanc",
-                "image": "tft16_leblanc.tft_set16.png"
-            },
-            {
-                "id": "ambessa",
-                "name": "Ambessa",
-                "image": "tft16_ambessa.tft_set16.png"
-            },
-            {
-                "id": "swain",
-                "name": "Swain",
-                "image": "tft16_swain.tft_set16.png"
-            },
-            {
-                "id": "mel",
-                "name": "Mel",
-                "image": "tft16_mel.tft_set16.png"
-            }
-        ],
-        "average_position": "4.44",
-        "top_4_rate": "51.81",
-        "top_1_rate": "9.82",
-        "battle": "99,295",
-        "trait": "Tộc",
-        "kich_hoat": "3"
-    },
-    {
-        "stt": 78,
-        "id": "dark_child",
-        "name": "Đứa Trẻ Bóng Tối",
-        "image": "Trait_Icon_16_DarkChild.TFT_Set16.png",
-        "description_icon": [
-            "Annie triệu hồi Tibbers lên hàng chờ của bạn. Bạn có thể triển khai chú, chiếm 1 vị trí đội hình và mang trang bị riêng biệt. Cấp sao của chú bằng với Annie."
-        ],
-        "description_detail": [],
-        "champions": [
-            {
-                "id": "annie",
-                "name": "Annie",
-                "image": "tft16_annie.tft_set16.png"
-            }
-        ],
-        "average_position": "4.41",
-        "top_4_rate": "51.67",
-        "top_1_rate": "12.41",
-        "battle": "78,935",
-        "trait": "Tộc",
-        "kich_hoat": "1"
-    },
-    {
-        "stt": 79,
+        "stt": 4,
         "id": "bilgewater",
         "name": "Bilgewater",
         "image": "Trait_Icon_9_Bilgewater.png",
@@ -4928,15 +4986,294 @@
                 "image": "tft16_tahmkench.tft_set16.png"
             }
         ],
-        "average_position": "4.37",
-        "top_4_rate": "51.25",
-        "top_1_rate": "15.60",
-        "battle": "104,837",
+        "average_position": "1.17",
+        "top_4_rate": "98.84",
+        "top_1_rate": "91.37",
+        "battle": "8,329",
+        "trait": "Tộc",
+        "kich_hoat": "10"
+    },
+    {
+        "stt": 73,
+        "id": "sentinels_of_light",
+        "name": "Vệ Binh Ánh Sáng",
+        "image": "TeamUp_Trait_SentinelsOfLight.TFT_Set16.png",
+        "description_icon": [
+            "Khi Vayne thi triển lên kẻ địch đang bị ảnh hưởng bởi Sương đen, cô bắn ra thêm 2 mũi tên với 25% hiệu lực. Khi cô tham gia hạ gục, Lucian và Senna nhận 50% Tốc Độ Đánh."
+        ],
+        "description_detail": [],
+        "champions": [],
+        "average_position": "4.43",
+        "top_4_rate": "52.73",
+        "top_1_rate": "8.06",
+        "battle": "4,531",
+        "trait": "Hệ",
+        "kich_hoat": "2"
+    },
+    {
+        "stt": 39,
+        "id": "shadow_isles",
+        "name": "Đảo Bóng Đêm",
+        "image": "Trait_Icon_16_ShadowIsles.TFT_Set16.png",
+        "description_icon": [
+            "Mỗi khi có BẤT KỲ tướng nào hy sinh trong một giao tranh người chơi, nhận Linh Hồn (",
+            "TFT16_ShadowIsles_scaleSouls.png",
+            "). Kỹ Năng của tướng Đảo Bóng Đêm sẽ được cường hóa theo những cách độc nhất dựa trên lượng Linh Hồn bạn đang sở hữu.",
+            "\n",
+            "\n",
+            "Tướng Đảo Bóng Đêm nhận Sức Mạnh Công Kích và Sức Mạnh Phép Thuật.",
+            "\n"
+        ],
+        "description_detail": [
+            [
+                "2",
+                "1x",
+                "TFT16_ShadowIsles_scaleSouls.png",
+                "",
+                "18%",
+                "AD.png",
+                "AP.png"
+            ],
+            [
+                "3",
+                "1.3x",
+                "TFT16_ShadowIsles_scaleSouls.png",
+                "",
+                "20%",
+                "AD.png",
+                "AP.png"
+            ],
+            [
+                "4",
+                "1.6x",
+                "TFT16_ShadowIsles_scaleSouls.png",
+                "",
+                "22%",
+                "AD.png",
+                "AP.png"
+            ],
+            [
+                "5",
+                "1.9x",
+                "TFT16_ShadowIsles_scaleSouls.png",
+                "",
+                "25%",
+                "AD.png",
+                "AP.png"
+            ]
+        ],
+        "champions": [
+            {
+                "id": "viego",
+                "name": "Viego",
+                "image": "tft16_viego.tft_set16.png"
+            },
+            {
+                "id": "yorick",
+                "name": "Yorick",
+                "image": "tft16_yorick.tft_set16.png"
+            },
+            {
+                "id": "gwen",
+                "name": "Gwen",
+                "image": "tft16_gwen.tft_set16.png"
+            },
+            {
+                "id": "kalista",
+                "name": "Kalista",
+                "image": "tft16_kalista.tft_set16.png"
+            },
+            {
+                "id": "thresh",
+                "name": "Thresh",
+                "image": "tft16_thresh.tft_set16.png"
+            }
+        ],
+        "average_position": "3.98",
+        "top_4_rate": "60.2",
+        "top_1_rate": "13.23",
+        "battle": "54,749",
         "trait": "Tộc",
         "kich_hoat": "5"
     },
     {
-        "stt": 80,
+        "stt": 78,
+        "id": "dark_child",
+        "name": "Đứa Trẻ Bóng Tối",
+        "image": "Trait_Icon_16_DarkChild.TFT_Set16.png",
+        "description_icon": [
+            "Annie triệu hồi Tibbers lên hàng chờ của bạn. Bạn có thể triển khai chú, chiếm 1 vị trí đội hình và mang trang bị riêng biệt. Cấp sao của chú bằng với Annie."
+        ],
+        "description_detail": [],
+        "champions": [
+            {
+                "id": "annie",
+                "name": "Annie",
+                "image": "tft16_annie.tft_set16.png"
+            }
+        ],
+        "average_position": "4.41",
+        "top_4_rate": "51.67",
+        "top_1_rate": "12.41",
+        "battle": "78,935",
+        "trait": "Tộc",
+        "kich_hoat": "1"
+    },
+    {
+        "stt": 3,
+        "id": "noxus",
+        "name": "Noxus",
+        "image": "Trait_Icon_16_Noxus.TFT_Set16.png",
+        "description_icon": [
+            "Sau khi tướng địch đã mất đi 15% Máu, triệu hồi Atakhan, Kẻ Tàn Phá. Mỗi cấp sao của tướng Noxus sẽ tăng sức mạnh cho hắn.",
+            "\n"
+        ],
+        "description_detail": [
+            [
+                "3",
+                "Hắn chém kẻ địch",
+                "gây sát thương phép."
+            ],
+            [
+                "5",
+                "Tướng Noxus trở nên mạnh hơn nếu hắn sống sót."
+            ],
+            [
+                "7",
+                "Hắn hút cạn linh hồn của kẻ địch khi thi triển."
+            ],
+            [
+                "10",
+                "Sau 10 giây",
+                "TÀN PHÁ."
+            ]
+        ],
+        "champions": [
+            {
+                "id": "briar",
+                "name": "Briar",
+                "image": "tft16_briar.tft_set16.png"
+            },
+            {
+                "id": "sion",
+                "name": "Sion",
+                "image": "tft16_sion.tft_set16.png"
+            },
+            {
+                "id": "draven",
+                "name": "Draven",
+                "image": "tft16_draven.tft_set16.png"
+            },
+            {
+                "id": "darius",
+                "name": "Darius",
+                "image": "tft16_darius.tft_set16.png"
+            },
+            {
+                "id": "leblanc",
+                "name": "LeBlanc",
+                "image": "tft16_leblanc.tft_set16.png"
+            },
+            {
+                "id": "ambessa",
+                "name": "Ambessa",
+                "image": "tft16_ambessa.tft_set16.png"
+            },
+            {
+                "id": "swain",
+                "name": "Swain",
+                "image": "tft16_swain.tft_set16.png"
+            },
+            {
+                "id": "mel",
+                "name": "Mel",
+                "image": "tft16_mel.tft_set16.png"
+            }
+        ],
+        "average_position": "1.27",
+        "top_4_rate": "99.02",
+        "top_1_rate": "83.35",
+        "battle": "3,267",
+        "trait": "Tộc",
+        "kich_hoat": "10"
+    },
+    {
+        "stt": 27,
+        "id": "juggernaut",
+        "name": "Dũng Sĩ",
+        "image": "Trait_Icon_16_Juggernaut.png",
+        "description_icon": [
+            "Tướng Dũng Sĩ nhận Chống Chịu, tăng thêm khi có trên 50% máu. Khi 1 tướng Dũng Sĩ hy sinh, các tướng Dũng Sĩ khác hồi lại 5% Máu tối đa.",
+            "\n"
+        ],
+        "description_detail": [
+            [
+                "2",
+                "18% hoặc 25%",
+                "DR.png"
+            ],
+            [
+                "4",
+                "20% hoặc 30%",
+                "DR.png"
+            ],
+            [
+                "6",
+                "25% hoặc 33%",
+                "DR.png"
+            ]
+        ],
+        "champions": [
+            {
+                "id": "briar",
+                "name": "Briar",
+                "image": "tft16_briar.tft_set16.png"
+            },
+            {
+                "id": "blitzcrank",
+                "name": "Blitzcrank",
+                "image": "tft16_blitzcrank.tft_set16.png"
+            },
+            {
+                "id": "cho'gath",
+                "name": "Cho'Gath",
+                "image": "tft16_chogath.tft_set16.png"
+            },
+            {
+                "id": "poppy",
+                "name": "Poppy",
+                "image": "tft16_poppy.tft_set16.png"
+            },
+            {
+                "id": "nautilus",
+                "name": "Nautilus",
+                "image": "tft16_nautilus.tft_set16.png"
+            },
+            {
+                "id": "singed",
+                "name": "Singed",
+                "image": "tft16_singed.tft_set16.png"
+            },
+            {
+                "id": "swain",
+                "name": "Swain",
+                "image": "tft16_swain.tft_set16.png"
+            },
+            {
+                "id": "shyvana",
+                "name": "Shyvana",
+                "image": "tft16_shyvana.tft_set16.png"
+            }
+        ],
+        "average_position": "3.81",
+        "top_4_rate": "64.46",
+        "top_1_rate": "14.68",
+        "battle": "97,632",
+        "trait": "Hệ",
+        "kich_hoat": "4"
+    },
+    {
+        "stt": 5,
         "id": "ionia",
         "name": "Ionia",
         "image": "Trait_Icon_16_Ionia.TFT_Set16.png",
@@ -5028,191 +5365,15 @@
                 "image": "tft16_sett.tft_set16.png"
             }
         ],
-        "average_position": "4.4",
-        "top_4_rate": "51.12",
-        "top_1_rate": "14.23",
-        "battle": "73,073",
+        "average_position": "1.26",
+        "top_4_rate": "98.34",
+        "top_1_rate": "85.24",
+        "battle": "2,948",
         "trait": "Tộc",
-        "kich_hoat": "7"
+        "kich_hoat": "10"
     },
     {
-        "stt": 81,
-        "id": "huntress",
-        "name": "Nữ Thợ Săn",
-        "image": "Trait_Icon_16_Huntress.TFT_Set16.png",
-        "description_icon": [
-            "Khi Neeko mạnh nhất của bạn còn sống, Nidalee mạnh nhất của bạn không thể bị chọn mục tiêu bởi đòn đánh thường và nhận 50% Chống Chịu."
-        ],
-        "description_detail": [],
-        "champions": [
-            {
-                "id": "nidalee",
-                "name": "Nidalee",
-                "image": "tft16_nidalee.tft_set16.png"
-            }
-        ],
-        "average_position": "4.51",
-        "top_4_rate": "51.11",
-        "top_1_rate": "9.82",
-        "battle": "98,693",
-        "trait": "Tộc",
-        "kich_hoat": "1"
-    },
-    {
-        "stt": 82,
-        "id": "noxus",
-        "name": "Noxus",
-        "image": "Trait_Icon_16_Noxus.TFT_Set16.png",
-        "description_icon": [
-            "Sau khi tướng địch đã mất đi 15% Máu, triệu hồi Atakhan, Kẻ Tàn Phá. Mỗi cấp sao của tướng Noxus sẽ tăng sức mạnh cho hắn.",
-            "\n"
-        ],
-        "description_detail": [
-            [
-                "3",
-                "Hắn chém kẻ địch",
-                "gây sát thương phép."
-            ],
-            [
-                "5",
-                "Tướng Noxus trở nên mạnh hơn nếu hắn sống sót."
-            ],
-            [
-                "7",
-                "Hắn hút cạn linh hồn của kẻ địch khi thi triển."
-            ],
-            [
-                "10",
-                "Sau 10 giây",
-                "TÀN PHÁ."
-            ]
-        ],
-        "champions": [
-            {
-                "id": "briar",
-                "name": "Briar",
-                "image": "tft16_briar.tft_set16.png"
-            },
-            {
-                "id": "sion",
-                "name": "Sion",
-                "image": "tft16_sion.tft_set16.png"
-            },
-            {
-                "id": "draven",
-                "name": "Draven",
-                "image": "tft16_draven.tft_set16.png"
-            },
-            {
-                "id": "darius",
-                "name": "Darius",
-                "image": "tft16_darius.tft_set16.png"
-            },
-            {
-                "id": "leblanc",
-                "name": "LeBlanc",
-                "image": "tft16_leblanc.tft_set16.png"
-            },
-            {
-                "id": "ambessa",
-                "name": "Ambessa",
-                "image": "tft16_ambessa.tft_set16.png"
-            },
-            {
-                "id": "swain",
-                "name": "Swain",
-                "image": "tft16_swain.tft_set16.png"
-            },
-            {
-                "id": "mel",
-                "name": "Mel",
-                "image": "tft16_mel.tft_set16.png"
-            }
-        ],
-        "average_position": "4.42",
-        "top_4_rate": "51.09",
-        "top_1_rate": "8.91",
-        "battle": "65,857",
-        "trait": "Tộc",
-        "kich_hoat": "7"
-    },
-    {
-        "stt": 83,
-        "id": "warden",
-        "name": "Cảnh Vệ",
-        "image": "Trait_Icon_16_Warden.TFT_Set16.png",
-        "description_icon": [
-            "Khi tướng Cảnh Vệ rớt xuống dưới 75% và 25% Máu lần đầu tiên, họ nhận Lá Chắn dựa trên Máu tối đa.",
-            "\n"
-        ],
-        "description_detail": [
-            [
-                "2",
-                "16%",
-                "Health.png"
-            ],
-            [
-                "3",
-                "20%",
-                "Health.png"
-            ],
-            [
-                "4",
-                "26%",
-                "Health.png"
-            ],
-            [
-                "5",
-                "33%",
-                "Health.png"
-            ]
-        ],
-        "champions": [
-            {
-                "id": "xin_zhao",
-                "name": "Xin Zhao",
-                "image": "tft16_xinzhao.tft_set16.png"
-            },
-            {
-                "id": "yorick",
-                "name": "Yorick",
-                "image": "tft16_yorick.tft_set16.png"
-            },
-            {
-                "id": "nautilus",
-                "name": "Nautilus",
-                "image": "tft16_nautilus.tft_set16.png"
-            },
-            {
-                "id": "loris",
-                "name": "Loris",
-                "image": "tft16_loris.tft_set16.png"
-            },
-            {
-                "id": "braum",
-                "name": "Braum",
-                "image": "tft16_braum.tft_set16.png"
-            },
-            {
-                "id": "ornn",
-                "name": "Ornn",
-                "image": "tft16_ornn.tft_set16.png"
-            },
-            {
-                "id": "thresh",
-                "name": "Thresh",
-                "image": "tft16_thresh.tft_set16.png"
-            }
-        ],
-        "average_position": "4.45",
-        "top_4_rate": "50.97",
-        "top_1_rate": "12.22",
-        "battle": "53,886",
-        "trait": "Hệ",
-        "kich_hoat": "3"
-    },
-    {
-        "stt": 84,
+        "stt": 39,
         "id": "shadow_isles",
         "name": "Đảo Bóng Đêm",
         "image": "Trait_Icon_16_ShadowIsles.TFT_Set16.png",
@@ -5290,90 +5451,15 @@
                 "image": "tft16_thresh.tft_set16.png"
             }
         ],
-        "average_position": "4.56",
-        "top_4_rate": "49.39",
-        "top_1_rate": "9.70",
-        "battle": "5,070",
+        "average_position": "3.98",
+        "top_4_rate": "60.2",
+        "top_1_rate": "13.23",
+        "battle": "54,749",
         "trait": "Tộc",
-        "kich_hoat": "2"
+        "kich_hoat": "5"
     },
     {
-        "stt": 85,
-        "id": "juggernaut",
-        "name": "Dũng Sĩ",
-        "image": "Trait_Icon_16_Juggernaut.png",
-        "description_icon": [
-            "Tướng Dũng Sĩ nhận Chống Chịu, tăng thêm khi có trên 50% máu. Khi 1 tướng Dũng Sĩ hy sinh, các tướng Dũng Sĩ khác hồi lại 5% Máu tối đa.",
-            "\n"
-        ],
-        "description_detail": [
-            [
-                "2",
-                "18% hoặc 25%",
-                "DR.png"
-            ],
-            [
-                "4",
-                "20% hoặc 30%",
-                "DR.png"
-            ],
-            [
-                "6",
-                "25% hoặc 33%",
-                "DR.png"
-            ]
-        ],
-        "champions": [
-            {
-                "id": "briar",
-                "name": "Briar",
-                "image": "tft16_briar.tft_set16.png"
-            },
-            {
-                "id": "blitzcrank",
-                "name": "Blitzcrank",
-                "image": "tft16_blitzcrank.tft_set16.png"
-            },
-            {
-                "id": "cho'gath",
-                "name": "Cho'Gath",
-                "image": "tft16_chogath.tft_set16.png"
-            },
-            {
-                "id": "poppy",
-                "name": "Poppy",
-                "image": "tft16_poppy.tft_set16.png"
-            },
-            {
-                "id": "nautilus",
-                "name": "Nautilus",
-                "image": "tft16_nautilus.tft_set16.png"
-            },
-            {
-                "id": "singed",
-                "name": "Singed",
-                "image": "tft16_singed.tft_set16.png"
-            },
-            {
-                "id": "swain",
-                "name": "Swain",
-                "image": "tft16_swain.tft_set16.png"
-            },
-            {
-                "id": "shyvana",
-                "name": "Shyvana",
-                "image": "tft16_shyvana.tft_set16.png"
-            }
-        ],
-        "average_position": "4.54",
-        "top_4_rate": "49.3",
-        "top_1_rate": "10.69",
-        "battle": "3,864",
-        "trait": "Hệ",
-        "kich_hoat": "6"
-    },
-    {
-        "stt": 86,
+        "stt": 30,
         "id": "freljord",
         "name": "Freljord",
         "image": "Trait_Icon_16_Freljord.TFT_Set16.png",
@@ -5448,15 +5534,161 @@
                 "image": "tft16_volibear.tft_set16.png"
             }
         ],
-        "average_position": "4.52",
-        "top_4_rate": "48.97",
-        "top_1_rate": "13.10",
-        "battle": "155,087",
+        "average_position": "3.79",
+        "top_4_rate": "64.11",
+        "top_1_rate": "15.31",
+        "battle": "6,657",
         "trait": "Tộc",
-        "kich_hoat": "3"
+        "kich_hoat": "7"
     },
     {
-        "stt": 87,
+        "stt": 89,
+        "id": "ixtal",
+        "name": "Ixtal",
+        "image": "Trait_Icon_16_Ixtal.TFT_Set16.png",
+        "description_icon": [
+            "Hoàn thành một Nhiệm Vụ trước khi giao tranh kết thúc sẽ cho bạn Nhiệm Vụ mới khi khởi đầu vòng tiếp theo."
+        ],
+        "description_detail": [
+            [
+                "3",
+                "Hoàn thành Nhiệm Vụ để nhận Nhật Thạch (",
+                "TFT16_Explorer_Set16Ixtal.png",
+                ") và tiêu hao chúng để nhận báu vật!"
+            ],
+            [
+                "5",
+                "Hồi lại 2 máu người chơi vào khởi đầu mỗi giao tranh người chơi."
+            ],
+            [
+                "7",
+                "Sau khi thắng giao tranh",
+                "tìm thấy 50",
+                "TFT16_Explorer_Set16Ixtal.png",
+                "và khai quật thêm báu vật."
+            ]
+        ],
+        "champions": [
+            {
+                "id": "qiyana",
+                "name": "Qiyana",
+                "image": "tft16_qiyana.tft_set16.png"
+            },
+            {
+                "id": "neeko",
+                "name": "Neeko",
+                "image": "tft16_neeko.tft_set16.png"
+            },
+            {
+                "id": "milio",
+                "name": "Milio",
+                "image": "tft16_milio.tft_set16.png"
+            },
+            {
+                "id": "nidalee",
+                "name": "Nidalee",
+                "image": "tft16_nidalee.tft_set16.png"
+            },
+            {
+                "id": "skarner",
+                "name": "Skarner",
+                "image": "tft16_skarner.tft_set16.png"
+            },
+            {
+                "id": "brock",
+                "name": "Brock",
+                "image": "tft16_brock_splash_tile_0.tft_set16.png"
+            }
+        ],
+        "average_position": "4.5",
+        "top_4_rate": "48.37",
+        "top_1_rate": "16.78",
+        "battle": "3,159",
+        "trait": "Tộc",
+        "kich_hoat": "7"
+    },
+    {
+        "stt": 19,
+        "id": "bruiser",
+        "name": "Đấu Sĩ",
+        "image": "Trait_Icon_16_Bruiser.TFT_Set16.png",
+        "description_icon": [
+            "Đội của bạn nhận 150 Máu tối đa. Tướng Đấu Sĩ nhận được nhiều hơn.",
+            "\n"
+        ],
+        "description_detail": [
+            [
+                "2",
+                "25%",
+                "Health.png"
+            ],
+            [
+                "4",
+                "45%",
+                "Health.png"
+            ],
+            [
+                "6",
+                "65%",
+                "Health.png"
+            ]
+        ],
+        "champions": [
+            {
+                "id": "illaoi",
+                "name": "Illaoi",
+                "image": "tft16_illaoi.tft_set16.png"
+            },
+            {
+                "id": "shen",
+                "name": "Shen",
+                "image": "tft16_shen.tft_set16.png"
+            },
+            {
+                "id": "sion",
+                "name": "Sion",
+                "image": "tft16_sion.tft_set16.png"
+            },
+            {
+                "id": "dr._mundo",
+                "name": "Dr. Mundo",
+                "image": "tft16_drmundo.tft_set16.png"
+            },
+            {
+                "id": "kobuko_&_yuumi",
+                "name": "Kobuko & Yuumi",
+                "image": "tft16_kobuko.tft_set16.png"
+            },
+            {
+                "id": "wukong",
+                "name": "Ngộ Không",
+                "image": "tft16_wukong.tft_set16.png"
+            },
+            {
+                "id": "rift_herald",
+                "name": "Sứ Giả Khe Nứt",
+                "image": "tft16_riftherald_splash_tile_0.tft_set16.png"
+            },
+            {
+                "id": "tahm_kench",
+                "name": "Tahm Kench",
+                "image": "tft16_tahmkench.tft_set16.png"
+            },
+            {
+                "id": "volibear",
+                "name": "Volibear",
+                "image": "tft16_volibear.tft_set16.png"
+            }
+        ],
+        "average_position": "3.72",
+        "top_4_rate": "66.95",
+        "top_1_rate": "13.89",
+        "battle": "53,433",
+        "trait": "Hệ",
+        "kich_hoat": "6"
+    },
+    {
+        "stt": 70,
         "id": "defender",
         "name": "Vệ Quân",
         "image": "Trait_Icon_16_Defender.png",
@@ -5531,161 +5763,15 @@
                 "image": "tft16_sylas.tft_set16.png"
             }
         ],
-        "average_position": "4.62",
-        "top_4_rate": "48.94",
-        "top_1_rate": "9.08",
-        "battle": "21,263",
+        "average_position": "4.33",
+        "top_4_rate": "53.5",
+        "top_1_rate": "14.29",
+        "battle": "1,070,765",
         "trait": "Hệ",
-        "kich_hoat": "4"
+        "kich_hoat": "2"
     },
     {
-        "stt": 88,
-        "id": "bruiser",
-        "name": "Đấu Sĩ",
-        "image": "Trait_Icon_16_Bruiser.TFT_Set16.png",
-        "description_icon": [
-            "Đội của bạn nhận 150 Máu tối đa. Tướng Đấu Sĩ nhận được nhiều hơn.",
-            "\n"
-        ],
-        "description_detail": [
-            [
-                "2",
-                "25%",
-                "Health.png"
-            ],
-            [
-                "4",
-                "45%",
-                "Health.png"
-            ],
-            [
-                "6",
-                "65%",
-                "Health.png"
-            ]
-        ],
-        "champions": [
-            {
-                "id": "illaoi",
-                "name": "Illaoi",
-                "image": "tft16_illaoi.tft_set16.png"
-            },
-            {
-                "id": "shen",
-                "name": "Shen",
-                "image": "tft16_shen.tft_set16.png"
-            },
-            {
-                "id": "sion",
-                "name": "Sion",
-                "image": "tft16_sion.tft_set16.png"
-            },
-            {
-                "id": "dr._mundo",
-                "name": "Dr. Mundo",
-                "image": "tft16_drmundo.tft_set16.png"
-            },
-            {
-                "id": "kobuko_&_yuumi",
-                "name": "Kobuko & Yuumi",
-                "image": "tft16_kobuko.tft_set16.png"
-            },
-            {
-                "id": "wukong",
-                "name": "Ngộ Không",
-                "image": "tft16_wukong.tft_set16.png"
-            },
-            {
-                "id": "rift_herald",
-                "name": "Sứ Giả Khe Nứt",
-                "image": "tft16_riftherald_splash_tile_0.tft_set16.png"
-            },
-            {
-                "id": "tahm_kench",
-                "name": "Tahm Kench",
-                "image": "tft16_tahmkench.tft_set16.png"
-            },
-            {
-                "id": "volibear",
-                "name": "Volibear",
-                "image": "tft16_volibear.tft_set16.png"
-            }
-        ],
-        "average_position": "4.49",
-        "top_4_rate": "48.54",
-        "top_1_rate": "15.56",
-        "battle": "94,496",
-        "trait": "Hệ",
-        "kich_hoat": "4"
-    },
-    {
-        "stt": 89,
-        "id": "ixtal",
-        "name": "Ixtal",
-        "image": "Trait_Icon_16_Ixtal.TFT_Set16.png",
-        "description_icon": [
-            "Hoàn thành một Nhiệm Vụ trước khi giao tranh kết thúc sẽ cho bạn Nhiệm Vụ mới khi khởi đầu vòng tiếp theo."
-        ],
-        "description_detail": [
-            [
-                "3",
-                "Hoàn thành Nhiệm Vụ để nhận Nhật Thạch (",
-                "TFT16_Explorer_Set16Ixtal.png",
-                ") và tiêu hao chúng để nhận báu vật!"
-            ],
-            [
-                "5",
-                "Hồi lại 2 máu người chơi vào khởi đầu mỗi giao tranh người chơi."
-            ],
-            [
-                "7",
-                "Sau khi thắng giao tranh",
-                "tìm thấy 50",
-                "TFT16_Explorer_Set16Ixtal.png",
-                "và khai quật thêm báu vật."
-            ]
-        ],
-        "champions": [
-            {
-                "id": "qiyana",
-                "name": "Qiyana",
-                "image": "tft16_qiyana.tft_set16.png"
-            },
-            {
-                "id": "neeko",
-                "name": "Neeko",
-                "image": "tft16_neeko.tft_set16.png"
-            },
-            {
-                "id": "milio",
-                "name": "Milio",
-                "image": "tft16_milio.tft_set16.png"
-            },
-            {
-                "id": "nidalee",
-                "name": "Nidalee",
-                "image": "tft16_nidalee.tft_set16.png"
-            },
-            {
-                "id": "skarner",
-                "name": "Skarner",
-                "image": "tft16_skarner.tft_set16.png"
-            },
-            {
-                "id": "brock",
-                "name": "Brock",
-                "image": "tft16_brock_splash_tile_0.tft_set16.png"
-            }
-        ],
-        "average_position": "4.5",
-        "top_4_rate": "48.37",
-        "top_1_rate": "16.78",
-        "battle": "3,159",
-        "trait": "Tộc",
-        "kich_hoat": "7"
-    },
-    {
-        "stt": 90,
+        "stt": 40,
         "id": "slayer",
         "name": "Đồ Tể",
         "image": "Trait_Icon_16_Slayer.png",
@@ -5761,15 +5847,15 @@
                 "image": "tft16_aatrox.tft_set16.png"
             }
         ],
-        "average_position": "4.61",
-        "top_4_rate": "48.28",
-        "top_1_rate": "10.69",
-        "battle": "129,686",
+        "average_position": "4.05",
+        "top_4_rate": "60.06",
+        "top_1_rate": "11.81",
+        "battle": "22,066",
         "trait": "Hệ",
-        "kich_hoat": "2"
+        "kich_hoat": "4"
     },
     {
-        "stt": 91,
+        "stt": 30,
         "id": "freljord",
         "name": "Freljord",
         "image": "Trait_Icon_16_Freljord.TFT_Set16.png",
@@ -5844,101 +5930,123 @@
                 "image": "tft16_volibear.tft_set16.png"
             }
         ],
-        "average_position": "4.56",
-        "top_4_rate": "48.17",
-        "top_1_rate": "10.46",
-        "battle": "18,664",
+        "average_position": "3.79",
+        "top_4_rate": "64.11",
+        "top_1_rate": "15.31",
+        "battle": "6,657",
         "trait": "Tộc",
-        "kich_hoat": "5"
+        "kich_hoat": "7"
     },
     {
-        "stt": 92,
-        "id": "shadow_isles",
-        "name": "Đảo Bóng Đêm",
-        "image": "Trait_Icon_16_ShadowIsles.TFT_Set16.png",
+        "stt": 95,
+        "id": "caretaker",
+        "name": "Ông Bụt",
+        "image": "Trait_Icon_16_Caretaker.TFT_Set16.png",
         "description_icon": [
-            "Mỗi khi có BẤT KỲ tướng nào hy sinh trong một giao tranh người chơi, nhận Linh Hồn (",
-            "TFT16_ShadowIsles_scaleSouls.png",
-            "). Kỹ Năng của tướng Đảo Bóng Đêm sẽ được cường hóa theo những cách độc nhất dựa trên lượng Linh Hồn bạn đang sở hữu.",
-            "\n",
-            "\n",
-            "Tướng Đảo Bóng Đêm nhận Sức Mạnh Công Kích và Sức Mạnh Phép Thuật.",
+            "Sau khi thắng giao tranh người chơi, nhận 1 tướng ngẫu nhiên từ Runeterra. Sau khi thua giao tranh, nhận lượt đổi miễn phí, số lượt đổi tăng theo giai đoạn.",
+            "\n"
+        ],
+        "description_detail": [],
+        "champions": [
+            {
+                "id": "bard",
+                "name": "Bard",
+                "image": "tft16_bard.tft_set16.png"
+            }
+        ],
+        "average_position": "4.9",
+        "top_4_rate": "43.97",
+        "top_1_rate": "8.95",
+        "battle": "89,259",
+        "trait": "Tộc",
+        "kich_hoat": "1"
+    },
+    {
+        "stt": 9,
+        "id": "void",
+        "name": "Hư Không",
+        "image": "Trait_Icon_16_Void.TFT_Set16.png",
+        "description_icon": [
+            "Nhận các Đột Biến mà chỉ tướng Hư Không mới có thể sử dụng. Tướng Hư Không nhận Tốc Độ Đánh.",
             "\n"
         ],
         "description_detail": [
             [
                 "2",
-                "1x",
-                "TFT16_ShadowIsles_scaleSouls.png",
-                "",
-                "18%",
-                "AD.png",
-                "AP.png"
-            ],
-            [
-                "3",
-                "1.3x",
-                "TFT16_ShadowIsles_scaleSouls.png",
-                "",
-                "20%",
-                "AD.png",
-                "AP.png"
+                "1 Đột Biến",
+                "8%",
+                "AS.png"
             ],
             [
                 "4",
-                "1.6x",
-                "TFT16_ShadowIsles_scaleSouls.png",
-                "",
-                "22%",
-                "AD.png",
-                "AP.png"
+                "2 Đột Biến",
+                "18%",
+                "AS.png"
             ],
             [
-                "5",
-                "1.9x",
-                "TFT16_ShadowIsles_scaleSouls.png",
-                "",
-                "25%",
-                "AD.png",
-                "AP.png"
+                "6",
+                "3 Đột Biến",
+                "33%",
+                "AS.png"
+            ],
+            [
+                "9",
+                "Các Đột Biến tích tụ năng lượng",
+                "tăng sức mạnh của chúng thêm 100%. 40%",
+                "AS.png"
             ]
         ],
         "champions": [
             {
-                "id": "viego",
-                "name": "Viego",
-                "image": "tft16_viego.tft_set16.png"
+                "id": "kog'maw",
+                "name": "Kog'Maw",
+                "image": "tft16_kogmaw.tft_set16.png"
             },
             {
-                "id": "yorick",
-                "name": "Yorick",
-                "image": "tft16_yorick.tft_set16.png"
+                "id": "rek'sai",
+                "name": "Rek'Sai",
+                "image": "tft16_reksai.tft_set16.png"
             },
             {
-                "id": "gwen",
-                "name": "Gwen",
-                "image": "tft16_gwen.tft_set16.png"
+                "id": "cho'gath",
+                "name": "Cho'Gath",
+                "image": "tft16_chogath.tft_set16.png"
             },
             {
-                "id": "kalista",
-                "name": "Kalista",
-                "image": "tft16_kalista.tft_set16.png"
+                "id": "malzahar",
+                "name": "Malzahar",
+                "image": "tft16_malzahar.tft_set16.png"
             },
             {
-                "id": "thresh",
-                "name": "Thresh",
-                "image": "tft16_thresh.tft_set16.png"
+                "id": "bel'veth",
+                "name": "Bel'Veth",
+                "image": "tft16_belveth.tft_set16.png"
+            },
+            {
+                "id": "rift_herald",
+                "name": "Sứ Giả Khe Nứt",
+                "image": "tft16_riftherald_splash_tile_0.tft_set16.png"
+            },
+            {
+                "id": "kai'sa",
+                "name": "Kai'Sa",
+                "image": "tft16_kaisa.tft_set16.png"
+            },
+            {
+                "id": "baron_nashor",
+                "name": "Baron Nashor",
+                "image": "tft16_baronnashor.tft_set16.png"
             }
         ],
-        "average_position": "4.69",
-        "top_4_rate": "47.96",
-        "top_1_rate": "8.99",
-        "battle": "6,605",
+        "average_position": "2.85",
+        "top_4_rate": "80.54",
+        "top_1_rate": "31.14",
+        "battle": "37,621",
         "trait": "Tộc",
-        "kich_hoat": "3"
+        "kich_hoat": "9"
     },
     {
-        "stt": 93,
+        "stt": 45,
         "id": "arcanist",
         "name": "Pháp Sư",
         "image": "Trait_Icon_6_Arcanist.png",
@@ -6027,141 +6135,15 @@
                 "image": "tft16_annietibbers.tft_set16.png"
             }
         ],
-        "average_position": "4.65",
-        "top_4_rate": "46.81",
-        "top_1_rate": "9.12",
-        "battle": "9,580",
-        "trait": "Hệ",
-        "kich_hoat": "6"
-    },
-    {
-        "stt": 94,
-        "id": "void",
-        "name": "Hư Không",
-        "image": "Trait_Icon_16_Void.TFT_Set16.png",
-        "description_icon": [
-            "Nhận các Đột Biến mà chỉ tướng Hư Không mới có thể sử dụng. Tướng Hư Không nhận Tốc Độ Đánh.",
-            "\n"
-        ],
-        "description_detail": [
-            [
-                "2",
-                "1 Đột Biến",
-                "8%",
-                "AS.png"
-            ],
-            [
-                "4",
-                "2 Đột Biến",
-                "18%",
-                "AS.png"
-            ],
-            [
-                "6",
-                "3 Đột Biến",
-                "33%",
-                "AS.png"
-            ],
-            [
-                "9",
-                "Các Đột Biến tích tụ năng lượng",
-                "tăng sức mạnh của chúng thêm 100%. 40%",
-                "AS.png"
-            ]
-        ],
-        "champions": [
-            {
-                "id": "kog'maw",
-                "name": "Kog'Maw",
-                "image": "tft16_kogmaw.tft_set16.png"
-            },
-            {
-                "id": "rek'sai",
-                "name": "Rek'Sai",
-                "image": "tft16_reksai.tft_set16.png"
-            },
-            {
-                "id": "cho'gath",
-                "name": "Cho'Gath",
-                "image": "tft16_chogath.tft_set16.png"
-            },
-            {
-                "id": "malzahar",
-                "name": "Malzahar",
-                "image": "tft16_malzahar.tft_set16.png"
-            },
-            {
-                "id": "bel'veth",
-                "name": "Bel'Veth",
-                "image": "tft16_belveth.tft_set16.png"
-            },
-            {
-                "id": "rift_herald",
-                "name": "Sứ Giả Khe Nứt",
-                "image": "tft16_riftherald_splash_tile_0.tft_set16.png"
-            },
-            {
-                "id": "kai'sa",
-                "name": "Kai'Sa",
-                "image": "tft16_kaisa.tft_set16.png"
-            },
-            {
-                "id": "baron_nashor",
-                "name": "Baron Nashor",
-                "image": "tft16_baronnashor.tft_set16.png"
-            }
-        ],
-        "average_position": "4.72",
-        "top_4_rate": "45.91",
-        "top_1_rate": "8.26",
-        "battle": "49,167",
-        "trait": "Tộc",
-        "kich_hoat": "4"
-    },
-    {
-        "stt": 95,
-        "id": "caretaker",
-        "name": "Ông Bụt",
-        "image": "Trait_Icon_16_Caretaker.TFT_Set16.png",
-        "description_icon": [
-            "Sau khi thắng giao tranh người chơi, nhận 1 tướng ngẫu nhiên từ Runeterra. Sau khi thua giao tranh, nhận lượt đổi miễn phí, số lượt đổi tăng theo giai đoạn.",
-            "\n"
-        ],
-        "description_detail": [],
-        "champions": [
-            {
-                "id": "bard",
-                "name": "Bard",
-                "image": "tft16_bard.tft_set16.png"
-            }
-        ],
-        "average_position": "4.9",
-        "top_4_rate": "43.97",
-        "top_1_rate": "8.95",
-        "battle": "89,259",
-        "trait": "Tộc",
-        "kich_hoat": "1"
-    },
-    {
-        "stt": 96,
-        "id": "chosen_wolves",
-        "name": "Chiến Lang",
-        "image": "TeamUp_Trait_ChosenWolves.TFT_Set16.png",
-        "description_icon": [
-            "Khi Kindred thi triển, Ambessa luôn nhận hiệu ứng miễn tử và nhận thêm 30% Sức Mạnh Công Kích trong thời gian được bảo hộ.",
-            "\n"
-        ],
-        "description_detail": [],
-        "champions": [],
-        "average_position": "4.89",
-        "top_4_rate": "41.74",
-        "top_1_rate": "5.62",
-        "battle": "5,604",
+        "average_position": "4.05",
+        "top_4_rate": "58.94",
+        "top_1_rate": "15.45",
+        "battle": "743,279",
         "trait": "Hệ",
         "kich_hoat": "2"
     },
     {
-        "stt": 97,
+        "stt": 70,
         "id": "defender",
         "name": "Vệ Quân",
         "image": "Trait_Icon_16_Defender.png",
@@ -6236,15 +6218,33 @@
                 "image": "tft16_sylas.tft_set16.png"
             }
         ],
-        "average_position": "4.94",
-        "top_4_rate": "41.59",
-        "top_1_rate": "4.80",
-        "battle": "1,957",
+        "average_position": "4.33",
+        "top_4_rate": "53.5",
+        "top_1_rate": "14.29",
+        "battle": "1,070,765",
         "trait": "Hệ",
-        "kich_hoat": "6"
+        "kich_hoat": "2"
     },
     {
-        "stt": 98,
+        "stt": 96,
+        "id": "chosen_wolves",
+        "name": "Chiến Lang",
+        "image": "TeamUp_Trait_ChosenWolves.TFT_Set16.png",
+        "description_icon": [
+            "Khi Kindred thi triển, Ambessa luôn nhận hiệu ứng miễn tử và nhận thêm 30% Sức Mạnh Công Kích trong thời gian được bảo hộ.",
+            "\n"
+        ],
+        "description_detail": [],
+        "champions": [],
+        "average_position": "4.89",
+        "top_4_rate": "41.74",
+        "top_1_rate": "5.62",
+        "battle": "5,604",
+        "trait": "Hệ",
+        "kich_hoat": "2"
+    },
+    {
+        "stt": 2,
         "id": "demacia",
         "name": "Demacia",
         "image": "Trait_Icon_16_Demacia.TFT_Set16.png",
@@ -6324,15 +6324,15 @@
                 "image": "tft16_galio.tft_set16.png"
             }
         ],
-        "average_position": "5.07",
-        "top_4_rate": "41.22",
-        "top_1_rate": "7.86",
-        "battle": "54,075",
+        "average_position": "1.1",
+        "top_4_rate": "100",
+        "top_1_rate": "90.27",
+        "battle": "524",
         "trait": "Tộc",
-        "kich_hoat": "5"
+        "kich_hoat": "11"
     },
     {
-        "stt": 99,
+        "stt": 2,
         "id": "demacia",
         "name": "Demacia",
         "image": "Trait_Icon_16_Demacia.TFT_Set16.png",
@@ -6412,15 +6412,77 @@
                 "image": "tft16_galio.tft_set16.png"
             }
         ],
-        "average_position": "5.11",
-        "top_4_rate": "39.58",
-        "top_1_rate": "7.84",
-        "battle": "35,418",
+        "average_position": "1.1",
+        "top_4_rate": "100",
+        "top_1_rate": "90.27",
+        "battle": "524",
         "trait": "Tộc",
-        "kich_hoat": "3"
+        "kich_hoat": "11"
     },
     {
-        "stt": 100,
+        "stt": 56,
+        "id": "piltover",
+        "name": "Piltover",
+        "image": "Trait_Icon_16_Piltover.TFT_Set16.png",
+        "description_icon": [
+            "Xây một phát minh bên phải sân đấu. Sau 8 giây, phát minh sẽ kích hoạt, cho chạy tất cả Mô-đun.",
+            "\n"
+        ],
+        "description_detail": [
+            [
+                "2",
+                "Chọn 1 Mô-đun"
+            ],
+            [
+                "4",
+                "Chọn Mô-đun Thứ Hai"
+            ],
+            [
+                "6",
+                "Chọn Mô-đun Thứ Ba"
+            ]
+        ],
+        "champions": [
+            {
+                "id": "caitlyn",
+                "name": "Caitlyn",
+                "image": "tft16_caitlyn.tft_set16.png"
+            },
+            {
+                "id": "vi",
+                "name": "Vi",
+                "image": "tft16_vi.tft_set16.png"
+            },
+            {
+                "id": "orianna",
+                "name": "Orianna",
+                "image": "tft16_orianna.tft_set16.png"
+            },
+            {
+                "id": "loris",
+                "name": "Loris",
+                "image": "tft16_loris.tft_set16.png"
+            },
+            {
+                "id": "seraphine",
+                "name": "Seraphine",
+                "image": "tft16_seraphine.tft_set16.png"
+            },
+            {
+                "id": "t-hex",
+                "name": "T-Hex",
+                "image": "tft16_thex.tft_set16.png"
+            }
+        ],
+        "average_position": "4.18",
+        "top_4_rate": "56.56",
+        "top_1_rate": "14.12",
+        "battle": "548,608",
+        "trait": "Tộc",
+        "kich_hoat": "2"
+    },
+    {
+        "stt": 3,
         "id": "noxus",
         "name": "Noxus",
         "image": "Trait_Icon_16_Noxus.TFT_Set16.png",
@@ -6490,74 +6552,12 @@
                 "image": "tft16_mel.tft_set16.png"
             }
         ],
-        "average_position": "5.14",
-        "top_4_rate": "38.38",
-        "top_1_rate": "5.00",
-        "battle": "21,200",
+        "average_position": "1.27",
+        "top_4_rate": "99.02",
+        "top_1_rate": "83.35",
+        "battle": "3,267",
         "trait": "Tộc",
-        "kich_hoat": "5"
-    },
-    {
-        "stt": 101,
-        "id": "piltover",
-        "name": "Piltover",
-        "image": "Trait_Icon_16_Piltover.TFT_Set16.png",
-        "description_icon": [
-            "Xây một phát minh bên phải sân đấu. Sau 8 giây, phát minh sẽ kích hoạt, cho chạy tất cả Mô-đun.",
-            "\n"
-        ],
-        "description_detail": [
-            [
-                "2",
-                "Chọn 1 Mô-đun"
-            ],
-            [
-                "4",
-                "Chọn Mô-đun Thứ Hai"
-            ],
-            [
-                "6",
-                "Chọn Mô-đun Thứ Ba"
-            ]
-        ],
-        "champions": [
-            {
-                "id": "caitlyn",
-                "name": "Caitlyn",
-                "image": "tft16_caitlyn.tft_set16.png"
-            },
-            {
-                "id": "vi",
-                "name": "Vi",
-                "image": "tft16_vi.tft_set16.png"
-            },
-            {
-                "id": "orianna",
-                "name": "Orianna",
-                "image": "tft16_orianna.tft_set16.png"
-            },
-            {
-                "id": "loris",
-                "name": "Loris",
-                "image": "tft16_loris.tft_set16.png"
-            },
-            {
-                "id": "seraphine",
-                "name": "Seraphine",
-                "image": "tft16_seraphine.tft_set16.png"
-            },
-            {
-                "id": "t-hex",
-                "name": "T-Hex",
-                "image": "tft16_thex.tft_set16.png"
-            }
-        ],
-        "average_position": "5.19",
-        "top_4_rate": "37.54",
-        "top_1_rate": "7.38",
-        "battle": "7,291",
-        "trait": "Tộc",
-        "kich_hoat": "4"
+        "kich_hoat": "10"
     },
     {
         "stt": 102,
@@ -6619,7 +6619,73 @@
         "kich_hoat": "1"
     },
     {
-        "stt": 104,
+        "stt": 89,
+        "id": "ixtal",
+        "name": "Ixtal",
+        "image": "Trait_Icon_16_Ixtal.TFT_Set16.png",
+        "description_icon": [
+            "Hoàn thành một Nhiệm Vụ trước khi giao tranh kết thúc sẽ cho bạn Nhiệm Vụ mới khi khởi đầu vòng tiếp theo."
+        ],
+        "description_detail": [
+            [
+                "3",
+                "Hoàn thành Nhiệm Vụ để nhận Nhật Thạch (",
+                "TFT16_Explorer_Set16Ixtal.png",
+                ") và tiêu hao chúng để nhận báu vật!"
+            ],
+            [
+                "5",
+                "Hồi lại 2 máu người chơi vào khởi đầu mỗi giao tranh người chơi."
+            ],
+            [
+                "7",
+                "Sau khi thắng giao tranh",
+                "tìm thấy 50",
+                "TFT16_Explorer_Set16Ixtal.png",
+                "và khai quật thêm báu vật."
+            ]
+        ],
+        "champions": [
+            {
+                "id": "qiyana",
+                "name": "Qiyana",
+                "image": "tft16_qiyana.tft_set16.png"
+            },
+            {
+                "id": "neeko",
+                "name": "Neeko",
+                "image": "tft16_neeko.tft_set16.png"
+            },
+            {
+                "id": "milio",
+                "name": "Milio",
+                "image": "tft16_milio.tft_set16.png"
+            },
+            {
+                "id": "nidalee",
+                "name": "Nidalee",
+                "image": "tft16_nidalee.tft_set16.png"
+            },
+            {
+                "id": "skarner",
+                "name": "Skarner",
+                "image": "tft16_skarner.tft_set16.png"
+            },
+            {
+                "id": "brock",
+                "name": "Brock",
+                "image": "tft16_brock_splash_tile_0.tft_set16.png"
+            }
+        ],
+        "average_position": "4.5",
+        "top_4_rate": "48.37",
+        "top_1_rate": "16.78",
+        "battle": "3,159",
+        "trait": "Tộc",
+        "kich_hoat": "7"
+    },
+    {
+        "stt": 56,
         "id": "piltover",
         "name": "Piltover",
         "image": "Trait_Icon_16_Piltover.TFT_Set16.png",
@@ -6673,98 +6739,15 @@
                 "image": "tft16_thex.tft_set16.png"
             }
         ],
-        "average_position": "5.21",
-        "top_4_rate": "35.01",
-        "top_1_rate": "5.80",
-        "battle": "14,561",
+        "average_position": "4.18",
+        "top_4_rate": "56.56",
+        "top_1_rate": "14.12",
+        "battle": "548,608",
         "trait": "Tộc",
-        "kich_hoat": "6"
+        "kich_hoat": "2"
     },
     {
-        "stt": 105,
-        "id": "yordle",
-        "name": "Yordle",
-        "image": "Trait_Icon_16_Yordle.TFT_Set16.png",
-        "description_icon": [],
-        "description_detail": [
-            [
-                "2",
-                "Tướng Yordle nhận 40 Máu và 5% Tốc Độ Đánh với mỗi tướng Yordle khác nhau được triển khai. Tướng Yordle 3 sao nhận thêm 100% nữa!"
-            ],
-            [
-                "4",
-                "VÀ cửa hàng đầu tiên của bạn mỗi vòng sẽ có 1 tướng Yordle!"
-            ],
-            [
-                "6",
-                "VÀ nhận 1 lượt đổi miễn phí mỗi vòng!"
-            ],
-            [
-                "8",
-                "VÀ nhận 1 Gói Yordle mỗi vòng!"
-            ]
-        ],
-        "champions": [
-            {
-                "id": "lulu",
-                "name": "Lulu",
-                "image": "tft16_lulu.tft_set16.png"
-            },
-            {
-                "id": "rumble",
-                "name": "Rumble",
-                "image": "tft16_rumble.tft_set16.png"
-            },
-            {
-                "id": "tristana",
-                "name": "Tristana",
-                "image": "tft16_tristana.tft_set16.png"
-            },
-            {
-                "id": "teemo",
-                "name": "Teemo",
-                "image": "tft16_teemo.tft_set16.png"
-            },
-            {
-                "id": "poppy",
-                "name": "Poppy",
-                "image": "tft16_poppy.tft_set16.png"
-            },
-            {
-                "id": "kennen",
-                "name": "Kennen",
-                "image": "tft16_kennen.tft_set16.png"
-            },
-            {
-                "id": "kobuko_&_yuumi",
-                "name": "Kobuko & Yuumi",
-                "image": "tft16_kobuko.tft_set16.png"
-            },
-            {
-                "id": "veigar",
-                "name": "Veigar",
-                "image": "tft16_veigar.tft_set16.png"
-            },
-            {
-                "id": "fizz",
-                "name": "Fizz",
-                "image": "tft16_fizz.tft_set16.png"
-            },
-            {
-                "id": "ziggs",
-                "name": "Ziggs",
-                "image": "tft16_ziggs.tft_set16.png"
-            }
-        ],
-        "average_position": "5.41",
-        "top_4_rate": "33.98",
-        "top_1_rate": "8.49",
-        "battle": "26,677",
-        "trait": "Tộc",
-        "kich_hoat": "6"
-    },
-    {
-        "stt": 106,
+        "stt": 9,
         "id": "void",
         "name": "Hư Không",
         "image": "Trait_Icon_16_Void.TFT_Set16.png",
@@ -6840,15 +6823,98 @@
                 "image": "tft16_baronnashor.tft_set16.png"
             }
         ],
-        "average_position": "5.26",
-        "top_4_rate": "33",
-        "top_1_rate": "6.79",
-        "battle": "58,483",
+        "average_position": "2.85",
+        "top_4_rate": "80.54",
+        "top_1_rate": "31.14",
+        "battle": "37,621",
         "trait": "Tộc",
-        "kich_hoat": "6"
+        "kich_hoat": "9"
     },
     {
-        "stt": 107,
+        "stt": 6,
+        "id": "yordle",
+        "name": "Yordle",
+        "image": "Trait_Icon_16_Yordle.TFT_Set16.png",
+        "description_icon": [],
+        "description_detail": [
+            [
+                "2",
+                "Tướng Yordle nhận 40 Máu và 5% Tốc Độ Đánh với mỗi tướng Yordle khác nhau được triển khai. Tướng Yordle 3 sao nhận thêm 100% nữa!"
+            ],
+            [
+                "4",
+                "VÀ cửa hàng đầu tiên của bạn mỗi vòng sẽ có 1 tướng Yordle!"
+            ],
+            [
+                "6",
+                "VÀ nhận 1 lượt đổi miễn phí mỗi vòng!"
+            ],
+            [
+                "8",
+                "VÀ nhận 1 Gói Yordle mỗi vòng!"
+            ]
+        ],
+        "champions": [
+            {
+                "id": "lulu",
+                "name": "Lulu",
+                "image": "tft16_lulu.tft_set16.png"
+            },
+            {
+                "id": "rumble",
+                "name": "Rumble",
+                "image": "tft16_rumble.tft_set16.png"
+            },
+            {
+                "id": "tristana",
+                "name": "Tristana",
+                "image": "tft16_tristana.tft_set16.png"
+            },
+            {
+                "id": "teemo",
+                "name": "Teemo",
+                "image": "tft16_teemo.tft_set16.png"
+            },
+            {
+                "id": "poppy",
+                "name": "Poppy",
+                "image": "tft16_poppy.tft_set16.png"
+            },
+            {
+                "id": "kennen",
+                "name": "Kennen",
+                "image": "tft16_kennen.tft_set16.png"
+            },
+            {
+                "id": "kobuko_&_yuumi",
+                "name": "Kobuko & Yuumi",
+                "image": "tft16_kobuko.tft_set16.png"
+            },
+            {
+                "id": "veigar",
+                "name": "Veigar",
+                "image": "tft16_veigar.tft_set16.png"
+            },
+            {
+                "id": "fizz",
+                "name": "Fizz",
+                "image": "tft16_fizz.tft_set16.png"
+            },
+            {
+                "id": "ziggs",
+                "name": "Ziggs",
+                "image": "tft16_ziggs.tft_set16.png"
+            }
+        ],
+        "average_position": "1.39",
+        "top_4_rate": "97.38",
+        "top_1_rate": "79.42",
+        "battle": "8,523",
+        "trait": "Tộc",
+        "kich_hoat": "10"
+    },
+    {
+        "stt": 89,
         "id": "ixtal",
         "name": "Ixtal",
         "image": "Trait_Icon_16_Ixtal.TFT_Set16.png",
@@ -6906,81 +6972,98 @@
                 "image": "tft16_brock_splash_tile_0.tft_set16.png"
             }
         ],
-        "average_position": "5.55",
-        "top_4_rate": "32.53",
-        "top_1_rate": "9.94",
-        "battle": "52,474",
+        "average_position": "4.5",
+        "top_4_rate": "48.37",
+        "top_1_rate": "16.78",
+        "battle": "3,159",
         "trait": "Tộc",
-        "kich_hoat": "3"
+        "kich_hoat": "7"
     },
     {
-        "stt": 108,
-        "id": "ixtal",
-        "name": "Ixtal",
-        "image": "Trait_Icon_16_Ixtal.TFT_Set16.png",
-        "description_icon": [
-            "Hoàn thành một Nhiệm Vụ trước khi giao tranh kết thúc sẽ cho bạn Nhiệm Vụ mới khi khởi đầu vòng tiếp theo."
-        ],
+        "stt": 6,
+        "id": "yordle",
+        "name": "Yordle",
+        "image": "Trait_Icon_16_Yordle.TFT_Set16.png",
+        "description_icon": [],
         "description_detail": [
             [
-                "3",
-                "Hoàn thành Nhiệm Vụ để nhận Nhật Thạch (",
-                "TFT16_Explorer_Set16Ixtal.png",
-                ") và tiêu hao chúng để nhận báu vật!"
+                "2",
+                "Tướng Yordle nhận 40 Máu và 5% Tốc Độ Đánh với mỗi tướng Yordle khác nhau được triển khai. Tướng Yordle 3 sao nhận thêm 100% nữa!"
             ],
             [
-                "5",
-                "Hồi lại 2 máu người chơi vào khởi đầu mỗi giao tranh người chơi."
+                "4",
+                "VÀ cửa hàng đầu tiên của bạn mỗi vòng sẽ có 1 tướng Yordle!"
             ],
             [
-                "7",
-                "Sau khi thắng giao tranh",
-                "tìm thấy 50",
-                "TFT16_Explorer_Set16Ixtal.png",
-                "và khai quật thêm báu vật."
+                "6",
+                "VÀ nhận 1 lượt đổi miễn phí mỗi vòng!"
+            ],
+            [
+                "8",
+                "VÀ nhận 1 Gói Yordle mỗi vòng!"
             ]
         ],
         "champions": [
             {
-                "id": "qiyana",
-                "name": "Qiyana",
-                "image": "tft16_qiyana.tft_set16.png"
+                "id": "lulu",
+                "name": "Lulu",
+                "image": "tft16_lulu.tft_set16.png"
             },
             {
-                "id": "neeko",
-                "name": "Neeko",
-                "image": "tft16_neeko.tft_set16.png"
+                "id": "rumble",
+                "name": "Rumble",
+                "image": "tft16_rumble.tft_set16.png"
             },
             {
-                "id": "milio",
-                "name": "Milio",
-                "image": "tft16_milio.tft_set16.png"
+                "id": "tristana",
+                "name": "Tristana",
+                "image": "tft16_tristana.tft_set16.png"
             },
             {
-                "id": "nidalee",
-                "name": "Nidalee",
-                "image": "tft16_nidalee.tft_set16.png"
+                "id": "teemo",
+                "name": "Teemo",
+                "image": "tft16_teemo.tft_set16.png"
             },
             {
-                "id": "skarner",
-                "name": "Skarner",
-                "image": "tft16_skarner.tft_set16.png"
+                "id": "poppy",
+                "name": "Poppy",
+                "image": "tft16_poppy.tft_set16.png"
             },
             {
-                "id": "brock",
-                "name": "Brock",
-                "image": "tft16_brock_splash_tile_0.tft_set16.png"
+                "id": "kennen",
+                "name": "Kennen",
+                "image": "tft16_kennen.tft_set16.png"
+            },
+            {
+                "id": "kobuko_&_yuumi",
+                "name": "Kobuko & Yuumi",
+                "image": "tft16_kobuko.tft_set16.png"
+            },
+            {
+                "id": "veigar",
+                "name": "Veigar",
+                "image": "tft16_veigar.tft_set16.png"
+            },
+            {
+                "id": "fizz",
+                "name": "Fizz",
+                "image": "tft16_fizz.tft_set16.png"
+            },
+            {
+                "id": "ziggs",
+                "name": "Ziggs",
+                "image": "tft16_ziggs.tft_set16.png"
             }
         ],
-        "average_position": "5.47",
-        "top_4_rate": "31.64",
-        "top_1_rate": "9.07",
-        "battle": "35,012",
+        "average_position": "1.39",
+        "top_4_rate": "97.38",
+        "top_1_rate": "79.42",
+        "battle": "8,523",
         "trait": "Tộc",
-        "kich_hoat": "5"
+        "kich_hoat": "10"
     },
     {
-        "stt": 109,
+        "stt": 4,
         "id": "bilgewater",
         "name": "Bilgewater",
         "image": "Trait_Icon_9_Bilgewater.png",
@@ -7064,94 +7147,11 @@
                 "image": "tft16_tahmkench.tft_set16.png"
             }
         ],
-        "average_position": "5.44",
-        "top_4_rate": "30.85",
-        "top_1_rate": "7.91",
-        "battle": "93,919",
+        "average_position": "1.17",
+        "top_4_rate": "98.84",
+        "top_1_rate": "91.37",
+        "battle": "8,329",
         "trait": "Tộc",
-        "kich_hoat": "7"
-    },
-    {
-        "stt": 110,
-        "id": "yordle",
-        "name": "Yordle",
-        "image": "Trait_Icon_16_Yordle.TFT_Set16.png",
-        "description_icon": [],
-        "description_detail": [
-            [
-                "2",
-                "Tướng Yordle nhận 40 Máu và 5% Tốc Độ Đánh với mỗi tướng Yordle khác nhau được triển khai. Tướng Yordle 3 sao nhận thêm 100% nữa!"
-            ],
-            [
-                "4",
-                "VÀ cửa hàng đầu tiên của bạn mỗi vòng sẽ có 1 tướng Yordle!"
-            ],
-            [
-                "6",
-                "VÀ nhận 1 lượt đổi miễn phí mỗi vòng!"
-            ],
-            [
-                "8",
-                "VÀ nhận 1 Gói Yordle mỗi vòng!"
-            ]
-        ],
-        "champions": [
-            {
-                "id": "lulu",
-                "name": "Lulu",
-                "image": "tft16_lulu.tft_set16.png"
-            },
-            {
-                "id": "rumble",
-                "name": "Rumble",
-                "image": "tft16_rumble.tft_set16.png"
-            },
-            {
-                "id": "tristana",
-                "name": "Tristana",
-                "image": "tft16_tristana.tft_set16.png"
-            },
-            {
-                "id": "teemo",
-                "name": "Teemo",
-                "image": "tft16_teemo.tft_set16.png"
-            },
-            {
-                "id": "poppy",
-                "name": "Poppy",
-                "image": "tft16_poppy.tft_set16.png"
-            },
-            {
-                "id": "kennen",
-                "name": "Kennen",
-                "image": "tft16_kennen.tft_set16.png"
-            },
-            {
-                "id": "kobuko_&_yuumi",
-                "name": "Kobuko & Yuumi",
-                "image": "tft16_kobuko.tft_set16.png"
-            },
-            {
-                "id": "veigar",
-                "name": "Veigar",
-                "image": "tft16_veigar.tft_set16.png"
-            },
-            {
-                "id": "fizz",
-                "name": "Fizz",
-                "image": "tft16_fizz.tft_set16.png"
-            },
-            {
-                "id": "ziggs",
-                "name": "Ziggs",
-                "image": "tft16_ziggs.tft_set16.png"
-            }
-        ],
-        "average_position": "5.63",
-        "top_4_rate": "30.49",
-        "top_1_rate": "7.73",
-        "battle": "20,810",
-        "trait": "Tộc",
-        "kich_hoat": "4"
+        "kich_hoat": "10"
     }
 ]
