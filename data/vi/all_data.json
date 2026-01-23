@@ -3443,7 +3443,7 @@
         }
       ],
       "unlock": {
-        "description": "1 tướng Viễn Kích mang 3 trang bị + 8 Level",
+        "description": "1 tướng Viễn Kích mang 3 trang bị + 7 Level",
         "type": true
       }
     },
@@ -3632,7 +3632,7 @@
       "armor": 25,
       "magical_resistance": 25,
       "stats": [
-        "Sát Thương: 27(%i:scaleAP%) [27 / 40 / 65]"
+        "Sát Thương: 27(%i:scaleAP%) [29 / 43 / 68]"
       ],
       "traits": [
         {
@@ -4662,7 +4662,7 @@
         }
       ],
       "unlock": {
-        "description": "Viego 2 sao mang 2 trang bị",
+        "description": "Viego 2 sao mang 1 trang bị",
         "type": true
       }
     },
@@ -6738,7 +6738,7 @@
         2106
       ],
       "attack_damage": [
-        50,
+        53,
         75,
         113
       ],
@@ -7012,7 +7012,7 @@
         67
       ],
       "attack_speed": 0.85,
-      "armor": 50,
+      "armor": 45,
       "magical_resistance": 50,
       "stats": [
         "Sát Thương Phép Cộng Thêm: 150(%i:scaleAP%) [150 / 225 / 340]",
@@ -7096,7 +7096,7 @@
       "armor": 35,
       "magical_resistance": 35,
       "stats": [
-        "Tốc Độ Đánh: 300%(%i:scaleAP%) [300% / 300% / 300%]"
+        "Tốc Độ Đánh: 300%(%i:scaleAP%) [300% / 300% / 350%]"
       ],
       "traits": [
         {
@@ -7358,7 +7358,7 @@
       "magical_resistance": 50,
       "stats": [
         "Lá Chắn: 475(%i:scaleAP%) [475 / 525 / 625]",
-        "Sát Thương: 70(%i:scaleAP%) [70 / 105 / 170]"
+        "Sát Thương: 70(%i:scaleAP%) [525 / 575 / 675]"
       ],
       "traits": [
         {
@@ -7450,8 +7450,8 @@
       "armor": 20,
       "magical_resistance": 20,
       "stats": [
-        "Sát Thương: %i:scaleAP% [15 / 25 / 35]",
-        "Sát Thương: 140 = 125(%i:scaleAD%) + 15(%i:scaleAP%) [125 / 185 / 290]",
+        "Sát Thương: %i:scaleAP% [20 / 30 / 40]",
+        "Sát Thương: 140 = 125(%i:scaleAD%) + 15(%i:scaleAP%) [135 / 195 / 300]",
         "Sát Thương Vòng Tròn: 46 = 33% / 140",
         "Sát Thương Mũi Tên Huyết Thệ: 3 = 5% %i:TFTBaseAD%"
       ],
@@ -7514,7 +7514,7 @@
       "skill_name": "Trường Điện Từ",
       "skill_image": "TFT16_Blitzcrank.png",
       "starting_mana": 60,
-      "skill_mana": 120,
+      "skill_mana": 105,
       "skill_attack_range": 1,
       "health": [
         700,
@@ -7733,7 +7733,7 @@
         }
       ],
       "unlock": {
-        "description": "Jinx 1 sao + Vi 2 sao + 7 Level",
+        "description": "Vi 2 sao + Jinx 1 sao + 7 Level",
         "type": true
       }
     },
@@ -7784,7 +7784,7 @@
       "armor": 25,
       "magical_resistance": 25,
       "stats": [
-        "Sát Thương: 300(%i:scaleAP%) [300 / 450 / 700]"
+        "Sát Thương: 300(%i:scaleAP%) [330 / 500 / 770]"
       ],
       "traits": [
         {
@@ -8199,7 +8199,7 @@
       "skill_name": "Lệnh: Bảo Vệ",
       "skill_image": "TFT16_Orianna.png",
       "starting_mana": 20,
-      "skill_mana": 60,
+      "skill_mana": 50,
       "skill_attack_range": 4,
       "health": [
         550,
@@ -8259,7 +8259,7 @@
         }
       ],
       "unlock": {
-        "description": "3 tướng Piltover khác nhau",
+        "description": "2 tướng Piltover khác nhau",
         "type": true
       }
     },
@@ -8327,7 +8327,7 @@
       ],
       "items": [],
       "unlock": {
-        "description": "Ashe mang 2 trang bị",
+        "description": "Ashe mang 1 trang bị",
         "type": true
       }
     },
@@ -8454,7 +8454,7 @@
       "magical_resistance": 35,
       "stats": [
         "Sát Thương: %i:scaleAP% [20 / 30 / 45]",
-        "Sát Thương: 180 = 160(%i:scaleAD%) + 20(%i:scaleAP%) [160 / 240 / 360]"
+        "Sát Thương: 180 = 160(%i:scaleAD%) + 20(%i:scaleAP%) [160 / 240 / 400]"
       ],
       "traits": [
         {
@@ -26038,7 +26038,7 @@
         {
           "icon": "level",
           "name": "Cấp 10",
-          "value": "68 XP"
+          "value": "76 XP"
         }
       ]
     },

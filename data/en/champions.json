@@ -3259,7 +3259,7 @@
             }
         ],
         "unlock": {
-            "description": "a Longshot unit with 3 items equipped + 8 Level",
+            "description": "a Longshot unit with 3 items equipped + 7 Level",
             "type": true
         }
     },
@@ -3976,7 +3976,7 @@
         "armor": 25,
         "magical_resistance": 25,
         "stats": [
-            "Damage: 27(%i:scaleAP%) [27 / 40 / 65]"
+            "Damage: 27(%i:scaleAP%) [29 / 43 / 68]"
         ],
         "traits": [
             {
@@ -4981,7 +4981,7 @@
             }
         ],
         "unlock": {
-            "description": "2-star Viego with 2 items equipped",
+            "description": "2-star Viego with 1 items equipped",
             "type": true
         }
     },
@@ -6819,7 +6819,7 @@
             2106
         ],
         "attack_damage": [
-            50,
+            53,
             75,
             113
         ],
@@ -6919,7 +6919,7 @@
         "armor": 50,
         "magical_resistance": 50,
         "stats": [
-            "Shield: 475(%i:scaleAP%) [475 / 525 / 625]",
+            "Shield: 475(%i:scaleAP%) [525 / 575 / 675]",
             "Damage: 70(%i:scaleAP%) [70 / 105 / 170]"
         ],
         "traits": [
@@ -7173,7 +7173,7 @@
         "armor": 35,
         "magical_resistance": 35,
         "stats": [
-            "Attack Speed: 300%(%i:scaleAP%) [300% / 300% / 300%]"
+            "Attack Speed: 300%(%i:scaleAP%) [300% / 300% / 350%]"
         ],
         "traits": [
             {
@@ -7270,8 +7270,8 @@
         "armor": 20,
         "magical_resistance": 20,
         "stats": [
-            "Damage: %i:scaleAP% [15 / 25 / 35]",
-            "Damage: 140 = 125(%i:scaleAD%) + 15(%i:scaleAP%) [125 / 185 / 290]",
+            "Damage: %i:scaleAP% [20 / 30 / 40]",
+            "Damage: 140 = 125(%i:scaleAD%) + 15(%i:scaleAP%) [135 / 195 / 300]",
             "Circle Damage: 46 = 33% of 140",
             "Bloodsworn Arrow Damage: 3 = 5% %i:TFTBaseAD%"
         ],
@@ -7520,7 +7520,7 @@
             67
         ],
         "attack_speed": 0.85,
-        "armor": 50,
+        "armor": 45,
         "magical_resistance": 50,
         "stats": [
             "Bonus Magic Damage: 150(%i:scaleAP%) [150 / 225 / 340]",
@@ -7585,7 +7585,7 @@
         "skill_name": "Static Field",
         "skill_image": "TFT16_Blitzcrank.png",
         "starting_mana": 60,
-        "skill_mana": 120,
+        "skill_mana": 105,
         "skill_attack_range": 1,
         "health": [
             700,
@@ -7728,7 +7728,7 @@
             }
         ],
         "unlock": {
-            "description": "1-star Jinx + 2-star Vi + 7 Level",
+            "description": "2-star Vi + 1-star Jinx + 7 Level",
             "type": true
         }
     },
@@ -7779,7 +7779,7 @@
         "armor": 25,
         "magical_resistance": 25,
         "stats": [
-            "Damage: 300(%i:scaleAP%) [300 / 450 / 700]"
+            "Damage: 300(%i:scaleAP%) [330 / 500 / 770]"
         ],
         "traits": [
             {
@@ -8109,7 +8109,7 @@
         "skill_name": "Command: Protect",
         "skill_image": "TFT16_Orianna.png",
         "starting_mana": 20,
-        "skill_mana": 60,
+        "skill_mana": 50,
         "skill_attack_range": 4,
         "health": [
             550,
@@ -8169,7 +8169,7 @@
             }
         ],
         "unlock": {
-            "description": "3 unique Piltover units",
+            "description": "2 unique Piltover units",
             "type": true
         }
     },
@@ -8322,7 +8322,7 @@
         ],
         "items": [],
         "unlock": {
-            "description": "Ashe with 2 items equipped",
+            "description": "Ashe with 1 items equipped",
             "type": true
         }
     },
@@ -8449,7 +8449,7 @@
         "magical_resistance": 35,
         "stats": [
             "Damage: %i:scaleAP% [20 / 30 / 45]",
-            "Damage: 180 = 160(%i:scaleAD%) + 20(%i:scaleAP%) [160 / 240 / 360]"
+            "Damage: 180 = 160(%i:scaleAD%) + 20(%i:scaleAP%) [160 / 240 / 400]"
         ],
         "traits": [
             {
