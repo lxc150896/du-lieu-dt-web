@@ -6424,7 +6424,7 @@
             "damage_modifier": [
                 {
                     "image": "Armor.png",
-                    "damage": "+20"
+                    "damage": "+15"
                 }
             ],
             "average_position": "4.16",
@@ -6928,7 +6928,7 @@
             "damage_modifier": [
                 {
                     "image": "MR.png",
-                    "damage": "+20"
+                    "damage": "+25"
                 }
             ],
             "average_position": "4.03",
@@ -7036,7 +7036,7 @@
             "id": "invoker_emblem",
             "name": "インヴォーカーの紋章",
             "image": "TFT16_Item_InvokerEmblemItem.png",
-            "description": "装備者が「インヴォーカー」の特性を獲得する。スキル使用時、消費マナの20%にあたる魔力が増加する。",
+            "description": "装備者が「インヴォーカー」の特性を獲得する。スキル使用時、消費マナの10%にあたる魔力が増加する。",
             "damage_modifier": [],
             "average_position": "4.19",
             "top_4_rate": "55.46",
@@ -7435,7 +7435,7 @@
             "id": "disruptor_emblem",
             "name": "ディスラプターの紋章",
             "image": "TFT16_Item_MagusEmblemItem.png",
-            "description": "装備者が「ディスラプター」の特性を獲得する。スキルが3秒かけて30%の追加魔法ダメージを与える。",
+            "description": "装備者が「ディスラプター」の特性を獲得する。スキルが3秒かけて20%の追加魔法ダメージを与える。",
             "damage_modifier": [
                 {
                     "image": "Health.png",

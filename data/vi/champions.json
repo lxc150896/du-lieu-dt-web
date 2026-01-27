@@ -285,7 +285,7 @@
         "armor": 30,
         "magical_resistance": 30,
         "stats": [
-            "Sát Thương Bom Nảy: 45 = 100% %i:TFTBaseAD% + 45(%i:scaleAP%) [45 / 80 / 500]",
+            "Sát Thương Bom Nảy: 45 = 100% %i:TFTBaseAD% + 45(%i:scaleAP%) [40 / 65 / 500]",
             "Sát Thương Nổ Tối Thiểu: 70(%i:scaleAP%) [70 / 105 / 3000]",
             "Sát Thương Nổ Tối Đa: 550(%i:scaleAP%) [550 / 875 / 7000]"
         ],
@@ -809,7 +809,7 @@
             ") sát thương vật lý trong phạm vi vòng tròn 3 ô.",
             "\n",
             "\n",
-            "Hơi Thở Của Rồng: Khạc lửa theo hình nón trong 3.5 giây, gây [ 185 / 280 / 13579 ] (",
+            "Hơi Thở Của Rồng: Khạc lửa theo hình nón trong 3 giây, gây [ 185 / 280 / 13579 ] (",
             "AD.png",
             "AP.png",
             ") sát thương vật lý mỗi giây lên các kẻ địch trúng đòn."
@@ -1178,16 +1178,16 @@
         "top_1_rate": "17.77",
         "battle": "497,220",
         "description_icon": [
-            "Trở nên không thể chỉ định trong thoáng chốc, sau đó nhảy vào kẻ địch xa nhất trong phạm vi 4 ô và gây [ 110 / 165 / 450 ] (",
+            "Trở nên không thể chỉ định trong thoáng chốc, sau đó nhảy vào kẻ địch xa nhất trong phạm vi 4 ô và gây [75 / 115 / 450] (",
             "AP.png",
-            ") sát thương phép lên các kẻ địch liền kề. Trong 4 đòn đánh tiếp theo, tăng 50% Tốc Độ Đánh và gây thêm [ 80 / 120 / 600 ] (",
+            ") sát thương phép lên các kẻ địch liền kề. Trong 4 đòn đánh tiếp theo, tăng 100% Tốc Độ Đánh và gây thêm [50 / 75 / 600] (",
             "AP.png",
             ") sát thương phép trên đòn đánh."
         ],
         "skill_name": "Tung Tăng / Nhảy Múa",
         "skill_image": "TFT16_Fizz.png",
         "starting_mana": 0,
-        "skill_mana": 20,
+        "skill_mana": 10,
         "skill_attack_range": 1,
         "health": [
             1000,
@@ -1208,8 +1208,8 @@
         "armor": 50,
         "magical_resistance": 50,
         "stats": [
-            "Sát Thương: 110(%i:scaleAP%) [110 / 165 / 450]",
-            "Sát Thương Cộng Thêm Trên Đòn Đánh: 80(%i:scaleAP%) [80 / 120 / 600]"
+            "Sát Thương: 110(%i:scaleAP%) [75 / 115 / 450]",
+            "Sát Thương Cộng Thêm Trên Đòn Đánh: 80(%i:scaleAP%) [50 / 75 / 600]"
         ],
         "traits": [
             {
@@ -1736,7 +1736,7 @@
         "top_1_rate": "17.01",
         "battle": "317,321",
         "description_icon": [
-            "Nội Tại: Các đòn đánh nảy bật vào kẻ địch có Máu hiện tại cao nhất, gây [ 50 / 50 / 100 ]% sát thương.",
+            "Nội Tại: Các đòn đánh nảy bật vào kẻ địch có Máu hiện tại cao nhất, gây [ 40 / 40 / 80 ]% sát thương.",
             "\n",
             "\n",
             "Kích Hoạt: Bắn ra loạt đạn vào [ 2 / 2 / 6 ] kẻ địch gần nhất. Loạt đạn đầu tiên gây [ 145 / 225 / 3070 ] (",
@@ -1772,7 +1772,7 @@
         "magical_resistance": 30,
         "stats": [
             "Sát Thương: %i:scaleAP% [15 / 25 / 70]",
-            "Sát Thương: 160 = 145(%i:scaleAD%) + 15(%i:scaleAP%) [145 / 220 / 3000]",
+            "Sát Thương: 160 = 145(%i:scaleAD%) + 15(%i:scaleAP%) [230 / 345 / 3000]",
             "Sát Thương Loạt Đạn Phụ: 104 = 65% / 160"
         ],
         "traits": [
@@ -2041,7 +2041,7 @@
         ],
         "attack_speed": 0.9,
         "armor": 70,
-        "magical_resistance": 70,
+        "magical_resistance": 80,
         "stats": [
             "Sát Thương Đại Địa Chấn: 100(%i:scaleAP%) [100 / 180 / 1000]",
             "Thời Gian Làm Choáng Đại Địa Chấn [1.5 / 1.75 / 30]",
@@ -2107,7 +2107,7 @@
             "Nội Tại: Tất cả các đồng minh nhận [ 10 / 20 / 100 ] Kháng Phép. Một lần mỗi giao tranh, sau khi rơi xuống dưới 35% Máu Tối Đa, nhận 90% Chống Chịu trong 2 giây.",
             "\n",
             "\n",
-            "Kích Hoạt: Nhận [ 600 / 700 / 2500 ] (",
+            "Kích Hoạt: Nhận [ 300 / 700 / 2500 ] (",
             "AP.png",
             ") Lá Chắn và trao cho 2 đồng minh thấp Máu nhất [ 125 / 150 / 1000 ] (",
             "AP.png",
@@ -2363,10 +2363,10 @@
         "skill_name": "Quỷ Kiếm Darkin",
         "skill_image": "TFT16_Aatrox.png",
         "starting_mana": 0,
-        "skill_mana": 30,
+        "skill_mana": 20,
         "skill_attack_range": 1,
         "health": [
-            900,
+            1000,
             1620,
             2916
         ],
@@ -2385,7 +2385,7 @@
         "magical_resistance": 55,
         "stats": [
             "Sát Thương: %i:scaleAP% [15 / 25 / 100]",
-            "Sát Thương Chém: 100 = 85(%i:scaleAD%) + 15(%i:scaleAP%) [85 / 170 / 2400]",
+            "Sát Thương Chém: 100 = 85(%i:scaleAD%) + 15(%i:scaleAP%) [95 / 200 / 2400]",
             "Sát Thương Vả: 120 = 120% x 100",
             "Sát Thương Nện: 160 = 160% x 100"
         ],
@@ -3114,7 +3114,7 @@
         ],
         "skill_name": "Nguyệt Đao Ánh Sáng",
         "skill_image": "TFT16_Mel.png",
-        "starting_mana": 0,
+        "starting_mana": 30,
         "skill_mana": 200,
         "skill_attack_range": 4,
         "health": [
@@ -3128,16 +3128,16 @@
             113
         ],
         "damage_per_second": [
-            40,
-            60,
-            90
+            65,
+            100,
+            150
         ],
         "attack_speed": 0.8,
         "armor": 30,
         "magical_resistance": 30,
         "stats": [
             "Sát Thương Quả Cầu: 40(%i:scaleAP%) [40 / 60 / 90]",
-            "Sát Thương Mục Tiêu: 900(%i:scaleAP%) [900 / 1500 / 10000]",
+            "Sát Thương Mục Tiêu: 1000(%i:scaleAP%) [1000 / 1500 / 10000]",
             "Sát Thương Phụ: 400(%i:scaleAP%) [400 / 600 / 10000]"
         ],
         "traits": [
@@ -3313,7 +3313,7 @@
         "magical_resistance": 65,
         "stats": [
             "Sát Thương Nội Tại: 247(%i:scaleMR%) [380% / 570% / 9000%]",
-            "Sát Thương Nghiền Nát: 260(%i:scaleMR%) [400% / 675% / 5000%]",
+            "Sát Thương Nghiền Nát: 260(%i:scaleMR%) [150% / 225% / 1000%]",
             "Lá Chắn: 500(%i:scaleAP%) [500 / 600 / 2000]"
         ],
         "traits": [
@@ -3397,7 +3397,7 @@
         "stats": [
             "Số Tên Năng Lượng [15 / 15 / 25]",
             "Sát Thương: %i:scaleAP% [6 / 9 / 20]",
-            "Sát Thương: 48 = 42(%i:scaleAD%) + 6(%i:scaleAP%) [42 / 63 / 150]"
+            "Sát Thương: 48 = 42(%i:scaleAD%) + 6(%i:scaleAP%) [39 / 63 / 150]"
         ],
         "traits": [
             {
@@ -3951,7 +3951,7 @@
             1439
         ],
         "attack_damage": [
-            48,
+            44,
             72,
             108
         ],
@@ -3965,7 +3965,7 @@
         "magical_resistance": 24,
         "stats": [
             "Sát Thương: %i:scaleAP% [15 / 22 / 34]",
-            "Sát Thương: 140 = 125(%i:scaleAD%) + 15(%i:scaleAP%) [125 / 190 / 280]"
+            "Sát Thương: 140 = 125(%i:scaleAD%) + 15(%i:scaleAP%) [125 / 200 / 300]"
         ],
         "traits": [
             {
@@ -4500,7 +4500,7 @@
             ") sát thương phép lên mỗi kẻ địch trong 45 giây.",
             "\n",
             "\n",
-            "Năng Lượng tối đa của Annie được giảm đi 150 cho đến hết giao tranh. Những lần thi triển tiếp theo phóng ra hỏa cầu, gây [ 240 / 360 / 3000 ] (",
+            "Năng Lượng tối đa của Annie được giảm đi 140 cho đến hết giao tranh. Những lần thi triển tiếp theo phóng ra hỏa cầu, gây [ 240 / 360 / 3000 ] (",
             "AP.png",
             ") sát thương phép.",
             "\n",
@@ -4512,7 +4512,7 @@
         "skill_name": "Cuồng Hỏa",
         "skill_image": "TFT16_Annie.png",
         "starting_mana": 0,
-        "skill_mana": 170,
+        "skill_mana": 160,
         "skill_attack_range": 4,
         "health": [
             800,
@@ -4686,7 +4686,7 @@
         "skill_name": "Chân Băng Bất Hoại",
         "skill_image": "TFT16_Braum.png",
         "starting_mana": 60,
-        "skill_mana": 120,
+        "skill_mana": 105,
         "skill_attack_range": 1,
         "health": [
             1200,
@@ -5360,7 +5360,7 @@
         "magical_resistance": 60,
         "stats": [
             "Chống Chịu [50% / 50% / 80%]",
-            "Hồi Máu: 420 = 10% %i:scaleHealth% + 300(%i:scaleAP%) [300 / 350 / 1200]",
+            "Hồi Máu: 420 = 10% %i:scaleHealth% + 300(%i:scaleAP%) [250 / 300 / 1200]",
             "Sát Thương: 100(%i:scaleAD%) [100 / 150 / 1700]"
         ],
         "traits": [
@@ -5934,34 +5934,34 @@
             "\n",
             "Nâng Cấp Bụi Sao:",
             "\n",
-            "15: Tạo ra sóng xung kích gây thêm [ 50 / 75 / 1000 ] (",
+            "25: Tạo ra sóng xung kích gây thêm [ 100 / 150 / 1000 ] (",
             "AP.png",
-            ") sát thương phép trong phạm vi 3 Ô.15: Tạo ra sóng xung kích gây thêm [ 50 / 75 / 1000 ] (",
+            ") sát thương phép trong phạm vi 3 Ô.25: Tạo ra sóng xung kích gây thêm [ 100 / 150 / 1000 ] (",
             "AP.png",
             ") sát thương phép trong phạm vi 3 Ô.",
             "\n",
             "60: Vì sao giáng xuống gây thêm 15% sát thương.60: Vì sao giáng xuống gây thêm 15% sát thương.",
             "\n",
-            "100: Sóng xung kích tăng bán kính tác dụng lên thành 4 ô.100: Sóng xung kích tăng bán kính tác dụng lên thành 4 ô.",
+            "140: Sóng xung kích tăng bán kính tác dụng lên thành 4 ô.100: Sóng xung kích tăng bán kính tác dụng lên thành 4 ô.",
             "\n",
-            "175: Hất tung các mục tiêu khi vì sao giáng xuống trong 2 giây.175: Hất tung các mục tiêu khi vì sao giáng xuống trong 2 giây.",
+            "200: Hất tung các mục tiêu khi vì sao giáng xuống trong 1.5 giây.200: Hất tung các mục tiêu khi vì sao giáng xuống trong 2 giây.",
             "\n",
-            "250: Sóng xung kích tăng phạm vi lên thành 10.250: Sóng xung kích tăng phạm vi lên thành 10.",
+            "300: Sóng xung kích tăng phạm vi lên thành 10.300: Sóng xung kích tăng phạm vi lên thành 10.",
             "\n",
-            "400: Vì sao giáng xuống gây thêm 33% sát thương chuẩn.400: Vì sao giáng xuống gây thêm 33% sát thương chuẩn.",
+            "475: Vì sao giáng xuống gây thêm 33% sát thương chuẩn.475: Vì sao giáng xuống gây thêm 33% sát thương chuẩn.",
             "\n",
-            "700: Đồng thời gọi xuống bão thiên thạch gây [ 1000 / 1500 / 9999 ] (",
+            "750: Đồng thời gọi xuống bão thiên thạch gây [ 500 / 750 / 9999 ] (",
             "AP.png",
-            ") sát thương phép chia đều cho các kẻ địch còn sống.700: Đồng thời gọi xuống bão thiên thạch gây [ 1000 / 1500 / 9999 ] (",
+            ") sát thương phép chia đều cho các kẻ địch còn sống.700: Đồng thời gọi xuống bão thiên thạch gây [ 500 / 750 / 9999 ] (",
             "AP.png",
             ") sát thương phép chia đều cho các kẻ địch còn sống.",
             "\n",
-            "1988: Triệu hồi hố đen tại tâm chấn, ngay lập tức hạ gục các kẻ địch ở bên trong.1988: Triệu hồi hố đen tại tâm chấn, ngay lập tức hạ gục các kẻ địch ở bên trong."
+            "1543: Triệu hồi hố đen tại tâm chấn, ngay lập tức hạ gục các kẻ địch ở bên trong.1543: Triệu hồi hố đen tại tâm chấn, ngay lập tức hạ gục các kẻ địch ở bên trong."
         ],
         "skill_name": "Màn Trời Giáng Thế",
         "skill_image": "TFT16_AurelionSol.png",
-        "starting_mana": 20,
-        "skill_mana": 90,
+        "starting_mana": 25,
+        "skill_mana": 75,
         "skill_attack_range": 4,
         "health": [
             1100,
@@ -5982,9 +5982,9 @@
         "armor": 40,
         "magical_resistance": 40,
         "stats": [
-            "Sát Thương: 450(%i:scaleAP%) [450 / 800 / 5000]",
-            "Sát Thương Sóng Xung Kích: 50(%i:scaleAP%) [50 / 75 / 1000]",
-            "Sát Thương Bão Thiên Thạch: 1000(%i:scaleAP%) [1000 / 1500 / 9999]"
+            "Sát Thương: 450(%i:scaleAP%) [450 / 480 / 5000]",
+            "Sát Thương Sóng Xung Kích: 50(%i:scaleAP%) [100 / 150 / 1000]",
+            "Sát Thương Bão Thiên Thạch: 1000(%i:scaleAP%) [500 / 750 / 9999]"
         ],
         "traits": [
             {
@@ -6664,9 +6664,9 @@
         "armor": 70,
         "magical_resistance": 70,
         "stats": [
-            "Lá Chắn: 80(%i:scaleAP%) [80 / 100 / 300]",
-            "Sát Thương: 165(%i:scaleAP%) [165 / 250 / 500]",
-            "Sát Thương Phụ: 150(%i:scaleAP%) [150 / 225 / 1350]"
+            "Lá Chắn: 80(%i:scaleAP%) [100 / 170 / 300]",
+            "Sát Thương: 165(%i:scaleAP%) [125 / 190 / 600]",
+            "Sát Thương Phụ: 150(%i:scaleAP%) [140 / 210 / 1350]"
         ],
         "traits": [
             {
@@ -8025,7 +8025,7 @@
             32,
             47
         ],
-        "attack_speed": 0.7,
+        "attack_speed": 0.75,
         "armor": 20,
         "magical_resistance": 20,
         "stats": [
@@ -8107,7 +8107,7 @@
             4536
         ],
         "attack_damage": [
-            75,
+            85,
             113,
             169
         ],
@@ -8118,13 +8118,13 @@
         ],
         "attack_speed": 0.9,
         "armor": 70,
-        "magical_resistance": 70,
+        "magical_resistance": 80,
         "stats": [
             "Lá Chắn: 440 = 10% %i:scaleHealth% + 300 [300 / 400 / 66666]",
             "Sát Thương: %i:scaleAP% [10 / 15 / 150]",
-            "Sát Thương Tia Laser: 135 = 125(%i:scaleAD%) + 10(%i:scaleAP%) [125 / 200 / 2000]",
+            "Sát Thương Tia Laser: 135 = 125(%i:scaleAD%) + 10(%i:scaleAP%) [145 / 250 / 2000]",
             "Đường Đạn Mỗi Giây: 4 = 4 + 1 mỗi 25% %i:scaleAS%",
-            "Sát Thương Đường Đạn: 41 = 30% / 135"
+            "Sát Thương Đường Đạn: 41 = 25% / 135"
         ],
         "traits": [
             {
@@ -8188,7 +8188,7 @@
             ") sát thương phép cho các kẻ địch trong phạm vi hình tròn rộng 1 ô.",
             "\n",
             "\n",
-            "Sau đó, ban [ 80 / 120 / 200 ] (",
+            "Sau đó, ban [60 / 90 / 130] (",
             "AP.png",
             ") Lá Chắn cho 2 đồng minh thấp Máu nhất trong 3 giây."
         ],
@@ -8218,7 +8218,7 @@
         "stats": [
             "Sát Thương: 220(%i:scaleAP%) [220 / 330 / 500]",
             "Sát Thương Phụ: 120(%i:scaleAP%) [120 / 180 / 300]",
-            "Lá Chắn: 80(%i:scaleAP%) [80 / 120 / 200]"
+            "Lá Chắn: 80(%i:scaleAP%) [60 / 90 / 130]"
         ],
         "traits": [
             {
@@ -8255,7 +8255,7 @@
             }
         ],
         "unlock": {
-            "description": "2 tướng Piltover khác nhau",
+            "description": "2 trang bị trên tướng Piltover",
             "type": true
         }
     },

@@ -6424,7 +6424,7 @@
             "damage_modifier": [
                 {
                     "image": "Armor.png",
-                    "damage": "+20"
+                    "damage": "+15"
                 }
             ],
             "average_position": "4.16",
@@ -6928,7 +6928,7 @@
             "damage_modifier": [
                 {
                     "image": "MR.png",
-                    "damage": "+20"
+                    "damage": "+25"
                 }
             ],
             "average_position": "4.03",
@@ -7036,7 +7036,7 @@
             "id": "invoker_emblem",
             "name": "Invoker Emblem",
             "image": "TFT16_Item_InvokerEmblemItem.png",
-            "description": "The holder gains the Invoker trait. On cast, gain Ability Power equal to 20% of Mana spent.",
+            "description": "The holder gains the Invoker trait. On cast, gain Ability Power equal to 10% of Mana spent.",
             "damage_modifier": [],
             "average_position": "4.19",
             "top_4_rate": "55.46",
@@ -7435,7 +7435,7 @@
             "id": "disruptor_emblem",
             "name": "Disruptor Emblem",
             "image": "TFT16_Item_MagusEmblemItem.png",
-            "description": "The holder gains the Disruptor trait. Abilities deal 30% bonus magic damage over 3 seconds.",
+            "description": "The holder gains the Disruptor trait. Abilities deal 20% bonus magic damage over 3 seconds.",
             "damage_modifier": [
                 {
                     "image": "Health.png",

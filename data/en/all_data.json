@@ -384,7 +384,7 @@
       "armor": 30,
       "magical_resistance": 30,
       "stats": [
-        "Bouncing Bomb Damage: 45 = 100% %i:TFTBaseAD% + 45(%i:scaleAP%) [45 / 80 / 500]",
+        "Bouncing Bomb Damage: 45 = 100% %i:TFTBaseAD% + 45(%i:scaleAP%) [40 / 65 / 500]",
         "Min Explosion Damage: 70(%i:scaleAP%) [70 / 105 / 3000]",
         "Max Explosion Damage: 550(%i:scaleAP%) [550 / 875 / 7000]"
       ],
@@ -882,7 +882,7 @@
         ") physical damage in a 3 hex circle.",
         "\n",
         "\n",
-        "Flame Breath: Breath fire in a cone for 3.5 seconds, dealing [ 185 / 280 / 13579 ] (",
+        "Flame Breath: Breath fire in a cone for 3 seconds, dealing [ 185 / 280 / 13579 ] (",
         "AD.png",
         "AP.png",
         ") physical damage each second to enemies hit."
@@ -1161,16 +1161,16 @@
       "top_1_rate": "17.77",
       "battle": "497,220",
       "description_icon": [
-        "Become briefly untargetable, then jump to the farthest enemy within 4 hexes and deal [ 110 / 165 / 450 ] (",
+        "Become briefly untargetable, then jump to the farthest enemy within 4 hexes and deal [ 75 / 115 / 450 ] (",
         "AP.png",
-        ") magic damage to adjacent enemies. For the next 4 attacks, gain 50% Attack Speed and deal [ 80 / 120 / 600 ] (",
+        ") magic damage to adjacent enemies. For the next 4 attacks, gain 100% Attack Speed and deal [ 50 / 75 / 600 ] (",
         "AP.png",
         ") bonus magic damage on hit."
       ],
       "skill_name": "Playful Trickster",
       "skill_image": "TFT16_Fizz.png",
       "starting_mana": 0,
-      "skill_mana": 20,
+      "skill_mana": 10,
       "skill_attack_range": 1,
       "health": [
         1000,
@@ -1191,8 +1191,8 @@
       "armor": 50,
       "magical_resistance": 50,
       "stats": [
-        "Damage: 110(%i:scaleAP%) [110 / 165 / 450]",
-        "Bonus Damage on Hit: 80(%i:scaleAP%) [80 / 120 / 600]"
+        "Damage: 110(%i:scaleAP%) [75 / 115 / 450]",
+        "Bonus Damage on Hit: 80(%i:scaleAP%) [50 / 75 / 600]"
       ],
       "traits": [
         {
@@ -1740,7 +1740,7 @@
       "top_1_rate": "17.01",
       "battle": "317,321",
       "description_icon": [
-        "Passive: Attacks ricochet to the highest current Health enemy, dealing [ 50 / 50 / 100 ]% damage.",
+        "Passive: Attacks ricochet to the highest current Health enemy, dealing [ 40 / 40 / 80 ]% damage.",
         "\n",
         "\n",
         "Active: Fire waves of bullets that land on the [ 2 / 2 / 6 ] nearest enemies. The first wave deals [ 145 / 225 / 3070 ] (",
@@ -1776,7 +1776,7 @@
       "magical_resistance": 30,
       "stats": [
         "Damage: %i:scaleAP% [15 / 25 / 70]",
-        "Damage: 160 = 145(%i:scaleAD%) + 15(%i:scaleAP%) [145 / 220 / 3000]",
+        "Damage: 160 = 145(%i:scaleAD%) + 15(%i:scaleAP%) [230 / 345 / 3000]",
         "Secondary Wave Damage: 104 = 65% of 160"
       ],
       "traits": [
@@ -1952,7 +1952,7 @@
       ],
       "attack_speed": 0.9,
       "armor": 70,
-      "magical_resistance": 70,
+      "magical_resistance": 80,
       "stats": [
         "Cataclysm Damage: 100(%i:scaleAP%) [100 / 180 / 1000]",
         "Cataclysm Stun Duration [1.5 / 1.75 / 30]",
@@ -2111,7 +2111,7 @@
         "Passive: All allies gain [ 10 / 20 / 100 ] Magic Resist. Once per combat after dropping below 35% max Health, gain 90% Durability for 2 seconds.",
         "\n",
         "\n",
-        "Active: Gain [ 600 / 700 / 2500 ] (",
+        "Active: Gain [ 300 / 700 / 2500 ] (",
         "AP.png",
         ") Shield and grant the 2 lowest Health allies [ 125 / 150 / 1000 ] (",
         "AP.png",
@@ -2367,10 +2367,10 @@
       "skill_name": "The Darkin Blade",
       "skill_image": "TFT16_Aatrox.png",
       "starting_mana": 0,
-      "skill_mana": 30,
+      "skill_mana": 20,
       "skill_attack_range": 1,
       "health": [
-        900,
+        1000,
         1620,
         2916
       ],
@@ -2389,7 +2389,7 @@
       "magical_resistance": 55,
       "stats": [
         "Damage: %i:scaleAP% [15 / 25 / 100]",
-        "Slash Damage: 100 = 85(%i:scaleAD%) + 15(%i:scaleAP%) [85 / 170 / 2400]",
+        "Slash Damage: 100 = 85(%i:scaleAD%) + 15(%i:scaleAP%) [95 / 200 / 2400]",
         "Swipe Damage: 120 = 120% of 100",
         "Slam Damage: 160 = 160% of 100"
       ],
@@ -3221,7 +3221,7 @@
       "stats": [
         "Number of Missiles [15 / 15 / 25]",
         "Damage: %i:scaleAP% [6 / 9 / 20]",
-        "Damage: 48 = 42(%i:scaleAD%) + 6(%i:scaleAP%) [42 / 63 / 150]"
+        "Damage: 48 = 42(%i:scaleAD%) + 6(%i:scaleAP%) [39 / 63 / 150]"
       ],
       "traits": [
         {
@@ -3291,7 +3291,7 @@
       ],
       "skill_name": "Radiant Eclipse",
       "skill_image": "TFT16_Mel.png",
-      "starting_mana": 0,
+      "starting_mana": 30,
       "skill_mana": 200,
       "skill_attack_range": 4,
       "health": [
@@ -3305,16 +3305,16 @@
         113
       ],
       "damage_per_second": [
-        40,
-        60,
-        90
+        65,
+        100,
+        150
       ],
       "attack_speed": 0.8,
       "armor": 30,
       "magical_resistance": 30,
       "stats": [
         "Orb Damage: 40(%i:scaleAP%) [40 / 60 / 90]",
-        "Target Damage: 900(%i:scaleAP%) [900 / 1500 / 10000]",
+        "Target Damage: 1000(%i:scaleAP%) [1000 / 1500 / 10000]",
         "Secondary Damage: 400(%i:scaleAP%) [400 / 600 / 10000]"
       ],
       "traits": [
@@ -3576,7 +3576,7 @@
       "magical_resistance": 65,
       "stats": [
         "Passive Damage: 247(%i:scaleMR%) [380% / 570% / 9000%]",
-        "Crash Damage: 260(%i:scaleMR%) [400% / 675% / 5000%]",
+        "Crash Damage: 260(%i:scaleMR%) [150% / 225% / 1000%]",
         "Shield: 500(%i:scaleAP%) [500 / 600 / 2000]"
       ],
       "traits": [
@@ -4048,7 +4048,7 @@
         1439
       ],
       "attack_damage": [
-        48,
+        44,
         72,
         108
       ],
@@ -4062,7 +4062,7 @@
       "magical_resistance": 24,
       "stats": [
         "Damage: %i:scaleAP% [15 / 22 / 34]",
-        "Damage: 140 = 125(%i:scaleAD%) + 15(%i:scaleAP%) [125 / 190 / 280]"
+        "Damage: 140 = 125(%i:scaleAD%) + 15(%i:scaleAP%) [125 / 200 / 300]"
       ],
       "traits": [
         {
@@ -4333,7 +4333,7 @@
         ") magic damage to each of them over 45 seconds.",
         "\n",
         "\n",
-        "Annie's max Mana is reduced by 150 for the rest of combat. Subsquent casts launch a fireball at target that deals [ 240 / 360 / 3000 ] (",
+        "Annie's max Mana is reduced by 140 for the rest of combat. Subsquent casts launch a fireball at target that deals [ 240 / 360 / 3000 ] (",
         "AP.png",
         ") magic damage.",
         "\n",
@@ -4345,7 +4345,7 @@
       "skill_name": "Enraged Inferno",
       "skill_image": "TFT16_Annie.png",
       "starting_mana": 0,
-      "skill_mana": 170,
+      "skill_mana": 160,
       "skill_attack_range": 4,
       "health": [
         800,
@@ -4751,7 +4751,7 @@
       "skill_name": "Unbreakable Frost",
       "skill_image": "TFT16_Braum.png",
       "starting_mana": 60,
-      "skill_mana": 120,
+      "skill_mana": 105,
       "skill_attack_range": 1,
       "health": [
         1200,
@@ -5363,7 +5363,7 @@
       "magical_resistance": 60,
       "stats": [
         "Durability [50% / 50% / 80%]",
-        "Heal: 420 = 10% %i:scaleHealth% + 300(%i:scaleAP%) [300 / 350 / 1200]",
+        "Heal: 420 = 10% %i:scaleHealth% + 300(%i:scaleAP%) [250 / 300 / 1200]",
         "Damage: 100(%i:scaleAD%) [100 / 150 / 1700]"
       ],
       "traits": [
@@ -5848,34 +5848,34 @@
         "\n",
         "Stardust Upgrades:",
         "\n",
-        "15: Create a shockwave that deals [ 50 / 75 / 1000 ] (",
+        "25: Create a shockwave that deals [ 100 / 150 / 1000 ] (",
         "AP.png",
-        ") additional magic damage in a 3 Hex radius.15: Create a shockwave that deals [ 50 / 75 / 1000 ] (",
+        ") additional magic damage in a 3 Hex radius.15: Create a shockwave that deals [ 100 / 150 / 1000 ] (",
         "AP.png",
         ") additional magic damage in a 3 Hex radius.",
         "\n",
         "60: The star crash deals 15% more damage.60: The star crash deals 15% more damage.",
         "\n",
-        "100: Shockwave increases to a 4 hex radius.100: Shockwave increases to a 4 hex radius.",
+        "140: Shockwave increases to a 4 hex radius.140: Shockwave increases to a 4 hex radius.",
         "\n",
-        "175: Knock up targets in the star crash for 2 seconds.175: Knock up targets in the star crash for 2 seconds.",
+        "200: Knock up targets in the star crash for 1.5 seconds.200: Knock up targets in the star crash for 2 seconds.",
         "\n",
-        "250: Shockwave increases to 10 radius.250: Shockwave increases to 10 radius.",
+        "300: Shockwave increases to 10 radius.300: Shockwave increases to 10 radius.",
         "\n",
-        "400: The star crash deals 33% bonus true damage.400: The star crash deals 33% bonus true damage.",
+        "470: The star crash deals 33% bonus true damage.470: The star crash deals 33% bonus true damage.",
         "\n",
-        "700: Also call down a meteor storm that deals [ 1000 / 1500 / 9999 ] (",
+        "750: Also call down a meteor storm that deals [ 500 / 750 / 9999 ] (",
         "AP.png",
-        ") magic damage split between living enemies.700: Also call down a meteor storm that deals [ 1000 / 1500 / 9999 ] (",
+        ") magic damage split between living enemies.700: Also call down a meteor storm that deals [ 500 / 750 / 9999 ] (",
         "AP.png",
         ") magic damage split between living enemies.",
         "\n",
-        "1988: Summon a black hole at the epicenter, instantly killing enemies within.1988: Summon a black hole at the epicenter, instantly killing enemies within."
+        "1543: Summon a black hole at the epicenter, instantly killing enemies within.1543: Summon a black hole at the epicenter, instantly killing enemies within."
       ],
       "skill_name": "The Skies Descend",
       "skill_image": "TFT16_AurelionSol.png",
-      "starting_mana": 20,
-      "skill_mana": 90,
+      "starting_mana": 25,
+      "skill_mana": 75,
       "skill_attack_range": 4,
       "health": [
         1100,
@@ -5896,9 +5896,9 @@
       "armor": 40,
       "magical_resistance": 40,
       "stats": [
-        "Damage: 450(%i:scaleAP%) [450 / 800 / 5000]",
-        "Shockwave Damage: 50(%i:scaleAP%) [50 / 75 / 1000]",
-        "Meteor Storm Damage: 1000(%i:scaleAP%) [1000 / 1500 / 9999]"
+        "Damage: 450(%i:scaleAP%) [480 / 800 / 5000]",
+        "Shockwave Damage: 50(%i:scaleAP%) [100 / 150 / 1000]",
+        "Meteor Storm Damage: 1000(%i:scaleAP%) [500 / 750 / 9999]"
       ],
       "traits": [
         {
@@ -6579,9 +6579,9 @@
       "armor": 70,
       "magical_resistance": 70,
       "stats": [
-        "Shield: 80(%i:scaleAP%) [80 / 100 / 300]",
-        "Damage: 165(%i:scaleAP%) [165 / 250 / 500]",
-        "Secondary Damage: 150(%i:scaleAP%) [150 / 225 / 1350]"
+        "Shield: 80(%i:scaleAP%) [100 / 170 / 300]",
+        "Damage: 165(%i:scaleAP%) [125 / 190 / 600]",
+        "Secondary Damage: 150(%i:scaleAP%) [140 / 210 / 1350]"
       ],
       "traits": [
         {
@@ -8025,7 +8025,7 @@
         4536
       ],
       "attack_damage": [
-        75,
+        85,
         113,
         169
       ],
@@ -8036,13 +8036,13 @@
       ],
       "attack_speed": 0.9,
       "armor": 70,
-      "magical_resistance": 70,
+      "magical_resistance": 80,
       "stats": [
         "Shield: 440 = 10% %i:scaleHealth% + 300 [300 / 400 / 66666]",
         "Damage: %i:scaleAP% [10 / 15 / 150]",
-        "Laser Damage: 135 = 125(%i:scaleAD%) + 10(%i:scaleAP%) [125 / 200 / 2000]",
+        "Laser Damage: 135 = 125(%i:scaleAD%) + 10(%i:scaleAP%) [145 / 250 / 2000]",
         "Missiles Per Second: 4 = 4 + 1 per 25% %i:scaleAS%",
-        "Missile Damage: 41 = 30% of 135"
+        "Missile Damage: 41 = 25% of 135"
       ],
       "traits": [
         {
@@ -8106,7 +8106,7 @@
         ") magic damage among enemies within a 1 hex circle.",
         "\n",
         "\n",
-        "Then grant [ 80 / 120 / 200 ] (",
+        "Then grant [60 / 90 / 130] (",
         "AP.png",
         ") Shield to the two lowest Health allies for 3 seconds."
       ],
@@ -8136,7 +8136,7 @@
       "stats": [
         "Damage: 220(%i:scaleAP%) [220 / 330 / 500]",
         "Secondary Damage: 120(%i:scaleAP%) [120 / 180 / 300]",
-        "Shield: 80(%i:scaleAP%) [80 / 120 / 200]"
+        "Shield: 80(%i:scaleAP%) [60 / 90 / 130]"
       ],
       "traits": [
         {
@@ -8173,7 +8173,7 @@
         }
       ],
       "unlock": {
-        "description": "2 unique Piltover units",
+        "description": "2 items on a Piltover Champion",
         "type": true
       }
     },
@@ -8217,7 +8217,7 @@
         32,
         47
       ],
-      "attack_speed": 0.7,
+      "attack_speed": 0.75,
       "armor": 20,
       "magical_resistance": 20,
       "stats": [
@@ -14921,7 +14921,7 @@
         "damage_modifier": [
           {
             "image": "Armor.png",
-            "damage": "+20"
+            "damage": "+15"
           }
         ],
         "average_position": "4.16",
@@ -15425,7 +15425,7 @@
         "damage_modifier": [
           {
             "image": "MR.png",
-            "damage": "+20"
+            "damage": "+25"
           }
         ],
         "average_position": "4.03",
@@ -15533,7 +15533,7 @@
         "id": "invoker_emblem",
         "name": "Invoker Emblem",
         "image": "TFT16_Item_InvokerEmblemItem.png",
-        "description": "The holder gains the Invoker trait. On cast, gain Ability Power equal to 20% of Mana spent.",
+        "description": "The holder gains the Invoker trait. On cast, gain Ability Power equal to 10% of Mana spent.",
         "damage_modifier": [],
         "average_position": "4.19",
         "top_4_rate": "55.46",
@@ -15932,7 +15932,7 @@
         "id": "disruptor_emblem",
         "name": "Disruptor Emblem",
         "image": "TFT16_Item_MagusEmblemItem.png",
-        "description": "The holder gains the Disruptor trait. Abilities deal 30% bonus magic damage over 3 seconds.",
+        "description": "The holder gains the Disruptor trait. Abilities deal 20% bonus magic damage over 3 seconds.",
         "damage_modifier": [
           {
             "image": "Health.png",
@@ -26398,11 +26398,6 @@
         "img_url": "tft16_sion.tft_set16.png"
       },
       {
-        "id": "teemo",
-        "name": "Teemo",
-        "img_url": "tft16_teemo.tft_set16.png"
-      },
-      {
         "id": "tristana",
         "name": "Tristana",
         "img_url": "tft16_tristana.tft_set16.png"
@@ -26619,11 +26614,6 @@
         "img_url": "tft16_azir.tft_set16.png"
       },
       {
-        "id": "kindred",
-        "name": "Kindred",
-        "img_url": "tft16_kindred.tft_set16.png"
-      },
-      {
         "id": "lucian_&_senna",
         "name": "Lucian & Senna",
         "img_url": "tft16_lucian.tft_set16.png"
@@ -26664,7 +26654,6 @@
         "img_url": "tft16_ziggs.tft_set16.png"
       }
     ],
-    [],
     [
       {
         "id": "aurelion_sol",
@@ -26682,24 +26671,9 @@
         "img_url": "tft16_ryze.tft_set16.png"
       },
       {
-        "id": "sylas",
-        "name": "Sylas",
-        "img_url": "tft16_sylas.tft_set16.png"
-      },
-      {
         "id": "zaahen",
         "name": "Zaahen",
         "img_url": "tft16_zaahen.tft_set16.png"
-      }
-    ],
-    [],
-    [],
-    [],
-    [
-      {
-        "id": "tibbers",
-        "name": "Tibbers",
-        "img_url": "tft16_annietibbers.tft_set16.png"
       }
     ]
   ]
