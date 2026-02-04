@@ -107,7 +107,7 @@
             "damage_modifier": [
                 {
                     "image": "AP.png",
-                    "damage": "+40"
+                    "damage": "+35"
                 },
                 {
                     "image": "AS.png",
@@ -254,7 +254,7 @@
             "id": "radiant_warmog's_armor",
             "name": "Radiant Warmog's Armor",
             "image": "tft5_item_warmogsarmorradiant.tft_set13.png",
-            "description": "Gain 33% max Health.",
+            "description": "Gain 36% max Health.",
             "damage_modifier": [
                 {
                     "image": "Health.png",
@@ -736,11 +736,11 @@
             "id": "radiant_gargoyle_stoneplate",
             "name": "Radiant Gargoyle Stoneplate",
             "image": "tft5_item_gargoylestoneplateradiant.tft_set13.png",
-            "description": "Gain 25 Armor and 25 Magic Resist for each enemy targeting the holder.",
+            "description": "Gain 10 Armor and 10 Magic Resist for each enemy targeting the holder.",
             "damage_modifier": [
                 {
                     "image": "Armor.png",
-                    "damage": "+50"
+                    "damage": "+60"
                 },
                 {
                     "image": "Health.png",
@@ -748,7 +748,7 @@
                 },
                 {
                     "image": "MR.png",
-                    "damage": "+50"
+                    "damage": "+60"
                 }
             ],
             "average_position": "4.25",
@@ -2203,7 +2203,7 @@
             "id": "mogul's_mail",
             "name": "Mogul's Mail",
             "image": "tft7_item_shimmerscalemogulsmail.tft_set13.png",
-            "description": "Grants 1 Armor, 1 Magic Resist, and 5 Health when taking damage, stacking up to 35 times.\n\nAt full stacks, grant 1 gold and continue gaining 1 gold every 12 seconds.\n\nGold generated this game: ?\n\n[Unique - only 1 per champion]",
+            "description": "Grants 1 Armor, 1 Magic Resist, and 5 Health when taking damage, stacking up to 35 times.\n\nAt full stacks, grant 1 gold and continue gaining 1 gold every 11 seconds.\n\nGold generated this game: ?\n\n[Unique - only 1 per champion]",
             "damage_modifier": [
                 {
                     "image": "Health.png",
@@ -2256,7 +2256,7 @@
                 },
                 {
                     "image": "Health.png",
-                    "damage": "+200"
+                    "damage": "+300"
                 }
             ],
             "average_position": "3.95",
@@ -2301,7 +2301,7 @@
             "damage_modifier": [
                 {
                     "image": "Health.png",
-                    "damage": "+200"
+                    "damage": "+300"
                 },
                 {
                     "image": "MR.png",
@@ -2656,11 +2656,11 @@
             "damage_modifier": [
                 {
                     "image": "AD.png",
-                    "damage": "+25%"
+                    "damage": "+20%"
                 },
                 {
                     "image": "AP.png",
-                    "damage": "+25"
+                    "damage": "+20"
                 },
                 {
                     "image": "AS.png",
@@ -3093,11 +3093,11 @@
             "damage_modifier": [
                 {
                     "image": "Armor.png",
-                    "damage": "+50"
+                    "damage": "+60"
                 },
                 {
                     "image": "MR.png",
-                    "damage": "+50"
+                    "damage": "+60"
                 }
             ],
             "average_position": "3.87",
@@ -3833,7 +3833,7 @@
             "damage_modifier": [
                 {
                     "image": "Armor.png",
-                    "damage": "+25"
+                    "damage": "+30"
                 },
                 {
                     "image": "Health.png",
@@ -3841,7 +3841,7 @@
                 },
                 {
                     "image": "MR.png",
-                    "damage": "+25"
+                    "damage": "+30"
                 }
             ],
             "average_position": "4.38",
@@ -4017,7 +4017,7 @@
             "damage_modifier": [
                 {
                     "image": "AP.png",
-                    "damage": "+20"
+                    "damage": "+18"
                 },
                 {
                     "image": "AS.png",
@@ -4261,7 +4261,7 @@
             "id": "warmog's_armor",
             "name": "Warmog's Armor",
             "image": "tft_item_warmogsarmor.tft_set13.png",
-            "description": "Gain 15% max Health.",
+            "description": "Gain 18% max Health.",
             "damage_modifier": [
                 {
                     "image": "Health.png",

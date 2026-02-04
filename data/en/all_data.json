@@ -1490,7 +1490,7 @@
         "Cast one of three spells:",
         "\n",
         "\n",
-        "Cataclysm: Leap on a nearby enemy. Deal [ 100 / 180 / 1000 ] (",
+        "Cataclysm: Leap on a nearby enemy. Deal [ 120/200/1000 ] (",
         "AP.png",
         ") magic damage to all enemies within 2 hexes and Stun them for [ 1.5 / 1.75 / 30 ] seconds.",
         "\n",
@@ -1531,7 +1531,8 @@
       "armor": 80,
       "magical_resistance": 80,
       "stats": [
-        "Cataclysm Damage: 100(%i:scaleAP%) [100 / 180 / 1000]",
+        "Cataclysm: Leap on a nearby enemy. Deal [ 120/200/1000 ] (",
+        "Cataclysm Damage: 100(%i:scaleAP%) []",
         "Cataclysm Stun Duration [1.5 / 1.75 / 30]",
         "Demacian Justice Damage: 670(%i:scaleAP%) [670 / 1000 / 99999]",
         "Shield: 400(%i:scaleAP%) [400 / 450 / 800]",
@@ -1691,7 +1692,7 @@
       "armor": 30,
       "magical_resistance": 30,
       "stats": [
-        "Attack Speed: 75%(%i:scaleAP%) [75% / 75% / 300%]",
+        "Attack Speed: 75%(%i:scaleAP%) [65% / 65% / 300%]",
         "Damage: 80(%i:scaleAD%) [80 / 120 / 425]"
       ],
       "traits": [
@@ -2328,7 +2329,7 @@
       "top_1_rate": "15.25",
       "battle": "232,584",
       "description_icon": [
-        "Summon an elemental from behind the farthest enemy. It 20% Chills enemies hit for 3 seconds and deals [ 100 / 150 / 3000 ] (",
+        "Summon an elemental from behind the farthest enemy. It 20% Chills enemies hit for 5 seconds and deals [ 100 / 150 / 3000 ] (",
         "AP.png",
         ") magic damage to them.",
         "\n",
@@ -2546,7 +2547,7 @@
       "magical_resistance": 55,
       "stats": [
         "Damage: %i:scaleAP% [15 / 25 / 100]",
-        "Slash Damage: 110 = 95(%i:scaleAD%) + 15(%i:scaleAP%) [95 / 200 / 2400]",
+        "Slash Damage: 110 = 95(%i:scaleAD%) + 15(%i:scaleAP%) [95 / 185 / 2400]",
         "Swipe Damage: 132 = 120% of 110",
         "Slam Damage: 176 = 160% of 110"
       ],
@@ -4149,9 +4150,9 @@
       "description_icon": [
         "Dash around target and snip 5 (",
         "TFT16_ShadowIsles_scaleSouls.png",
-        ") times, dealing [ 45 / 68 / 105 ] (",
+        ") times, dealing [ 50/75/120 ] (",
         "AP.png",
-        ") magic damage to them and [ 20 / 30 / 50 ] (",
+        ") magic damage to them and [ 25/35/60 ] (",
         "AP.png",
         ") damage to all other enemies in a cone."
       ],
@@ -4180,8 +4181,8 @@
       "magical_resistance": 55,
       "stats": [
         "Snips: 5 = 5 + 1 per 80 %i:scaleSouls%",
-        "Damage: 45(%i:scaleAP%) [45 / 68 / 105]",
-        "Secondary Damage: 20(%i:scaleAP%) [20 / 30 / 50]"
+        "Damage: 50(%i:scaleAP%) [50/75/120]",
+        "Secondary Damage: 25(%i:scaleAP%) [25/35/60]"
       ],
       "traits": [
         {
@@ -4233,7 +4234,7 @@
       "top_1_rate": "13.02",
       "battle": "206,294",
       "description_icon": [
-        "Gain [ 350 / 450 / 2000 ] max Health and grow larger. Slam in a 2 Hex circle on the target, dealing [ 166 / 269 / 2488 ] (",
+        "Gain [ 300/425/2000 ] max Health and grow larger. Slam in a 2 Hex circle on the target, dealing [ 166 / 269 / 2488 ] (",
         "AP.png",
         "Health.png",
         ") magic damage to enemies hit. For 4 seconds, gain [ 25 / 25 / 80 ]% (",
@@ -4264,7 +4265,7 @@
       "armor": 60,
       "magical_resistance": 60,
       "stats": [
-        "Max Health [350 / 450 / 2000]",
+        "Max Health [300/425/2000]",
         "Damage: 166 = 100(%i:scaleAP%) + 6% %i:scaleHealth% [100 / 150 / 2000]",
         "Durability: 25%(%i:scaleAP%) [25% / 25% / 80%]"
       ],
@@ -4853,7 +4854,7 @@
       "magical_resistance": 24,
       "stats": [
         "Damage: %i:scaleAP% [15 / 22 / 34]",
-        "Damage: 150 = 135(%i:scaleAD%) + 15(%i:scaleAP%) [135 / 200 / 300]"
+        "Damage: 150 = 135(%i:scaleAD%) + 15(%i:scaleAP%) [145/215/325]"
       ],
       "traits": [
         {
@@ -5080,7 +5081,7 @@
       "description_icon": [
         "Deal [ 130 / 195 / 300 ] (",
         "AP.png",
-        ") magic damage to 2 nearby enemies and restore [ 40 / 50 / 80 ] (",
+        ") magic damage to 2 nearby enemies and restore [ 30/40/65] (",
         "AP.png",
         ") Health to the lowest Health ally."
       ],
@@ -5109,7 +5110,7 @@
       "magical_resistance": 15,
       "stats": [
         "Damage: 130(%i:scaleAP%) [130 / 195 / 300]",
-        "Heal: 40(%i:scaleAP%) [40 / 50 / 80]"
+        "Heal: 40(%i:scaleAP%) [30/40/65]"
       ],
       "traits": [
         {
@@ -5161,7 +5162,7 @@
       "top_1_rate": "11.89",
       "battle": "55,689",
       "description_icon": [
-        "Fire a massive cannonball at target, dealing [ 280 / 420 / 635 ] (",
+        "Fire a massive cannonball at target, dealing [ 250/375/600 ] (",
         "AD.png",
         "AP.png",
         ") physical damage. If they are within 2 hexes, knock them back 2 hexes and briefly Stun them."
@@ -5572,7 +5573,7 @@
       "top_1_rate": "11.37",
       "battle": "299,732",
       "description_icon": [
-        "Encase target in ice, Stunning them for 1 second and dealing [ 275 / 415 / 2800 ] (",
+        "Encase target in ice, Stunning them for 1 second and dealing [ 315/475/2800 ] (",
         "AP.png",
         ") magic damage. All enemies within 2 hexes of them split [ 415 / 625 / 2800 ] (",
         "AP.png",
@@ -5608,7 +5609,7 @@
       "armor": 30,
       "magical_resistance": 30,
       "stats": [
-        "Damage: 275(%i:scaleAP%) [275 / 415 / 2800]",
+        "Damage: 275(%i:scaleAP%) [2315/475/2800]",
         "Secondary Damage: 415(%i:scaleAP%) [415 / 625 / 2800]"
       ],
       "traits": [
@@ -5749,9 +5750,9 @@
         "AP.png",
         ") Health and spin, dealing [ 90 / 135 / 210 ] (",
         "AD.png",
-        ") physical damage to adjacent enemies and applying a stack of Hemorrhage that deals [ 15 / 25 / 40 ] (",
+        ") physical damage to adjacent enemies and applying a stack of Hemorrhage that deals [ 12/18/30 ] (",
         "AD.png",
-        ") physical damage each second for 4 seconds.",
+        ") physical damage each second for 5 seconds.",
         "\n",
         "\n",
         "If an enemy with Hemorrhage drops below 8% Health, slam on them, instantly killing them. (Each stack increases the execute threshold by 5%)"
@@ -6131,7 +6132,7 @@
       "description_icon": [
         "Strike target 3 times. Each strike deals [ 65 / 100 / 150 ] (",
         "AD.png",
-        ") physical damage and restores [ 95 / 135 / 170 ] (",
+        ") physical damage and restores [ 105/145/200 ] (",
         "AP.png",
         ") Health. The final one Stuns for 1.5 seconds."
       ],
@@ -6160,7 +6161,7 @@
       "magical_resistance": 45,
       "stats": [
         "Damage: 65(%i:scaleAD%) [65 / 100 / 150]",
-        "Heal: 95(%i:scaleAP%) [95 / 135 / 170]"
+        "Heal: 95(%i:scaleAP%) [105/145/200]"
       ],
       "traits": [
         {
@@ -6412,7 +6413,7 @@
         2106
       ],
       "attack_damage": [
-        53,
+        58,
         80,
         119
       ],
@@ -7174,7 +7175,7 @@
         ") Shield and begin consuming 33 mana per second. Each second while casting, fire a laser that deals [ 155 / 265 / 2150 ] (",
         "AD.png",
         "AP.png",
-        ") physical damage, reduced by 25% per enemy hit up to 75%. Additionally, launch 4 (",
+        ") physical damage, reduced by 35% per enemy hit up to 80%. Additionally, launch 4 (",
         "AS.png",
         ") missiles split between 4 nearby enemies that each deal [ 39 / 66 / 538 ] (",
         "AD.png",
@@ -7207,7 +7208,7 @@
       "stats": [
         "Shield: 440 = 10% %i:scaleHealth% + 300 [300 / 400 / 66666]",
         "Damage: %i:scaleAP% [10 / 15 / 150]",
-        "Laser Damage: 155 = 145(%i:scaleAD%) + 10(%i:scaleAP%) [145 / 250 / 2000]",
+        "Laser Damage: 155 = 145(%i:scaleAD%) + 10(%i:scaleAP%) [160/265 / 2000]",
         "Missiles Per Second: 4 = 4 + 1 per 25% %i:scaleAS%",
         "Missile Damage: 39 = 25% of 155"
       ],
@@ -7352,7 +7353,7 @@
       "top_1_rate": "8.81",
       "battle": "84,648",
       "description_icon": [
-        "Launch 6 Meeps at nearby enemies that deal [ 120 / 170 / 240 ] (",
+        "Launch 6 Meeps at nearby enemies that deal [ 130/185/255 ] (",
         "AP.png",
         ") magic damage. Add an additional Meep for each 3-star unit on your board. (Total Meeps: 0)",
         "\n"
@@ -7381,7 +7382,7 @@
       "armor": 20,
       "magical_resistance": 20,
       "stats": [
-        "Damage: 120(%i:scaleAP%) [120 / 170 / 240]"
+        "Damage: 120(%i:scaleAP%) [130/185/255]"
       ],
       "traits": [
         {
@@ -8381,7 +8382,7 @@
       "stats": [
         "Number of Attacks: [18 / 18 / 16]",
         "Damage: %i:scaleAP% [4 / 6 / 9]",
-        "Damage: 69 = 65(%i:scaleAD%) + 4(%i:scaleAP%) [65 / 100 / 155]"
+        "Damage: 69 = 65(%i:scaleAD%) + 4(%i:scaleAP%) [50/75/125]"
       ],
       "traits": [
         {
@@ -8614,7 +8615,7 @@
         "damage_modifier": [
           {
             "image": "AP.png",
-            "damage": "+40"
+            "damage": "+35"
           },
           {
             "image": "AS.png",
@@ -8761,7 +8762,7 @@
         "id": "radiant_warmog's_armor",
         "name": "Radiant Warmog's Armor",
         "image": "tft5_item_warmogsarmorradiant.tft_set13.png",
-        "description": "Gain 33% max Health.",
+        "description": "Gain 36% max Health.",
         "damage_modifier": [
           {
             "image": "Health.png",
@@ -9243,11 +9244,11 @@
         "id": "radiant_gargoyle_stoneplate",
         "name": "Radiant Gargoyle Stoneplate",
         "image": "tft5_item_gargoylestoneplateradiant.tft_set13.png",
-        "description": "Gain 25 Armor and 25 Magic Resist for each enemy targeting the holder.",
+        "description": "Gain 10 Armor and 10 Magic Resist for each enemy targeting the holder.",
         "damage_modifier": [
           {
             "image": "Armor.png",
-            "damage": "+50"
+            "damage": "+60"
           },
           {
             "image": "Health.png",
@@ -9255,7 +9256,7 @@
           },
           {
             "image": "MR.png",
-            "damage": "+50"
+            "damage": "+60"
           }
         ],
         "average_position": "4.25",
@@ -10710,7 +10711,7 @@
         "id": "mogul's_mail",
         "name": "Mogul's Mail",
         "image": "tft7_item_shimmerscalemogulsmail.tft_set13.png",
-        "description": "Grants 1 Armor, 1 Magic Resist, and 5 Health when taking damage, stacking up to 35 times.\n\nAt full stacks, grant 1 gold and continue gaining 1 gold every 12 seconds.\n\nGold generated this game: ?\n\n[Unique - only 1 per champion]",
+        "description": "Grants 1 Armor, 1 Magic Resist, and 5 Health when taking damage, stacking up to 35 times.\n\nAt full stacks, grant 1 gold and continue gaining 1 gold every 11 seconds.\n\nGold generated this game: ?\n\n[Unique - only 1 per champion]",
         "damage_modifier": [
           {
             "image": "Health.png",
@@ -10763,7 +10764,7 @@
           },
           {
             "image": "Health.png",
-            "damage": "+200"
+            "damage": "+300"
           }
         ],
         "average_position": "3.95",
@@ -10808,7 +10809,7 @@
         "damage_modifier": [
           {
             "image": "Health.png",
-            "damage": "+200"
+            "damage": "+300"
           },
           {
             "image": "MR.png",
@@ -11163,11 +11164,11 @@
         "damage_modifier": [
           {
             "image": "AD.png",
-            "damage": "+25%"
+            "damage": "+20%"
           },
           {
             "image": "AP.png",
-            "damage": "+25"
+            "damage": "+20"
           },
           {
             "image": "AS.png",
@@ -11600,11 +11601,11 @@
         "damage_modifier": [
           {
             "image": "Armor.png",
-            "damage": "+50"
+            "damage": "+60"
           },
           {
             "image": "MR.png",
-            "damage": "+50"
+            "damage": "+60"
           }
         ],
         "average_position": "3.87",
@@ -12340,7 +12341,7 @@
         "damage_modifier": [
           {
             "image": "Armor.png",
-            "damage": "+25"
+            "damage": "+30"
           },
           {
             "image": "Health.png",
@@ -12348,7 +12349,7 @@
           },
           {
             "image": "MR.png",
-            "damage": "+25"
+            "damage": "+30"
           }
         ],
         "average_position": "4.38",
@@ -12524,7 +12525,7 @@
         "damage_modifier": [
           {
             "image": "AP.png",
-            "damage": "+20"
+            "damage": "+18"
           },
           {
             "image": "AS.png",
@@ -12768,7 +12769,7 @@
         "id": "warmog's_armor",
         "name": "Warmog's Armor",
         "image": "tft_item_warmogsarmor.tft_set13.png",
-        "description": "Gain 15% max Health.",
+        "description": "Gain 18% max Health.",
         "damage_modifier": [
           {
             "image": "Health.png",
@@ -20438,14 +20439,14 @@
       "description_detail": [
         [
           "2",
-          "20%",
+          "22%",
           "AD.png",
           "",
           "100 bonus damage"
         ],
         [
           "4",
-          "35%",
+          "40%",
           "AD.png",
           "",
           "200 bonus damage"
@@ -25715,9 +25716,9 @@
         "0"
       ],
       [
-        "19%",
+        "16%",
         "30%",
-        "40%",
+        "43%",
         "10%",
         "1%"
       ],

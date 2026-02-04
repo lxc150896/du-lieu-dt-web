@@ -1490,7 +1490,8 @@
         "Thi triển 1 trong 3 kỹ năng:",
         "\n",
         "\n",
-        "Đại Địa Chấn: Nhảy bổ vào một kẻ địch ở gần. Gây [ 100 / 180 / 1000 ] (",
+        "Cataclysm: Leap on a nearby enemy. Deal [ 120/200/1000 ] (",
+        "Đại Địa Chấn: Nhảy bổ vào một kẻ địch ở gần. Gây [  ] (",
         "AP.png",
         ") sát thương phép lên tất cả các kẻ địch trong phạm vi 2 ô và Làm Choáng chúng trong [ 1.5 / 1.75 / 30 ] giây.",
         "\n",
@@ -1531,7 +1532,7 @@
       "armor": 80,
       "magical_resistance": 80,
       "stats": [
-        "Sát Thương Đại Địa Chấn: 100(%i:scaleAP%) [100 / 180 / 1000]",
+        "Sát Thương Đại Địa Chấn: 100(%i:scaleAP%) [120 / 200 / 1000]",
         "Thời Gian Làm Choáng Đại Địa Chấn [1.5 / 1.75 / 30]",
         "Sát Thương Công Lý Demacia: 670(%i:scaleAP%) [670 / 1000 / 99999]",
         "Lá Chắn: 400(%i:scaleAP%) [400 / 450 / 800]",
@@ -1691,7 +1692,7 @@
       "armor": 30,
       "magical_resistance": 30,
       "stats": [
-        "Tốc Độ Đánh: 75%(%i:scaleAP%) [75% / 75% / 300%]",
+        "Tốc Độ Đánh: 65%(%i:scaleAP%) [65% / 65% / 300%]",
         "Sát Thương: 80(%i:scaleAD%) [80 / 120 / 425]"
       ],
       "traits": [
@@ -2324,7 +2325,7 @@
       "top_1_rate": "15.25",
       "battle": "232,584",
       "description_icon": [
-        "Triệu hồi một khổng thú từ phía sau kẻ địch xa nhất. Nó gây 20% Tê Tái lên các kẻ địch trúng đòn trong 3 giây và gây [ 100 / 150 / 3000 ] (",
+        "Triệu hồi một khổng thú từ phía sau kẻ địch xa nhất. Nó gây 20% Tê Tái lên các kẻ địch trúng đòn trong 5 giây và gây [ 100 / 150 / 3000 ] (",
         "AP.png",
         ") sát thương phép lên chúng.",
         "\n",
@@ -2542,7 +2543,7 @@
       "magical_resistance": 55,
       "stats": [
         "Sát Thương: %i:scaleAP% [15 / 25 / 100]",
-        "Sát Thương Chém: 110 = 95(%i:scaleAD%) + 15(%i:scaleAP%) [95 / 200 / 2400]",
+        "Sát Thương Chém: 110 = 95(%i:scaleAD%) + 15(%i:scaleAP%) [95 / 185 / 2400]",
         "Sát Thương Vả: 132 = 120% x 110",
         "Sát Thương Nện: 176 = 160% x 110"
       ],
@@ -4145,9 +4146,9 @@
       "description_icon": [
         "Lướt xung quanh mục tiêu và cắt 5 (",
         "TFT16_ShadowIsles_scaleSouls.png",
-        ") lần, gây [ 45 / 68 / 105 ] (",
+        ") lần, gây [ 50/75/120 ] (",
         "AP.png",
-        ") sát thương phép lên chúng và [ 20 / 30 / 50 ] (",
+        ") sát thương phép lên chúng và [ 25/35/60 ] (",
         "AP.png",
         ") sát thương lên mọi kẻ địch khác theo hình nón."
       ],
@@ -4176,8 +4177,8 @@
       "magical_resistance": 55,
       "stats": [
         "Xoẹt Xoẹt: 5 = 5 + 1 mỗi 80 %i:scaleSouls%",
-        "Sát Thương: 45(%i:scaleAP%) [45 / 68 / 105]",
-        "Sát Thương Phụ: 20(%i:scaleAP%) [20 / 30 / 50]"
+        "Sát Thương: 50(%i:scaleAP%) [50/75/120]",
+        "Sát Thương Phụ: 20(%i:scaleAP%) [25/35/60]"
       ],
       "traits": [
         {
@@ -4229,7 +4230,7 @@
       "top_1_rate": "13.02",
       "battle": "206,294",
       "description_icon": [
-        "Nhận [ 350 / 450 / 2000 ] Máu tối đa và hóa lớn. Dậm xuống, gây ảnh hưởng trong một vòng tròn 2 Ô quanh mục tiêu, gây [ 166 / 269 / 2488 ] (",
+        "Nhận [ 300/425/2000 ] Máu tối đa và hóa lớn. Dậm xuống, gây ảnh hưởng trong một vòng tròn 2 Ô quanh mục tiêu, gây [ 166 / 269 / 2488 ] (",
         "AP.png",
         "Health.png",
         ") sát thương phép lên các kẻ địch trúng đòn. Trong 4 giây, nhận [ 25 / 25 / 80 ]% (",
@@ -4260,7 +4261,7 @@
       "armor": 60,
       "magical_resistance": 60,
       "stats": [
-        "Máu Tối Đa [350 / 450 / 2000]",
+        "Máu Tối Đa [300/425/2000]",
         "Sát Thương: 166 = 100(%i:scaleAP%) + 6% %i:scaleHealth% [100 / 150 / 2000]",
         "Chống Chịu: 25%(%i:scaleAP%) [25% / 25% / 80%]"
       ],
@@ -4849,7 +4850,7 @@
       "magical_resistance": 24,
       "stats": [
         "Sát Thương: %i:scaleAP% [15 / 22 / 34]",
-        "Sát Thương: 150 = 135(%i:scaleAD%) + 15(%i:scaleAP%) [135 / 200 / 300]"
+        "Sát Thương: 150 = 135(%i:scaleAD%) + 15(%i:scaleAP%) [145/215/325]"
       ],
       "traits": [
         {
@@ -5076,7 +5077,7 @@
       "description_icon": [
         "Gây [ 130 / 195 / 300 ] (",
         "AP.png",
-        ") sát thương phép lên 2 kẻ địch ở gần và hồi lại [ 40 / 50 / 80 ] (",
+        ") sát thương phép lên 2 kẻ địch ở gần và hồi lại [ 30/40/65 ] (",
         "AP.png",
         ") Máu cho đồng minh thấp Máu nhất."
       ],
@@ -5105,7 +5106,7 @@
       "magical_resistance": 15,
       "stats": [
         "Sát Thương: 130(%i:scaleAP%) [130 / 195 / 300]",
-        "Hồi Máu: 40(%i:scaleAP%) [40 / 50 / 80]"
+        "Hồi Máu: 40(%i:scaleAP%) [30/40/65]"
       ],
       "traits": [
         {
@@ -5157,7 +5158,7 @@
       "top_1_rate": "11.89",
       "battle": "55,689",
       "description_icon": [
-        "Bắn 1 viên đạn pháo cỡ đại vào mục tiêu, gây [ 280 / 420 / 635 ] (",
+        "Bắn 1 viên đạn pháo cỡ đại vào mục tiêu, gây [ 250/375/600 ] (",
         "AD.png",
         "AP.png",
         ") sát thương vật lý. Nếu chúng ở trong phạm vi 2 ô, đẩy lùi chúng lại 2 ô và Làm Choáng chúng trong giây lát."
@@ -5559,7 +5560,7 @@
       "top_1_rate": "11.37",
       "battle": "299,732",
       "description_icon": [
-        "Đóng băng mục tiêu, Làm Choáng chúng trong 1 giây và gây [ 275 / 415 / 2800 ] (",
+        "Đóng băng mục tiêu, Làm Choáng chúng trong 1 giây và gây [ 2315/475/2800 ] (",
         "AP.png",
         ") sát thương phép. Gây [ 415 / 625 / 2800 ] (",
         "AP.png",
@@ -5596,7 +5597,7 @@
       "armor": 30,
       "magical_resistance": 30,
       "stats": [
-        "Sát Thương: 275(%i:scaleAP%) [275 / 415 / 2800]",
+        "Sát Thương: 275(%i:scaleAP%) [315/475/2800]",
         "Sát Thương Phụ: 415(%i:scaleAP%) [415 / 625 / 2800]"
       ],
       "traits": [
@@ -5737,9 +5738,9 @@
         "AP.png",
         ") Máu và xoay, gây [ 90 / 135 / 210 ] (",
         "AD.png",
-        ") sát thương vật lý lên các kẻ địch liền kề và áp dụng 1 cộng dồn Xuất Huyết, gây [ 15 / 25 / 40 ] (",
+        ") sát thương vật lý lên các kẻ địch liền kề và áp dụng 1 cộng dồn Xuất Huyết, gây [ 12/18/30 ] (",
         "AD.png",
-        ") sát thương vật lý mỗi giây trong 4 giây.",
+        ") sát thương vật lý mỗi giây trong 5 giây.",
         "\n",
         "\n",
         "Nếu một kẻ địch trúng Xuất Huyết xuống dưới 8% Máu, dậm lên chúng và ngay lập tức kết liễu. (Mỗi cộng dồn tăng ngưỡng kết liễu lên 5%)"
@@ -6119,7 +6120,7 @@
       "description_icon": [
         "Tấn công mục tiêu 3 lần. Mỗi đòn tấn công gây [ 65 / 100 / 150 ] (",
         "AD.png",
-        ") sát thương vật lý và hồi lại [ 95 / 135 / 170 ] (",
+        ") sát thương vật lý và hồi lại [ 105/145/200 ] (",
         "AP.png",
         ") Máu. Lần ra đòn cuối cùng sẽ Làm Choáng trong 1.5 giây."
       ],
@@ -6148,7 +6149,7 @@
       "magical_resistance": 45,
       "stats": [
         "Sát Thương: 65(%i:scaleAD%) [65 / 100 / 150]",
-        "Hồi Máu: 95(%i:scaleAP%) [95 / 135 / 170]"
+        "Hồi Máu: 95(%i:scaleAP%) [105/145/200]"
       ],
       "traits": [
         {
@@ -6400,7 +6401,7 @@
         2106
       ],
       "attack_damage": [
-        53,
+        58,
         80,
         119
       ],
@@ -7162,7 +7163,7 @@
         ") Lá Chắn và bắt đầu tiêu hao 33 năng lượng mỗi giây. Mỗi giây khi thi triển, bắn ra một tia laser gây [ 155 / 265 / 2150 ] (",
         "AD.png",
         "AP.png",
-        ") sát thương vật lý, giảm đi 25% với mỗi kẻ địch trúng đòn, tối đa 75%. Ngoài ra, phóng 4 (",
+        ") sát thương vật lý, giảm đi 35% với mỗi kẻ địch trúng đòn, tối đa 80%. Ngoài ra, phóng 4 (",
         "AS.png",
         ") đường đạn chia đều giữa 4 kẻ địch ở gần, mỗi đường đạn gây [ 39 / 66 / 538 ] (",
         "AD.png",
@@ -7195,7 +7196,7 @@
       "stats": [
         "Lá Chắn: 440 = 10% %i:scaleHealth% + 300 [300 / 400 / 66666]",
         "Sát Thương: %i:scaleAP% [10 / 15 / 150]",
-        "Sát Thương Tia Laser: 155 = 145(%i:scaleAD%) + 10(%i:scaleAP%) [145 / 250 / 2000]",
+        "Sát Thương Tia Laser: 155 = 145(%i:scaleAD%) + 10(%i:scaleAP%) [160/265/ 2000]",
         "Đường Đạn Mỗi Giây: 4 = 4 + 1 mỗi 25% %i:scaleAS%",
         "Sát Thương Đường Đạn: 39 = 25% / 155"
       ],
@@ -7340,7 +7341,7 @@
       "top_1_rate": "8.81",
       "battle": "84,648",
       "description_icon": [
-        "Phóng ra 6 Tinh Linh Chuông vào các kẻ địch ở gần, gây [ 120 / 170 / 240 ] (",
+        "Phóng ra 6 Tinh Linh Chuông vào các kẻ địch ở gần, gây [ 130/185/255 ] (",
         "AP.png",
         ") sát thương phép. Bổ sung thêm 1 Tinh Linh Chuông với mỗi tướng 3 sao trên sân đấu. (Tổng Số Tinh Linh Chuông: 0)",
         "\n"
@@ -7369,7 +7370,7 @@
       "armor": 20,
       "magical_resistance": 20,
       "stats": [
-        "Sát Thương: 120(%i:scaleAP%) [120 / 170 / 240]"
+        "Sát Thương: 130(%i:scaleAP%) [130/185/255]"
       ],
       "traits": [
         {
@@ -8369,7 +8370,7 @@
       "stats": [
         "Số Đòn Đánh: [18 / 18 / 16]",
         "Sát Thương: %i:scaleAP% [4 / 6 / 9]",
-        "Sát Thương: 69 = 65(%i:scaleAD%) + 4(%i:scaleAP%) [65 / 100 / 155]"
+        "Sát Thương: 69 = 65(%i:scaleAD%) + 4(%i:scaleAP%) [50/75/125]"
       ],
       "traits": [
         {
@@ -8602,7 +8603,7 @@
         "damage_modifier": [
           {
             "image": "AP.png",
-            "damage": "+40"
+            "damage": "+35"
           },
           {
             "image": "AS.png",
@@ -8749,7 +8750,7 @@
         "id": "radiant_warmog's_armor",
         "name": "Giáp Máu Warmog Ánh Sáng",
         "image": "tft5_item_warmogsarmorradiant.tft_set13.png",
-        "description": "Nhận 33% Máu tối đa.",
+        "description": "Nhận 36% Máu tối đa.",
         "damage_modifier": [
           {
             "image": "Health.png",
@@ -9231,11 +9232,11 @@
         "id": "radiant_gargoyle_stoneplate",
         "name": "Thú Tượng Thạch Giáp Ánh Sáng",
         "image": "tft5_item_gargoylestoneplateradiant.tft_set13.png",
-        "description": "Nhận 25 Giáp và 25 Kháng Phép với mỗi kẻ địch đang nhắm vào chủ sở hữu.",
+        "description": "Nhận 10 Giáp và 10 Kháng Phép với mỗi kẻ địch đang nhắm vào chủ sở hữu.",
         "damage_modifier": [
           {
             "image": "Armor.png",
-            "damage": "+50"
+            "damage": "+60"
           },
           {
             "image": "Health.png",
@@ -9243,7 +9244,7 @@
           },
           {
             "image": "MR.png",
-            "damage": "+50"
+            "damage": "+60"
           }
         ],
         "average_position": "4.25",
@@ -10698,7 +10699,7 @@
         "id": "mogul's_mail",
         "name": "Giáp Đại Hãn",
         "image": "tft7_item_shimmerscalemogulsmail.tft_set13.png",
-        "description": "Cho 1 Giáp, 1 Kháng Phép và 5 Máu khi nhận sát thương, cộng dồn tối đa 35 lần.\n\nKhi đạt cộng dồn tối đa, cho 1 vàng và tiếp tục cho thêm 1 vàng sau mỗi 12 giây.\n\nVàng đã tạo ra trong trận này: ?\n\n[Duy Nhất - chỉ 1 mỗi tướng]",
+        "description": "Cho 1 Giáp, 1 Kháng Phép và 5 Máu khi nhận sát thương, cộng dồn tối đa 35 lần.\n\nKhi đạt cộng dồn tối đa, cho 1 vàng và tiếp tục cho thêm 1 vàng sau mỗi 11 giây.\n\nVàng đã tạo ra trong trận này: ?\n\n[Duy Nhất - chỉ 1 mỗi tướng]",
         "damage_modifier": [
           {
             "image": "Health.png",
@@ -10751,7 +10752,7 @@
           },
           {
             "image": "Health.png",
-            "damage": "+200"
+            "damage": "+300"
           }
         ],
         "average_position": "3.95",
@@ -10796,7 +10797,7 @@
         "damage_modifier": [
           {
             "image": "Health.png",
-            "damage": "+200"
+            "damage": "+300"
           },
           {
             "image": "MR.png",
@@ -11151,11 +11152,11 @@
         "damage_modifier": [
           {
             "image": "AD.png",
-            "damage": "+25%"
+            "damage": "+20%"
           },
           {
             "image": "AP.png",
-            "damage": "+25"
+            "damage": "+20"
           },
           {
             "image": "AS.png",
@@ -11588,11 +11589,11 @@
         "damage_modifier": [
           {
             "image": "Armor.png",
-            "damage": "+50"
+            "damage": "+60"
           },
           {
             "image": "MR.png",
-            "damage": "+50"
+            "damage": "+60"
           }
         ],
         "average_position": "3.87",
@@ -12328,7 +12329,7 @@
         "damage_modifier": [
           {
             "image": "Armor.png",
-            "damage": "+25"
+            "damage": "+30"
           },
           {
             "image": "Health.png",
@@ -12336,7 +12337,7 @@
           },
           {
             "image": "MR.png",
-            "damage": "+25"
+            "damage": "+30"
           }
         ],
         "average_position": "4.38",
@@ -12512,7 +12513,7 @@
         "damage_modifier": [
           {
             "image": "AP.png",
-            "damage": "+20"
+            "damage": "+18"
           },
           {
             "image": "AS.png",
@@ -12756,7 +12757,7 @@
         "id": "warmog's_armor",
         "name": "Giáp Máu Warmog",
         "image": "tft_item_warmogsarmor.tft_set13.png",
-        "description": "Nhận 15% Máu tối đa.",
+        "description": "Nhận 18% Máu tối đa.",
         "damage_modifier": [
           {
             "image": "Health.png",
@@ -20393,14 +20394,14 @@
       "description_detail": [
         [
           "2",
-          "20%",
+          "22%",
           "AD.png",
           "",
           "100 sát thương cộng thêm"
         ],
         [
           "4",
-          "35%",
+          "40%",
           "AD.png",
           "",
           "200 sát thương cộng thêm"
@@ -25640,9 +25641,9 @@
         "0"
       ],
       [
-        "19%",
+        "16%",
         "30%",
-        "40%",
+        "43%",
         "10%",
         "1%"
       ],

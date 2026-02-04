@@ -107,7 +107,7 @@
             "damage_modifier": [
                 {
                     "image": "AP.png",
-                    "damage": "+40"
+                    "damage": "+35"
                 },
                 {
                     "image": "AS.png",
@@ -254,7 +254,7 @@
             "id": "radiant_warmog's_armor",
             "name": "レディアント ワーモグ アーマー",
             "image": "tft5_item_warmogsarmorradiant.tft_set13.png",
-            "description": "最大体力が33%増加する。",
+            "description": "最大体力が36%増加する。",
             "damage_modifier": [
                 {
                     "image": "Health.png",
@@ -736,7 +736,7 @@
             "id": "radiant_gargoyle_stoneplate",
             "name": "レディアント ガーゴイル ストーンプレート",
             "image": "tft5_item_gargoylestoneplateradiant.tft_set13.png",
-            "description": "装備者を攻撃対象としている敵1体につき、25の物理防御と25の魔法防御を獲得する。",
+            "description": "装備者を攻撃対象としている敵1体につき、60の物理防御と60の魔法防御を獲得する。",
             "damage_modifier": [
                 {
                     "image": "Armor.png",
@@ -2203,7 +2203,7 @@
             "id": "mogul's_mail",
             "name": "モーグル メイル",
             "image": "tft7_item_shimmerscalemogulsmail.tft_set13.png",
-            "description": "ダメージを受けた際、物理防御が1、魔法防御が1、体力が5増加する。この効果は35回までスタックする。\n\n最大スタックになると、 1ゴールドを獲得し、その後も12秒ごとに 1ゴールドを獲得する。\n\nこの試合で生成されたゴールド: ?\n\n[重複不可 - チャンピオン1体に1つのみ]",
+            "description": "ダメージを受けた際、物理防御が1、魔法防御が1、体力が5増加する。この効果は35回までスタックする。\n\n最大スタックになると、 1ゴールドを獲得し、その後も11秒ごとに 1ゴールドを獲得する。\n\nこの試合で生成されたゴールド: ?\n\n[重複不可 - チャンピオン1体に1つのみ]",
             "damage_modifier": [
                 {
                     "image": "Health.png",
@@ -2256,7 +2256,7 @@
                 },
                 {
                     "image": "Health.png",
-                    "damage": "+200"
+                    "damage": "+300"
                 }
             ],
             "average_position": "3.95",
@@ -2301,7 +2301,7 @@
             "damage_modifier": [
                 {
                     "image": "Health.png",
-                    "damage": "+200"
+                    "damage": "+300"
                 },
                 {
                     "image": "MR.png",
@@ -2656,11 +2656,11 @@
             "damage_modifier": [
                 {
                     "image": "AD.png",
-                    "damage": "+25%"
+                    "damage": "+20%"
                 },
                 {
                     "image": "AP.png",
-                    "damage": "+25"
+                    "damage": "+20"
                 },
                 {
                     "image": "AS.png",
@@ -3093,11 +3093,11 @@
             "damage_modifier": [
                 {
                     "image": "Armor.png",
-                    "damage": "+50"
+                    "damage": "+60"
                 },
                 {
                     "image": "MR.png",
-                    "damage": "+50"
+                    "damage": "+60"
                 }
             ],
             "average_position": "3.87",
@@ -3833,7 +3833,7 @@
             "damage_modifier": [
                 {
                     "image": "Armor.png",
-                    "damage": "+25"
+                    "damage": "+30"
                 },
                 {
                     "image": "Health.png",
@@ -3841,7 +3841,7 @@
                 },
                 {
                     "image": "MR.png",
-                    "damage": "+25"
+                    "damage": "+30"
                 }
             ],
             "average_position": "4.38",
@@ -4017,7 +4017,7 @@
             "damage_modifier": [
                 {
                     "image": "AP.png",
-                    "damage": "+20"
+                    "damage": "+18"
                 },
                 {
                     "image": "AS.png",
@@ -4261,7 +4261,7 @@
             "id": "warmog's_armor",
             "name": "ワーモグ アーマー",
             "image": "tft_item_warmogsarmor.tft_set13.png",
-            "description": "最大体力が15%増加する。",
+            "description": "最大体力が18%増加する。",
             "damage_modifier": [
                 {
                     "image": "Health.png",
