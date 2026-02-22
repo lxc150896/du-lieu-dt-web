@@ -26346,7 +26346,13 @@
     ]
   },
   "champions_by_gold": [
-    [],
+    [
+      {
+        "id": "viego",
+        "name": "Viego",
+        "img_url": "tft16_viego.tft_set16.png"
+      }
+    ],
     [
       {
         "id": "aphelios",
@@ -26354,9 +26360,19 @@
         "img_url": "tft16_aphelios.tft_set16.png"
       },
       {
+        "id": "ashe",
+        "name": "Ashe",
+        "img_url": "tft16_ashe.tft_set16.png"
+      },
+      {
         "id": "bard",
         "name": "Bard",
         "img_url": "tft16_bard.tft_set16.png"
+      },
+      {
+        "id": "ekko",
+        "name": "Ekko",
+        "img_url": "tft16_ekko.tft_set16.png"
       },
       {
         "id": "neeko",
@@ -26367,6 +26383,21 @@
         "id": "sion",
         "name": "Sion",
         "img_url": "tft16_sion.tft_set16.png"
+      },
+      {
+        "id": "tryndamere",
+        "name": "Tryndamere",
+        "img_url": "tft16_tryndamere.tft_set16.png"
+      },
+      {
+        "id": "twisted_fate",
+        "name": "Twisted Fate",
+        "img_url": "tft16_twistedfate.tft_set16.png"
+      },
+      {
+        "id": "yasuo",
+        "name": "Yasuo",
+        "img_url": "tft16_yasuo.tft_set16.png"
       }
     ],
     [
@@ -26374,6 +26405,16 @@
         "id": "dr._mundo",
         "name": "Dr. Mundo",
         "img_url": "tft16_drmundo.tft_set16.png"
+      },
+      {
+        "id": "draven",
+        "name": "Draven",
+        "img_url": "tft16_draven.tft_set16.png"
+      },
+      {
+        "id": "gangplank",
+        "name": "Gangplank",
+        "img_url": "tft16_gangplank.tft_set16.png"
       },
       {
         "id": "jinx",
@@ -26386,6 +26427,26 @@
         "img_url": "tft16_kennen.tft_set16.png"
       },
       {
+        "id": "leblanc",
+        "name": "LeBlanc",
+        "img_url": "tft16_leblanc.tft_set16.png"
+      },
+      {
+        "id": "leona",
+        "name": "Leona",
+        "img_url": "tft16_leona.tft_set16.png"
+      },
+      {
+        "id": "loris",
+        "name": "Loris",
+        "img_url": "tft16_loris.tft_set16.png"
+      },
+      {
+        "id": "malzahar",
+        "name": "Malzahar",
+        "img_url": "tft16_malzahar.tft_set16.png"
+      },
+      {
         "id": "milio",
         "name": "Milio",
         "img_url": "tft16_milio.tft_set16.png"
@@ -26394,9 +26455,29 @@
         "id": "nautilus",
         "name": "Nautilus",
         "img_url": "tft16_nautilus.tft_set16.png"
+      },
+      {
+        "id": "sejuani",
+        "name": "Sejuani",
+        "img_url": "tft16_sejuani.tft_set16.png"
+      },
+      {
+        "id": "vayne",
+        "name": "Vayne",
+        "img_url": "tft16_vayne.tft_set16.png"
+      },
+      {
+        "id": "zoe",
+        "name": "Zoe",
+        "img_url": "tft16_zoe.tft_set16.png"
       }
     ],
     [
+      {
+        "id": "ambessa",
+        "name": "Ambessa",
+        "img_url": "tft16_ambessa.tft_set16.png"
+      },
       {
         "id": "bel'veth",
         "name": "Bel'Veth",
@@ -26448,6 +26529,16 @@
         "img_url": "tft16_missfortune.tft_set16.png"
       },
       {
+        "id": "nasus",
+        "name": "Nasus",
+        "img_url": "tft16_nasus.tft_set16.png"
+      },
+      {
+        "id": "nidalee",
+        "name": "Nidalee",
+        "img_url": "tft16_nidalee.tft_set16.png"
+      },
+      {
         "id": "rift_herald",
         "name": "Rift Herald",
         "img_url": "tft16_riftherald_splash_tile_0.tft_set16.png"
@@ -26488,6 +26579,11 @@
         "img_url": "tft16_wukong.tft_set16.png"
       },
       {
+        "id": "yone",
+        "name": "Yone",
+        "img_url": "tft16_yone.tft_set16.png"
+      },
+      {
         "id": "yunara",
         "name": "Yunara",
         "img_url": "tft16_yunara.tft_set16.png"
@@ -26495,9 +26591,29 @@
     ],
     [
       {
+        "id": "annie",
+        "name": "Annie",
+        "img_url": "tft16_annie.tft_set16.png"
+      },
+      {
+        "id": "azir",
+        "name": "Azir",
+        "img_url": "tft16_azir.tft_set16.png"
+      },
+      {
         "id": "kindred",
         "name": "Kindred",
         "img_url": "tft16_kindred.tft_set16.png"
+      },
+      {
+        "id": "lucian_&_senna",
+        "name": "Lucian & Senna",
+        "img_url": "tft16_lucian.tft_set16.png"
+      },
+      {
+        "id": "mel",
+        "name": "Mel",
+        "img_url": "tft16_mel.tft_set16.png"
       },
       {
         "id": "sett",
@@ -26535,7 +26651,6 @@
         "img_url": "tft16_zilean.tft_set16.png"
       }
     ],
-    [],
     [
       {
         "id": "aurelion_sol",
@@ -26553,9 +26668,21 @@
         "img_url": "tft16_ryze.tft_set16.png"
       },
       {
+        "id": "sylas",
+        "name": "Sylas",
+        "img_url": "tft16_sylas.tft_set16.png"
+      },
+      {
         "id": "zaahen",
         "name": "Zaahen",
         "img_url": "tft16_zaahen.tft_set16.png"
+      }
+    ],
+    [
+      {
+        "id": "tibbers",
+        "name": "Tibbers",
+        "img_url": "tft16_annietibbers.tft_set16.png"
       }
     ]
   ]
