@@ -1,4 +1,5 @@
 [
+    [],
     [
         {
             "id": "aphelios",
@@ -28,6 +29,16 @@
             "img_url": "tft16_ahri.tft_set16.png"
         },
         {
+            "id": "darius",
+            "name": "Darius",
+            "img_url": "tft16_darius.tft_set16.png"
+        },
+        {
+            "id": "draven",
+            "name": "Draven",
+            "img_url": "tft16_draven.tft_set16.png"
+        },
+        {
             "id": "jinx",
             "name": "Jinx",
             "img_url": "tft16_jinx.tft_set16.png"
@@ -36,6 +47,11 @@
             "id": "kennen",
             "name": "Kennen",
             "img_url": "tft16_kennen.tft_set16.png"
+        },
+        {
+            "id": "leblanc",
+            "name": "LeBlanc",
+            "img_url": "tft16_leblanc.tft_set16.png"
         },
         {
             "id": "leona",
@@ -53,17 +69,22 @@
             "img_url": "tft16_nautilus.tft_set16.png"
         },
         {
+            "id": "sejuani",
+            "name": "Sejuani",
+            "img_url": "tft16_sejuani.tft_set16.png"
+        },
+        {
+            "id": "vayne",
+            "name": "Vayne",
+            "img_url": "tft16_vayne.tft_set16.png"
+        },
+        {
             "id": "zoe",
             "name": "Zoe",
             "img_url": "tft16_zoe.tft_set16.png"
         }
     ],
     [
-        {
-            "id": "ambessa",
-            "name": "Ambessa",
-            "img_url": "tft16_ambessa.tft_set16.png"
-        },
         {
             "id": "bel'veth",
             "name": "Bel'Veth",
@@ -75,14 +96,9 @@
             "img_url": "tft16_braum.tft_set16.png"
         },
         {
-            "id": "diana",
-            "name": "Diana",
-            "img_url": "tft16_diana.tft_set16.png"
-        },
-        {
-            "id": "fizz",
-            "name": "Fizz",
-            "img_url": "tft16_fizz.tft_set16.png"
+            "id": "garen",
+            "name": "Garen",
+            "img_url": "tft16_garen.tft_set16.png"
         },
         {
             "id": "kai'sa",
@@ -110,9 +126,9 @@
             "img_url": "tft16_riftherald_splash_tile_0.tft_set16.png"
         },
         {
-            "id": "singed",
-            "name": "Singed",
-            "img_url": "tft16_singed.tft_set16.png"
+            "id": "seraphine",
+            "name": "Seraphine",
+            "img_url": "tft16_seraphine.tft_set16.png"
         },
         {
             "id": "skarner",
@@ -120,19 +136,9 @@
             "img_url": "tft16_skarner.tft_set16.png"
         },
         {
-            "id": "swain",
-            "name": "Swain",
-            "img_url": "tft16_swain.tft_set16.png"
-        },
-        {
             "id": "taric",
             "name": "Taric",
             "img_url": "tft16_taric.tft_set16.png"
-        },
-        {
-            "id": "veigar",
-            "name": "Veigar",
-            "img_url": "tft16_veigar.tft_set16.png"
         },
         {
             "id": "warwick",
@@ -157,11 +163,6 @@
     ],
     [
         {
-            "id": "annie",
-            "name": "Annie",
-            "img_url": "tft16_annie.tft_set16.png"
-        },
-        {
             "id": "kindred",
             "name": "Kindred",
             "img_url": "tft16_kindred.tft_set16.png"
@@ -182,11 +183,6 @@
             "img_url": "tft16_sett.tft_set16.png"
         },
         {
-            "id": "t-hex",
-            "name": "T-Hex",
-            "img_url": "tft16_thex.tft_set16.png"
-        },
-        {
             "id": "tahm_kench",
             "name": "Tahm Kench",
             "img_url": "tft16_tahmkench.tft_set16.png"
@@ -200,19 +196,10 @@
             "id": "volibear",
             "name": "Volibear",
             "img_url": "tft16_volibear.tft_set16.png"
-        },
-        {
-            "id": "ziggs",
-            "name": "Ziggs",
-            "img_url": "tft16_ziggs.tft_set16.png"
         }
     ],
+    [],
     [
-        {
-            "id": "aurelion_sol",
-            "name": "Aurelion Sol",
-            "img_url": "tft16_aurelionsol.tft_set16.png"
-        },
         {
             "id": "baron_nashor",
             "name": "Baron Nashor",
@@ -227,13 +214,6 @@
             "id": "sylas",
             "name": "Sylas",
             "img_url": "tft16_sylas.tft_set16.png"
-        }
-    ],
-    [
-        {
-            "id": "tibbers",
-            "name": "Tibbers",
-            "img_url": "tft16_annietibbers.tft_set16.png"
         }
     ]
 ]
