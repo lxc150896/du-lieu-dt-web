@@ -12,10 +12,10 @@
         "Normal",
         "Popular"
       ],
-      "average_position": "3.05",
-      "top_1_rate": "20.78",
-      "top_4_rate": "78.57",
-      "pick_rate": "1.94",
+      "average_position": "3.01",
+      "top_1_rate": "22.68",
+      "top_4_rate": "79.49",
+      "pick_rate": "1.89",
       "synergys": [
         {
           "trait_name": "Targon",
@@ -456,19 +456,19 @@
       ],
       "ti_le_thang_for_levels": [
         {
-          "ti_le_thang": "42.60%"
+          "ti_le_thang": "43.11%"
         },
         {
           "ti_le_thang": "52.23%"
         },
         {
-          "ti_le_thang": "51.75%"
+          "ti_le_thang": "51.85%"
         },
         {
-          "ti_le_thang": "53.94%"
+          "ti_le_thang": "54.01%"
         },
         {
-          "ti_le_thang": "47.96%"
+          "ti_le_thang": "48.10%"
         },
         {
           "ti_le_thang": "52.00%"
@@ -563,10 +563,10 @@
         "Hard",
         "Popular"
       ],
-      "average_position": "3.14",
-      "top_1_rate": "21.12",
-      "top_4_rate": "77.69",
-      "pick_rate": "1.58",
+      "average_position": "3.21",
+      "top_1_rate": "19.95",
+      "top_4_rate": "76.87",
+      "pick_rate": "1.64",
       "synergys": [
         {
           "trait_name": "Bù Nhìn",
@@ -709,12 +709,16 @@
           "champ_main_geleral_level": null,
           "items": [
             {
-              "item_img": "TFT_Item_Redemption.png",
-              "item_name": "Giáp Tâm Linh"
+              "item_img": "TFT_Item_BrambleVest.png",
+              "item_name": "Áo Choàng Gai"
             },
             {
-              "item_img": "TFT_Item_WarmogsArmor.png",
-              "item_name": "Giáp Máu Warmog"
+              "item_img": "TFT_Item_NightHarvester.png",
+              "item_name": "Trái Tim Kiên Định"
+            },
+            {
+              "item_img": "TFT_Item_Redemption.png",
+              "item_name": "Giáp Tâm Linh"
             }
           ],
           "khoa_tuong": false
@@ -780,15 +784,21 @@
           "img_name_build_do_thanh_phan_two": "TFT_Item_TearOfTheGoddess.png"
         },
         {
+          "name_build_do": "Áo Choàng Gai",
+          "img_name_build_do": "TFT_Item_BrambleVest.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_ChainVest.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_ChainVest.png"
+        },
+        {
+          "name_build_do": "Trái Tim Kiên Định",
+          "img_name_build_do": "TFT_Item_NightHarvester.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_ChainVest.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_SparringGloves.png"
+        },
+        {
           "name_build_do": "Giáp Tâm Linh",
           "img_name_build_do": "TFT_Item_Redemption.png",
           "img_name_build_do_thanh_phan_one": "TFT_Item_TearOfTheGoddess.png",
-          "img_name_build_do_thanh_phan_two": "TFT_Item_GiantsBelt.png"
-        },
-        {
-          "name_build_do": "Giáp Máu Warmog",
-          "img_name_build_do": "TFT_Item_WarmogsArmor.png",
-          "img_name_build_do_thanh_phan_one": "TFT_Item_GiantsBelt.png",
           "img_name_build_do_thanh_phan_two": "TFT_Item_GiantsBelt.png"
         },
         {
@@ -1012,22 +1022,22 @@
       ],
       "ti_le_thang_for_levels": [
         {
-          "ti_le_thang": "59.05%"
+          "ti_le_thang": "58.99%"
         },
         {
-          "ti_le_thang": "50.13%"
+          "ti_le_thang": "50.09%"
         },
         {
-          "ti_le_thang": "48.73%"
+          "ti_le_thang": "48.84%"
         },
         {
-          "ti_le_thang": "33.14%"
+          "ti_le_thang": "33.01%"
         },
         {
-          "ti_le_thang": "49.68%"
+          "ti_le_thang": "49.70%"
         },
         {
-          "ti_le_thang": "48.56%"
+          "ti_le_thang": "48.60%"
         }
       ],
       "tuong_chu_lucs": [
@@ -1109,6 +1119,1170 @@
     },
     {
       "stt": 3,
+      "id": "hu_khong_kai'sa",
+      "copy_hex": "0235535435335236601b01637336a000TFTSet16",
+      "tier_img": "icon-tier-S.png",
+      "comp_name": "Hư Không Kai'Sa",
+      "comp_price": "96",
+      "tags": [
+        "Lv 10",
+        "Hard",
+        "Popular"
+      ],
+      "average_position": "2.66",
+      "top_1_rate": "27.01",
+      "top_4_rate": "89.78",
+      "pick_rate": "0.51",
+      "synergys": [
+        {
+          "trait_name": "Tai Ương",
+          "trait_id": "tai_uong",
+          "trait_img": "Trait_Icon_16_Riftscourge.png",
+          "trait_count": "1"
+        },
+        {
+          "trait_name": "Cộng Sinh",
+          "trait_id": "cong_sinh",
+          "trait_img": "Trait_Icon_16_Assimilator.TFT_Set16.png",
+          "trait_count": "1"
+        },
+        {
+          "trait_name": "Hư Không",
+          "trait_id": "hu_khong",
+          "trait_img": "Trait_Icon_16_Void.TFT_Set16.png",
+          "trait_count": "8"
+        },
+        {
+          "trait_name": "Viễn Kích",
+          "trait_id": "vien_kich",
+          "trait_img": "Trait_Icon_16_Longshot.TFT_Set16.png",
+          "trait_count": "2"
+        },
+        {
+          "trait_name": "Đấu Sĩ",
+          "trait_id": "dau_si",
+          "trait_img": "Trait_Icon_16_Bruiser.TFT_Set16.png",
+          "trait_count": "2"
+        }
+      ],
+      "champs": [
+        {
+          "champions_id": "kog'maw",
+          "champions_name": "Kog'Maw",
+          "champ_img": "tft16_kogmaw.tft_set16.png",
+          "star": 0,
+          "champ_main_geleral_level": null,
+          "items": [],
+          "khoa_tuong": false
+        },
+        {
+          "champions_id": "cho'gath",
+          "champions_name": "Cho'Gath",
+          "champ_img": "tft16_chogath.tft_set16.png",
+          "star": 0,
+          "champ_main_geleral_level": null,
+          "items": [],
+          "khoa_tuong": false
+        },
+        {
+          "champions_id": "rek'sai",
+          "champions_name": "Rek'Sai",
+          "champ_img": "tft16_reksai.tft_set16.png",
+          "star": 0,
+          "champ_main_geleral_level": null,
+          "items": [],
+          "khoa_tuong": false
+        },
+        {
+          "champions_id": "malzahar",
+          "champions_name": "Malzahar",
+          "champ_img": "tft16_malzahar.tft_set16.png",
+          "star": 0,
+          "champ_main_geleral_level": null,
+          "items": [],
+          "khoa_tuong": false
+        },
+        {
+          "champions_id": "bel'veth",
+          "champions_name": "Bel'Veth",
+          "champ_img": "tft16_belveth.tft_set16.png",
+          "star": 0,
+          "champ_main_geleral_level": null,
+          "items": [],
+          "khoa_tuong": false
+        },
+        {
+          "champions_id": "kai'sa",
+          "champions_name": "Kai'Sa",
+          "champ_img": "tft16_kaisa.tft_set16.png",
+          "star": 0,
+          "champ_main_geleral_level": "1st",
+          "items": [
+            {
+              "item_img": "TFT_Item_GuinsoosRageblade.png",
+              "item_name": "Cuồng Đao Guinsoo"
+            },
+            {
+              "item_img": "TFT_Item_HextechGunblade.png",
+              "item_name": "Kiếm Súng Hextech"
+            },
+            {
+              "item_img": "TFT_Item_JeweledGauntlet.png",
+              "item_name": "Găng Bảo Thạch"
+            }
+          ],
+          "khoa_tuong": true
+        },
+        {
+          "champions_id": "su_gia_khe_nut",
+          "champions_name": "Sứ Giả Khe Nứt",
+          "champ_img": "tft16_riftherald_splash_tile_0.tft_set16.png",
+          "star": 0,
+          "champ_main_geleral_level": "3rd",
+          "items": [
+            {
+              "item_img": "TFT_Item_RedBuff.png",
+              "item_name": "Áo Choàng Lửa"
+            },
+            {
+              "item_img": "TFT_Item_Redemption.png",
+              "item_name": "Giáp Tâm Linh"
+            },
+            {
+              "item_img": "TFT_Item_WarmogsArmor.png",
+              "item_name": "Giáp Máu Warmog"
+            }
+          ],
+          "khoa_tuong": true
+        },
+        {
+          "champions_id": "volibear",
+          "champions_name": "Volibear",
+          "champ_img": "tft16_volibear.tft_set16.png",
+          "star": 0,
+          "champ_main_geleral_level": null,
+          "items": [
+            {
+              "item_img": "TFT_Item_Bloodthirster.png",
+              "item_name": "Huyết Kiếm"
+            },
+            {
+              "item_img": "TFT_Item_GuardianAngel.png",
+              "item_name": "Áo Choàng Bóng Tối"
+            }
+          ],
+          "khoa_tuong": true
+        },
+        {
+          "champions_id": "baron_nashor",
+          "champions_name": "Baron Nashor",
+          "champ_img": "tft16_baronnashor.tft_set16.png",
+          "star": 0,
+          "champ_main_geleral_level": "2nd",
+          "items": [
+            {
+              "item_img": "TFT_Item_Bloodthirster.png",
+              "item_name": "Huyết Kiếm"
+            },
+            {
+              "item_img": "TFT_Item_InfinityEdge.png",
+              "item_name": "Vô Cực Kiếm"
+            },
+            {
+              "item_img": "TFT_Item_SteraksGage.png",
+              "item_name": "Móng Vuốt Sterak"
+            }
+          ],
+          "khoa_tuong": true
+        }
+      ],
+      "items": [
+        {
+          "name_build_do": "Cuồng Đao Guinsoo",
+          "img_name_build_do": "TFT_Item_GuinsoosRageblade.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_RecurveBow.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_NeedlesslyLargeRod.png"
+        },
+        {
+          "name_build_do": "Kiếm Súng Hextech",
+          "img_name_build_do": "TFT_Item_HextechGunblade.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_BFSword.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_NeedlesslyLargeRod.png"
+        },
+        {
+          "name_build_do": "Găng Bảo Thạch",
+          "img_name_build_do": "TFT_Item_JeweledGauntlet.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_NeedlesslyLargeRod.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_SparringGloves.png"
+        },
+        {
+          "name_build_do": "Áo Choàng Lửa",
+          "img_name_build_do": "TFT_Item_RedBuff.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_ChainVest.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_GiantsBelt.png"
+        },
+        {
+          "name_build_do": "Giáp Tâm Linh",
+          "img_name_build_do": "TFT_Item_Redemption.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_TearOfTheGoddess.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_GiantsBelt.png"
+        },
+        {
+          "name_build_do": "Giáp Máu Warmog",
+          "img_name_build_do": "TFT_Item_WarmogsArmor.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_GiantsBelt.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_GiantsBelt.png"
+        },
+        {
+          "name_build_do": "Huyết Kiếm",
+          "img_name_build_do": "TFT_Item_Bloodthirster.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_BFSword.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_NegatronCloak.png"
+        },
+        {
+          "name_build_do": "Áo Choàng Bóng Tối",
+          "img_name_build_do": "TFT_Item_GuardianAngel.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_BFSword.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_ChainVest.png"
+        },
+        {
+          "name_build_do": "Huyết Kiếm",
+          "img_name_build_do": "TFT_Item_Bloodthirster.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_BFSword.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_NegatronCloak.png"
+        },
+        {
+          "name_build_do": "Vô Cực Kiếm",
+          "img_name_build_do": "TFT_Item_InfinityEdge.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_BFSword.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_SparringGloves.png"
+        },
+        {
+          "name_build_do": "Móng Vuốt Sterak",
+          "img_name_build_do": "TFT_Item_SteraksGage.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_BFSword.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_GiantsBelt.png"
+        }
+      ],
+      "img_url_huong_dan_dau_game": "huong_dan_dau_game_vi_2.png",
+      "img_url_huong_dan_giua_game": "huong_dan_giua_game_vi_2.png",
+      "img_url_huong_dan_cuoi_game": "huong_dan_cuoi_game_vi_2.png",
+      "img_huong_dan_tuong_tung_level": [
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_kogmaw.tft_set16.png",
+          "img_name": "Kog'Maw",
+          "champ_id": "kog'maw"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_chogath.tft_set16.png",
+          "img_name": "Cho'Gath",
+          "champ_id": "cho'gath"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_reksai.tft_set16.png",
+          "img_name": "Rek'Sai",
+          "champ_id": "rek'sai"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_malzahar.tft_set16.png",
+          "img_name": "Malzahar",
+          "champ_id": "malzahar"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_briar.tft_set16.png",
+          "img_name": "Briar",
+          "champ_id": "briar"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_kogmaw.tft_set16.png",
+          "img_name": "Kog'Maw",
+          "champ_id": "kog'maw"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_chogath.tft_set16.png",
+          "img_name": "Cho'Gath",
+          "champ_id": "cho'gath"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_reksai.tft_set16.png",
+          "img_name": "Rek'Sai",
+          "champ_id": "rek'sai"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_malzahar.tft_set16.png",
+          "img_name": "Malzahar",
+          "champ_id": "malzahar"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_briar.tft_set16.png",
+          "img_name": "Briar",
+          "champ_id": "briar"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_kogmaw.tft_set16.png",
+          "img_name": "Kog'Maw",
+          "champ_id": "kog'maw"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_chogath.tft_set16.png",
+          "img_name": "Cho'Gath",
+          "champ_id": "cho'gath"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_reksai.tft_set16.png",
+          "img_name": "Rek'Sai",
+          "champ_id": "rek'sai"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_malzahar.tft_set16.png",
+          "img_name": "Malzahar",
+          "champ_id": "malzahar"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_belveth.tft_set16.png",
+          "img_name": "Bel'Veth",
+          "champ_id": "bel'veth"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_kogmaw.tft_set16.png",
+          "img_name": "Kog'Maw",
+          "champ_id": "kog'maw"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_chogath.tft_set16.png",
+          "img_name": "Cho'Gath",
+          "champ_id": "cho'gath"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_reksai.tft_set16.png",
+          "img_name": "Rek'Sai",
+          "champ_id": "rek'sai"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_malzahar.tft_set16.png",
+          "img_name": "Malzahar",
+          "champ_id": "malzahar"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_belveth.tft_set16.png",
+          "img_name": "Bel'Veth",
+          "champ_id": "bel'veth"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_kaisa.tft_set16.png",
+          "img_name": "Kai'Sa",
+          "champ_id": "kai'sa"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_riftherald_splash_tile_0.tft_set16.png",
+          "img_name": "Sứ Giả Khe Nứt",
+          "champ_id": "su_gia_khe_nut"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_kogmaw.tft_set16.png",
+          "img_name": "Kog'Maw",
+          "champ_id": "kog'maw"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_chogath.tft_set16.png",
+          "img_name": "Cho'Gath",
+          "champ_id": "cho'gath"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_reksai.tft_set16.png",
+          "img_name": "Rek'Sai",
+          "champ_id": "rek'sai"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_belveth.tft_set16.png",
+          "img_name": "Bel'Veth",
+          "champ_id": "bel'veth"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_kaisa.tft_set16.png",
+          "img_name": "Kai'Sa",
+          "champ_id": "kai'sa"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_riftherald_splash_tile_0.tft_set16.png",
+          "img_name": "Sứ Giả Khe Nứt",
+          "champ_id": "su_gia_khe_nut"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_swain.tft_set16.png",
+          "img_name": "Swain",
+          "champ_id": "swain"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_wukong.tft_set16.png",
+          "img_name": "Ngộ Không",
+          "champ_id": "ngo_khong"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_kogmaw.tft_set16.png",
+          "img_name": "Kog'Maw",
+          "champ_id": "kog'maw"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_chogath.tft_set16.png",
+          "img_name": "Cho'Gath",
+          "champ_id": "cho'gath"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_reksai.tft_set16.png",
+          "img_name": "Rek'Sai",
+          "champ_id": "rek'sai"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_malzahar.tft_set16.png",
+          "img_name": "Malzahar",
+          "champ_id": "malzahar"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_belveth.tft_set16.png",
+          "img_name": "Bel'Veth",
+          "champ_id": "bel'veth"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_kaisa.tft_set16.png",
+          "img_name": "Kai'Sa",
+          "champ_id": "kai'sa"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_riftherald_splash_tile_0.tft_set16.png",
+          "img_name": "Sứ Giả Khe Nứt",
+          "champ_id": "su_gia_khe_nut"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_swain.tft_set16.png",
+          "img_name": "Swain",
+          "champ_id": "swain"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_wukong.tft_set16.png",
+          "img_name": "Ngộ Không",
+          "champ_id": "ngo_khong"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_kogmaw.tft_set16.png",
+          "img_name": "Kog'Maw",
+          "champ_id": "kog'maw"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_chogath.tft_set16.png",
+          "img_name": "Cho'Gath",
+          "champ_id": "cho'gath"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_reksai.tft_set16.png",
+          "img_name": "Rek'Sai",
+          "champ_id": "rek'sai"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_malzahar.tft_set16.png",
+          "img_name": "Malzahar",
+          "champ_id": "malzahar"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_belveth.tft_set16.png",
+          "img_name": "Bel'Veth",
+          "champ_id": "bel'veth"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_kaisa.tft_set16.png",
+          "img_name": "Kai'Sa",
+          "champ_id": "kai'sa"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_riftherald_splash_tile_0.tft_set16.png",
+          "img_name": "Sứ Giả Khe Nứt",
+          "champ_id": "su_gia_khe_nut"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_volibear.tft_set16.png",
+          "img_name": "Volibear",
+          "champ_id": "volibear"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_baronnashor.tft_set16.png",
+          "img_name": "Baron Nashor",
+          "champ_id": "baron_nashor"
+        }
+      ],
+      "ti_le_thang_for_levels": [
+        {
+          "ti_le_thang": "43.29%"
+        },
+        {
+          "ti_le_thang": "47.71%"
+        },
+        {
+          "ti_le_thang": "43.23%"
+        },
+        {
+          "ti_le_thang": "31.19%"
+        },
+        {
+          "ti_le_thang": "52.15%"
+        },
+        {
+          "ti_le_thang": "37.59%"
+        },
+        {
+          "ti_le_thang": "61.74%"
+        }
+      ],
+      "tuong_chu_lucs": [
+        {
+          "champions_id": "kai'sa",
+          "items_do_tuong_chu_luc": [
+            {
+              "name_do_tuong_chu_luc": "Cuồng Đao Guinsoo",
+              "img_url_do_tuong_chu_luc": "TFT_Item_GuinsoosRageblade.png",
+              "so_tran_do_tuong_chu_luc": "",
+              "id": "cuong_dao_guinsoo"
+            },
+            {
+              "name_do_tuong_chu_luc": "Kiếm Súng Hextech",
+              "img_url_do_tuong_chu_luc": "TFT_Item_HextechGunblade.png",
+              "so_tran_do_tuong_chu_luc": "",
+              "id": "kiem_sung_hextech"
+            },
+            {
+              "name_do_tuong_chu_luc": "Găng Bảo Thạch",
+              "img_url_do_tuong_chu_luc": "TFT_Item_JeweledGauntlet.png",
+              "so_tran_do_tuong_chu_luc": "",
+              "id": "gang_bao_thach"
+            }
+          ]
+        },
+        {
+          "champions_id": "su_gia_khe_nut",
+          "items_do_tuong_chu_luc": [
+            {
+              "name_do_tuong_chu_luc": "Áo Choàng Lửa",
+              "img_url_do_tuong_chu_luc": "TFT_Item_RedBuff.png",
+              "so_tran_do_tuong_chu_luc": "",
+              "id": "ao_choang_lua"
+            },
+            {
+              "name_do_tuong_chu_luc": "Giáp Tâm Linh",
+              "img_url_do_tuong_chu_luc": "TFT_Item_Redemption.png",
+              "so_tran_do_tuong_chu_luc": "",
+              "id": "giap_tam_linh"
+            },
+            {
+              "name_do_tuong_chu_luc": "Giáp Máu Warmog",
+              "img_url_do_tuong_chu_luc": "TFT_Item_WarmogsArmor.png",
+              "so_tran_do_tuong_chu_luc": "",
+              "id": "giap_mau_warmog"
+            }
+          ]
+        },
+        {
+          "champions_id": "baron_nashor",
+          "items_do_tuong_chu_luc": [
+            {
+              "name_do_tuong_chu_luc": "Huyết Kiếm",
+              "img_url_do_tuong_chu_luc": "TFT_Item_Bloodthirster.png",
+              "so_tran_do_tuong_chu_luc": "",
+              "id": "huyet_kiem"
+            },
+            {
+              "name_do_tuong_chu_luc": "Vô Cực Kiếm",
+              "img_url_do_tuong_chu_luc": "TFT_Item_InfinityEdge.png",
+              "so_tran_do_tuong_chu_luc": "",
+              "id": "vo_cuc_kiem"
+            },
+            {
+              "name_do_tuong_chu_luc": "Móng Vuốt Sterak",
+              "img_url_do_tuong_chu_luc": "TFT_Item_SteraksGage.png",
+              "so_tran_do_tuong_chu_luc": "",
+              "id": "mong_vuot_sterak"
+            }
+          ]
+        }
+      ],
+      "tang_cuongs": [
+        [],
+        [],
+        []
+      ]
+    },
+    {
+      "stt": 4,
+      "id": "zaun_warwick",
+      "copy_hex": "0202f34836736d35035803435d371000TFTSet16",
+      "tier_img": "icon-tier-S.png",
+      "comp_name": "Zaun Warwick",
+      "comp_price": "114",
+      "tags": [
+        "Lv 8",
+        "Hard",
+        "Popular"
+      ],
+      "average_position": "2.97",
+      "top_1_rate": "21.43",
+      "top_4_rate": "79.87",
+      "pick_rate": "0.57",
+      "synergys": [
+        {
+          "trait_name": "Vĩnh Hằng",
+          "trait_id": "vinh_hang",
+          "trait_img": "Trait_Icon_5_Eternal.png",
+          "trait_count": "1"
+        },
+        {
+          "trait_name": "Linh Hồn",
+          "trait_id": "linh_hon",
+          "trait_img": "Trait_Icon_16_Soulbound.TFT_Set16.png",
+          "trait_count": "1"
+        },
+        {
+          "trait_name": "Long Nữ",
+          "trait_id": "long_nu",
+          "trait_img": "Trait_Icon_16_Dragonborn.TFT_Set16.png",
+          "trait_count": "1"
+        },
+        {
+          "trait_name": "Zaun",
+          "trait_id": "zaun",
+          "trait_img": "Trait_Icon_16_Zaun.TFT_Set16.png",
+          "trait_count": "5"
+        },
+        {
+          "trait_name": "Đấu Sĩ",
+          "trait_id": "dau_si",
+          "trait_img": "Trait_Icon_16_Bruiser.TFT_Set16.png",
+          "trait_count": "2"
+        },
+        {
+          "trait_name": "Xạ Thủ",
+          "trait_id": "xa_thu",
+          "trait_img": "Trait_Icon_16_Gunslinger.TFT_Set16.png",
+          "trait_count": "2"
+        },
+        {
+          "trait_name": "Cực Tốc",
+          "trait_id": "cuc_toc",
+          "trait_img": "Trait_Icon_16_Quickstriker.png",
+          "trait_count": "2"
+        },
+        {
+          "trait_name": "Dũng Sĩ",
+          "trait_id": "dung_si",
+          "trait_img": "Trait_Icon_16_Juggernaut.png",
+          "trait_count": "2"
+        }
+      ],
+      "champs": [
+        {
+          "champions_id": "dr._mundo",
+          "champions_name": "Dr. Mundo",
+          "champ_img": "tft16_drmundo.tft_set16.png",
+          "star": 0,
+          "champ_main_geleral_level": null,
+          "items": [],
+          "khoa_tuong": false
+        },
+        {
+          "champions_id": "jinx",
+          "champions_name": "Jinx",
+          "champ_img": "tft16_jinx.tft_set16.png",
+          "star": 3,
+          "champ_main_geleral_level": "2nd",
+          "items": [
+            {
+              "item_img": "TFT_Item_GuinsoosRageblade.png",
+              "item_name": "Cuồng Đao Guinsoo"
+            },
+            {
+              "item_img": "TFT_Item_LastWhisper.png",
+              "item_name": "Cung Xanh"
+            },
+            {
+              "item_img": "TFT_Item_RunaansHurricane.png",
+              "item_name": "Thịnh Nộ Thủy Quái"
+            }
+          ],
+          "khoa_tuong": false
+        },
+        {
+          "champions_id": "ngo_khong",
+          "champions_name": "Ngộ Không",
+          "champ_img": "tft16_wukong.tft_set16.png",
+          "star": 0,
+          "champ_main_geleral_level": "3rd",
+          "items": [
+            {
+              "item_img": "TFT_Item_RedBuff.png",
+              "item_name": "Áo Choàng Lửa"
+            },
+            {
+              "item_img": "TFT_Item_Redemption.png",
+              "item_name": "Giáp Tâm Linh"
+            },
+            {
+              "item_img": "TFT_Item_WarmogsArmor.png",
+              "item_name": "Giáp Máu Warmog"
+            }
+          ],
+          "khoa_tuong": false
+        },
+        {
+          "champions_id": "singed",
+          "champions_name": "Singed",
+          "champ_img": "tft16_singed.tft_set16.png",
+          "star": 0,
+          "champ_main_geleral_level": null,
+          "items": [],
+          "khoa_tuong": true
+        },
+        {
+          "champions_id": "warwick",
+          "champions_name": "Warwick",
+          "champ_img": "tft16_warwick.tft_set16.png",
+          "star": 0,
+          "champ_main_geleral_level": "1st",
+          "items": [
+            {
+              "item_img": "TFT_Item_Bloodthirster.png",
+              "item_name": "Huyết Kiếm"
+            },
+            {
+              "item_img": "TFT_Item_SteraksGage.png",
+              "item_name": "Móng Vuốt Sterak"
+            },
+            {
+              "item_img": "TFT_Item_TitansResolve.png",
+              "item_name": "Quyền Năng Khổng Lồ"
+            }
+          ],
+          "khoa_tuong": true
+        },
+        {
+          "champions_id": "kindred",
+          "champions_name": "Kindred",
+          "champ_img": "tft16_kindred.tft_set16.png",
+          "star": 0,
+          "champ_main_geleral_level": null,
+          "items": [],
+          "khoa_tuong": false
+        },
+        {
+          "champions_id": "lucian_&_senna",
+          "champions_name": "Lucian & Senna",
+          "champ_img": "tft16_lucian.tft_set16.png",
+          "star": 0,
+          "champ_main_geleral_level": null,
+          "items": [],
+          "khoa_tuong": false
+        },
+        {
+          "champions_id": "shyvana",
+          "champions_name": "Shyvana",
+          "champ_img": "tft16_shyvana.tft_set16.png",
+          "star": 0,
+          "champ_main_geleral_level": null,
+          "items": [],
+          "khoa_tuong": false
+        },
+        {
+          "champions_id": "ziggs",
+          "champions_name": "Ziggs",
+          "champ_img": "tft16_ziggs.tft_set16.png",
+          "star": 0,
+          "champ_main_geleral_level": null,
+          "items": [
+            {
+              "item_img": "TFT_Item_GuinsoosRageblade.png",
+              "item_name": "Cuồng Đao Guinsoo"
+            },
+            {
+              "item_img": "TFT_Item_JeweledGauntlet.png",
+              "item_name": "Găng Bảo Thạch"
+            },
+            {
+              "item_img": "TFT_Item_StatikkShiv.png",
+              "item_name": "Trượng Hư Vô"
+            }
+          ],
+          "khoa_tuong": true
+        }
+      ],
+      "items": [
+        {
+          "name_build_do": "Cuồng Đao Guinsoo",
+          "img_name_build_do": "TFT_Item_GuinsoosRageblade.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_RecurveBow.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_NeedlesslyLargeRod.png"
+        },
+        {
+          "name_build_do": "Cung Xanh",
+          "img_name_build_do": "TFT_Item_LastWhisper.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_RecurveBow.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_SparringGloves.png"
+        },
+        {
+          "name_build_do": "Thịnh Nộ Thủy Quái",
+          "img_name_build_do": "TFT_Item_RunaansHurricane.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_NegatronCloak.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_RecurveBow.png"
+        },
+        {
+          "name_build_do": "Huyết Kiếm",
+          "img_name_build_do": "TFT_Item_Bloodthirster.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_BFSword.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_NegatronCloak.png"
+        },
+        {
+          "name_build_do": "Móng Vuốt Sterak",
+          "img_name_build_do": "TFT_Item_SteraksGage.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_BFSword.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_GiantsBelt.png"
+        },
+        {
+          "name_build_do": "Quyền Năng Khổng Lồ",
+          "img_name_build_do": "TFT_Item_TitansResolve.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_ChainVest.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_RecurveBow.png"
+        },
+        {
+          "name_build_do": "Áo Choàng Lửa",
+          "img_name_build_do": "TFT_Item_RedBuff.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_ChainVest.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_GiantsBelt.png"
+        },
+        {
+          "name_build_do": "Giáp Tâm Linh",
+          "img_name_build_do": "TFT_Item_Redemption.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_TearOfTheGoddess.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_GiantsBelt.png"
+        },
+        {
+          "name_build_do": "Giáp Máu Warmog",
+          "img_name_build_do": "TFT_Item_WarmogsArmor.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_GiantsBelt.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_GiantsBelt.png"
+        },
+        {
+          "name_build_do": "Cuồng Đao Guinsoo",
+          "img_name_build_do": "TFT_Item_GuinsoosRageblade.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_RecurveBow.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_NeedlesslyLargeRod.png"
+        },
+        {
+          "name_build_do": "Găng Bảo Thạch",
+          "img_name_build_do": "TFT_Item_JeweledGauntlet.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_NeedlesslyLargeRod.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_SparringGloves.png"
+        },
+        {
+          "name_build_do": "Trượng Hư Vô",
+          "img_name_build_do": "TFT_Item_StatikkShiv.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_RecurveBow.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_TearOfTheGoddess.png"
+        }
+      ],
+      "img_url_huong_dan_dau_game": "huong_dan_dau_game_vi_3.png",
+      "img_url_huong_dan_giua_game": "huong_dan_giua_game_vi_3.png",
+      "img_url_huong_dan_cuoi_game": "huong_dan_cuoi_game_vi_3.png",
+      "img_huong_dan_tuong_tung_level": [
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_blitzcrank.tft_set16.png",
+          "img_name": "Blitzcrank",
+          "champ_id": "blitzcrank"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_ekko.tft_set16.png",
+          "img_name": "Ekko",
+          "champ_id": "ekko"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_vi.tft_set16.png",
+          "img_name": "Vi",
+          "champ_id": "vi"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_jinx.tft_set16.png",
+          "img_name": "Jinx",
+          "champ_id": "jinx"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_blitzcrank.tft_set16.png",
+          "img_name": "Blitzcrank",
+          "champ_id": "blitzcrank"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_ekko.tft_set16.png",
+          "img_name": "Ekko",
+          "champ_id": "ekko"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_vi.tft_set16.png",
+          "img_name": "Vi",
+          "champ_id": "vi"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_drmundo.tft_set16.png",
+          "img_name": "Dr. Mundo",
+          "champ_id": "dr._mundo"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_jinx.tft_set16.png",
+          "img_name": "Jinx",
+          "champ_id": "jinx"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_blitzcrank.tft_set16.png",
+          "img_name": "Blitzcrank",
+          "champ_id": "blitzcrank"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_ekko.tft_set16.png",
+          "img_name": "Ekko",
+          "champ_id": "ekko"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_vi.tft_set16.png",
+          "img_name": "Vi",
+          "champ_id": "vi"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_drmundo.tft_set16.png",
+          "img_name": "Dr. Mundo",
+          "champ_id": "dr._mundo"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_jinx.tft_set16.png",
+          "img_name": "Jinx",
+          "champ_id": "jinx"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_singed.tft_set16.png",
+          "img_name": "Singed",
+          "champ_id": "singed"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_blitzcrank.tft_set16.png",
+          "img_name": "Blitzcrank",
+          "champ_id": "blitzcrank"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_ekko.tft_set16.png",
+          "img_name": "Ekko",
+          "champ_id": "ekko"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_vi.tft_set16.png",
+          "img_name": "Vi",
+          "champ_id": "vi"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_drmundo.tft_set16.png",
+          "img_name": "Dr. Mundo",
+          "champ_id": "dr._mundo"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_jinx.tft_set16.png",
+          "img_name": "Jinx",
+          "champ_id": "jinx"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_singed.tft_set16.png",
+          "img_name": "Singed",
+          "champ_id": "singed"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_warwick.tft_set16.png",
+          "img_name": "Warwick",
+          "champ_id": "warwick"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_blitzcrank.tft_set16.png",
+          "img_name": "Blitzcrank",
+          "champ_id": "blitzcrank"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_ekko.tft_set16.png",
+          "img_name": "Ekko",
+          "champ_id": "ekko"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_vi.tft_set16.png",
+          "img_name": "Vi",
+          "champ_id": "vi"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_drmundo.tft_set16.png",
+          "img_name": "Dr. Mundo",
+          "champ_id": "dr._mundo"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_jinx.tft_set16.png",
+          "img_name": "Jinx",
+          "champ_id": "jinx"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_singed.tft_set16.png",
+          "img_name": "Singed",
+          "champ_id": "singed"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_warwick.tft_set16.png",
+          "img_name": "Warwick",
+          "champ_id": "warwick"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_wukong.tft_set16.png",
+          "img_name": "Ngộ Không",
+          "champ_id": "ngo_khong"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_drmundo.tft_set16.png",
+          "img_name": "Dr. Mundo",
+          "champ_id": "dr._mundo"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_jinx.tft_set16.png",
+          "img_name": "Jinx",
+          "champ_id": "jinx"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_singed.tft_set16.png",
+          "img_name": "Singed",
+          "champ_id": "singed"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_warwick.tft_set16.png",
+          "img_name": "Warwick",
+          "champ_id": "warwick"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_wukong.tft_set16.png",
+          "img_name": "Ngộ Không",
+          "champ_id": "ngo_khong"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_kindred.tft_set16.png",
+          "img_name": "Kindred",
+          "champ_id": "kindred"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_lucian.tft_set16.png",
+          "img_name": "Lucian & Senna",
+          "champ_id": "lucian_&_senna"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_shyvana.tft_set16.png",
+          "img_name": "Shyvana",
+          "champ_id": "shyvana"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_ziggs.tft_set16.png",
+          "img_name": "Ziggs",
+          "champ_id": "ziggs"
+        }
+      ],
+      "ti_le_thang_for_levels": [
+        {
+          "ti_le_thang": "35.50%"
+        },
+        {
+          "ti_le_thang": "51.11%"
+        },
+        {
+          "ti_le_thang": "45.57%"
+        },
+        {
+          "ti_le_thang": "48.37%"
+        },
+        {
+          "ti_le_thang": "46.01%"
+        },
+        {
+          "ti_le_thang": "42.70%"
+        }
+      ],
+      "tuong_chu_lucs": [
+        {
+          "champions_id": "jinx",
+          "items_do_tuong_chu_luc": [
+            {
+              "name_do_tuong_chu_luc": "Cuồng Đao Guinsoo",
+              "img_url_do_tuong_chu_luc": "TFT_Item_GuinsoosRageblade.png",
+              "so_tran_do_tuong_chu_luc": "",
+              "id": "cuong_dao_guinsoo"
+            },
+            {
+              "name_do_tuong_chu_luc": "Cung Xanh",
+              "img_url_do_tuong_chu_luc": "TFT_Item_LastWhisper.png",
+              "so_tran_do_tuong_chu_luc": "",
+              "id": "cung_xanh"
+            },
+            {
+              "name_do_tuong_chu_luc": "Thịnh Nộ Thủy Quái",
+              "img_url_do_tuong_chu_luc": "TFT_Item_RunaansHurricane.png",
+              "so_tran_do_tuong_chu_luc": "",
+              "id": "thinh_no_thuy_quai"
+            }
+          ]
+        },
+        {
+          "champions_id": "ngo_khong",
+          "items_do_tuong_chu_luc": [
+            {
+              "name_do_tuong_chu_luc": "Áo Choàng Lửa",
+              "img_url_do_tuong_chu_luc": "TFT_Item_RedBuff.png",
+              "so_tran_do_tuong_chu_luc": "",
+              "id": "ao_choang_lua"
+            },
+            {
+              "name_do_tuong_chu_luc": "Giáp Tâm Linh",
+              "img_url_do_tuong_chu_luc": "TFT_Item_Redemption.png",
+              "so_tran_do_tuong_chu_luc": "",
+              "id": "giap_tam_linh"
+            },
+            {
+              "name_do_tuong_chu_luc": "Giáp Máu Warmog",
+              "img_url_do_tuong_chu_luc": "TFT_Item_WarmogsArmor.png",
+              "so_tran_do_tuong_chu_luc": "",
+              "id": "giap_mau_warmog"
+            }
+          ]
+        },
+        {
+          "champions_id": "warwick",
+          "items_do_tuong_chu_luc": [
+            {
+              "name_do_tuong_chu_luc": "Huyết Kiếm",
+              "img_url_do_tuong_chu_luc": "TFT_Item_Bloodthirster.png",
+              "so_tran_do_tuong_chu_luc": "",
+              "id": "huyet_kiem"
+            },
+            {
+              "name_do_tuong_chu_luc": "Móng Vuốt Sterak",
+              "img_url_do_tuong_chu_luc": "TFT_Item_SteraksGage.png",
+              "so_tran_do_tuong_chu_luc": "",
+              "id": "mong_vuot_sterak"
+            },
+            {
+              "name_do_tuong_chu_luc": "Quyền Năng Khổng Lồ",
+              "img_url_do_tuong_chu_luc": "TFT_Item_TitansResolve.png",
+              "so_tran_do_tuong_chu_luc": "",
+              "id": "quyen_nang_khong_lo"
+            }
+          ]
+        }
+      ],
+      "tang_cuongs": [
+        [],
+        [],
+        []
+      ]
+    },
+    {
+      "stt": 5,
       "id": "freljord_jinx",
       "copy_hex": "0233f34b34802036134036d034000000TFTSet16",
       "tier_img": "icon-tier-S.png",
@@ -1119,10 +2293,10 @@
         "Normal",
         "Popular"
       ],
-      "average_position": "3.68",
-      "top_1_rate": "12.69",
-      "top_4_rate": "70.90",
-      "pick_rate": "0.84",
+      "average_position": "3.63",
+      "top_1_rate": "11.93",
+      "top_4_rate": "71.10",
+      "pick_rate": "0.81",
       "synergys": [
         {
           "trait_name": "Linh Hồn",
@@ -1284,12 +2458,16 @@
           "champ_main_geleral_level": null,
           "items": [
             {
-              "item_img": "TFT_Item_BFSword.png",
-              "item_name": "Kiếm B.F."
+              "item_img": "TFT_Item_InfinityEdge.png",
+              "item_name": "Vô Cực Kiếm"
             },
             {
-              "item_img": "TFT_Item_LastWhisper.png",
-              "item_name": "Cung Xanh"
+              "item_img": "TFT_Item_SpearOfShojin.png",
+              "item_name": "Ngọn Giáo Shojin"
+            },
+            {
+              "item_img": "TFT_Item_SteraksGage.png",
+              "item_name": "Móng Vuốt Sterak"
             }
           ],
           "khoa_tuong": false
@@ -1351,15 +2529,27 @@
           "img_name_build_do_thanh_phan_two": "TFT_Item_RecurveBow.png"
         },
         {
-          "name_build_do": "Cung Xanh",
-          "img_name_build_do": "TFT_Item_LastWhisper.png",
-          "img_name_build_do_thanh_phan_one": "TFT_Item_RecurveBow.png",
+          "name_build_do": "Vô Cực Kiếm",
+          "img_name_build_do": "TFT_Item_InfinityEdge.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_BFSword.png",
           "img_name_build_do_thanh_phan_two": "TFT_Item_SparringGloves.png"
+        },
+        {
+          "name_build_do": "Ngọn Giáo Shojin",
+          "img_name_build_do": "TFT_Item_SpearOfShojin.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_BFSword.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_TearOfTheGoddess.png"
+        },
+        {
+          "name_build_do": "Móng Vuốt Sterak",
+          "img_name_build_do": "TFT_Item_SteraksGage.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_BFSword.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_GiantsBelt.png"
         }
       ],
-      "img_url_huong_dan_dau_game": "huong_dan_dau_game_vi_2.png",
-      "img_url_huong_dan_giua_game": "huong_dan_giua_game_vi_2.png",
-      "img_url_huong_dan_cuoi_game": "huong_dan_cuoi_game_vi_2.png",
+      "img_url_huong_dan_dau_game": "huong_dan_dau_game_vi_4.png",
+      "img_url_huong_dan_giua_game": "huong_dan_giua_game_vi_4.png",
+      "img_url_huong_dan_cuoi_game": "huong_dan_cuoi_game_vi_4.png",
       "img_huong_dan_tuong_tung_level": [
         {
           "img_name_huong_dan_tuong_tung_level": "tft16_blitzcrank.tft_set16.png",
@@ -1559,19 +2749,19 @@
       ],
       "ti_le_thang_for_levels": [
         {
-          "ti_le_thang": "37.03%"
+          "ti_le_thang": "37.42%"
         },
         {
-          "ti_le_thang": "51.16%"
+          "ti_le_thang": "51.11%"
         },
         {
-          "ti_le_thang": "46.18%"
+          "ti_le_thang": "46.08%"
         },
         {
-          "ti_le_thang": "55.03%"
+          "ti_le_thang": "55.09%"
         },
         {
-          "ti_le_thang": "51.19%"
+          "ti_le_thang": "51.04%"
         },
         {
           "ti_le_thang": "47.39%"
@@ -1655,10 +2845,10 @@
       ]
     },
     {
-      "stt": 4,
+      "stt": 6,
       "id": "ionia_yone",
       "copy_hex": "0235134334d34f37035036c362000000TFTSet16",
-      "tier_img": "icon-tier-A.png",
+      "tier_img": "icon-tier-S.png",
       "comp_name": "Ionia Yone",
       "comp_price": "72",
       "tags": [
@@ -1666,10 +2856,10 @@
         "Normal",
         "Popular"
       ],
-      "average_position": "4.06",
-      "top_1_rate": "7.87",
-      "top_4_rate": "56.18",
-      "pick_rate": "1.12",
+      "average_position": "3.97",
+      "top_1_rate": "9.97",
+      "top_4_rate": "58.91",
+      "pick_rate": "1.23",
       "synergys": [
         {
           "trait_name": "Đại Ca",
@@ -1731,7 +2921,7 @@
           "champions_id": "yasuo",
           "champions_name": "Yasuo",
           "champ_img": "tft16_yasuo.tft_set16.png",
-          "star": 0,
+          "star": 3,
           "champ_main_geleral_level": null,
           "items": [],
           "khoa_tuong": false
@@ -1908,9 +3098,9 @@
           "img_name_build_do_thanh_phan_two": "TFT_Item_RecurveBow.png"
         }
       ],
-      "img_url_huong_dan_dau_game": "huong_dan_dau_game_vi_3.png",
-      "img_url_huong_dan_giua_game": "huong_dan_giua_game_vi_3.png",
-      "img_url_huong_dan_cuoi_game": "huong_dan_cuoi_game_vi_3.png",
+      "img_url_huong_dan_dau_game": "huong_dan_dau_game_vi_5.png",
+      "img_url_huong_dan_giua_game": "huong_dan_giua_game_vi_5.png",
+      "img_url_huong_dan_cuoi_game": "huong_dan_cuoi_game_vi_5.png",
       "img_huong_dan_tuong_tung_level": [
         {
           "img_name_huong_dan_tuong_tung_level": "tft16_jhin.tft_set16.png",
@@ -2110,22 +3300,22 @@
       ],
       "ti_le_thang_for_levels": [
         {
-          "ti_le_thang": "42.27%"
+          "ti_le_thang": "42.25%"
         },
         {
-          "ti_le_thang": "40.31%"
+          "ti_le_thang": "40.42%"
         },
         {
-          "ti_le_thang": "38.80%"
+          "ti_le_thang": "38.74%"
         },
         {
-          "ti_le_thang": "57.85%"
+          "ti_le_thang": "57.82%"
         },
         {
-          "ti_le_thang": "52.79%"
+          "ti_le_thang": "52.86%"
         },
         {
-          "ti_le_thang": "48.89%"
+          "ti_le_thang": "49.07%"
         }
       ],
       "tuong_chu_lucs": [
@@ -2206,7 +3396,2307 @@
       ]
     },
     {
-      "stt": 5,
+      "stt": 7,
+      "id": "freljord_lissandra",
+      "copy_hex": "0233e03536134034133635737335a000TFTSet16",
+      "tier_img": "icon-tier-S.png",
+      "comp_name": "Freljord Lissandra",
+      "comp_price": "102",
+      "tags": [
+        "Lv 8",
+        "Hard",
+        "Popular"
+      ],
+      "average_position": "3.23",
+      "top_1_rate": "22.13",
+      "top_4_rate": "74.59",
+      "pick_rate": "0.45",
+      "synergys": [
+        {
+          "trait_name": "Thần Rèn",
+          "trait_id": "than_ren",
+          "trait_img": "Trait_Icon_16_Blacksmith.TFT_Set16.png",
+          "trait_count": "1"
+        },
+        {
+          "trait_name": "Targon",
+          "trait_id": "targon",
+          "trait_img": "Trait_Icon_16_Targon.TFT_Set16.png",
+          "trait_count": "1"
+        },
+        {
+          "trait_name": "Giám Hộ",
+          "trait_id": "giam_ho",
+          "trait_img": "Trait_Icon_16_Chronokeeper.TFT_Set16.png",
+          "trait_count": "1"
+        },
+        {
+          "trait_name": "Thuật Sĩ",
+          "trait_id": "thuat_si",
+          "trait_img": "Trait_Icon_16_Invoker.png",
+          "trait_count": "4"
+        },
+        {
+          "trait_name": "Freljord",
+          "trait_id": "freljord",
+          "trait_img": "Trait_Icon_16_Freljord.TFT_Set16.png",
+          "trait_count": "5"
+        },
+        {
+          "trait_name": "Cảnh Vệ",
+          "trait_id": "canh_ve",
+          "trait_img": "Trait_Icon_16_Warden.TFT_Set16.png",
+          "trait_count": "2"
+        },
+        {
+          "trait_name": "Đấu Sĩ",
+          "trait_id": "dau_si",
+          "trait_img": "Trait_Icon_16_Bruiser.TFT_Set16.png",
+          "trait_count": "2"
+        }
+      ],
+      "champs": [
+        {
+          "champions_id": "anivia",
+          "champions_name": "Anivia",
+          "champ_img": "tft16_anivia.tft_set16.png",
+          "star": 0,
+          "champ_main_geleral_level": null,
+          "items": [],
+          "khoa_tuong": false
+        },
+        {
+          "champions_id": "kobuko_&_yuumi",
+          "champions_name": "Kobuko & Yuumi",
+          "champ_img": "tft16_kobuko.tft_set16.png",
+          "star": 0,
+          "champ_main_geleral_level": null,
+          "items": [],
+          "khoa_tuong": true
+        },
+        {
+          "champions_id": "sejuani",
+          "champions_name": "Sejuani",
+          "champ_img": "tft16_sejuani.tft_set16.png",
+          "star": 0,
+          "champ_main_geleral_level": null,
+          "items": [],
+          "khoa_tuong": false
+        },
+        {
+          "champions_id": "braum",
+          "champions_name": "Braum",
+          "champ_img": "tft16_braum.tft_set16.png",
+          "star": 0,
+          "champ_main_geleral_level": null,
+          "items": [
+            {
+              "item_img": "TFT_Item_BrambleVest.png",
+              "item_name": "Áo Choàng Gai"
+            },
+            {
+              "item_img": "TFT_Item_DragonsClaw.png",
+              "item_name": "Vuốt Rồng"
+            },
+            {
+              "item_img": "TFT_Item_Redemption.png",
+              "item_name": "Giáp Tâm Linh"
+            }
+          ],
+          "khoa_tuong": false
+        },
+        {
+          "champions_id": "lissandra",
+          "champions_name": "Lissandra",
+          "champ_img": "tft16_lissandra.tft_set16.png",
+          "star": 0,
+          "champ_main_geleral_level": "1st",
+          "items": [
+            {
+              "item_img": "TFT_Item_JeweledGauntlet.png",
+              "item_name": "Găng Bảo Thạch"
+            },
+            {
+              "item_img": "TFT_Item_Leviathan.png",
+              "item_name": "Nanh Nashor"
+            },
+            {
+              "item_img": "TFT_Item_Leviathan.png",
+              "item_name": "Nanh Nashor"
+            }
+          ],
+          "khoa_tuong": false
+        },
+        {
+          "champions_id": "taric",
+          "champions_name": "Taric",
+          "champ_img": "tft16_taric.tft_set16.png",
+          "star": 0,
+          "champ_main_geleral_level": null,
+          "items": [],
+          "khoa_tuong": false
+        },
+        {
+          "champions_id": "ornn",
+          "champions_name": "Ornn",
+          "champ_img": "tft16_ornn.tft_set16.png",
+          "star": 0,
+          "champ_main_geleral_level": null,
+          "items": [],
+          "khoa_tuong": false
+        },
+        {
+          "champions_id": "volibear",
+          "champions_name": "Volibear",
+          "champ_img": "tft16_volibear.tft_set16.png",
+          "star": 0,
+          "champ_main_geleral_level": "2nd",
+          "items": [
+            {
+              "item_img": "TFT_Item_Bloodthirster.png",
+              "item_name": "Huyết Kiếm"
+            },
+            {
+              "item_img": "TFT_Item_SteraksGage.png",
+              "item_name": "Móng Vuốt Sterak"
+            },
+            {
+              "item_img": "TFT_Item_TitansResolve.png",
+              "item_name": "Quyền Năng Khổng Lồ"
+            }
+          ],
+          "khoa_tuong": true
+        },
+        {
+          "champions_id": "zilean",
+          "champions_name": "Zilean",
+          "champ_img": "tft16_zilean.tft_set16.png",
+          "star": 0,
+          "champ_main_geleral_level": "3rd",
+          "items": [
+            {
+              "item_img": "TFT_Item_Morellonomicon.png",
+              "item_name": "Quỷ Thư Morello"
+            },
+            {
+              "item_img": "TFT_Item_SpearOfShojin.png",
+              "item_name": "Ngọn Giáo Shojin"
+            },
+            {
+              "item_img": "TFT_Item_StatikkShiv.png",
+              "item_name": "Trượng Hư Vô"
+            }
+          ],
+          "khoa_tuong": false
+        }
+      ],
+      "items": [
+        {
+          "name_build_do": "Áo Choàng Gai",
+          "img_name_build_do": "TFT_Item_BrambleVest.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_ChainVest.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_ChainVest.png"
+        },
+        {
+          "name_build_do": "Vuốt Rồng",
+          "img_name_build_do": "TFT_Item_DragonsClaw.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_NegatronCloak.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_NegatronCloak.png"
+        },
+        {
+          "name_build_do": "Giáp Tâm Linh",
+          "img_name_build_do": "TFT_Item_Redemption.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_TearOfTheGoddess.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_GiantsBelt.png"
+        },
+        {
+          "name_build_do": "Găng Bảo Thạch",
+          "img_name_build_do": "TFT_Item_JeweledGauntlet.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_NeedlesslyLargeRod.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_SparringGloves.png"
+        },
+        {
+          "name_build_do": "Nanh Nashor",
+          "img_name_build_do": "TFT_Item_Leviathan.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_RecurveBow.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_GiantsBelt.png"
+        },
+        {
+          "name_build_do": "Nanh Nashor",
+          "img_name_build_do": "TFT_Item_Leviathan.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_RecurveBow.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_GiantsBelt.png"
+        },
+        {
+          "name_build_do": "Huyết Kiếm",
+          "img_name_build_do": "TFT_Item_Bloodthirster.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_BFSword.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_NegatronCloak.png"
+        },
+        {
+          "name_build_do": "Móng Vuốt Sterak",
+          "img_name_build_do": "TFT_Item_SteraksGage.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_BFSword.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_GiantsBelt.png"
+        },
+        {
+          "name_build_do": "Quyền Năng Khổng Lồ",
+          "img_name_build_do": "TFT_Item_TitansResolve.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_ChainVest.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_RecurveBow.png"
+        },
+        {
+          "name_build_do": "Quỷ Thư Morello",
+          "img_name_build_do": "TFT_Item_Morellonomicon.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_NeedlesslyLargeRod.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_GiantsBelt.png"
+        },
+        {
+          "name_build_do": "Ngọn Giáo Shojin",
+          "img_name_build_do": "TFT_Item_SpearOfShojin.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_BFSword.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_TearOfTheGoddess.png"
+        },
+        {
+          "name_build_do": "Trượng Hư Vô",
+          "img_name_build_do": "TFT_Item_StatikkShiv.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_RecurveBow.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_TearOfTheGoddess.png"
+        }
+      ],
+      "img_url_huong_dan_dau_game": "huong_dan_dau_game_vi_6.png",
+      "img_url_huong_dan_giua_game": "huong_dan_giua_game_vi_6.png",
+      "img_url_huong_dan_cuoi_game": "huong_dan_cuoi_game_vi_6.png",
+      "img_huong_dan_tuong_tung_level": [
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_anivia.tft_set16.png",
+          "img_name": "Anivia",
+          "champ_id": "anivia"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_jarvaniv.tft_set16.png",
+          "img_name": "Jarvan IV",
+          "champ_id": "jarvan_iv"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_sona.tft_set16.png",
+          "img_name": "Sona",
+          "champ_id": "sona"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_xinzhao.tft_set16.png",
+          "img_name": "Xin Zhao",
+          "champ_id": "xin_zhao"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_anivia.tft_set16.png",
+          "img_name": "Anivia",
+          "champ_id": "anivia"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_jarvaniv.tft_set16.png",
+          "img_name": "Jarvan IV",
+          "champ_id": "jarvan_iv"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_sona.tft_set16.png",
+          "img_name": "Sona",
+          "champ_id": "sona"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_ashe.tft_set16.png",
+          "img_name": "Ashe",
+          "champ_id": "ashe"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_sejuani.tft_set16.png",
+          "img_name": "Sejuani",
+          "champ_id": "sejuani"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_lulu.tft_set16.png",
+          "img_name": "Lulu",
+          "champ_id": "lulu"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_rumble.tft_set16.png",
+          "img_name": "Rumble",
+          "champ_id": "rumble"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_poppy.tft_set16.png",
+          "img_name": "Poppy",
+          "champ_id": "poppy"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_teemo.tft_set16.png",
+          "img_name": "Teemo",
+          "champ_id": "teemo"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_tristana.tft_set16.png",
+          "img_name": "Tristana",
+          "champ_id": "tristana"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_kennen.tft_set16.png",
+          "img_name": "Kennen",
+          "champ_id": "kennen"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_anivia.tft_set16.png",
+          "img_name": "Anivia",
+          "champ_id": "anivia"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_caitlyn.tft_set16.png",
+          "img_name": "Caitlyn",
+          "champ_id": "caitlyn"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_ashe.tft_set16.png",
+          "img_name": "Ashe",
+          "champ_id": "ashe"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_orianna.tft_set16.png",
+          "img_name": "Orianna",
+          "champ_id": "orianna"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_vi.tft_set16.png",
+          "img_name": "Vi",
+          "champ_id": "vi"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_loris.tft_set16.png",
+          "img_name": "Loris",
+          "champ_id": "loris"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_sejuani.tft_set16.png",
+          "img_name": "Sejuani",
+          "champ_id": "sejuani"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_anivia.tft_set16.png",
+          "img_name": "Anivia",
+          "champ_id": "anivia"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_kobuko.tft_set16.png",
+          "img_name": "Kobuko & Yuumi",
+          "champ_id": "kobuko_&_yuumi"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_sejuani.tft_set16.png",
+          "img_name": "Sejuani",
+          "champ_id": "sejuani"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_braum.tft_set16.png",
+          "img_name": "Braum",
+          "champ_id": "braum"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_lissandra.tft_set16.png",
+          "img_name": "Lissandra",
+          "champ_id": "lissandra"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_taric.tft_set16.png",
+          "img_name": "Taric",
+          "champ_id": "taric"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_volibear.tft_set16.png",
+          "img_name": "Volibear",
+          "champ_id": "volibear"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_zilean.tft_set16.png",
+          "img_name": "Zilean",
+          "champ_id": "zilean"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_anivia.tft_set16.png",
+          "img_name": "Anivia",
+          "champ_id": "anivia"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_kobuko.tft_set16.png",
+          "img_name": "Kobuko & Yuumi",
+          "champ_id": "kobuko_&_yuumi"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_sejuani.tft_set16.png",
+          "img_name": "Sejuani",
+          "champ_id": "sejuani"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_braum.tft_set16.png",
+          "img_name": "Braum",
+          "champ_id": "braum"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_lissandra.tft_set16.png",
+          "img_name": "Lissandra",
+          "champ_id": "lissandra"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_taric.tft_set16.png",
+          "img_name": "Taric",
+          "champ_id": "taric"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_ornn.tft_set16.png",
+          "img_name": "Ornn",
+          "champ_id": "ornn"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_volibear.tft_set16.png",
+          "img_name": "Volibear",
+          "champ_id": "volibear"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_zilean.tft_set16.png",
+          "img_name": "Zilean",
+          "champ_id": "zilean"
+        }
+      ],
+      "ti_le_thang_for_levels": [
+        {
+          "ti_le_thang": "49.12%"
+        },
+        {
+          "ti_le_thang": "61.98%"
+        },
+        {
+          "ti_le_thang": "53.82%"
+        },
+        {
+          "ti_le_thang": "37.84%"
+        },
+        {
+          "ti_le_thang": "51.99%"
+        },
+        {
+          "ti_le_thang": "48.66%"
+        }
+      ],
+      "tuong_chu_lucs": [
+        {
+          "champions_id": "lissandra",
+          "items_do_tuong_chu_luc": [
+            {
+              "name_do_tuong_chu_luc": "Găng Bảo Thạch",
+              "img_url_do_tuong_chu_luc": "TFT_Item_JeweledGauntlet.png",
+              "so_tran_do_tuong_chu_luc": "",
+              "id": "gang_bao_thach"
+            },
+            {
+              "name_do_tuong_chu_luc": "Nanh Nashor",
+              "img_url_do_tuong_chu_luc": "TFT_Item_Leviathan.png",
+              "so_tran_do_tuong_chu_luc": "",
+              "id": "nanh_nashor"
+            },
+            {
+              "name_do_tuong_chu_luc": "Nanh Nashor",
+              "img_url_do_tuong_chu_luc": "TFT_Item_Leviathan.png",
+              "so_tran_do_tuong_chu_luc": "",
+              "id": "nanh_nashor"
+            }
+          ]
+        },
+        {
+          "champions_id": "volibear",
+          "items_do_tuong_chu_luc": [
+            {
+              "name_do_tuong_chu_luc": "Huyết Kiếm",
+              "img_url_do_tuong_chu_luc": "TFT_Item_Bloodthirster.png",
+              "so_tran_do_tuong_chu_luc": "",
+              "id": "huyet_kiem"
+            },
+            {
+              "name_do_tuong_chu_luc": "Móng Vuốt Sterak",
+              "img_url_do_tuong_chu_luc": "TFT_Item_SteraksGage.png",
+              "so_tran_do_tuong_chu_luc": "",
+              "id": "mong_vuot_sterak"
+            },
+            {
+              "name_do_tuong_chu_luc": "Quyền Năng Khổng Lồ",
+              "img_url_do_tuong_chu_luc": "TFT_Item_TitansResolve.png",
+              "so_tran_do_tuong_chu_luc": "",
+              "id": "quyen_nang_khong_lo"
+            }
+          ]
+        },
+        {
+          "champions_id": "zilean",
+          "items_do_tuong_chu_luc": [
+            {
+              "name_do_tuong_chu_luc": "Quỷ Thư Morello",
+              "img_url_do_tuong_chu_luc": "TFT_Item_Morellonomicon.png",
+              "so_tran_do_tuong_chu_luc": "",
+              "id": "quy_thu_morello"
+            },
+            {
+              "name_do_tuong_chu_luc": "Ngọn Giáo Shojin",
+              "img_url_do_tuong_chu_luc": "TFT_Item_SpearOfShojin.png",
+              "so_tran_do_tuong_chu_luc": "",
+              "id": "ngon_giao_shojin"
+            },
+            {
+              "name_do_tuong_chu_luc": "Trượng Hư Vô",
+              "img_url_do_tuong_chu_luc": "TFT_Item_StatikkShiv.png",
+              "so_tran_do_tuong_chu_luc": "",
+              "id": "truong_hu_vo"
+            }
+          ]
+        }
+      ],
+      "tang_cuongs": [
+        [],
+        [],
+        []
+      ]
+    },
+    {
+      "stt": 8,
+      "id": "dau_si_ryze",
+      "copy_hex": "02351370035361341336350373013000TFTSet16",
+      "tier_img": "icon-tier-S.png",
+      "comp_name": "Đấu Sĩ Ryze",
+      "comp_price": "102",
+      "tags": [
+        "Lv 9",
+        "Hard",
+        "Popular"
+      ],
+      "average_position": "3.54",
+      "top_1_rate": "16.46",
+      "top_4_rate": "68.99",
+      "pick_rate": "0.59",
+      "synergys": [
+        {
+          "trait_name": "Cổ Ngữ",
+          "trait_id": "co_ngu",
+          "trait_img": "Trait_Icon_16_RuneMage.TFT_Set16.png",
+          "trait_count": "1"
+        },
+        {
+          "trait_name": "Targon",
+          "trait_id": "targon",
+          "trait_img": "Trait_Icon_16_Targon.TFT_Set16.png",
+          "trait_count": "1"
+        },
+        {
+          "trait_name": "Đấu Sĩ",
+          "trait_id": "dau_si",
+          "trait_img": "Trait_Icon_16_Bruiser.TFT_Set16.png",
+          "trait_count": "4"
+        },
+        {
+          "trait_name": "Yordle",
+          "trait_id": "yordle",
+          "trait_img": "Trait_Icon_16_Yordle.TFT_Set16.png",
+          "trait_count": "2"
+        },
+        {
+          "trait_name": "Vệ Quân",
+          "trait_id": "ve_quan",
+          "trait_img": "Trait_Icon_16_Defender.png",
+          "trait_count": "2"
+        },
+        {
+          "trait_name": "Thuật Sĩ",
+          "trait_id": "thuat_si",
+          "trait_img": "Trait_Icon_16_Invoker.png",
+          "trait_count": "2"
+        },
+        {
+          "trait_name": "Ionia",
+          "trait_id": "ionia",
+          "trait_img": "Trait_Icon_16_Ionia.TFT_Set16.png",
+          "trait_count": "3"
+        },
+        {
+          "trait_name": "Freljord",
+          "trait_id": "freljord",
+          "trait_img": "Trait_Icon_16_Freljord.TFT_Set16.png",
+          "trait_count": "3"
+        }
+      ],
+      "champs": [
+        {
+          "champions_id": "shen",
+          "champions_name": "Shen",
+          "champ_img": "tft16_shen.tft_set16.png",
+          "star": 0,
+          "champ_main_geleral_level": null,
+          "items": [],
+          "khoa_tuong": false
+        },
+        {
+          "champions_id": "kennen",
+          "champions_name": "Kennen",
+          "champ_img": "tft16_kennen.tft_set16.png",
+          "star": 0,
+          "champ_main_geleral_level": null,
+          "items": [],
+          "khoa_tuong": true
+        },
+        {
+          "champions_id": "kobuko_&_yuumi",
+          "champions_name": "Kobuko & Yuumi",
+          "champ_img": "tft16_kobuko.tft_set16.png",
+          "star": 0,
+          "champ_main_geleral_level": null,
+          "items": [],
+          "khoa_tuong": true
+        },
+        {
+          "champions_id": "sejuani",
+          "champions_name": "Sejuani",
+          "champ_img": "tft16_sejuani.tft_set16.png",
+          "star": 0,
+          "champ_main_geleral_level": null,
+          "items": [],
+          "khoa_tuong": false
+        },
+        {
+          "champions_id": "lissandra",
+          "champions_name": "Lissandra",
+          "champ_img": "tft16_lissandra.tft_set16.png",
+          "star": 0,
+          "champ_main_geleral_level": "3rd",
+          "items": [
+            {
+              "item_img": "TFT_Item_Morellonomicon.png",
+              "item_name": "Quỷ Thư Morello"
+            },
+            {
+              "item_img": "TFT_Item_SpearOfShojin.png",
+              "item_name": "Ngọn Giáo Shojin"
+            },
+            {
+              "item_img": "TFT_Item_StatikkShiv.png",
+              "item_name": "Trượng Hư Vô"
+            }
+          ],
+          "khoa_tuong": false
+        },
+        {
+          "champions_id": "ngo_khong",
+          "champions_name": "Ngộ Không",
+          "champ_img": "tft16_wukong.tft_set16.png",
+          "star": 0,
+          "champ_main_geleral_level": null,
+          "items": [
+            {
+              "item_img": "TFT_Item_IonicSpark.png",
+              "item_name": "Nỏ Sét"
+            },
+            {
+              "item_img": "TFT_Item_RedBuff.png",
+              "item_name": "Áo Choàng Lửa"
+            },
+            {
+              "item_img": "TFT_Item_Redemption.png",
+              "item_name": "Giáp Tâm Linh"
+            }
+          ],
+          "khoa_tuong": false
+        },
+        {
+          "champions_id": "taric",
+          "champions_name": "Taric",
+          "champ_img": "tft16_taric.tft_set16.png",
+          "star": 0,
+          "champ_main_geleral_level": null,
+          "items": [],
+          "khoa_tuong": false
+        },
+        {
+          "champions_id": "volibear",
+          "champions_name": "Volibear",
+          "champ_img": "tft16_volibear.tft_set16.png",
+          "star": 0,
+          "champ_main_geleral_level": "2nd",
+          "items": [
+            {
+              "item_img": "TFT_Item_Bloodthirster.png",
+              "item_name": "Huyết Kiếm"
+            },
+            {
+              "item_img": "TFT_Item_SteraksGage.png",
+              "item_name": "Móng Vuốt Sterak"
+            },
+            {
+              "item_img": "TFT_Item_TitansResolve.png",
+              "item_name": "Quyền Năng Khổng Lồ"
+            }
+          ],
+          "khoa_tuong": true
+        },
+        {
+          "champions_id": "ryze",
+          "champions_name": "Ryze",
+          "champ_img": "tft16_ryze.tft_set16.png",
+          "star": 0,
+          "champ_main_geleral_level": "1st",
+          "items": [
+            {
+              "item_img": "TFT_Item_JeweledGauntlet.png",
+              "item_name": "Găng Bảo Thạch"
+            },
+            {
+              "item_img": "TFT_Item_Leviathan.png",
+              "item_name": "Nanh Nashor"
+            },
+            {
+              "item_img": "TFT_Item_Leviathan.png",
+              "item_name": "Nanh Nashor"
+            }
+          ],
+          "khoa_tuong": true
+        }
+      ],
+      "items": [
+        {
+          "name_build_do": "Quỷ Thư Morello",
+          "img_name_build_do": "TFT_Item_Morellonomicon.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_NeedlesslyLargeRod.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_GiantsBelt.png"
+        },
+        {
+          "name_build_do": "Ngọn Giáo Shojin",
+          "img_name_build_do": "TFT_Item_SpearOfShojin.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_BFSword.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_TearOfTheGoddess.png"
+        },
+        {
+          "name_build_do": "Trượng Hư Vô",
+          "img_name_build_do": "TFT_Item_StatikkShiv.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_RecurveBow.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_TearOfTheGoddess.png"
+        },
+        {
+          "name_build_do": "Nỏ Sét",
+          "img_name_build_do": "TFT_Item_IonicSpark.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_NeedlesslyLargeRod.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_NegatronCloak.png"
+        },
+        {
+          "name_build_do": "Áo Choàng Lửa",
+          "img_name_build_do": "TFT_Item_RedBuff.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_ChainVest.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_GiantsBelt.png"
+        },
+        {
+          "name_build_do": "Giáp Tâm Linh",
+          "img_name_build_do": "TFT_Item_Redemption.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_TearOfTheGoddess.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_GiantsBelt.png"
+        },
+        {
+          "name_build_do": "Huyết Kiếm",
+          "img_name_build_do": "TFT_Item_Bloodthirster.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_BFSword.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_NegatronCloak.png"
+        },
+        {
+          "name_build_do": "Móng Vuốt Sterak",
+          "img_name_build_do": "TFT_Item_SteraksGage.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_BFSword.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_GiantsBelt.png"
+        },
+        {
+          "name_build_do": "Quyền Năng Khổng Lồ",
+          "img_name_build_do": "TFT_Item_TitansResolve.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_ChainVest.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_RecurveBow.png"
+        },
+        {
+          "name_build_do": "Găng Bảo Thạch",
+          "img_name_build_do": "TFT_Item_JeweledGauntlet.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_NeedlesslyLargeRod.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_SparringGloves.png"
+        },
+        {
+          "name_build_do": "Nanh Nashor",
+          "img_name_build_do": "TFT_Item_Leviathan.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_RecurveBow.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_GiantsBelt.png"
+        },
+        {
+          "name_build_do": "Nanh Nashor",
+          "img_name_build_do": "TFT_Item_Leviathan.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_RecurveBow.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_GiantsBelt.png"
+        }
+      ],
+      "img_url_huong_dan_dau_game": "huong_dan_dau_game_vi_7.png",
+      "img_url_huong_dan_giua_game": "huong_dan_giua_game_vi_7.png",
+      "img_url_huong_dan_cuoi_game": "huong_dan_cuoi_game_vi_7.png",
+      "img_huong_dan_tuong_tung_level": [
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_lulu.tft_set16.png",
+          "img_name": "Lulu",
+          "champ_id": "lulu"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_rumble.tft_set16.png",
+          "img_name": "Rumble",
+          "champ_id": "rumble"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_poppy.tft_set16.png",
+          "img_name": "Poppy",
+          "champ_id": "poppy"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_teemo.tft_set16.png",
+          "img_name": "Teemo",
+          "champ_id": "teemo"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_lulu.tft_set16.png",
+          "img_name": "Lulu",
+          "champ_id": "lulu"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_rumble.tft_set16.png",
+          "img_name": "Rumble",
+          "champ_id": "rumble"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_poppy.tft_set16.png",
+          "img_name": "Poppy",
+          "champ_id": "poppy"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_teemo.tft_set16.png",
+          "img_name": "Teemo",
+          "champ_id": "teemo"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_kennen.tft_set16.png",
+          "img_name": "Kennen",
+          "champ_id": "kennen"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_lulu.tft_set16.png",
+          "img_name": "Lulu",
+          "champ_id": "lulu"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_rumble.tft_set16.png",
+          "img_name": "Rumble",
+          "champ_id": "rumble"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_poppy.tft_set16.png",
+          "img_name": "Poppy",
+          "champ_id": "poppy"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_teemo.tft_set16.png",
+          "img_name": "Teemo",
+          "champ_id": "teemo"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_tristana.tft_set16.png",
+          "img_name": "Tristana",
+          "champ_id": "tristana"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_kennen.tft_set16.png",
+          "img_name": "Kennen",
+          "champ_id": "kennen"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_lulu.tft_set16.png",
+          "img_name": "Lulu",
+          "champ_id": "lulu"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_rumble.tft_set16.png",
+          "img_name": "Rumble",
+          "champ_id": "rumble"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_poppy.tft_set16.png",
+          "img_name": "Poppy",
+          "champ_id": "poppy"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_teemo.tft_set16.png",
+          "img_name": "Teemo",
+          "champ_id": "teemo"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_tristana.tft_set16.png",
+          "img_name": "Tristana",
+          "champ_id": "tristana"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_kennen.tft_set16.png",
+          "img_name": "Kennen",
+          "champ_id": "kennen"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_kobuko.tft_set16.png",
+          "img_name": "Kobuko & Yuumi",
+          "champ_id": "kobuko_&_yuumi"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_lulu.tft_set16.png",
+          "img_name": "Lulu",
+          "champ_id": "lulu"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_rumble.tft_set16.png",
+          "img_name": "Rumble",
+          "champ_id": "rumble"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_poppy.tft_set16.png",
+          "img_name": "Poppy",
+          "champ_id": "poppy"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_teemo.tft_set16.png",
+          "img_name": "Teemo",
+          "champ_id": "teemo"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_tristana.tft_set16.png",
+          "img_name": "Tristana",
+          "champ_id": "tristana"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_kennen.tft_set16.png",
+          "img_name": "Kennen",
+          "champ_id": "kennen"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_kobuko.tft_set16.png",
+          "img_name": "Kobuko & Yuumi",
+          "champ_id": "kobuko_&_yuumi"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_fizz.tft_set16.png",
+          "img_name": "Fizz",
+          "champ_id": "fizz"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_shen.tft_set16.png",
+          "img_name": "Shen",
+          "champ_id": "shen"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_kennen.tft_set16.png",
+          "img_name": "Kennen",
+          "champ_id": "kennen"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_kobuko.tft_set16.png",
+          "img_name": "Kobuko & Yuumi",
+          "champ_id": "kobuko_&_yuumi"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_sejuani.tft_set16.png",
+          "img_name": "Sejuani",
+          "champ_id": "sejuani"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_lissandra.tft_set16.png",
+          "img_name": "Lissandra",
+          "champ_id": "lissandra"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_taric.tft_set16.png",
+          "img_name": "Taric",
+          "champ_id": "taric"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_wukong.tft_set16.png",
+          "img_name": "Ngộ Không",
+          "champ_id": "ngo_khong"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_volibear.tft_set16.png",
+          "img_name": "Volibear",
+          "champ_id": "volibear"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_ryze.tft_set16.png",
+          "img_name": "Ryze",
+          "champ_id": "ryze"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_shen.tft_set16.png",
+          "img_name": "Shen",
+          "champ_id": "shen"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_kennen.tft_set16.png",
+          "img_name": "Kennen",
+          "champ_id": "kennen"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_kobuko.tft_set16.png",
+          "img_name": "Kobuko & Yuumi",
+          "champ_id": "kobuko_&_yuumi"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_sejuani.tft_set16.png",
+          "img_name": "Sejuani",
+          "champ_id": "sejuani"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_lissandra.tft_set16.png",
+          "img_name": "Lissandra",
+          "champ_id": "lissandra"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_taric.tft_set16.png",
+          "img_name": "Taric",
+          "champ_id": "taric"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_wukong.tft_set16.png",
+          "img_name": "Ngộ Không",
+          "champ_id": "ngo_khong"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_azir.tft_set16.png",
+          "img_name": "Azir",
+          "champ_id": "azir"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_volibear.tft_set16.png",
+          "img_name": "Volibear",
+          "champ_id": "volibear"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_ryze.tft_set16.png",
+          "img_name": "Ryze",
+          "champ_id": "ryze"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_azirsoldier.tft_set16.png",
+          "img_name": "Lính Cát",
+          "champ_id": "linh_cat"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_azirsoldier.tft_set16.png",
+          "img_name": "Lính Cát",
+          "champ_id": "linh_cat"
+        }
+      ],
+      "ti_le_thang_for_levels": [
+        {
+          "ti_le_thang": "37.67%"
+        },
+        {
+          "ti_le_thang": "50.27%"
+        },
+        {
+          "ti_le_thang": "53.82%"
+        },
+        {
+          "ti_le_thang": "41.04%"
+        },
+        {
+          "ti_le_thang": "25.74%"
+        },
+        {
+          "ti_le_thang": "60.02%"
+        },
+        {
+          "ti_le_thang": "41.67%"
+        }
+      ],
+      "tuong_chu_lucs": [
+        {
+          "champions_id": "lissandra",
+          "items_do_tuong_chu_luc": [
+            {
+              "name_do_tuong_chu_luc": "Quỷ Thư Morello",
+              "img_url_do_tuong_chu_luc": "TFT_Item_Morellonomicon.png",
+              "so_tran_do_tuong_chu_luc": "",
+              "id": "quy_thu_morello"
+            },
+            {
+              "name_do_tuong_chu_luc": "Ngọn Giáo Shojin",
+              "img_url_do_tuong_chu_luc": "TFT_Item_SpearOfShojin.png",
+              "so_tran_do_tuong_chu_luc": "",
+              "id": "ngon_giao_shojin"
+            },
+            {
+              "name_do_tuong_chu_luc": "Trượng Hư Vô",
+              "img_url_do_tuong_chu_luc": "TFT_Item_StatikkShiv.png",
+              "so_tran_do_tuong_chu_luc": "",
+              "id": "truong_hu_vo"
+            }
+          ]
+        },
+        {
+          "champions_id": "volibear",
+          "items_do_tuong_chu_luc": [
+            {
+              "name_do_tuong_chu_luc": "Huyết Kiếm",
+              "img_url_do_tuong_chu_luc": "TFT_Item_Bloodthirster.png",
+              "so_tran_do_tuong_chu_luc": "",
+              "id": "huyet_kiem"
+            },
+            {
+              "name_do_tuong_chu_luc": "Móng Vuốt Sterak",
+              "img_url_do_tuong_chu_luc": "TFT_Item_SteraksGage.png",
+              "so_tran_do_tuong_chu_luc": "",
+              "id": "mong_vuot_sterak"
+            },
+            {
+              "name_do_tuong_chu_luc": "Quyền Năng Khổng Lồ",
+              "img_url_do_tuong_chu_luc": "TFT_Item_TitansResolve.png",
+              "so_tran_do_tuong_chu_luc": "",
+              "id": "quyen_nang_khong_lo"
+            }
+          ]
+        },
+        {
+          "champions_id": "ryze",
+          "items_do_tuong_chu_luc": [
+            {
+              "name_do_tuong_chu_luc": "Găng Bảo Thạch",
+              "img_url_do_tuong_chu_luc": "TFT_Item_JeweledGauntlet.png",
+              "so_tran_do_tuong_chu_luc": "",
+              "id": "gang_bao_thach"
+            },
+            {
+              "name_do_tuong_chu_luc": "Nanh Nashor",
+              "img_url_do_tuong_chu_luc": "TFT_Item_Leviathan.png",
+              "so_tran_do_tuong_chu_luc": "",
+              "id": "nanh_nashor"
+            },
+            {
+              "name_do_tuong_chu_luc": "Nanh Nashor",
+              "img_url_do_tuong_chu_luc": "TFT_Item_Leviathan.png",
+              "so_tran_do_tuong_chu_luc": "",
+              "id": "nanh_nashor"
+            }
+          ]
+        }
+      ],
+      "tang_cuongs": [
+        [],
+        [],
+        []
+      ]
+    },
+    {
+      "stt": 9,
+      "id": "ionia_yone_1",
+      "copy_hex": "0234f37003535036c37236235a012000TFTSet16",
+      "tier_img": "icon-tier-S.png",
+      "comp_name": "Ionia Yone",
+      "comp_price": "117",
+      "tags": [
+        "Lv 9",
+        "Hard",
+        "Popular"
+      ],
+      "average_position": "3.22",
+      "top_1_rate": "14.95",
+      "top_4_rate": "77.57",
+      "pick_rate": "0.40",
+      "synergys": [
+        {
+          "trait_name": "Quỷ Kiếm",
+          "trait_id": "quy_kiem",
+          "trait_img": "Trait_Icon_9_Darkin.png",
+          "trait_count": "1"
+        },
+        {
+          "trait_name": "Đại Ca",
+          "trait_id": "dai_ca",
+          "trait_img": "Trait_Icon_4_Theboss.png",
+          "trait_count": "1"
+        },
+        {
+          "trait_name": "Kẻ Phá Xiềng",
+          "trait_id": "ke_pha_xieng",
+          "trait_img": "Trait_Icon_16_Chainbreaker.TFT_Set16.png",
+          "trait_count": "1"
+        },
+        {
+          "trait_name": "Giám Hộ",
+          "trait_id": "giam_ho",
+          "trait_img": "Trait_Icon_16_Chronokeeper.TFT_Set16.png",
+          "trait_count": "1"
+        },
+        {
+          "trait_name": "Ionia",
+          "trait_id": "ionia",
+          "trait_img": "Trait_Icon_16_Ionia.TFT_Set16.png",
+          "trait_count": "5"
+        },
+        {
+          "trait_name": "Darkin",
+          "trait_id": "darkin",
+          "trait_img": "Trait_Icon_16_Darkin.TFT_Set16.png",
+          "trait_count": "1"
+        },
+        {
+          "trait_name": "Đồ Tể",
+          "trait_id": "do_te",
+          "trait_img": "Trait_Icon_16_Slayer.png",
+          "trait_count": "2"
+        },
+        {
+          "trait_name": "Pháp Sư",
+          "trait_id": "phap_su",
+          "trait_img": "Trait_Icon_6_Arcanist.png",
+          "trait_count": "2"
+        },
+        {
+          "trait_name": "Yordle",
+          "trait_id": "yordle",
+          "trait_img": "Trait_Icon_16_Yordle.TFT_Set16.png",
+          "trait_count": "2"
+        },
+        {
+          "trait_name": "Vệ Quân",
+          "trait_id": "ve_quan",
+          "trait_img": "Trait_Icon_16_Defender.png",
+          "trait_count": "2"
+        },
+        {
+          "trait_name": "Đấu Sĩ",
+          "trait_id": "dau_si",
+          "trait_img": "Trait_Icon_16_Bruiser.TFT_Set16.png",
+          "trait_count": "2"
+        },
+        {
+          "trait_name": "Thuật Sĩ",
+          "trait_id": "thuat_si",
+          "trait_img": "Trait_Icon_16_Invoker.png",
+          "trait_count": "2"
+        }
+      ],
+      "champs": [
+        {
+          "champions_id": "ahri",
+          "champions_name": "Ahri",
+          "champ_img": "tft16_ahri.tft_set16.png",
+          "star": 0,
+          "champ_main_geleral_level": null,
+          "items": [],
+          "khoa_tuong": false
+        },
+        {
+          "champions_id": "kennen",
+          "champions_name": "Kennen",
+          "champ_img": "tft16_kennen.tft_set16.png",
+          "star": 0,
+          "champ_main_geleral_level": null,
+          "items": [],
+          "khoa_tuong": true
+        },
+        {
+          "champions_id": "kobuko_&_yuumi",
+          "champions_name": "Kobuko & Yuumi",
+          "champ_img": "tft16_kobuko.tft_set16.png",
+          "star": 0,
+          "champ_main_geleral_level": null,
+          "items": [],
+          "khoa_tuong": true
+        },
+        {
+          "champions_id": "ngo_khong",
+          "champions_name": "Ngộ Không",
+          "champ_img": "tft16_wukong.tft_set16.png",
+          "star": 0,
+          "champ_main_geleral_level": "2nd",
+          "items": [
+            {
+              "item_img": "TFT_Item_RedBuff.png",
+              "item_name": "Áo Choàng Lửa"
+            },
+            {
+              "item_img": "TFT_Item_Redemption.png",
+              "item_name": "Giáp Tâm Linh"
+            },
+            {
+              "item_img": "TFT_Item_SpectralGauntlet.png",
+              "item_name": "Giáp Vai Nguyệt Thần"
+            }
+          ],
+          "khoa_tuong": false
+        },
+        {
+          "champions_id": "yone",
+          "champions_name": "Yone",
+          "champ_img": "tft16_yone.tft_set16.png",
+          "star": 0,
+          "champ_main_geleral_level": "1st",
+          "items": [
+            {
+              "item_img": "TFT_Item_Bloodthirster.png",
+              "item_name": "Huyết Kiếm"
+            },
+            {
+              "item_img": "TFT_Item_GuinsoosRageblade.png",
+              "item_name": "Cuồng Đao Guinsoo"
+            },
+            {
+              "item_img": "TFT_Item_TitansResolve.png",
+              "item_name": "Quyền Năng Khổng Lồ"
+            }
+          ],
+          "khoa_tuong": true
+        },
+        {
+          "champions_id": "aatrox",
+          "champions_name": "Aatrox",
+          "champ_img": "tft16_aatrox.tft_set16.png",
+          "star": 0,
+          "champ_main_geleral_level": null,
+          "items": [],
+          "khoa_tuong": true
+        },
+        {
+          "champions_id": "sett",
+          "champions_name": "Sett",
+          "champ_img": "tft16_sett.tft_set16.png",
+          "star": 0,
+          "champ_main_geleral_level": null,
+          "items": [
+            {
+              "item_img": "TFT_Item_JeweledGauntlet.png",
+              "item_name": "Găng Bảo Thạch"
+            },
+            {
+              "item_img": "TFT_Item_PowerGauntlet.png",
+              "item_name": "Chùy Đoản Côn"
+            },
+            {
+              "item_img": "TFT_Item_UnstableConcoction.png",
+              "item_name": "Bàn Tay Công Lý"
+            }
+          ],
+          "khoa_tuong": true
+        },
+        {
+          "champions_id": "zilean",
+          "champions_name": "Zilean",
+          "champ_img": "tft16_zilean.tft_set16.png",
+          "star": 0,
+          "champ_main_geleral_level": null,
+          "items": [],
+          "khoa_tuong": false
+        },
+        {
+          "champions_id": "sylas",
+          "champions_name": "Sylas",
+          "champ_img": "tft16_sylas.tft_set16.png",
+          "star": 0,
+          "champ_main_geleral_level": "3rd",
+          "items": [
+            {
+              "item_img": "TFT_Item_GuardianAngel.png",
+              "item_name": "Áo Choàng Bóng Tối"
+            },
+            {
+              "item_img": "TFT_Item_JeweledGauntlet.png",
+              "item_name": "Găng Bảo Thạch"
+            },
+            {
+              "item_img": "TFT_Item_UnstableConcoction.png",
+              "item_name": "Bàn Tay Công Lý"
+            }
+          ],
+          "khoa_tuong": true
+        }
+      ],
+      "items": [
+        {
+          "name_build_do": "Áo Choàng Lửa",
+          "img_name_build_do": "TFT_Item_RedBuff.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_ChainVest.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_GiantsBelt.png"
+        },
+        {
+          "name_build_do": "Giáp Tâm Linh",
+          "img_name_build_do": "TFT_Item_Redemption.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_TearOfTheGoddess.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_GiantsBelt.png"
+        },
+        {
+          "name_build_do": "Giáp Vai Nguyệt Thần",
+          "img_name_build_do": "TFT_Item_SpectralGauntlet.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_NegatronCloak.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_GiantsBelt.png"
+        },
+        {
+          "name_build_do": "Huyết Kiếm",
+          "img_name_build_do": "TFT_Item_Bloodthirster.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_BFSword.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_NegatronCloak.png"
+        },
+        {
+          "name_build_do": "Cuồng Đao Guinsoo",
+          "img_name_build_do": "TFT_Item_GuinsoosRageblade.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_RecurveBow.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_NeedlesslyLargeRod.png"
+        },
+        {
+          "name_build_do": "Quyền Năng Khổng Lồ",
+          "img_name_build_do": "TFT_Item_TitansResolve.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_ChainVest.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_RecurveBow.png"
+        },
+        {
+          "name_build_do": "Găng Bảo Thạch",
+          "img_name_build_do": "TFT_Item_JeweledGauntlet.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_NeedlesslyLargeRod.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_SparringGloves.png"
+        },
+        {
+          "name_build_do": "Chùy Đoản Côn",
+          "img_name_build_do": "TFT_Item_PowerGauntlet.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_GiantsBelt.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_SparringGloves.png"
+        },
+        {
+          "name_build_do": "Bàn Tay Công Lý",
+          "img_name_build_do": "TFT_Item_UnstableConcoction.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_TearOfTheGoddess.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_SparringGloves.png"
+        },
+        {
+          "name_build_do": "Áo Choàng Bóng Tối",
+          "img_name_build_do": "TFT_Item_GuardianAngel.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_BFSword.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_ChainVest.png"
+        },
+        {
+          "name_build_do": "Găng Bảo Thạch",
+          "img_name_build_do": "TFT_Item_JeweledGauntlet.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_NeedlesslyLargeRod.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_SparringGloves.png"
+        },
+        {
+          "name_build_do": "Bàn Tay Công Lý",
+          "img_name_build_do": "TFT_Item_UnstableConcoction.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_TearOfTheGoddess.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_SparringGloves.png"
+        }
+      ],
+      "img_url_huong_dan_dau_game": "huong_dan_dau_game_vi_8.png",
+      "img_url_huong_dan_giua_game": "huong_dan_giua_game_vi_8.png",
+      "img_url_huong_dan_cuoi_game": "huong_dan_cuoi_game_vi_8.png",
+      "img_huong_dan_tuong_tung_level": [
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_jhin.tft_set16.png",
+          "img_name": "Jhin",
+          "champ_id": "jhin"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_shen.tft_set16.png",
+          "img_name": "Shen",
+          "champ_id": "shen"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_xinzhao.tft_set16.png",
+          "img_name": "Xin Zhao",
+          "champ_id": "xin_zhao"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_yasuo.tft_set16.png",
+          "img_name": "Yasuo",
+          "champ_id": "yasuo"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_jhin.tft_set16.png",
+          "img_name": "Jhin",
+          "champ_id": "jhin"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_shen.tft_set16.png",
+          "img_name": "Shen",
+          "champ_id": "shen"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_xinzhao.tft_set16.png",
+          "img_name": "Xin Zhao",
+          "champ_id": "xin_zhao"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_yasuo.tft_set16.png",
+          "img_name": "Yasuo",
+          "champ_id": "yasuo"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_kennen.tft_set16.png",
+          "img_name": "Kennen",
+          "champ_id": "kennen"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_jhin.tft_set16.png",
+          "img_name": "Jhin",
+          "champ_id": "jhin"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_shen.tft_set16.png",
+          "img_name": "Shen",
+          "champ_id": "shen"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_xinzhao.tft_set16.png",
+          "img_name": "Xin Zhao",
+          "champ_id": "xin_zhao"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_yasuo.tft_set16.png",
+          "img_name": "Yasuo",
+          "champ_id": "yasuo"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_ahri.tft_set16.png",
+          "img_name": "Ahri",
+          "champ_id": "ahri"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_kennen.tft_set16.png",
+          "img_name": "Kennen",
+          "champ_id": "kennen"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_shen.tft_set16.png",
+          "img_name": "Shen",
+          "champ_id": "shen"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_neeko.tft_set16.png",
+          "img_name": "Neeko",
+          "champ_id": "neeko"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_yasuo.tft_set16.png",
+          "img_name": "Yasuo",
+          "champ_id": "yasuo"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_ahri.tft_set16.png",
+          "img_name": "Ahri",
+          "champ_id": "ahri"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_kennen.tft_set16.png",
+          "img_name": "Kennen",
+          "champ_id": "kennen"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_wukong.tft_set16.png",
+          "img_name": "Ngộ Không",
+          "champ_id": "ngo_khong"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_yone.tft_set16.png",
+          "img_name": "Yone",
+          "champ_id": "yone"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_shen.tft_set16.png",
+          "img_name": "Shen",
+          "champ_id": "shen"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_neeko.tft_set16.png",
+          "img_name": "Neeko",
+          "champ_id": "neeko"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_yasuo.tft_set16.png",
+          "img_name": "Yasuo",
+          "champ_id": "yasuo"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_ahri.tft_set16.png",
+          "img_name": "Ahri",
+          "champ_id": "ahri"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_kennen.tft_set16.png",
+          "img_name": "Kennen",
+          "champ_id": "kennen"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_wukong.tft_set16.png",
+          "img_name": "Ngộ Không",
+          "champ_id": "ngo_khong"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_yone.tft_set16.png",
+          "img_name": "Yone",
+          "champ_id": "yone"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_sett.tft_set16.png",
+          "img_name": "Sett",
+          "champ_id": "sett"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_ahri.tft_set16.png",
+          "img_name": "Ahri",
+          "champ_id": "ahri"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_kennen.tft_set16.png",
+          "img_name": "Kennen",
+          "champ_id": "kennen"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_kobuko.tft_set16.png",
+          "img_name": "Kobuko & Yuumi",
+          "champ_id": "kobuko_&_yuumi"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_wukong.tft_set16.png",
+          "img_name": "Ngộ Không",
+          "champ_id": "ngo_khong"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_yone.tft_set16.png",
+          "img_name": "Yone",
+          "champ_id": "yone"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_aatrox.tft_set16.png",
+          "img_name": "Aatrox",
+          "champ_id": "aatrox"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_sett.tft_set16.png",
+          "img_name": "Sett",
+          "champ_id": "sett"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_zilean.tft_set16.png",
+          "img_name": "Zilean",
+          "champ_id": "zilean"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_sylas.tft_set16.png",
+          "img_name": "Sylas",
+          "champ_id": "sylas"
+        }
+      ],
+      "ti_le_thang_for_levels": [
+        {
+          "ti_le_thang": "42.25%"
+        },
+        {
+          "ti_le_thang": "40.42%"
+        },
+        {
+          "ti_le_thang": "38.74%"
+        },
+        {
+          "ti_le_thang": "58.15%"
+        },
+        {
+          "ti_le_thang": "52.85%"
+        },
+        {
+          "ti_le_thang": "44.39%"
+        }
+      ],
+      "tuong_chu_lucs": [
+        {
+          "champions_id": "ngo_khong",
+          "items_do_tuong_chu_luc": [
+            {
+              "name_do_tuong_chu_luc": "Áo Choàng Lửa",
+              "img_url_do_tuong_chu_luc": "TFT_Item_RedBuff.png",
+              "so_tran_do_tuong_chu_luc": "",
+              "id": "ao_choang_lua"
+            },
+            {
+              "name_do_tuong_chu_luc": "Giáp Tâm Linh",
+              "img_url_do_tuong_chu_luc": "TFT_Item_Redemption.png",
+              "so_tran_do_tuong_chu_luc": "",
+              "id": "giap_tam_linh"
+            },
+            {
+              "name_do_tuong_chu_luc": "Giáp Vai Nguyệt Thần",
+              "img_url_do_tuong_chu_luc": "TFT_Item_SpectralGauntlet.png",
+              "so_tran_do_tuong_chu_luc": "",
+              "id": "giap_vai_nguyet_than"
+            }
+          ]
+        },
+        {
+          "champions_id": "yone",
+          "items_do_tuong_chu_luc": [
+            {
+              "name_do_tuong_chu_luc": "Huyết Kiếm",
+              "img_url_do_tuong_chu_luc": "TFT_Item_Bloodthirster.png",
+              "so_tran_do_tuong_chu_luc": "",
+              "id": "huyet_kiem"
+            },
+            {
+              "name_do_tuong_chu_luc": "Cuồng Đao Guinsoo",
+              "img_url_do_tuong_chu_luc": "TFT_Item_GuinsoosRageblade.png",
+              "so_tran_do_tuong_chu_luc": "",
+              "id": "cuong_dao_guinsoo"
+            },
+            {
+              "name_do_tuong_chu_luc": "Quyền Năng Khổng Lồ",
+              "img_url_do_tuong_chu_luc": "TFT_Item_TitansResolve.png",
+              "so_tran_do_tuong_chu_luc": "",
+              "id": "quyen_nang_khong_lo"
+            }
+          ]
+        },
+        {
+          "champions_id": "sylas",
+          "items_do_tuong_chu_luc": [
+            {
+              "name_do_tuong_chu_luc": "Áo Choàng Bóng Tối",
+              "img_url_do_tuong_chu_luc": "TFT_Item_GuardianAngel.png",
+              "so_tran_do_tuong_chu_luc": "",
+              "id": "ao_choang_bong_toi"
+            },
+            {
+              "name_do_tuong_chu_luc": "Găng Bảo Thạch",
+              "img_url_do_tuong_chu_luc": "TFT_Item_JeweledGauntlet.png",
+              "so_tran_do_tuong_chu_luc": "",
+              "id": "gang_bao_thach"
+            },
+            {
+              "name_do_tuong_chu_luc": "Bàn Tay Công Lý",
+              "img_url_do_tuong_chu_luc": "TFT_Item_UnstableConcoction.png",
+              "so_tran_do_tuong_chu_luc": "",
+              "id": "ban_tay_cong_ly"
+            }
+          ]
+        }
+      ],
+      "tang_cuongs": [
+        [],
+        [],
+        []
+      ]
+    },
+    {
+      "stt": 10,
+      "id": "targon_aphelios",
+      "copy_hex": "0233501834334b020014025336000000TFTSet16",
+      "tier_img": "icon-tier-A.png",
+      "comp_name": "Targon Aphelios",
+      "comp_price": "69",
+      "tags": [
+        "Lv 6",
+        "Easy",
+        "Popular"
+      ],
+      "average_position": "3.60",
+      "top_1_rate": "10.07",
+      "top_4_rate": "71.22",
+      "pick_rate": "0.52",
+      "synergys": [
+        {
+          "trait_name": "Ông Bụt",
+          "trait_id": "ong_but",
+          "trait_img": "Trait_Icon_16_Caretaker.TFT_Set16.png",
+          "trait_count": "1"
+        },
+        {
+          "trait_name": "Nữ Thợ Săn",
+          "trait_id": "nu_tho_san",
+          "trait_img": "Trait_Icon_16_Huntress.TFT_Set16.png",
+          "trait_count": "1"
+        },
+        {
+          "trait_name": "Targon",
+          "trait_id": "targon",
+          "trait_img": "Trait_Icon_16_Targon.TFT_Set16.png",
+          "trait_count": "2"
+        },
+        {
+          "trait_name": "Piltover",
+          "trait_id": "piltover",
+          "trait_img": "Trait_Icon_16_Piltover.TFT_Set16.png",
+          "trait_count": "2"
+        },
+        {
+          "trait_name": "Pháp Sư",
+          "trait_id": "phap_su",
+          "trait_img": "Trait_Icon_6_Arcanist.png",
+          "trait_count": "2"
+        },
+        {
+          "trait_name": "Vệ Quân",
+          "trait_id": "ve_quan",
+          "trait_img": "Trait_Icon_16_Defender.png",
+          "trait_count": "2"
+        }
+      ],
+      "champs": [
+        {
+          "champions_id": "aphelios",
+          "champions_name": "Aphelios",
+          "champ_img": "tft16_aphelios.tft_set16.png",
+          "star": 3,
+          "champ_main_geleral_level": "1st",
+          "items": [
+            {
+              "item_img": "TFT_Item_GuinsoosRageblade.png",
+              "item_name": "Cuồng Đao Guinsoo"
+            },
+            {
+              "item_img": "TFT_Item_InfinityEdge.png",
+              "item_name": "Vô Cực Kiếm"
+            },
+            {
+              "item_img": "TFT_Item_RunaansHurricane.png",
+              "item_name": "Thịnh Nộ Thủy Quái"
+            }
+          ],
+          "khoa_tuong": false
+        },
+        {
+          "champions_id": "bard",
+          "champions_name": "Bard",
+          "champ_img": "tft16_bard.tft_set16.png",
+          "star": 3,
+          "champ_main_geleral_level": "3rd",
+          "items": [
+            {
+              "item_img": "TFT_Item_ArchangelsStaff.png",
+              "item_name": "Quyền Trượng Thiên Thần"
+            },
+            {
+              "item_img": "TFT_Item_SpearOfShojin.png",
+              "item_name": "Ngọn Giáo Shojin"
+            },
+            {
+              "item_img": "TFT_Item_StatikkShiv.png",
+              "item_name": "Trượng Hư Vô"
+            }
+          ],
+          "khoa_tuong": true
+        },
+        {
+          "champions_id": "neeko",
+          "champions_name": "Neeko",
+          "champ_img": "tft16_neeko.tft_set16.png",
+          "star": 3,
+          "champ_main_geleral_level": "2nd",
+          "items": [
+            {
+              "item_img": "TFT_Item_BrambleVest.png",
+              "item_name": "Áo Choàng Gai"
+            },
+            {
+              "item_img": "TFT_Item_RedBuff.png",
+              "item_name": "Áo Choàng Lửa"
+            },
+            {
+              "item_img": "TFT_Item_Redemption.png",
+              "item_name": "Giáp Tâm Linh"
+            }
+          ],
+          "khoa_tuong": false
+        },
+        {
+          "champions_id": "vi",
+          "champions_name": "Vi",
+          "champ_img": "tft16_vi.tft_set16.png",
+          "star": 3,
+          "champ_main_geleral_level": null,
+          "items": [],
+          "khoa_tuong": false
+        },
+        {
+          "champions_id": "loris",
+          "champions_name": "Loris",
+          "champ_img": "tft16_loris.tft_set16.png",
+          "star": 3,
+          "champ_main_geleral_level": null,
+          "items": [],
+          "khoa_tuong": false
+        },
+        {
+          "champions_id": "nidalee",
+          "champions_name": "Nidalee",
+          "champ_img": "tft16_nidalee.tft_set16.png",
+          "star": 0,
+          "champ_main_geleral_level": null,
+          "items": [
+            {
+              "item_img": "TFT_Item_JeweledGauntlet.png",
+              "item_name": "Găng Bảo Thạch"
+            },
+            {
+              "item_img": "TFT_Item_PowerGauntlet.png",
+              "item_name": "Chùy Đoản Côn"
+            },
+            {
+              "item_img": "TFT_Item_UnstableConcoction.png",
+              "item_name": "Bàn Tay Công Lý"
+            }
+          ],
+          "khoa_tuong": true
+        },
+        {
+          "champions_id": "swain",
+          "champions_name": "Swain",
+          "champ_img": "tft16_swain.tft_set16.png",
+          "star": 0,
+          "champ_main_geleral_level": null,
+          "items": [],
+          "khoa_tuong": false
+        },
+        {
+          "champions_id": "taric",
+          "champions_name": "Taric",
+          "champ_img": "tft16_taric.tft_set16.png",
+          "star": 0,
+          "champ_main_geleral_level": null,
+          "items": [],
+          "khoa_tuong": false
+        }
+      ],
+      "items": [
+        {
+          "name_build_do": "Cuồng Đao Guinsoo",
+          "img_name_build_do": "TFT_Item_GuinsoosRageblade.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_RecurveBow.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_NeedlesslyLargeRod.png"
+        },
+        {
+          "name_build_do": "Vô Cực Kiếm",
+          "img_name_build_do": "TFT_Item_InfinityEdge.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_BFSword.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_SparringGloves.png"
+        },
+        {
+          "name_build_do": "Thịnh Nộ Thủy Quái",
+          "img_name_build_do": "TFT_Item_RunaansHurricane.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_NegatronCloak.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_RecurveBow.png"
+        },
+        {
+          "name_build_do": "Quyền Trượng Thiên Thần",
+          "img_name_build_do": "TFT_Item_ArchangelsStaff.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_NeedlesslyLargeRod.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_TearOfTheGoddess.png"
+        },
+        {
+          "name_build_do": "Ngọn Giáo Shojin",
+          "img_name_build_do": "TFT_Item_SpearOfShojin.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_BFSword.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_TearOfTheGoddess.png"
+        },
+        {
+          "name_build_do": "Trượng Hư Vô",
+          "img_name_build_do": "TFT_Item_StatikkShiv.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_RecurveBow.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_TearOfTheGoddess.png"
+        },
+        {
+          "name_build_do": "Áo Choàng Gai",
+          "img_name_build_do": "TFT_Item_BrambleVest.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_ChainVest.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_ChainVest.png"
+        },
+        {
+          "name_build_do": "Áo Choàng Lửa",
+          "img_name_build_do": "TFT_Item_RedBuff.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_ChainVest.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_GiantsBelt.png"
+        },
+        {
+          "name_build_do": "Giáp Tâm Linh",
+          "img_name_build_do": "TFT_Item_Redemption.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_TearOfTheGoddess.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_GiantsBelt.png"
+        },
+        {
+          "name_build_do": "Găng Bảo Thạch",
+          "img_name_build_do": "TFT_Item_JeweledGauntlet.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_NeedlesslyLargeRod.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_SparringGloves.png"
+        },
+        {
+          "name_build_do": "Chùy Đoản Côn",
+          "img_name_build_do": "TFT_Item_PowerGauntlet.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_GiantsBelt.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_SparringGloves.png"
+        },
+        {
+          "name_build_do": "Bàn Tay Công Lý",
+          "img_name_build_do": "TFT_Item_UnstableConcoction.png",
+          "img_name_build_do_thanh_phan_one": "TFT_Item_TearOfTheGoddess.png",
+          "img_name_build_do_thanh_phan_two": "TFT_Item_SparringGloves.png"
+        }
+      ],
+      "img_url_huong_dan_dau_game": "huong_dan_dau_game_vi_9.png",
+      "img_url_huong_dan_giua_game": "huong_dan_giua_game_vi_9.png",
+      "img_url_huong_dan_cuoi_game": "huong_dan_cuoi_game_vi_9.png",
+      "img_huong_dan_tuong_tung_level": [
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_aphelios.tft_set16.png",
+          "img_name": "Aphelios",
+          "champ_id": "aphelios"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_bard.tft_set16.png",
+          "img_name": "Bard",
+          "champ_id": "bard"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_neeko.tft_set16.png",
+          "img_name": "Neeko",
+          "champ_id": "neeko"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_vi.tft_set16.png",
+          "img_name": "Vi",
+          "champ_id": "vi"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_aphelios.tft_set16.png",
+          "img_name": "Aphelios",
+          "champ_id": "aphelios"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_bard.tft_set16.png",
+          "img_name": "Bard",
+          "champ_id": "bard"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_neeko.tft_set16.png",
+          "img_name": "Neeko",
+          "champ_id": "neeko"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_vi.tft_set16.png",
+          "img_name": "Vi",
+          "champ_id": "vi"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_loris.tft_set16.png",
+          "img_name": "Loris",
+          "champ_id": "loris"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_aphelios.tft_set16.png",
+          "img_name": "Aphelios",
+          "champ_id": "aphelios"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_bard.tft_set16.png",
+          "img_name": "Bard",
+          "champ_id": "bard"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_neeko.tft_set16.png",
+          "img_name": "Neeko",
+          "champ_id": "neeko"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_vi.tft_set16.png",
+          "img_name": "Vi",
+          "champ_id": "vi"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_loris.tft_set16.png",
+          "img_name": "Loris",
+          "champ_id": "loris"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_swain.tft_set16.png",
+          "img_name": "Swain",
+          "champ_id": "swain"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_aphelios.tft_set16.png",
+          "img_name": "Aphelios",
+          "champ_id": "aphelios"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_bard.tft_set16.png",
+          "img_name": "Bard",
+          "champ_id": "bard"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_neeko.tft_set16.png",
+          "img_name": "Neeko",
+          "champ_id": "neeko"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_vi.tft_set16.png",
+          "img_name": "Vi",
+          "champ_id": "vi"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_loris.tft_set16.png",
+          "img_name": "Loris",
+          "champ_id": "loris"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_nidalee.tft_set16.png",
+          "img_name": "Nidalee",
+          "champ_id": "nidalee"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_swain.tft_set16.png",
+          "img_name": "Swain",
+          "champ_id": "swain"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_aphelios.tft_set16.png",
+          "img_name": "Aphelios",
+          "champ_id": "aphelios"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_bard.tft_set16.png",
+          "img_name": "Bard",
+          "champ_id": "bard"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_neeko.tft_set16.png",
+          "img_name": "Neeko",
+          "champ_id": "neeko"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_vi.tft_set16.png",
+          "img_name": "Vi",
+          "champ_id": "vi"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_loris.tft_set16.png",
+          "img_name": "Loris",
+          "champ_id": "loris"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_nidalee.tft_set16.png",
+          "img_name": "Nidalee",
+          "champ_id": "nidalee"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_swain.tft_set16.png",
+          "img_name": "Swain",
+          "champ_id": "swain"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_taric.tft_set16.png",
+          "img_name": "Taric",
+          "champ_id": "taric"
+        }
+      ],
+      "ti_le_thang_for_levels": [
+        {
+          "ti_le_thang": "51.04%"
+        },
+        {
+          "ti_le_thang": "63.50%"
+        },
+        {
+          "ti_le_thang": "55.32%"
+        },
+        {
+          "ti_le_thang": "41.15%"
+        },
+        {
+          "ti_le_thang": "37.64%"
+        }
+      ],
+      "tuong_chu_lucs": [
+        {
+          "champions_id": "aphelios",
+          "items_do_tuong_chu_luc": [
+            {
+              "name_do_tuong_chu_luc": "Cuồng Đao Guinsoo",
+              "img_url_do_tuong_chu_luc": "TFT_Item_GuinsoosRageblade.png",
+              "so_tran_do_tuong_chu_luc": "",
+              "id": "cuong_dao_guinsoo"
+            },
+            {
+              "name_do_tuong_chu_luc": "Vô Cực Kiếm",
+              "img_url_do_tuong_chu_luc": "TFT_Item_InfinityEdge.png",
+              "so_tran_do_tuong_chu_luc": "",
+              "id": "vo_cuc_kiem"
+            },
+            {
+              "name_do_tuong_chu_luc": "Thịnh Nộ Thủy Quái",
+              "img_url_do_tuong_chu_luc": "TFT_Item_RunaansHurricane.png",
+              "so_tran_do_tuong_chu_luc": "",
+              "id": "thinh_no_thuy_quai"
+            }
+          ]
+        },
+        {
+          "champions_id": "bard",
+          "items_do_tuong_chu_luc": [
+            {
+              "name_do_tuong_chu_luc": "Quyền Trượng Thiên Thần",
+              "img_url_do_tuong_chu_luc": "TFT_Item_ArchangelsStaff.png",
+              "so_tran_do_tuong_chu_luc": "",
+              "id": "quyen_truong_thien_than"
+            },
+            {
+              "name_do_tuong_chu_luc": "Ngọn Giáo Shojin",
+              "img_url_do_tuong_chu_luc": "TFT_Item_SpearOfShojin.png",
+              "so_tran_do_tuong_chu_luc": "",
+              "id": "ngon_giao_shojin"
+            },
+            {
+              "name_do_tuong_chu_luc": "Trượng Hư Vô",
+              "img_url_do_tuong_chu_luc": "TFT_Item_StatikkShiv.png",
+              "so_tran_do_tuong_chu_luc": "",
+              "id": "truong_hu_vo"
+            }
+          ]
+        },
+        {
+          "champions_id": "neeko",
+          "items_do_tuong_chu_luc": [
+            {
+              "name_do_tuong_chu_luc": "Áo Choàng Gai",
+              "img_url_do_tuong_chu_luc": "TFT_Item_BrambleVest.png",
+              "so_tran_do_tuong_chu_luc": "",
+              "id": "ao_choang_gai"
+            },
+            {
+              "name_do_tuong_chu_luc": "Áo Choàng Lửa",
+              "img_url_do_tuong_chu_luc": "TFT_Item_RedBuff.png",
+              "so_tran_do_tuong_chu_luc": "",
+              "id": "ao_choang_lua"
+            },
+            {
+              "name_do_tuong_chu_luc": "Giáp Tâm Linh",
+              "img_url_do_tuong_chu_luc": "TFT_Item_Redemption.png",
+              "so_tran_do_tuong_chu_luc": "",
+              "id": "giap_tam_linh"
+            }
+          ]
+        }
+      ],
+      "tang_cuongs": [
+        [],
+        [],
+        []
+      ]
+    },
+    {
+      "stt": 11,
       "id": "yordle_veigar",
       "copy_hex": "022e032136f32037003536e369000000TFTSet16",
       "tier_img": "icon-tier-D.png",
@@ -2217,10 +5707,10 @@
         "Normal",
         "Popular"
       ],
-      "average_position": "5.76",
-      "top_1_rate": "4.71",
-      "top_4_rate": "22.94",
-      "pick_rate": "1.07",
+      "average_position": "5.14",
+      "top_1_rate": "8.08",
+      "top_4_rate": "36.34",
+      "pick_rate": "1.57",
       "synergys": [
         {
           "trait_name": "Yordle",
@@ -2431,9 +5921,9 @@
           "img_name_build_do_thanh_phan_two": "TFT_Item_TearOfTheGoddess.png"
         }
       ],
-      "img_url_huong_dan_dau_game": "huong_dan_dau_game_vi_4.png",
-      "img_url_huong_dan_giua_game": "huong_dan_giua_game_vi_4.png",
-      "img_url_huong_dan_cuoi_game": "huong_dan_cuoi_game_vi_4.png",
+      "img_url_huong_dan_dau_game": "huong_dan_dau_game_vi_10.png",
+      "img_url_huong_dan_giua_game": "huong_dan_giua_game_vi_10.png",
+      "img_url_huong_dan_cuoi_game": "huong_dan_cuoi_game_vi_10.png",
       "img_huong_dan_tuong_tung_level": [
         {
           "img_name_huong_dan_tuong_tung_level": "tft16_lulu.tft_set16.png",
@@ -2629,26 +6119,79 @@
           "img_name_huong_dan_tuong_tung_level": "tft16_ziggs.tft_set16.png",
           "img_name": "Ziggs",
           "champ_id": "ziggs"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_lulu.tft_set16.png",
+          "img_name": "Lulu",
+          "champ_id": "lulu"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_rumble.tft_set16.png",
+          "img_name": "Rumble",
+          "champ_id": "rumble"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_poppy.tft_set16.png",
+          "img_name": "Poppy",
+          "champ_id": "poppy"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_teemo.tft_set16.png",
+          "img_name": "Teemo",
+          "champ_id": "teemo"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_tristana.tft_set16.png",
+          "img_name": "Tristana",
+          "champ_id": "tristana"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_kennen.tft_set16.png",
+          "img_name": "Kennen",
+          "champ_id": "kennen"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_kobuko.tft_set16.png",
+          "img_name": "Kobuko & Yuumi",
+          "champ_id": "kobuko_&_yuumi"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_fizz.tft_set16.png",
+          "img_name": "Fizz",
+          "champ_id": "fizz"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_veigar.tft_set16.png",
+          "img_name": "Veigar",
+          "champ_id": "veigar"
+        },
+        {
+          "img_name_huong_dan_tuong_tung_level": "tft16_ziggs.tft_set16.png",
+          "img_name": "Ziggs",
+          "champ_id": "ziggs"
         }
       ],
       "ti_le_thang_for_levels": [
         {
-          "ti_le_thang": "36.47%"
+          "ti_le_thang": "36.48%"
         },
         {
-          "ti_le_thang": "50.47%"
+          "ti_le_thang": "50.27%"
         },
         {
-          "ti_le_thang": "53.93%"
+          "ti_le_thang": "53.94%"
         },
         {
-          "ti_le_thang": "41.09%"
+          "ti_le_thang": "41.05%"
         },
         {
-          "ti_le_thang": "38.96%"
+          "ti_le_thang": "38.97%"
         },
         {
-          "ti_le_thang": "42.17%"
+          "ti_le_thang": "42.18%"
+        },
+        {
+          "ti_le_thang": "67.83%"
         }
       ],
       "tuong_chu_lucs": [
@@ -2731,7 +6274,23 @@
   ],
   "champions_by_gold": [
     [],
-    [],
+    [
+      {
+        "id": "aphelios",
+        "name": "Aphelios",
+        "img_url": "tft16_aphelios.tft_set16.png"
+      },
+      {
+        "id": "bard",
+        "name": "Bard",
+        "img_url": "tft16_bard.tft_set16.png"
+      },
+      {
+        "id": "neeko",
+        "name": "Neeko",
+        "img_url": "tft16_neeko.tft_set16.png"
+      }
+    ],
     [
       {
         "id": "ahri",
@@ -2781,9 +6340,24 @@
         "img_url": "tft16_fizz.tft_set16.png"
       },
       {
+        "id": "kai'sa",
+        "name": "Kai'Sa",
+        "img_url": "tft16_kaisa.tft_set16.png"
+      },
+      {
         "id": "kalista",
         "name": "Kalista",
         "img_url": "tft16_kalista.tft_set16.png"
+      },
+      {
+        "id": "lissandra",
+        "name": "Lissandra",
+        "img_url": "tft16_lissandra.tft_set16.png"
+      },
+      {
+        "id": "rift_herald",
+        "name": "Rift Herald",
+        "img_url": "tft16_riftherald_splash_tile_0.tft_set16.png"
       },
       {
         "id": "veigar",
@@ -2796,6 +6370,11 @@
         "img_url": "tft16_warwick.tft_set16.png"
       },
       {
+        "id": "wukong",
+        "name": "Wukong",
+        "img_url": "tft16_wukong.tft_set16.png"
+      },
+      {
         "id": "yone",
         "name": "Yone",
         "img_url": "tft16_yone.tft_set16.png"
@@ -2806,6 +6385,34 @@
         "id": "thresh",
         "name": "Thresh",
         "img_url": "tft16_thresh.tft_set16.png"
+      },
+      {
+        "id": "volibear",
+        "name": "Volibear",
+        "img_url": "tft16_volibear.tft_set16.png"
+      },
+      {
+        "id": "zilean",
+        "name": "Zilean",
+        "img_url": "tft16_zilean.tft_set16.png"
+      }
+    ],
+    [],
+    [
+      {
+        "id": "baron_nashor",
+        "name": "Baron Nashor",
+        "img_url": "tft16_baronnashor.tft_set16.png"
+      },
+      {
+        "id": "ryze",
+        "name": "Ryze",
+        "img_url": "tft16_ryze.tft_set16.png"
+      },
+      {
+        "id": "sylas",
+        "name": "Sylas",
+        "img_url": "tft16_sylas.tft_set16.png"
       }
     ]
   ]
