@@ -26029,6 +26029,7 @@
     ]
   },
   "champions_by_gold": [
+    [],
     [
       {
         "id": "aphelios",
@@ -26113,6 +26114,11 @@
         "img_url": "tft16_malzahar.tft_set16.png"
       },
       {
+        "id": "milio",
+        "name": "Milio",
+        "img_url": "tft16_milio.tft_set16.png"
+      },
+      {
         "id": "nautilus",
         "name": "Nautilus",
         "img_url": "tft16_nautilus.tft_set16.png"
@@ -26121,11 +26127,6 @@
         "id": "sejuani",
         "name": "Sejuani",
         "img_url": "tft16_sejuani.tft_set16.png"
-      },
-      {
-        "id": "vayne",
-        "name": "Vayne",
-        "img_url": "tft16_vayne.tft_set16.png"
       },
       {
         "id": "zoe",
@@ -26158,11 +26159,6 @@
         "id": "fizz",
         "name": "Fizz",
         "img_url": "tft16_fizz.tft_set16.png"
-      },
-      {
-        "id": "garen",
-        "name": "Garen",
-        "img_url": "tft16_garen.tft_set16.png"
       },
       {
         "id": "kai'sa",
@@ -26203,6 +26199,11 @@
         "id": "seraphine",
         "name": "Seraphine",
         "img_url": "tft16_seraphine.tft_set16.png"
+      },
+      {
+        "id": "singed",
+        "name": "Singed",
+        "img_url": "tft16_singed.tft_set16.png"
       },
       {
         "id": "skarner",
@@ -26252,6 +26253,11 @@
         "img_url": "tft16_aatrox.tft_set16.png"
       },
       {
+        "id": "annie",
+        "name": "Annie",
+        "img_url": "tft16_annie.tft_set16.png"
+      },
+      {
         "id": "kindred",
         "name": "Kindred",
         "img_url": "tft16_kindred.tft_set16.png"
@@ -26265,11 +26271,6 @@
         "id": "mel",
         "name": "Mel",
         "img_url": "tft16_mel.tft_set16.png"
-      },
-      {
-        "id": "sett",
-        "name": "Sett",
-        "img_url": "tft16_sett.tft_set16.png"
       },
       {
         "id": "t-hex",
@@ -26295,8 +26296,14 @@
         "id": "ziggs",
         "name": "Ziggs",
         "img_url": "tft16_ziggs.tft_set16.png"
+      },
+      {
+        "id": "zilean",
+        "name": "Zilean",
+        "img_url": "tft16_zilean.tft_set16.png"
       }
     ],
+    [],
     [
       {
         "id": "aurelion_sol",
@@ -26322,6 +26329,16 @@
         "id": "zaahen",
         "name": "Zaahen",
         "img_url": "tft16_zaahen.tft_set16.png"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "id": "tibbers",
+        "name": "Tibbers",
+        "img_url": "tft16_annietibbers.tft_set16.png"
       }
     ]
   ]
