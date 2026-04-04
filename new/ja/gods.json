@@ -1,0 +1,368 @@
+[
+    {
+        "name": "Ahri",
+        "of": "God of Opulence",
+        "offers": "Offers gold, XP, and reroll rewards.",
+        "image": "Ahri-GodOfOpulence.png",
+        "stages": [
+            {
+                "title": "Stage 2",
+                "values": [
+                    "6 gold",
+                    "8 XP",
+                    "5 Rerolls",
+                    "6 gold, maybe +1"
+                ]
+            },
+            {
+                "title": "Stage 3",
+                "values": [
+                    "8 gold",
+                    "7 Rerolls",
+                    "10 XP",
+                    "8 gold, maybe +2"
+                ]
+            },
+            {
+                "title": "Stage 4",
+                "values": [
+                    "12 gold",
+                    "8 Rerolls",
+                    "12 Gold, maybe +3"
+                ]
+            },
+            {
+                "title": "4-7 Reward",
+                "values": [
+                    "Gain 2 gold, 2 XP, and 2 rerolls each round"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Aurelion Sol",
+        "of": "God of Wonders",
+        "offers": "Offers economy and emblem rewards.",
+        "image": "AurelionSol-GodOfWonders.png",
+        "stages": [
+            {
+                "title": "Stage 2",
+                "values": [
+                    "Reach 50 gold to gain component anvil + 4 gold",
+                    "Field 6 non-unqiue traits to get a random emblem and a reforger"
+                ]
+            },
+            {
+                "title": "Stage 3",
+                "values": [
+                    "Star up a unit to get 10 gold",
+                    "Field 6 non-unqiue traits to get a random emblem and a reforger"
+                ]
+            },
+            {
+                "title": "Stage 4",
+                "values": [
+                    "Reach level 9 to get 20 gold"
+                ]
+            },
+            {
+                "title": "4-7 Reward",
+                "values": [
+                    "Choose one of three trials to prove yourself to Aurelion Sol"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Ekko",
+        "of": "God of Time",
+        "offers": "Offers delayed rewards and special loot.",
+        "image": "Ekko-GodOfTime.png",
+        "stages": [
+            {
+                "title": "Stage 2",
+                "values": [
+                    "Scuttle Puddle (+blue orb & 3 gold)",
+                    "Blessing at 30 HP (25g value)",
+                    "Spat in 4 rounds",
+                    "Artifact in 8 rounds",
+                    "4-cost in 3 rounds"
+                ]
+            },
+            {
+                "title": "Stage 3",
+                "values": [
+                    "Scuttle Puddle (+blue orb & 4 gold)",
+                    "Implant (20% AS)",
+                    "2x5 cost in 4 rounds",
+                    "Component anvil in 3 rounds"
+                ]
+            },
+            {
+                "title": "Stage 4",
+                "values": [
+                    "Artifact in 5 rounds",
+                    "Completed Anvil in 4 rounds",
+                    "2 gold every turn",
+                    "Full 5-cost shop in 3 rounds",
+                    "Implant (20% AS)"
+                ]
+            },
+            {
+                "title": "4-7 Reward",
+                "values": [
+                    "Gain the Anomaly item, which provides unique bonuses based on role"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Evelynn",
+        "of": "God of Temptation",
+        "offers": "Offers stronger rewards in exchange for Tactician health.",
+        "image": "Evelynn-GodOfTemptation.png",
+        "stages": [
+            {
+                "title": "Stage 2",
+                "values": [
+                    "8g, Lose 1 HP per",
+                    "2* 2 cost, -1HP",
+                    "2x lesser dupe, no shop 2 rounds"
+                ]
+            },
+            {
+                "title": "Stage 3",
+                "values": [
+                    "11g, Lose 1 HP Per",
+                    "Random emblem, -3HP",
+                    "15 gold no shop 2 rounds",
+                    "2* 3 cost and -2 HP",
+                    "3* 1 cost and -2 HP"
+                ]
+            },
+            {
+                "title": "Stage 4",
+                "values": [
+                    "14g, Lose 1 HP Per",
+                    "2* 4 cost and -3 HP",
+                    "Completed item -5 HP",
+                    "18 gold no shop 2 rounds"
+                ]
+            },
+            {
+                "title": "4-7 Reward",
+                "values": [
+                    "Your team gains 10% Durability. Lose an additional 1 health when you lose combat"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Kayle",
+        "of": "God of Order",
+        "offers": "Offers component item rewards.",
+        "image": "Kayle-GodOfOrder.png",
+        "stages": [
+            {
+                "title": "Stage 2",
+                "values": [
+                    "Random Component",
+                    "Sparring Glove",
+                    "Recurve Bow",
+                    "Tear of the Goddess"
+                ]
+            },
+            {
+                "title": "Stage 3",
+                "values": [
+                    "Random Component",
+                    "B.F. Sword",
+                    "Chain Vest",
+                    "Needlessly Large Rod",
+                    "Negatron Cloak"
+                ]
+            },
+            {
+                "title": "Stage 4",
+                "values": [
+                    "Random Component",
+                    "Sparring Glove",
+                    "Recurve Bow",
+                    "Tear of the Goddess",
+                    "B.F. Sword",
+                    "Chain Vest",
+                    "Needlessly Large Rod",
+                    "Negatron Cloak"
+                ]
+            },
+            {
+                "title": "4-7 Reward",
+                "values": [
+                    "Upgrade a random completed item to Radiant"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Soraka",
+        "of": "God of Stars",
+        "offers": "Offers health and health-based rewards.",
+        "image": "Soraka-GodOfStars.png",
+        "stages": [
+            {
+                "title": "Stage 2",
+                "values": [
+                    "8 HP, maybe 3g",
+                    "12 HP",
+                    "Giant's Belt"
+                ]
+            },
+            {
+                "title": "Stage 3",
+                "values": [
+                    "8 HP, maybe 5g",
+                    "12 HP",
+                    "Giant's Belt",
+                    "Implant (350 HP)"
+                ]
+            },
+            {
+                "title": "Stage 4",
+                "values": [
+                    "8 HP, maybe 5g",
+                    "12 HP",
+                    "Giant's Belt",
+                    "Implant (350 HP)"
+                ]
+            },
+            {
+                "title": "4-7 Reward",
+                "values": [
+                    "Team gains 2 HP per missing Tactician health. +1 current and max health Tactician each round"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Thresh",
+        "of": "God of Pacts",
+        "offers": "Offers random loot and gold.",
+        "image": "Thresh-GodOfPacts.png",
+        "stages": [
+            {
+                "title": "Stage 2",
+                "values": [
+                    "Random + 2g",
+                    "Random loot (EV 7)"
+                ]
+            },
+            {
+                "title": "Stage 3",
+                "values": [
+                    "Random + 3g",
+                    "Random loot (EV 9)"
+                ]
+            },
+            {
+                "title": "Stage 4",
+                "values": [
+                    "Random + 5g",
+                    "Random loot (EV 10)"
+                ]
+            },
+            {
+                "title": "4-7 Reward",
+                "values": [
+                    "After each player combat, roll a die. Gain rewards based on the result"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Varus",
+        "of": "God of Love",
+        "offers": "Offers champions, duplicators, and shop-based rewards.",
+        "image": "Varus-GodOfLove.png",
+        "stages": [
+            {
+                "title": "Stage 2",
+                "values": [
+                    "2 & 3 Cost",
+                    "Owned 3 cost",
+                    "2 Tiny Dupes",
+                    "3 cost shop"
+                ]
+            },
+            {
+                "title": "Stage 3",
+                "values": [
+                    "3 & 4 Cost",
+                    "Lesser Dupe",
+                    "Owned 3 cost",
+                    "4 cost shop"
+                ]
+            },
+            {
+                "title": "Stage 4",
+                "values": [
+                    "4 & 5 Cost",
+                    "Lesser Dupe + 3g",
+                    "1 Lesser Duplicator + 5 Tiny Duplicators",
+                    "Owned 4 cost",
+                    "1% 5 cost odds"
+                ]
+            },
+            {
+                "title": "4-7 Reward",
+                "values": [
+                    "Your team gains 10 health for each total star level in your army. Increase your 5 cost odds by 4%"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Yasuo",
+        "of": "God of the Abyss",
+        "offers": "Offers empowered combat hex effects.",
+        "image": "Yasuo-GodOfTheAbyss.png",
+        "stages": [
+            {
+                "title": "Stage 2",
+                "values": [
+                    "Fire Hex (18% dmg, burn/wound)",
+                    "Wood Hex (10% + 30 HP)",
+                    "Wind Hex (30% AS)",
+                    "Ice Hex (15% heal)",
+                    "Electric Hex (2s stun)",
+                    "Socialite Hex (2 mana regen)"
+                ]
+            },
+            {
+                "title": "Stage 3",
+                "values": [
+                    "Fire Hex (18% dmg, burn/wound)",
+                    "Wind Hex (30% AS)",
+                    "Ice Hex (15% heal)",
+                    "Electric Hex (2s stun)",
+                    "Socialite Hex (2 mana regen)"
+                ]
+            },
+            {
+                "title": "Stage 4",
+                "values": [
+                    "Fire Hex (18% dmg, burn/wound)",
+                    "Wind Hex (30% AS)",
+                    "Ice Hex (15% heal)",
+                    "Electric Hex (2s stun)",
+                    "Socialite Hex (2 mana regen)"
+                ]
+            },
+            {
+                "title": "4-7 Reward",
+                "values": [
+                    "Increase the power of Yasuo's hexes by 50%. If you only have 2 hexes, gain 12 gold."
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,327 @@
+[
+  {
+    "id": "psionic",
+    "name": "Psionic",
+    "icon": "trait-psionic.svg",
+    "count": "5 items",
+    "description": "Psionic",
+    "items": [
+      {
+        "stt": "1-1",
+        "id": "drone_uplink",
+        "name": "Drone Uplink",
+        "image": "psionic-drone-uplink.jpg",
+        "texts": [
+          "A drone repeats 25% of damage from the holder's attacks and Abilities to the same targets every 3 seconds.",
+          "At (4): If the holder is Psionic, gain an additional mini-drone that repeats 20% of damage.",
+          "Set.17.items.recommended Sona, Viktor"
+        ]
+      },
+      {
+        "stt": "1-2",
+        "id": "malware_matrix",
+        "name": "Malware Matrix",
+        "image": "psionic-malware-matrix.jpg",
+        "texts": [
+          "Dealing physical damage to an enemy reduces the target's Armor by 2.",
+          "At (4): If the holder is Psionic, every 3rd attack cleaves, dealing 75 physical damage to nearby enemies.",
+          "Set.17.items.recommended Master Yi, Pyke"
+        ]
+      },
+      {
+        "stt": "1-3",
+        "id": "biomatter_preserver",
+        "name": "Biomatter Preserver",
+        "image": "psionic-biomatter-preserver.jpg",
+        "texts": [
+          "Gain 5% max Health and deploy 3 Life Orbs. Every 5 seconds of combat, one drops restoring 18% of the holder's missing Health.",
+          "At (4): If the holder is Psionic, they gain 22% increased healing from all sources.",
+          "Set.17.items.recommended Gragas"
+        ]
+      },
+      {
+        "stt": "1-4",
+        "id": "sympathetic_implant",
+        "name": "Sympathetic Implant",
+        "image": "psionic-sympathetic-implant.jpg",
+        "texts": [
+          "Every 5 seconds, gain 1 additional Mana Per Second.",
+          "At (4): If the holder is Psionic, their abilities deal 20% of their ability damage as true damage instead.",
+          "Set.17.items.recommended Sona, Viktor"
+        ]
+      },
+      {
+        "stt": "1-5",
+        "id": "target-lock_optics",
+        "name": "Target-Lock Optics",
+        "image": "psionic-target-lock-optics.jpg",
+        "texts": [
+          "The holder's first attack on each enemy deals 150 additional damage.",
+          "At (4): If the holder is Psionic, they heal 12% of their max Health whenever their target dies.",
+          "Set.17.items.recommended Pyke, Master Yi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "commander",
+    "name": "Commander",
+    "icon": "trait-commander.svg",
+    "count": "8 items",
+    "description": "Commander",
+    "items": [
+      {
+        "stt": "2-1",
+        "id": "command_mod:_exhaust",
+        "name": "Command Mod: Exhaust",
+        "image": "command-mod-exhaust.jpg",
+        "texts": [
+          "Command a unit's attacks to Burn, Wound, and Chill."
+        ]
+      },
+      {
+        "stt": "2-2",
+        "id": "command_mod:_doublestrike",
+        "name": "Command Mod: Doublestrike",
+        "image": "command-mod-doublestrike.jpg",
+        "texts": [
+          "Command a unit to have a 25% chance to attack twice when attacking."
+        ]
+      },
+      {
+        "stt": "2-3",
+        "id": "command_mod:_analyze",
+        "name": "Command Mod: Analyze",
+        "image": "command-mod-analyze.jpg",
+        "texts": [
+          "Command a unit to grant you 1 XP every 3 seconds it is alive during player combat."
+        ]
+      },
+      {
+        "stt": "2-4",
+        "id": "command_mod:_brace",
+        "name": "Command Mod: Brace",
+        "image": "command-mod-brace.jpg",
+        "texts": [
+          "Command a unit to gain a 20% Health shield for 8 seconds at the start of combat."
+        ]
+      },
+      {
+        "stt": "2-5",
+        "id": "command_mod:_transmute",
+        "name": "Command Mod: Transmute",
+        "image": "command-mod-transmute.jpg",
+        "texts": [
+          "Command a unit to drop 2 gold each time it kills an enemy during player combat."
+        ]
+      },
+      {
+        "stt": "2-6",
+        "id": "command_mod:_disrupt",
+        "name": "Command Mod: Disrupt",
+        "image": "command-mod-disrupt.jpg",
+        "texts": [
+          "Command a unit to Stun enemies within 3 hexes for 1 second when it dies."
+        ]
+      },
+      {
+        "stt": "2-7",
+        "id": "command_mod:_optimize",
+        "name": "Command Mod: Optimize",
+        "image": "command-mod-optimize.jpg",
+        "texts": [
+          "Command a unit to reduce their mana cost by 15%."
+        ]
+      },
+      {
+        "stt": "2-8",
+        "id": "command_mod:_fabricate",
+        "name": "Command Mod: Fabricate",
+        "image": "command-mod-fabricate.jpg",
+        "texts": [
+          "Command a unit to gain a temporary recommended item at the start of combat."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "emblem",
+    "name": "Emblem",
+    "icon": "trait-emblem.svg",
+    "count": "19 items",
+    "description": "Items that grant a unit an additional trait. Crafted using a Spatula and a component.",
+    "items": [
+      {
+        "stt": "3-1",
+        "id": "dark_star_emblem",
+        "name": "Dark Star Emblem",
+        "image": "emblem-dark-star.png",
+        "texts": [
+          "The holder gains the Dark Star trait."
+        ]
+      },
+      {
+        "stt": "3-2",
+        "id": "timebreaker_emblem",
+        "name": "Timebreaker Emblem",
+        "image": "emblem-timebreaker.png",
+        "texts": [
+          "The holder gains the Timebreaker trait."
+        ]
+      },
+      {
+        "stt": "3-3",
+        "id": "stargazer_emblem",
+        "name": "Stargazer Emblem",
+        "image": "emblem-stargazer.png",
+        "texts": [
+          "The holder gains the Stargazer trait."
+        ]
+      },
+      {
+        "stt": "3-4",
+        "id": "space_groove_emblem",
+        "name": "Space Groove Emblem",
+        "image": "emblem-space-groove.png",
+        "texts": [
+          "The holder gains the Space Groove trait."
+        ]
+      },
+      {
+        "stt": "3-5",
+        "id": "meeple_emblem",
+        "name": "Meeple Emblem",
+        "image": "emblem-meeple.png",
+        "texts": [
+          "The holder gains the Meeple trait."
+        ]
+      },
+      {
+        "stt": "3-6",
+        "id": "arbiter_emblem",
+        "name": "Arbiter Emblem",
+        "image": "emblem-arbiter.png",
+        "texts": [
+          "The holder gains the Arbiter trait."
+        ]
+      },
+      {
+        "stt": "3-7",
+        "id": "primordian_emblem",
+        "name": "Primordian Emblem",
+        "image": "emblem-primordian.png",
+        "texts": [
+          "The holder gains the Primordian trait."
+        ]
+      },
+      {
+        "stt": "3-8",
+        "id": "n.o.v.a._emblem",
+        "name": "N.O.V.A. Emblem",
+        "image": "emblem-nova.png",
+        "texts": [
+          "The holder gains the N.O.V.A. trait."
+        ]
+      },
+      {
+        "stt": "3-9",
+        "id": "marauder_emblem",
+        "name": "Marauder Emblem",
+        "image": "emblem-marauder.png",
+        "texts": [
+          "The holder gains the Marauder trait."
+        ]
+      },
+      {
+        "stt": "3-10",
+        "id": "challenger_emblem",
+        "name": "Challenger Emblem",
+        "image": "emblem-challenger.png",
+        "texts": [
+          "The holder gains the Challenger trait."
+        ]
+      },
+      {
+        "stt": "3-11",
+        "id": "voyager_emblem",
+        "name": "Voyager Emblem",
+        "image": "emblem-voyager.png",
+        "texts": [
+          "The holder gains the Voyager trait."
+        ]
+      },
+      {
+        "stt": "3-12",
+        "id": "shepherd_emblem",
+        "name": "Shepherd Emblem",
+        "image": "emblem-shepherd.png",
+        "texts": [
+          "The holder gains the Shepherd trait."
+        ]
+      },
+      {
+        "stt": "3-13",
+        "id": "bastion_emblem",
+        "name": "Bastion Emblem",
+        "image": "emblem-bastion.png",
+        "texts": [
+          "The holder gains the Bastion trait."
+        ]
+      },
+      {
+        "stt": "3-14",
+        "id": "vanguard_emblem",
+        "name": "Vanguard Emblem",
+        "image": "emblem-vanguard.png",
+        "texts": [
+          "The holder gains the Vanguard trait."
+        ]
+      },
+      {
+        "stt": "3-15",
+        "id": "brawler_emblem",
+        "name": "Brawler Emblem",
+        "image": "emblem-brawler.png",
+        "texts": [
+          "The holder gains the Brawler trait."
+        ]
+      },
+      {
+        "stt": "3-16",
+        "id": "rogue_emblem",
+        "name": "Rogue Emblem",
+        "image": "emblem-rogue.png",
+        "texts": [
+          "The holder gains the Rogue trait."
+        ]
+      },
+      {
+        "stt": "3-17",
+        "id": "anima_emblem",
+        "name": "Anima Emblem",
+        "image": "emblem-anima-tech.png",
+        "texts": [
+          "The holder gains the Anima trait."
+        ]
+      },
+      {
+        "stt": "3-18",
+        "id": "psionic_emblem",
+        "name": "Psionic Emblem",
+        "image": "emblem-psyonic.png",
+        "texts": [
+          "The holder gains the Psionic trait."
+        ]
+      },
+      {
+        "stt": "3-19",
+        "id": "sniper_emblem",
+        "name": "Sniper Emblem",
+        "image": "emblem-sniper.png",
+        "texts": [
+          "The holder gains the Sniper trait."
+        ]
+      }
+    ]
+  }
+]

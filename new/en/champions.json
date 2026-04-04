@@ -1,0 +1,829 @@
+[
+  {
+    "stt": 1,
+    "id": "aatrox",
+    "name": "Aatrox",
+    "image": "Aatrox.png",
+    "traits": [
+      "N.O.V.A.",
+      "Bastion"
+    ],
+    "status": "Aatrox",
+    "mana": "30 / 90",
+    "description": "? ?, then deal ? ? physical damage to the current target. ?. ?: ? the battlefield, briefly knocking up all enemies and dealing ? ? physical damage."
+  },
+  {
+    "stt": 2,
+    "id": "briar",
+    "name": "Briar",
+    "image": "Briar.png",
+    "traits": [
+      "Anima",
+      "Primordian",
+      "Rogue"
+    ],
+    "status": "Briar",
+    "mana": "0 / 40",
+    "description": "?: ? every ?% missing ?, gain ?% ? ? ?: ? ? physical damage to the target and ? ? if they're a tank."
+  },
+  {
+    "stt": 3,
+    "id": "caitlyn",
+    "name": "Caitlyn",
+    "image": "Caitlyn.png",
+    "traits": [
+      "N.O.V.A.",
+      "Fateweaver"
+    ],
+    "status": "Caitlyn",
+    "mana": "",
+    "description": "?: ? have a ?% chance to fire an empowered ?, dealing ? ? physical damage. ?. ?: ? all enemies, increasing damage taken by ?%. ? first time marked targets drop below ?% ?, ? them for ? ? physical damage. ?: ? twice and take the better outcome."
+  },
+  {
+    "stt": 4,
+    "id": "cho'gath",
+    "name": "Cho'Gath",
+    "image": "ChoGath.png",
+    "traits": [
+      "Dark Star",
+      "Brawler"
+    ],
+    "status": "Cho'Gath",
+    "mana": "30 / 70",
+    "description": "? ? magic damage to the lowest ? enemy in range and permanently gain ? maximum ?. ? this kills them, devour them and permanently gain ? maximum ? instead. (?: +?)"
+  },
+  {
+    "stt": 5,
+    "id": "ezreal",
+    "name": "Ezreal",
+    "image": "Ezreal.png",
+    "traits": [
+      "Timebreaker",
+      "Sniper"
+    ],
+    "status": "Ezreal",
+    "mana": "0 / 30",
+    "description": "?: ? a blast at the current target that deals ? ? physical damage. ? takedowns, gain a drone that deals ? ? physical damage to the current target on cast. (?: ?)"
+  },
+  {
+    "stt": 6,
+    "id": "leona",
+    "name": "Leona",
+    "image": "Leona.png",
+    "traits": [
+      "Arbiter",
+      "Vanguard"
+    ],
+    "status": "Leona",
+    "mana": "40 / 100",
+    "description": "? ? ? for 4 seconds. ? the current target, dealing ? ? magic damage and stunning them for ? seconds."
+  },
+  {
+    "stt": 7,
+    "id": "lissandra",
+    "name": "Lissandra",
+    "image": "Lissandra.png",
+    "traits": [
+      "Dark Star",
+      "Shepherd",
+      "Replicator"
+    ],
+    "status": "Lissandra",
+    "mana": "0 / 30",
+    "description": "? a dagger towards the current target, dealing ? ? magic damage to the first target it hits. ? hitting its initial target or at its final destination, the dagger explodes dealing ? ? magic damage to nearby targets."
+  },
+  {
+    "stt": 8,
+    "id": "nasus",
+    "name": "Nasus",
+    "image": "Nasus.png",
+    "traits": [
+      "Space Groove",
+      "Vanguard"
+    ],
+    "status": "Nasus",
+    "mana": "60 / 120",
+    "description": "? for ? seconds, temporarily gaining ? max ? and dealing ? ? magic damage to adjacent enemies each second. ? transformed, ? is in ?."
+  },
+  {
+    "stt": 9,
+    "id": "poppy",
+    "name": "Poppy",
+    "image": "Poppy.png",
+    "traits": [
+      "Meeple",
+      "Bastion"
+    ],
+    "status": "Poppy",
+    "mana": "30 / 100",
+    "description": "? ? ? for ? seconds. ? the duration, allies within two hexes gain ? ? ? and ?. ?: ? grant ? ? ? to the nearest ? allies for ? seconds."
+  },
+  {
+    "stt": 10,
+    "id": "rek'sai",
+    "name": "Rek'Sai",
+    "image": "RekSai.png",
+    "traits": [
+      "Primordian",
+      "Brawler"
+    ],
+    "status": "Rek'Sai",
+    "mana": "50 / 110",
+    "description": "? ?, then briefly knock up adjacent enemies and deal ? ? magic damage."
+  },
+  {
+    "stt": 11,
+    "id": "talon",
+    "name": "Talon",
+    "image": "Talon.png",
+    "traits": [
+      "Stargazer",
+      "Rogue"
+    ],
+    "status": "Talon",
+    "mana": "0 / 30",
+    "description": "? the target, causing them to bleed for ? ? physical damage over ? seconds. ? the attack, leap to the highest percent ? enemy within ? hexes."
+  },
+  {
+    "stt": 12,
+    "id": "teemo",
+    "name": "Teemo",
+    "image": "Teemo.png",
+    "traits": [
+      "Space Groove",
+      "Shepherd"
+    ],
+    "status": "Teemo",
+    "mana": "0 / 50",
+    "description": "?: ? deal ? ? bonus magic damage and an additional ? ? stacking magic damage over ? seconds. ? an enemy has ? or more stacks, ? is in ?. ?: ?% ? for ? attacks."
+  },
+  {
+    "stt": 13,
+    "id": "twisted_fate",
+    "name": "Twisted Fate",
+    "image": "TwistedFate.png",
+    "traits": [
+      "Stargazer",
+      "Fateweaver"
+    ],
+    "status": "Twisted Fate",
+    "mana": "0 / 50",
+    "description": "? a card with a value between 1 and 9 by chance, then throw it at the target. ? on the card drawn, deal between ? ? and ? ? magic damage. ? damage bounces to the nearest enemy. ?: ? twice and take the better outcome."
+  },
+  {
+    "stt": 14,
+    "id": "veigar",
+    "name": "Veigar",
+    "image": "Veigar.png",
+    "traits": [
+      "Meeple",
+      "Replicator"
+    ],
+    "status": "Veigar",
+    "mana": "10 / 50",
+    "description": "? down a ? on the target that deals ? ? magic damage. ?: ? additional ? mini ? are called down on nearby targets dealing ? ? magic damage each."
+  },
+  {
+    "stt": 15,
+    "id": "akali",
+    "name": "Akali",
+    "image": "Akali.png",
+    "traits": [
+      "N.O.V.A.",
+      "Marauder"
+    ],
+    "status": "Akali",
+    "mana": "0 / 30",
+    "description": "? next to the target to strike the most enemies. ? throw ? piercing kunai, each dealing ? ? physical damage to the first enemy hit, reduced to ? ? for subsequent targets. ? remove ?, increased to ? if they crit. ?. ?: ? all enemies, applying ? and a bleed that deals ? ? physical damage each second for the rest of combat. ? increase the damage of the bleed by ?%."
+  },
+  {
+    "stt": 16,
+    "id": "bel'veth",
+    "name": "Bel'Veth",
+    "image": "BelVeth.png",
+    "traits": [
+      "Primordian",
+      "Challenger",
+      "Marauder"
+    ],
+    "status": "Bel'Veth",
+    "mana": "0 / 50",
+    "description": "? a flurry of ? ? slashes at the current target over ? seconds, dealing ? ? physical damage each."
+  },
+  {
+    "stt": 17,
+    "id": "gnar",
+    "name": "Gnar",
+    "image": "Gnar.png",
+    "traits": [
+      "Meeple",
+      "Sniper"
+    ],
+    "status": "Gnar",
+    "mana": "0 / 5",
+    "description": "?: ? 5th attack, launch a returning boomerang at the target that travels two hexes past the first enemy it hits. ? deals ? ? physical damage, reduced by ?% per hit. ?: ? attack alongside ?, dealing ? ? physical damage per second."
+  },
+  {
+    "stt": 18,
+    "id": "gragas",
+    "name": "Gragas",
+    "image": "Gragas.png",
+    "traits": [
+      "Psionic",
+      "Brawler"
+    ],
+    "status": "Gragas",
+    "mana": "30 / 80",
+    "description": "? ? over ? seconds. ?, deal ? ? magic damage to adjacent enemies and ? them for ? seconds. ?: ? ? by 30%"
+  },
+  {
+    "stt": 19,
+    "id": "gwen",
+    "name": "Gwen",
+    "image": "Gwen.png",
+    "traits": [
+      "Space Groove",
+      "Rogue"
+    ],
+    "status": "Gwen",
+    "mana": "0 / 30",
+    "description": "?: ? deal magic damage. ? is in ? while targeting an enemy below ?% ?. ?: ? to a nearby hex to snip the lowest percent ? enemy, dealing ? ? magic damage to the target and ? ? magic damage to enemies in a cone. ? this kills, dash and snip again at ?% damage!"
+  },
+  {
+    "stt": 20,
+    "id": "jax",
+    "name": "Jax",
+    "image": "Jax.png",
+    "traits": [
+      "Stargazer",
+      "Bastion"
+    ],
+    "status": "Jax",
+    "mana": "10 / 70",
+    "description": "? a defensive stance for ? seconds, reducing incoming damage by ? ? and gaining ? ? ?. ? the stance ends, strike all nearby enemies, dealing ? ? magic damage and ? them for ? second(s)."
+  },
+  {
+    "stt": 21,
+    "id": "jinx",
+    "name": "Jinx",
+    "image": "Jinx.png",
+    "traits": [
+      "Anima",
+      "Challenger"
+    ],
+    "status": "Jinx",
+    "mana": "20 / 80",
+    "description": "? a barrage of ? ? bullets in a cone, each dealing ? ? physical damage to the first target hit."
+  },
+  {
+    "stt": 22,
+    "id": "meepsie",
+    "name": "Meepsie",
+    "image": "Meepsie.png",
+    "traits": [
+      "Meeple",
+      "Shepherd",
+      "Voyager"
+    ],
+    "status": "Meepsie",
+    "mana": "50 / 100",
+    "description": "? ? ? over ? seconds. ? the target, dealing ? ? magic damage and knocking up for ? seconds. ? impact creates meepwaves that deal ?% of these effects in the target's row. ?: ? water ?'s flower, increasing all incoming ? and ? by ?."
+  },
+  {
+    "stt": 23,
+    "id": "milio",
+    "name": "Milio",
+    "image": "Milio.png",
+    "traits": [
+      "Timebreaker",
+      "Fateweaver"
+    ],
+    "status": "Milio",
+    "mana": "0 / 30",
+    "description": "? a ball at an enemy that deals ? ? magic damage. ? impact, the ball has a 100% chance to bounce to a new target dealing ? ? magic damage. ? bounces can trigger additional bounces, but the odds halve with each bounce. ?: ? twice and take the better outcome."
+  },
+  {
+    "stt": 24,
+    "id": "mordekaiser",
+    "name": "Mordekaiser",
+    "image": "Mordekaiser.png",
+    "traits": [
+      "Dark Star",
+      "Channeler",
+      "Vanguard"
+    ],
+    "status": "Mordekaiser",
+    "mana": "20 / 80",
+    "description": "? ? shield. ? second for the next ? seconds, gain ? ? more shield and deal ? ? magic damage to adjacent enemies. ? this ability ends, consume the remaining ? and heal for ?% of its value."
+  },
+  {
+    "stt": 25,
+    "id": "pantheon",
+    "name": "Pantheon",
+    "image": "Pantheon.png",
+    "traits": [
+      "Timebreaker",
+      "Brawler",
+      "Replicator"
+    ],
+    "status": "Pantheon",
+    "mana": "20 / 80",
+    "description": "? ? ? and ?% ? for ? seconds. ? the duration, deal ? ? physical damage each second to enemies in a cone."
+  },
+  {
+    "stt": 26,
+    "id": "pyke",
+    "name": "Pyke",
+    "image": "Pyke.png",
+    "traits": [
+      "Psionic",
+      "Voyager"
+    ],
+    "status": "Pyke",
+    "mana": "0 / 40",
+    "description": "? up to one hex to throw a harpoon at the furthest enemy. ? harpoon pulls the first enemy hit one hex forward and deals ? ? physical damage. ?, teleport behind them and cleave, dealing ? ? physical damage to them and ? ? physical damage to nearby enemies."
+  },
+  {
+    "stt": 27,
+    "id": "zoe",
+    "name": "Zoe",
+    "image": "Zoe.png",
+    "traits": [
+      "Arbiter",
+      "Channeler"
+    ],
+    "status": "Zoe",
+    "mana": "0 / 50",
+    "description": "? a paddle star at the current target, dealing ? ? magic damage to the first target hit and ? ? to others it passes through. ? the missile reaches its destination, redirect it to a distant enemy, increasing its speed and repeating the damage. ? redirect can occur ? times."
+  },
+  {
+    "stt": 28,
+    "id": "aurora",
+    "name": "Aurora",
+    "image": "Aurora.png",
+    "traits": [
+      "Anima",
+      "Voyager"
+    ],
+    "status": "Aurora",
+    "mana": "20 / 80",
+    "description": "? a ? hex rift containing the target, ? enemies within for ? seconds and dealing ? ? magic damage to each, plus ? ? magic damage split between all enemies hit. ? enemies store ?% of all damage they take. ? the ? ends, they take true damage equal to the stored damage. ? ends early if it would kill the target."
+  },
+  {
+    "stt": 29,
+    "id": "diana",
+    "name": "Diana",
+    "image": "Diana.png",
+    "traits": [
+      "Arbiter",
+      "Challenger"
+    ],
+    "status": "Diana",
+    "mana": "0 / 50",
+    "description": "?: ? deal ? ? bonus magic damage. ?: ? ? ? and summon 3 encircling orbs for ? seconds. ? deal ? ? magic damage to enemies they pass through, and rotate faster based on ?."
+  },
+  {
+    "stt": 30,
+    "id": "fizz",
+    "name": "Fizz",
+    "image": "Fizz.png",
+    "traits": [
+      "Meeple",
+      "Rogue"
+    ],
+    "status": "Fizz",
+    "mana": "0 / 20",
+    "description": "? through the current target, dealing ? ? magic damage. ? third cast also summons a ? after a delay, briefly knocking the target up and dealing ? ? magic damage in a one-hex radius, reduced by ?% per hex from the center. ?: ? ? to the bait, increasing ? damage by ?."
+  },
+  {
+    "stt": 31,
+    "id": "illaoi",
+    "name": "Illaoi",
+    "image": "Illaoi.png",
+    "traits": [
+      "Anima",
+      "Vanguard",
+      "Shepherd"
+    ],
+    "status": "Illaoi",
+    "mana": "40 / 100",
+    "description": "? ? ? for ? seconds. ? the duration, drain ? ? ? from the nearest ? enemies. ? slam down, dealing ? ? magic damage to all enemies within 2 hexes."
+  },
+  {
+    "stt": 32,
+    "id": "kai'sa",
+    "name": "Kai'Sa",
+    "image": "KaiSa.png",
+    "traits": [
+      "Dark Star",
+      "Rogue"
+    ],
+    "status": "Kai'Sa",
+    "mana": "0 / 50",
+    "description": "?: ? takedown, gain ? mana. ?: ? missiles in a ?-hex radius around the current target, dealing ? ? physical damage each."
+  },
+  {
+    "stt": 33,
+    "id": "lulu",
+    "name": "Lulu",
+    "image": "Lulu.png",
+    "traits": [
+      "Stargazer",
+      "Replicator"
+    ],
+    "status": "Lulu",
+    "mana": "0 / 60",
+    "description": "?: ?'s spell gains a different secondary effect each game. ?: ? down something from the sky, dealing ? ? magic damage to ? nearby enemies and do some special effect based on this game's ?."
+  },
+  {
+    "stt": 34,
+    "id": "maokai",
+    "name": "Maokai",
+    "image": "Maokai.png",
+    "traits": [
+      "N.O.V.A.",
+      "Brawler"
+    ],
+    "status": "Maokai",
+    "mana": "30 / 100",
+    "description": "?: ?% more max ? from all sources. ?: ? an ?-shape of vines on the target, dealing ? ? magic damage to each enemy hit and ? them for ? seconds. ?. ?: ? forth a wave of dragons that stun all enemies for ? seconds. ? the rest of combat, ?'s attacks deal ? ? bonus physical damage."
+  },
+  {
+    "stt": 35,
+    "id": "miss_fortune",
+    "name": "Miss Fortune",
+    "image": "MissFortune.png",
+    "traits": [
+      "Channeler",
+      "Challenger",
+      "Replicator"
+    ],
+    "status": "Miss Fortune",
+    "mana": "0 / 100",
+    "description": "?"
+  },
+  {
+    "stt": 36,
+    "id": "ornn",
+    "name": "Ornn",
+    "image": "Ornn.png",
+    "traits": [
+      "Space Groove",
+      "Bastion"
+    ],
+    "status": "Ornn",
+    "mana": "40 / 100",
+    "description": "?: ? combat start, forge a temporary completed item. ? 3 items are already equipped, a random completed item becomes ? for the rest of combat instead. ?: ? ? ? for ? seconds. ? breath fire in a cone, dealing ? ? magic damage. ? any ? on ? expires, ? enters ? for ? seconds."
+  },
+  {
+    "stt": 37,
+    "id": "rhaast",
+    "name": "Rhaast",
+    "image": "Rhaast.png",
+    "traits": [
+      "Redeemer"
+    ],
+    "status": "Rhaast",
+    "mana": "30 / 90",
+    "description": "?% ? for ? seconds, healing ? ? over the duration. ?, slash forward in a line, dealing ? ? physical damage to enemies hit and knocking them up for ? second."
+  },
+  {
+    "stt": 38,
+    "id": "samira",
+    "name": "Samira",
+    "image": "Samira.png",
+    "traits": [
+      "Space Groove",
+      "Sniper"
+    ],
+    "status": "Samira",
+    "mana": "0 / 60",
+    "description": "?: ? an enemy is knocked up, shoot them, dealing ? ? physical damage and entering ? for ? seconds. ?: ? a volley of bullets at the target, dealing ? ? physical damage and knocking up for ? seconds."
+  },
+  {
+    "stt": 39,
+    "id": "urgot",
+    "name": "Urgot",
+    "image": "Urgot.png",
+    "traits": [
+      "Mecha",
+      "Brawler",
+      "Marauder"
+    ],
+    "status": "Urgot",
+    "mana": "0 / 50",
+    "description": "? - ?: ? an enemy enters a ? ? hex radius, fire a blast in a cone towards the closest adjacent hex that deals ? ? physical damage with ?% falloff per hex. ? adjacent hex has a ? second cooldown. ?: ? ? ? for ? seconds and dash behind the current target. ? ?'s cooldowns."
+  },
+  {
+    "stt": 40,
+    "id": "viktor",
+    "name": "Viktor",
+    "image": "Viktor.png",
+    "traits": [
+      "Psionic",
+      "Channeler"
+    ],
+    "status": "Viktor",
+    "mana": "20 / 80",
+    "description": "? a one-hex psionic storm that follows enemies for ? seconds. ? second, it grows larger and deals ? ? magic damage to enemies within, reduced by ?% per hex from the epicenter."
+  },
+  {
+    "stt": 41,
+    "id": "aurelion_sol",
+    "name": "Aurelion Sol",
+    "image": "AurelionSol.png",
+    "traits": [
+      "Mecha",
+      "Channeler"
+    ],
+    "status": "Aurelion Sol",
+    "mana": "15 / 75",
+    "description": "? a deathbeam in a line towards the current target for ? seconds. ? deals ? ? magic damage per second, reduced by ?% per enemy it passes through. ? ignores ?% of the enemy's ?."
+  },
+  {
+    "stt": 42,
+    "id": "corki",
+    "name": "Corki",
+    "image": "Corki.png",
+    "traits": [
+      "Meeple",
+      "Fateweaver"
+    ],
+    "status": "Corki",
+    "mana": "0 / 60",
+    "description": "? to a nearby position, unleashing ? missiles split between the target and all enemies within two hexes. ? deal ? ? physical damage with a ?% chance of firing a mega missile that deals ? ? instead. ?: ? seconds, launch an ? at the target, dealing ? ? physical damage in a one hex radius on impact. ?: ? twice and take the better outcome."
+  },
+  {
+    "stt": 43,
+    "id": "karma",
+    "name": "Karma",
+    "image": "Karma.png",
+    "traits": [
+      "Dark Star",
+      "Voyager"
+    ],
+    "status": "Karma",
+    "mana": "10 / 50",
+    "description": "? the force of a black hole, dealing ? ? magic damage split between the target and the ? closest enemies to them. ? target takes an additional ? ? magic damage."
+  },
+  {
+    "stt": 44,
+    "id": "kindred",
+    "name": "Kindred",
+    "image": "Kindred.png",
+    "traits": [
+      "N.O.V.A.",
+      "Challenger"
+    ],
+    "status": "Kindred",
+    "mana": "0 / 40",
+    "description": "?: ? and ? mark the target. ? an enemy reaches ? marks, ? consumes the marks, dealing ? ? physical damage. ?: ? up to ? hex away and fire arrows at the nearest ? targets, each dealing ? ? physical damage. ?. ?: ?% ?. ? and every ? seconds after, add a mark to all enemies."
+  },
+  {
+    "stt": 45,
+    "id": "leblanc",
+    "name": "LeBlanc",
+    "image": "LeBlanc.png",
+    "traits": [
+      "Arbiter",
+      "Shepherd"
+    ],
+    "status": "LeBlanc",
+    "mana": "0 / 40",
+    "description": "?: ? deal ? ? magic damage instead. ?: ? clones that attack alongside ? for ? attacks, dealing ?% damage. ? their final attack, clones fire a bolt that deals ? ? magic damage."
+  },
+  {
+    "stt": 46,
+    "id": "master_yi",
+    "name": "Master Yi",
+    "image": "MasterYi.png",
+    "traits": [
+      "Psionic",
+      "Marauder"
+    ],
+    "status": "Master Yi",
+    "mana": "30 / 70",
+    "description": "?: ? third attack strikes an additional time for ? ? bonus physical damage. ?: ? brief meditation, enter a ?-? for ? seconds, gaining ?% ?, ?% ?, and increased movement speed. ? a second, fire a psychic projection at a random nearby enemy that deals ? ? physical damage."
+  },
+  {
+    "stt": 47,
+    "id": "nami",
+    "name": "Nami",
+    "image": "Nami.png",
+    "traits": [
+      "Space Groove",
+      "Replicator"
+    ],
+    "status": "Nami",
+    "mana": "30 / 85",
+    "description": "? a disco bubble at the target that deals ? ? split between enemies in a one hex radius. ? explosion sends ? globs towards nearby enemies that deal ? ? magic damage. ? cast, ? enters ? for ? seconds."
+  },
+  {
+    "stt": 48,
+    "id": "nunu",
+    "name": "Nunu",
+    "image": "Nunu.png",
+    "traits": [
+      "Stargazer",
+      "Vanguard"
+    ],
+    "status": "Nunu",
+    "mana": "45 / 155",
+    "description": "? ? ? for ? seconds. ? an astrolabe to crash down on the most enemies within 2 hexes, dealing ? ? magic damage. ?, ? pushes the astrolabe towards the end of the board, dealing ? ? magic damage. ? enemies hit by the astrolabe are knocked up for ? seconds."
+  },
+  {
+    "stt": 49,
+    "id": "rammus",
+    "name": "Rammus",
+    "image": "Rammus.png",
+    "traits": [
+      "Meeple",
+      "Bastion"
+    ],
+    "status": "Rammus",
+    "mana": "30 / 100",
+    "description": "? ? shield for ? seconds. ?, strike the most enemies in a three hex line, dealing ? ? magic damage. ?: ? the damage of incoming attacks by ?. ? being attacked ? times, deal ? ? magic damage in a two hex radius."
+  },
+  {
+    "stt": 50,
+    "id": "riven",
+    "name": "Riven",
+    "image": "Riven.png",
+    "traits": [
+      "Timebreaker",
+      "Rogue"
+    ],
+    "status": "Riven",
+    "mana": "0 / 20",
+    "description": "?: ? adapts to ?'s ? or ?, whichever is higher. ? deal ? (?/?) damage. ?: ? to a nearby hex, gaining ? for ? seconds and slashing adjacent enemies for ? (?/?) damage. ? third cast, leap into the air and launch a wave of energy that deals ? (?/?) damage."
+  },
+  {
+    "stt": 51,
+    "id": "tahm_kench",
+    "name": "Tahm Kench",
+    "image": "TahmKench.png",
+    "traits": [
+      "Arcana",
+      "Brawler"
+    ],
+    "status": "Tahm Kench",
+    "mana": "50 / 120",
+    "description": "?: ? per combat after dropping below ?% ?, gain ? for ? seconds equal to ?% of healing received this combat. ?: ? ?, then tongue lash all enemies within two hexes dealing ? ? magic damage."
+  },
+  {
+    "stt": 52,
+    "id": "the_mighty_mech",
+    "name": "The Mighty Mech",
+    "image": "TheMightyMech.png",
+    "traits": [
+      "Mecha",
+      "Voyager"
+    ],
+    "status": "The Mighty Mech",
+    "mana": "40 / 100",
+    "description": "? a defensive stance for ? seconds gaining ?% ?. ? in the defensive stance, attract nearby enemy projectiles and heal ? ? over the duration. ? this ends, release a shockwave that deals ? ? as physical damage in a ?-hex range."
+  },
+  {
+    "stt": 53,
+    "id": "xayah",
+    "name": "Xayah",
+    "image": "Xayah.png",
+    "traits": [
+      "Stargazer",
+      "Sniper"
+    ],
+    "status": "Xayah",
+    "mana": "0 / 50",
+    "description": "?: ? bounce to strike ? times, dealing ?% reduced damage per target hit and leaving a ? behind the final target. ?: ?% ? for ? seconds. ? the end, recall all ? split between the closest ? enemies, dealing ? ? physical damage each."
+  },
+  {
+    "stt": 54,
+    "id": "bard",
+    "name": "Bard",
+    "image": "Bard.png",
+    "traits": [
+      "Meeple",
+      "Channeler"
+    ],
+    "status": "Bard",
+    "mana": "0 / 70",
+    "description": "? a flying saucer over the current target that lasts ? seconds. ? second it deals ? ? magic damage to the target, plus ? ? magic damage split between all enemies within ? hex. ? saucer deals ?% increased damage to ?. ? an enemy under the ? dies, ? has a ?% chance to abduct them and create a 1-star copy on your bench. ? bonus: ? combat start, grant the nearest ? an additional ?. ? abducted: ?"
+  },
+  {
+    "stt": 55,
+    "id": "blitzcrank",
+    "name": "Blitzcrank",
+    "image": "Blitzcrank.png",
+    "traits": [
+      "Party Animal",
+      "Space Groove",
+      "Vanguard"
+    ],
+    "status": "Blitzcrank",
+    "mana": "10 / 90",
+    "description": "?: ? seconds, call down a bolt on the highest ? nearby enemy that deals ? ? magic damage. ?: ? a disco ball at the largest clump of enemies, then uppercut the current target dealing ? ? magic damage and knocking up. ? crash down into the disco ball dealing ? ? magic damage in a three hex radius. ? ? for ? second per enemy hit."
+  },
+  {
+    "stt": 56,
+    "id": "fiora",
+    "name": "Fiora",
+    "image": "Fiora.png",
+    "traits": [
+      "Divine Duelist",
+      "Anima",
+      "Marauder"
+    ],
+    "status": "Fiora",
+    "mana": "10 / 80",
+    "description": "?: ? attacks, reveal a ? on the target. ? a ? exists, dash to attack it dealing ? ? bonus true damage and heal for ?% of the damage dealt. ?: ? ? on the target and quickly attack them all. ? the target dies, remaining ? transfer to the nearest enemy. ? striking the final ?, create a two hex aura that heals allies within for ? ? over ? seconds."
+  },
+  {
+    "stt": 57,
+    "id": "graves",
+    "name": "Graves",
+    "image": "Graves.png",
+    "traits": [
+      "Factory New"
+    ],
+    "status": "Graves",
+    "mana": "0 / 60",
+    "description": "?: ? fire ? projectiles in a cone that deal ? physical damage each. ?: ? an explosive shell that deals ? ? physical damage to the target, and ? ? physical damage to all enemies in a one hex radius."
+  },
+  {
+    "stt": 58,
+    "id": "jhin",
+    "name": "Jhin",
+    "image": "Jhin.png",
+    "traits": [
+      "Dark Star",
+      "Eradicator",
+      "Sniper"
+    ],
+    "status": "Jhin",
+    "mana": "0 / 44",
+    "description": "?: ? has a fixed attack speed of ? and converts every ?% of bonus ? into ? bonus ?. ?: ? spectral hands that fire alongside ? for the next ? attacks. ? hand deals ? ? physical damage per shot and removes ?. ? final shots deal ?% more damage and pierce through the most enemies in a line, dealing ?% reduced damage per target hit."
+  },
+  {
+    "stt": 59,
+    "id": "morgana",
+    "name": "Morgana",
+    "image": "Morgana.png",
+    "traits": [
+      "Dark Lady"
+    ],
+    "status": "Morgana",
+    "mana": "20 / 60",
+    "description": "? into ? for ? seconds, gaining ? ? ? for the duration. ? in ?, tether the ? nearest enemies, dealing ? ? magic damage per second to each one and healing for ?% of damage dealt. ? the end of the transformation, deal ? ? to all tethered enemies."
+  },
+  {
+    "stt": 60,
+    "id": "shen",
+    "name": "Shen",
+    "image": "Shen.png",
+    "traits": [
+      "Bulwark",
+      "Bastion"
+    ],
+    "status": "Shen",
+    "mana": "10 / 70",
+    "description": "?: ? cast, attacks gain ? ? stacking bonus magic damage. ? from the third cast, gain true damage instead. ?: ? ? ? for ? seconds, then slice open a rift on the largest group of champions dealing the ?'s bonus damage to all enemies within. ? have their ? slowed by ?% while allies within gain ?% ?, both rapidly decaying over ? seconds."
+  },
+  {
+    "stt": 61,
+    "id": "sona",
+    "name": "Sona",
+    "image": "Sona.png",
+    "traits": [
+      "Commander",
+      "Psionic",
+      "Shepherd"
+    ],
+    "status": "Sona",
+    "mana": "0 / 25",
+    "description": "? a chunk of magnetic debris at the nearest target without one, dealing ? ? magic damage and sticking it to them. ? an enemy with debris dies, it passes to the nearest enemy without one. ? casts, instead rip off all debris dealing ? ? magic damage, then crush all the debris onto the target, dealing ? ? magic damage and briefly stunning them."
+  },
+  {
+    "stt": 62,
+    "id": "vex",
+    "name": "Vex",
+    "image": "Vex.png",
+    "traits": [
+      "Doomer"
+    ],
+    "status": "Vex",
+    "mana": "0 / 60",
+    "description": "?: ? time ? attacks, ? strikes a nearby enemy, dealing ? ? magic damage. ? an enemy is struck ? times by ?, ? strikes them again. ?: ? launches ? empowered strikes, dealing ? ? magic damage instead."
+  },
+  {
+    "stt": 63,
+    "id": "zed",
+    "name": "Zed",
+    "image": "Zed.png",
+    "traits": [
+      "Galaxy Hunter"
+    ],
+    "status": "Zed",
+    "mana": "30 / 80",
+    "description": "? a clone behind the target with ?% reduced max ? and ? increased ? cost. ? clone inherits its creator's items, stats, and current ?, and can cast ?."
+  }
+]

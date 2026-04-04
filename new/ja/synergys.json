@@ -1,0 +1,1573 @@
+[
+  {
+    "section": "origin-synergy",
+    "name": "Dark Star",
+    "icon": "DarkStar.png",
+    "champions": [
+      {
+        "name": "Cho'Gath",
+        "image": "ChoGath.png"
+      },
+      {
+        "name": "Lissandra",
+        "image": "Lissandra.png"
+      },
+      {
+        "name": "Mordekaiser",
+        "image": "Mordekaiser.png"
+      },
+      {
+        "name": "Kai'Sa",
+        "image": "KaiSa.png"
+      },
+      {
+        "name": "Karma",
+        "image": "Karma.png"
+      },
+      {
+        "name": "Jhin",
+        "image": "Jhin.png"
+      }
+    ],
+    "description": "",
+    "effects": [
+      {
+        "count": "(2)\nDark Stars create a black hole that consumes enemies at 10% max health.",
+        "text": "(4)\nAND they gain 30% AD & AP."
+      },
+      {
+        "count": "(2)",
+        "text": "Dark Stars create a black hole that consumes enemies at 10% max health."
+      },
+      {
+        "count": "(4)",
+        "text": "AND they gain 30% AD & AP."
+      },
+      {
+        "count": "(6)",
+        "text": "AND the strongest Dark Star unit goes supermassive, gaining 100% effectiveness from Dark Star, and creates 2 minor Black Holes."
+      },
+      {
+        "count": "(9)",
+        "text": "All Dark Stars are supermassive. At level 10, CONSUME EVERYONE."
+      }
+    ]
+  },
+  {
+    "section": "origin-synergy",
+    "name": "Meeple",
+    "icon": "Meeple.png",
+    "champions": [
+      {
+        "name": "Poppy",
+        "image": "Poppy.png"
+      },
+      {
+        "name": "Veigar",
+        "image": "Veigar.png"
+      },
+      {
+        "name": "Gnar",
+        "image": "Gnar.png"
+      },
+      {
+        "name": "Meepsie",
+        "image": "Meepsie.png"
+      },
+      {
+        "name": "Fizz",
+        "image": "Fizz.png"
+      },
+      {
+        "name": "Corki",
+        "image": "Corki.png"
+      },
+      {
+        "name": "Rammus",
+        "image": "Rammus.png"
+      },
+      {
+        "name": "Bard",
+        "image": "Bard.png"
+      }
+    ],
+    "description": "Astronauts attract Meeps that empower Astronaut abilities in meepy ways. They also gain bonus Health.",
+    "effects": [
+      {
+        "count": "(3)\n2%, 125 Health",
+        "text": "(5)\n3%, 250 Health"
+      },
+      {
+        "count": "(3)",
+        "text": "2%, 125 Health"
+      },
+      {
+        "count": "(5)",
+        "text": "3%, 250 Health"
+      },
+      {
+        "count": "(7)",
+        "text": "4%, 400 Health. Create a Cloning Slot on your bench. Gain gold and a 1-star copy of the champion placed there when cloning completes."
+      },
+      {
+        "count": "(10)",
+        "text": "6%, 1000 Health. SUMMON THE FOUR MEEPLORDS! Cloning time = Champion cost"
+      }
+    ]
+  },
+  {
+    "section": "origin-synergy",
+    "name": "N.O.V.A.",
+    "icon": "NOVA.png",
+    "champions": [
+      {
+        "name": "Aatrox",
+        "image": "Aatrox.png"
+      },
+      {
+        "name": "Caitlyn",
+        "image": "Caitlyn.png"
+      },
+      {
+        "name": "Akali",
+        "image": "Akali.png"
+      },
+      {
+        "name": "Maokai",
+        "image": "Maokai.png"
+      },
+      {
+        "name": "Kindred",
+        "image": "Kindred.png"
+      }
+    ],
+    "description": "",
+    "effects": [
+      {
+        "count": "(2)\n6 seconds into combat, N.O.V.A. grant a power surge to allies based on champions.",
+        "text": "(5)\nGain a Striker selector. The chosen N.O.V.A. activates their Strike during the power surge. Aatrox: Ally Damage 30% Shred and Sunders enemies / Caitlyn: Grant allies 20% Attack Speed / Akali: Allies gain Precision / Maokai: Allies heal 15% max Health / Kindred: Shield the strongest Tank for 800 / Emblem: Allies deal 10% stacking bonus true damage"
+      },
+      {
+        "count": "(2)",
+        "text": "6 seconds into combat, N.O.V.A. grant a power surge to allies based on champions."
+      },
+      {
+        "count": "(5)",
+        "text": "Gain a Striker selector. The chosen N.O.V.A. activates their Strike during the power surge. Aatrox: Ally Damage 30% Shred and Sunders enemies / Caitlyn: Grant allies 20% Attack Speed / Akali: Allies gain Precision / Maokai: Allies heal 15% max Health / Kindred: Shield the strongest Tank for 800 / Emblem: Allies deal 10% stacking bonus true damage"
+      }
+    ]
+  },
+  {
+    "section": "origin-synergy",
+    "name": "Primordian",
+    "icon": "Primordian.png",
+    "champions": [
+      {
+        "name": "Briar",
+        "image": "Briar.png"
+      },
+      {
+        "name": "Rek'Sai",
+        "image": "RekSai.png"
+      },
+      {
+        "name": "Bel'Veth",
+        "image": "BelVeth.png"
+      }
+    ],
+    "description": "",
+    "effects": [
+      {
+        "count": "(2)\nDealing damage spawns Swarmlings based on Primordian star level.",
+        "text": "(3)\nSpawn even more Swarmlings! Each round, gain a random 1 or 2-cost champion. 8% of damage taken contributes to damage dealt."
+      },
+      {
+        "count": "(2)",
+        "text": "Dealing damage spawns Swarmlings based on Primordian star level."
+      },
+      {
+        "count": "(3)",
+        "text": "Spawn even more Swarmlings! Each round, gain a random 1 or 2-cost champion. 8% of damage taken contributes to damage dealt."
+      }
+    ]
+  },
+  {
+    "section": "origin-synergy",
+    "name": "Psionic",
+    "icon": "Psionic.png",
+    "champions": [
+      {
+        "name": "Gragas",
+        "image": "Gragas.png"
+      },
+      {
+        "name": "Pyke",
+        "image": "Pyke.png"
+      },
+      {
+        "name": "Viktor",
+        "image": "Viktor.png"
+      },
+      {
+        "name": "Master Yi",
+        "image": "MasterYi.png"
+      },
+      {
+        "name": "Sona",
+        "image": "Sona.png"
+      }
+    ],
+    "description": "Gain Psionic items that can be equipped to any ally.",
+    "effects": [
+      {
+        "count": "(2)\nGain the Psionic item 1",
+        "text": "(4)\nGain the Psionic item 2, Psionic items gain extra effects on Psionic units"
+      },
+      {
+        "count": "(2)",
+        "text": "Gain the Psionic item 1"
+      },
+      {
+        "count": "(4)",
+        "text": "Gain the Psionic item 2, Psionic items gain extra effects on Psionic units"
+      }
+    ]
+  },
+  {
+    "section": "origin-synergy",
+    "name": "Space Groove",
+    "icon": "SpaceGroove.png",
+    "champions": [
+      {
+        "name": "Nasus",
+        "image": "Nasus.png"
+      },
+      {
+        "name": "Teemo",
+        "image": "Teemo.png"
+      },
+      {
+        "name": "Gwen",
+        "image": "Gwen.png"
+      },
+      {
+        "name": "Ornn",
+        "image": "Ornn.png"
+      },
+      {
+        "name": "Samira",
+        "image": "Samira.png"
+      },
+      {
+        "name": "Nami",
+        "image": "Nami.png"
+      },
+      {
+        "name": "Blitzcrank",
+        "image": "Blitzcrank.png"
+      }
+    ],
+    "description": "",
+    "effects": [
+      {
+        "count": "(1)\nGroovians can enter the Groove. While in it, they gain Attack Speed and max Health Regen, increased per Groovian on your team.",
+        "text": "(3)\nAll Groovians start combat in the Groove for 3 seconds."
+      },
+      {
+        "count": "(1)",
+        "text": "Groovians can enter the Groove. While in it, they gain Attack Speed and max Health Regen, increased per Groovian on your team."
+      },
+      {
+        "count": "(3)",
+        "text": "All Groovians start combat in the Groove for 3 seconds."
+      },
+      {
+        "count": "(5)",
+        "text": "Each second spent in the Groove grants 3% stacking Attack Damage and Ability Power."
+      },
+      {
+        "count": "(7)",
+        "text": "Increase these effects by 20%!"
+      },
+      {
+        "count": "(10)",
+        "text": "the Groove"
+      }
+    ]
+  },
+  {
+    "section": "origin-synergy",
+    "name": "Timebreaker",
+    "icon": "Timebreaker.png",
+    "champions": [
+      {
+        "name": "Ezreal",
+        "image": "Ezreal.png"
+      },
+      {
+        "name": "Milio",
+        "image": "Milio.png"
+      },
+      {
+        "name": "Pantheon",
+        "image": "Pantheon.png"
+      },
+      {
+        "name": "Riven",
+        "image": "Riven.png"
+      }
+    ],
+    "description": "",
+    "effects": [
+      {
+        "count": "(2)\nWhen you lose, gain free rerolls. When you win, store XP in a Temporal Core (scales with stage).",
+        "text": "(3)\nAND Allies gain 15% Attack Speed."
+      },
+      {
+        "count": "(2)",
+        "text": "When you lose, gain free rerolls. When you win, store XP in a Temporal Core (scales with stage)."
+      },
+      {
+        "count": "(3)",
+        "text": "AND Allies gain 15% Attack Speed."
+      },
+      {
+        "count": "(4)",
+        "text": "AND Timebreakers gain an additional 50% Attack Speed"
+      }
+    ]
+  },
+  {
+    "section": "class-synergy",
+    "name": "Commander (Sona)",
+    "icon": "Commander.png",
+    "champions": [
+      {
+        "name": "Sona",
+        "image": "Sona.png"
+      }
+    ],
+    "description": "Sona gives you a random Command Mod every 2 rounds which allows you to alter the way an ally behaves during combat. Command Mods last 2 player combats even if they are not equipped.",
+    "effects": []
+  },
+  {
+    "section": "class-synergy",
+    "name": "Galaxy Hunter (Zed)",
+    "icon": "GalaxyHunter.png",
+    "champions": [
+      {
+        "name": "Zed",
+        "image": "Zed.png"
+      }
+    ],
+    "description": "Zed is obtained from the Invader Zed augment. While at least one clone is alive, Zed gains 40% bonus Attack Damage.",
+    "effects": []
+  },
+  {
+    "section": "class-synergy",
+    "name": "Oracle (Tahm Kench)",
+    "icon": "OracleTahmKench.svg",
+    "champions": [
+      {
+        "name": "Tahm Kench",
+        "image": "TahmKench.png"
+      }
+    ],
+    "description": "Every 3 rounds, Tahm Kench grants a reward!",
+    "effects": []
+  },
+  {
+    "section": "class-synergy",
+    "name": "Anima",
+    "icon": "Anima.png",
+    "champions": [
+      {
+        "name": "Briar",
+        "image": "Briar.png"
+      },
+      {
+        "name": "Jinx",
+        "image": "Jinx.png"
+      },
+      {
+        "name": "Aurora",
+        "image": "Aurora.png"
+      },
+      {
+        "name": "Illaoi",
+        "image": "Illaoi.png"
+      },
+      {
+        "name": "Fiora",
+        "image": "Fiora.png"
+      }
+    ],
+    "description": "After losing a player combat, gain 15 Tech, plus additional Tech equal to 5 times the length of your loss streak. Additionally, gain 2 Tech per Anima takedown. Each time Animas get 100 Tech, they prototype new Anima Weapons. You can take them, or save your Tech to get more powerful weapons next time.",
+    "effects": [
+      {
+        "count": "(3)\nStart Researching!",
+        "text": "(6)\nGain a loot Orb upon win"
+      },
+      {
+        "count": "(3)",
+        "text": "Start Researching!"
+      },
+      {
+        "count": "(6)",
+        "text": "Gain a loot Orb upon win"
+      }
+    ]
+  },
+  {
+    "section": "class-synergy",
+    "name": "Arbiter",
+    "icon": "Arbiter.png",
+    "champions": [
+      {
+        "name": "Leona",
+        "image": "Leona.png"
+      },
+      {
+        "name": "Zoe",
+        "image": "Zoe.png"
+      },
+      {
+        "name": "Diana",
+        "image": "Diana.png"
+      },
+      {
+        "name": "LeBlanc",
+        "image": "LeBlanc.png"
+      }
+    ],
+    "description": "Scribe a unique divine law, allowing you to choose an effect to apply to Arbiters when a chosen cause occurs.",
+    "effects": [
+      {
+        "count": "(2)\nChoose a cause and effect for your law",
+        "text": "(3)\nEffects are stronger."
+      },
+      {
+        "count": "(2)",
+        "text": "Choose a cause and effect for your law"
+      },
+      {
+        "count": "(3)",
+        "text": "Effects are stronger."
+      }
+    ]
+  },
+  {
+    "section": "class-synergy",
+    "name": "Bastion",
+    "icon": "Bastion.png",
+    "champions": [
+      {
+        "name": "Aatrox",
+        "image": "Aatrox.png"
+      },
+      {
+        "name": "Poppy",
+        "image": "Poppy.png"
+      },
+      {
+        "name": "Jax",
+        "image": "Jax.png"
+      },
+      {
+        "name": "Ornn",
+        "image": "Ornn.png"
+      },
+      {
+        "name": "Rammus",
+        "image": "Rammus.png"
+      },
+      {
+        "name": "Shen",
+        "image": "Shen.png"
+      }
+    ],
+    "description": "Your team gains 12 Armor and Magic Resist. Bastions gain more, and the value doubles in the first 10 seconds of combat.",
+    "effects": [
+      {
+        "count": "(2)\n16 Armor & MR",
+        "text": "(4)\n35 Armor & MR"
+      },
+      {
+        "count": "(2)",
+        "text": "16 Armor & MR"
+      },
+      {
+        "count": "(4)",
+        "text": "35 Armor & MR"
+      },
+      {
+        "count": "(6)",
+        "text": "55 Armor & MR; Non-Bastions gain an additional 20 Armor & MR."
+      }
+    ]
+  },
+  {
+    "section": "class-synergy",
+    "name": "Brawler",
+    "icon": "Brawler.png",
+    "champions": [
+      {
+        "name": "Cho'Gath",
+        "image": "ChoGath.png"
+      },
+      {
+        "name": "Rek'Sai",
+        "image": "RekSai.png"
+      },
+      {
+        "name": "Gragas",
+        "image": "Gragas.png"
+      },
+      {
+        "name": "Pantheon",
+        "image": "Pantheon.png"
+      },
+      {
+        "name": "Maokai",
+        "image": "Maokai.png"
+      },
+      {
+        "name": "Urgot",
+        "image": "Urgot.png"
+      },
+      {
+        "name": "Tahm Kench",
+        "image": "TahmKench.png"
+      }
+    ],
+    "description": "Your team gains 7% Health. Brawlers gain more.",
+    "effects": [
+      {
+        "count": "(2)\n+25% maximum Health",
+        "text": "(4)\n+45% maximum Health"
+      },
+      {
+        "count": "(2)",
+        "text": "+25% maximum Health"
+      },
+      {
+        "count": "(4)",
+        "text": "+45% maximum Health"
+      },
+      {
+        "count": "(6)",
+        "text": "+65% maximum Health"
+      }
+    ]
+  },
+  {
+    "section": "class-synergy",
+    "name": "Challenger",
+    "icon": "Challenger.png",
+    "champions": [
+      {
+        "name": "Bel'Veth",
+        "image": "BelVeth.png"
+      },
+      {
+        "name": "Jinx",
+        "image": "Jinx.png"
+      },
+      {
+        "name": "Diana",
+        "image": "Diana.png"
+      },
+      {
+        "name": "Miss Fortune",
+        "image": "MissFortune.png"
+      },
+      {
+        "name": "Kindred",
+        "image": "Kindred.png"
+      }
+    ],
+    "description": "Your team gains 10% Attack Speed. Challengers gain bonus Attack Speed. When their target dies, Challengers dash to a new target and increase their Attack Speed bonus by 50% for 2.50 seconds.",
+    "effects": [
+      {
+        "count": "(2)\n15% AS",
+        "text": "(3)\n22% AS"
+      },
+      {
+        "count": "(2)",
+        "text": "15% AS"
+      },
+      {
+        "count": "(3)",
+        "text": "22% AS"
+      },
+      {
+        "count": "(4)",
+        "text": "30% AS"
+      },
+      {
+        "count": "(5)",
+        "text": "40% AS"
+      }
+    ]
+  },
+  {
+    "section": "class-synergy",
+    "name": "Channeler",
+    "icon": "Channeler.png",
+    "champions": [
+      {
+        "name": "Mordekaiser",
+        "image": "Mordekaiser.png"
+      },
+      {
+        "name": "Zoe",
+        "image": "Zoe.png"
+      },
+      {
+        "name": "Miss Fortune",
+        "image": "MissFortune.png"
+      },
+      {
+        "name": "Viktor",
+        "image": "Viktor.png"
+      },
+      {
+        "name": "Aurelion Sol",
+        "image": "AurelionSol.png"
+      },
+      {
+        "name": "Bard",
+        "image": "Bard.png"
+      }
+    ],
+    "description": "Innate: Channelers gain 20% additional Mana from all sources. Your team gains Mana Regen, increased for Channelers.",
+    "effects": [
+      {
+        "count": "(2)\n1% Mana Regen | 3% Mana Regen",
+        "text": "(3)\n1% Mana Regen | 4% Mana Regen"
+      },
+      {
+        "count": "(2)",
+        "text": "1% Mana Regen | 3% Mana Regen"
+      },
+      {
+        "count": "(3)",
+        "text": "1% Mana Regen | 4% Mana Regen"
+      },
+      {
+        "count": "(4)",
+        "text": "2% Mana Regen | 6% Mana Regen"
+      },
+      {
+        "count": "(5)",
+        "text": "2% Mana Regen | 7% Mana Regen"
+      }
+    ]
+  },
+  {
+    "section": "class-synergy",
+    "name": "Fateweaver",
+    "icon": "Fateweaver.png",
+    "champions": [
+      {
+        "name": "Caitlyn",
+        "image": "Caitlyn.png"
+      },
+      {
+        "name": "Twisted Fate",
+        "image": "TwistedFate.png"
+      },
+      {
+        "name": "Milio",
+        "image": "Milio.png"
+      },
+      {
+        "name": "Corki",
+        "image": "Corki.png"
+      }
+    ],
+    "description": "Innate: Fateweavers have Precision.",
+    "effects": [
+      {
+        "count": "(2)\nChance effects on abilities are Lucky.",
+        "text": "(4)\nGain 20% Crit Chance and 10% Crit Damage. Critical strikes are also Lucky."
+      },
+      {
+        "count": "(2)",
+        "text": "Chance effects on abilities are Lucky."
+      },
+      {
+        "count": "(4)",
+        "text": "Gain 20% Crit Chance and 10% Crit Damage. Critical strikes are also Lucky."
+      }
+    ]
+  },
+  {
+    "section": "class-synergy",
+    "name": "Marauder",
+    "icon": "Marauder.png",
+    "champions": [
+      {
+        "name": "Akali",
+        "image": "Akali.png"
+      },
+      {
+        "name": "Bel'Veth",
+        "image": "BelVeth.png"
+      },
+      {
+        "name": "Urgot",
+        "image": "Urgot.png"
+      },
+      {
+        "name": "Master Yi",
+        "image": "MasterYi.png"
+      },
+      {
+        "name": "Fiora",
+        "image": "Fiora.png"
+      }
+    ],
+    "description": "Your team gains 5% Omnivamp. Marauders gain more Omnivamp, Attack Damage, and their Omnivamp overhealing is converted into Shield (up to 25% max Health.)",
+    "effects": [
+      {
+        "count": "(2)\n5% Omnivamp, 20% AD",
+        "text": "(4)\n7% Omnivamp, 30% AD"
+      },
+      {
+        "count": "(2)",
+        "text": "5% Omnivamp, 20% AD"
+      },
+      {
+        "count": "(4)",
+        "text": "7% Omnivamp, 30% AD"
+      },
+      {
+        "count": "(6)",
+        "text": "10% Omnivamp, 40% AD."
+      }
+    ]
+  },
+  {
+    "section": "class-synergy",
+    "name": "Mecha",
+    "icon": "Mecha.png",
+    "champions": [
+      {
+        "name": "Urgot",
+        "image": "Urgot.png"
+      },
+      {
+        "name": "Aurelion Sol",
+        "image": "AurelionSol.png"
+      },
+      {
+        "name": "The Mighty Mech",
+        "image": "TheMightyMech.png"
+      }
+    ],
+    "description": "Innate: Mecha units can transform into their Ultimate form, upgrading their ability and gaining 60% Health. Transformed Mechas take up two team slots and count twice for the Mecha trait.",
+    "effects": [
+      {
+        "count": "(3)\nEnergy Cells: Mechas gain 20% AD & AP.",
+        "text": "(4)\nOverclocked Cells: Increased to 35% AD & AP."
+      },
+      {
+        "count": "(3)",
+        "text": "Energy Cells: Mechas gain 20% AD & AP."
+      },
+      {
+        "count": "(4)",
+        "text": "Overclocked Cells: Increased to 35% AD & AP."
+      },
+      {
+        "count": "(6)",
+        "text": "Precision Engineering: +1 max team size"
+      }
+    ]
+  },
+  {
+    "section": "class-synergy",
+    "name": "Replicator",
+    "icon": "Replicator.png",
+    "champions": [
+      {
+        "name": "Lissandra",
+        "image": "Lissandra.png"
+      },
+      {
+        "name": "Veigar",
+        "image": "Veigar.png"
+      },
+      {
+        "name": "Pantheon",
+        "image": "Pantheon.png"
+      },
+      {
+        "name": "Lulu",
+        "image": "Lulu.png"
+      },
+      {
+        "name": "Miss Fortune",
+        "image": "MissFortune.png"
+      },
+      {
+        "name": "Nami",
+        "image": "Nami.png"
+      }
+    ],
+    "description": "Replicator abilities occur a second time at reduced effectiveness.",
+    "effects": [
+      {
+        "count": "(2)\n25% strength",
+        "text": "(4)\n50% strength"
+      },
+      {
+        "count": "(2)",
+        "text": "25% strength"
+      },
+      {
+        "count": "(4)",
+        "text": "50% strength"
+      }
+    ]
+  },
+  {
+    "section": "class-synergy",
+    "name": "Rogue",
+    "icon": "Rogue.png",
+    "champions": [
+      {
+        "name": "Briar",
+        "image": "Briar.png"
+      },
+      {
+        "name": "Talon",
+        "image": "Talon.png"
+      },
+      {
+        "name": "Gwen",
+        "image": "Gwen.png"
+      },
+      {
+        "name": "Fizz",
+        "image": "Fizz.png"
+      },
+      {
+        "name": "Kai'Sa",
+        "image": "KaiSa.png"
+      },
+      {
+        "name": "Riven",
+        "image": "Riven.png"
+      }
+    ],
+    "description": "Rogues gain Attack Damage and Ability Power. The first time they fall below 50% health, they slip into shadows. Enemies targeting them are redirected to a nearby unit, preferring Tanks.",
+    "effects": [
+      {
+        "count": "(2)\n15% AD AP",
+        "text": "(3)\n30% AD AP"
+      },
+      {
+        "count": "(2)",
+        "text": "15% AD AP"
+      },
+      {
+        "count": "(3)",
+        "text": "30% AD AP"
+      },
+      {
+        "count": "(4)",
+        "text": "45% AD AP"
+      },
+      {
+        "count": "(5)",
+        "text": "60% AD AP"
+      }
+    ]
+  },
+  {
+    "section": "class-synergy",
+    "name": "Shepherd",
+    "icon": "Shepherd.png",
+    "champions": [
+      {
+        "name": "Lissandra",
+        "image": "Lissandra.png"
+      },
+      {
+        "name": "Teemo",
+        "image": "Teemo.png"
+      },
+      {
+        "name": "Meepsie",
+        "image": "Meepsie.png"
+      },
+      {
+        "name": "Illaoi",
+        "image": "Illaoi.png"
+      },
+      {
+        "name": "LeBlanc",
+        "image": "LeBlanc.png"
+      },
+      {
+        "name": "Sona",
+        "image": "Sona.png"
+      }
+    ],
+    "description": "Shepherds summon the Bond of the Stars to aid them in battle.",
+    "effects": [
+      {
+        "count": "(3)\nSummon Bia",
+        "text": "(5)\nSummon Bayin"
+      },
+      {
+        "count": "(3)",
+        "text": "Summon Bia"
+      },
+      {
+        "count": "(5)",
+        "text": "Summon Bayin"
+      },
+      {
+        "count": "(7)",
+        "text": "Bia and Bayin's bond grows deeper. Bia and Bayin's power are increased by the total star level of Shepherd."
+      }
+    ]
+  },
+  {
+    "section": "class-synergy",
+    "name": "Sniper",
+    "icon": "Sniper.png",
+    "champions": [
+      {
+        "name": "Ezreal",
+        "image": "Ezreal.png"
+      },
+      {
+        "name": "Gnar",
+        "image": "Gnar.png"
+      },
+      {
+        "name": "Samira",
+        "image": "Samira.png"
+      },
+      {
+        "name": "Xayah",
+        "image": "Xayah.png"
+      },
+      {
+        "name": "Jhin",
+        "image": "Jhin.png"
+      }
+    ],
+    "description": "Snipers gain Damage Amp, increased against targets farther away.",
+    "effects": [
+      {
+        "count": "(2)\n18% DA; +2% DA per hex",
+        "text": "(3)\n24% DA; +3% DA per hex"
+      },
+      {
+        "count": "(2)",
+        "text": "18% DA; +2% DA per hex"
+      },
+      {
+        "count": "(3)",
+        "text": "24% DA; +3% DA per hex"
+      },
+      {
+        "count": "(4)",
+        "text": "28% DA; +4% DA per hex"
+      },
+      {
+        "count": "(5)",
+        "text": "32% DA; +5% DA per hex"
+      }
+    ]
+  },
+  {
+    "section": "class-synergy",
+    "name": "Stargazer (The Altar)",
+    "icon": "Stargazer.png",
+    "champions": [
+      {
+        "name": "Talon",
+        "image": "Talon.png"
+      },
+      {
+        "name": "Twisted Fate",
+        "image": "TwistedFate.png"
+      },
+      {
+        "name": "Jax",
+        "image": "Jax.png"
+      },
+      {
+        "name": "Lulu",
+        "image": "Lulu.png"
+      },
+      {
+        "name": "Nunu",
+        "image": "Nunu.png"
+      },
+      {
+        "name": "Xayah",
+        "image": "Xayah.png"
+      }
+    ],
+    "description": "Stargazers chart a different constellation every game. This game: The Altar.",
+    "effects": [
+      {
+        "count": "(3)",
+        "text": "When ANY unit dies, they are sacrificed to the altar. Allies in empowered hexes gain 10% health and 15% attack speed. After 60 sacrifices, Stargazers in empowered hexes gain an additional 25% health and 40% attack speed. More hexes reveal at each player level"
+      }
+    ]
+  },
+  {
+    "section": "class-synergy",
+    "name": "Stargazer (The Boar)",
+    "icon": "Stargazer.png",
+    "champions": [
+      {
+        "name": "Talon",
+        "image": "Talon.png"
+      },
+      {
+        "name": "Twisted Fate",
+        "image": "TwistedFate.png"
+      },
+      {
+        "name": "Jax",
+        "image": "Jax.png"
+      },
+      {
+        "name": "Lulu",
+        "image": "Lulu.png"
+      },
+      {
+        "name": "Nunu",
+        "image": "Nunu.png"
+      },
+      {
+        "name": "Xayah",
+        "image": "Xayah.png"
+      }
+    ],
+    "description": "Stargazers chart a different constellation every game. This game: The Boar. Gain gold on win. Allies in empowered hexes gain 8% health, attack damage, and ability power. Stargazers gain more.",
+    "effects": [
+      {
+        "count": "(3)\n1 gold, 10% health, 18% attack damage and ability power",
+        "text": "(4)\n2 gold, 15% health, 25% attack damage and ability power"
+      },
+      {
+        "count": "(3)",
+        "text": "1 gold, 10% health, 18% attack damage and ability power"
+      },
+      {
+        "count": "(4)",
+        "text": "2 gold, 15% health, 25% attack damage and ability power"
+      },
+      {
+        "count": "(5)",
+        "text": "3 gold, 20% health, 33% attack damage and ability power"
+      },
+      {
+        "count": "(6)",
+        "text": "5 gold, 25% health, 40% attack damage and ability power. More hexes reveal at each player level"
+      }
+    ]
+  },
+  {
+    "section": "class-synergy",
+    "name": "Stargazer (The Fountain)",
+    "icon": "Stargazer.png",
+    "champions": [
+      {
+        "name": "Talon",
+        "image": "Talon.png"
+      },
+      {
+        "name": "Twisted Fate",
+        "image": "TwistedFate.png"
+      },
+      {
+        "name": "Jax",
+        "image": "Jax.png"
+      },
+      {
+        "name": "Lulu",
+        "image": "Lulu.png"
+      },
+      {
+        "name": "Nunu",
+        "image": "Nunu.png"
+      },
+      {
+        "name": "Xayah",
+        "image": "Xayah.png"
+      }
+    ],
+    "description": "Stargazers chart a different constellation every game. This game: The Fountain. Allies in empowered hexes gain 1 mana regen. Stargazers in empowered hexes gain more and heal the lowest Health ally with their abilities.",
+    "effects": [
+      {
+        "count": "(3)\n3 mana regen, 10% ability damage heal",
+        "text": "(5)\n5 mana regen, 18% ability damage heal. More hexes reveal at each player level"
+      },
+      {
+        "count": "(3)",
+        "text": "3 mana regen, 10% ability damage heal"
+      },
+      {
+        "count": "(5)",
+        "text": "5 mana regen, 18% ability damage heal. More hexes reveal at each player level"
+      }
+    ]
+  },
+  {
+    "section": "class-synergy",
+    "name": "Stargazer (The Huntress)",
+    "icon": "Stargazer.png",
+    "champions": [
+      {
+        "name": "Talon",
+        "image": "Talon.png"
+      },
+      {
+        "name": "Twisted Fate",
+        "image": "TwistedFate.png"
+      },
+      {
+        "name": "Jax",
+        "image": "Jax.png"
+      },
+      {
+        "name": "Lulu",
+        "image": "Lulu.png"
+      },
+      {
+        "name": "Nunu",
+        "image": "Nunu.png"
+      },
+      {
+        "name": "Xayah",
+        "image": "Xayah.png"
+      }
+    ],
+    "description": "Stargazers chart a different constellation every game. This game: The Huntress. Mark the highest Health enemies. Allies in empowered hexes gain 15% attack speed. Stargazers in empowered hexes gain more and heal for 10% of their max health when a marked enemy dies.",
+    "effects": [
+      {
+        "count": "(3)\n30% attack speed, 3 marks",
+        "text": "(5)\n45% attack speed, 5 marks"
+      },
+      {
+        "count": "(3)",
+        "text": "30% attack speed, 3 marks"
+      },
+      {
+        "count": "(5)",
+        "text": "45% attack speed, 5 marks"
+      },
+      {
+        "count": "(7)",
+        "text": "60% attack speed, 7 marks. More hexes reveal at each player level"
+      }
+    ]
+  },
+  {
+    "section": "class-synergy",
+    "name": "Stargazer (The Medallion)",
+    "icon": "Stargazer.png",
+    "champions": [
+      {
+        "name": "Talon",
+        "image": "Talon.png"
+      },
+      {
+        "name": "Twisted Fate",
+        "image": "TwistedFate.png"
+      },
+      {
+        "name": "Jax",
+        "image": "Jax.png"
+      },
+      {
+        "name": "Lulu",
+        "image": "Lulu.png"
+      },
+      {
+        "name": "Nunu",
+        "image": "Nunu.png"
+      },
+      {
+        "name": "Xayah",
+        "image": "Xayah.png"
+      }
+    ],
+    "description": "Stargazers chart a different constellation every game. This game: The Medallion.",
+    "effects": [
+      {
+        "count": "(3)",
+        "text": "Allies in empowered hexes gain 15% damage amp, which increases by 3% for each 3 star on your team. More hexes reveal at each player level"
+      }
+    ]
+  },
+  {
+    "section": "class-synergy",
+    "name": "Stargazer (The Mountain)",
+    "icon": "Stargazer.png",
+    "champions": [
+      {
+        "name": "Talon",
+        "image": "Talon.png"
+      },
+      {
+        "name": "Twisted Fate",
+        "image": "TwistedFate.png"
+      },
+      {
+        "name": "Jax",
+        "image": "Jax.png"
+      },
+      {
+        "name": "Lulu",
+        "image": "Lulu.png"
+      },
+      {
+        "name": "Nunu",
+        "image": "Nunu.png"
+      },
+      {
+        "name": "Xayah",
+        "image": "Xayah.png"
+      }
+    ],
+    "description": "Stargazers chart a different constellation every game. This game: The Mountain. Every 5 player combat, gain a Stargazer emblem. Stargazers in empowered hexes gain various bonuses.",
+    "effects": [
+      {
+        "count": "(3)\nGain 15% Health",
+        "text": "(4)\nAND 15% attack damage and ability power"
+      },
+      {
+        "count": "(3)",
+        "text": "Gain 15% Health"
+      },
+      {
+        "count": "(4)",
+        "text": "AND 15% attack damage and ability power"
+      },
+      {
+        "count": "(5)",
+        "text": "AND 15 armor and magic resist"
+      },
+      {
+        "count": "(6)",
+        "text": "AND 15% attack speed"
+      },
+      {
+        "count": "(7)",
+        "text": "AND 12% Durability"
+      },
+      {
+        "count": "(8)",
+        "text": "AND increase all other bonuses by 20%"
+      },
+      {
+        "count": "(9)",
+        "text": "I can see the summit..."
+      },
+      {
+        "count": "(10)",
+        "text": "almost there..."
+      },
+      {
+        "count": "(11)",
+        "text": "The stars beckon all enemies. More hexes reveal at each player level"
+      }
+    ]
+  },
+  {
+    "section": "class-synergy",
+    "name": "Stargazer (The Serpent)",
+    "icon": "Stargazer.png",
+    "champions": [
+      {
+        "name": "Talon",
+        "image": "Talon.png"
+      },
+      {
+        "name": "Twisted Fate",
+        "image": "TwistedFate.png"
+      },
+      {
+        "name": "Jax",
+        "image": "Jax.png"
+      },
+      {
+        "name": "Lulu",
+        "image": "Lulu.png"
+      },
+      {
+        "name": "Nunu",
+        "image": "Nunu.png"
+      },
+      {
+        "name": "Xayah",
+        "image": "Xayah.png"
+      }
+    ],
+    "description": "Stargazers chart a different constellation every game. This game: The Serpent. Allies in empowered hexes gain 8% Durability. Stargazers in empowered hexes gain more and poison enemies, repeating a portion of damage dealt as magic damage over 3 seconds.",
+    "effects": [
+      {
+        "count": "(3)\n15% DR, 30% poison damage",
+        "text": "(5)\n20% DR, 45% poison damage"
+      },
+      {
+        "count": "(3)",
+        "text": "15% DR, 30% poison damage"
+      },
+      {
+        "count": "(5)",
+        "text": "20% DR, 45% poison damage"
+      },
+      {
+        "count": "(7)",
+        "text": "25% DR, 60% poison damage. More hexes reveal at each player level"
+      }
+    ]
+  },
+  {
+    "section": "class-synergy",
+    "name": "Vanguard",
+    "icon": "Vanguard.png",
+    "champions": [
+      {
+        "name": "Leona",
+        "image": "Leona.png"
+      },
+      {
+        "name": "Nasus",
+        "image": "Nasus.png"
+      },
+      {
+        "name": "Mordekaiser",
+        "image": "Mordekaiser.png"
+      },
+      {
+        "name": "Illaoi",
+        "image": "Illaoi.png"
+      },
+      {
+        "name": "Nunu",
+        "image": "Nunu.png"
+      },
+      {
+        "name": "Blitzcrank",
+        "image": "Blitzcrank.png"
+      }
+    ],
+    "description": "Vanguards gain 5% Durability while Shielded. Combat start and 50% Health: Gain a max Health Shield for 10 seconds.",
+    "effects": [
+      {
+        "count": "(2)\n16% max Health",
+        "text": "(4)\n28% max Health"
+      },
+      {
+        "count": "(2)",
+        "text": "16% max Health"
+      },
+      {
+        "count": "(4)",
+        "text": "28% max Health"
+      },
+      {
+        "count": "(6)",
+        "text": "40% max Health; 10% DR while Shielded"
+      }
+    ]
+  },
+  {
+    "section": "class-synergy",
+    "name": "Voyager",
+    "icon": "Voyager.png",
+    "champions": [
+      {
+        "name": "Meepsie",
+        "image": "Meepsie.png"
+      },
+      {
+        "name": "Pyke",
+        "image": "Pyke.png"
+      },
+      {
+        "name": "Aurora",
+        "image": "Aurora.png"
+      },
+      {
+        "name": "The Mighty Mech",
+        "image": "TheMightyMech.png"
+      },
+      {
+        "name": "Karma",
+        "image": "Karma.png"
+      }
+    ],
+    "description": "Combat Start: Your Tanks and Fighters gain a Shield for 15 seconds. Your other allies gain Damage Amp. Voyagers gain double.",
+    "effects": [
+      {
+        "count": "(2)\n175 Shield; 9% DA",
+        "text": "(3)\n250 Shield; 15% DA"
+      },
+      {
+        "count": "(2)",
+        "text": "175 Shield; 9% DA"
+      },
+      {
+        "count": "(3)",
+        "text": "250 Shield; 15% DA"
+      },
+      {
+        "count": "(4)",
+        "text": "350 Shield; 18% DA"
+      },
+      {
+        "count": "(5)",
+        "text": "500 Shield; 22% DA"
+      },
+      {
+        "count": "(6)",
+        "text": "700 Shield; 27% DA"
+      }
+    ]
+  },
+  {
+    "section": "unique-synergy",
+    "name": "Arcana",
+    "icon": "Arcana.png",
+    "champions": [
+      {
+        "name": "Tahm Kench",
+        "image": "TahmKench.png"
+      }
+    ],
+    "description": "Every 3 rounds, Tahm Kench grants a reward!",
+    "effects": []
+  },
+  {
+    "section": "unique-synergy",
+    "name": "Bulwark (Shen)",
+    "icon": "Bulwark.png",
+    "champions": [
+      {
+        "name": "Shen",
+        "image": "Shen.png"
+      }
+    ],
+    "description": "Summon a placeable relic. At the start of combat, it grants adjacent allies a 18% max Health shield and 20% Attack Speed.",
+    "effects": []
+  },
+  {
+    "section": "unique-synergy",
+    "name": "Dark Lady (Morgana)",
+    "icon": "DarkLady.png",
+    "champions": [
+      {
+        "name": "Morgana",
+        "image": "Morgana.png"
+      }
+    ],
+    "description": "Allies take 5% less damage from abilities, increased to 10% while Morgana is in Dark Form.",
+    "effects": []
+  },
+  {
+    "section": "unique-synergy",
+    "name": "Divine Duelist (Fiora)",
+    "icon": "DivineDuelist.png",
+    "champions": [
+      {
+        "name": "Fiora",
+        "image": "Fiora.png"
+      }
+    ],
+    "description": "You heal for 15% of player damage you deal. Fiora always wins a one on one duel.",
+    "effects": []
+  },
+  {
+    "section": "unique-synergy",
+    "name": "Doomer (Vex)",
+    "icon": "Doomer.png",
+    "champions": [
+      {
+        "name": "Vex",
+        "image": "Vex.png"
+      }
+    ],
+    "description": "Combat Start: Mark all enemies with Doom. The first time enemies are damaged each combat, their Doom is consumed, stealing 8% Attack Damage and Ability Power from them and granting it to your strongest Vex.",
+    "effects": []
+  },
+  {
+    "section": "unique-synergy",
+    "name": "Eradicator (Jhin)",
+    "icon": "EradicatorJhin.svg",
+    "champions": [
+      {
+        "name": "Jhin",
+        "image": "Jhin.png"
+      }
+    ],
+    "description": "Enemies have 14% less Armor and Magic Resist.",
+    "effects": []
+  },
+  {
+    "section": "unique-synergy",
+    "name": "Factory New (Graves)",
+    "icon": "FactoryNew.png",
+    "champions": [
+      {
+        "name": "Graves",
+        "image": "Graves.png"
+      }
+    ],
+    "description": "After participating in combat, open an armory to purchase a permanent upgrade for your strongest Graves. Every 3 upgrades, future upgrades will take an additional round.",
+    "effects": []
+  },
+  {
+    "section": "unique-synergy",
+    "name": "Gun Goddess (Miss Fortune)",
+    "icon": "GunGoddessMissFortune.svg",
+    "champions": [
+      {
+        "name": "Miss Fortune",
+        "image": "MissFortune.png"
+      }
+    ],
+    "description": "When you field Miss Fortune, choose between Channeler Mode, Challenger Mode, and Replicator Mode. Miss Fortune has a unique ability based on her mode and gains the associated trait.",
+    "effects": []
+  },
+  {
+    "section": "unique-synergy",
+    "name": "Party Animal (Blitzcrank)",
+    "icon": "PartyAnimal.png",
+    "champions": [
+      {
+        "name": "Blitzcrank",
+        "image": "Blitzcrank.png"
+      }
+    ],
+    "description": "Once per combat, after falling below 45% percent Health, become untargetable and repair 15% max Health per second. Upon reaching full Health, or when no other allies remain, return to combat. If fully healed, for the rest of combat Blitzcrank is in The Groove and Party Crasher's passive fires bolts four times as fast.",
+    "effects": []
+  },
+  {
+    "section": "unique-synergy",
+    "name": "Redeemer (Rhaast)",
+    "icon": "Redeemer.png",
+    "champions": [
+      {
+        "name": "Rhaast",
+        "image": "Rhaast.png"
+      }
+    ],
+    "description": "For each non-unique trait you have active, your team gains 2%/3%/4% Attack Speed, and 2/3/4 Armor and Magic Resist.",
+    "effects": []
+  }
+]
