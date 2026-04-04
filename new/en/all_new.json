@@ -1,5 +1,5 @@
 {
-  "section": {
+  "season": {
     "season": "TFT 17: SPACE GODS"
   },
   "gods": [
@@ -404,10 +404,6 @@
       "description": "",
       "effects": [
         {
-          "count": "(2)\nDark Stars create a black hole that consumes enemies at 10% max health.",
-          "text": "(4)\nAND they gain 30% AD & AP."
-        },
-        {
           "count": "(2)",
           "text": "Dark Stars create a black hole that consumes enemies at 10% max health."
         },
@@ -466,10 +462,6 @@
       "description": "Astronauts attract Meeps that empower Astronaut abilities in meepy ways. They also gain bonus Health.",
       "effects": [
         {
-          "count": "(3)\n2%, 125 Health",
-          "text": "(5)\n3%, 250 Health"
-        },
-        {
           "count": "(3)",
           "text": "2%, 125 Health"
         },
@@ -516,10 +508,6 @@
       "description": "",
       "effects": [
         {
-          "count": "(2)\n6 seconds into combat, N.O.V.A. grant a power surge to allies based on champions.",
-          "text": "(5)\nGain a Striker selector. The chosen N.O.V.A. activates their Strike during the power surge. Aatrox: Ally Damage 30% Shred and Sunders enemies / Caitlyn: Grant allies 20% Attack Speed / Akali: Allies gain Precision / Maokai: Allies heal 15% max Health / Kindred: Shield the strongest Tank for 800 / Emblem: Allies deal 10% stacking bonus true damage"
-        },
-        {
           "count": "(2)",
           "text": "6 seconds into combat, N.O.V.A. grant a power surge to allies based on champions."
         },
@@ -549,10 +537,6 @@
       ],
       "description": "",
       "effects": [
-        {
-          "count": "(2)\nDealing damage spawns Swarmlings based on Primordian star level.",
-          "text": "(3)\nSpawn even more Swarmlings! Each round, gain a random 1 or 2-cost champion. 8% of damage taken contributes to damage dealt."
-        },
         {
           "count": "(2)",
           "text": "Dealing damage spawns Swarmlings based on Primordian star level."
@@ -591,10 +575,6 @@
       ],
       "description": "Gain Psionic items that can be equipped to any ally.",
       "effects": [
-        {
-          "count": "(2)\nGain the Psionic item 1",
-          "text": "(4)\nGain the Psionic item 2, Psionic items gain extra effects on Psionic units"
-        },
         {
           "count": "(2)",
           "text": "Gain the Psionic item 1"
@@ -642,10 +622,6 @@
       "description": "",
       "effects": [
         {
-          "count": "(1)\nGroovians can enter the Groove. While in it, they gain Attack Speed and max Health Regen, increased per Groovian on your team.",
-          "text": "(3)\nAll Groovians start combat in the Groove for 3 seconds."
-        },
-        {
           "count": "(1)",
           "text": "Groovians can enter the Groove. While in it, they gain Attack Speed and max Health Regen, increased per Groovian on your team."
         },
@@ -691,10 +667,6 @@
       ],
       "description": "",
       "effects": [
-        {
-          "count": "(2)\nWhen you lose, gain free rerolls. When you win, store XP in a Temporal Core (scales with stage).",
-          "text": "(3)\nAND Allies gain 15% Attack Speed."
-        },
         {
           "count": "(2)",
           "text": "When you lose, gain free rerolls. When you win, store XP in a Temporal Core (scales with stage)."
@@ -777,10 +749,6 @@
       "description": "After losing a player combat, gain 15 Tech, plus additional Tech equal to 5 times the length of your loss streak. Additionally, gain 2 Tech per Anima takedown. Each time Animas get 100 Tech, they prototype new Anima Weapons. You can take them, or save your Tech to get more powerful weapons next time.",
       "effects": [
         {
-          "count": "(3)\nStart Researching!",
-          "text": "(6)\nGain a loot Orb upon win"
-        },
-        {
           "count": "(3)",
           "text": "Start Researching!"
         },
@@ -814,10 +782,6 @@
       ],
       "description": "Scribe a unique divine law, allowing you to choose an effect to apply to Arbiters when a chosen cause occurs.",
       "effects": [
-        {
-          "count": "(2)\nChoose a cause and effect for your law",
-          "text": "(3)\nEffects are stronger."
-        },
         {
           "count": "(2)",
           "text": "Choose a cause and effect for your law"
@@ -860,10 +824,6 @@
       ],
       "description": "Your team gains 12 Armor and Magic Resist. Bastions gain more, and the value doubles in the first 10 seconds of combat.",
       "effects": [
-        {
-          "count": "(2)\n16 Armor & MR",
-          "text": "(4)\n35 Armor & MR"
-        },
         {
           "count": "(2)",
           "text": "16 Armor & MR"
@@ -915,10 +875,6 @@
       "description": "Your team gains 7% Health. Brawlers gain more.",
       "effects": [
         {
-          "count": "(2)\n+25% maximum Health",
-          "text": "(4)\n+45% maximum Health"
-        },
-        {
           "count": "(2)",
           "text": "+25% maximum Health"
         },
@@ -960,10 +916,6 @@
       ],
       "description": "Your team gains 10% Attack Speed. Challengers gain bonus Attack Speed. When their target dies, Challengers dash to a new target and increase their Attack Speed bonus by 50% for 2.50 seconds.",
       "effects": [
-        {
-          "count": "(2)\n15% AS",
-          "text": "(3)\n22% AS"
-        },
         {
           "count": "(2)",
           "text": "15% AS"
@@ -1015,10 +967,6 @@
       "description": "Innate: Channelers gain 20% additional Mana from all sources. Your team gains Mana Regen, increased for Channelers.",
       "effects": [
         {
-          "count": "(2)\n1% Mana Regen | 3% Mana Regen",
-          "text": "(3)\n1% Mana Regen | 4% Mana Regen"
-        },
-        {
           "count": "(2)",
           "text": "1% Mana Regen | 3% Mana Regen"
         },
@@ -1061,10 +1009,6 @@
       "description": "Innate: Fateweavers have Precision.",
       "effects": [
         {
-          "count": "(2)\nChance effects on abilities are Lucky.",
-          "text": "(4)\nGain 20% Crit Chance and 10% Crit Damage. Critical strikes are also Lucky."
-        },
-        {
           "count": "(2)",
           "text": "Chance effects on abilities are Lucky."
         },
@@ -1103,10 +1047,6 @@
       "description": "Your team gains 5% Omnivamp. Marauders gain more Omnivamp, Attack Damage, and their Omnivamp overhealing is converted into Shield (up to 25% max Health.)",
       "effects": [
         {
-          "count": "(2)\n5% Omnivamp, 20% AD",
-          "text": "(4)\n7% Omnivamp, 30% AD"
-        },
-        {
           "count": "(2)",
           "text": "5% Omnivamp, 20% AD"
         },
@@ -1140,10 +1080,6 @@
       ],
       "description": "Innate: Mecha units can transform into their Ultimate form, upgrading their ability and gaining 60% Health. Transformed Mechas take up two team slots and count twice for the Mecha trait.",
       "effects": [
-        {
-          "count": "(3)\nEnergy Cells: Mechas gain 20% AD & AP.",
-          "text": "(4)\nOverclocked Cells: Increased to 35% AD & AP."
-        },
         {
           "count": "(3)",
           "text": "Energy Cells: Mechas gain 20% AD & AP."
@@ -1191,10 +1127,6 @@
       "description": "Replicator abilities occur a second time at reduced effectiveness.",
       "effects": [
         {
-          "count": "(2)\n25% strength",
-          "text": "(4)\n50% strength"
-        },
-        {
           "count": "(2)",
           "text": "25% strength"
         },
@@ -1236,10 +1168,6 @@
       ],
       "description": "Rogues gain Attack Damage and Ability Power. The first time they fall below 50% health, they slip into shadows. Enemies targeting them are redirected to a nearby unit, preferring Tanks.",
       "effects": [
-        {
-          "count": "(2)\n15% AD AP",
-          "text": "(3)\n30% AD AP"
-        },
         {
           "count": "(2)",
           "text": "15% AD AP"
@@ -1291,10 +1219,6 @@
       "description": "Shepherds summon the Bond of the Stars to aid them in battle.",
       "effects": [
         {
-          "count": "(3)\nSummon Bia",
-          "text": "(5)\nSummon Bayin"
-        },
-        {
           "count": "(3)",
           "text": "Summon Bia"
         },
@@ -1336,10 +1260,6 @@
       ],
       "description": "Snipers gain Damage Amp, increased against targets farther away.",
       "effects": [
-        {
-          "count": "(2)\n18% DA; +2% DA per hex",
-          "text": "(3)\n24% DA; +3% DA per hex"
-        },
         {
           "count": "(2)",
           "text": "18% DA; +2% DA per hex"
@@ -1429,10 +1349,6 @@
       "description": "Stargazers chart a different constellation every game. This game: The Boar. Gain gold on win. Allies in empowered hexes gain 8% health, attack damage, and ability power. Stargazers gain more.",
       "effects": [
         {
-          "count": "(3)\n1 gold, 10% health, 18% attack damage and ability power",
-          "text": "(4)\n2 gold, 15% health, 25% attack damage and ability power"
-        },
-        {
           "count": "(3)",
           "text": "1 gold, 10% health, 18% attack damage and ability power"
         },
@@ -1483,10 +1399,6 @@
       "description": "Stargazers chart a different constellation every game. This game: The Fountain. Allies in empowered hexes gain 1 mana regen. Stargazers in empowered hexes gain more and heal the lowest Health ally with their abilities.",
       "effects": [
         {
-          "count": "(3)\n3 mana regen, 10% ability damage heal",
-          "text": "(5)\n5 mana regen, 18% ability damage heal. More hexes reveal at each player level"
-        },
-        {
           "count": "(3)",
           "text": "3 mana regen, 10% ability damage heal"
         },
@@ -1528,10 +1440,6 @@
       ],
       "description": "Stargazers chart a different constellation every game. This game: The Huntress. Mark the highest Health enemies. Allies in empowered hexes gain 15% attack speed. Stargazers in empowered hexes gain more and heal for 10% of their max health when a marked enemy dies.",
       "effects": [
-        {
-          "count": "(3)\n30% attack speed, 3 marks",
-          "text": "(5)\n45% attack speed, 5 marks"
-        },
         {
           "count": "(3)",
           "text": "30% attack speed, 3 marks"
@@ -1617,10 +1525,6 @@
       "description": "Stargazers chart a different constellation every game. This game: The Mountain. Every 5 player combat, gain a Stargazer emblem. Stargazers in empowered hexes gain various bonuses.",
       "effects": [
         {
-          "count": "(3)\nGain 15% Health",
-          "text": "(4)\nAND 15% attack damage and ability power"
-        },
-        {
           "count": "(3)",
           "text": "Gain 15% Health"
         },
@@ -1691,10 +1595,6 @@
       "description": "Stargazers chart a different constellation every game. This game: The Serpent. Allies in empowered hexes gain 8% Durability. Stargazers in empowered hexes gain more and poison enemies, repeating a portion of damage dealt as magic damage over 3 seconds.",
       "effects": [
         {
-          "count": "(3)\n15% DR, 30% poison damage",
-          "text": "(5)\n20% DR, 45% poison damage"
-        },
-        {
           "count": "(3)",
           "text": "15% DR, 30% poison damage"
         },
@@ -1741,10 +1641,6 @@
       "description": "Vanguards gain 5% Durability while Shielded. Combat start and 50% Health: Gain a max Health Shield for 10 seconds.",
       "effects": [
         {
-          "count": "(2)\n16% max Health",
-          "text": "(4)\n28% max Health"
-        },
-        {
           "count": "(2)",
           "text": "16% max Health"
         },
@@ -1786,10 +1682,6 @@
       ],
       "description": "Combat Start: Your Tanks and Fighters gain a Shield for 15 seconds. Your other allies gain Damage Amp. Voyagers gain double.",
       "effects": [
-        {
-          "count": "(2)\n175 Shield; 9% DA",
-          "text": "(3)\n250 Shield; 15% DA"
-        },
         {
           "count": "(2)",
           "text": "175 Shield; 9% DA"
