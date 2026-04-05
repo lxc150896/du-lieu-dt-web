@@ -1,366 +1,366 @@
 [
     {
         "name": "Ahri",
-        "of": "God of Opulence",
-        "offers": "Offers gold, XP, and reroll rewards.",
+        "of": "富の神",
+        "offers": "ゴールド、XP、およびリロール報酬を提供します。",
         "image": "Ahri-GodOfOpulence.png",
         "stages": [
             {
-                "title": "Stage 2",
+                "title": "ステージ 2",
                 "values": [
-                    "6 gold",
+                    "6 ゴールド",
                     "8 XP",
-                    "5 Rerolls",
-                    "6 gold, maybe +1"
+                    "5 リロール",
+                    "6 ゴールド（確率で +1）"
                 ]
             },
             {
-                "title": "Stage 3",
+                "title": "ステージ 3",
                 "values": [
-                    "8 gold",
-                    "7 Rerolls",
+                    "8 ゴールド",
+                    "7 リロール",
                     "10 XP",
-                    "8 gold, maybe +2"
+                    "8 ゴールド（確率で +2）"
                 ]
             },
             {
-                "title": "Stage 4",
+                "title": "ステージ 4",
                 "values": [
-                    "12 gold",
-                    "8 Rerolls",
-                    "12 Gold, maybe +3"
+                    "12 ゴールド",
+                    "8 リロール",
+                    "12 ゴールド（確率で +3）"
                 ]
             },
             {
-                "title": "4-7 Reward",
+                "title": "4-7 報酬",
                 "values": [
-                    "Gain 2 gold, 2 XP, and 2 rerolls each round"
+                    "毎ラウンド 2 ゴールド、2 XP、2 リロールを獲得"
                 ]
             }
         ]
     },
     {
         "name": "Aurelion Sol",
-        "of": "God of Wonders",
-        "offers": "Offers economy and emblem rewards.",
+        "of": "驚異の神",
+        "offers": "経済およびエンブレムの報酬を提供します。",
         "image": "AurelionSol-GodOfWonders.png",
         "stages": [
             {
-                "title": "Stage 2",
+                "title": "ステージ 2",
                 "values": [
-                    "Reach 50 gold to gain component anvil + 4 gold",
-                    "Field 6 non-unqiue traits to get a random emblem and a reforger"
+                    "50 ゴールド達成で素材アイテムの金槌 + 4 ゴールド獲得",
+                    "6 つの重複しない特性を配置してランダムなエンブレムと磁気式除去装置を獲得"
                 ]
             },
             {
-                "title": "Stage 3",
+                "title": "ステージ 3",
                 "values": [
-                    "Star up a unit to get 10 gold",
-                    "Field 6 non-unqiue traits to get a random emblem and a reforger"
+                    "ユニットを星アップして 10 ゴールド獲得",
+                    "6 つの重複しない特性を配置してランダムなエンブレムと磁気式除去装置を獲得"
                 ]
             },
             {
-                "title": "Stage 4",
+                "title": "ステージ 4",
                 "values": [
-                    "Reach level 9 to get 20 gold"
+                    "レベル 9 到達で 20 ゴールド獲得"
                 ]
             },
             {
-                "title": "4-7 Reward",
+                "title": "4-7 報酬",
                 "values": [
-                    "Choose one of three trials to prove yourself to Aurelion Sol"
+                    "オレリオン・ソルに実力を示すため、3 つの試練から 1 つを選択"
                 ]
             }
         ]
     },
     {
         "name": "Ekko",
-        "of": "God of Time",
-        "offers": "Offers delayed rewards and special loot.",
+        "of": "時の神",
+        "offers": "遅延報酬と特別な戦利品を提供します。",
         "image": "Ekko-GodOfTime.png",
         "stages": [
             {
-                "title": "Stage 2",
+                "title": "ステージ 2",
                 "values": [
-                    "Scuttle Puddle (+blue orb & 3 gold)",
-                    "Blessing at 30 HP (25g value)",
-                    "Spat in 4 rounds",
-                    "Artifact in 8 rounds",
-                    "4-cost in 3 rounds"
+                    "スカトルパドル（+青のオーブ & 3 ゴールド）",
+                    "30 HP 時の祝福（25 ゴールド相当）",
+                    "4 ラウンド後に「へら」",
+                    "8 ラウンド後にアーティファクト",
+                    "3 ラウンド後に 4 コストユニット"
                 ]
             },
             {
-                "title": "Stage 3",
+                "title": "ステージ 3",
                 "values": [
-                    "Scuttle Puddle (+blue orb & 4 gold)",
-                    "Implant (20% AS)",
-                    "2x5 cost in 4 rounds",
-                    "Component anvil in 3 rounds"
+                    "スカトルパドル（+青のオーブ & 4 ゴールド）",
+                    "インプラント（攻撃速度 20%）",
+                    "4 ラウンド後に 5 コストユニット x2",
+                    "3 ラウンド後に素材アイテムの金槌"
                 ]
             },
             {
-                "title": "Stage 4",
+                "title": "ステージ 4",
                 "values": [
-                    "Artifact in 5 rounds",
-                    "Completed Anvil in 4 rounds",
-                    "2 gold every turn",
-                    "Full 5-cost shop in 3 rounds",
-                    "Implant (20% AS)"
+                    "5 ラウンド後にアーティファクト",
+                    "4 ラウンド後に完成アイテムの金槌",
+                    "毎ターン 2 ゴールド獲得",
+                    "3 ラウンド後にすべて 5 コストのショップ",
+                    "インプラント（攻撃速度 20%）"
                 ]
             },
             {
-                "title": "4-7 Reward",
+                "title": "4-7 報酬",
                 "values": [
-                    "Gain the Anomaly item, which provides unique bonuses based on role"
+                    "役割に応じて独自のボーナスを与える「アノマリーアイテム」を獲得"
                 ]
             }
         ]
     },
     {
         "name": "Evelynn",
-        "of": "God of Temptation",
-        "offers": "Offers stronger rewards in exchange for Tactician health.",
+        "of": "誘惑の神",
+        "offers": "タクティシャンの体力を引き換えに、より強力な報酬を提供します。",
         "image": "Evelynn-GodOfTemptation.png",
         "stages": [
             {
-                "title": "Stage 2",
+                "title": "ステージ 2",
                 "values": [
-                    "8g, Lose 1 HP per",
-                    "2* 2 cost, -1HP",
-                    "2x lesser dupe, no shop 2 rounds"
+                    "8 ゴールド、毎ラウンド 1 HP 減少",
+                    "星 2 の 2 コストユニット、-1 HP",
+                    "小さなチャンピオン複製器 x2、2 ラウンド間ショップなし"
                 ]
             },
             {
-                "title": "Stage 3",
+                "title": "ステージ 3",
                 "values": [
-                    "11g, Lose 1 HP Per",
-                    "Random emblem, -3HP",
-                    "15 gold no shop 2 rounds",
-                    "2* 3 cost and -2 HP",
-                    "3* 1 cost and -2 HP"
+                    "11 ゴールド、毎ラウンド 1 HP 減少",
+                    "ランダムなエンブレム、-3 HP",
+                    "15 ゴールド、2 ラウンド間ショップなし",
+                    "星 2 の 3 コストユニット、-2 HP",
+                    "星 3 の 1 コストユニット、-2 HP"
                 ]
             },
             {
-                "title": "Stage 4",
+                "title": "ステージ 4",
                 "values": [
-                    "14g, Lose 1 HP Per",
-                    "2* 4 cost and -3 HP",
-                    "Completed item -5 HP",
-                    "18 gold no shop 2 rounds"
+                    "14 ゴールド、毎ラウンド 1 HP 減少",
+                    "星 2 の 4 コストユニット、-3 HP",
+                    "完成アイテム、-5 HP",
+                    "18 ゴールド、2 ラウンド間ショップなし"
                 ]
             },
             {
-                "title": "4-7 Reward",
+                "title": "4-7 報酬",
                 "values": [
-                    "Your team gains 10% Durability. Lose an additional 1 health when you lose combat"
+                    "チームが 10% の耐久力を獲得。敗北時にさらに 1 の体力を失う"
                 ]
             }
         ]
     },
     {
         "name": "Kayle",
-        "of": "God of Order",
-        "offers": "Offers component item rewards.",
+        "of": "秩序の神",
+        "offers": "素材アイテムの報酬を提供します。",
         "image": "Kayle-GodOfOrder.png",
         "stages": [
             {
-                "title": "Stage 2",
+                "title": "ステージ 2",
                 "values": [
-                    "Random Component",
-                    "Sparring Glove",
-                    "Recurve Bow",
-                    "Tear of the Goddess"
+                    "ランダムな素材アイテム",
+                    "スパーリング・グローブ",
+                    "リカーブ・ボウ",
+                    "女神の涙"
                 ]
             },
             {
-                "title": "Stage 3",
+                "title": "ステージ 3",
                 "values": [
-                    "Random Component",
-                    "B.F. Sword",
-                    "Chain Vest",
-                    "Needlessly Large Rod",
-                    "Negatron Cloak"
+                    "ランダムな素材アイテム",
+                    "B.F. ソード",
+                    "チェイン・ベスト",
+                    "無駄に大きなロッド",
+                    "ネガトロン・クローク"
                 ]
             },
             {
-                "title": "Stage 4",
+                "title": "ステージ 4",
                 "values": [
-                    "Random Component",
-                    "Sparring Glove",
-                    "Recurve Bow",
-                    "Tear of the Goddess",
-                    "B.F. Sword",
-                    "Chain Vest",
-                    "Needlessly Large Rod",
-                    "Negatron Cloak"
+                    "ランダムな素材アイテム",
+                    "スパーリング・グローブ",
+                    "リカーブ・ボウ",
+                    "女神の涙",
+                    "B.F. ソード",
+                    "チェイン・ベスト",
+                    "無駄に大きなロッド",
+                    "ネガトロン・クローク"
                 ]
             },
             {
-                "title": "4-7 Reward",
+                "title": "4-7 報酬",
                 "values": [
-                    "Upgrade a random completed item to Radiant"
+                    "ランダムな完成アイテム 1 つをレディアントアイテムにアップグレード"
                 ]
             }
         ]
     },
     {
         "name": "Soraka",
-        "of": "God of Stars",
-        "offers": "Offers health and health-based rewards.",
+        "of": "星の神",
+        "offers": "体力および体力に基づいた報酬を提供します。",
         "image": "Soraka-GodOfStars.png",
         "stages": [
             {
-                "title": "Stage 2",
+                "title": "ステージ 2",
                 "values": [
-                    "8 HP, maybe 3g",
+                    "8 HP（確率で 3 ゴールド）",
                     "12 HP",
-                    "Giant's Belt"
+                    "ジャイアント・ベルト"
                 ]
             },
             {
-                "title": "Stage 3",
+                "title": "ステージ 3",
                 "values": [
-                    "8 HP, maybe 5g",
+                    "8 HP（確率で 5 ゴールド）",
                     "12 HP",
-                    "Giant's Belt",
-                    "Implant (350 HP)"
+                    "ジャイアント・ベルト",
+                    "インプラント（350 HP）"
                 ]
             },
             {
-                "title": "Stage 4",
+                "title": "ステージ 4",
                 "values": [
-                    "8 HP, maybe 5g",
+                    "8 HP（確率で 5 ゴールド）",
                     "12 HP",
-                    "Giant's Belt",
-                    "Implant (350 HP)"
+                    "ジャイアント・ベルト",
+                    "インプラント（350 HP）"
                 ]
             },
             {
-                "title": "4-7 Reward",
+                "title": "4-7 報酬",
                 "values": [
-                    "Team gains 2 HP per missing Tactician health. +1 current and max health Tactician each round"
+                    "失ったタクティシャンの体力ごとにチームが 2 HP 獲得。毎ラウンド現在および最大 HP が +1"
                 ]
             }
         ]
     },
     {
         "name": "Thresh",
-        "of": "God of Pacts",
-        "offers": "Offers random loot and gold.",
+        "of": "契約の神",
+        "offers": "ランダムな戦利品とゴールドを提供します。",
         "image": "Thresh-GodOfPacts.png",
         "stages": [
             {
-                "title": "Stage 2",
+                "title": "ステージ 2",
                 "values": [
-                    "Random + 2g",
-                    "Random loot (EV 7)"
+                    "ランダム報酬 + 2 ゴールド",
+                    "ランダムな戦利品（期待値 7）"
                 ]
             },
             {
-                "title": "Stage 3",
+                "title": "ステージ 3",
                 "values": [
-                    "Random + 3g",
-                    "Random loot (EV 9)"
+                    "ランダム報酬 + 3 ゴールド",
+                    "ランダムな戦利品（期待値 9）"
                 ]
             },
             {
-                "title": "Stage 4",
+                "title": "ステージ 4",
                 "values": [
-                    "Random + 5g",
-                    "Random loot (EV 10)"
+                    "ランダム報酬 + 5 ゴールド",
+                    "ランダムな戦利品（期待値 10）"
                 ]
             },
             {
-                "title": "4-7 Reward",
+                "title": "4-7 報酬",
                 "values": [
-                    "After each player combat, roll a die. Gain rewards based on the result"
+                    "プレイヤー戦闘のたびにダイスを振る。出目に応じた報酬を獲得"
                 ]
             }
         ]
     },
     {
         "name": "Varus",
-        "of": "God of Love",
-        "offers": "Offers champions, duplicators, and shop-based rewards.",
+        "of": "愛の神",
+        "offers": "チャンピオン、複製器、およびショップ関連の報酬を提供します。",
         "image": "Varus-GodOfLove.png",
         "stages": [
             {
-                "title": "Stage 2",
+                "title": "ステージ 2",
                 "values": [
-                    "2 & 3 Cost",
-                    "Owned 3 cost",
-                    "2 Tiny Dupes",
-                    "3 cost shop"
+                    "2 & 3 コストユニット",
+                    "所持している 3 コストユニット",
+                    "小さなチャンピオン複製器 x2",
+                    "3 コスト確定ショップ"
                 ]
             },
             {
-                "title": "Stage 3",
+                "title": "ステージ 3",
                 "values": [
-                    "3 & 4 Cost",
-                    "Lesser Dupe",
-                    "Owned 3 cost",
-                    "4 cost shop"
+                    "3 & 4 コストユニット",
+                    "チャンピオン複製器（小）",
+                    "所持している 3 コストユニット",
+                    "4 コスト確定ショップ"
                 ]
             },
             {
-                "title": "Stage 4",
+                "title": "ステージ 4",
                 "values": [
-                    "4 & 5 Cost",
-                    "Lesser Dupe + 3g",
-                    "1 Lesser Duplicator + 5 Tiny Duplicators",
-                    "Owned 4 cost",
-                    "1% 5 cost odds"
+                    "4 & 5 コストユニット",
+                    "チャンピオン複製器（小）+ 3 ゴールド",
+                    "チャンピオン複製器（小）x1 + 小さなチャンピオン複製器 x5",
+                    "所持している 4 コストユニット",
+                    "5 コスト出現率が 1% 上昇"
                 ]
             },
             {
-                "title": "4-7 Reward",
+                "title": "4-7 報酬",
                 "values": [
-                    "Your team gains 10 health for each total star level in your army. Increase your 5 cost odds by 4%"
+                    "自軍の合計星レベルごとにチームが 10 HP 獲得。5 コスト出現率が 4% 上昇"
                 ]
             }
         ]
     },
     {
         "name": "Yasuo",
-        "of": "God of the Abyss",
-        "offers": "Offers empowered combat hex effects.",
+        "of": "深淵の神",
+        "offers": "強化された戦闘ヘックス効果を提供します。",
         "image": "Yasuo-GodOfTheAbyss.png",
         "stages": [
             {
-                "title": "Stage 2",
+                "title": "ステージ 2",
                 "values": [
-                    "Fire Hex (18% dmg, burn/wound)",
-                    "Wood Hex (10% + 30 HP)",
-                    "Wind Hex (30% AS)",
-                    "Ice Hex (15% heal)",
-                    "Electric Hex (2s stun)",
-                    "Socialite Hex (2 mana regen)"
+                    "火のヘックス（18% ダメージ、炎上/負傷）",
+                    "木のヘックス（10% + 30 HP）",
+                    "風のヘックス（30% 攻撃速度）",
+                    "氷のヘックス（15% 回復）",
+                    "雷のヘックス（2秒スタン）",
+                    "ソーシャライト・ヘックス（2 マナ回復）"
                 ]
             },
             {
-                "title": "Stage 3",
+                "title": "ステージ 3",
                 "values": [
-                    "Fire Hex (18% dmg, burn/wound)",
-                    "Wind Hex (30% AS)",
-                    "Ice Hex (15% heal)",
-                    "Electric Hex (2s stun)",
-                    "Socialite Hex (2 mana regen)"
+                    "火のヘックス（18% ダメージ、炎上/負傷）",
+                    "風のヘックス（30% 攻撃速度）",
+                    "氷のヘックス（15% 回復）",
+                    "雷のヘックス（2秒スタン）",
+                    "ソーシャライト・ヘックス（2 マナ回復）"
                 ]
             },
             {
-                "title": "Stage 4",
+                "title": "ステージ 4",
                 "values": [
-                    "Fire Hex (18% dmg, burn/wound)",
-                    "Wind Hex (30% AS)",
-                    "Ice Hex (15% heal)",
-                    "Electric Hex (2s stun)",
-                    "Socialite Hex (2 mana regen)"
+                    "火のヘックス（18% ダメージ、炎上/負傷）",
+                    "風のヘックス（30% 攻撃速度）",
+                    "氷のヘックス（15% 回復）",
+                    "雷のヘックス（2秒スタン）",
+                    "ソーシャライト・ヘックス（2 マナ回復）"
                 ]
             },
             {
-                "title": "4-7 Reward",
+                "title": "4-7 報酬",
                 "values": [
-                    "Increase the power of Yasuo's hexes by 50%. If you only have 2 hexes, gain 12 gold."
+                    "ヤスオのヘックスの効果を 50% 上昇。ヘックスが 2 つしかない場合、12 ゴールド獲得"
                 ]
             }
         ]

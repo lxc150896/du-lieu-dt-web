@@ -1,366 +1,366 @@
 [
     {
         "name": "Ahri",
-        "of": "God of Opulence",
-        "offers": "Offers gold, XP, and reroll rewards.",
+        "of": "Thần Thịnh Vượng",
+        "offers": "Cung cấp vàng, XP và lượt đổi lại (reroll).",
         "image": "Ahri-GodOfOpulence.png",
         "stages": [
             {
-                "title": "Stage 2",
+                "title": "Giai đoạn 2",
                 "values": [
-                    "6 gold",
+                    "6 vàng",
                     "8 XP",
-                    "5 Rerolls",
-                    "6 gold, maybe +1"
+                    "5 lượt đổi lại",
+                    "6 vàng, có thể thêm 1"
                 ]
             },
             {
-                "title": "Stage 3",
+                "title": "Giai đoạn 3",
                 "values": [
-                    "8 gold",
-                    "7 Rerolls",
+                    "8 vàng",
+                    "7 lượt đổi lại",
                     "10 XP",
-                    "8 gold, maybe +2"
+                    "8 vàng, có thể thêm 2"
                 ]
             },
             {
-                "title": "Stage 4",
+                "title": "Giai đoạn 4",
                 "values": [
-                    "12 gold",
-                    "8 Rerolls",
-                    "12 Gold, maybe +3"
+                    "12 vàng",
+                    "8 lượt đổi lại",
+                    "12 vàng, có thể thêm 3"
                 ]
             },
             {
-                "title": "4-7 Reward",
+                "title": "Phần thưởng 4-7",
                 "values": [
-                    "Gain 2 gold, 2 XP, and 2 rerolls each round"
+                    "Nhận 2 vàng, 2 XP và 2 lượt đổi lại mỗi vòng"
                 ]
             }
         ]
     },
     {
         "name": "Aurelion Sol",
-        "of": "God of Wonders",
-        "offers": "Offers economy and emblem rewards.",
+        "of": "Thần Kỳ Quan",
+        "offers": "Cung cấp các phần thưởng về kinh tế và ấn tộc hệ.",
         "image": "AurelionSol-GodOfWonders.png",
         "stages": [
             {
-                "title": "Stage 2",
+                "title": "Giai đoạn 2",
                 "values": [
-                    "Reach 50 gold to gain component anvil + 4 gold",
-                    "Field 6 non-unqiue traits to get a random emblem and a reforger"
+                    "Đạt 50 vàng để nhận đe thành phần + 4 vàng",
+                    "Kích hoạt 6 tộc hệ không trùng lặp để nhận 1 ấn ngẫu nhiên và 1 bộ tháo đồ"
                 ]
             },
             {
-                "title": "Stage 3",
+                "title": "Giai đoạn 3",
                 "values": [
-                    "Star up a unit to get 10 gold",
-                    "Field 6 non-unqiue traits to get a random emblem and a reforger"
+                    "Nâng cấp sao cho 1 đơn vị để nhận 10 vàng",
+                    "Kích hoạt 6 tộc hệ không trùng lặp để nhận 1 ấn ngẫu nhiên và 1 bộ tháo đồ"
                 ]
             },
             {
-                "title": "Stage 4",
+                "title": "Giai đoạn 4",
                 "values": [
-                    "Reach level 9 to get 20 gold"
+                    "Đạt cấp 9 để nhận 20 vàng"
                 ]
             },
             {
-                "title": "4-7 Reward",
+                "title": "Phần thưởng 4-7",
                 "values": [
-                    "Choose one of three trials to prove yourself to Aurelion Sol"
+                    "Chọn một trong ba thử thách để chứng tỏ bản thân với Aurelion Sol"
                 ]
             }
         ]
     },
     {
         "name": "Ekko",
-        "of": "God of Time",
-        "offers": "Offers delayed rewards and special loot.",
+        "of": "Thần Thời Gian",
+        "offers": "Cung cấp phần thưởng trì hoãn và các chiến lợi phẩm đặc biệt.",
         "image": "Ekko-GodOfTime.png",
         "stages": [
             {
-                "title": "Stage 2",
+                "title": "Giai đoạn 2",
                 "values": [
-                    "Scuttle Puddle (+blue orb & 3 gold)",
-                    "Blessing at 30 HP (25g value)",
-                    "Spat in 4 rounds",
-                    "Artifact in 8 rounds",
-                    "4-cost in 3 rounds"
+                    "Đầm Cua Chạy (+1 viên xanh & 3 vàng)",
+                    "Lời chúc ở mức 30 HP (trị giá 25 vàng)",
+                    "Xẻng Vàng sau 4 vòng",
+                    "Trang bị Tạo Tác sau 8 vòng",
+                    "Tướng 4 vàng sau 3 vòng"
                 ]
             },
             {
-                "title": "Stage 3",
+                "title": "Giai đoạn 3",
                 "values": [
-                    "Scuttle Puddle (+blue orb & 4 gold)",
-                    "Implant (20% AS)",
-                    "2x5 cost in 4 rounds",
-                    "Component anvil in 3 rounds"
+                    "Đầm Cua Chạy (+1 viên xanh & 4 vàng)",
+                    "Cấy ghép (20% tốc độ đánh)",
+                    "2 tướng 5 vàng sau 4 vòng",
+                    "Đe thành phần sau 3 vòng"
                 ]
             },
             {
-                "title": "Stage 4",
+                "title": "Giai đoạn 4",
                 "values": [
-                    "Artifact in 5 rounds",
-                    "Completed Anvil in 4 rounds",
-                    "2 gold every turn",
-                    "Full 5-cost shop in 3 rounds",
-                    "Implant (20% AS)"
+                    "Trang bị Tạo Tác sau 5 vòng",
+                    "Đe trang bị hoàn chỉnh sau 4 vòng",
+                    "Nhận 2 vàng mỗi lượt",
+                    "Cửa hàng toàn tướng 5 vàng sau 3 vòng",
+                    "Cấy ghép (20% tốc độ đánh)"
                 ]
             },
             {
-                "title": "4-7 Reward",
+                "title": "Phần thưởng 4-7",
                 "values": [
-                    "Gain the Anomaly item, which provides unique bonuses based on role"
+                    "Nhận trang bị Dị Thường, cung cấp các chỉ số độc nhất dựa trên vai trò"
                 ]
             }
         ]
     },
     {
         "name": "Evelynn",
-        "of": "God of Temptation",
-        "offers": "Offers stronger rewards in exchange for Tactician health.",
+        "of": "Thần Cám Dỗ",
+        "offers": "Cung cấp phần thưởng mạnh mẽ hơn để đổi lấy máu Linh Thú.",
         "image": "Evelynn-GodOfTemptation.png",
         "stages": [
             {
-                "title": "Stage 2",
+                "title": "Giai đoạn 2",
                 "values": [
-                    "8g, Lose 1 HP per",
-                    "2* 2 cost, -1HP",
-                    "2x lesser dupe, no shop 2 rounds"
+                    "8 vàng, mất 1 HP mỗi vòng",
+                    "1 tướng 2 sao giá 2 vàng, mất 1 HP",
+                    "2 Máy nhân bản cỡ nhỏ, không có cửa hàng trong 2 vòng"
                 ]
             },
             {
-                "title": "Stage 3",
+                "title": "Giai đoạn 3",
                 "values": [
-                    "11g, Lose 1 HP Per",
-                    "Random emblem, -3HP",
-                    "15 gold no shop 2 rounds",
-                    "2* 3 cost and -2 HP",
-                    "3* 1 cost and -2 HP"
+                    "11 vàng, mất 1 HP mỗi vòng",
+                    "Ấn ngẫu nhiên, mất 3 HP",
+                    "15 vàng, không có cửa hàng trong 2 vòng",
+                    "1 tướng 2 sao giá 3 vàng, mất 2 HP",
+                    "1 tướng 3 sao giá 1 vàng, mất 2 HP"
                 ]
             },
             {
-                "title": "Stage 4",
+                "title": "Giai đoạn 4",
                 "values": [
-                    "14g, Lose 1 HP Per",
-                    "2* 4 cost and -3 HP",
-                    "Completed item -5 HP",
-                    "18 gold no shop 2 rounds"
+                    "14 vàng, mất 1 HP mỗi vòng",
+                    "1 tướng 2 sao giá 4 vàng, mất 3 HP",
+                    "Trang bị hoàn chỉnh, mất 5 HP",
+                    "18 vàng, không có cửa hàng trong 2 vòng"
                 ]
             },
             {
-                "title": "4-7 Reward",
+                "title": "Phần thưởng 4-7",
                 "values": [
-                    "Your team gains 10% Durability. Lose an additional 1 health when you lose combat"
+                    "Đội hình nhận 10% Giảm sát thương. Mất thêm 1 máu khi thua giao tranh"
                 ]
             }
         ]
     },
     {
         "name": "Kayle",
-        "of": "God of Order",
-        "offers": "Offers component item rewards.",
+        "of": "Thần Trật Tự",
+        "offers": "Cung cấp các phần thưởng là mảnh trang bị thành phần.",
         "image": "Kayle-GodOfOrder.png",
         "stages": [
             {
-                "title": "Stage 2",
+                "title": "Giai đoạn 2",
                 "values": [
-                    "Random Component",
-                    "Sparring Glove",
-                    "Recurve Bow",
-                    "Tear of the Goddess"
+                    "Thành phần ngẫu nhiên",
+                    "Găng Đấu Tập",
+                    "Cung Gỗ",
+                    "Nước Mắt Nữ Thần"
                 ]
             },
             {
-                "title": "Stage 3",
+                "title": "Giai đoạn 3",
                 "values": [
-                    "Random Component",
-                    "B.F. Sword",
-                    "Chain Vest",
-                    "Needlessly Large Rod",
-                    "Negatron Cloak"
+                    "Thành phần ngẫu nhiên",
+                    "Kiếm BF",
+                    "Giáp Lưới",
+                    "Gậy Quá Khổ",
+                    "Áo Choàng Bạc"
                 ]
             },
             {
-                "title": "Stage 4",
+                "title": "Giai đoạn 4",
                 "values": [
-                    "Random Component",
-                    "Sparring Glove",
-                    "Recurve Bow",
-                    "Tear of the Goddess",
-                    "B.F. Sword",
-                    "Chain Vest",
-                    "Needlessly Large Rod",
-                    "Negatron Cloak"
+                    "Thành phần ngẫu nhiên",
+                    "Găng Đấu Tập",
+                    "Cung Gỗ",
+                    "Nước Mắt Nữ Thần",
+                    "Kiếm BF",
+                    "Giáp Lưới",
+                    "Gậy Quá Khổ",
+                    "Áo Choàng Bạc"
                 ]
             },
             {
-                "title": "4-7 Reward",
+                "title": "Phần thưởng 4-7",
                 "values": [
-                    "Upgrade a random completed item to Radiant"
+                    "Nâng cấp một trang bị hoàn chỉnh ngẫu nhiên thành trang bị Ánh Sáng"
                 ]
             }
         ]
     },
     {
         "name": "Soraka",
-        "of": "God of Stars",
-        "offers": "Offers health and health-based rewards.",
+        "of": "Thần Tinh Tú",
+        "offers": "Cung cấp máu và các phần thưởng dựa trên máu.",
         "image": "Soraka-GodOfStars.png",
         "stages": [
             {
-                "title": "Stage 2",
+                "title": "Giai đoạn 2",
                 "values": [
-                    "8 HP, maybe 3g",
+                    "8 HP, có thể thêm 3 vàng",
                     "12 HP",
-                    "Giant's Belt"
+                    "Đai Khổng Lồ"
                 ]
             },
             {
-                "title": "Stage 3",
+                "title": "Giai đoạn 3",
                 "values": [
-                    "8 HP, maybe 5g",
+                    "8 HP, có thể thêm 5 vàng",
                     "12 HP",
-                    "Giant's Belt",
-                    "Implant (350 HP)"
+                    "Đai Khổng Lồ",
+                    "Cấy ghép (350 HP)"
                 ]
             },
             {
-                "title": "Stage 4",
+                "title": "Giai đoạn 4",
                 "values": [
-                    "8 HP, maybe 5g",
+                    "8 HP, có thể thêm 5 vàng",
                     "12 HP",
-                    "Giant's Belt",
-                    "Implant (350 HP)"
+                    "Đai Khổng Lồ",
+                    "Cấy ghép (350 HP)"
                 ]
             },
             {
-                "title": "4-7 Reward",
+                "title": "Phần thưởng 4-7",
                 "values": [
-                    "Team gains 2 HP per missing Tactician health. +1 current and max health Tactician each round"
+                    "Đội hình nhận 2 HP cho mỗi máu Linh Thú đã mất. +1 máu hiện tại và tối đa mỗi vòng"
                 ]
             }
         ]
     },
     {
         "name": "Thresh",
-        "of": "God of Pacts",
-        "offers": "Offers random loot and gold.",
+        "of": "Thần Khế Ước",
+        "offers": "Cung cấp vật phẩm ngẫu nhiên và vàng.",
         "image": "Thresh-GodOfPacts.png",
         "stages": [
             {
-                "title": "Stage 2",
+                "title": "Giai đoạn 2",
                 "values": [
-                    "Random + 2g",
-                    "Random loot (EV 7)"
+                    "Ngẫu nhiên + 2 vàng",
+                    "Vật phẩm ngẫu nhiên (Giá trị kỳ vọng 7)"
                 ]
             },
             {
-                "title": "Stage 3",
+                "title": "Giai đoạn 3",
                 "values": [
-                    "Random + 3g",
-                    "Random loot (EV 9)"
+                    "Ngẫu nhiên + 3 vàng",
+                    "Vật phẩm ngẫu nhiên (Giá trị kỳ vọng 9)"
                 ]
             },
             {
-                "title": "Stage 4",
+                "title": "Giai đoạn 4",
                 "values": [
-                    "Random + 5g",
-                    "Random loot (EV 10)"
+                    "Ngẫu nhiên + 5 vàng",
+                    "Vật phẩm ngẫu nhiên (Giá trị kỳ vọng 10)"
                 ]
             },
             {
-                "title": "4-7 Reward",
+                "title": "Phần thưởng 4-7",
                 "values": [
-                    "After each player combat, roll a die. Gain rewards based on the result"
+                    "Sau mỗi vòng đấu người chơi, tung một con xúc xắc. Nhận phần thưởng dựa trên kết quả"
                 ]
             }
         ]
     },
     {
         "name": "Varus",
-        "of": "God of Love",
-        "offers": "Offers champions, duplicators, and shop-based rewards.",
+        "of": "Thần Tình Yêu",
+        "offers": "Cung cấp tướng, máy nhân bản và các phần thưởng liên quan đến cửa hàng.",
         "image": "Varus-GodOfLove.png",
         "stages": [
             {
-                "title": "Stage 2",
+                "title": "Giai đoạn 2",
                 "values": [
-                    "2 & 3 Cost",
-                    "Owned 3 cost",
-                    "2 Tiny Dupes",
-                    "3 cost shop"
+                    "Tướng 2 & 3 vàng",
+                    "Tướng 3 vàng đang sở hữu",
+                    "2 Máy nhân bản cỡ nhỏ",
+                    "Cửa hàng tướng 3 vàng"
                 ]
             },
             {
-                "title": "Stage 3",
+                "title": "Giai đoạn 3",
                 "values": [
-                    "3 & 4 Cost",
-                    "Lesser Dupe",
-                    "Owned 3 cost",
-                    "4 cost shop"
+                    "Tướng 3 & 4 vàng",
+                    "Máy nhân bản cỡ trung",
+                    "Tướng 3 vàng đang sở hữu",
+                    "Cửa hàng tướng 4 vàng"
                 ]
             },
             {
-                "title": "Stage 4",
+                "title": "Giai đoạn 4",
                 "values": [
-                    "4 & 5 Cost",
-                    "Lesser Dupe + 3g",
-                    "1 Lesser Duplicator + 5 Tiny Duplicators",
-                    "Owned 4 cost",
-                    "1% 5 cost odds"
+                    "Tướng 4 & 5 vàng",
+                    "Máy nhân bản cỡ trung + 3 vàng",
+                    "1 Máy nhân bản cỡ trung + 5 Máy nhân bản cỡ nhỏ",
+                    "Tướng 4 vàng đang sở hữu",
+                    "Tăng 1% tỷ lệ ra tướng 5 vàng"
                 ]
             },
             {
-                "title": "4-7 Reward",
+                "title": "Phần thưởng 4-7",
                 "values": [
-                    "Your team gains 10 health for each total star level in your army. Increase your 5 cost odds by 4%"
+                    "Đội hình nhận 10 máu cho mỗi cấp sao tổng cộng trong quân đội. Tăng tỷ lệ tướng 5 vàng thêm 4%"
                 ]
             }
         ]
     },
     {
         "name": "Yasuo",
-        "of": "God of the Abyss",
-        "offers": "Offers empowered combat hex effects.",
+        "of": "Thần Vực Thẳm",
+        "offers": "Cung cấp các hiệu ứng ô nguyên tố được tăng cường.",
         "image": "Yasuo-GodOfTheAbyss.png",
         "stages": [
             {
-                "title": "Stage 2",
+                "title": "Giai đoạn 2",
                 "values": [
-                    "Fire Hex (18% dmg, burn/wound)",
-                    "Wood Hex (10% + 30 HP)",
-                    "Wind Hex (30% AS)",
-                    "Ice Hex (15% heal)",
-                    "Electric Hex (2s stun)",
-                    "Socialite Hex (2 mana regen)"
+                    "Ô Lửa (18% ST, đốt/vết thương sâu)",
+                    "Ô Gỗ (10% + 30 HP)",
+                    "Ô Gió (30% tốc độ đánh)",
+                    "Ô Băng (15% hồi phục)",
+                    "Ô Điện (Làm choáng 2 giây)",
+                    "Ô Thần Tượng (2 năng lượng hồi phục)"
                 ]
             },
             {
-                "title": "Stage 3",
+                "title": "Giai đoạn 3",
                 "values": [
-                    "Fire Hex (18% dmg, burn/wound)",
-                    "Wind Hex (30% AS)",
-                    "Ice Hex (15% heal)",
-                    "Electric Hex (2s stun)",
-                    "Socialite Hex (2 mana regen)"
+                    "Ô Lửa (18% ST, đốt/vết thương sâu)",
+                    "Ô Gió (30% tốc độ đánh)",
+                    "Ô Băng (15% hồi phục)",
+                    "Ô Điện (Làm choáng 2 giây)",
+                    "Ô Thần Tượng (2 năng lượng hồi phục)"
                 ]
             },
             {
-                "title": "Stage 4",
+                "title": "Giai đoạn 4",
                 "values": [
-                    "Fire Hex (18% dmg, burn/wound)",
-                    "Wind Hex (30% AS)",
-                    "Ice Hex (15% heal)",
-                    "Electric Hex (2s stun)",
-                    "Socialite Hex (2 mana regen)"
+                    "Ô Lửa (18% ST, đốt/vết thương sâu)",
+                    "Ô Gió (30% tốc độ đánh)",
+                    "Ô Băng (15% hồi phục)",
+                    "Ô Điện (Làm choáng 2 giây)",
+                    "Ô Thần Tượng (2 năng lượng hồi phục)"
                 ]
             },
             {
-                "title": "4-7 Reward",
+                "title": "Phần thưởng 4-7",
                 "values": [
-                    "Increase the power of Yasuo's hexes by 50%. If you only have 2 hexes, gain 12 gold."
+                    "Tăng sức mạnh các ô của Yasuo thêm 50%. Nếu bạn chỉ có 2 ô, nhận thêm 12 vàng."
                 ]
             }
         ]

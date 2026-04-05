@@ -4,52 +4,30 @@
     "name": "Dark Star",
     "icon": "DarkStar.png",
     "champions": [
-      {
-        "name": "Cho'Gath",
-        "image": "ChoGath.png"
-      },
-      {
-        "name": "Lissandra",
-        "image": "Lissandra.png"
-      },
-      {
-        "name": "Mordekaiser",
-        "image": "Mordekaiser.png"
-      },
-      {
-        "name": "Kai'Sa",
-        "image": "KaiSa.png"
-      },
-      {
-        "name": "Karma",
-        "image": "Karma.png"
-      },
-      {
-        "name": "Jhin",
-        "image": "Jhin.png"
-      }
+      { "name": "Cho'Gath", "image": "ChoGath.png" },
+      { "name": "Lissandra", "image": "Lissandra.png" },
+      { "name": "Mordekaiser", "image": "Mordekaiser.png" },
+      { "name": "Kai'Sa", "image": "KaiSa.png" },
+      { "name": "Karma", "image": "Karma.png" },
+      { "name": "Jhin", "image": "Jhin.png" }
     ],
-    "description": "",
+    "description": "Hắc Tinh",
     "effects": [
       {
-        "count": "(2)\nDark Stars create a black hole that consumes enemies at 10% max health.",
-        "text": "(4)\nAND they gain 30% AD & AP."
-      },
-      {
         "count": "(2)",
-        "text": "Dark Stars create a black hole that consumes enemies at 10% max health."
+        "text": "Các đơn vị Hắc Tinh tạo ra một hố đen nuốt chửng kẻ địch khi chúng dưới 10% máu tối đa."
       },
       {
         "count": "(4)",
-        "text": "AND they gain 30% AD & AP."
+        "text": "VÀ chúng nhận thêm 30% SMCK & SMPT."
       },
       {
         "count": "(6)",
-        "text": "AND the strongest Dark Star unit goes supermassive, gaining 100% effectiveness from Dark Star, and creates 2 minor Black Holes."
+        "text": "VÀ đơn vị Hắc Tinh mạnh nhất trở nên siêu khổng lồ, nhận 100% hiệu quả từ tộc Hắc Tinh và tạo ra 2 hố đen nhỏ."
       },
       {
         "count": "(9)",
-        "text": "All Dark Stars are supermassive. At level 10, CONSUME EVERYONE."
+        "text": "Tất cả đơn vị Hắc Tinh đều trở nên siêu khổng lồ. Ở cấp 10, NUỐT CHỬNG TẤT CẢ."
       }
     ]
   },
@@ -58,60 +36,26 @@
     "name": "Meeple",
     "icon": "Meeple.png",
     "champions": [
-      {
-        "name": "Poppy",
-        "image": "Poppy.png"
-      },
-      {
-        "name": "Veigar",
-        "image": "Veigar.png"
-      },
-      {
-        "name": "Gnar",
-        "image": "Gnar.png"
-      },
-      {
-        "name": "Meepsie",
-        "image": "Meepsie.png"
-      },
-      {
-        "name": "Fizz",
-        "image": "Fizz.png"
-      },
-      {
-        "name": "Corki",
-        "image": "Corki.png"
-      },
-      {
-        "name": "Rammus",
-        "image": "Rammus.png"
-      },
-      {
-        "name": "Bard",
-        "image": "Bard.png"
-      }
+      { "name": "Poppy", "image": "Poppy.png" },
+      { "name": "Veigar", "image": "Veigar.png" },
+      { "name": "Gnar", "image": "Gnar.png" },
+      { "name": "Meepsie", "image": "Meepsie.png" },
+      { "name": "Fizz", "image": "Fizz.png" },
+      { "name": "Corki", "image": "Corki.png" },
+      { "name": "Rammus", "image": "Rammus.png" },
+      { "name": "Bard", "image": "Bard.png" }
     ],
-    "description": "Astronauts attract Meeps that empower Astronaut abilities in meepy ways. They also gain bonus Health.",
+    "description": "Các Phi Hành Gia thu hút Meep giúp cường hóa kỹ năng của họ theo những cách kỳ quặc. Họ cũng nhận thêm Máu.",
     "effects": [
-      {
-        "count": "(3)\n2%, 125 Health",
-        "text": "(5)\n3%, 250 Health"
-      },
-      {
-        "count": "(3)",
-        "text": "2%, 125 Health"
-      },
-      {
-        "count": "(5)",
-        "text": "3%, 250 Health"
-      },
+      { "count": "(3)", "text": "2%, 125 Máu" },
+      { "count": "(5)", "text": "3%, 250 Máu" },
       {
         "count": "(7)",
-        "text": "4%, 400 Health. Create a Cloning Slot on your bench. Gain gold and a 1-star copy of the champion placed there when cloning completes."
+        "text": "4%, 400 Máu. Tạo một ô Nhân Bản trên hàng chờ. Nhận vàng và một bản sao 1 sao của tướng đặt ở đó khi quá trình nhân bản hoàn tất."
       },
       {
         "count": "(10)",
-        "text": "6%, 1000 Health. SUMMON THE FOUR MEEPLORDS! Cloning time = Champion cost"
+        "text": "6%, 1000 Máu. TRIỆU HỒI TỨ ĐẠI MEEPLORD! Thời gian nhân bản = Giá tiền của tướng."
       }
     ]
   },
@@ -120,40 +64,21 @@
     "name": "N.O.V.A.",
     "icon": "NOVA.png",
     "champions": [
-      {
-        "name": "Aatrox",
-        "image": "Aatrox.png"
-      },
-      {
-        "name": "Caitlyn",
-        "image": "Caitlyn.png"
-      },
-      {
-        "name": "Akali",
-        "image": "Akali.png"
-      },
-      {
-        "name": "Maokai",
-        "image": "Maokai.png"
-      },
-      {
-        "name": "Kindred",
-        "image": "Kindred.png"
-      }
+      { "name": "Aatrox", "image": "Aatrox.png" },
+      { "name": "Caitlyn", "image": "Caitlyn.png" },
+      { "name": "Akali", "image": "Akali.png" },
+      { "name": "Maokai", "image": "Maokai.png" },
+      { "name": "Kindred", "image": "Kindred.png" }
     ],
-    "description": "",
+    "description": "N.O.V.A",
     "effects": [
       {
-        "count": "(2)\n6 seconds into combat, N.O.V.A. grant a power surge to allies based on champions.",
-        "text": "(5)\nGain a Striker selector. The chosen N.O.V.A. activates their Strike during the power surge. Aatrox: Ally Damage 30% Shred and Sunders enemies / Caitlyn: Grant allies 20% Attack Speed / Akali: Allies gain Precision / Maokai: Allies heal 15% max Health / Kindred: Shield the strongest Tank for 800 / Emblem: Allies deal 10% stacking bonus true damage"
-      },
-      {
         "count": "(2)",
-        "text": "6 seconds into combat, N.O.V.A. grant a power surge to allies based on champions."
+        "text": "Sau 6 giây giao tranh, N.O.V.A. ban một luồng sức mạnh cho đồng minh dựa trên các tướng."
       },
       {
         "count": "(5)",
-        "text": "Gain a Striker selector. The chosen N.O.V.A. activates their Strike during the power surge. Aatrox: Ally Damage 30% Shred and Sunders enemies / Caitlyn: Grant allies 20% Attack Speed / Akali: Allies gain Precision / Maokai: Allies heal 15% max Health / Kindred: Shield the strongest Tank for 800 / Emblem: Allies deal 10% stacking bonus true damage"
+        "text": "Nhận một bộ chọn Đột Kích. Tướng N.O.V.A. được chọn sẽ kích hoạt Đột Kích trong luồng sức mạnh. Aatrox: Sát thương đồng minh giảm 30% Giáp và Kháng phép kẻ địch / Caitlyn: Ban cho đồng minh 20% Tốc độ Đánh / Akali: Đồng minh nhận Chuẩn Xác / Maokai: Đồng minh hồi 15% Máu tối đa / Kindred: Tạo lá chắn 800 cho Chống Chịu mạnh nhất / Ấn: Đồng minh gây thêm 10% sát thương chuẩn cộng dồn."
       }
     ]
   },
@@ -162,32 +87,19 @@
     "name": "Primordian",
     "icon": "Primordian.png",
     "champions": [
-      {
-        "name": "Briar",
-        "image": "Briar.png"
-      },
-      {
-        "name": "Rek'Sai",
-        "image": "RekSai.png"
-      },
-      {
-        "name": "Bel'Veth",
-        "image": "BelVeth.png"
-      }
+      { "name": "Briar", "image": "Briar.png" },
+      { "name": "Rek'Sai", "image": "RekSai.png" },
+      { "name": "Bel'Veth", "image": "BelVeth.png" }
     ],
-    "description": "",
+    "description": "Nguyên Thủy",
     "effects": [
       {
-        "count": "(2)\nDealing damage spawns Swarmlings based on Primordian star level.",
-        "text": "(3)\nSpawn even more Swarmlings! Each round, gain a random 1 or 2-cost champion. 8% of damage taken contributes to damage dealt."
-      },
-      {
         "count": "(2)",
-        "text": "Dealing damage spawns Swarmlings based on Primordian star level."
+        "text": "Gây sát thương sẽ triệu hồi Bọ Hung dựa trên cấp sao của tướng Nguyên Thủy."
       },
       {
         "count": "(3)",
-        "text": "Spawn even more Swarmlings! Each round, gain a random 1 or 2-cost champion. 8% of damage taken contributes to damage dealt."
+        "text": "Triệu hồi nhiều Bọ Hung hơn nữa! Mỗi vòng, nhận một tướng 1 hoặc 2 vàng ngẫu nhiên. 8% sát thương nhận vào sẽ chuyển hóa thành sát thương gây ra."
       }
     ]
   },
@@ -196,40 +108,18 @@
     "name": "Psionic",
     "icon": "Psionic.png",
     "champions": [
-      {
-        "name": "Gragas",
-        "image": "Gragas.png"
-      },
-      {
-        "name": "Pyke",
-        "image": "Pyke.png"
-      },
-      {
-        "name": "Viktor",
-        "image": "Viktor.png"
-      },
-      {
-        "name": "Master Yi",
-        "image": "MasterYi.png"
-      },
-      {
-        "name": "Sona",
-        "image": "Sona.png"
-      }
+      { "name": "Gragas", "image": "Gragas.png" },
+      { "name": "Pyke", "image": "Pyke.png" },
+      { "name": "Viktor", "image": "Viktor.png" },
+      { "name": "Master Yi", "image": "MasterYi.png" },
+      { "name": "Sona", "image": "Sona.png" }
     ],
-    "description": "Gain Psionic items that can be equipped to any ally.",
+    "description": "Nhận các vật phẩm Tâm Linh có thể trang bị cho bất kỳ đồng minh nào.",
     "effects": [
-      {
-        "count": "(2)\nGain the Psionic item 1",
-        "text": "(4)\nGain the Psionic item 2, Psionic items gain extra effects on Psionic units"
-      },
-      {
-        "count": "(2)",
-        "text": "Gain the Psionic item 1"
-      },
+      { "count": "(2)", "text": "Nhận vật phẩm Tâm Linh 1" },
       {
         "count": "(4)",
-        "text": "Gain the Psionic item 2, Psionic items gain extra effects on Psionic units"
+        "text": "Nhận vật phẩm Tâm Linh 2, các vật phẩm Tâm Linh nhận thêm hiệu ứng trên các đơn vị Tâm Linh."
       }
     ]
   },
@@ -238,61 +128,30 @@
     "name": "Space Groove",
     "icon": "SpaceGroove.png",
     "champions": [
-      {
-        "name": "Nasus",
-        "image": "Nasus.png"
-      },
-      {
-        "name": "Teemo",
-        "image": "Teemo.png"
-      },
-      {
-        "name": "Gwen",
-        "image": "Gwen.png"
-      },
-      {
-        "name": "Ornn",
-        "image": "Ornn.png"
-      },
-      {
-        "name": "Samira",
-        "image": "Samira.png"
-      },
-      {
-        "name": "Nami",
-        "image": "Nami.png"
-      },
-      {
-        "name": "Blitzcrank",
-        "image": "Blitzcrank.png"
-      }
+      { "name": "Nasus", "image": "Nasus.png" },
+      { "name": "Teemo", "image": "Teemo.png" },
+      { "name": "Gwen", "image": "Gwen.png" },
+      { "name": "Ornn", "image": "Ornn.png" },
+      { "name": "Samira", "image": "Samira.png" },
+      { "name": "Nami", "image": "Nami.png" },
+      { "name": "Blitzcrank", "image": "Blitzcrank.png" }
     ],
-    "description": "",
+    "description": "Nhịp Điệu Không Gian",
     "effects": [
       {
-        "count": "(1)\nGroovians can enter the Groove. While in it, they gain Attack Speed and max Health Regen, increased per Groovian on your team.",
-        "text": "(3)\nAll Groovians start combat in the Groove for 3 seconds."
-      },
-      {
         "count": "(1)",
-        "text": "Groovians can enter the Groove. While in it, they gain Attack Speed and max Health Regen, increased per Groovian on your team."
+        "text": "Các cư dân Nhịp Điệu có thể tiến vào trạng thái 'Phiêu'. Khi đó, họ nhận Tốc độ Đánh và hồi Phục Máu tối đa, tăng theo số lượng cư dân Nhịp Điệu trong đội."
       },
       {
         "count": "(3)",
-        "text": "All Groovians start combat in the Groove for 3 seconds."
+        "text": "Tất cả cư dân Nhịp Điệu bắt đầu giao tranh trong trạng thái 'Phiêu' trong 3 giây."
       },
       {
         "count": "(5)",
-        "text": "Each second spent in the Groove grants 3% stacking Attack Damage and Ability Power."
+        "text": "Mỗi giây ở trạng thái 'Phiêu' nhận thêm 3% SMCK và SMPT cộng dồn."
       },
-      {
-        "count": "(7)",
-        "text": "Increase these effects by 20%!"
-      },
-      {
-        "count": "(10)",
-        "text": "the Groove"
-      }
+      { "count": "(7)", "text": "Tăng các hiệu ứng này thêm 20%!" },
+      { "count": "(10)", "text": "Cực Phiêu" }
     ]
   },
   {
@@ -300,40 +159,21 @@
     "name": "Timebreaker",
     "icon": "Timebreaker.png",
     "champions": [
-      {
-        "name": "Ezreal",
-        "image": "Ezreal.png"
-      },
-      {
-        "name": "Milio",
-        "image": "Milio.png"
-      },
-      {
-        "name": "Pantheon",
-        "image": "Pantheon.png"
-      },
-      {
-        "name": "Riven",
-        "image": "Riven.png"
-      }
+      { "name": "Ezreal", "image": "Ezreal.png" },
+      { "name": "Milio", "image": "Milio.png" },
+      { "name": "Pantheon", "image": "Pantheon.png" },
+      { "name": "Riven", "image": "Riven.png" }
     ],
-    "description": "",
+    "description": "Phá Thời Gian",
     "effects": [
       {
-        "count": "(2)\nWhen you lose, gain free rerolls. When you win, store XP in a Temporal Core (scales with stage).",
-        "text": "(3)\nAND Allies gain 15% Attack Speed."
-      },
-      {
         "count": "(2)",
-        "text": "When you lose, gain free rerolls. When you win, store XP in a Temporal Core (scales with stage)."
+        "text": "Khi thua, nhận các lượt đổi lại miễn phí. Khi thắng, tích trữ XP vào Lõi Thời Gian (tỉ lệ theo giai đoạn)."
       },
-      {
-        "count": "(3)",
-        "text": "AND Allies gain 15% Attack Speed."
-      },
+      { "count": "(3)", "text": "VÀ đồng minh nhận 15% Tốc độ Đánh." },
       {
         "count": "(4)",
-        "text": "AND Timebreakers gain an additional 50% Attack Speed"
+        "text": "VÀ các tướng Phá Thời Gian nhận thêm 50% Tốc độ Đánh."
       }
     ]
   },
@@ -341,39 +181,24 @@
     "section": "class-synergy",
     "name": "Commander (Sona)",
     "icon": "Commander.png",
-    "champions": [
-      {
-        "name": "Sona",
-        "image": "Sona.png"
-      }
-    ],
-    "description": "Sona gives you a random Command Mod every 2 rounds which allows you to alter the way an ally behaves during combat. Command Mods last 2 player combats even if they are not equipped.",
+    "champions": [{ "name": "Sona", "image": "Sona.png" }],
+    "description": "Sona cho bạn một Mod Chỉ Huy ngẫu nhiên mỗi 2 vòng, cho phép bạn thay đổi cách một đồng minh hành động trong giao tranh. Mod Chỉ Huy tồn tại trong 2 vòng đấu với người chơi kể cả khi không được trang bị.",
     "effects": []
   },
   {
     "section": "class-synergy",
     "name": "Galaxy Hunter (Zed)",
     "icon": "GalaxyHunter.png",
-    "champions": [
-      {
-        "name": "Zed",
-        "image": "Zed.png"
-      }
-    ],
-    "description": "Zed is obtained from the Invader Zed augment. While at least one clone is alive, Zed gains 40% bonus Attack Damage.",
+    "champions": [{ "name": "Zed", "image": "Zed.png" }],
+    "description": "Zed có được từ lõi nâng cấp Invader Zed. Khi còn ít nhất một phân thân còn sống, Zed nhận thêm 40% SMCK.",
     "effects": []
   },
   {
     "section": "class-synergy",
     "name": "Oracle (Tahm Kench)",
     "icon": "OracleTahmKench.svg",
-    "champions": [
-      {
-        "name": "Tahm Kench",
-        "image": "TahmKench.png"
-      }
-    ],
-    "description": "Every 3 rounds, Tahm Kench grants a reward!",
+    "champions": [{ "name": "Tahm Kench", "image": "TahmKench.png" }],
+    "description": "Mỗi 3 vòng, Tahm Kench sẽ ban một phần thưởng!",
     "effects": []
   },
   {
@@ -381,41 +206,16 @@
     "name": "Anima",
     "icon": "Anima.png",
     "champions": [
-      {
-        "name": "Briar",
-        "image": "Briar.png"
-      },
-      {
-        "name": "Jinx",
-        "image": "Jinx.png"
-      },
-      {
-        "name": "Aurora",
-        "image": "Aurora.png"
-      },
-      {
-        "name": "Illaoi",
-        "image": "Illaoi.png"
-      },
-      {
-        "name": "Fiora",
-        "image": "Fiora.png"
-      }
+      { "name": "Briar", "image": "Briar.png" },
+      { "name": "Jinx", "image": "Jinx.png" },
+      { "name": "Aurora", "image": "Aurora.png" },
+      { "name": "Illaoi", "image": "Illaoi.png" },
+      { "name": "Fiora", "image": "Fiora.png" }
     ],
-    "description": "After losing a player combat, gain 15 Tech, plus additional Tech equal to 5 times the length of your loss streak. Additionally, gain 2 Tech per Anima takedown. Each time Animas get 100 Tech, they prototype new Anima Weapons. You can take them, or save your Tech to get more powerful weapons next time.",
+    "description": "Sau khi thua một vòng đấu người chơi, nhận 15 Công Nghệ, cộng thêm 5 lần số lượng chuỗi thua. Ngoài ra, nhận 2 Công Nghệ mỗi khi tướng Anima tham gia hạ gục. Mỗi khi đạt 100 Công Nghệ, họ sẽ chế tạo Vũ Khí Anima mới. Bạn có thể lấy chúng hoặc tích lũy Công Nghệ để lấy vũ khí mạnh hơn sau này.",
     "effects": [
-      {
-        "count": "(3)\nStart Researching!",
-        "text": "(6)\nGain a loot Orb upon win"
-      },
-      {
-        "count": "(3)",
-        "text": "Start Researching!"
-      },
-      {
-        "count": "(6)",
-        "text": "Gain a loot Orb upon win"
-      }
+      { "count": "(3)", "text": "Bắt đầu Nghiên cứu!" },
+      { "count": "(6)", "text": "Nhận một Hộp báu vật khi thắng." }
     ]
   },
   {
@@ -423,37 +223,15 @@
     "name": "Arbiter",
     "icon": "Arbiter.png",
     "champions": [
-      {
-        "name": "Leona",
-        "image": "Leona.png"
-      },
-      {
-        "name": "Zoe",
-        "image": "Zoe.png"
-      },
-      {
-        "name": "Diana",
-        "image": "Diana.png"
-      },
-      {
-        "name": "LeBlanc",
-        "image": "LeBlanc.png"
-      }
+      { "name": "Leona", "image": "Leona.png" },
+      { "name": "Zoe", "image": "Zoe.png" },
+      { "name": "Diana", "image": "Diana.png" },
+      { "name": "LeBlanc", "image": "LeBlanc.png" }
     ],
-    "description": "Scribe a unique divine law, allowing you to choose an effect to apply to Arbiters when a chosen cause occurs.",
+    "description": "Soạn thảo một luật thánh duy nhất, cho phép bạn chọn một hiệu ứng để áp dụng cho các tướng Chấp Pháp khi một điều kiện nhất định xảy ra.",
     "effects": [
-      {
-        "count": "(2)\nChoose a cause and effect for your law",
-        "text": "(3)\nEffects are stronger."
-      },
-      {
-        "count": "(2)",
-        "text": "Choose a cause and effect for your law"
-      },
-      {
-        "count": "(3)",
-        "text": "Effects are stronger."
-      }
+      { "count": "(2)", "text": "Chọn một nguyên nhân và hiệu ứng cho luật của bạn." },
+      { "count": "(3)", "text": "Các hiệu ứng sẽ mạnh hơn." }
     ]
   },
   {
@@ -461,48 +239,20 @@
     "name": "Bastion",
     "icon": "Bastion.png",
     "champions": [
-      {
-        "name": "Aatrox",
-        "image": "Aatrox.png"
-      },
-      {
-        "name": "Poppy",
-        "image": "Poppy.png"
-      },
-      {
-        "name": "Jax",
-        "image": "Jax.png"
-      },
-      {
-        "name": "Ornn",
-        "image": "Ornn.png"
-      },
-      {
-        "name": "Rammus",
-        "image": "Rammus.png"
-      },
-      {
-        "name": "Shen",
-        "image": "Shen.png"
-      }
+      { "name": "Aatrox", "image": "Aatrox.png" },
+      { "name": "Poppy", "image": "Poppy.png" },
+      { "name": "Jax", "image": "Jax.png" },
+      { "name": "Ornn", "image": "Ornn.png" },
+      { "name": "Rammus", "image": "Rammus.png" },
+      { "name": "Shen", "image": "Shen.png" }
     ],
-    "description": "Your team gains 12 Armor and Magic Resist. Bastions gain more, and the value doubles in the first 10 seconds of combat.",
+    "description": "Đội của bạn nhận thêm 12 Giáp và Kháng Phép. Các tướng Can Trường nhận nhiều hơn, và giá trị này tăng gấp đôi trong 10 giây đầu của giao tranh.",
     "effects": [
-      {
-        "count": "(2)\n16 Armor & MR",
-        "text": "(4)\n35 Armor & MR"
-      },
-      {
-        "count": "(2)",
-        "text": "16 Armor & MR"
-      },
-      {
-        "count": "(4)",
-        "text": "35 Armor & MR"
-      },
+      { "count": "(2)", "text": "16 Giáp & Kháng Phép" },
+      { "count": "(4)", "text": "35 Giáp & Kháng Phép" },
       {
         "count": "(6)",
-        "text": "55 Armor & MR; Non-Bastions gain an additional 20 Armor & MR."
+        "text": "55 Giáp & Kháng Phép; Các tướng không phải Can Trường nhận thêm 20 Giáp & Kháng Phép."
       }
     ]
   },
@@ -511,53 +261,19 @@
     "name": "Brawler",
     "icon": "Brawler.png",
     "champions": [
-      {
-        "name": "Cho'Gath",
-        "image": "ChoGath.png"
-      },
-      {
-        "name": "Rek'Sai",
-        "image": "RekSai.png"
-      },
-      {
-        "name": "Gragas",
-        "image": "Gragas.png"
-      },
-      {
-        "name": "Pantheon",
-        "image": "Pantheon.png"
-      },
-      {
-        "name": "Maokai",
-        "image": "Maokai.png"
-      },
-      {
-        "name": "Urgot",
-        "image": "Urgot.png"
-      },
-      {
-        "name": "Tahm Kench",
-        "image": "TahmKench.png"
-      }
+      { "name": "Cho'Gath", "image": "ChoGath.png" },
+      { "name": "Rek'Sai", "image": "RekSai.png" },
+      { "name": "Gragas", "image": "Gragas.png" },
+      { "name": "Pantheon", "image": "Pantheon.png" },
+      { "name": "Maokai", "image": "Maokai.png" },
+      { "name": "Urgot", "image": "Urgot.png" },
+      { "name": "Tahm Kench", "image": "TahmKench.png" }
     ],
-    "description": "Your team gains 7% Health. Brawlers gain more.",
+    "description": "Đội của bạn nhận thêm 7% Máu. Các tướng Đấu Sĩ nhận được nhiều hơn.",
     "effects": [
-      {
-        "count": "(2)\n+25% maximum Health",
-        "text": "(4)\n+45% maximum Health"
-      },
-      {
-        "count": "(2)",
-        "text": "+25% maximum Health"
-      },
-      {
-        "count": "(4)",
-        "text": "+45% maximum Health"
-      },
-      {
-        "count": "(6)",
-        "text": "+65% maximum Health"
-      }
+      { "count": "(2)", "text": "+25% Máu tối đa" },
+      { "count": "(4)", "text": "+45% Máu tối đa" },
+      { "count": "(6)", "text": "+65% Máu tối đa" }
     ]
   },
   {
@@ -565,49 +281,18 @@
     "name": "Challenger",
     "icon": "Challenger.png",
     "champions": [
-      {
-        "name": "Bel'Veth",
-        "image": "BelVeth.png"
-      },
-      {
-        "name": "Jinx",
-        "image": "Jinx.png"
-      },
-      {
-        "name": "Diana",
-        "image": "Diana.png"
-      },
-      {
-        "name": "Miss Fortune",
-        "image": "MissFortune.png"
-      },
-      {
-        "name": "Kindred",
-        "image": "Kindred.png"
-      }
+      { "name": "Bel'Veth", "image": "BelVeth.png" },
+      { "name": "Jinx", "image": "Jinx.png" },
+      { "name": "Diana", "image": "Diana.png" },
+      { "name": "Miss Fortune", "image": "MissFortune.png" },
+      { "name": "Kindred", "image": "Kindred.png" }
     ],
-    "description": "Your team gains 10% Attack Speed. Challengers gain bonus Attack Speed. When their target dies, Challengers dash to a new target and increase their Attack Speed bonus by 50% for 2.50 seconds.",
+    "description": "Đội của bạn nhận 10% Tốc độ Đánh. Các tướng Thách Đấu nhận thêm Tốc độ Đánh. Khi mục tiêu chết, tướng Thách Đấu lướt tới mục tiêu mới và tăng thêm 50% Tốc độ Đánh trong 2.50 giây.",
     "effects": [
-      {
-        "count": "(2)\n15% AS",
-        "text": "(3)\n22% AS"
-      },
-      {
-        "count": "(2)",
-        "text": "15% AS"
-      },
-      {
-        "count": "(3)",
-        "text": "22% AS"
-      },
-      {
-        "count": "(4)",
-        "text": "30% AS"
-      },
-      {
-        "count": "(5)",
-        "text": "40% AS"
-      }
+      { "count": "(2)", "text": "15% Tốc độ Đánh" },
+      { "count": "(3)", "text": "22% Tốc độ Đánh" },
+      { "count": "(4)", "text": "30% Tốc độ Đánh" },
+      { "count": "(5)", "text": "40% Tốc độ Đánh" }
     ]
   },
   {
@@ -615,53 +300,19 @@
     "name": "Channeler",
     "icon": "Channeler.png",
     "champions": [
-      {
-        "name": "Mordekaiser",
-        "image": "Mordekaiser.png"
-      },
-      {
-        "name": "Zoe",
-        "image": "Zoe.png"
-      },
-      {
-        "name": "Miss Fortune",
-        "image": "MissFortune.png"
-      },
-      {
-        "name": "Viktor",
-        "image": "Viktor.png"
-      },
-      {
-        "name": "Aurelion Sol",
-        "image": "AurelionSol.png"
-      },
-      {
-        "name": "Bard",
-        "image": "Bard.png"
-      }
+      { "name": "Mordekaiser", "image": "Mordekaiser.png" },
+      { "name": "Zoe", "image": "Zoe.png" },
+      { "name": "Miss Fortune", "image": "MissFortune.png" },
+      { "name": "Viktor", "image": "Viktor.png" },
+      { "name": "Aurelion Sol", "image": "AurelionSol.png" },
+      { "name": "Bard", "image": "Bard.png" }
     ],
-    "description": "Innate: Channelers gain 20% additional Mana from all sources. Your team gains Mana Regen, increased for Channelers.",
+    "description": "Nội tại: Các tướng Thuật Sĩ nhận thêm 20% Năng lượng từ mọi nguồn. Đội của bạn nhận Hồi Năng lượng, tăng thêm đối với các Thuật Sĩ.",
     "effects": [
-      {
-        "count": "(2)\n1% Mana Regen | 3% Mana Regen",
-        "text": "(3)\n1% Mana Regen | 4% Mana Regen"
-      },
-      {
-        "count": "(2)",
-        "text": "1% Mana Regen | 3% Mana Regen"
-      },
-      {
-        "count": "(3)",
-        "text": "1% Mana Regen | 4% Mana Regen"
-      },
-      {
-        "count": "(4)",
-        "text": "2% Mana Regen | 6% Mana Regen"
-      },
-      {
-        "count": "(5)",
-        "text": "2% Mana Regen | 7% Mana Regen"
-      }
+      { "count": "(2)", "text": "1% Hồi Năng lượng | 3% Hồi Năng lượng" },
+      { "count": "(3)", "text": "1% Hồi Năng lượng | 4% Hồi Năng lượng" },
+      { "count": "(4)", "text": "2% Hồi Năng lượng | 6% Hồi Năng lượng" },
+      { "count": "(5)", "text": "2% Hồi Năng lượng | 7% Hồi Năng lượng" }
     ]
   },
   {
@@ -669,36 +320,17 @@
     "name": "Fateweaver",
     "icon": "Fateweaver.png",
     "champions": [
-      {
-        "name": "Caitlyn",
-        "image": "Caitlyn.png"
-      },
-      {
-        "name": "Twisted Fate",
-        "image": "TwistedFate.png"
-      },
-      {
-        "name": "Milio",
-        "image": "Milio.png"
-      },
-      {
-        "name": "Corki",
-        "image": "Corki.png"
-      }
+      { "name": "Caitlyn", "image": "Caitlyn.png" },
+      { "name": "Twisted Fate", "image": "TwistedFate.png" },
+      { "name": "Milio", "image": "Milio.png" },
+      { "name": "Corki", "image": "Corki.png" }
     ],
-    "description": "Innate: Fateweavers have Precision.",
+    "description": "Nội tại: Các tướng Fateweaver có khả năng Chuẩn Xác.",
     "effects": [
-      {
-        "count": "(2)\nChance effects on abilities are Lucky.",
-        "text": "(4)\nGain 20% Crit Chance and 10% Crit Damage. Critical strikes are also Lucky."
-      },
-      {
-        "count": "(2)",
-        "text": "Chance effects on abilities are Lucky."
-      },
+      { "count": "(2)", "text": "Các hiệu ứng may rủi trong kỹ năng sẽ trở nên May Mắn." },
       {
         "count": "(4)",
-        "text": "Gain 20% Crit Chance and 10% Crit Damage. Critical strikes are also Lucky."
+        "text": "Nhận 20% Tỷ lệ Chí mạng và 10% Sát thương Chí mạng. Các đòn chí mạng cũng sẽ là May Mắn."
       }
     ]
   },
@@ -707,45 +339,17 @@
     "name": "Marauder",
     "icon": "Marauder.png",
     "champions": [
-      {
-        "name": "Akali",
-        "image": "Akali.png"
-      },
-      {
-        "name": "Bel'Veth",
-        "image": "BelVeth.png"
-      },
-      {
-        "name": "Urgot",
-        "image": "Urgot.png"
-      },
-      {
-        "name": "Master Yi",
-        "image": "MasterYi.png"
-      },
-      {
-        "name": "Fiora",
-        "image": "Fiora.png"
-      }
+      { "name": "Akali", "image": "Akali.png" },
+      { "name": "Bel'Veth", "image": "BelVeth.png" },
+      { "name": "Urgot", "image": "Urgot.png" },
+      { "name": "Master Yi", "image": "MasterYi.png" },
+      { "name": "Fiora", "image": "Fiora.png" }
     ],
-    "description": "Your team gains 5% Omnivamp. Marauders gain more Omnivamp, Attack Damage, and their Omnivamp overhealing is converted into Shield (up to 25% max Health.)",
+    "description": "Đội của bạn nhận 5% Toàn phần Hút máu. Các tướng Cướp Bóc nhận thêm Toàn phần Hút máu, SMCK và lượng máu hồi dư từ hút máu sẽ chuyển thành Lá chắn (tối đa 25% Máu tối đa).",
     "effects": [
-      {
-        "count": "(2)\n5% Omnivamp, 20% AD",
-        "text": "(4)\n7% Omnivamp, 30% AD"
-      },
-      {
-        "count": "(2)",
-        "text": "5% Omnivamp, 20% AD"
-      },
-      {
-        "count": "(4)",
-        "text": "7% Omnivamp, 30% AD"
-      },
-      {
-        "count": "(6)",
-        "text": "10% Omnivamp, 40% AD."
-      }
+      { "count": "(2)", "text": "5% Toàn phần Hút máu, 20% SMCK" },
+      { "count": "(4)", "text": "7% Toàn phần Hút máu, 30% SMCK" },
+      { "count": "(6)", "text": "10% Toàn phần Hút máu, 40% SMCK." }
     ]
   },
   {
@@ -753,37 +357,15 @@
     "name": "Mecha",
     "icon": "Mecha.png",
     "champions": [
-      {
-        "name": "Urgot",
-        "image": "Urgot.png"
-      },
-      {
-        "name": "Aurelion Sol",
-        "image": "AurelionSol.png"
-      },
-      {
-        "name": "The Mighty Mech",
-        "image": "TheMightyMech.png"
-      }
+      { "name": "Urgot", "image": "Urgot.png" },
+      { "name": "Aurelion Sol", "image": "AurelionSol.png" },
+      { "name": "The Mighty Mech", "image": "TheMightyMech.png" }
     ],
-    "description": "Innate: Mecha units can transform into their Ultimate form, upgrading their ability and gaining 60% Health. Transformed Mechas take up two team slots and count twice for the Mecha trait.",
+    "description": "Nội tại: Các đơn vị Mecha có thể biến hình sang dạng Tối Thượng, nâng cấp kỹ năng và nhận 60% Máu. Mecha đã biến hình chiếm 2 vị trí trong đội và được tính là 2 đơn vị cho tộc Mecha.",
     "effects": [
-      {
-        "count": "(3)\nEnergy Cells: Mechas gain 20% AD & AP.",
-        "text": "(4)\nOverclocked Cells: Increased to 35% AD & AP."
-      },
-      {
-        "count": "(3)",
-        "text": "Energy Cells: Mechas gain 20% AD & AP."
-      },
-      {
-        "count": "(4)",
-        "text": "Overclocked Cells: Increased to 35% AD & AP."
-      },
-      {
-        "count": "(6)",
-        "text": "Precision Engineering: +1 max team size"
-      }
+      { "count": "(3)", "text": "Pin Năng Lượng: Mecha nhận 20% SMCK & SMPT." },
+      { "count": "(4)", "text": "Pin Quá Tải: Tăng lên 35% SMCK & SMPT." },
+      { "count": "(6)", "text": "Kỹ Nghệ Chuẩn Xác: +1 giới hạn đội hình tối đa." }
     ]
   },
   {
@@ -791,45 +373,17 @@
     "name": "Replicator",
     "icon": "Replicator.png",
     "champions": [
-      {
-        "name": "Lissandra",
-        "image": "Lissandra.png"
-      },
-      {
-        "name": "Veigar",
-        "image": "Veigar.png"
-      },
-      {
-        "name": "Pantheon",
-        "image": "Pantheon.png"
-      },
-      {
-        "name": "Lulu",
-        "image": "Lulu.png"
-      },
-      {
-        "name": "Miss Fortune",
-        "image": "MissFortune.png"
-      },
-      {
-        "name": "Nami",
-        "image": "Nami.png"
-      }
+      { "name": "Lissandra", "image": "Lissandra.png" },
+      { "name": "Veigar", "image": "Veigar.png" },
+      { "name": "Pantheon", "image": "Pantheon.png" },
+      { "name": "Lulu", "image": "Lulu.png" },
+      { "name": "Miss Fortune", "image": "MissFortune.png" },
+      { "name": "Nami", "image": "Nami.png" }
     ],
-    "description": "Replicator abilities occur a second time at reduced effectiveness.",
+    "description": "Các kỹ năng của tướng Tái Bản sẽ xảy ra lần thứ hai với hiệu quả giảm bớt.",
     "effects": [
-      {
-        "count": "(2)\n25% strength",
-        "text": "(4)\n50% strength"
-      },
-      {
-        "count": "(2)",
-        "text": "25% strength"
-      },
-      {
-        "count": "(4)",
-        "text": "50% strength"
-      }
+      { "count": "(2)", "text": "25% sức mạnh" },
+      { "count": "(4)", "text": "50% sức mạnh" }
     ]
   },
   {
@@ -837,53 +391,19 @@
     "name": "Rogue",
     "icon": "Rogue.png",
     "champions": [
-      {
-        "name": "Briar",
-        "image": "Briar.png"
-      },
-      {
-        "name": "Talon",
-        "image": "Talon.png"
-      },
-      {
-        "name": "Gwen",
-        "image": "Gwen.png"
-      },
-      {
-        "name": "Fizz",
-        "image": "Fizz.png"
-      },
-      {
-        "name": "Kai'Sa",
-        "image": "KaiSa.png"
-      },
-      {
-        "name": "Riven",
-        "image": "Riven.png"
-      }
+      { "name": "Briar", "image": "Briar.png" },
+      { "name": "Talon", "image": "Talon.png" },
+      { "name": "Gwen", "image": "Gwen.png" },
+      { "name": "Fizz", "image": "Fizz.png" },
+      { "name": "Kai'Sa", "image": "KaiSa.png" },
+      { "name": "Riven", "image": "Riven.png" }
     ],
-    "description": "Rogues gain Attack Damage and Ability Power. The first time they fall below 50% health, they slip into shadows. Enemies targeting them are redirected to a nearby unit, preferring Tanks.",
+    "description": "Các tướng Sát Thủ nhận SMCK và SMPT. Lần đầu tiên tụt xuống dưới 50% máu, họ ẩn mình vào bóng tối. Kẻ địch đang nhắm vào họ sẽ bị chuyển hướng sang mục tiêu khác gần đó, ưu tiên các tướng Chống Chịu.",
     "effects": [
-      {
-        "count": "(2)\n15% AD AP",
-        "text": "(3)\n30% AD AP"
-      },
-      {
-        "count": "(2)",
-        "text": "15% AD AP"
-      },
-      {
-        "count": "(3)",
-        "text": "30% AD AP"
-      },
-      {
-        "count": "(4)",
-        "text": "45% AD AP"
-      },
-      {
-        "count": "(5)",
-        "text": "60% AD AP"
-      }
+      { "count": "(2)", "text": "15% SMCK SMPT" },
+      { "count": "(3)", "text": "30% SMCK SMPT" },
+      { "count": "(4)", "text": "45% SMCK SMPT" },
+      { "count": "(5)", "text": "60% SMCK SMPT" }
     ]
   },
   {
@@ -891,48 +411,20 @@
     "name": "Shepherd",
     "icon": "Shepherd.png",
     "champions": [
-      {
-        "name": "Lissandra",
-        "image": "Lissandra.png"
-      },
-      {
-        "name": "Teemo",
-        "image": "Teemo.png"
-      },
-      {
-        "name": "Meepsie",
-        "image": "Meepsie.png"
-      },
-      {
-        "name": "Illaoi",
-        "image": "Illaoi.png"
-      },
-      {
-        "name": "LeBlanc",
-        "image": "LeBlanc.png"
-      },
-      {
-        "name": "Sona",
-        "image": "Sona.png"
-      }
+      { "name": "Lissandra", "image": "Lissandra.png" },
+      { "name": "Teemo", "image": "Teemo.png" },
+      { "name": "Meepsie", "image": "Meepsie.png" },
+      { "name": "Illaoi", "image": "Illaoi.png" },
+      { "name": "LeBlanc", "image": "LeBlanc.png" },
+      { "name": "Sona", "image": "Sona.png" }
     ],
-    "description": "Shepherds summon the Bond of the Stars to aid them in battle.",
+    "description": "Người Chăn Dắt triệu hồi Liên Kết Tinh Tú để hỗ trợ trong trận chiến.",
     "effects": [
-      {
-        "count": "(3)\nSummon Bia",
-        "text": "(5)\nSummon Bayin"
-      },
-      {
-        "count": "(3)",
-        "text": "Summon Bia"
-      },
-      {
-        "count": "(5)",
-        "text": "Summon Bayin"
-      },
+      { "count": "(3)", "text": "Triệu hồi Bia" },
+      { "count": "(5)", "text": "Triệu hồi Bayin" },
       {
         "count": "(7)",
-        "text": "Bia and Bayin's bond grows deeper. Bia and Bayin's power are increased by the total star level of Shepherd."
+        "text": "Mối liên kết giữa Bia và Bayin sâu đậm hơn. Sức mạnh của Bia và Bayin được tăng theo tổng cấp sao của các tướng Người Chăn Dắt."
       }
     ]
   },
@@ -941,49 +433,18 @@
     "name": "Sniper",
     "icon": "Sniper.png",
     "champions": [
-      {
-        "name": "Ezreal",
-        "image": "Ezreal.png"
-      },
-      {
-        "name": "Gnar",
-        "image": "Gnar.png"
-      },
-      {
-        "name": "Samira",
-        "image": "Samira.png"
-      },
-      {
-        "name": "Xayah",
-        "image": "Xayah.png"
-      },
-      {
-        "name": "Jhin",
-        "image": "Jhin.png"
-      }
+      { "name": "Ezreal", "image": "Ezreal.png" },
+      { "name": "Gnar", "image": "Gnar.png" },
+      { "name": "Samira", "image": "Samira.png" },
+      { "name": "Xayah", "image": "Xayah.png" },
+      { "name": "Jhin", "image": "Jhin.png" }
     ],
-    "description": "Snipers gain Damage Amp, increased against targets farther away.",
+    "description": "Xạ Thủ được tăng Sát thương, tăng thêm dựa trên khoảng cách tới mục tiêu.",
     "effects": [
-      {
-        "count": "(2)\n18% DA; +2% DA per hex",
-        "text": "(3)\n24% DA; +3% DA per hex"
-      },
-      {
-        "count": "(2)",
-        "text": "18% DA; +2% DA per hex"
-      },
-      {
-        "count": "(3)",
-        "text": "24% DA; +3% DA per hex"
-      },
-      {
-        "count": "(4)",
-        "text": "28% DA; +4% DA per hex"
-      },
-      {
-        "count": "(5)",
-        "text": "32% DA; +5% DA per hex"
-      }
+      { "count": "(2)", "text": "18% Tăng Sát thương; +2% mỗi ô" },
+      { "count": "(3)", "text": "24% Tăng Sát thương; +3% mỗi ô" },
+      { "count": "(4)", "text": "28% Tăng Sát thương; +4% mỗi ô" },
+      { "count": "(5)", "text": "32% Tăng Sát thương; +5% mỗi ô" }
     ]
   },
   {
@@ -991,36 +452,18 @@
     "name": "Stargazer (The Altar)",
     "icon": "Stargazer.png",
     "champions": [
-      {
-        "name": "Talon",
-        "image": "Talon.png"
-      },
-      {
-        "name": "Twisted Fate",
-        "image": "TwistedFate.png"
-      },
-      {
-        "name": "Jax",
-        "image": "Jax.png"
-      },
-      {
-        "name": "Lulu",
-        "image": "Lulu.png"
-      },
-      {
-        "name": "Nunu",
-        "image": "Nunu.png"
-      },
-      {
-        "name": "Xayah",
-        "image": "Xayah.png"
-      }
+      { "name": "Talon", "image": "Talon.png" },
+      { "name": "Twisted Fate", "image": "TwistedFate.png" },
+      { "name": "Jax", "image": "Jax.png" },
+      { "name": "Lulu", "image": "Lulu.png" },
+      { "name": "Nunu", "image": "Nunu.png" },
+      { "name": "Xayah", "image": "Xayah.png" }
     ],
-    "description": "Stargazers chart a different constellation every game. This game: The Altar.",
+    "description": "Các Chiêm Tinh Gia lập biểu đồ các chòm sao khác nhau mỗi trận. Trận này: Tế Đàn.",
     "effects": [
       {
         "count": "(3)",
-        "text": "When ANY unit dies, they are sacrificed to the altar. Allies in empowered hexes gain 10% health and 15% attack speed. After 60 sacrifices, Stargazers in empowered hexes gain an additional 25% health and 40% attack speed. More hexes reveal at each player level"
+        "text": "Khi BẤT KỲ đơn vị nào chết, họ bị hiến tế cho tế đàn. Đồng minh ở ô được cường hóa nhận 10% máu và 15% tốc độ đánh. Sau 60 lần hiến tế, Chiêm Tinh Gia ở ô cường hóa nhận thêm 25% máu và 40% tốc độ đánh. Nhiều ô hơn sẽ lộ ra ở mỗi cấp độ người chơi."
       }
     ]
   },
@@ -1029,52 +472,21 @@
     "name": "Stargazer (The Boar)",
     "icon": "Stargazer.png",
     "champions": [
-      {
-        "name": "Talon",
-        "image": "Talon.png"
-      },
-      {
-        "name": "Twisted Fate",
-        "image": "TwistedFate.png"
-      },
-      {
-        "name": "Jax",
-        "image": "Jax.png"
-      },
-      {
-        "name": "Lulu",
-        "image": "Lulu.png"
-      },
-      {
-        "name": "Nunu",
-        "image": "Nunu.png"
-      },
-      {
-        "name": "Xayah",
-        "image": "Xayah.png"
-      }
+      { "name": "Talon", "image": "Talon.png" },
+      { "name": "Twisted Fate", "image": "TwistedFate.png" },
+      { "name": "Jax", "image": "Jax.png" },
+      { "name": "Lulu", "image": "Lulu.png" },
+      { "name": "Nunu", "image": "Nunu.png" },
+      { "name": "Xayah", "image": "Xayah.png" }
     ],
-    "description": "Stargazers chart a different constellation every game. This game: The Boar. Gain gold on win. Allies in empowered hexes gain 8% health, attack damage, and ability power. Stargazers gain more.",
+    "description": "Các Chiêm Tinh Gia lập biểu đồ các chòm sao khác nhau mỗi trận. Trận này: Heo Rừng. Nhận vàng khi thắng. Đồng minh ở ô cường hóa nhận 8% máu, SMCK và SMPT. Chiêm Tinh Gia nhận nhiều hơn.",
     "effects": [
-      {
-        "count": "(3)\n1 gold, 10% health, 18% attack damage and ability power",
-        "text": "(4)\n2 gold, 15% health, 25% attack damage and ability power"
-      },
-      {
-        "count": "(3)",
-        "text": "1 gold, 10% health, 18% attack damage and ability power"
-      },
-      {
-        "count": "(4)",
-        "text": "2 gold, 15% health, 25% attack damage and ability power"
-      },
-      {
-        "count": "(5)",
-        "text": "3 gold, 20% health, 33% attack damage and ability power"
-      },
+      { "count": "(3)", "text": "1 vàng, 10% máu, 18% SMCK và SMPT" },
+      { "count": "(4)", "text": "2 vàng, 15% máu, 25% SMCK và SMPT" },
+      { "count": "(5)", "text": "3 vàng, 20% máu, 33% SMCK và SMPT" },
       {
         "count": "(6)",
-        "text": "5 gold, 25% health, 40% attack damage and ability power. More hexes reveal at each player level"
+        "text": "5 vàng, 25% máu, 40% SMCK và SMPT. Nhiều ô hơn sẽ lộ ra ở mỗi cấp độ người chơi."
       }
     ]
   },
@@ -1083,44 +495,19 @@
     "name": "Stargazer (The Fountain)",
     "icon": "Stargazer.png",
     "champions": [
-      {
-        "name": "Talon",
-        "image": "Talon.png"
-      },
-      {
-        "name": "Twisted Fate",
-        "image": "TwistedFate.png"
-      },
-      {
-        "name": "Jax",
-        "image": "Jax.png"
-      },
-      {
-        "name": "Lulu",
-        "image": "Lulu.png"
-      },
-      {
-        "name": "Nunu",
-        "image": "Nunu.png"
-      },
-      {
-        "name": "Xayah",
-        "image": "Xayah.png"
-      }
+      { "name": "Talon", "image": "Talon.png" },
+      { "name": "Twisted Fate", "image": "TwistedFate.png" },
+      { "name": "Jax", "image": "Jax.png" },
+      { "name": "Lulu", "image": "Lulu.png" },
+      { "name": "Nunu", "image": "Nunu.png" },
+      { "name": "Xayah", "image": "Xayah.png" }
     ],
-    "description": "Stargazers chart a different constellation every game. This game: The Fountain. Allies in empowered hexes gain 1 mana regen. Stargazers in empowered hexes gain more and heal the lowest Health ally with their abilities.",
+    "description": "Các Chiêm Tinh Gia lập biểu đồ các chòm sao khác nhau mỗi trận. Trận này: Đài Phun Nước. Đồng minh ở ô cường hóa nhận 1 hồi năng lượng. Chiêm Tinh Gia ở ô cường hóa nhận nhiều hơn và hồi máu cho đồng minh thấp máu nhất bằng kỹ năng của họ.",
     "effects": [
-      {
-        "count": "(3)\n3 mana regen, 10% ability damage heal",
-        "text": "(5)\n5 mana regen, 18% ability damage heal. More hexes reveal at each player level"
-      },
-      {
-        "count": "(3)",
-        "text": "3 mana regen, 10% ability damage heal"
-      },
+      { "count": "(3)", "text": "3 hồi năng lượng, hồi máu bằng 10% sát thương kỹ năng" },
       {
         "count": "(5)",
-        "text": "5 mana regen, 18% ability damage heal. More hexes reveal at each player level"
+        "text": "5 hồi năng lượng, hồi máu bằng 18% sát thương kỹ năng. Nhiều ô hơn sẽ lộ ra ở mỗi cấp độ người chơi."
       }
     ]
   },
@@ -1129,48 +516,20 @@
     "name": "Stargazer (The Huntress)",
     "icon": "Stargazer.png",
     "champions": [
-      {
-        "name": "Talon",
-        "image": "Talon.png"
-      },
-      {
-        "name": "Twisted Fate",
-        "image": "TwistedFate.png"
-      },
-      {
-        "name": "Jax",
-        "image": "Jax.png"
-      },
-      {
-        "name": "Lulu",
-        "image": "Lulu.png"
-      },
-      {
-        "name": "Nunu",
-        "image": "Nunu.png"
-      },
-      {
-        "name": "Xayah",
-        "image": "Xayah.png"
-      }
+      { "name": "Talon", "image": "Talon.png" },
+      { "name": "Twisted Fate", "image": "TwistedFate.png" },
+      { "name": "Jax", "image": "Jax.png" },
+      { "name": "Lulu", "image": "Lulu.png" },
+      { "name": "Nunu", "image": "Nunu.png" },
+      { "name": "Xayah", "image": "Xayah.png" }
     ],
-    "description": "Stargazers chart a different constellation every game. This game: The Huntress. Mark the highest Health enemies. Allies in empowered hexes gain 15% attack speed. Stargazers in empowered hexes gain more and heal for 10% of their max health when a marked enemy dies.",
+    "description": "Các Chiêm Tinh Gia lập biểu đồ các chòm sao khác nhau mỗi trận. Trận này: Thợ Săn. Đánh dấu những kẻ địch nhiều máu nhất. Đồng minh ở ô cường hóa nhận 15% tốc độ đánh. Chiêm Tinh Gia ở ô cường hóa nhận nhiều hơn và hồi 10% máu tối đa khi một kẻ địch bị đánh dấu chết.",
     "effects": [
-      {
-        "count": "(3)\n30% attack speed, 3 marks",
-        "text": "(5)\n45% attack speed, 5 marks"
-      },
-      {
-        "count": "(3)",
-        "text": "30% attack speed, 3 marks"
-      },
-      {
-        "count": "(5)",
-        "text": "45% attack speed, 5 marks"
-      },
+      { "count": "(3)", "text": "30% tốc độ đánh, 3 dấu ấn" },
+      { "count": "(5)", "text": "45% tốc độ đánh, 5 dấu ấn" },
       {
         "count": "(7)",
-        "text": "60% attack speed, 7 marks. More hexes reveal at each player level"
+        "text": "60% tốc độ đánh, 7 dấu ấn. Nhiều ô hơn sẽ lộ ra ở mỗi cấp độ người chơi."
       }
     ]
   },
@@ -1179,36 +538,18 @@
     "name": "Stargazer (The Medallion)",
     "icon": "Stargazer.png",
     "champions": [
-      {
-        "name": "Talon",
-        "image": "Talon.png"
-      },
-      {
-        "name": "Twisted Fate",
-        "image": "TwistedFate.png"
-      },
-      {
-        "name": "Jax",
-        "image": "Jax.png"
-      },
-      {
-        "name": "Lulu",
-        "image": "Lulu.png"
-      },
-      {
-        "name": "Nunu",
-        "image": "Nunu.png"
-      },
-      {
-        "name": "Xayah",
-        "image": "Xayah.png"
-      }
+      { "name": "Talon", "image": "Talon.png" },
+      { "name": "Twisted Fate", "image": "TwistedFate.png" },
+      { "name": "Jax", "image": "Jax.png" },
+      { "name": "Lulu", "image": "Lulu.png" },
+      { "name": "Nunu", "image": "Nunu.png" },
+      { "name": "Xayah", "image": "Xayah.png" }
     ],
-    "description": "Stargazers chart a different constellation every game. This game: The Medallion.",
+    "description": "Các Chiêm Tinh Gia lập biểu đồ các chòm sao khác nhau mỗi trận. Trận này: Huy Chương.",
     "effects": [
       {
         "count": "(3)",
-        "text": "Allies in empowered hexes gain 15% damage amp, which increases by 3% for each 3 star on your team. More hexes reveal at each player level"
+        "text": "Đồng minh ở ô cường hóa nhận 15% tăng sát thương, tăng thêm 3% cho mỗi tướng 3 sao trong đội của bạn. Nhiều ô hơn sẽ lộ ra ở mỗi cấp độ người chơi."
       }
     ]
   },
@@ -1217,72 +558,26 @@
     "name": "Stargazer (The Mountain)",
     "icon": "Stargazer.png",
     "champions": [
-      {
-        "name": "Talon",
-        "image": "Talon.png"
-      },
-      {
-        "name": "Twisted Fate",
-        "image": "TwistedFate.png"
-      },
-      {
-        "name": "Jax",
-        "image": "Jax.png"
-      },
-      {
-        "name": "Lulu",
-        "image": "Lulu.png"
-      },
-      {
-        "name": "Nunu",
-        "image": "Nunu.png"
-      },
-      {
-        "name": "Xayah",
-        "image": "Xayah.png"
-      }
+      { "name": "Talon", "image": "Talon.png" },
+      { "name": "Twisted Fate", "image": "TwistedFate.png" },
+      { "name": "Jax", "image": "Jax.png" },
+      { "name": "Lulu", "image": "Lulu.png" },
+      { "name": "Nunu", "image": "Nunu.png" },
+      { "name": "Xayah", "image": "Xayah.png" }
     ],
-    "description": "Stargazers chart a different constellation every game. This game: The Mountain. Every 5 player combat, gain a Stargazer emblem. Stargazers in empowered hexes gain various bonuses.",
+    "description": "Các Chiêm Tinh Gia lập biểu đồ các chòm sao khác nhau mỗi trận. Trận này: Ngọn Núi. Mỗi 5 vòng đấu người chơi, nhận một Ấn Chiêm Tinh Gia. Chiêm Tinh Gia ở ô cường hóa nhận các phần thưởng khác nhau.",
     "effects": [
-      {
-        "count": "(3)\nGain 15% Health",
-        "text": "(4)\nAND 15% attack damage and ability power"
-      },
-      {
-        "count": "(3)",
-        "text": "Gain 15% Health"
-      },
-      {
-        "count": "(4)",
-        "text": "AND 15% attack damage and ability power"
-      },
-      {
-        "count": "(5)",
-        "text": "AND 15 armor and magic resist"
-      },
-      {
-        "count": "(6)",
-        "text": "AND 15% attack speed"
-      },
-      {
-        "count": "(7)",
-        "text": "AND 12% Durability"
-      },
-      {
-        "count": "(8)",
-        "text": "AND increase all other bonuses by 20%"
-      },
-      {
-        "count": "(9)",
-        "text": "I can see the summit..."
-      },
-      {
-        "count": "(10)",
-        "text": "almost there..."
-      },
+      { "count": "(3)", "text": "Nhận 15% Máu" },
+      { "count": "(4)", "text": "VÀ 15% SMCK và SMPT" },
+      { "count": "(5)", "text": "VÀ 15 Giáp và Kháng Phép" },
+      { "count": "(6)", "text": "VÀ 15% Tốc độ đánh" },
+      { "count": "(7)", "text": "VÀ 12% Giảm sát thương" },
+      { "count": "(8)", "text": "VÀ tăng tất cả các phần thưởng khác thêm 20%" },
+      { "count": "(9)", "text": "Tôi có thể thấy đỉnh núi..." },
+      { "count": "(10)", "text": "Gần đến rồi..." },
       {
         "count": "(11)",
-        "text": "The stars beckon all enemies. More hexes reveal at each player level"
+        "text": "Các vì sao vẫy gọi mọi kẻ thù. Nhiều ô hơn sẽ lộ ra ở mỗi cấp độ người chơi."
       }
     ]
   },
@@ -1291,48 +586,20 @@
     "name": "Stargazer (The Serpent)",
     "icon": "Stargazer.png",
     "champions": [
-      {
-        "name": "Talon",
-        "image": "Talon.png"
-      },
-      {
-        "name": "Twisted Fate",
-        "image": "TwistedFate.png"
-      },
-      {
-        "name": "Jax",
-        "image": "Jax.png"
-      },
-      {
-        "name": "Lulu",
-        "image": "Lulu.png"
-      },
-      {
-        "name": "Nunu",
-        "image": "Nunu.png"
-      },
-      {
-        "name": "Xayah",
-        "image": "Xayah.png"
-      }
+      { "name": "Talon", "image": "Talon.png" },
+      { "name": "Twisted Fate", "image": "TwistedFate.png" },
+      { "name": "Jax", "image": "Jax.png" },
+      { "name": "Lulu", "image": "Lulu.png" },
+      { "name": "Nunu", "image": "Nunu.png" },
+      { "name": "Xayah", "image": "Xayah.png" }
     ],
-    "description": "Stargazers chart a different constellation every game. This game: The Serpent. Allies in empowered hexes gain 8% Durability. Stargazers in empowered hexes gain more and poison enemies, repeating a portion of damage dealt as magic damage over 3 seconds.",
+    "description": "Các Chiêm Tinh Gia lập biểu đồ các chòm sao khác nhau mỗi trận. Trận này: Mãng Xà. Đồng minh ở ô cường hóa nhận 8% Giảm sát thương. Chiêm Tinh Gia ở ô cường hóa nhận nhiều hơn và gây độc lên kẻ địch, chuyển một phần sát thương gây ra thành sát thương phép trong vòng 3 giây.",
     "effects": [
-      {
-        "count": "(3)\n15% DR, 30% poison damage",
-        "text": "(5)\n20% DR, 45% poison damage"
-      },
-      {
-        "count": "(3)",
-        "text": "15% DR, 30% poison damage"
-      },
-      {
-        "count": "(5)",
-        "text": "20% DR, 45% poison damage"
-      },
+      { "count": "(3)", "text": "15% Giảm sát thương, 30% sát thương độc" },
+      { "count": "(5)", "text": "20% Giảm sát thương, 45% sát thương độc" },
       {
         "count": "(7)",
-        "text": "25% DR, 60% poison damage. More hexes reveal at each player level"
+        "text": "25% Giảm sát thương, 60% sát thương độc. Nhiều ô hơn sẽ lộ ra ở mỗi cấp độ người chơi."
       }
     ]
   },
@@ -1341,49 +608,18 @@
     "name": "Vanguard",
     "icon": "Vanguard.png",
     "champions": [
-      {
-        "name": "Leona",
-        "image": "Leona.png"
-      },
-      {
-        "name": "Nasus",
-        "image": "Nasus.png"
-      },
-      {
-        "name": "Mordekaiser",
-        "image": "Mordekaiser.png"
-      },
-      {
-        "name": "Illaoi",
-        "image": "Illaoi.png"
-      },
-      {
-        "name": "Nunu",
-        "image": "Nunu.png"
-      },
-      {
-        "name": "Blitzcrank",
-        "image": "Blitzcrank.png"
-      }
+      { "name": "Leona", "image": "Leona.png" },
+      { "name": "Nasus", "image": "Nasus.png" },
+      { "name": "Mordekaiser", "image": "Mordekaiser.png" },
+      { "name": "Illaoi", "image": "Illaoi.png" },
+      { "name": "Nunu", "image": "Nunu.png" },
+      { "name": "Blitzcrank", "image": "Blitzcrank.png" }
     ],
-    "description": "Vanguards gain 5% Durability while Shielded. Combat start and 50% Health: Gain a max Health Shield for 10 seconds.",
+    "description": "Tiên Phong: Nhận 5% Giảm sát thương khi có Lá chắn. Bắt đầu giao tranh và ở 50% Máu: Nhận lá chắn theo máu tối đa trong 10 giây.",
     "effects": [
-      {
-        "count": "(2)\n16% max Health",
-        "text": "(4)\n28% max Health"
-      },
-      {
-        "count": "(2)",
-        "text": "16% max Health"
-      },
-      {
-        "count": "(4)",
-        "text": "28% max Health"
-      },
-      {
-        "count": "(6)",
-        "text": "40% max Health; 10% DR while Shielded"
-      }
+      { "count": "(2)", "text": "16% máu tối đa" },
+      { "count": "(4)", "text": "28% máu tối đa" },
+      { "count": "(6)", "text": "40% máu tối đa; 10% Giảm sát thương khi có Lá chắn" }
     ]
   },
   {
@@ -1391,183 +627,99 @@
     "name": "Voyager",
     "icon": "Voyager.png",
     "champions": [
-      {
-        "name": "Meepsie",
-        "image": "Meepsie.png"
-      },
-      {
-        "name": "Pyke",
-        "image": "Pyke.png"
-      },
-      {
-        "name": "Aurora",
-        "image": "Aurora.png"
-      },
-      {
-        "name": "The Mighty Mech",
-        "image": "TheMightyMech.png"
-      },
-      {
-        "name": "Karma",
-        "image": "Karma.png"
-      }
+      { "name": "Meepsie", "image": "Meepsie.png" },
+      { "name": "Pyke", "image": "Pyke.png" },
+      { "name": "Aurora", "image": "Aurora.png" },
+      { "name": "The Mighty Mech", "image": "TheMightyMech.png" },
+      { "name": "Karma", "image": "Karma.png" }
     ],
-    "description": "Combat Start: Your Tanks and Fighters gain a Shield for 15 seconds. Your other allies gain Damage Amp. Voyagers gain double.",
+    "description": "Bắt đầu giao tranh: Các tướng Đỡ Đòn và Đấu Sĩ của bạn nhận Lá chắn trong 15 giây. Các đồng minh khác nhận Tăng Sát thương. Tướng Du Hành nhận gấp đôi hiệu ứng.",
     "effects": [
-      {
-        "count": "(2)\n175 Shield; 9% DA",
-        "text": "(3)\n250 Shield; 15% DA"
-      },
-      {
-        "count": "(2)",
-        "text": "175 Shield; 9% DA"
-      },
-      {
-        "count": "(3)",
-        "text": "250 Shield; 15% DA"
-      },
-      {
-        "count": "(4)",
-        "text": "350 Shield; 18% DA"
-      },
-      {
-        "count": "(5)",
-        "text": "500 Shield; 22% DA"
-      },
-      {
-        "count": "(6)",
-        "text": "700 Shield; 27% DA"
-      }
+      { "count": "(2)", "text": "175 Lá chắn; 9% Tăng sát thương" },
+      { "count": "(3)", "text": "250 Lá chắn; 15% Tăng sát thương" },
+      { "count": "(4)", "text": "350 Lá chắn; 18% Tăng sát thương" },
+      { "count": "(5)", "text": "500 Lá chắn; 22% Tăng sát thương" },
+      { "count": "(6)", "text": "700 Lá chắn; 27% Tăng sát thương" }
     ]
   },
   {
     "section": "unique-synergy",
     "name": "Arcana",
     "icon": "Arcana.png",
-    "champions": [
-      {
-        "name": "Tahm Kench",
-        "image": "TahmKench.png"
-      }
-    ],
-    "description": "Every 3 rounds, Tahm Kench grants a reward!",
+    "champions": [{ "name": "Tahm Kench", "image": "TahmKench.png" }],
+    "description": "Mỗi 3 vòng, Tahm Kench sẽ ban một phần thưởng!",
     "effects": []
   },
   {
     "section": "unique-synergy",
     "name": "Bulwark (Shen)",
     "icon": "Bulwark.png",
-    "champions": [
-      {
-        "name": "Shen",
-        "image": "Shen.png"
-      }
-    ],
-    "description": "Summon a placeable relic. At the start of combat, it grants adjacent allies a 18% max Health shield and 20% Attack Speed.",
+    "champions": [{ "name": "Shen", "image": "Shen.png" }],
+    "description": "Triệu hồi một cổ vật có thể di chuyển. Khi bắt đầu giao tranh, nó ban cho đồng minh liền kề lá chắn bằng 18% máu tối đa và 20% tốc độ đánh.",
     "effects": []
   },
   {
     "section": "unique-synergy",
     "name": "Dark Lady (Morgana)",
     "icon": "DarkLady.png",
-    "champions": [
-      {
-        "name": "Morgana",
-        "image": "Morgana.png"
-      }
-    ],
-    "description": "Allies take 5% less damage from abilities, increased to 10% while Morgana is in Dark Form.",
+    "champions": [{ "name": "Morgana", "image": "Morgana.png" }],
+    "description": "Đồng minh nhận ít hơn 5% sát thương từ kỹ năng, tăng lên 10% khi Morgana ở dạng Bóng Tối.",
     "effects": []
   },
   {
     "section": "unique-synergy",
     "name": "Divine Duelist (Fiora)",
     "icon": "DivineDuelist.png",
-    "champions": [
-      {
-        "name": "Fiora",
-        "image": "Fiora.png"
-      }
-    ],
-    "description": "You heal for 15% of player damage you deal. Fiora always wins a one on one duel.",
+    "champions": [{ "name": "Fiora", "image": "Fiora.png" }],
+    "description": "Bạn hồi máu bằng 15% sát thương người chơi gây ra. Fiora luôn thắng trong các cuộc đấu tay đôi một đối một.",
     "effects": []
   },
   {
     "section": "unique-synergy",
     "name": "Doomer (Vex)",
     "icon": "Doomer.png",
-    "champions": [
-      {
-        "name": "Vex",
-        "image": "Vex.png"
-      }
-    ],
-    "description": "Combat Start: Mark all enemies with Doom. The first time enemies are damaged each combat, their Doom is consumed, stealing 8% Attack Damage and Ability Power from them and granting it to your strongest Vex.",
+    "champions": [{ "name": "Vex", "image": "Vex.png" }],
+    "description": "Bắt đầu giao tranh: Đánh dấu tất cả kẻ địch bằng 'Doom'. Lần đầu tiên kẻ địch bị sát thương mỗi vòng giao tranh, 'Doom' sẽ bị tiêu thụ, đánh cắp 8% SMCK và SMPT từ chúng và ban cho Vex mạnh nhất của bạn.",
     "effects": []
   },
   {
     "section": "unique-synergy",
     "name": "Eradicator (Jhin)",
     "icon": "EradicatorJhin.svg",
-    "champions": [
-      {
-        "name": "Jhin",
-        "image": "Jhin.png"
-      }
-    ],
-    "description": "Enemies have 14% less Armor and Magic Resist.",
+    "champions": [{ "name": "Jhin", "image": "Jhin.png" }],
+    "description": "Kẻ địch bị giảm 14% Giáp và Kháng Phép.",
     "effects": []
   },
   {
     "section": "unique-synergy",
     "name": "Factory New (Graves)",
     "icon": "FactoryNew.png",
-    "champions": [
-      {
-        "name": "Graves",
-        "image": "Graves.png"
-      }
-    ],
-    "description": "After participating in combat, open an armory to purchase a permanent upgrade for your strongest Graves. Every 3 upgrades, future upgrades will take an additional round.",
+    "champions": [{ "name": "Graves", "image": "Graves.png" }],
+    "description": "Sau khi tham gia giao tranh, mở một kho vũ khí để mua nâng cấp vĩnh viễn cho Graves mạnh nhất của bạn. Cứ sau mỗi 3 lần nâng cấp, các lần nâng cấp tiếp theo sẽ mất thêm một vòng.",
     "effects": []
   },
   {
     "section": "unique-synergy",
     "name": "Gun Goddess (Miss Fortune)",
     "icon": "GunGoddessMissFortune.svg",
-    "champions": [
-      {
-        "name": "Miss Fortune",
-        "image": "MissFortune.png"
-      }
-    ],
-    "description": "When you field Miss Fortune, choose between Channeler Mode, Challenger Mode, and Replicator Mode. Miss Fortune has a unique ability based on her mode and gains the associated trait.",
+    "champions": [{ "name": "Miss Fortune", "image": "MissFortune.png" }],
+    "description": "Khi đưa Miss Fortune vào sân, chọn giữa các chế độ: Thuật Sĩ, Thách Đấu hoặc Tái Bản. Miss Fortune có kỹ năng duy nhất dựa trên chế độ đã chọn và nhận tộc/hệ tương ứng.",
     "effects": []
   },
   {
     "section": "unique-synergy",
     "name": "Party Animal (Blitzcrank)",
     "icon": "PartyAnimal.png",
-    "champions": [
-      {
-        "name": "Blitzcrank",
-        "image": "Blitzcrank.png"
-      }
-    ],
-    "description": "Once per combat, after falling below 45% percent Health, become untargetable and repair 15% max Health per second. Upon reaching full Health, or when no other allies remain, return to combat. If fully healed, for the rest of combat Blitzcrank is in The Groove and Party Crasher's passive fires bolts four times as fast.",
+    "champions": [{ "name": "Blitzcrank", "image": "Blitzcrank.png" }],
+    "description": "Một lần mỗi trận chiến, sau khi máu giảm xuống dưới 45%, trở nên không thể bị chỉ định và phục hồi 15% máu tối đa mỗi giây. Khi đầy máu, hoặc khi không còn đồng minh nào khác, quay trở lại chiến đấu. Nếu được hồi đầy máu, trong phần còn lại của trận chiến, Blitzcrank sẽ ở trạng thái 'Phiêu' và nội tại 'Party Crasher' sẽ bắn các tia sét nhanh gấp bốn lần.",
     "effects": []
   },
   {
     "section": "unique-synergy",
     "name": "Redeemer (Rhaast)",
     "icon": "Redeemer.png",
-    "champions": [
-      {
-        "name": "Rhaast",
-        "image": "Rhaast.png"
-      }
-    ],
-    "description": "For each non-unique trait you have active, your team gains 2%/3%/4% Attack Speed, and 2/3/4 Armor and Magic Resist.",
+    "champions": [{ "name": "Rhaast", "image": "Rhaast.png" }],
+    "description": "Với mỗi tộc/hệ không phải duy nhất được kích hoạt, đội của bạn nhận 2%/3%/4% tốc độ đánh và 2/3/4 Giáp và Kháng Phép.",
     "effects": []
   }
 ]

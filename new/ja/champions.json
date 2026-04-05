@@ -10,7 +10,7 @@
     ],
     "status": "Aatrox",
     "mana": "30 / 90",
-    "description": "? ?, then deal ? ? physical damage to the current target. ?. ?: ? the battlefield, briefly knocking up all enemies and dealing ? ? physical damage."
+    "description": "? ?、その後現在のターゲットに ? ? の物理ダメージを与える。?。?: ? 戦場を、すべての敵をわずかにノックアップし、? ? の物理ダメージを与える。"
   },
   {
     "stt": 2,
@@ -24,7 +24,7 @@
     ],
     "status": "Briar",
     "mana": "0 / 40",
-    "description": "?: ? every ?% missing ?, gain ?% ? ? ?: ? ? physical damage to the target and ? ? if they're a tank."
+    "description": "?: ? 欠損 ?% ごとに、?% ? ? を獲得する。?: ターゲットに ? ? の物理ダメージを与え、相手がタンクの場合は ? ? する。"
   },
   {
     "stt": 3,
@@ -37,7 +37,7 @@
     ],
     "status": "Caitlyn",
     "mana": "",
-    "description": "?: ? have a ?% chance to fire an empowered ?, dealing ? ? physical damage. ?. ?: ? all enemies, increasing damage taken by ?%. ? first time marked targets drop below ?% ?, ? them for ? ? physical damage. ?: ? twice and take the better outcome."
+    "description": "?: ? ?% の確率で強化された ? を放ち、? ? の物理ダメージを与える。?。?: すべての敵をマークし、受けるダメージを ?% 増加させる。マークされたターゲットが初めて ?% ? を下回ったとき、? それらに ? ? の物理ダメージを与える。?: ? 2回実行し、より良い結果を選択する。"
   },
   {
     "stt": 4,
@@ -50,7 +50,7 @@
     ],
     "status": "Cho'Gath",
     "mana": "30 / 70",
-    "description": "? ? magic damage to the lowest ? enemy in range and permanently gain ? maximum ?. ? this kills them, devour them and permanently gain ? maximum ? instead. (?: +?)"
+    "description": "範囲内で最も ? が低い敵に ? ? の魔法ダメージを与え、永続的に ? ? 最大体力を獲得する。? このスキルで敵を倒した場合、それらを捕食し、代わりに永続的に ? ? 最大体力を獲得する。(?: +?)"
   },
   {
     "stt": 5,
@@ -63,7 +63,7 @@
     ],
     "status": "Ezreal",
     "mana": "0 / 30",
-    "description": "?: ? a blast at the current target that deals ? ? physical damage. ? takedowns, gain a drone that deals ? ? physical damage to the current target on cast. (?: ?)"
+    "description": "?: 現在のターゲットにエネルギーを放ち、? ? の物理ダメージを与える。? キルに関与したとき、ドローンを獲得し、スキルを使用するたびに現在のターゲットに ? ? の物理ダメージを与える。(?: ?)"
   },
   {
     "stt": 6,
@@ -76,7 +76,7 @@
     ],
     "status": "Leona",
     "mana": "40 / 100",
-    "description": "? ? ? for 4 seconds. ? the current target, dealing ? ? magic damage and stunning them for ? seconds."
+    "description": "4秒間 ? ? ? する。現在のターゲットを ? し、? ? の魔法ダメージを与え、? 秒間スタンさせる。"
   },
   {
     "stt": 7,
@@ -90,7 +90,7 @@
     ],
     "status": "Lissandra",
     "mana": "0 / 30",
-    "description": "? a dagger towards the current target, dealing ? ? magic damage to the first target it hits. ? hitting its initial target or at its final destination, the dagger explodes dealing ? ? magic damage to nearby targets."
+    "description": "現在のターゲットに向かって短剣を ? し、最初に命中したターゲットに ? ? の魔法ダメージを与える。? 最初のターゲットに命中した後、または射程の終端で爆発し、周囲の敵に ? ? の魔法ダメージを与える。"
   },
   {
     "stt": 8,
@@ -103,7 +103,7 @@
     ],
     "status": "Nasus",
     "mana": "60 / 120",
-    "description": "? for ? seconds, temporarily gaining ? max ? and dealing ? ? magic damage to adjacent enemies each second. ? transformed, ? is in ?."
+    "description": "? 秒間 ? し、一時的に ? ? の最大体力を獲得し、周囲の敵に毎秒 ? ? の魔法ダメージを与える。? 変身中、? は ? の状態になる。"
   },
   {
     "stt": 9,
@@ -116,7 +116,7 @@
     ],
     "status": "Poppy",
     "mana": "30 / 100",
-    "description": "? ? ? for ? seconds. ? the duration, allies within two hexes gain ? ? ? and ?. ?: ? grant ? ? ? to the nearest ? allies for ? seconds."
+    "description": "? 秒間 ? ? ? する。? 効果時間中、2マス以内の味方は ? ? ? と ? を獲得する。?: ? 秒間、最も近い ? 人の味方に ? ? ? を付与する。"
   },
   {
     "stt": 10,
@@ -129,7 +129,7 @@
     ],
     "status": "Rek'Sai",
     "mana": "50 / 110",
-    "description": "? ?, then briefly knock up adjacent enemies and deal ? ? magic damage."
+    "description": "? ?、その後周囲の敵をノックアップし、? ? の魔法ダメージを与える。"
   },
   {
     "stt": 11,
@@ -142,7 +142,7 @@
     ],
     "status": "Talon",
     "mana": "0 / 30",
-    "description": "? the target, causing them to bleed for ? ? physical damage over ? seconds. ? the attack, leap to the highest percent ? enemy within ? hexes."
+    "description": "ターゲットを ? し、? 秒間 ? ? の物理ダメージを与える出血状態にする。? 攻撃後、? マス以内にいる最も ? の割合が高い敵の元へ跳ぶ。"
   },
   {
     "stt": 12,
@@ -155,7 +155,7 @@
     ],
     "status": "Teemo",
     "mana": "0 / 50",
-    "description": "?: ? deal ? ? bonus magic damage and an additional ? ? stacking magic damage over ? seconds. ? an enemy has ? or more stacks, ? is in ?. ?: ?% ? for ? attacks."
+    "description": "?: ? が ? ? の追加魔法ダメージを与え、? 秒間 ? ? の魔法ダメージをスタックさせる。? 敵のスタックが ? 以上になったとき、? は ? の状態になる。?: ? 回の攻撃の間、?% ? する。"
   },
   {
     "stt": 13,
@@ -168,7 +168,7 @@
     ],
     "status": "Twisted Fate",
     "mana": "0 / 50",
-    "description": "? a card with a value between 1 and 9 by chance, then throw it at the target. ? on the card drawn, deal between ? ? and ? ? magic damage. ? damage bounces to the nearest enemy. ?: ? twice and take the better outcome."
+    "description": "1から9までのランダムな数値を持つカードを ? し、ターゲットに投げる。? 引いたカードに応じて、? ? から ? ? の魔法ダメージを与える。? ダメージは最も近い敵に跳ね返る。?: ? 2回実行し、より良い結果を選択する。"
   },
   {
     "stt": 14,
@@ -181,7 +181,7 @@
     ],
     "status": "Veigar",
     "mana": "10 / 50",
-    "description": "? down a ? on the target that deals ? ? magic damage. ?: ? additional ? mini ? are called down on nearby targets dealing ? ? magic damage each."
+    "description": "ターゲットに ? を落とし、? ? の魔法ダメージを与える。?: 周囲のターゲットに追加で ? 個の小さな ? を落とし、それぞれ ? ? の魔法ダメージを与える。"
   },
   {
     "stt": 15,
@@ -194,7 +194,7 @@
     ],
     "status": "Akali",
     "mana": "0 / 30",
-    "description": "? next to the target to strike the most enemies. ? throw ? piercing kunai, each dealing ? ? physical damage to the first enemy hit, reduced to ? ? for subsequent targets. ? remove ?, increased to ? if they crit. ?. ?: ? all enemies, applying ? and a bleed that deals ? ? physical damage each second for the rest of combat. ? increase the damage of the bleed by ?%."
+    "description": "最も多くの敵を攻撃できるよう、ターゲットの隣に ? する。? 本のクナイを投げ、最初に命中した敵に ? ? の物理ダメージを与え、後続のターゲットには ? ? に減少する。? ? を取り除き、クリティカルの場合は ? に増加する。?。?: すべての敵をマークし、? と、試合終了まで毎秒 ? ? の物理ダメージを与える出血効果を適用する。? 出血ダメージを ?% 増加させる。"
   },
   {
     "stt": 16,
@@ -208,7 +208,7 @@
     ],
     "status": "Bel'Veth",
     "mana": "0 / 50",
-    "description": "? a flurry of ? ? slashes at the current target over ? seconds, dealing ? ? physical damage each."
+    "description": "? 秒間、現在のターゲットに ? ? 回の連続攻撃を繰り出し、一撃ごとに ? ? の物理ダメージを与える。"
   },
   {
     "stt": 17,
@@ -221,7 +221,7 @@
     ],
     "status": "Gnar",
     "mana": "0 / 5",
-    "description": "?: ? 5th attack, launch a returning boomerang at the target that travels two hexes past the first enemy it hits. ? deals ? ? physical damage, reduced by ?% per hit. ?: ? attack alongside ?, dealing ? ? physical damage per second."
+    "description": "?: ? 5回目の攻撃ごとに、現在のターゲットに向かってブーメランを投げ、最初の敵を貫通してさらに2マス飛ぶ。? ? ? の物理ダメージを与え、貫通するたびに ?% 減少する。?: ? と一緒に攻撃し、毎秒 ? ? の物理ダメージを与える。"
   },
   {
     "stt": 18,
@@ -234,7 +234,7 @@
     ],
     "status": "Gragas",
     "mana": "30 / 80",
-    "description": "? ? over ? seconds. ?, deal ? ? magic damage to adjacent enemies and ? them for ? seconds. ?: ? ? by 30%"
+    "description": "? 秒間 ? ? する。? 周囲の敵に ? ? の魔法ダメージを与え、? 秒間 ? する。?: ? ? がさらに30%増加する。"
   },
   {
     "stt": 19,
@@ -247,7 +247,7 @@
     ],
     "status": "Gwen",
     "mana": "0 / 30",
-    "description": "?: ? deal magic damage. ? is in ? while targeting an enemy below ?% ?. ?: ? to a nearby hex to snip the lowest percent ? enemy, dealing ? ? magic damage to the target and ? ? magic damage to enemies in a cone. ? this kills, dash and snip again at ?% damage!"
+    "description": "?: ? 魔法ダメージを与える。?% ? 以下の敵を狙うとき、? は ? の状態になる。?: 近くのマスへ ? し、最も ? の割合が低い敵を切り刻み、ターゲットに ? ? の魔法ダメージを与え、扇状の範囲内の敵に ? ? の魔法ダメージを与える。? 敵を倒した場合、ダッシュして再度 ?% のダメージで切り刻む！"
   },
   {
     "stt": 20,
@@ -260,7 +260,7 @@
     ],
     "status": "Jax",
     "mana": "10 / 70",
-    "description": "? a defensive stance for ? seconds, reducing incoming damage by ? ? and gaining ? ? ?. ? the stance ends, strike all nearby enemies, dealing ? ? magic damage and ? them for ? second(s)."
+    "description": "? 秒間防御態勢に入り、受けるダメージを ? ? 軽減し、? ? ? を獲得する。? 防御態勢が終了したとき、周囲のすべての敵を攻撃し、? ? の魔法ダメージを与え、? 秒間 ? させる。"
   },
   {
     "stt": 21,
@@ -273,7 +273,7 @@
     ],
     "status": "Jinx",
     "mana": "20 / 80",
-    "description": "? a barrage of ? ? bullets in a cone, each dealing ? ? physical damage to the first target hit."
+    "description": "扇状の範囲に ? ? 発の弾丸を連射し、それぞれの弾丸が最初に命中したターゲットに ? ? の物理ダメージを与える。"
   },
   {
     "stt": 22,
@@ -287,7 +287,7 @@
     ],
     "status": "Meepsie",
     "mana": "50 / 100",
-    "description": "? ? ? over ? seconds. ? the target, dealing ? ? magic damage and knocking up for ? seconds. ? impact creates meepwaves that deal ?% of these effects in the target's row. ?: ? water ?'s flower, increasing all incoming ? and ? by ?."
+    "description": "? 秒間 ? ? ? する。ターゲットを ? し、? ? の魔法ダメージを与え、? 秒間ノックアップさせる。? 衝撃によりミープの波が発生し、ターゲットと同じ列にいる敵にこの効果の ?% を与える。?: ? の ? 水を ? し、すべての ? と受ける ? を ? 増加させる。"
   },
   {
     "stt": 23,
@@ -300,7 +300,7 @@
     ],
     "status": "Milio",
     "mana": "0 / 30",
-    "description": "? a ball at an enemy that deals ? ? magic damage. ? impact, the ball has a 100% chance to bounce to a new target dealing ? ? magic damage. ? bounces can trigger additional bounces, but the odds halve with each bounce. ?: ? twice and take the better outcome."
+    "description": "敵にボールを ? し、? ? の魔法ダメージを与える。? 命中時、ボールは100%の確率で新しいターゲットに跳ね返り、? ? の魔法ダメージを与える。? 跳ね返りはさらに連鎖する可能性があるが、跳ね返るたびに確率は半分に減少する。?: ? 2回実行し、より良い結果を選択する。"
   },
   {
     "stt": 24,
@@ -314,7 +314,7 @@
     ],
     "status": "Mordekaiser",
     "mana": "20 / 80",
-    "description": "? ? shield. ? second for the next ? seconds, gain ? ? more shield and deal ? ? magic damage to adjacent enemies. ? this ability ends, consume the remaining ? and heal for ?% of its value."
+    "description": "? ? シールドを獲得する。? 次の ? 秒間、毎秒追加の ? ? シールドを獲得し、周囲の敵に ? ? の魔法ダメージを与える。? スキル終了時、残っている ? を消費し、その値の ?% 分体力を回復する。"
   },
   {
     "stt": 25,
@@ -328,7 +328,7 @@
     ],
     "status": "Pantheon",
     "mana": "20 / 80",
-    "description": "? ? ? and ?% ? for ? seconds. ? the duration, deal ? ? physical damage each second to enemies in a cone."
+    "description": "? 秒間 ? ? ? と ?% ? を獲得する。? 効果時間中、扇状の範囲内の敵に毎秒 ? ? の物理ダメージを与える。"
   },
   {
     "stt": 26,
@@ -341,7 +341,7 @@
     ],
     "status": "Pyke",
     "mana": "0 / 40",
-    "description": "? up to one hex to throw a harpoon at the furthest enemy. ? harpoon pulls the first enemy hit one hex forward and deals ? ? physical damage. ?, teleport behind them and cleave, dealing ? ? physical damage to them and ? ? physical damage to nearby enemies."
+    "description": "最も遠い敵にハープーンを投げるため、最大1マスまで ? する。? ハープーンは最初に命中した敵を1マス引き寄せ、? ? の物理ダメージを与える。? その後、敵の背後にテレポートして切り裂き、その敵に ? ? 、周囲の敵に ? ? の物理ダメージを与える。"
   },
   {
     "stt": 27,
@@ -354,7 +354,7 @@
     ],
     "status": "Zoe",
     "mana": "0 / 50",
-    "description": "? a paddle star at the current target, dealing ? ? magic damage to the first target hit and ? ? to others it passes through. ? the missile reaches its destination, redirect it to a distant enemy, increasing its speed and repeating the damage. ? redirect can occur ? times."
+    "description": "現在のターゲットにパドルスターを ? し、最初に命中したターゲットに ? ? 、貫通した他の敵に ? ? の魔法ダメージを与える。? 星が終端に達したとき、遠くの敵に向かって方向転換し、速度を上げてダメージを繰り返す。? 方向転換は ? 回まで発生する可能性がある。"
   },
   {
     "stt": 28,
@@ -367,7 +367,7 @@
     ],
     "status": "Aurora",
     "mana": "20 / 80",
-    "description": "? a ? hex rift containing the target, ? enemies within for ? seconds and dealing ? ? magic damage to each, plus ? ? magic damage split between all enemies hit. ? enemies store ?% of all damage they take. ? the ? ends, they take true damage equal to the stored damage. ? ends early if it would kill the target."
+    "description": "ターゲットの周囲に六角形の亀裂を ? し、? 秒間中の敵を ? させ、それぞれに ? ? の魔法ダメージを与え、命中したすべての敵に均等に分配される ? ? の追加魔法ダメージを与える。? 敵は受けるすべてのダメージの ?% を蓄積する。? 亀裂の ? が終了したとき、蓄積されたダメージに等しい確定ダメージを受ける。? このダメージでターゲットを倒せる場合、早期に終了する。"
   },
   {
     "stt": 29,
@@ -380,7 +380,7 @@
     ],
     "status": "Diana",
     "mana": "0 / 50",
-    "description": "?: ? deal ? ? bonus magic damage. ?: ? ? ? and summon 3 encircling orbs for ? seconds. ? deal ? ? magic damage to enemies they pass through, and rotate faster based on ?."
+    "description": "?: ? 追加で ? ? の魔法ダメージを与える。?: ? ? ? し、? 秒間周囲を回る3つのオーブを召喚する。? 通過した敵に ? ? の魔法ダメージを与え、? に応じて回転が速くなる。"
   },
   {
     "stt": 30,
@@ -393,7 +393,7 @@
     ],
     "status": "Fizz",
     "mana": "0 / 20",
-    "description": "? through the current target, dealing ? ? magic damage. ? third cast also summons a ? after a delay, briefly knocking the target up and dealing ? ? magic damage in a one-hex radius, reduced by ?% per hex from the center. ?: ? ? to the bait, increasing ? damage by ?."
+    "description": "現在のターゲットを貫通して ? し、? ? の魔法ダメージを与える。? 3回目のスキル使用ごとに、一定時間後に ? を召喚し、ターゲットをわずかにノックアップさせ、1マス以内の敵に ? ? の魔法ダメージを与える（中心から離れるほど ?% 減少）。?: ? デコイに ? し、? のダメージを ? に増加させる。"
   },
   {
     "stt": 31,
@@ -407,7 +407,7 @@
     ],
     "status": "Illaoi",
     "mana": "40 / 100",
-    "description": "? ? ? for ? seconds. ? the duration, drain ? ? ? from the nearest ? enemies. ? slam down, dealing ? ? magic damage to all enemies within 2 hexes."
+    "description": "? 秒間 ? ? ? する。? 効果時間中、最も近い ? 人の敵から ? ? ? を吸収する。? 地面を叩きつけ、2マス以内のすべての敵に ? ? の魔法ダメージを与える。"
   },
   {
     "stt": 32,
@@ -420,7 +420,7 @@
     ],
     "status": "Kai'Sa",
     "mana": "0 / 50",
-    "description": "?: ? takedown, gain ? mana. ?: ? missiles in a ?-hex radius around the current target, dealing ? ? physical damage each."
+    "description": "?: ? キルに関与したとき、? マナを獲得する。?: 現在のターゲットから ? マス以内の範囲にミサイルを連射し、1発ごとに ? ? の物理ダメージを与える。"
   },
   {
     "stt": 33,
@@ -433,7 +433,7 @@
     ],
     "status": "Lulu",
     "mana": "0 / 60",
-    "description": "?: ?'s spell gains a different secondary effect each game. ?: ? down something from the sky, dealing ? ? magic damage to ? nearby enemies and do some special effect based on this game's ?."
+    "description": "?: ? のスキルの ? は、試合ごとに異なる副次効果を持つ。?: 空から何かを ? し、近くの ? 人の敵に ? ? の魔法ダメージを与え、現在の試合の ? に基づいた特別な効果を発生させる。"
   },
   {
     "stt": 34,
@@ -446,7 +446,7 @@
     ],
     "status": "Maokai",
     "mana": "30 / 100",
-    "description": "?: ?% more max ? from all sources. ?: ? an ?-shape of vines on the target, dealing ? ? magic damage to each enemy hit and ? them for ? seconds. ?. ?: ? forth a wave of dragons that stun all enemies for ? seconds. ? the rest of combat, ?'s attacks deal ? ? bonus physical damage."
+    "description": "?: あらゆるソースからの最大 ?% 体力を追加で ? する。?: ターゲットに ? 状の蔓の範囲を ? し、命中した敵に ? ? の魔法ダメージを与え、? 秒間 ? させる。?。?: すべての敵を ? 秒間スタンさせるドラゴンの波を放つ。? 試合の残りの間、? の攻撃は追加で ? ? の物理ダメージを与える。"
   },
   {
     "stt": 35,
@@ -473,7 +473,7 @@
     ],
     "status": "Ornn",
     "mana": "40 / 100",
-    "description": "?: ? combat start, forge a temporary completed item. ? 3 items are already equipped, a random completed item becomes ? for the rest of combat instead. ?: ? ? ? for ? seconds. ? breath fire in a cone, dealing ? ? magic damage. ? any ? on ? expires, ? enters ? for ? seconds."
+    "description": "?: ? 戦闘開始時、一時的な完成アイテムを鍛造する。? すでに3つの装備がある場合、ランダムな完成アイテムがその戦闘の間 ? になる。?: ? 秒間 ? ? ? する。? 扇状に炎を吹き、? ? の魔法ダメージを与える。? いずれかの ? が ? 切れたとき、? 秒間 ? 状態にする。"
   },
   {
     "stt": 37,
@@ -485,7 +485,7 @@
     ],
     "status": "Rhaast",
     "mana": "30 / 90",
-    "description": "?% ? for ? seconds, healing ? ? over the duration. ?, slash forward in a line, dealing ? ? physical damage to enemies hit and knocking them up for ? second."
+    "description": "? 秒間 ?% ? し、効果時間中に ? ? 回復する。? その後、前方へ直線状に切り裂き、命中した敵に ? ? の物理ダメージを与え、? 秒間ノックアップさせる。"
   },
   {
     "stt": 38,
@@ -498,7 +498,7 @@
     ],
     "status": "Samira",
     "mana": "0 / 60",
-    "description": "?: ? an enemy is knocked up, shoot them, dealing ? ? physical damage and entering ? for ? seconds. ?: ? a volley of bullets at the target, dealing ? ? physical damage and knocking up for ? seconds."
+    "description": "?: ? 敵がノックアップされたとき、それらを撃ち、? ? の物理ダメージと ? 秒間の ? 状態を与える。?: ターゲットに弾丸を連射し、? ? の物理ダメージを与え、? 秒間ノックアップさせる。"
   },
   {
     "stt": 39,
@@ -512,7 +512,7 @@
     ],
     "status": "Urgot",
     "mana": "0 / 50",
-    "description": "? - ?: ? an enemy enters a ? ? hex radius, fire a blast in a cone towards the closest adjacent hex that deals ? ? physical damage with ?% falloff per hex. ? adjacent hex has a ? second cooldown. ?: ? ? ? for ? seconds and dash behind the current target. ? ?'s cooldowns."
+    "description": "? - ?: ? 敵が ? ? マスの射程内に入ったとき、最も近い隣接するマスに向かって扇状にエネルギーを放ち、1マスごとに ?% 減衰する ? ? の物理ダメージを与える。? 隣接するマスには ? 秒のクールダウンがある。?: ? 秒間 ? ? ? を獲得し、現在のターゲットの背後へダッシュする。? ? のすべてのスキルをリセットする。"
   },
   {
     "stt": 40,
@@ -525,7 +525,7 @@
     ],
     "status": "Viktor",
     "mana": "20 / 80",
-    "description": "? a one-hex psionic storm that follows enemies for ? seconds. ? second, it grows larger and deals ? ? magic damage to enemies within, reduced by ?% per hex from the epicenter."
+    "description": "? 敵を追尾する1マスの幅のサイキックストームを ? 秒間発生させる。? 毎秒ストームは大きくなり、中の敵に ? ? の魔法ダメージを与える（中心から離れるほど ?% 減少）。"
   },
   {
     "stt": 41,
@@ -538,7 +538,7 @@
     ],
     "status": "Aurelion Sol",
     "mana": "15 / 75",
-    "description": "? a deathbeam in a line towards the current target for ? seconds. ? deals ? ? magic damage per second, reduced by ?% per enemy it passes through. ? ignores ?% of the enemy's ?."
+    "description": "現在のターゲットに向かって直線状に ? 秒間死の光線を放つ。? 毎秒 ? ? の魔法ダメージを与え、敵を貫通するたびに ?% 減少する。? 敵の ?% ? を無視する。"
   },
   {
     "stt": 42,
@@ -551,7 +551,7 @@
     ],
     "status": "Corki",
     "mana": "0 / 60",
-    "description": "? to a nearby position, unleashing ? missiles split between the target and all enemies within two hexes. ? deal ? ? physical damage with a ?% chance of firing a mega missile that deals ? ? instead. ?: ? seconds, launch an ? at the target, dealing ? ? physical damage in a one hex radius on impact. ?: ? twice and take the better outcome."
+    "description": "近くの地点へ ? し、ターゲットおよび2マス以内のすべての敵に均等に分配される ? 発のミサイルを発射する。? ? ? の物理ダメージを与え、?% の確率で代わりに ? ? のダメージを与える巨大ミサイルを発射する。?: ? 秒、ターゲットに ? を発射し、命中時に1マスの範囲に ? ? の物理ダメージを与える。?: ? 2回実行し、より良い結果を選択する。"
   },
   {
     "stt": 43,
@@ -564,7 +564,7 @@
     ],
     "status": "Karma",
     "mana": "10 / 50",
-    "description": "? the force of a black hole, dealing ? ? magic damage split between the target and the ? closest enemies to them. ? target takes an additional ? ? magic damage."
+    "description": "ブラックホールの力を ? し、ターゲットとその周囲の最も近い ? 人の敵に均等に分配される ? ? の魔法ダメージを与える。? メインターゲットは追加で ? ? の魔法ダメージを受ける。"
   },
   {
     "stt": 44,
@@ -577,7 +577,7 @@
     ],
     "status": "Kindred",
     "mana": "0 / 40",
-    "description": "?: ? and ? mark the target. ? an enemy reaches ? marks, ? consumes the marks, dealing ? ? physical damage. ?: ? up to ? hex away and fire arrows at the nearest ? targets, each dealing ? ? physical damage. ?. ?: ?% ?. ? and every ? seconds after, add a mark to all enemies."
+    "description": "?: ? と ? がターゲットをマークする。? 敵が ? 個のマークに達したとき、? はマークを消費し、? ? の物理ダメージを与える。?: 最大 ? マスまで ? し、最も近い ? 人のターゲットに矢を放ち、それぞれに ? ? の物理ダメージを与える。?。?: ?% ? 。? およびその後 ? 秒ごとに、すべての敵にマークを追加する。"
   },
   {
     "stt": 45,
@@ -590,7 +590,7 @@
     ],
     "status": "LeBlanc",
     "mana": "0 / 40",
-    "description": "?: ? deal ? ? magic damage instead. ?: ? clones that attack alongside ? for ? attacks, dealing ?% damage. ? their final attack, clones fire a bolt that deals ? ? magic damage."
+    "description": "?: ? 代わりに ? ? の魔法ダメージを与える。?: ? 分身を召喚し、? 回の攻撃の間 ? と共に攻撃させ、?% のダメージを与える。? それらの最後の攻撃で、分身はエネルギーを放ち、? ? の魔法ダメージを与える。"
   },
   {
     "stt": 46,
@@ -603,7 +603,7 @@
     ],
     "status": "Master Yi",
     "mana": "30 / 70",
-    "description": "?: ? third attack strikes an additional time for ? ? bonus physical damage. ?: ? brief meditation, enter a ?-? for ? seconds, gaining ?% ?, ?% ?, and increased movement speed. ? a second, fire a psychic projection at a random nearby enemy that deals ? ? physical damage."
+    "description": "?: ? 3回目の攻撃ごとに追加で攻撃し、さらに ? ? の物理ダメージを与える。?: 短い瞑想を行い、? 秒間 ?-? 状態に入り、?% ? 、?% ? を獲得し、移動速度が増加する。? 毎秒、近くのランダムな敵にサイキックエネルギーを放ち、 ? ? の物理ダメージを与える。"
   },
   {
     "stt": 47,
@@ -616,7 +616,7 @@
     ],
     "status": "Nami",
     "mana": "30 / 85",
-    "description": "? a disco bubble at the target that deals ? ? split between enemies in a one hex radius. ? explosion sends ? globs towards nearby enemies that deal ? ? magic damage. ? cast, ? enters ? for ? seconds."
+    "description": "まだ持っていない最も近いターゲットにディスコバブルを ? し、1マスの範囲の敵に均等に分配される ? ? のダメージを与える。? 爆発により近くの敵に向かって ? 個のオーブが放たれ、それぞれ ? ? の魔法ダメージを与える。? スキル使用後、? 秒間 ? 状態になる。"
   },
   {
     "stt": 48,
@@ -629,7 +629,7 @@
     ],
     "status": "Nunu",
     "mana": "45 / 155",
-    "description": "? ? ? for ? seconds. ? an astrolabe to crash down on the most enemies within 2 hexes, dealing ? ? magic damage. ?, ? pushes the astrolabe towards the end of the board, dealing ? ? magic damage. ? enemies hit by the astrolabe are knocked up for ? seconds."
+    "description": "? 秒間 ? ? ? する。2マス以内の最も敵が密集している場所へ天球を ? させ、? ? の魔法ダメージを与える。? その後、? は天球をフィールドの端まで押し出し、? ? の魔法ダメージを与える。? 天球に当たった敵は ? 秒間ノックアップされる。"
   },
   {
     "stt": 49,
@@ -642,7 +642,7 @@
     ],
     "status": "Rammus",
     "mana": "30 / 100",
-    "description": "? ? shield for ? seconds. ?, strike the most enemies in a three hex line, dealing ? ? magic damage. ?: ? the damage of incoming attacks by ?. ? being attacked ? times, deal ? ? magic damage in a two hex radius."
+    "description": "? 秒間 ? ? シールドを獲得する。? 直線3マスの範囲で最も多くの敵を攻撃し、? ? の魔法ダメージを与える。?: 通常攻撃から受けるダメージを ? 軽減する。? ? 回攻撃を受けた後、2マスの範囲に ? ? の魔法ダメージを与える。"
   },
   {
     "stt": 50,
@@ -655,7 +655,7 @@
     ],
     "status": "Riven",
     "mana": "0 / 20",
-    "description": "?: ? adapts to ?'s ? or ?, whichever is higher. ? deal ? (?/?) damage. ?: ? to a nearby hex, gaining ? for ? seconds and slashing adjacent enemies for ? (?/?) damage. ? third cast, leap into the air and launch a wave of energy that deals ? (?/?) damage."
+    "description": "?: ? の ? または ? の高い方に適応する。? ? (?/?) のダメージを与える。?: 近くのマスへ ? し、? 秒間 ? を獲得し、周囲の敵を切り裂いて ? (?/?) のダメージを与える。? 3回目のスキル使用時、空中へ跳び上がり、? (?/?) のダメージを与えるエネルギー波を放つ。"
   },
   {
     "stt": 51,
@@ -668,7 +668,7 @@
     ],
     "status": "Tahm Kench",
     "mana": "50 / 120",
-    "description": "?: ? per combat after dropping below ?% ?, gain ? for ? seconds equal to ?% of healing received this combat. ?: ? ?, then tongue lash all enemies within two hexes dealing ? ? magic damage."
+    "description": "?: 体力が ?% ? を下回った後、この戦闘で受けた回復量の ?% に等しい ? を ? 秒間獲得する。?: ? ? し、その後2マス以内のすべての敵を舌で叩き、? ? の魔法ダメージを与える。"
   },
   {
     "stt": 52,
@@ -681,7 +681,7 @@
     ],
     "status": "The Mighty Mech",
     "mana": "40 / 100",
-    "description": "? a defensive stance for ? seconds gaining ?% ?. ? in the defensive stance, attract nearby enemy projectiles and heal ? ? over the duration. ? this ends, release a shockwave that deals ? ? as physical damage in a ?-hex range."
+    "description": "? 秒間防御態勢に入り、?% ? を獲得する。? 防御態勢の間、近くの敵の攻撃を引き付け、効果時間中に ? ? 回復する。? 終了時、電気ショックを放ち、?-マス以内の範囲に ? ? の物理ダメージを与える。"
   },
   {
     "stt": 53,
@@ -694,7 +694,7 @@
     ],
     "status": "Xayah",
     "mana": "0 / 50",
-    "description": "?: ? bounce to strike ? times, dealing ?% reduced damage per target hit and leaving a ? behind the final target. ?: ?% ? for ? seconds. ? the end, recall all ? split between the closest ? enemies, dealing ? ? physical damage each."
+    "description": "?: ? は ? 回跳ね返り、ターゲットごとにダメージが ?% 減少し、最後のターゲットの背後に ? を残す。?: ? 秒間 ?% ? を獲得する。? 終了時、すべての ? を回収し、最も近い ? 人の敵に均等に分配し、1つにつき ? ? の物理ダメージを与える。"
   },
   {
     "stt": 54,
@@ -707,7 +707,7 @@
     ],
     "status": "Bard",
     "mana": "0 / 70",
-    "description": "? a flying saucer over the current target that lasts ? seconds. ? second it deals ? ? magic damage to the target, plus ? ? magic damage split between all enemies within ? hex. ? saucer deals ?% increased damage to ?. ? an enemy under the ? dies, ? has a ?% chance to abduct them and create a 1-star copy on your bench. ? bonus: ? combat start, grant the nearest ? an additional ?. ? abducted: ?"
+    "description": "現在のターゲットの上に ? 秒間続くUFOを ? する。? 毎秒、ターゲットに ? ? 、さらに ? マスの範囲のすべての敵に均等に分配される ? ? の魔法ダメージを与える。? UFOは ? に対して ?% の増加ダメージを与える。? もし ? 以下の敵が死亡した場合、? ?% の確率でそれらを誘拐し、ベンチに1星のコピーを作成する。? ボーナス: ? 戦闘開始時、最も近い ? に追加の ? を付与する。? 誘拐済み: ?"
   },
   {
     "stt": 55,
@@ -721,7 +721,7 @@
     ],
     "status": "Blitzcrank",
     "mana": "10 / 90",
-    "description": "?: ? seconds, call down a bolt on the highest ? nearby enemy that deals ? ? magic damage. ?: ? a disco ball at the largest clump of enemies, then uppercut the current target dealing ? ? magic damage and knocking up. ? crash down into the disco ball dealing ? ? magic damage in a three hex radius. ? ? for ? second per enemy hit."
+    "description": "?: ? 秒、最も近い ? 敵に落雷を浴びせ、? ? の魔法ダメージを与える。?: 最も密集している敵のグループにディスコボールを ? し、現在のターゲットにアッパーカットを浴びせて ? ? の魔法ダメージを与え、ノックアップさせる。? ディスコボールが落下し、3マスの範囲に ? ? の魔法ダメージを与える。命中した敵1体につき ? 秒間 ? する。"
   },
   {
     "stt": 56,
@@ -735,7 +735,7 @@
     ],
     "status": "Fiora",
     "mana": "10 / 80",
-    "description": "?: ? attacks, reveal a ? on the target. ? a ? exists, dash to attack it dealing ? ? bonus true damage and heal for ?% of the damage dealt. ?: ? ? on the target and quickly attack them all. ? the target dies, remaining ? transfer to the nearest enemy. ? striking the final ?, create a two hex aura that heals allies within for ? ? over ? seconds."
+    "description": "?: ? 攻撃ごとに、ターゲットに ? を露呈させる。? ? が存在するとき、それを攻撃するためにダッシュし、追加で ? ? の確定ダメージを与え、与えたダメージの ?% 回復する。?: ターゲットに ? を付与し、それらすべてを素早く攻撃する。? ターゲットが死亡した場合、残りの ? は最も近い敵に移る。? 最後の ? を攻撃したとき、2マスのオーラを生成し、中の味方を ? 秒間、? ? 回復させる。"
   },
   {
     "stt": 57,
@@ -747,7 +747,7 @@
     ],
     "status": "Graves",
     "mana": "0 / 60",
-    "description": "?: ? fire ? projectiles in a cone that deal ? physical damage each. ?: ? an explosive shell that deals ? ? physical damage to the target, and ? ? physical damage to all enemies in a one hex radius."
+    "description": "?: ? 扇状の範囲に ? 発の弾丸を発射し、1発につき ? 物理ダメージを与える。?: ターゲットに爆発弾を放ち、? ? の物理ダメージを与え、1マスの範囲のすべての敵に ? ? の物理ダメージを与える。"
   },
   {
     "stt": 58,
@@ -761,7 +761,7 @@
     ],
     "status": "Jhin",
     "mana": "0 / 44",
-    "description": "?: ? has a fixed attack speed of ? and converts every ?% of bonus ? into ? bonus ?. ?: ? spectral hands that fire alongside ? for the next ? attacks. ? hand deals ? ? physical damage per shot and removes ?. ? final shots deal ?% more damage and pierce through the most enemies in a line, dealing ?% reduced damage per target hit."
+    "description": "?: ? は ? の固定攻撃速度を持ち、?% の追加 ? を ? ? に変換する。?: 次の ? 回の攻撃の間、幽霊のような手が ? と共に射撃する。? 手は1発につき ? ? の物理ダメージを与え、? を取り除く。? 最後の射撃は ?% の追加ダメージを与え、直線上の最も多くの敵を貫通し、命中するたびにダメージが ?% 減少する。"
   },
   {
     "stt": 59,
@@ -773,7 +773,7 @@
     ],
     "status": "Morgana",
     "mana": "20 / 60",
-    "description": "? into ? for ? seconds, gaining ? ? ? for the duration. ? in ?, tether the ? nearest enemies, dealing ? ? magic damage per second to each one and healing for ?% of damage dealt. ? the end of the transformation, deal ? ? to all tethered enemies."
+    "description": "? 秒間 ? に ? し、効果時間中に ? ? ? を獲得する。? ? 状態の間、最も近い ? 人の敵を束縛し、それぞれに毎秒 ? ? の魔法ダメージを与え、与えたダメージの ?% 回復する。? 変身の終了時、束縛されたすべての敵に ? ? を与える。"
   },
   {
     "stt": 60,
@@ -786,7 +786,7 @@
     ],
     "status": "Shen",
     "mana": "10 / 70",
-    "description": "?: ? cast, attacks gain ? ? stacking bonus magic damage. ? from the third cast, gain true damage instead. ?: ? ? ? for ? seconds, then slice open a rift on the largest group of champions dealing the ?'s bonus damage to all enemies within. ? have their ? slowed by ?% while allies within gain ?% ?, both rapidly decaying over ? seconds."
+    "description": "?: ? スキルを使用するたびに、攻撃に追加の ? ? 魔法ダメージがスタックする。? 3回目のスキル使用からは、代わりに確定ダメージを得る。?: ? 秒間 ? ? ? し、最も密集している敵のグループに裂け目を切り開き、? のボーナスダメージを中のすべての敵に与える。? は ? が ?% 低下し、中の味方は ?% ? を獲得するが、どちらも ? 秒かけて急速に減衰する。"
   },
   {
     "stt": 61,
@@ -800,7 +800,7 @@
     ],
     "status": "Sona",
     "mana": "0 / 25",
-    "description": "? a chunk of magnetic debris at the nearest target without one, dealing ? ? magic damage and sticking it to them. ? an enemy with debris dies, it passes to the nearest enemy without one. ? casts, instead rip off all debris dealing ? ? magic damage, then crush all the debris onto the target, dealing ? ? magic damage and briefly stunning them."
+    "description": "まだ持っていない最も近いターゲットに磁気破片を ? し、? ? の魔法ダメージを与えて付着させる。? 破片を持った敵が死亡した場合、まだ持っていない最も近い敵に移動する。? スキル使用時、代わりにすべての破片を引き剥がして ? ? の魔法ダメージを与え、その後すべての破片をターゲットに叩きつけて ? ? の魔法ダメージを与え、短時間スタンさせる。"
   },
   {
     "stt": 62,
@@ -812,7 +812,7 @@
     ],
     "status": "Vex",
     "mana": "0 / 60",
-    "description": "?: ? time ? attacks, ? strikes a nearby enemy, dealing ? ? magic damage. ? an enemy is struck ? times by ?, ? strikes them again. ?: ? launches ? empowered strikes, dealing ? ? magic damage instead."
+    "description": "?: ? が ? 回攻撃するたびに、? が近くの敵を攻撃し、? ? の魔法ダメージを与える。? もし敵が ? によって ? 回攻撃された場合、? はそれらを再度攻撃する。?: ? は ? 回の強化攻撃を放ち、代わりに ? ? の魔法ダメージを与える。"
   },
   {
     "stt": 63,
@@ -824,6 +824,6 @@
     ],
     "status": "Zed",
     "mana": "30 / 80",
-    "description": "? a clone behind the target with ?% reduced max ? and ? increased ? cost. ? clone inherits its creator's items, stats, and current ?, and can cast ?."
+    "description": "ターゲットの背後に、?% 減少した最大 ? と増加した ? の ? を持つ分身を ? する。? 分身は作成者の現在の装備、ステータス、? を引き継ぎ、スキルを ? ことができる。"
   }
 ]

@@ -4,7 +4,7 @@
     "name": "Psionic",
     "icon": "trait-psionic.svg",
     "count": "5 items",
-    "description": "Psionic",
+    "description": "Tâm Linh",
     "items": [
       {
         "stt": "1-1",
@@ -12,8 +12,8 @@
         "name": "Drone Uplink",
         "image": "psionic-drone-uplink.jpg",
         "texts": [
-          "A drone repeats 25% of damage from the holder's attacks and Abilities to the same targets every 3 seconds.",
-          "At (4): If the holder is Psionic, gain an additional mini-drone that repeats 20% of damage.",
+          "Một máy bay không người lái lặp lại 25% sát thương từ các đòn đánh và Kỹ năng của người sở hữu lên cùng một mục tiêu mỗi 3 giây.",
+          "Tại (4): Nếu người sở hữu là Tâm Linh, nhận thêm một máy bay mini lặp lại 20% sát thương.",
           "Set.17.items.recommended Sona, Viktor"
         ]
       },
@@ -23,8 +23,8 @@
         "name": "Malware Matrix",
         "image": "psionic-malware-matrix.jpg",
         "texts": [
-          "Dealing physical damage to an enemy reduces the target's Armor by 2.",
-          "At (4): If the holder is Psionic, every 3rd attack cleaves, dealing 75 physical damage to nearby enemies.",
+          "Gây sát thương vật lý lên kẻ địch sẽ giảm Giáp của mục tiêu đi 2.",
+          "Tại (4): Nếu người sở hữu là Tâm Linh, mỗi đòn tấn công thứ 3 sẽ đánh lan, gây 75 sát thương vật lý lên kẻ địch xung quanh.",
           "Set.17.items.recommended Master Yi, Pyke"
         ]
       },
@@ -34,8 +34,8 @@
         "name": "Biomatter Preserver",
         "image": "psionic-biomatter-preserver.jpg",
         "texts": [
-          "Gain 5% max Health and deploy 3 Life Orbs. Every 5 seconds of combat, one drops restoring 18% of the holder's missing Health.",
-          "At (4): If the holder is Psionic, they gain 22% increased healing from all sources.",
+          "Nhận 5% Máu tối đa và triển khai 3 Quả Cầu Sinh Mệnh. Mỗi 5 giây giao tranh, một quả cầu sẽ rơi ra hồi 18% Máu đã mất của người sở hữu.",
+          "Tại (4): Nếu người sở hữu là Tâm Linh, họ nhận thêm 22% hiệu quả hồi máu từ mọi nguồn.",
           "Set.17.items.recommended Gragas"
         ]
       },
@@ -45,8 +45,8 @@
         "name": "Sympathetic Implant",
         "image": "psionic-sympathetic-implant.jpg",
         "texts": [
-          "Every 5 seconds, gain 1 additional Mana Per Second.",
-          "At (4): If the holder is Psionic, their abilities deal 20% of their ability damage as true damage instead.",
+          "Mỗi 5 giây, nhận thêm 1 Năng lượng mỗi giây.",
+          "Tại (4): Nếu người sở hữu là Tâm Linh, kỹ năng của họ sẽ gây 20% sát thương kỹ năng thành sát thương chuẩn.",
           "Set.17.items.recommended Sona, Viktor"
         ]
       },
@@ -56,8 +56,8 @@
         "name": "Target-Lock Optics",
         "image": "psionic-target-lock-optics.jpg",
         "texts": [
-          "The holder's first attack on each enemy deals 150 additional damage.",
-          "At (4): If the holder is Psionic, they heal 12% of their max Health whenever their target dies.",
+          "Đòn đánh đầu tiên của người sở hữu lên mỗi kẻ địch gây thêm 150 sát thương.",
+          "Tại (4): Nếu người sở hữu là Tâm Linh, họ hồi 12% Máu tối đa bất cứ khi nào mục tiêu của họ chết.",
           "Set.17.items.recommended Pyke, Master Yi"
         ]
       }
@@ -68,7 +68,7 @@
     "name": "Commander",
     "icon": "trait-commander.svg",
     "count": "8 items",
-    "description": "Commander",
+    "description": "Chỉ Huy",
     "items": [
       {
         "stt": "2-1",
@@ -76,7 +76,7 @@
         "name": "Command Mod: Exhaust",
         "image": "command-mod-exhaust.jpg",
         "texts": [
-          "Command a unit's attacks to Burn, Wound, and Chill."
+          "Chỉ thị đòn đánh của một đơn vị gây Thiêu đốt, Vết thương sâu và Tê tái."
         ]
       },
       {
@@ -85,7 +85,7 @@
         "name": "Command Mod: Doublestrike",
         "image": "command-mod-doublestrike.jpg",
         "texts": [
-          "Command a unit to have a 25% chance to attack twice when attacking."
+          "Chỉ thị một đơn vị có 25% tỷ lệ tấn công hai lần khi tấn công."
         ]
       },
       {
@@ -94,7 +94,7 @@
         "name": "Command Mod: Analyze",
         "image": "command-mod-analyze.jpg",
         "texts": [
-          "Command a unit to grant you 1 XP every 3 seconds it is alive during player combat."
+          "Chỉ thị một đơn vị ban cho bạn 1 XP mỗi 3 giây nó còn sống trong giao tranh với người chơi."
         ]
       },
       {
@@ -103,7 +103,7 @@
         "name": "Command Mod: Brace",
         "image": "command-mod-brace.jpg",
         "texts": [
-          "Command a unit to gain a 20% Health shield for 8 seconds at the start of combat."
+          "Chỉ thị một đơn vị nhận lá chắn bằng 20% Máu trong 8 giây khi bắt đầu giao tranh."
         ]
       },
       {
@@ -112,7 +112,7 @@
         "name": "Command Mod: Transmute",
         "image": "command-mod-transmute.jpg",
         "texts": [
-          "Command a unit to drop 2 gold each time it kills an enemy during player combat."
+          "Chỉ thị một đơn vị rơi ra 2 vàng mỗi khi hạ gục một kẻ địch trong giao tranh với người chơi."
         ]
       },
       {
@@ -121,7 +121,7 @@
         "name": "Command Mod: Disrupt",
         "image": "command-mod-disrupt.jpg",
         "texts": [
-          "Command a unit to Stun enemies within 3 hexes for 1 second when it dies."
+          "Chỉ thị một đơn vị làm choáng kẻ địch trong phạm vi 3 ô trong 1 giây khi đơn vị đó hy sinh."
         ]
       },
       {
@@ -130,7 +130,7 @@
         "name": "Command Mod: Optimize",
         "image": "command-mod-optimize.jpg",
         "texts": [
-          "Command a unit to reduce their mana cost by 15%."
+          "Chỉ thị một đơn vị giảm 15% năng lượng tiêu hao của họ."
         ]
       },
       {
@@ -139,7 +139,7 @@
         "name": "Command Mod: Fabricate",
         "image": "command-mod-fabricate.jpg",
         "texts": [
-          "Command a unit to gain a temporary recommended item at the start of combat."
+          "Chỉ thị một đơn vị nhận một trang bị đề xuất tạm thời khi bắt đầu giao tranh."
         ]
       }
     ]
@@ -149,7 +149,7 @@
     "name": "Emblem",
     "icon": "trait-emblem.svg",
     "count": "19 items",
-    "description": "Items that grant a unit an additional trait. Crafted using a Spatula and a component.",
+    "description": "Vật phẩm ban cho một đơn vị thêm một tộc hệ. Được chế tạo bằng Xẻng Vàng và một mảnh trang bị thành phần.",
     "items": [
       {
         "stt": "3-1",
@@ -157,7 +157,7 @@
         "name": "Dark Star Emblem",
         "image": "emblem-dark-star.png",
         "texts": [
-          "The holder gains the Dark Star trait."
+          "Người sở hữu nhận tộc hệ Hắc Tinh."
         ]
       },
       {
@@ -166,7 +166,7 @@
         "name": "Timebreaker Emblem",
         "image": "emblem-timebreaker.png",
         "texts": [
-          "The holder gains the Timebreaker trait."
+          "Người sở hữu nhận tộc hệ Phá Thời Gian."
         ]
       },
       {
@@ -175,7 +175,7 @@
         "name": "Stargazer Emblem",
         "image": "emblem-stargazer.png",
         "texts": [
-          "The holder gains the Stargazer trait."
+          "Người sở hữu nhận tộc hệ Chiêm Tinh Gia."
         ]
       },
       {
@@ -184,7 +184,7 @@
         "name": "Space Groove Emblem",
         "image": "emblem-space-groove.png",
         "texts": [
-          "The holder gains the Space Groove trait."
+          "Người sở hữu nhận tộc hệ Nhịp Điệu Không Gian."
         ]
       },
       {
@@ -193,7 +193,7 @@
         "name": "Meeple Emblem",
         "image": "emblem-meeple.png",
         "texts": [
-          "The holder gains the Meeple trait."
+          "Người sở hữu nhận tộc hệ Meeple."
         ]
       },
       {
@@ -202,7 +202,7 @@
         "name": "Arbiter Emblem",
         "image": "emblem-arbiter.png",
         "texts": [
-          "The holder gains the Arbiter trait."
+          "Người sở hữu nhận tộc hệ Chấp Pháp."
         ]
       },
       {
@@ -211,7 +211,7 @@
         "name": "Primordian Emblem",
         "image": "emblem-primordian.png",
         "texts": [
-          "The holder gains the Primordian trait."
+          "Người sở hữu nhận tộc hệ Nguyên Thủy."
         ]
       },
       {
@@ -220,7 +220,7 @@
         "name": "N.O.V.A. Emblem",
         "image": "emblem-nova.png",
         "texts": [
-          "The holder gains the N.O.V.A. trait."
+          "Người sở hữu nhận tộc hệ N.O.V.A."
         ]
       },
       {
@@ -229,7 +229,7 @@
         "name": "Marauder Emblem",
         "image": "emblem-marauder.png",
         "texts": [
-          "The holder gains the Marauder trait."
+          "Người sở hữu nhận tộc hệ Cướp Bóc."
         ]
       },
       {
@@ -238,7 +238,7 @@
         "name": "Challenger Emblem",
         "image": "emblem-challenger.png",
         "texts": [
-          "The holder gains the Challenger trait."
+          "Người sở hữu nhận tộc hệ Thách Đấu."
         ]
       },
       {
@@ -247,7 +247,7 @@
         "name": "Voyager Emblem",
         "image": "emblem-voyager.png",
         "texts": [
-          "The holder gains the Voyager trait."
+          "Người sở hữu nhận tộc hệ Du Hành."
         ]
       },
       {
@@ -256,7 +256,7 @@
         "name": "Shepherd Emblem",
         "image": "emblem-shepherd.png",
         "texts": [
-          "The holder gains the Shepherd trait."
+          "Người sở hữu nhận tộc hệ Người Chăn Dắt."
         ]
       },
       {
@@ -265,7 +265,7 @@
         "name": "Bastion Emblem",
         "image": "emblem-bastion.png",
         "texts": [
-          "The holder gains the Bastion trait."
+          "Người sở hữu nhận tộc hệ Can Trường."
         ]
       },
       {
@@ -274,7 +274,7 @@
         "name": "Vanguard Emblem",
         "image": "emblem-vanguard.png",
         "texts": [
-          "The holder gains the Vanguard trait."
+          "Người sở hữu nhận tộc hệ Tiên Phong."
         ]
       },
       {
@@ -283,7 +283,7 @@
         "name": "Brawler Emblem",
         "image": "emblem-brawler.png",
         "texts": [
-          "The holder gains the Brawler trait."
+          "Người sở hữu nhận tộc hệ Đấu Sĩ."
         ]
       },
       {
@@ -292,7 +292,7 @@
         "name": "Rogue Emblem",
         "image": "emblem-rogue.png",
         "texts": [
-          "The holder gains the Rogue trait."
+          "Người sở hữu nhận tộc hệ Sát Thủ."
         ]
       },
       {
@@ -301,7 +301,7 @@
         "name": "Anima Emblem",
         "image": "emblem-anima-tech.png",
         "texts": [
-          "The holder gains the Anima trait."
+          "Người sở hữu nhận tộc hệ Anima."
         ]
       },
       {
@@ -310,7 +310,7 @@
         "name": "Psionic Emblem",
         "image": "emblem-psyonic.png",
         "texts": [
-          "The holder gains the Psionic trait."
+          "Người sở hữu nhận tộc hệ Tâm Linh."
         ]
       },
       {
@@ -319,7 +319,7 @@
         "name": "Sniper Emblem",
         "image": "emblem-sniper.png",
         "texts": [
-          "The holder gains the Sniper trait."
+          "Người sở hữu nhận tộc hệ Xạ Thủ."
         ]
       }
     ]

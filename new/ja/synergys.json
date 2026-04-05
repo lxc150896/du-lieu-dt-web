@@ -4,52 +4,30 @@
     "name": "Dark Star",
     "icon": "DarkStar.png",
     "champions": [
-      {
-        "name": "Cho'Gath",
-        "image": "ChoGath.png"
-      },
-      {
-        "name": "Lissandra",
-        "image": "Lissandra.png"
-      },
-      {
-        "name": "Mordekaiser",
-        "image": "Mordekaiser.png"
-      },
-      {
-        "name": "Kai'Sa",
-        "image": "KaiSa.png"
-      },
-      {
-        "name": "Karma",
-        "image": "Karma.png"
-      },
-      {
-        "name": "Jhin",
-        "image": "Jhin.png"
-      }
+      { "name": "Cho'Gath", "image": "ChoGath.png" },
+      { "name": "Lissandra", "image": "Lissandra.png" },
+      { "name": "Mordekaiser", "image": "Mordekaiser.png" },
+      { "name": "Kai'Sa", "image": "KaiSa.png" },
+      { "name": "Karma", "image": "Karma.png" },
+      { "name": "Jhin", "image": "Jhin.png" }
     ],
-    "description": "",
+    "description": "ダークスター",
     "effects": [
       {
-        "count": "(2)\nDark Stars create a black hole that consumes enemies at 10% max health.",
-        "text": "(4)\nAND they gain 30% AD & AP."
-      },
-      {
         "count": "(2)",
-        "text": "Dark Stars create a black hole that consumes enemies at 10% max health."
+        "text": "ダークスターのユニットは、敵の体力が10%未満になると、その敵を飲み込むブラックホールを生成します。"
       },
       {
         "count": "(4)",
-        "text": "AND they gain 30% AD & AP."
+        "text": "さらに、攻撃力と魔力が30%増加します。"
       },
       {
         "count": "(6)",
-        "text": "AND the strongest Dark Star unit goes supermassive, gaining 100% effectiveness from Dark Star, and creates 2 minor Black Holes."
+        "text": "さらに、最も強力なダークスターユニットが「超巨大化」し、ダークスターの効果が100%上昇、さらに2つの小型ブラックホールを生成します。"
       },
       {
         "count": "(9)",
-        "text": "All Dark Stars are supermassive. At level 10, CONSUME EVERYONE."
+        "text": "すべてのダークスターユニットが超巨大化します。レベル10では、すべてを飲み込みます。"
       }
     ]
   },
@@ -58,60 +36,26 @@
     "name": "Meeple",
     "icon": "Meeple.png",
     "champions": [
-      {
-        "name": "Poppy",
-        "image": "Poppy.png"
-      },
-      {
-        "name": "Veigar",
-        "image": "Veigar.png"
-      },
-      {
-        "name": "Gnar",
-        "image": "Gnar.png"
-      },
-      {
-        "name": "Meepsie",
-        "image": "Meepsie.png"
-      },
-      {
-        "name": "Fizz",
-        "image": "Fizz.png"
-      },
-      {
-        "name": "Corki",
-        "image": "Corki.png"
-      },
-      {
-        "name": "Rammus",
-        "image": "Rammus.png"
-      },
-      {
-        "name": "Bard",
-        "image": "Bard.png"
-      }
+      { "name": "Poppy", "image": "Poppy.png" },
+      { "name": "Veigar", "image": "Veigar.png" },
+      { "name": "Gnar", "image": "Gnar.png" },
+      { "name": "Meepsie", "image": "Meepsie.png" },
+      { "name": "Fizz", "image": "Fizz.png" },
+      { "name": "Corki", "image": "Corki.png" },
+      { "name": "Rammus", "image": "Rammus.png" },
+      { "name": "Bard", "image": "Bard.png" }
     ],
-    "description": "Astronauts attract Meeps that empower Astronaut abilities in meepy ways. They also gain bonus Health.",
+    "description": "アストロノートはミープを引き寄せ、奇妙な方法でスキルを強化します。また、追加の体力を獲得します。",
     "effects": [
-      {
-        "count": "(3)\n2%, 125 Health",
-        "text": "(5)\n3%, 250 Health"
-      },
-      {
-        "count": "(3)",
-        "text": "2%, 125 Health"
-      },
-      {
-        "count": "(5)",
-        "text": "3%, 250 Health"
-      },
+      { "count": "(3)", "text": "2%、体力125" },
+      { "count": "(5)", "text": "3%、体力250" },
       {
         "count": "(7)",
-        "text": "4%, 400 Health. Create a Cloning Slot on your bench. Gain gold and a 1-star copy of the champion placed there when cloning completes."
+        "text": "4%、体力400。待機所に複製スロットを作成します。複製が完了すると、そこに置かれたチャンピオンの1つ星コピーとゴールドを獲得します。"
       },
       {
         "count": "(10)",
-        "text": "6%, 1000 Health. SUMMON THE FOUR MEEPLORDS! Cloning time = Champion cost"
+        "text": "6%、体力1000。4体のミープロードを召喚！複製時間 = チャンピオンのコスト。"
       }
     ]
   },
@@ -120,40 +64,21 @@
     "name": "N.O.V.A.",
     "icon": "NOVA.png",
     "champions": [
-      {
-        "name": "Aatrox",
-        "image": "Aatrox.png"
-      },
-      {
-        "name": "Caitlyn",
-        "image": "Caitlyn.png"
-      },
-      {
-        "name": "Akali",
-        "image": "Akali.png"
-      },
-      {
-        "name": "Maokai",
-        "image": "Maokai.png"
-      },
-      {
-        "name": "Kindred",
-        "image": "Kindred.png"
-      }
+      { "name": "Aatrox", "image": "Aatrox.png" },
+      { "name": "Caitlyn", "image": "Caitlyn.png" },
+      { "name": "Akali", "image": "Akali.png" },
+      { "name": "Maokai", "image": "Maokai.png" },
+      { "name": "Kindred", "image": "Kindred.png" }
     ],
-    "description": "",
+    "description": "N.O.V.A.",
     "effects": [
       {
-        "count": "(2)\n6 seconds into combat, N.O.V.A. grant a power surge to allies based on champions.",
-        "text": "(5)\nGain a Striker selector. The chosen N.O.V.A. activates their Strike during the power surge. Aatrox: Ally Damage 30% Shred and Sunders enemies / Caitlyn: Grant allies 20% Attack Speed / Akali: Allies gain Precision / Maokai: Allies heal 15% max Health / Kindred: Shield the strongest Tank for 800 / Emblem: Allies deal 10% stacking bonus true damage"
-      },
-      {
         "count": "(2)",
-        "text": "6 seconds into combat, N.O.V.A. grant a power surge to allies based on champions."
+        "text": "戦闘開始から6秒後、N.O.V.A.はチャンピオンに基づいたパワーを味方に与えます。"
       },
       {
         "count": "(5)",
-        "text": "Gain a Striker selector. The chosen N.O.V.A. activates their Strike during the power surge. Aatrox: Ally Damage 30% Shred and Sunders enemies / Caitlyn: Grant allies 20% Attack Speed / Akali: Allies gain Precision / Maokai: Allies heal 15% max Health / Kindred: Shield the strongest Tank for 800 / Emblem: Allies deal 10% stacking bonus true damage"
+        "text": "ストライクセレクターを獲得します。選択されたN.O.V.A.チャンピオンはパワーの中で「ストライク」を発動します。エイトロックス: 味方の攻撃が敵の防具を30%減少 / ケイトリン: 味方の攻撃速度+20% / アカリ: 味方が「デッドアイ」を獲得 / マオカイ: 味方が最大体力の15%を回復 / キンドレッド: 最も強力なタンクに800のシールドを付与 / 紋章: 味方の確定ダメージが10%増加（スタック可能）。"
       }
     ]
   },
@@ -162,32 +87,19 @@
     "name": "Primordian",
     "icon": "Primordian.png",
     "champions": [
-      {
-        "name": "Briar",
-        "image": "Briar.png"
-      },
-      {
-        "name": "Rek'Sai",
-        "image": "RekSai.png"
-      },
-      {
-        "name": "Bel'Veth",
-        "image": "BelVeth.png"
-      }
+      { "name": "Briar", "image": "Briar.png" },
+      { "name": "Rek'Sai", "image": "RekSai.png" },
+      { "name": "Bel'Veth", "image": "BelVeth.png" }
     ],
-    "description": "",
+    "description": "プリモーディアン",
     "effects": [
       {
-        "count": "(2)\nDealing damage spawns Swarmlings based on Primordian star level.",
-        "text": "(3)\nSpawn even more Swarmlings! Each round, gain a random 1 or 2-cost champion. 8% of damage taken contributes to damage dealt."
-      },
-      {
         "count": "(2)",
-        "text": "Dealing damage spawns Swarmlings based on Primordian star level."
+        "text": "ダメージを与えると、プリモーディアンユニットの星レベルに応じたヴォイドリングを召喚します。"
       },
       {
         "count": "(3)",
-        "text": "Spawn even more Swarmlings! Each round, gain a random 1 or 2-cost champion. 8% of damage taken contributes to damage dealt."
+        "text": "さらに多くのヴォイドリングを召喚！毎ラウンド、ランダムな1または2コストのユニットを獲得。受けるダメージの8%を、与えるダメージに変換します。"
       }
     ]
   },
@@ -196,40 +108,18 @@
     "name": "Psionic",
     "icon": "Psionic.png",
     "champions": [
-      {
-        "name": "Gragas",
-        "image": "Gragas.png"
-      },
-      {
-        "name": "Pyke",
-        "image": "Pyke.png"
-      },
-      {
-        "name": "Viktor",
-        "image": "Viktor.png"
-      },
-      {
-        "name": "Master Yi",
-        "image": "MasterYi.png"
-      },
-      {
-        "name": "Sona",
-        "image": "Sona.png"
-      }
+      { "name": "Gragas", "image": "Gragas.png" },
+      { "name": "Pyke", "image": "Pyke.png" },
+      { "name": "Viktor", "image": "Viktor.png" },
+      { "name": "Master Yi", "image": "MasterYi.png" },
+      { "name": "Sona", "image": "Sona.png" }
     ],
-    "description": "Gain Psionic items that can be equipped to any ally.",
+    "description": "任意の味方に装備可能な「サイオニック・アイテム」を獲得します。",
     "effects": [
-      {
-        "count": "(2)\nGain the Psionic item 1",
-        "text": "(4)\nGain the Psionic item 2, Psionic items gain extra effects on Psionic units"
-      },
-      {
-        "count": "(2)",
-        "text": "Gain the Psionic item 1"
-      },
+      { "count": "(2)", "text": "サイオニック・アイテムを1つ獲得。" },
       {
         "count": "(4)",
-        "text": "Gain the Psionic item 2, Psionic items gain extra effects on Psionic units"
+        "text": "サイオニック・アイテムを2つ獲得。サイオニック・アイテムは、サイオニックユニットが装備した際に追加効果を発動します。"
       }
     ]
   },
@@ -238,61 +128,30 @@
     "name": "Space Groove",
     "icon": "SpaceGroove.png",
     "champions": [
-      {
-        "name": "Nasus",
-        "image": "Nasus.png"
-      },
-      {
-        "name": "Teemo",
-        "image": "Teemo.png"
-      },
-      {
-        "name": "Gwen",
-        "image": "Gwen.png"
-      },
-      {
-        "name": "Ornn",
-        "image": "Ornn.png"
-      },
-      {
-        "name": "Samira",
-        "image": "Samira.png"
-      },
-      {
-        "name": "Nami",
-        "image": "Nami.png"
-      },
-      {
-        "name": "Blitzcrank",
-        "image": "Blitzcrank.png"
-      }
+      { "name": "Nasus", "image": "Nasus.png" },
+      { "name": "Teemo", "image": "Teemo.png" },
+      { "name": "Gwen", "image": "Gwen.png" },
+      { "name": "Ornn", "image": "Ornn.png" },
+      { "name": "Samira", "image": "Samira.png" },
+      { "name": "Nami", "image": "Nami.png" },
+      { "name": "Blitzcrank", "image": "Blitzcrank.png" }
     ],
-    "description": "",
+    "description": "スペースグルーヴ",
     "effects": [
       {
-        "count": "(1)\nGroovians can enter the Groove. While in it, they gain Attack Speed and max Health Regen, increased per Groovian on your team.",
-        "text": "(3)\nAll Groovians start combat in the Groove for 3 seconds."
-      },
-      {
         "count": "(1)",
-        "text": "Groovians can enter the Groove. While in it, they gain Attack Speed and max Health Regen, increased per Groovian on your team."
+        "text": "グルーヴの住人は「ザ・グルーヴ（ノリノリ状態）」に入ることができます。この状態では攻撃速度が増加し、最大体力を回復します。効果はチーム内の住人の数に応じて上昇します。"
       },
       {
         "count": "(3)",
-        "text": "All Groovians start combat in the Groove for 3 seconds."
+        "text": "すべてのグルーヴの住人は、戦闘開始時の3秒間「ザ・グルーヴ」に入ります。"
       },
       {
         "count": "(5)",
-        "text": "Each second spent in the Groove grants 3% stacking Attack Damage and Ability Power."
+        "text": "「ザ・グルーヴ」の状態1秒ごとに、攻撃力と魔力が3%増加します（スタック可能）。"
       },
-      {
-        "count": "(7)",
-        "text": "Increase these effects by 20%!"
-      },
-      {
-        "count": "(10)",
-        "text": "the Groove"
-      }
+      { "count": "(7)", "text": "これらの効果が20%強化されます！" },
+      { "count": "(10)", "text": "究極のグルーヴ" }
     ]
   },
   {
@@ -300,40 +159,21 @@
     "name": "Timebreaker",
     "icon": "Timebreaker.png",
     "champions": [
-      {
-        "name": "Ezreal",
-        "image": "Ezreal.png"
-      },
-      {
-        "name": "Milio",
-        "image": "Milio.png"
-      },
-      {
-        "name": "Pantheon",
-        "image": "Pantheon.png"
-      },
-      {
-        "name": "Riven",
-        "image": "Riven.png"
-      }
+      { "name": "Ezreal", "image": "Ezreal.png" },
+      { "name": "Milio", "image": "Milio.png" },
+      { "name": "Pantheon", "image": "Pantheon.png" },
+      { "name": "Riven", "image": "Riven.png" }
     ],
-    "description": "",
+    "description": "タイムブレイカー",
     "effects": [
       {
-        "count": "(2)\nWhen you lose, gain free rerolls. When you win, store XP in a Temporal Core (scales with stage).",
-        "text": "(3)\nAND Allies gain 15% Attack Speed."
-      },
-      {
         "count": "(2)",
-        "text": "When you lose, gain free rerolls. When you win, store XP in a Temporal Core (scales with stage)."
+        "text": "敗北時、無料のリロールを獲得します。勝利時、経験値をタイムコアに蓄積します（ステージに応じて増加）。"
       },
-      {
-        "count": "(3)",
-        "text": "AND Allies gain 15% Attack Speed."
-      },
+      { "count": "(3)", "text": "さらに、味方の攻撃速度が15%増加します。" },
       {
         "count": "(4)",
-        "text": "AND Timebreakers gain an additional 50% Attack Speed"
+        "text": "さらに、タイムブレイカーユニットの攻撃速度が50%増加します。"
       }
     ]
   },
@@ -341,39 +181,24 @@
     "section": "class-synergy",
     "name": "Commander (Sona)",
     "icon": "Commander.png",
-    "champions": [
-      {
-        "name": "Sona",
-        "image": "Sona.png"
-      }
-    ],
-    "description": "Sona gives you a random Command Mod every 2 rounds which allows you to alter the way an ally behaves during combat. Command Mods last 2 player combats even if they are not equipped.",
+    "champions": [{ "name": "Sona", "image": "Sona.png" }],
+    "description": "ソナは2ラウンドごとにランダムな「コマンダー・モッド」を提供し、味方の戦闘スタイルを変更させます。モッドは装備していなくても2ラウンドの間持続します。",
     "effects": []
   },
   {
     "section": "class-synergy",
     "name": "Galaxy Hunter (Zed)",
     "icon": "GalaxyHunter.png",
-    "champions": [
-      {
-        "name": "Zed",
-        "image": "Zed.png"
-      }
-    ],
-    "description": "Zed is obtained from the Invader Zed augment. While at least one clone is alive, Zed gains 40% bonus Attack Damage.",
+    "champions": [{ "name": "Zed", "image": "Zed.png" }],
+    "description": "オーグメント「インベーダー・ゼド」から獲得。分身が1体以上生存している間、ゼドの攻撃力が40%増加します。",
     "effects": []
   },
   {
     "section": "class-synergy",
     "name": "Oracle (Tahm Kench)",
     "icon": "OracleTahmKench.svg",
-    "champions": [
-      {
-        "name": "Tahm Kench",
-        "image": "TahmKench.png"
-      }
-    ],
-    "description": "Every 3 rounds, Tahm Kench grants a reward!",
+    "champions": [{ "name": "Tahm Kench", "image": "TahmKench.png" }],
+    "description": "3ラウンドごとに、タム・ケンチが報酬を授けます！",
     "effects": []
   },
   {
@@ -381,41 +206,16 @@
     "name": "Anima",
     "icon": "Anima.png",
     "champions": [
-      {
-        "name": "Briar",
-        "image": "Briar.png"
-      },
-      {
-        "name": "Jinx",
-        "image": "Jinx.png"
-      },
-      {
-        "name": "Aurora",
-        "image": "Aurora.png"
-      },
-      {
-        "name": "Illaoi",
-        "image": "Illaoi.png"
-      },
-      {
-        "name": "Fiora",
-        "image": "Fiora.png"
-      }
+      { "name": "Briar", "image": "Briar.png" },
+      { "name": "Jinx", "image": "Jinx.png" },
+      { "name": "Aurora", "image": "Aurora.png" },
+      { "name": "Illaoi", "image": "Illaoi.png" },
+      { "name": "Fiora", "image": "Fiora.png" }
     ],
-    "description": "After losing a player combat, gain 15 Tech, plus additional Tech equal to 5 times the length of your loss streak. Additionally, gain 2 Tech per Anima takedown. Each time Animas get 100 Tech, they prototype new Anima Weapons. You can take them, or save your Tech to get more powerful weapons next time.",
+    "description": "プレイヤー戦で敗北すると15のテックを獲得し、連敗数に応じてさらに追加されます。また、アニマユニットがキルに関与するたびに2のテックを獲得します。テックが100貯まるごとに新しいアニマ武器を製造します。すぐに入手するか、さらに強力な武器のためにテックを貯めることができます。",
     "effects": [
-      {
-        "count": "(3)\nStart Researching!",
-        "text": "(6)\nGain a loot Orb upon win"
-      },
-      {
-        "count": "(3)",
-        "text": "Start Researching!"
-      },
-      {
-        "count": "(6)",
-        "text": "Gain a loot Orb upon win"
-      }
+      { "count": "(3)", "text": "研究開始！" },
+      { "count": "(6)", "text": "勝利時に戦利品ボックスを獲得。" }
     ]
   },
   {
@@ -423,37 +223,15 @@
     "name": "Arbiter",
     "icon": "Arbiter.png",
     "champions": [
-      {
-        "name": "Leona",
-        "image": "Leona.png"
-      },
-      {
-        "name": "Zoe",
-        "image": "Zoe.png"
-      },
-      {
-        "name": "Diana",
-        "image": "Diana.png"
-      },
-      {
-        "name": "LeBlanc",
-        "image": "LeBlanc.png"
-      }
+      { "name": "Leona", "image": "Leona.png" },
+      { "name": "Zoe", "image": "Zoe.png" },
+      { "name": "Diana", "image": "Diana.png" },
+      { "name": "LeBlanc", "image": "LeBlanc.png" }
     ],
-    "description": "Scribe a unique divine law, allowing you to choose an effect to apply to Arbiters when a chosen cause occurs.",
+    "description": "アービター：独自の「神聖法」を制定し、特定の条件が満たされたときにアービターユニットに適用される効果を選択します。",
     "effects": [
-      {
-        "count": "(2)\nChoose a cause and effect for your law",
-        "text": "(3)\nEffects are stronger."
-      },
-      {
-        "count": "(2)",
-        "text": "Choose a cause and effect for your law"
-      },
-      {
-        "count": "(3)",
-        "text": "Effects are stronger."
-      }
+      { "count": "(2)", "text": "法の「原因」と「結果」を選択します。" },
+      { "count": "(3)", "text": "効果が強化されます。" }
     ]
   },
   {
@@ -461,48 +239,20 @@
     "name": "Bastion",
     "icon": "Bastion.png",
     "champions": [
-      {
-        "name": "Aatrox",
-        "image": "Aatrox.png"
-      },
-      {
-        "name": "Poppy",
-        "image": "Poppy.png"
-      },
-      {
-        "name": "Jax",
-        "image": "Jax.png"
-      },
-      {
-        "name": "Ornn",
-        "image": "Ornn.png"
-      },
-      {
-        "name": "Rammus",
-        "image": "Rammus.png"
-      },
-      {
-        "name": "Shen",
-        "image": "Shen.png"
-      }
+      { "name": "Aatrox", "image": "Aatrox.png" },
+      { "name": "Poppy", "image": "Poppy.png" },
+      { "name": "Jax", "image": "Jax.png" },
+      { "name": "Ornn", "image": "Ornn.png" },
+      { "name": "Rammus", "image": "Rammus.png" },
+      { "name": "Shen", "image": "Shen.png" }
     ],
-    "description": "Your team gains 12 Armor and Magic Resist. Bastions gain more, and the value doubles in the first 10 seconds of combat.",
+    "description": "味方チームの防御力と魔法耐性が12増加します。バスティオンユニットはさらに多くのボーナスを獲得し、戦闘開始からの10秒間はこの値が2倍になります。",
     "effects": [
-      {
-        "count": "(2)\n16 Armor & MR",
-        "text": "(4)\n35 Armor & MR"
-      },
-      {
-        "count": "(2)",
-        "text": "16 Armor & MR"
-      },
-      {
-        "count": "(4)",
-        "text": "35 Armor & MR"
-      },
+      { "count": "(2)", "text": "物理防御 & 魔法耐性 +16" },
+      { "count": "(4)", "text": "物理防御 & 魔法耐性 +35" },
       {
         "count": "(6)",
-        "text": "55 Armor & MR; Non-Bastions gain an additional 20 Armor & MR."
+        "text": "物理防御 & 魔法耐性 +55。バスティオン以外のユニットも物理防御 & 魔法耐性 +20を獲得。"
       }
     ]
   },
@@ -511,53 +261,19 @@
     "name": "Brawler",
     "icon": "Brawler.png",
     "champions": [
-      {
-        "name": "Cho'Gath",
-        "image": "ChoGath.png"
-      },
-      {
-        "name": "Rek'Sai",
-        "image": "RekSai.png"
-      },
-      {
-        "name": "Gragas",
-        "image": "Gragas.png"
-      },
-      {
-        "name": "Pantheon",
-        "image": "Pantheon.png"
-      },
-      {
-        "name": "Maokai",
-        "image": "Maokai.png"
-      },
-      {
-        "name": "Urgot",
-        "image": "Urgot.png"
-      },
-      {
-        "name": "Tahm Kench",
-        "image": "TahmKench.png"
-      }
+      { "name": "Cho'Gath", "image": "ChoGath.png" },
+      { "name": "Rek'Sai", "image": "RekSai.png" },
+      { "name": "Gragas", "image": "Gragas.png" },
+      { "name": "Pantheon", "image": "Pantheon.png" },
+      { "name": "Maokai", "image": "Maokai.png" },
+      { "name": "Urgot", "image": "Urgot.png" },
+      { "name": "Tahm Kench", "image": "TahmKench.png" }
     ],
-    "description": "Your team gains 7% Health. Brawlers gain more.",
+    "description": "味方チームの最大体力が7%増加します。ブローラーユニットはさらに多くのボーナスを獲得します。",
     "effects": [
-      {
-        "count": "(2)\n+25% maximum Health",
-        "text": "(4)\n+45% maximum Health"
-      },
-      {
-        "count": "(2)",
-        "text": "+25% maximum Health"
-      },
-      {
-        "count": "(4)",
-        "text": "+45% maximum Health"
-      },
-      {
-        "count": "(6)",
-        "text": "+65% maximum Health"
-      }
+      { "count": "(2)", "text": "最大体力 +25%" },
+      { "count": "(4)", "text": "最大体力 +45%" },
+      { "count": "(6)", "text": "最大体力 +65%" }
     ]
   },
   {
@@ -565,49 +281,18 @@
     "name": "Challenger",
     "icon": "Challenger.png",
     "champions": [
-      {
-        "name": "Bel'Veth",
-        "image": "BelVeth.png"
-      },
-      {
-        "name": "Jinx",
-        "image": "Jinx.png"
-      },
-      {
-        "name": "Diana",
-        "image": "Diana.png"
-      },
-      {
-        "name": "Miss Fortune",
-        "image": "MissFortune.png"
-      },
-      {
-        "name": "Kindred",
-        "image": "Kindred.png"
-      }
+      { "name": "Bel'Veth", "image": "BelVeth.png" },
+      { "name": "Jinx", "image": "Jinx.png" },
+      { "name": "Diana", "image": "Diana.png" },
+      { "name": "Miss Fortune", "image": "MissFortune.png" },
+      { "name": "Kindred", "image": "Kindred.png" }
     ],
-    "description": "Your team gains 10% Attack Speed. Challengers gain bonus Attack Speed. When their target dies, Challengers dash to a new target and increase their Attack Speed bonus by 50% for 2.50 seconds.",
+    "description": "味方チームの攻撃速度が10%増加します。チャレンジャーユニットはさらに多くの攻撃速度を獲得します。ターゲットが死亡すると、チャレンジャーは新しいターゲットへダッシュし、2.5秒間攻撃速度ボーナスが50%増加します。",
     "effects": [
-      {
-        "count": "(2)\n15% AS",
-        "text": "(3)\n22% AS"
-      },
-      {
-        "count": "(2)",
-        "text": "15% AS"
-      },
-      {
-        "count": "(3)",
-        "text": "22% AS"
-      },
-      {
-        "count": "(4)",
-        "text": "30% AS"
-      },
-      {
-        "count": "(5)",
-        "text": "40% AS"
-      }
+      { "count": "(2)", "text": "攻撃速度 +15%" },
+      { "count": "(3)", "text": "攻撃速度 +22%" },
+      { "count": "(4)", "text": "攻撃速度 +30%" },
+      { "count": "(5)", "text": "攻撃速度 +40%" }
     ]
   },
   {
@@ -615,53 +300,19 @@
     "name": "Channeler",
     "icon": "Channeler.png",
     "champions": [
-      {
-        "name": "Mordekaiser",
-        "image": "Mordekaiser.png"
-      },
-      {
-        "name": "Zoe",
-        "image": "Zoe.png"
-      },
-      {
-        "name": "Miss Fortune",
-        "image": "MissFortune.png"
-      },
-      {
-        "name": "Viktor",
-        "image": "Viktor.png"
-      },
-      {
-        "name": "Aurelion Sol",
-        "image": "AurelionSol.png"
-      },
-      {
-        "name": "Bard",
-        "image": "Bard.png"
-      }
+      { "name": "Mordekaiser", "image": "Mordekaiser.png" },
+      { "name": "Zoe", "image": "Zoe.png" },
+      { "name": "Miss Fortune", "image": "MissFortune.png" },
+      { "name": "Viktor", "image": "Viktor.png" },
+      { "name": "Aurelion Sol", "image": "AurelionSol.png" },
+      { "name": "Bard", "image": "Bard.png" }
     ],
-    "description": "Innate: Channelers gain 20% additional Mana from all sources. Your team gains Mana Regen, increased for Channelers.",
+    "description": "常時発動：チャネラーはあらゆる源からのマナ獲得量が20%増加します。味方チームはマナ回復を獲得し、チャネラーはさらに多くの回復量を得ます。",
     "effects": [
-      {
-        "count": "(2)\n1% Mana Regen | 3% Mana Regen",
-        "text": "(3)\n1% Mana Regen | 4% Mana Regen"
-      },
-      {
-        "count": "(2)",
-        "text": "1% Mana Regen | 3% Mana Regen"
-      },
-      {
-        "count": "(3)",
-        "text": "1% Mana Regen | 4% Mana Regen"
-      },
-      {
-        "count": "(4)",
-        "text": "2% Mana Regen | 6% Mana Regen"
-      },
-      {
-        "count": "(5)",
-        "text": "2% Mana Regen | 7% Mana Regen"
-      }
+      { "count": "(2)", "text": "マナ回復 1% | チャネラーは 3%" },
+      { "count": "(3)", "text": "マナ回復 1% | チャネラーは 4%" },
+      { "count": "(4)", "text": "マナ回復 2% | チャネラーは 6%" },
+      { "count": "(5)", "text": "マナ回復 2% | チャネラーは 7%" }
     ]
   },
   {
@@ -669,36 +320,17 @@
     "name": "Fateweaver",
     "icon": "Fateweaver.png",
     "champions": [
-      {
-        "name": "Caitlyn",
-        "image": "Caitlyn.png"
-      },
-      {
-        "name": "Twisted Fate",
-        "image": "TwistedFate.png"
-      },
-      {
-        "name": "Milio",
-        "image": "Milio.png"
-      },
-      {
-        "name": "Corki",
-        "image": "Corki.png"
-      }
+      { "name": "Caitlyn", "image": "Caitlyn.png" },
+      { "name": "Twisted Fate", "image": "TwistedFate.png" },
+      { "name": "Milio", "image": "Milio.png" },
+      { "name": "Corki", "image": "Corki.png" }
     ],
-    "description": "Innate: Fateweavers have Precision.",
+    "description": "常時発動：フェイトウィーバーユニットは「デッドアイ」を持っています。",
     "effects": [
-      {
-        "count": "(2)\nChance effects on abilities are Lucky.",
-        "text": "(4)\nGain 20% Crit Chance and 10% Crit Damage. Critical strikes are also Lucky."
-      },
-      {
-        "count": "(2)",
-        "text": "Chance effects on abilities are Lucky."
-      },
+      { "count": "(2)", "text": "スキルの確率要素がすべて「ラッキー」になります。" },
       {
         "count": "(4)",
-        "text": "Gain 20% Crit Chance and 10% Crit Damage. Critical strikes are also Lucky."
+        "text": "クリティカル率+20%、クリティカルダメージ+10%を獲得。クリティカルヒットも「ラッキー」になります。"
       }
     ]
   },
@@ -707,45 +339,17 @@
     "name": "Marauder",
     "icon": "Marauder.png",
     "champions": [
-      {
-        "name": "Akali",
-        "image": "Akali.png"
-      },
-      {
-        "name": "Bel'Veth",
-        "image": "BelVeth.png"
-      },
-      {
-        "name": "Urgot",
-        "image": "Urgot.png"
-      },
-      {
-        "name": "Master Yi",
-        "image": "MasterYi.png"
-      },
-      {
-        "name": "Fiora",
-        "image": "Fiora.png"
-      }
+      { "name": "Akali", "image": "Akali.png" },
+      { "name": "Bel'Veth", "image": "BelVeth.png" },
+      { "name": "Urgot", "image": "Urgot.png" },
+      { "name": "Master Yi", "image": "MasterYi.png" },
+      { "name": "Fiora", "image": "Fiora.png" }
     ],
-    "description": "Your team gains 5% Omnivamp. Marauders gain more Omnivamp, Attack Damage, and their Omnivamp overhealing is converted into Shield (up to 25% max Health.)",
+    "description": "味方チームが5%のオムニヴァンプを獲得します。マローダーユニットはさらにオムニヴァンプと攻撃力が増加し、過剰回復分はシールド（最大体力の25%まで）に変換されます。",
     "effects": [
-      {
-        "count": "(2)\n5% Omnivamp, 20% AD",
-        "text": "(4)\n7% Omnivamp, 30% AD"
-      },
-      {
-        "count": "(2)",
-        "text": "5% Omnivamp, 20% AD"
-      },
-      {
-        "count": "(4)",
-        "text": "7% Omnivamp, 30% AD"
-      },
-      {
-        "count": "(6)",
-        "text": "10% Omnivamp, 40% AD."
-      }
+      { "count": "(2)", "text": "オムニヴァンプ 5%、攻撃力 +20%" },
+      { "count": "(4)", "text": "オムニヴァンプ 7%、攻撃力 +30%" },
+      { "count": "(6)", "text": "オムニヴァンプ 10%、攻撃力 +40%" }
     ]
   },
   {
@@ -753,37 +357,15 @@
     "name": "Mecha",
     "icon": "Mecha.png",
     "champions": [
-      {
-        "name": "Urgot",
-        "image": "Urgot.png"
-      },
-      {
-        "name": "Aurelion Sol",
-        "image": "AurelionSol.png"
-      },
-      {
-        "name": "The Mighty Mech",
-        "image": "TheMightyMech.png"
-      }
+      { "name": "Urgot", "image": "Urgot.png" },
+      { "name": "Aurelion Sol", "image": "AurelionSol.png" },
+      { "name": "The Mighty Mech", "image": "TheMightyMech.png" }
     ],
-    "description": "Innate: Mecha units can transform into their Ultimate form, upgrading their ability and gaining 60% Health. Transformed Mechas take up two team slots and count twice for the Mecha trait.",
+    "description": "常時発動：メカユニットは「アルティメット形態」に換装でき、スキルがアップグレードされ、体力が60%増加します。換装したメカは2スロットを消費し、メカの特性カウントとしては2体分として数えられます。",
     "effects": [
-      {
-        "count": "(3)\nEnergy Cells: Mechas gain 20% AD & AP.",
-        "text": "(4)\nOverclocked Cells: Increased to 35% AD & AP."
-      },
-      {
-        "count": "(3)",
-        "text": "Energy Cells: Mechas gain 20% AD & AP."
-      },
-      {
-        "count": "(4)",
-        "text": "Overclocked Cells: Increased to 35% AD & AP."
-      },
-      {
-        "count": "(6)",
-        "text": "Precision Engineering: +1 max team size"
-      }
+      { "count": "(3)", "text": "パワーバッテリー：メカの攻撃力と魔力が20%増加。" },
+      { "count": "(4)", "text": "オーバーチャージ・バッテリー：ボーナスが35%に増加。" },
+      { "count": "(6)", "text": "精密工学：チームサイズの上限が+1されます。" }
     ]
   },
   {
@@ -791,45 +373,17 @@
     "name": "Replicator",
     "icon": "Replicator.png",
     "champions": [
-      {
-        "name": "Lissandra",
-        "image": "Lissandra.png"
-      },
-      {
-        "name": "Veigar",
-        "image": "Veigar.png"
-      },
-      {
-        "name": "Pantheon",
-        "image": "Pantheon.png"
-      },
-      {
-        "name": "Lulu",
-        "image": "Lulu.png"
-      },
-      {
-        "name": "Miss Fortune",
-        "image": "MissFortune.png"
-      },
-      {
-        "name": "Nami",
-        "image": "Nami.png"
-      }
+      { "name": "Lissandra", "image": "Lissandra.png" },
+      { "name": "Veigar", "image": "Veigar.png" },
+      { "name": "Pantheon", "image": "Pantheon.png" },
+      { "name": "Lulu", "image": "Lulu.png" },
+      { "name": "Miss Fortune", "image": "MissFortune.png" },
+      { "name": "Nami", "image": "Nami.png" }
     ],
-    "description": "Replicator abilities occur a second time at reduced effectiveness.",
+    "description": "レプリケーターのスキルは、威力を下げた状態で2回発動します。",
     "effects": [
-      {
-        "count": "(2)\n25% strength",
-        "text": "(4)\n50% strength"
-      },
-      {
-        "count": "(2)",
-        "text": "25% strength"
-      },
-      {
-        "count": "(4)",
-        "text": "50% strength"
-      }
+      { "count": "(2)", "text": "威力 25%" },
+      { "count": "(4)", "text": "威力 50%" }
     ]
   },
   {
@@ -837,53 +391,19 @@
     "name": "Rogue",
     "icon": "Rogue.png",
     "champions": [
-      {
-        "name": "Briar",
-        "image": "Briar.png"
-      },
-      {
-        "name": "Talon",
-        "image": "Talon.png"
-      },
-      {
-        "name": "Gwen",
-        "image": "Gwen.png"
-      },
-      {
-        "name": "Fizz",
-        "image": "Fizz.png"
-      },
-      {
-        "name": "Kai'Sa",
-        "image": "KaiSa.png"
-      },
-      {
-        "name": "Riven",
-        "image": "Riven.png"
-      }
+      { "name": "Briar", "image": "Briar.png" },
+      { "name": "Talon", "image": "Talon.png" },
+      { "name": "Gwen", "image": "Gwen.png" },
+      { "name": "Fizz", "image": "Fizz.png" },
+      { "name": "Kai'Sa", "image": "KaiSa.png" },
+      { "name": "Riven", "image": "Riven.png" }
     ],
-    "description": "Rogues gain Attack Damage and Ability Power. The first time they fall below 50% health, they slip into shadows. Enemies targeting them are redirected to a nearby unit, preferring Tanks.",
+    "description": "ローグユニットは攻撃力と魔力を獲得します。体力が初めて50%未満になると影に隠れ、自身を狙っていた敵のターゲットを付近の他の味方（タンク優先）へ逸らします。",
     "effects": [
-      {
-        "count": "(2)\n15% AD AP",
-        "text": "(3)\n30% AD AP"
-      },
-      {
-        "count": "(2)",
-        "text": "15% AD AP"
-      },
-      {
-        "count": "(3)",
-        "text": "30% AD AP"
-      },
-      {
-        "count": "(4)",
-        "text": "45% AD AP"
-      },
-      {
-        "count": "(5)",
-        "text": "60% AD AP"
-      }
+      { "count": "(2)", "text": "攻撃力 & 魔力 +15%" },
+      { "count": "(3)", "text": "攻撃力 & 魔力 +30%" },
+      { "count": "(4)", "text": "攻撃力 & 魔力 +45%" },
+      { "count": "(5)", "text": "攻撃力 & 魔力 +60%" }
     ]
   },
   {
@@ -891,48 +411,20 @@
     "name": "Shepherd",
     "icon": "Shepherd.png",
     "champions": [
-      {
-        "name": "Lissandra",
-        "image": "Lissandra.png"
-      },
-      {
-        "name": "Teemo",
-        "image": "Teemo.png"
-      },
-      {
-        "name": "Meepsie",
-        "image": "Meepsie.png"
-      },
-      {
-        "name": "Illaoi",
-        "image": "Illaoi.png"
-      },
-      {
-        "name": "LeBlanc",
-        "image": "LeBlanc.png"
-      },
-      {
-        "name": "Sona",
-        "image": "Sona.png"
-      }
+      { "name": "Lissandra", "image": "Lissandra.png" },
+      { "name": "Teemo", "image": "Teemo.png" },
+      { "name": "Meepsie", "image": "Meepsie.png" },
+      { "name": "Illaoi", "image": "Illaoi.png" },
+      { "name": "LeBlanc", "image": "LeBlanc.png" },
+      { "name": "Sona", "image": "Sona.png" }
     ],
-    "description": "Shepherds summon the Bond of the Stars to aid them in battle.",
+    "description": "シェパードは戦闘を支援するために「アストラル・リンク」を召喚します。",
     "effects": [
-      {
-        "count": "(3)\nSummon Bia",
-        "text": "(5)\nSummon Bayin"
-      },
-      {
-        "count": "(3)",
-        "text": "Summon Bia"
-      },
-      {
-        "count": "(5)",
-        "text": "Summon Bayin"
-      },
+      { "count": "(3)", "text": "ビアを召喚" },
+      { "count": "(5)", "text": "ベインを召喚" },
       {
         "count": "(7)",
-        "text": "Bia and Bayin's bond grows deeper. Bia and Bayin's power are increased by the total star level of Shepherd."
+        "text": "ビアとベインの絆が深まります。ビアとベインの強さは、全シェパードユニットの合計星レベルに応じて上昇します。"
       }
     ]
   },
@@ -941,49 +433,18 @@
     "name": "Sniper",
     "icon": "Sniper.png",
     "champions": [
-      {
-        "name": "Ezreal",
-        "image": "Ezreal.png"
-      },
-      {
-        "name": "Gnar",
-        "image": "Gnar.png"
-      },
-      {
-        "name": "Samira",
-        "image": "Samira.png"
-      },
-      {
-        "name": "Xayah",
-        "image": "Xayah.png"
-      },
-      {
-        "name": "Jhin",
-        "image": "Jhin.png"
-      }
+      { "name": "Ezreal", "image": "Ezreal.png" },
+      { "name": "Gnar", "image": "Gnar.png" },
+      { "name": "Samira", "image": "Samira.png" },
+      { "name": "Xayah", "image": "Xayah.png" },
+      { "name": "Jhin", "image": "Jhin.png" }
     ],
-    "description": "Snipers gain Damage Amp, increased against targets farther away.",
+    "description": "スナイパーは与えるダメージが増加し、ターゲットとの距離が遠いほど効果が高まります。",
     "effects": [
-      {
-        "count": "(2)\n18% DA; +2% DA per hex",
-        "text": "(3)\n24% DA; +3% DA per hex"
-      },
-      {
-        "count": "(2)",
-        "text": "18% DA; +2% DA per hex"
-      },
-      {
-        "count": "(3)",
-        "text": "24% DA; +3% DA per hex"
-      },
-      {
-        "count": "(4)",
-        "text": "28% DA; +4% DA per hex"
-      },
-      {
-        "count": "(5)",
-        "text": "32% DA; +5% DA per hex"
-      }
+      { "count": "(2)", "text": "ダメージ +18%（1マスごとに+2%）" },
+      { "count": "(3)", "text": "ダメージ +24%（1マスごとに+3%）" },
+      { "count": "(4)", "text": "ダメージ +28%（1マスごとに+4%）" },
+      { "count": "(5)", "text": "ダメージ +32%（1マスごとに+5%）" }
     ]
   },
   {
@@ -991,36 +452,18 @@
     "name": "Stargazer (The Altar)",
     "icon": "Stargazer.png",
     "champions": [
-      {
-        "name": "Talon",
-        "image": "Talon.png"
-      },
-      {
-        "name": "Twisted Fate",
-        "image": "TwistedFate.png"
-      },
-      {
-        "name": "Jax",
-        "image": "Jax.png"
-      },
-      {
-        "name": "Lulu",
-        "image": "Lulu.png"
-      },
-      {
-        "name": "Nunu",
-        "image": "Nunu.png"
-      },
-      {
-        "name": "Xayah",
-        "image": "Xayah.png"
-      }
+      { "name": "Talon", "image": "Talon.png" },
+      { "name": "Twisted Fate", "image": "TwistedFate.png" },
+      { "name": "Jax", "image": "Jax.png" },
+      { "name": "Lulu", "image": "Lulu.png" },
+      { "name": "Nunu", "image": "Nunu.png" },
+      { "name": "Xayah", "image": "Xayah.png" }
     ],
-    "description": "Stargazers chart a different constellation every game. This game: The Altar.",
+    "description": "スターゲイザーは試合ごとに異なる星座を描きます。今回の試合：祭壇。",
     "effects": [
       {
         "count": "(3)",
-        "text": "When ANY unit dies, they are sacrificed to the altar. Allies in empowered hexes gain 10% health and 15% attack speed. After 60 sacrifices, Stargazers in empowered hexes gain an additional 25% health and 40% attack speed. More hexes reveal at each player level"
+        "text": "ユニットが死亡するたびに、祭壇に生贄として捧げられます。強化スロットにいる味方は体力10%と攻撃速度15%を獲得します。60回の生贄後、強化スロットのスターゲイザーは追加で体力25%と攻撃速度40%を獲得します。プレイヤーレベルが上がるとスロットが増えます。"
       }
     ]
   },
@@ -1029,52 +472,21 @@
     "name": "Stargazer (The Boar)",
     "icon": "Stargazer.png",
     "champions": [
-      {
-        "name": "Talon",
-        "image": "Talon.png"
-      },
-      {
-        "name": "Twisted Fate",
-        "image": "TwistedFate.png"
-      },
-      {
-        "name": "Jax",
-        "image": "Jax.png"
-      },
-      {
-        "name": "Lulu",
-        "image": "Lulu.png"
-      },
-      {
-        "name": "Nunu",
-        "image": "Nunu.png"
-      },
-      {
-        "name": "Xayah",
-        "image": "Xayah.png"
-      }
+      { "name": "Talon", "image": "Talon.png" },
+      { "name": "Twisted Fate", "image": "TwistedFate.png" },
+      { "name": "Jax", "image": "Jax.png" },
+      { "name": "Lulu", "image": "Lulu.png" },
+      { "name": "Nunu", "image": "Nunu.png" },
+      { "name": "Xayah", "image": "Xayah.png" }
     ],
-    "description": "Stargazers chart a different constellation every game. This game: The Boar. Gain gold on win. Allies in empowered hexes gain 8% health, attack damage, and ability power. Stargazers gain more.",
+    "description": "スターゲイザーは試合ごとに異なる星座を描きます。今回の試合：猪。勝利時にゴールドを獲得。強化スロットの味方は体力、攻撃力、魔力が8%増加。スターゲイザーはさらに多くの効果を得ます。",
     "effects": [
-      {
-        "count": "(3)\n1 gold, 10% health, 18% attack damage and ability power",
-        "text": "(4)\n2 gold, 15% health, 25% attack damage and ability power"
-      },
-      {
-        "count": "(3)",
-        "text": "1 gold, 10% health, 18% attack damage and ability power"
-      },
-      {
-        "count": "(4)",
-        "text": "2 gold, 15% health, 25% attack damage and ability power"
-      },
-      {
-        "count": "(5)",
-        "text": "3 gold, 20% health, 33% attack damage and ability power"
-      },
+      { "count": "(3)", "text": "1G、体力10%、攻撃力 & 魔力 18%" },
+      { "count": "(4)", "text": "2G、体力15%、攻撃力 & 魔力 25%" },
+      { "count": "(5)", "text": "3G、体力20%、攻撃力 & 魔力 33%" },
       {
         "count": "(6)",
-        "text": "5 gold, 25% health, 40% attack damage and ability power. More hexes reveal at each player level"
+        "text": "5G、体力25%、攻撃力 & 魔力 40%。レベルに応じてスロット増。"
       }
     ]
   },
@@ -1083,44 +495,19 @@
     "name": "Stargazer (The Fountain)",
     "icon": "Stargazer.png",
     "champions": [
-      {
-        "name": "Talon",
-        "image": "Talon.png"
-      },
-      {
-        "name": "Twisted Fate",
-        "image": "TwistedFate.png"
-      },
-      {
-        "name": "Jax",
-        "image": "Jax.png"
-      },
-      {
-        "name": "Lulu",
-        "image": "Lulu.png"
-      },
-      {
-        "name": "Nunu",
-        "image": "Nunu.png"
-      },
-      {
-        "name": "Xayah",
-        "image": "Xayah.png"
-      }
+      { "name": "Talon", "image": "Talon.png" },
+      { "name": "Twisted Fate", "image": "TwistedFate.png" },
+      { "name": "Jax", "image": "Jax.png" },
+      { "name": "Lulu", "image": "Lulu.png" },
+      { "name": "Nunu", "image": "Nunu.png" },
+      { "name": "Xayah", "image": "Xayah.png" }
     ],
-    "description": "Stargazers chart a different constellation every game. This game: The Fountain. Allies in empowered hexes gain 1 mana regen. Stargazers in empowered hexes gain more and heal the lowest Health ally with their abilities.",
+    "description": "スターゲイザーは試合ごとに異なる星座を描きます。今回の試合：泉。強化スロットの味方はマナ回復+1を獲得。強化スロットのスターゲイザーはさらに多くの効果を得て、スキル使用時に最も体力が低い味方を回復します。",
     "effects": [
-      {
-        "count": "(3)\n3 mana regen, 10% ability damage heal",
-        "text": "(5)\n5 mana regen, 18% ability damage heal. More hexes reveal at each player level"
-      },
-      {
-        "count": "(3)",
-        "text": "3 mana regen, 10% ability damage heal"
-      },
+      { "count": "(3)", "text": "マナ回復 3、スキルダメージの10%分を回復" },
       {
         "count": "(5)",
-        "text": "5 mana regen, 18% ability damage heal. More hexes reveal at each player level"
+        "text": "マナ回復 5、スキルダメージの18%分を回復。レベルに応じてスロット増。"
       }
     ]
   },
@@ -1129,48 +516,20 @@
     "name": "Stargazer (The Huntress)",
     "icon": "Stargazer.png",
     "champions": [
-      {
-        "name": "Talon",
-        "image": "Talon.png"
-      },
-      {
-        "name": "Twisted Fate",
-        "image": "TwistedFate.png"
-      },
-      {
-        "name": "Jax",
-        "image": "Jax.png"
-      },
-      {
-        "name": "Lulu",
-        "image": "Lulu.png"
-      },
-      {
-        "name": "Nunu",
-        "image": "Nunu.png"
-      },
-      {
-        "name": "Xayah",
-        "image": "Xayah.png"
-      }
+      { "name": "Talon", "image": "Talon.png" },
+      { "name": "Twisted Fate", "image": "TwistedFate.png" },
+      { "name": "Jax", "image": "Jax.png" },
+      { "name": "Lulu", "image": "Lulu.png" },
+      { "name": "Nunu", "image": "Nunu.png" },
+      { "name": "Xayah", "image": "Xayah.png" }
     ],
-    "description": "Stargazers chart a different constellation every game. This game: The Huntress. Mark the highest Health enemies. Allies in empowered hexes gain 15% attack speed. Stargazers in empowered hexes gain more and heal for 10% of their max health when a marked enemy dies.",
+    "description": "スターゲイザーは試合ごとに異なる星座を描きます。今回の試合：狩人。最も体力の高い敵をマークします。強化スロットの味方は攻撃速度+15%を獲得。強化スロットのスターゲイザーはさらに多く獲得し、マークされた敵が死亡すると最大体力の10%を回復します。",
     "effects": [
-      {
-        "count": "(3)\n30% attack speed, 3 marks",
-        "text": "(5)\n45% attack speed, 5 marks"
-      },
-      {
-        "count": "(3)",
-        "text": "30% attack speed, 3 marks"
-      },
-      {
-        "count": "(5)",
-        "text": "45% attack speed, 5 marks"
-      },
+      { "count": "(3)", "text": "攻撃速度 30%、マーク 3体" },
+      { "count": "(5)", "text": "攻撃速度 45%、マーク 5体" },
       {
         "count": "(7)",
-        "text": "60% attack speed, 7 marks. More hexes reveal at each player level"
+        "text": "攻撃速度 60%、マーク 7体。レベルに応じてスロット増。"
       }
     ]
   },
@@ -1179,36 +538,18 @@
     "name": "Stargazer (The Medallion)",
     "icon": "Stargazer.png",
     "champions": [
-      {
-        "name": "Talon",
-        "image": "Talon.png"
-      },
-      {
-        "name": "Twisted Fate",
-        "image": "TwistedFate.png"
-      },
-      {
-        "name": "Jax",
-        "image": "Jax.png"
-      },
-      {
-        "name": "Lulu",
-        "image": "Lulu.png"
-      },
-      {
-        "name": "Nunu",
-        "image": "Nunu.png"
-      },
-      {
-        "name": "Xayah",
-        "image": "Xayah.png"
-      }
+      { "name": "Talon", "image": "Talon.png" },
+      { "name": "Twisted Fate", "image": "TwistedFate.png" },
+      { "name": "Jax", "image": "Jax.png" },
+      { "name": "Lulu", "image": "Lulu.png" },
+      { "name": "Nunu", "image": "Nunu.png" },
+      { "name": "Xayah", "image": "Xayah.png" }
     ],
-    "description": "Stargazers chart a different constellation every game. This game: The Medallion.",
+    "description": "スターゲイザーは試合ごとに異なる星座を描きます。今回の試合：メダリオン。",
     "effects": [
       {
         "count": "(3)",
-        "text": "Allies in empowered hexes gain 15% damage amp, which increases by 3% for each 3 star on your team. More hexes reveal at each player level"
+        "text": "強化スロットの味方はダメージ増幅15%を獲得し、チーム内の3つ星ユニット1体につきさらに3%増加します。レベルに応じてスロット増。"
       }
     ]
   },
@@ -1217,72 +558,26 @@
     "name": "Stargazer (The Mountain)",
     "icon": "Stargazer.png",
     "champions": [
-      {
-        "name": "Talon",
-        "image": "Talon.png"
-      },
-      {
-        "name": "Twisted Fate",
-        "image": "TwistedFate.png"
-      },
-      {
-        "name": "Jax",
-        "image": "Jax.png"
-      },
-      {
-        "name": "Lulu",
-        "image": "Lulu.png"
-      },
-      {
-        "name": "Nunu",
-        "image": "Nunu.png"
-      },
-      {
-        "name": "Xayah",
-        "image": "Xayah.png"
-      }
+      { "name": "Talon", "image": "Talon.png" },
+      { "name": "Twisted Fate", "image": "TwistedFate.png" },
+      { "name": "Jax", "image": "Jax.png" },
+      { "name": "Lulu", "image": "Lulu.png" },
+      { "name": "Nunu", "image": "Nunu.png" },
+      { "name": "Xayah", "image": "Xayah.png" }
     ],
-    "description": "Stargazers chart a different constellation every game. This game: The Mountain. Every 5 player combat, gain a Stargazer emblem. Stargazers in empowered hexes gain various bonuses.",
+    "description": "スターゲイザーは試合ごとに異なる星座を描きます。今回の試合：山。5ラウンドごとにスターゲイザーの紋章を獲得。強化スロットのスターゲイザーは様々なボーナスを獲得します。",
     "effects": [
-      {
-        "count": "(3)\nGain 15% Health",
-        "text": "(4)\nAND 15% attack damage and ability power"
-      },
-      {
-        "count": "(3)",
-        "text": "Gain 15% Health"
-      },
-      {
-        "count": "(4)",
-        "text": "AND 15% attack damage and ability power"
-      },
-      {
-        "count": "(5)",
-        "text": "AND 15 armor and magic resist"
-      },
-      {
-        "count": "(6)",
-        "text": "AND 15% attack speed"
-      },
-      {
-        "count": "(7)",
-        "text": "AND 12% Durability"
-      },
-      {
-        "count": "(8)",
-        "text": "AND increase all other bonuses by 20%"
-      },
-      {
-        "count": "(9)",
-        "text": "I can see the summit..."
-      },
-      {
-        "count": "(10)",
-        "text": "almost there..."
-      },
+      { "count": "(3)", "text": "体力 +15%" },
+      { "count": "(4)", "text": "さらに 攻撃力 & 魔力 +15%" },
+      { "count": "(5)", "text": "さらに 物理防御 & 魔法耐性 +15" },
+      { "count": "(6)", "text": "さらに 攻撃速度 +15%" },
+      { "count": "(7)", "text": "さらに ダメージ軽減 12%" },
+      { "count": "(8)", "text": "さらに 他のすべてのボーナスが20%強化" },
+      { "count": "(9)", "text": "山頂が見える..." },
+      { "count": "(10)", "text": "もうすぐだ..." },
       {
         "count": "(11)",
-        "text": "The stars beckon all enemies. More hexes reveal at each player level"
+        "text": "星々がすべての敵を招く。レベルに応じてスロット増。"
       }
     ]
   },
@@ -1291,48 +586,20 @@
     "name": "Stargazer (The Serpent)",
     "icon": "Stargazer.png",
     "champions": [
-      {
-        "name": "Talon",
-        "image": "Talon.png"
-      },
-      {
-        "name": "Twisted Fate",
-        "image": "TwistedFate.png"
-      },
-      {
-        "name": "Jax",
-        "image": "Jax.png"
-      },
-      {
-        "name": "Lulu",
-        "image": "Lulu.png"
-      },
-      {
-        "name": "Nunu",
-        "image": "Nunu.png"
-      },
-      {
-        "name": "Xayah",
-        "image": "Xayah.png"
-      }
+      { "name": "Talon", "image": "Talon.png" },
+      { "name": "Twisted Fate", "image": "TwistedFate.png" },
+      { "name": "Jax", "image": "Jax.png" },
+      { "name": "Lulu", "image": "Lulu.png" },
+      { "name": "Nunu", "image": "Nunu.png" },
+      { "name": "Xayah", "image": "Xayah.png" }
     ],
-    "description": "Stargazers chart a different constellation every game. This game: The Serpent. Allies in empowered hexes gain 8% Durability. Stargazers in empowered hexes gain more and poison enemies, repeating a portion of damage dealt as magic damage over 3 seconds.",
+    "description": "スターゲイザーは試合ごとに異なる星座を描きます。今回の試合：蛇。強化スロットの味方はダメージ軽減8%を獲得。強化スロットのスターゲイザーはさらに多く獲得し、敵に毒を付与して与えたダメージの一部を3秒間かけて魔法ダメージとして与えます。",
     "effects": [
-      {
-        "count": "(3)\n15% DR, 30% poison damage",
-        "text": "(5)\n20% DR, 45% poison damage"
-      },
-      {
-        "count": "(3)",
-        "text": "15% DR, 30% poison damage"
-      },
-      {
-        "count": "(5)",
-        "text": "20% DR, 45% poison damage"
-      },
+      { "count": "(3)", "text": "ダメージ軽減 15%、毒ダメージ 30%" },
+      { "count": "(5)", "text": "ダメージ軽減 20%、毒ダメージ 45%" },
       {
         "count": "(7)",
-        "text": "25% DR, 60% poison damage. More hexes reveal at each player level"
+        "text": "ダメージ軽減 25%、毒ダメージ 60%。レベルに応じてスロット増。"
       }
     ]
   },
@@ -1341,49 +608,18 @@
     "name": "Vanguard",
     "icon": "Vanguard.png",
     "champions": [
-      {
-        "name": "Leona",
-        "image": "Leona.png"
-      },
-      {
-        "name": "Nasus",
-        "image": "Nasus.png"
-      },
-      {
-        "name": "Mordekaiser",
-        "image": "Mordekaiser.png"
-      },
-      {
-        "name": "Illaoi",
-        "image": "Illaoi.png"
-      },
-      {
-        "name": "Nunu",
-        "image": "Nunu.png"
-      },
-      {
-        "name": "Blitzcrank",
-        "image": "Blitzcrank.png"
-      }
+      { "name": "Leona", "image": "Leona.png" },
+      { "name": "Nasus", "image": "Nasus.png" },
+      { "name": "Mordekaiser", "image": "Mordekaiser.png" },
+      { "name": "Illaoi", "image": "Illaoi.png" },
+      { "name": "Nunu", "image": "Nunu.png" },
+      { "name": "Blitzcrank", "image": "Blitzcrank.png" }
     ],
-    "description": "Vanguards gain 5% Durability while Shielded. Combat start and 50% Health: Gain a max Health Shield for 10 seconds.",
+    "description": "ヴァンガード：シールド展開中に5%のダメージ軽減を獲得します。戦闘開始時および体力が50%になった時、10秒間最大体力に応じたシールドを獲得します。",
     "effects": [
-      {
-        "count": "(2)\n16% max Health",
-        "text": "(4)\n28% max Health"
-      },
-      {
-        "count": "(2)",
-        "text": "16% max Health"
-      },
-      {
-        "count": "(4)",
-        "text": "28% max Health"
-      },
-      {
-        "count": "(6)",
-        "text": "40% max Health; 10% DR while Shielded"
-      }
+      { "count": "(2)", "text": "最大体力の16%" },
+      { "count": "(4)", "text": "最大体力の28%" },
+      { "count": "(6)", "text": "最大体力の40%。シールド展開中のダメージ軽減が10%に上昇。" }
     ]
   },
   {
@@ -1391,183 +627,99 @@
     "name": "Voyager",
     "icon": "Voyager.png",
     "champions": [
-      {
-        "name": "Meepsie",
-        "image": "Meepsie.png"
-      },
-      {
-        "name": "Pyke",
-        "image": "Pyke.png"
-      },
-      {
-        "name": "Aurora",
-        "image": "Aurora.png"
-      },
-      {
-        "name": "The Mighty Mech",
-        "image": "TheMightyMech.png"
-      },
-      {
-        "name": "Karma",
-        "image": "Karma.png"
-      }
+      { "name": "Meepsie", "image": "Meepsie.png" },
+      { "name": "Pyke", "image": "Pyke.png" },
+      { "name": "Aurora", "image": "Aurora.png" },
+      { "name": "The Mighty Mech", "image": "TheMightyMech.png" },
+      { "name": "Karma", "image": "Karma.png" }
     ],
-    "description": "Combat Start: Your Tanks and Fighters gain a Shield for 15 seconds. Your other allies gain Damage Amp. Voyagers gain double.",
+    "description": "戦闘開始時：タンクとブローラーの味方は15秒間シールドを獲得します。その他の味方はダメージ増幅を獲得します。ボイジャーユニットは両方の効果を2倍で獲得します。",
     "effects": [
-      {
-        "count": "(2)\n175 Shield; 9% DA",
-        "text": "(3)\n250 Shield; 15% DA"
-      },
-      {
-        "count": "(2)",
-        "text": "175 Shield; 9% DA"
-      },
-      {
-        "count": "(3)",
-        "text": "250 Shield; 15% DA"
-      },
-      {
-        "count": "(4)",
-        "text": "350 Shield; 18% DA"
-      },
-      {
-        "count": "(5)",
-        "text": "500 Shield; 22% DA"
-      },
-      {
-        "count": "(6)",
-        "text": "700 Shield; 27% DA"
-      }
+      { "count": "(2)", "text": "175 シールド、ダメージ増幅 9%" },
+      { "count": "(3)", "text": "250 シールド、ダメージ増幅 15%" },
+      { "count": "(4)", "text": "350 シールド、ダメージ増幅 18%" },
+      { "count": "(5)", "text": "500 シールド、ダメージ増幅 22%" },
+      { "count": "(6)", "text": "700 シールド、ダメージ増幅 27%" }
     ]
   },
   {
     "section": "unique-synergy",
     "name": "Arcana",
     "icon": "Arcana.png",
-    "champions": [
-      {
-        "name": "Tahm Kench",
-        "image": "TahmKench.png"
-      }
-    ],
-    "description": "Every 3 rounds, Tahm Kench grants a reward!",
+    "champions": [{ "name": "Tahm Kench", "image": "TahmKench.png" }],
+    "description": "3ラウンドごとに、タム・ケンチが報酬を授けます！",
     "effects": []
   },
   {
     "section": "unique-synergy",
     "name": "Bulwark (Shen)",
     "icon": "Bulwark.png",
-    "champions": [
-      {
-        "name": "Shen",
-        "image": "Shen.png"
-      }
-    ],
-    "description": "Summon a placeable relic. At the start of combat, it grants adjacent allies a 18% max Health shield and 20% Attack Speed.",
+    "champions": [{ "name": "Shen", "image": "Shen.png" }],
+    "description": "移動可能なアーティファクトを1つ召喚します。戦闘開始時、隣接する味方に最大体力の18%のシールドと20%の攻撃速度を付与します。",
     "effects": []
   },
   {
     "section": "unique-synergy",
     "name": "Dark Lady (Morgana)",
     "icon": "DarkLady.png",
-    "champions": [
-      {
-        "name": "Morgana",
-        "image": "Morgana.png"
-      }
-    ],
-    "description": "Allies take 5% less damage from abilities, increased to 10% while Morgana is in Dark Form.",
+    "champions": [{ "name": "Morgana", "image": "Morgana.png" }],
+    "description": "味方はスキルから受けるダメージを5%軽減します。モルガナがダーク形態の時は10%に増加します。",
     "effects": []
   },
   {
     "section": "unique-synergy",
     "name": "Divine Duelist (Fiora)",
     "icon": "DivineDuelist.png",
-    "champions": [
-      {
-        "name": "Fiora",
-        "image": "Fiora.png"
-      }
-    ],
-    "description": "You heal for 15% of player damage you deal. Fiora always wins a one on one duel.",
+    "champions": [{ "name": "Fiora", "image": "Fiora.png" }],
+    "description": "プレイヤーに与えたダメージの15%分、自身を回復します。フィオラは1対1の決闘では常に勝利します。",
     "effects": []
   },
   {
     "section": "unique-synergy",
     "name": "Doomer (Vex)",
     "icon": "Doomer.png",
-    "champions": [
-      {
-        "name": "Vex",
-        "image": "Vex.png"
-      }
-    ],
-    "description": "Combat Start: Mark all enemies with Doom. The first time enemies are damaged each combat, their Doom is consumed, stealing 8% Attack Damage and Ability Power from them and granting it to your strongest Vex.",
+    "champions": [{ "name": "Vex", "image": "Vex.png" }],
+    "description": "戦闘開始時：すべての敵に「破滅（Doom）」の印を付けます。各ラウンドで敵が初めてダメージを受けた際、「破滅」が消費され、その敵の攻撃力と魔力の8%を奪って最も強力なヴェックスに付与します。",
     "effects": []
   },
   {
     "section": "unique-synergy",
     "name": "Eradicator (Jhin)",
     "icon": "EradicatorJhin.svg",
-    "champions": [
-      {
-        "name": "Jhin",
-        "image": "Jhin.png"
-      }
-    ],
-    "description": "Enemies have 14% less Armor and Magic Resist.",
+    "champions": [{ "name": "Jhin", "image": "Jhin.png" }],
+    "description": "敵の物理防御と魔法耐性を14%減少させます。",
     "effects": []
   },
   {
     "section": "unique-synergy",
     "name": "Factory New (Graves)",
     "icon": "FactoryNew.png",
-    "champions": [
-      {
-        "name": "Graves",
-        "image": "Graves.png"
-      }
-    ],
-    "description": "After participating in combat, open an armory to purchase a permanent upgrade for your strongest Graves. Every 3 upgrades, future upgrades will take an additional round.",
+    "champions": [{ "name": "Graves", "image": "Graves.png" }],
+    "description": "戦闘参加後、武器庫を開いて最も強力なグレイブスに永続的なアップグレードを購入できます。3回アップグレードするごとに、次のアップグレードの準備に追加でもう1ラウンド必要になります。",
     "effects": []
   },
   {
     "section": "unique-synergy",
     "name": "Gun Goddess (Miss Fortune)",
     "icon": "GunGoddessMissFortune.svg",
-    "champions": [
-      {
-        "name": "Miss Fortune",
-        "image": "MissFortune.png"
-      }
-    ],
-    "description": "When you field Miss Fortune, choose between Channeler Mode, Challenger Mode, and Replicator Mode. Miss Fortune has a unique ability based on her mode and gains the associated trait.",
+    "champions": [{ "name": "Miss Fortune", "image": "MissFortune.png" }],
+    "description": "ミス・フォーチュンを配置する際、チャネラー・モード、チャレンジャー・モード、レプリケーター・モードから選択します。モードに応じて独自のスキルを持ち、関連する特性を獲得します。",
     "effects": []
   },
   {
     "section": "unique-synergy",
     "name": "Party Animal (Blitzcrank)",
     "icon": "PartyAnimal.png",
-    "champions": [
-      {
-        "name": "Blitzcrank",
-        "image": "Blitzcrank.png"
-      }
-    ],
-    "description": "Once per combat, after falling below 45% percent Health, become untargetable and repair 15% max Health per second. Upon reaching full Health, or when no other allies remain, return to combat. If fully healed, for the rest of combat Blitzcrank is in The Groove and Party Crasher's passive fires bolts four times as fast.",
+    "champions": [{ "name": "Blitzcrank", "image": "Blitzcrank.png" }],
+    "description": "1戦闘につき1回、体力が45%未満になるとターゲット不可状態になり、毎秒最大体力の15%を修復します。全快するか、他に味方がいなくなると戦闘に復帰します。全快して復帰した場合、その戦闘の残り時間ブリッツクランクは「ザ・グルーヴ」状態になり、パッシブの電撃の発射速度が4倍になります。",
     "effects": []
   },
   {
     "section": "unique-synergy",
     "name": "Redeemer (Rhaast)",
     "icon": "Redeemer.png",
-    "champions": [
-      {
-        "name": "Rhaast",
-        "image": "Rhaast.png"
-      }
-    ],
-    "description": "For each non-unique trait you have active, your team gains 2%/3%/4% Attack Speed, and 2/3/4 Armor and Magic Resist.",
+    "champions": [{ "name": "Rhaast", "image": "Rhaast.png" }],
+    "description": "固有特性（ユニーク）以外の発動している特性1つにつき、チーム全員が攻撃速度 2%/3%/4% と防御力 & 魔法耐性 2/3/4 を獲得します。",
     "effects": []
   }
 ]

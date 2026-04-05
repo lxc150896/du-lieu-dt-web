@@ -1,367 +1,370 @@
 {
+  "season": {
+    "season": "TFT 17：スペース・ゴッド"
+  },
   "gods": [
     {
       "name": "Ahri",
-      "of": "God of Opulence",
-      "offers": "Offers gold, XP, and reroll rewards.",
+      "of": "富の神",
+      "offers": "ゴールド、XP、およびリロール報酬を提供します。",
       "image": "Ahri-GodOfOpulence.png",
       "stages": [
         {
-          "title": "Stage 2",
+          "title": "ステージ 2",
           "values": [
-            "6 gold",
+            "6 ゴールド",
             "8 XP",
-            "5 Rerolls",
-            "6 gold, maybe +1"
+            "5 リロール",
+            "6 ゴールド（確率で +1）"
           ]
         },
         {
-          "title": "Stage 3",
+          "title": "ステージ 3",
           "values": [
-            "8 gold",
-            "7 Rerolls",
+            "8 ゴールド",
+            "7 リロール",
             "10 XP",
-            "8 gold, maybe +2"
+            "8 ゴールド（確率で +2）"
           ]
         },
         {
-          "title": "Stage 4",
+          "title": "ステージ 4",
           "values": [
-            "12 gold",
-            "8 Rerolls",
-            "12 Gold, maybe +3"
+            "12 ゴールド",
+            "8 リロール",
+            "12 ゴールド（確率で +3）"
           ]
         },
         {
-          "title": "4-7 Reward",
+          "title": "4-7 報酬",
           "values": [
-            "Gain 2 gold, 2 XP, and 2 rerolls each round"
+            "毎ラウンド 2 ゴールド、2 XP、2 リロールを獲得"
           ]
         }
       ]
     },
     {
       "name": "Aurelion Sol",
-      "of": "God of Wonders",
-      "offers": "Offers economy and emblem rewards.",
+      "of": "驚異の神",
+      "offers": "経済およびエンブレムの報酬を提供します。",
       "image": "AurelionSol-GodOfWonders.png",
       "stages": [
         {
-          "title": "Stage 2",
+          "title": "ステージ 2",
           "values": [
-            "Reach 50 gold to gain component anvil + 4 gold",
-            "Field 6 non-unqiue traits to get a random emblem and a reforger"
+            "50 ゴールド達成で素材アイテムの金槌 + 4 ゴールド獲得",
+            "6 つの重複しない特性を配置してランダムなエンブレムと磁気式除去装置を獲得"
           ]
         },
         {
-          "title": "Stage 3",
+          "title": "ステージ 3",
           "values": [
-            "Star up a unit to get 10 gold",
-            "Field 6 non-unqiue traits to get a random emblem and a reforger"
+            "ユニットを星アップして 10 ゴールド獲得",
+            "6 つの重複しない特性を配置してランダムなエンブレムと磁気式除去装置を獲得"
           ]
         },
         {
-          "title": "Stage 4",
+          "title": "ステージ 4",
           "values": [
-            "Reach level 9 to get 20 gold"
+            "レベル 9 到達で 20 ゴールド獲得"
           ]
         },
         {
-          "title": "4-7 Reward",
+          "title": "4-7 報酬",
           "values": [
-            "Choose one of three trials to prove yourself to Aurelion Sol"
+            "オレリオン・ソルに実力を示すため、3 つの試練から 1 つを選択"
           ]
         }
       ]
     },
     {
       "name": "Ekko",
-      "of": "God of Time",
-      "offers": "Offers delayed rewards and special loot.",
+      "of": "時の神",
+      "offers": "遅延報酬と特別な戦利品を提供します。",
       "image": "Ekko-GodOfTime.png",
       "stages": [
         {
-          "title": "Stage 2",
+          "title": "ステージ 2",
           "values": [
-            "Scuttle Puddle (+blue orb & 3 gold)",
-            "Blessing at 30 HP (25g value)",
-            "Spat in 4 rounds",
-            "Artifact in 8 rounds",
-            "4-cost in 3 rounds"
+            "スカトルパドル（+青のオーブ & 3 ゴールド）",
+            "30 HP 時の祝福（25 ゴールド相当）",
+            "4 ラウンド後に「へら」",
+            "8 ラウンド後にアーティファクト",
+            "3 ラウンド後に 4 コストユニット"
           ]
         },
         {
-          "title": "Stage 3",
+          "title": "ステージ 3",
           "values": [
-            "Scuttle Puddle (+blue orb & 4 gold)",
-            "Implant (20% AS)",
-            "2x5 cost in 4 rounds",
-            "Component anvil in 3 rounds"
+            "スカトルパドル（+青のオーブ & 4 ゴールド）",
+            "インプラント（攻撃速度 20%）",
+            "4 ラウンド後に 5 コストユニット x2",
+            "3 ラウンド後に素材アイテムの金槌"
           ]
         },
         {
-          "title": "Stage 4",
+          "title": "ステージ 4",
           "values": [
-            "Artifact in 5 rounds",
-            "Completed Anvil in 4 rounds",
-            "2 gold every turn",
-            "Full 5-cost shop in 3 rounds",
-            "Implant (20% AS)"
+            "5 ラウンド後にアーティファクト",
+            "4 ラウンド後に完成アイテムの金槌",
+            "毎ターン 2 ゴールド獲得",
+            "3 ラウンド後にすべて 5 コストのショップ",
+            "インプラント（攻撃速度 20%）"
           ]
         },
         {
-          "title": "4-7 Reward",
+          "title": "4-7 報酬",
           "values": [
-            "Gain the Anomaly item, which provides unique bonuses based on role"
+            "役割に応じて独自のボーナスを与える「アノマリーアイテム」を獲得"
           ]
         }
       ]
     },
     {
       "name": "Evelynn",
-      "of": "God of Temptation",
-      "offers": "Offers stronger rewards in exchange for Tactician health.",
+      "of": "誘惑の神",
+      "offers": "タクティシャンの体力を引き換えに、より強力な報酬を提供します。",
       "image": "Evelynn-GodOfTemptation.png",
       "stages": [
         {
-          "title": "Stage 2",
+          "title": "ステージ 2",
           "values": [
-            "8g, Lose 1 HP per",
-            "2* 2 cost, -1HP",
-            "2x lesser dupe, no shop 2 rounds"
+            "8 ゴールド、毎ラウンド 1 HP 減少",
+            "星 2 の 2 コストユニット、-1 HP",
+            "小さなチャンピオン複製器 x2、2 ラウンド間ショップなし"
           ]
         },
         {
-          "title": "Stage 3",
+          "title": "ステージ 3",
           "values": [
-            "11g, Lose 1 HP Per",
-            "Random emblem, -3HP",
-            "15 gold no shop 2 rounds",
-            "2* 3 cost and -2 HP",
-            "3* 1 cost and -2 HP"
+            "11 ゴールド、毎ラウンド 1 HP 減少",
+            "ランダムなエンブレム、-3 HP",
+            "15 ゴールド、2 ラウンド間ショップなし",
+            "星 2 の 3 コストユニット、-2 HP",
+            "星 3 の 1 コストユニット、-2 HP"
           ]
         },
         {
-          "title": "Stage 4",
+          "title": "ステージ 4",
           "values": [
-            "14g, Lose 1 HP Per",
-            "2* 4 cost and -3 HP",
-            "Completed item -5 HP",
-            "18 gold no shop 2 rounds"
+            "14 ゴールド、毎ラウンド 1 HP 減少",
+            "星 2 の 4 コストユニット、-3 HP",
+            "完成アイテム、-5 HP",
+            "18 ゴールド、2 ラウンド間ショップなし"
           ]
         },
         {
-          "title": "4-7 Reward",
+          "title": "4-7 報酬",
           "values": [
-            "Your team gains 10% Durability. Lose an additional 1 health when you lose combat"
+            "チームが 10% の耐久力を獲得。敗北時にさらに 1 の体力を失う"
           ]
         }
       ]
     },
     {
       "name": "Kayle",
-      "of": "God of Order",
-      "offers": "Offers component item rewards.",
+      "of": "秩序の神",
+      "offers": "素材アイテムの報酬を提供します。",
       "image": "Kayle-GodOfOrder.png",
       "stages": [
         {
-          "title": "Stage 2",
+          "title": "ステージ 2",
           "values": [
-            "Random Component",
-            "Sparring Glove",
-            "Recurve Bow",
-            "Tear of the Goddess"
+            "ランダムな素材アイテム",
+            "スパーリング・グローブ",
+            "リカーブ・ボウ",
+            "女神の涙"
           ]
         },
         {
-          "title": "Stage 3",
+          "title": "ステージ 3",
           "values": [
-            "Random Component",
-            "B.F. Sword",
-            "Chain Vest",
-            "Needlessly Large Rod",
-            "Negatron Cloak"
+            "ランダムな素材アイテム",
+            "B.F. ソード",
+            "チェイン・ベスト",
+            "無駄に大きなロッド",
+            "ネガトロン・クローク"
           ]
         },
         {
-          "title": "Stage 4",
+          "title": "ステージ 4",
           "values": [
-            "Random Component",
-            "Sparring Glove",
-            "Recurve Bow",
-            "Tear of the Goddess",
-            "B.F. Sword",
-            "Chain Vest",
-            "Needlessly Large Rod",
-            "Negatron Cloak"
+            "ランダムな素材アイテム",
+            "スパーリング・グローブ",
+            "リカーブ・ボウ",
+            "女神の涙",
+            "B.F. ソード",
+            "チェイン・ベスト",
+            "無駄に大きなロッド",
+            "ネガトロン・クローク"
           ]
         },
         {
-          "title": "4-7 Reward",
+          "title": "4-7 報酬",
           "values": [
-            "Upgrade a random completed item to Radiant"
+            "ランダムな完成アイテム 1 つをレディアントアイテムにアップグレード"
           ]
         }
       ]
     },
     {
       "name": "Soraka",
-      "of": "God of Stars",
-      "offers": "Offers health and health-based rewards.",
+      "of": "星の神",
+      "offers": "体力および体力に基づいた報酬を提供します。",
       "image": "Soraka-GodOfStars.png",
       "stages": [
         {
-          "title": "Stage 2",
+          "title": "ステージ 2",
           "values": [
-            "8 HP, maybe 3g",
+            "8 HP（確率で 3 ゴールド）",
             "12 HP",
-            "Giant's Belt"
+            "ジャイアント・ベルト"
           ]
         },
         {
-          "title": "Stage 3",
+          "title": "ステージ 3",
           "values": [
-            "8 HP, maybe 5g",
+            "8 HP（確率で 5 ゴールド）",
             "12 HP",
-            "Giant's Belt",
-            "Implant (350 HP)"
+            "ジャイアント・ベルト",
+            "インプラント（350 HP）"
           ]
         },
         {
-          "title": "Stage 4",
+          "title": "ステージ 4",
           "values": [
-            "8 HP, maybe 5g",
+            "8 HP（確率で 5 ゴールド）",
             "12 HP",
-            "Giant's Belt",
-            "Implant (350 HP)"
+            "ジャイアント・ベルト",
+            "インプラント（350 HP）"
           ]
         },
         {
-          "title": "4-7 Reward",
+          "title": "4-7 報酬",
           "values": [
-            "Team gains 2 HP per missing Tactician health. +1 current and max health Tactician each round"
+            "失ったタクティシャンの体力ごとにチームが 2 HP 獲得。毎ラウンド現在および最大 HP が +1"
           ]
         }
       ]
     },
     {
       "name": "Thresh",
-      "of": "God of Pacts",
-      "offers": "Offers random loot and gold.",
+      "of": "契約の神",
+      "offers": "ランダムな戦利品とゴールドを提供します。",
       "image": "Thresh-GodOfPacts.png",
       "stages": [
         {
-          "title": "Stage 2",
+          "title": "ステージ 2",
           "values": [
-            "Random + 2g",
-            "Random loot (EV 7)"
+            "ランダム報酬 + 2 ゴールド",
+            "ランダムな戦利品（期待値 7）"
           ]
         },
         {
-          "title": "Stage 3",
+          "title": "ステージ 3",
           "values": [
-            "Random + 3g",
-            "Random loot (EV 9)"
+            "ランダム報酬 + 3 ゴールド",
+            "ランダムな戦利品（期待値 9）"
           ]
         },
         {
-          "title": "Stage 4",
+          "title": "ステージ 4",
           "values": [
-            "Random + 5g",
-            "Random loot (EV 10)"
+            "ランダム報酬 + 5 ゴールド",
+            "ランダムな戦利品（期待値 10）"
           ]
         },
         {
-          "title": "4-7 Reward",
+          "title": "4-7 報酬",
           "values": [
-            "After each player combat, roll a die. Gain rewards based on the result"
+            "プレイヤー戦闘のたびにダイスを振る。出目に応じた報酬を獲得"
           ]
         }
       ]
     },
     {
       "name": "Varus",
-      "of": "God of Love",
-      "offers": "Offers champions, duplicators, and shop-based rewards.",
+      "of": "愛の神",
+      "offers": "チャンピオン、複製器、およびショップ関連の報酬を提供します。",
       "image": "Varus-GodOfLove.png",
       "stages": [
         {
-          "title": "Stage 2",
+          "title": "ステージ 2",
           "values": [
-            "2 & 3 Cost",
-            "Owned 3 cost",
-            "2 Tiny Dupes",
-            "3 cost shop"
+            "2 & 3 コストユニット",
+            "所持している 3 コストユニット",
+            "小さなチャンピオン複製器 x2",
+            "3 コスト確定ショップ"
           ]
         },
         {
-          "title": "Stage 3",
+          "title": "ステージ 3",
           "values": [
-            "3 & 4 Cost",
-            "Lesser Dupe",
-            "Owned 3 cost",
-            "4 cost shop"
+            "3 & 4 コストユニット",
+            "チャンピオン複製器（小）",
+            "所持している 3 コストユニット",
+            "4 コスト確定ショップ"
           ]
         },
         {
-          "title": "Stage 4",
+          "title": "ステージ 4",
           "values": [
-            "4 & 5 Cost",
-            "Lesser Dupe + 3g",
-            "1 Lesser Duplicator + 5 Tiny Duplicators",
-            "Owned 4 cost",
-            "1% 5 cost odds"
+            "4 & 5 コストユニット",
+            "チャンピオン複製器（小）+ 3 ゴールド",
+            "チャンピオン複製器（小）x1 + 小さなチャンピオン複製器 x5",
+            "所持している 4 コストユニット",
+            "5 コスト出現率が 1% 上昇"
           ]
         },
         {
-          "title": "4-7 Reward",
+          "title": "4-7 報酬",
           "values": [
-            "Your team gains 10 health for each total star level in your army. Increase your 5 cost odds by 4%"
+            "自軍の合計星レベルごとにチームが 10 HP 獲得。5 コスト出現率が 4% 上昇"
           ]
         }
       ]
     },
     {
       "name": "Yasuo",
-      "of": "God of the Abyss",
-      "offers": "Offers empowered combat hex effects.",
+      "of": "深淵の神",
+      "offers": "強化された戦闘ヘックス効果を提供します。",
       "image": "Yasuo-GodOfTheAbyss.png",
       "stages": [
         {
-          "title": "Stage 2",
+          "title": "ステージ 2",
           "values": [
-            "Fire Hex (18% dmg, burn/wound)",
-            "Wood Hex (10% + 30 HP)",
-            "Wind Hex (30% AS)",
-            "Ice Hex (15% heal)",
-            "Electric Hex (2s stun)",
-            "Socialite Hex (2 mana regen)"
+            "火のヘックス（18% ダメージ、炎上/負傷）",
+            "木のヘックス（10% + 30 HP）",
+            "風のヘックス（30% 攻撃速度）",
+            "氷のヘックス（15% 回復）",
+            "雷のヘックス（2秒スタン）",
+            "ソーシャライト・ヘックス（2 マナ回復）"
           ]
         },
         {
-          "title": "Stage 3",
+          "title": "ステージ 3",
           "values": [
-            "Fire Hex (18% dmg, burn/wound)",
-            "Wind Hex (30% AS)",
-            "Ice Hex (15% heal)",
-            "Electric Hex (2s stun)",
-            "Socialite Hex (2 mana regen)"
+            "火のヘックス（18% ダメージ、炎上/負傷）",
+            "風のヘックス（30% 攻撃速度）",
+            "氷のヘックス（15% 回復）",
+            "雷のヘックス（2秒スタン）",
+            "ソーシャライト・ヘックス（2 マナ回復）"
           ]
         },
         {
-          "title": "Stage 4",
+          "title": "ステージ 4",
           "values": [
-            "Fire Hex (18% dmg, burn/wound)",
-            "Wind Hex (30% AS)",
-            "Ice Hex (15% heal)",
-            "Electric Hex (2s stun)",
-            "Socialite Hex (2 mana regen)"
+            "火のヘックス（18% ダメージ、炎上/負傷）",
+            "風のヘックス（30% 攻撃速度）",
+            "氷のヘックス（15% 回復）",
+            "雷のヘックス（2秒スタン）",
+            "ソーシャライト・ヘックス（2 マナ回復）"
           ]
         },
         {
-          "title": "4-7 Reward",
+          "title": "4-7 報酬",
           "values": [
-            "Increase the power of Yasuo's hexes by 50%. If you only have 2 hexes, gain 12 gold."
+            "ヤスオのヘックスの効果を 50% 上昇。ヘックスが 2 つしかない場合、12 ゴールド獲得"
           ]
         }
       ]
@@ -398,27 +401,23 @@
           "image": "Jhin.png"
         }
       ],
-      "description": "",
+      "description": "ダークスター",
       "effects": [
         {
-          "count": "(2)\nDark Stars create a black hole that consumes enemies at 10% max health.",
-          "text": "(4)\nAND they gain 30% AD & AP."
-        },
-        {
           "count": "(2)",
-          "text": "Dark Stars create a black hole that consumes enemies at 10% max health."
+          "text": "ダークスターのユニットは、敵の体力が10%未満になると、その敵を飲み込むブラックホールを生成します。"
         },
         {
           "count": "(4)",
-          "text": "AND they gain 30% AD & AP."
+          "text": "さらに、攻撃力と魔力が30%増加します。"
         },
         {
           "count": "(6)",
-          "text": "AND the strongest Dark Star unit goes supermassive, gaining 100% effectiveness from Dark Star, and creates 2 minor Black Holes."
+          "text": "さらに、最も強力なダークスターユニットが「超巨大化」し、ダークスターの効果が100%上昇、さらに2つの小型ブラックホールを生成します。"
         },
         {
           "count": "(9)",
-          "text": "All Dark Stars are supermassive. At level 10, CONSUME EVERYONE."
+          "text": "すべてのダークスターユニットが超巨大化します。レベル10では、すべてを飲み込みます。"
         }
       ]
     },
@@ -460,27 +459,23 @@
           "image": "Bard.png"
         }
       ],
-      "description": "Astronauts attract Meeps that empower Astronaut abilities in meepy ways. They also gain bonus Health.",
+      "description": "アストロノートはミープを引き寄せ、奇妙な方法でスキルを強化します。また、追加の体力を獲得します。",
       "effects": [
         {
-          "count": "(3)\n2%, 125 Health",
-          "text": "(5)\n3%, 250 Health"
-        },
-        {
           "count": "(3)",
-          "text": "2%, 125 Health"
+          "text": "2%、体力125"
         },
         {
           "count": "(5)",
-          "text": "3%, 250 Health"
+          "text": "3%、体力250"
         },
         {
           "count": "(7)",
-          "text": "4%, 400 Health. Create a Cloning Slot on your bench. Gain gold and a 1-star copy of the champion placed there when cloning completes."
+          "text": "4%、体力400。待機所に複製スロットを作成します。複製が完了すると、そこに置かれたチャンピオンの1つ星コピーとゴールドを獲得します。"
         },
         {
           "count": "(10)",
-          "text": "6%, 1000 Health. SUMMON THE FOUR MEEPLORDS! Cloning time = Champion cost"
+          "text": "6%、体力1000。4体のミープロードを召喚！複製時間 = チャンピオンのコスト。"
         }
       ]
     },
@@ -510,19 +505,15 @@
           "image": "Kindred.png"
         }
       ],
-      "description": "",
+      "description": "N.O.V.A.",
       "effects": [
         {
-          "count": "(2)\n6 seconds into combat, N.O.V.A. grant a power surge to allies based on champions.",
-          "text": "(5)\nGain a Striker selector. The chosen N.O.V.A. activates their Strike during the power surge. Aatrox: Ally Damage 30% Shred and Sunders enemies / Caitlyn: Grant allies 20% Attack Speed / Akali: Allies gain Precision / Maokai: Allies heal 15% max Health / Kindred: Shield the strongest Tank for 800 / Emblem: Allies deal 10% stacking bonus true damage"
-        },
-        {
           "count": "(2)",
-          "text": "6 seconds into combat, N.O.V.A. grant a power surge to allies based on champions."
+          "text": "戦闘開始から6秒後、N.O.V.A.はチャンピオンに基づいたパワーを味方に与えます。"
         },
         {
           "count": "(5)",
-          "text": "Gain a Striker selector. The chosen N.O.V.A. activates their Strike during the power surge. Aatrox: Ally Damage 30% Shred and Sunders enemies / Caitlyn: Grant allies 20% Attack Speed / Akali: Allies gain Precision / Maokai: Allies heal 15% max Health / Kindred: Shield the strongest Tank for 800 / Emblem: Allies deal 10% stacking bonus true damage"
+          "text": "ストライクセレクターを獲得します。選択されたN.O.V.A.チャンピオンはパワーの中で「ストライク」を発動します。エイトロックス: 味方の攻撃が敵の防具を30%減少 / ケイトリン: 味方の攻撃速度+20% / アカリ: 味方が「デッドアイ」を獲得 / マオカイ: 味方が最大体力の15%を回復 / キンドレッド: 最も強力なタンクに800のシールドを付与 / 紋章: 味方の確定ダメージが10%増加（スタック可能）。"
         }
       ]
     },
@@ -544,19 +535,15 @@
           "image": "BelVeth.png"
         }
       ],
-      "description": "",
+      "description": "プリモーディアン",
       "effects": [
         {
-          "count": "(2)\nDealing damage spawns Swarmlings based on Primordian star level.",
-          "text": "(3)\nSpawn even more Swarmlings! Each round, gain a random 1 or 2-cost champion. 8% of damage taken contributes to damage dealt."
-        },
-        {
           "count": "(2)",
-          "text": "Dealing damage spawns Swarmlings based on Primordian star level."
+          "text": "ダメージを与えると、プリモーディアンユニットの星レベルに応じたヴォイドリングを召喚します。"
         },
         {
           "count": "(3)",
-          "text": "Spawn even more Swarmlings! Each round, gain a random 1 or 2-cost champion. 8% of damage taken contributes to damage dealt."
+          "text": "さらに多くのヴォイドリングを召喚！毎ラウンド、ランダムな1または2コストのユニットを獲得。受けるダメージの8%を、与えるダメージに変換します。"
         }
       ]
     },
@@ -586,19 +573,15 @@
           "image": "Sona.png"
         }
       ],
-      "description": "Gain Psionic items that can be equipped to any ally.",
+      "description": "任意の味方に装備可能な「サイオニック・アイテム」を獲得します。",
       "effects": [
         {
-          "count": "(2)\nGain the Psionic item 1",
-          "text": "(4)\nGain the Psionic item 2, Psionic items gain extra effects on Psionic units"
-        },
-        {
           "count": "(2)",
-          "text": "Gain the Psionic item 1"
+          "text": "サイオニック・アイテムを1つ獲得。"
         },
         {
           "count": "(4)",
-          "text": "Gain the Psionic item 2, Psionic items gain extra effects on Psionic units"
+          "text": "サイオニック・アイテムを2つ獲得。サイオニック・アイテムは、サイオニックユニットが装備した際に追加効果を発動します。"
         }
       ]
     },
@@ -636,31 +619,27 @@
           "image": "Blitzcrank.png"
         }
       ],
-      "description": "",
+      "description": "スペースグルーヴ",
       "effects": [
         {
-          "count": "(1)\nGroovians can enter the Groove. While in it, they gain Attack Speed and max Health Regen, increased per Groovian on your team.",
-          "text": "(3)\nAll Groovians start combat in the Groove for 3 seconds."
-        },
-        {
           "count": "(1)",
-          "text": "Groovians can enter the Groove. While in it, they gain Attack Speed and max Health Regen, increased per Groovian on your team."
+          "text": "グルーヴの住人は「ザ・グルーヴ（ノリノリ状態）」に入ることができます。この状態では攻撃速度が増加し、最大体力を回復します。効果はチーム内の住人の数に応じて上昇します。"
         },
         {
           "count": "(3)",
-          "text": "All Groovians start combat in the Groove for 3 seconds."
+          "text": "すべてのグルーヴの住人は、戦闘開始時の3秒間「ザ・グルーヴ」に入ります。"
         },
         {
           "count": "(5)",
-          "text": "Each second spent in the Groove grants 3% stacking Attack Damage and Ability Power."
+          "text": "「ザ・グルーヴ」の状態1秒ごとに、攻撃力と魔力が3%増加します（スタック可能）。"
         },
         {
           "count": "(7)",
-          "text": "Increase these effects by 20%!"
+          "text": "これらの効果が20%強化されます！"
         },
         {
           "count": "(10)",
-          "text": "the Groove"
+          "text": "究極のグルーヴ"
         }
       ]
     },
@@ -686,23 +665,19 @@
           "image": "Riven.png"
         }
       ],
-      "description": "",
+      "description": "タイムブレイカー",
       "effects": [
         {
-          "count": "(2)\nWhen you lose, gain free rerolls. When you win, store XP in a Temporal Core (scales with stage).",
-          "text": "(3)\nAND Allies gain 15% Attack Speed."
-        },
-        {
           "count": "(2)",
-          "text": "When you lose, gain free rerolls. When you win, store XP in a Temporal Core (scales with stage)."
+          "text": "敗北時、無料のリロールを獲得します。勝利時、経験値をタイムコアに蓄積します（ステージに応じて増加）。"
         },
         {
           "count": "(3)",
-          "text": "AND Allies gain 15% Attack Speed."
+          "text": "さらに、味方の攻撃速度が15%増加します。"
         },
         {
           "count": "(4)",
-          "text": "AND Timebreakers gain an additional 50% Attack Speed"
+          "text": "さらに、タイムブレイカーユニットの攻撃速度が50%増加します。"
         }
       ]
     },
@@ -716,7 +691,7 @@
           "image": "Sona.png"
         }
       ],
-      "description": "Sona gives you a random Command Mod every 2 rounds which allows you to alter the way an ally behaves during combat. Command Mods last 2 player combats even if they are not equipped.",
+      "description": "ソナは2ラウンドごとにランダムな「コマンダー・モッド」を提供し、味方の戦闘スタイルを変更させます。モッドは装備していなくても2ラウンドの間持続します。",
       "effects": []
     },
     {
@@ -729,7 +704,7 @@
           "image": "Zed.png"
         }
       ],
-      "description": "Zed is obtained from the Invader Zed augment. While at least one clone is alive, Zed gains 40% bonus Attack Damage.",
+      "description": "オーグメント「インベーダー・ゼド」から獲得。分身が1体以上生存している間、ゼドの攻撃力が40%増加します。",
       "effects": []
     },
     {
@@ -742,7 +717,7 @@
           "image": "TahmKench.png"
         }
       ],
-      "description": "Every 3 rounds, Tahm Kench grants a reward!",
+      "description": "3ラウンドごとに、タム・ケンチが報酬を授けます！",
       "effects": []
     },
     {
@@ -771,19 +746,15 @@
           "image": "Fiora.png"
         }
       ],
-      "description": "After losing a player combat, gain 15 Tech, plus additional Tech equal to 5 times the length of your loss streak. Additionally, gain 2 Tech per Anima takedown. Each time Animas get 100 Tech, they prototype new Anima Weapons. You can take them, or save your Tech to get more powerful weapons next time.",
+      "description": "プレイヤー戦で敗北すると15のテックを獲得し、連敗数に応じてさらに追加されます。また、アニマユニットがキルに関与するたびに2のテックを獲得します。テックが100貯まるごとに新しいアニマ武器を製造します。すぐに入手するか、さらに強力な武器のためにテックを貯めることができます。",
       "effects": [
         {
-          "count": "(3)\nStart Researching!",
-          "text": "(6)\nGain a loot Orb upon win"
-        },
-        {
           "count": "(3)",
-          "text": "Start Researching!"
+          "text": "研究開始！"
         },
         {
           "count": "(6)",
-          "text": "Gain a loot Orb upon win"
+          "text": "勝利時に戦利品ボックスを獲得。"
         }
       ]
     },
@@ -809,19 +780,15 @@
           "image": "LeBlanc.png"
         }
       ],
-      "description": "Scribe a unique divine law, allowing you to choose an effect to apply to Arbiters when a chosen cause occurs.",
+      "description": "アービター：独自の「神聖法」を制定し、特定の条件が満たされたときにアービターユニットに適用される効果を選択します。",
       "effects": [
         {
-          "count": "(2)\nChoose a cause and effect for your law",
-          "text": "(3)\nEffects are stronger."
-        },
-        {
           "count": "(2)",
-          "text": "Choose a cause and effect for your law"
+          "text": "法の「原因」と「結果」を選択します。"
         },
         {
           "count": "(3)",
-          "text": "Effects are stronger."
+          "text": "効果が強化されます。"
         }
       ]
     },
@@ -855,23 +822,19 @@
           "image": "Shen.png"
         }
       ],
-      "description": "Your team gains 12 Armor and Magic Resist. Bastions gain more, and the value doubles in the first 10 seconds of combat.",
+      "description": "味方チームの防御力と魔法耐性が12増加します。バスティオンユニットはさらに多くのボーナスを獲得し、戦闘開始からの10秒間はこの値が2倍になります。",
       "effects": [
         {
-          "count": "(2)\n16 Armor & MR",
-          "text": "(4)\n35 Armor & MR"
-        },
-        {
           "count": "(2)",
-          "text": "16 Armor & MR"
+          "text": "物理防御 & 魔法耐性 +16"
         },
         {
           "count": "(4)",
-          "text": "35 Armor & MR"
+          "text": "物理防御 & 魔法耐性 +35"
         },
         {
           "count": "(6)",
-          "text": "55 Armor & MR; Non-Bastions gain an additional 20 Armor & MR."
+          "text": "物理防御 & 魔法耐性 +55。バスティオン以外のユニットも物理防御 & 魔法耐性 +20を獲得。"
         }
       ]
     },
@@ -909,23 +872,19 @@
           "image": "TahmKench.png"
         }
       ],
-      "description": "Your team gains 7% Health. Brawlers gain more.",
+      "description": "味方チームの最大体力が7%増加します。ブローラーユニットはさらに多くのボーナスを獲得します。",
       "effects": [
         {
-          "count": "(2)\n+25% maximum Health",
-          "text": "(4)\n+45% maximum Health"
-        },
-        {
           "count": "(2)",
-          "text": "+25% maximum Health"
+          "text": "最大体力 +25%"
         },
         {
           "count": "(4)",
-          "text": "+45% maximum Health"
+          "text": "最大体力 +45%"
         },
         {
           "count": "(6)",
-          "text": "+65% maximum Health"
+          "text": "最大体力 +65%"
         }
       ]
     },
@@ -955,27 +914,23 @@
           "image": "Kindred.png"
         }
       ],
-      "description": "Your team gains 10% Attack Speed. Challengers gain bonus Attack Speed. When their target dies, Challengers dash to a new target and increase their Attack Speed bonus by 50% for 2.50 seconds.",
+      "description": "味方チームの攻撃速度が10%増加します。チャレンジャーユニットはさらに多くの攻撃速度を獲得します。ターゲットが死亡すると、チャレンジャーは新しいターゲットへダッシュし、2.5秒間攻撃速度ボーナスが50%増加します。",
       "effects": [
         {
-          "count": "(2)\n15% AS",
-          "text": "(3)\n22% AS"
-        },
-        {
           "count": "(2)",
-          "text": "15% AS"
+          "text": "攻撃速度 +15%"
         },
         {
           "count": "(3)",
-          "text": "22% AS"
+          "text": "攻撃速度 +22%"
         },
         {
           "count": "(4)",
-          "text": "30% AS"
+          "text": "攻撃速度 +30%"
         },
         {
           "count": "(5)",
-          "text": "40% AS"
+          "text": "攻撃速度 +40%"
         }
       ]
     },
@@ -1009,27 +964,23 @@
           "image": "Bard.png"
         }
       ],
-      "description": "Innate: Channelers gain 20% additional Mana from all sources. Your team gains Mana Regen, increased for Channelers.",
+      "description": "常時発動：チャネラーはあらゆる源からのマナ獲得量が20%増加します。味方チームはマナ回復を獲得し、チャネラーはさらに多くの回復量を得ます。",
       "effects": [
         {
-          "count": "(2)\n1% Mana Regen | 3% Mana Regen",
-          "text": "(3)\n1% Mana Regen | 4% Mana Regen"
-        },
-        {
           "count": "(2)",
-          "text": "1% Mana Regen | 3% Mana Regen"
+          "text": "マナ回復 1% | チャネラーは 3%"
         },
         {
           "count": "(3)",
-          "text": "1% Mana Regen | 4% Mana Regen"
+          "text": "マナ回復 1% | チャネラーは 4%"
         },
         {
           "count": "(4)",
-          "text": "2% Mana Regen | 6% Mana Regen"
+          "text": "マナ回復 2% | チャネラーは 6%"
         },
         {
           "count": "(5)",
-          "text": "2% Mana Regen | 7% Mana Regen"
+          "text": "マナ回復 2% | チャネラーは 7%"
         }
       ]
     },
@@ -1055,19 +1006,15 @@
           "image": "Corki.png"
         }
       ],
-      "description": "Innate: Fateweavers have Precision.",
+      "description": "常時発動：フェイトウィーバーユニットは「デッドアイ」を持っています。",
       "effects": [
         {
-          "count": "(2)\nChance effects on abilities are Lucky.",
-          "text": "(4)\nGain 20% Crit Chance and 10% Crit Damage. Critical strikes are also Lucky."
-        },
-        {
           "count": "(2)",
-          "text": "Chance effects on abilities are Lucky."
+          "text": "スキルの確率要素がすべて「ラッキー」になります。"
         },
         {
           "count": "(4)",
-          "text": "Gain 20% Crit Chance and 10% Crit Damage. Critical strikes are also Lucky."
+          "text": "クリティカル率+20%、クリティカルダメージ+10%を獲得。クリティカルヒットも「ラッキー」になります。"
         }
       ]
     },
@@ -1097,23 +1044,19 @@
           "image": "Fiora.png"
         }
       ],
-      "description": "Your team gains 5% Omnivamp. Marauders gain more Omnivamp, Attack Damage, and their Omnivamp overhealing is converted into Shield (up to 25% max Health.)",
+      "description": "味方チームが5%のオムニヴァンプを獲得します。マローダーユニットはさらにオムニヴァンプと攻撃力が増加し、過剰回復分はシールド（最大体力の25%まで）に変換されます。",
       "effects": [
         {
-          "count": "(2)\n5% Omnivamp, 20% AD",
-          "text": "(4)\n7% Omnivamp, 30% AD"
-        },
-        {
           "count": "(2)",
-          "text": "5% Omnivamp, 20% AD"
+          "text": "オムニヴァンプ 5%、攻撃力 +20%"
         },
         {
           "count": "(4)",
-          "text": "7% Omnivamp, 30% AD"
+          "text": "オムニヴァンプ 7%、攻撃力 +30%"
         },
         {
           "count": "(6)",
-          "text": "10% Omnivamp, 40% AD."
+          "text": "オムニヴァンプ 10%、攻撃力 +40%"
         }
       ]
     },
@@ -1135,23 +1078,19 @@
           "image": "TheMightyMech.png"
         }
       ],
-      "description": "Innate: Mecha units can transform into their Ultimate form, upgrading their ability and gaining 60% Health. Transformed Mechas take up two team slots and count twice for the Mecha trait.",
+      "description": "常時発動：メカユニットは「アルティメット形態」に換装でき、スキルがアップグレードされ、体力が60%増加します。換装したメカは2スロットを消費し、メカの特性カウントとしては2体分として数えられます。",
       "effects": [
         {
-          "count": "(3)\nEnergy Cells: Mechas gain 20% AD & AP.",
-          "text": "(4)\nOverclocked Cells: Increased to 35% AD & AP."
-        },
-        {
           "count": "(3)",
-          "text": "Energy Cells: Mechas gain 20% AD & AP."
+          "text": "パワーバッテリー：メカの攻撃力と魔力が20%増加。"
         },
         {
           "count": "(4)",
-          "text": "Overclocked Cells: Increased to 35% AD & AP."
+          "text": "オーバーチャージ・バッテリー：ボーナスが35%に増加。"
         },
         {
           "count": "(6)",
-          "text": "Precision Engineering: +1 max team size"
+          "text": "精密工学：チームサイズの上限が+1されます。"
         }
       ]
     },
@@ -1185,19 +1124,15 @@
           "image": "Nami.png"
         }
       ],
-      "description": "Replicator abilities occur a second time at reduced effectiveness.",
+      "description": "レプリケーターのスキルは、威力を下げた状態で2回発動します。",
       "effects": [
         {
-          "count": "(2)\n25% strength",
-          "text": "(4)\n50% strength"
-        },
-        {
           "count": "(2)",
-          "text": "25% strength"
+          "text": "威力 25%"
         },
         {
           "count": "(4)",
-          "text": "50% strength"
+          "text": "威力 50%"
         }
       ]
     },
@@ -1231,27 +1166,23 @@
           "image": "Riven.png"
         }
       ],
-      "description": "Rogues gain Attack Damage and Ability Power. The first time they fall below 50% health, they slip into shadows. Enemies targeting them are redirected to a nearby unit, preferring Tanks.",
+      "description": "ローグユニットは攻撃力と魔力を獲得します。体力が初めて50%未満になると影に隠れ、自身を狙っていた敵のターゲットを付近の他の味方（タンク優先）へ逸らします。",
       "effects": [
         {
-          "count": "(2)\n15% AD AP",
-          "text": "(3)\n30% AD AP"
-        },
-        {
           "count": "(2)",
-          "text": "15% AD AP"
+          "text": "攻撃力 & 魔力 +15%"
         },
         {
           "count": "(3)",
-          "text": "30% AD AP"
+          "text": "攻撃力 & 魔力 +30%"
         },
         {
           "count": "(4)",
-          "text": "45% AD AP"
+          "text": "攻撃力 & 魔力 +45%"
         },
         {
           "count": "(5)",
-          "text": "60% AD AP"
+          "text": "攻撃力 & 魔力 +60%"
         }
       ]
     },
@@ -1285,23 +1216,19 @@
           "image": "Sona.png"
         }
       ],
-      "description": "Shepherds summon the Bond of the Stars to aid them in battle.",
+      "description": "シェパードは戦闘を支援するために「アストラル・リンク」を召喚します。",
       "effects": [
         {
-          "count": "(3)\nSummon Bia",
-          "text": "(5)\nSummon Bayin"
-        },
-        {
           "count": "(3)",
-          "text": "Summon Bia"
+          "text": "ビアを召喚"
         },
         {
           "count": "(5)",
-          "text": "Summon Bayin"
+          "text": "ベインを召喚"
         },
         {
           "count": "(7)",
-          "text": "Bia and Bayin's bond grows deeper. Bia and Bayin's power are increased by the total star level of Shepherd."
+          "text": "ビアとベインの絆が深まります。ビアとベインの強さは、全シェパードユニットの合計星レベルに応じて上昇します。"
         }
       ]
     },
@@ -1331,27 +1258,23 @@
           "image": "Jhin.png"
         }
       ],
-      "description": "Snipers gain Damage Amp, increased against targets farther away.",
+      "description": "スナイパーは与えるダメージが増加し、ターゲットとの距離が遠いほど効果が高まります。",
       "effects": [
         {
-          "count": "(2)\n18% DA; +2% DA per hex",
-          "text": "(3)\n24% DA; +3% DA per hex"
-        },
-        {
           "count": "(2)",
-          "text": "18% DA; +2% DA per hex"
+          "text": "ダメージ +18%（1マスごとに+2%）"
         },
         {
           "count": "(3)",
-          "text": "24% DA; +3% DA per hex"
+          "text": "ダメージ +24%（1マスごとに+3%）"
         },
         {
           "count": "(4)",
-          "text": "28% DA; +4% DA per hex"
+          "text": "ダメージ +28%（1マスごとに+4%）"
         },
         {
           "count": "(5)",
-          "text": "32% DA; +5% DA per hex"
+          "text": "ダメージ +32%（1マスごとに+5%）"
         }
       ]
     },
@@ -1385,11 +1308,11 @@
           "image": "Xayah.png"
         }
       ],
-      "description": "Stargazers chart a different constellation every game. This game: The Altar.",
+      "description": "スターゲイザーは試合ごとに異なる星座を描きます。今回の試合：祭壇。",
       "effects": [
         {
           "count": "(3)",
-          "text": "When ANY unit dies, they are sacrificed to the altar. Allies in empowered hexes gain 10% health and 15% attack speed. After 60 sacrifices, Stargazers in empowered hexes gain an additional 25% health and 40% attack speed. More hexes reveal at each player level"
+          "text": "ユニットが死亡するたびに、祭壇に生贄として捧げられます。強化スロットにいる味方は体力10%と攻撃速度15%を獲得します。60回の生贄後、強化スロットのスターゲイザーは追加で体力25%と攻撃速度40%を獲得します。プレイヤーレベルが上がるとスロットが増えます。"
         }
       ]
     },
@@ -1423,27 +1346,23 @@
           "image": "Xayah.png"
         }
       ],
-      "description": "Stargazers chart a different constellation every game. This game: The Boar. Gain gold on win. Allies in empowered hexes gain 8% health, attack damage, and ability power. Stargazers gain more.",
+      "description": "スターゲイザーは試合ごとに異なる星座を描きます。今回の試合：猪。勝利時にゴールドを獲得。強化スロットの味方は体力、攻撃力、魔力が8%増加。スターゲイザーはさらに多くの効果を得ます。",
       "effects": [
         {
-          "count": "(3)\n1 gold, 10% health, 18% attack damage and ability power",
-          "text": "(4)\n2 gold, 15% health, 25% attack damage and ability power"
-        },
-        {
           "count": "(3)",
-          "text": "1 gold, 10% health, 18% attack damage and ability power"
+          "text": "1G、体力10%、攻撃力 & 魔力 18%"
         },
         {
           "count": "(4)",
-          "text": "2 gold, 15% health, 25% attack damage and ability power"
+          "text": "2G、体力15%、攻撃力 & 魔力 25%"
         },
         {
           "count": "(5)",
-          "text": "3 gold, 20% health, 33% attack damage and ability power"
+          "text": "3G、体力20%、攻撃力 & 魔力 33%"
         },
         {
           "count": "(6)",
-          "text": "5 gold, 25% health, 40% attack damage and ability power. More hexes reveal at each player level"
+          "text": "5G、体力25%、攻撃力 & 魔力 40%。レベルに応じてスロット増。"
         }
       ]
     },
@@ -1477,19 +1396,15 @@
           "image": "Xayah.png"
         }
       ],
-      "description": "Stargazers chart a different constellation every game. This game: The Fountain. Allies in empowered hexes gain 1 mana regen. Stargazers in empowered hexes gain more and heal the lowest Health ally with their abilities.",
+      "description": "スターゲイザーは試合ごとに異なる星座を描きます。今回の試合：泉。強化スロットの味方はマナ回復+1を獲得。強化スロットのスターゲイザーはさらに多くの効果を得て、スキル使用時に最も体力が低い味方を回復します。",
       "effects": [
         {
-          "count": "(3)\n3 mana regen, 10% ability damage heal",
-          "text": "(5)\n5 mana regen, 18% ability damage heal. More hexes reveal at each player level"
-        },
-        {
           "count": "(3)",
-          "text": "3 mana regen, 10% ability damage heal"
+          "text": "マナ回復 3、スキルダメージの10%分を回復"
         },
         {
           "count": "(5)",
-          "text": "5 mana regen, 18% ability damage heal. More hexes reveal at each player level"
+          "text": "マナ回復 5、スキルダメージの18%分を回復。レベルに応じてスロット増。"
         }
       ]
     },
@@ -1523,23 +1438,19 @@
           "image": "Xayah.png"
         }
       ],
-      "description": "Stargazers chart a different constellation every game. This game: The Huntress. Mark the highest Health enemies. Allies in empowered hexes gain 15% attack speed. Stargazers in empowered hexes gain more and heal for 10% of their max health when a marked enemy dies.",
+      "description": "スターゲイザーは試合ごとに異なる星座を描きます。今回の試合：狩人。最も体力の高い敵をマークします。強化スロットの味方は攻撃速度+15%を獲得。強化スロットのスターゲイザーはさらに多く獲得し、マークされた敵が死亡すると最大体力の10%を回復します。",
       "effects": [
         {
-          "count": "(3)\n30% attack speed, 3 marks",
-          "text": "(5)\n45% attack speed, 5 marks"
-        },
-        {
           "count": "(3)",
-          "text": "30% attack speed, 3 marks"
+          "text": "攻撃速度 30%、マーク 3体"
         },
         {
           "count": "(5)",
-          "text": "45% attack speed, 5 marks"
+          "text": "攻撃速度 45%、マーク 5体"
         },
         {
           "count": "(7)",
-          "text": "60% attack speed, 7 marks. More hexes reveal at each player level"
+          "text": "攻撃速度 60%、マーク 7体。レベルに応じてスロット増。"
         }
       ]
     },
@@ -1573,11 +1484,11 @@
           "image": "Xayah.png"
         }
       ],
-      "description": "Stargazers chart a different constellation every game. This game: The Medallion.",
+      "description": "スターゲイザーは試合ごとに異なる星座を描きます。今回の試合：メダリオン。",
       "effects": [
         {
           "count": "(3)",
-          "text": "Allies in empowered hexes gain 15% damage amp, which increases by 3% for each 3 star on your team. More hexes reveal at each player level"
+          "text": "強化スロットの味方はダメージ増幅15%を獲得し、チーム内の3つ星ユニット1体につきさらに3%増加します。レベルに応じてスロット増。"
         }
       ]
     },
@@ -1611,47 +1522,43 @@
           "image": "Xayah.png"
         }
       ],
-      "description": "Stargazers chart a different constellation every game. This game: The Mountain. Every 5 player combat, gain a Stargazer emblem. Stargazers in empowered hexes gain various bonuses.",
+      "description": "スターゲイザーは試合ごとに異なる星座を描きます。今回の試合：山。5ラウンドごとにスターゲイザーの紋章を獲得。強化スロットのスターゲイザーは様々なボーナスを獲得します。",
       "effects": [
         {
-          "count": "(3)\nGain 15% Health",
-          "text": "(4)\nAND 15% attack damage and ability power"
-        },
-        {
           "count": "(3)",
-          "text": "Gain 15% Health"
+          "text": "体力 +15%"
         },
         {
           "count": "(4)",
-          "text": "AND 15% attack damage and ability power"
+          "text": "さらに 攻撃力 & 魔力 +15%"
         },
         {
           "count": "(5)",
-          "text": "AND 15 armor and magic resist"
+          "text": "さらに 物理防御 & 魔法耐性 +15"
         },
         {
           "count": "(6)",
-          "text": "AND 15% attack speed"
+          "text": "さらに 攻撃速度 +15%"
         },
         {
           "count": "(7)",
-          "text": "AND 12% Durability"
+          "text": "さらに ダメージ軽減 12%"
         },
         {
           "count": "(8)",
-          "text": "AND increase all other bonuses by 20%"
+          "text": "さらに 他のすべてのボーナスが20%強化"
         },
         {
           "count": "(9)",
-          "text": "I can see the summit..."
+          "text": "山頂が見える..."
         },
         {
           "count": "(10)",
-          "text": "almost there..."
+          "text": "もうすぐだ..."
         },
         {
           "count": "(11)",
-          "text": "The stars beckon all enemies. More hexes reveal at each player level"
+          "text": "星々がすべての敵を招く。レベルに応じてスロット増。"
         }
       ]
     },
@@ -1685,23 +1592,19 @@
           "image": "Xayah.png"
         }
       ],
-      "description": "Stargazers chart a different constellation every game. This game: The Serpent. Allies in empowered hexes gain 8% Durability. Stargazers in empowered hexes gain more and poison enemies, repeating a portion of damage dealt as magic damage over 3 seconds.",
+      "description": "スターゲイザーは試合ごとに異なる星座を描きます。今回の試合：蛇。強化スロットの味方はダメージ軽減8%を獲得。強化スロットのスターゲイザーはさらに多く獲得し、敵に毒を付与して与えたダメージの一部を3秒間かけて魔法ダメージとして与えます。",
       "effects": [
         {
-          "count": "(3)\n15% DR, 30% poison damage",
-          "text": "(5)\n20% DR, 45% poison damage"
-        },
-        {
           "count": "(3)",
-          "text": "15% DR, 30% poison damage"
+          "text": "ダメージ軽減 15%、毒ダメージ 30%"
         },
         {
           "count": "(5)",
-          "text": "20% DR, 45% poison damage"
+          "text": "ダメージ軽減 20%、毒ダメージ 45%"
         },
         {
           "count": "(7)",
-          "text": "25% DR, 60% poison damage. More hexes reveal at each player level"
+          "text": "ダメージ軽減 25%、毒ダメージ 60%。レベルに応じてスロット増。"
         }
       ]
     },
@@ -1735,23 +1638,19 @@
           "image": "Blitzcrank.png"
         }
       ],
-      "description": "Vanguards gain 5% Durability while Shielded. Combat start and 50% Health: Gain a max Health Shield for 10 seconds.",
+      "description": "ヴァンガード：シールド展開中に5%のダメージ軽減を獲得します。戦闘開始時および体力が50%になった時、10秒間最大体力に応じたシールドを獲得します。",
       "effects": [
         {
-          "count": "(2)\n16% max Health",
-          "text": "(4)\n28% max Health"
-        },
-        {
           "count": "(2)",
-          "text": "16% max Health"
+          "text": "最大体力の16%"
         },
         {
           "count": "(4)",
-          "text": "28% max Health"
+          "text": "最大体力の28%"
         },
         {
           "count": "(6)",
-          "text": "40% max Health; 10% DR while Shielded"
+          "text": "最大体力の40%。シールド展開中のダメージ軽減が10%に上昇。"
         }
       ]
     },
@@ -1781,31 +1680,27 @@
           "image": "Karma.png"
         }
       ],
-      "description": "Combat Start: Your Tanks and Fighters gain a Shield for 15 seconds. Your other allies gain Damage Amp. Voyagers gain double.",
+      "description": "戦闘開始時：タンクとブローラーの味方は15秒間シールドを獲得します。その他の味方はダメージ増幅を獲得します。ボイジャーユニットは両方の効果を2倍で獲得します。",
       "effects": [
         {
-          "count": "(2)\n175 Shield; 9% DA",
-          "text": "(3)\n250 Shield; 15% DA"
-        },
-        {
           "count": "(2)",
-          "text": "175 Shield; 9% DA"
+          "text": "175 シールド、ダメージ増幅 9%"
         },
         {
           "count": "(3)",
-          "text": "250 Shield; 15% DA"
+          "text": "250 シールド、ダメージ増幅 15%"
         },
         {
           "count": "(4)",
-          "text": "350 Shield; 18% DA"
+          "text": "350 シールド、ダメージ増幅 18%"
         },
         {
           "count": "(5)",
-          "text": "500 Shield; 22% DA"
+          "text": "500 シールド、ダメージ増幅 22%"
         },
         {
           "count": "(6)",
-          "text": "700 Shield; 27% DA"
+          "text": "700 シールド、ダメージ増幅 27%"
         }
       ]
     },
@@ -1819,7 +1714,7 @@
           "image": "TahmKench.png"
         }
       ],
-      "description": "Every 3 rounds, Tahm Kench grants a reward!",
+      "description": "3ラウンドごとに、タム・ケンチが報酬を授けます！",
       "effects": []
     },
     {
@@ -1832,7 +1727,7 @@
           "image": "Shen.png"
         }
       ],
-      "description": "Summon a placeable relic. At the start of combat, it grants adjacent allies a 18% max Health shield and 20% Attack Speed.",
+      "description": "移動可能なアーティファクトを1つ召喚します。戦闘開始時、隣接する味方に最大体力の18%のシールドと20%の攻撃速度を付与します。",
       "effects": []
     },
     {
@@ -1845,7 +1740,7 @@
           "image": "Morgana.png"
         }
       ],
-      "description": "Allies take 5% less damage from abilities, increased to 10% while Morgana is in Dark Form.",
+      "description": "味方はスキルから受けるダメージを5%軽減します。モルガナがダーク形態の時は10%に増加します。",
       "effects": []
     },
     {
@@ -1858,7 +1753,7 @@
           "image": "Fiora.png"
         }
       ],
-      "description": "You heal for 15% of player damage you deal. Fiora always wins a one on one duel.",
+      "description": "プレイヤーに与えたダメージの15%分、自身を回復します。フィオラは1対1の決闘では常に勝利します。",
       "effects": []
     },
     {
@@ -1871,7 +1766,7 @@
           "image": "Vex.png"
         }
       ],
-      "description": "Combat Start: Mark all enemies with Doom. The first time enemies are damaged each combat, their Doom is consumed, stealing 8% Attack Damage and Ability Power from them and granting it to your strongest Vex.",
+      "description": "戦闘開始時：すべての敵に「破滅（Doom）」の印を付けます。各ラウンドで敵が初めてダメージを受けた際、「破滅」が消費され、その敵の攻撃力と魔力の8%を奪って最も強力なヴェックスに付与します。",
       "effects": []
     },
     {
@@ -1884,7 +1779,7 @@
           "image": "Jhin.png"
         }
       ],
-      "description": "Enemies have 14% less Armor and Magic Resist.",
+      "description": "敵の物理防御と魔法耐性を14%減少させます。",
       "effects": []
     },
     {
@@ -1897,7 +1792,7 @@
           "image": "Graves.png"
         }
       ],
-      "description": "After participating in combat, open an armory to purchase a permanent upgrade for your strongest Graves. Every 3 upgrades, future upgrades will take an additional round.",
+      "description": "戦闘参加後、武器庫を開いて最も強力なグレイブスに永続的なアップグレードを購入できます。3回アップグレードするごとに、次のアップグレードの準備に追加でもう1ラウンド必要になります。",
       "effects": []
     },
     {
@@ -1910,7 +1805,7 @@
           "image": "MissFortune.png"
         }
       ],
-      "description": "When you field Miss Fortune, choose between Channeler Mode, Challenger Mode, and Replicator Mode. Miss Fortune has a unique ability based on her mode and gains the associated trait.",
+      "description": "ミス・フォーチュンを配置する際、チャネラー・モード、チャレンジャー・モード、レプリケーター・モードから選択します。モードに応じて独自のスキルを持ち、関連する特性を獲得します。",
       "effects": []
     },
     {
@@ -1923,7 +1818,7 @@
           "image": "Blitzcrank.png"
         }
       ],
-      "description": "Once per combat, after falling below 45% percent Health, become untargetable and repair 15% max Health per second. Upon reaching full Health, or when no other allies remain, return to combat. If fully healed, for the rest of combat Blitzcrank is in The Groove and Party Crasher's passive fires bolts four times as fast.",
+      "description": "1戦闘につき1回、体力が45%未満になるとターゲット不可状態になり、毎秒最大体力の15%を修復します。全快するか、他に味方がいなくなると戦闘に復帰します。全快して復帰した場合、その戦闘の残り時間ブリッツクランクは「ザ・グルーヴ」状態になり、パッシブの電撃の発射速度が4倍になります。",
       "effects": []
     },
     {
@@ -1936,7 +1831,7 @@
           "image": "Rhaast.png"
         }
       ],
-      "description": "For each non-unique trait you have active, your team gains 2%/3%/4% Attack Speed, and 2/3/4 Armor and Magic Resist.",
+      "description": "固有特性（ユニーク）以外の発動している特性1つにつき、チーム全員が攻撃速度 2%/3%/4% と防御力 & 魔法耐性 2/3/4 を獲得します。",
       "effects": []
     }
   ],
@@ -1952,7 +1847,7 @@
       ],
       "status": "Aatrox",
       "mana": "30 / 90",
-      "description": "? ?, then deal ? ? physical damage to the current target. ?. ?: ? the battlefield, briefly knocking up all enemies and dealing ? ? physical damage."
+      "description": "? ?、その後現在のターゲットに ? ? の物理ダメージを与える。?。?: ? 戦場を、すべての敵をわずかにノックアップし、? ? の物理ダメージを与える。"
     },
     {
       "stt": 2,
@@ -1966,7 +1861,7 @@
       ],
       "status": "Briar",
       "mana": "0 / 40",
-      "description": "?: ? every ?% missing ?, gain ?% ? ? ?: ? ? physical damage to the target and ? ? if they're a tank."
+      "description": "?: ? 欠損 ?% ごとに、?% ? ? を獲得する。?: ターゲットに ? ? の物理ダメージを与え、相手がタンクの場合は ? ? する。"
     },
     {
       "stt": 3,
@@ -1979,7 +1874,7 @@
       ],
       "status": "Caitlyn",
       "mana": "",
-      "description": "?: ? have a ?% chance to fire an empowered ?, dealing ? ? physical damage. ?. ?: ? all enemies, increasing damage taken by ?%. ? first time marked targets drop below ?% ?, ? them for ? ? physical damage. ?: ? twice and take the better outcome."
+      "description": "?: ? ?% の確率で強化された ? を放ち、? ? の物理ダメージを与える。?。?: すべての敵をマークし、受けるダメージを ?% 増加させる。マークされたターゲットが初めて ?% ? を下回ったとき、? それらに ? ? の物理ダメージを与える。?: ? 2回実行し、より良い結果を選択する。"
     },
     {
       "stt": 4,
@@ -1992,7 +1887,7 @@
       ],
       "status": "Cho'Gath",
       "mana": "30 / 70",
-      "description": "? ? magic damage to the lowest ? enemy in range and permanently gain ? maximum ?. ? this kills them, devour them and permanently gain ? maximum ? instead. (?: +?)"
+      "description": "範囲内で最も ? が低い敵に ? ? の魔法ダメージを与え、永続的に ? ? 最大体力を獲得する。? このスキルで敵を倒した場合、それらを捕食し、代わりに永続的に ? ? 最大体力を獲得する。(?: +?)"
     },
     {
       "stt": 5,
@@ -2005,7 +1900,7 @@
       ],
       "status": "Ezreal",
       "mana": "0 / 30",
-      "description": "?: ? a blast at the current target that deals ? ? physical damage. ? takedowns, gain a drone that deals ? ? physical damage to the current target on cast. (?: ?)"
+      "description": "?: 現在のターゲットにエネルギーを放ち、? ? の物理ダメージを与える。? キルに関与したとき、ドローンを獲得し、スキルを使用するたびに現在のターゲットに ? ? の物理ダメージを与える。(?: ?)"
     },
     {
       "stt": 6,
@@ -2018,7 +1913,7 @@
       ],
       "status": "Leona",
       "mana": "40 / 100",
-      "description": "? ? ? for 4 seconds. ? the current target, dealing ? ? magic damage and stunning them for ? seconds."
+      "description": "4秒間 ? ? ? する。現在のターゲットを ? し、? ? の魔法ダメージを与え、? 秒間スタンさせる。"
     },
     {
       "stt": 7,
@@ -2032,7 +1927,7 @@
       ],
       "status": "Lissandra",
       "mana": "0 / 30",
-      "description": "? a dagger towards the current target, dealing ? ? magic damage to the first target it hits. ? hitting its initial target or at its final destination, the dagger explodes dealing ? ? magic damage to nearby targets."
+      "description": "現在のターゲットに向かって短剣を ? し、最初に命中したターゲットに ? ? の魔法ダメージを与える。? 最初のターゲットに命中した後、または射程の終端で爆発し、周囲の敵に ? ? の魔法ダメージを与える。"
     },
     {
       "stt": 8,
@@ -2045,7 +1940,7 @@
       ],
       "status": "Nasus",
       "mana": "60 / 120",
-      "description": "? for ? seconds, temporarily gaining ? max ? and dealing ? ? magic damage to adjacent enemies each second. ? transformed, ? is in ?."
+      "description": "? 秒間 ? し、一時的に ? ? の最大体力を獲得し、周囲の敵に毎秒 ? ? の魔法ダメージを与える。? 変身中、? は ? の状態になる。"
     },
     {
       "stt": 9,
@@ -2058,7 +1953,7 @@
       ],
       "status": "Poppy",
       "mana": "30 / 100",
-      "description": "? ? ? for ? seconds. ? the duration, allies within two hexes gain ? ? ? and ?. ?: ? grant ? ? ? to the nearest ? allies for ? seconds."
+      "description": "? 秒間 ? ? ? する。? 効果時間中、2マス以内の味方は ? ? ? と ? を獲得する。?: ? 秒間、最も近い ? 人の味方に ? ? ? を付与する。"
     },
     {
       "stt": 10,
@@ -2071,7 +1966,7 @@
       ],
       "status": "Rek'Sai",
       "mana": "50 / 110",
-      "description": "? ?, then briefly knock up adjacent enemies and deal ? ? magic damage."
+      "description": "? ?、その後周囲の敵をノックアップし、? ? の魔法ダメージを与える。"
     },
     {
       "stt": 11,
@@ -2084,7 +1979,7 @@
       ],
       "status": "Talon",
       "mana": "0 / 30",
-      "description": "? the target, causing them to bleed for ? ? physical damage over ? seconds. ? the attack, leap to the highest percent ? enemy within ? hexes."
+      "description": "ターゲットを ? し、? 秒間 ? ? の物理ダメージを与える出血状態にする。? 攻撃後、? マス以内にいる最も ? の割合が高い敵の元へ跳ぶ。"
     },
     {
       "stt": 12,
@@ -2097,7 +1992,7 @@
       ],
       "status": "Teemo",
       "mana": "0 / 50",
-      "description": "?: ? deal ? ? bonus magic damage and an additional ? ? stacking magic damage over ? seconds. ? an enemy has ? or more stacks, ? is in ?. ?: ?% ? for ? attacks."
+      "description": "?: ? が ? ? の追加魔法ダメージを与え、? 秒間 ? ? の魔法ダメージをスタックさせる。? 敵のスタックが ? 以上になったとき、? は ? の状態になる。?: ? 回の攻撃の間、?% ? する。"
     },
     {
       "stt": 13,
@@ -2110,7 +2005,7 @@
       ],
       "status": "Twisted Fate",
       "mana": "0 / 50",
-      "description": "? a card with a value between 1 and 9 by chance, then throw it at the target. ? on the card drawn, deal between ? ? and ? ? magic damage. ? damage bounces to the nearest enemy. ?: ? twice and take the better outcome."
+      "description": "1から9までのランダムな数値を持つカードを ? し、ターゲットに投げる。? 引いたカードに応じて、? ? から ? ? の魔法ダメージを与える。? ダメージは最も近い敵に跳ね返る。?: ? 2回実行し、より良い結果を選択する。"
     },
     {
       "stt": 14,
@@ -2123,7 +2018,7 @@
       ],
       "status": "Veigar",
       "mana": "10 / 50",
-      "description": "? down a ? on the target that deals ? ? magic damage. ?: ? additional ? mini ? are called down on nearby targets dealing ? ? magic damage each."
+      "description": "ターゲットに ? を落とし、? ? の魔法ダメージを与える。?: 周囲のターゲットに追加で ? 個の小さな ? を落とし、それぞれ ? ? の魔法ダメージを与える。"
     },
     {
       "stt": 15,
@@ -2136,7 +2031,7 @@
       ],
       "status": "Akali",
       "mana": "0 / 30",
-      "description": "? next to the target to strike the most enemies. ? throw ? piercing kunai, each dealing ? ? physical damage to the first enemy hit, reduced to ? ? for subsequent targets. ? remove ?, increased to ? if they crit. ?. ?: ? all enemies, applying ? and a bleed that deals ? ? physical damage each second for the rest of combat. ? increase the damage of the bleed by ?%."
+      "description": "最も多くの敵を攻撃できるよう、ターゲットの隣に ? する。? 本のクナイを投げ、最初に命中した敵に ? ? の物理ダメージを与え、後続のターゲットには ? ? に減少する。? ? を取り除き、クリティカルの場合は ? に増加する。?。?: すべての敵をマークし、? と、試合終了まで毎秒 ? ? の物理ダメージを与える出血効果を適用する。? 出血ダメージを ?% 増加させる。"
     },
     {
       "stt": 16,
@@ -2150,7 +2045,7 @@
       ],
       "status": "Bel'Veth",
       "mana": "0 / 50",
-      "description": "? a flurry of ? ? slashes at the current target over ? seconds, dealing ? ? physical damage each."
+      "description": "? 秒間、現在のターゲットに ? ? 回の連続攻撃を繰り出し、一撃ごとに ? ? の物理ダメージを与える。"
     },
     {
       "stt": 17,
@@ -2163,7 +2058,7 @@
       ],
       "status": "Gnar",
       "mana": "0 / 5",
-      "description": "?: ? 5th attack, launch a returning boomerang at the target that travels two hexes past the first enemy it hits. ? deals ? ? physical damage, reduced by ?% per hit. ?: ? attack alongside ?, dealing ? ? physical damage per second."
+      "description": "?: ? 5回目の攻撃ごとに、現在のターゲットに向かってブーメランを投げ、最初の敵を貫通してさらに2マス飛ぶ。? ? ? の物理ダメージを与え、貫通するたびに ?% 減少する。?: ? と一緒に攻撃し、毎秒 ? ? の物理ダメージを与える。"
     },
     {
       "stt": 18,
@@ -2176,7 +2071,7 @@
       ],
       "status": "Gragas",
       "mana": "30 / 80",
-      "description": "? ? over ? seconds. ?, deal ? ? magic damage to adjacent enemies and ? them for ? seconds. ?: ? ? by 30%"
+      "description": "? 秒間 ? ? する。? 周囲の敵に ? ? の魔法ダメージを与え、? 秒間 ? する。?: ? ? がさらに30%増加する。"
     },
     {
       "stt": 19,
@@ -2189,7 +2084,7 @@
       ],
       "status": "Gwen",
       "mana": "0 / 30",
-      "description": "?: ? deal magic damage. ? is in ? while targeting an enemy below ?% ?. ?: ? to a nearby hex to snip the lowest percent ? enemy, dealing ? ? magic damage to the target and ? ? magic damage to enemies in a cone. ? this kills, dash and snip again at ?% damage!"
+      "description": "?: ? 魔法ダメージを与える。?% ? 以下の敵を狙うとき、? は ? の状態になる。?: 近くのマスへ ? し、最も ? の割合が低い敵を切り刻み、ターゲットに ? ? の魔法ダメージを与え、扇状の範囲内の敵に ? ? の魔法ダメージを与える。? 敵を倒した場合、ダッシュして再度 ?% のダメージで切り刻む！"
     },
     {
       "stt": 20,
@@ -2202,7 +2097,7 @@
       ],
       "status": "Jax",
       "mana": "10 / 70",
-      "description": "? a defensive stance for ? seconds, reducing incoming damage by ? ? and gaining ? ? ?. ? the stance ends, strike all nearby enemies, dealing ? ? magic damage and ? them for ? second(s)."
+      "description": "? 秒間防御態勢に入り、受けるダメージを ? ? 軽減し、? ? ? を獲得する。? 防御態勢が終了したとき、周囲のすべての敵を攻撃し、? ? の魔法ダメージを与え、? 秒間 ? させる。"
     },
     {
       "stt": 21,
@@ -2215,7 +2110,7 @@
       ],
       "status": "Jinx",
       "mana": "20 / 80",
-      "description": "? a barrage of ? ? bullets in a cone, each dealing ? ? physical damage to the first target hit."
+      "description": "扇状の範囲に ? ? 発の弾丸を連射し、それぞれの弾丸が最初に命中したターゲットに ? ? の物理ダメージを与える。"
     },
     {
       "stt": 22,
@@ -2229,7 +2124,7 @@
       ],
       "status": "Meepsie",
       "mana": "50 / 100",
-      "description": "? ? ? over ? seconds. ? the target, dealing ? ? magic damage and knocking up for ? seconds. ? impact creates meepwaves that deal ?% of these effects in the target's row. ?: ? water ?'s flower, increasing all incoming ? and ? by ?."
+      "description": "? 秒間 ? ? ? する。ターゲットを ? し、? ? の魔法ダメージを与え、? 秒間ノックアップさせる。? 衝撃によりミープの波が発生し、ターゲットと同じ列にいる敵にこの効果の ?% を与える。?: ? の ? 水を ? し、すべての ? と受ける ? を ? 増加させる。"
     },
     {
       "stt": 23,
@@ -2242,7 +2137,7 @@
       ],
       "status": "Milio",
       "mana": "0 / 30",
-      "description": "? a ball at an enemy that deals ? ? magic damage. ? impact, the ball has a 100% chance to bounce to a new target dealing ? ? magic damage. ? bounces can trigger additional bounces, but the odds halve with each bounce. ?: ? twice and take the better outcome."
+      "description": "敵にボールを ? し、? ? の魔法ダメージを与える。? 命中時、ボールは100%の確率で新しいターゲットに跳ね返り、? ? の魔法ダメージを与える。? 跳ね返りはさらに連鎖する可能性があるが、跳ね返るたびに確率は半分に減少する。?: ? 2回実行し、より良い結果を選択する。"
     },
     {
       "stt": 24,
@@ -2256,7 +2151,7 @@
       ],
       "status": "Mordekaiser",
       "mana": "20 / 80",
-      "description": "? ? shield. ? second for the next ? seconds, gain ? ? more shield and deal ? ? magic damage to adjacent enemies. ? this ability ends, consume the remaining ? and heal for ?% of its value."
+      "description": "? ? シールドを獲得する。? 次の ? 秒間、毎秒追加の ? ? シールドを獲得し、周囲の敵に ? ? の魔法ダメージを与える。? スキル終了時、残っている ? を消費し、その値の ?% 分体力を回復する。"
     },
     {
       "stt": 25,
@@ -2270,7 +2165,7 @@
       ],
       "status": "Pantheon",
       "mana": "20 / 80",
-      "description": "? ? ? and ?% ? for ? seconds. ? the duration, deal ? ? physical damage each second to enemies in a cone."
+      "description": "? 秒間 ? ? ? と ?% ? を獲得する。? 効果時間中、扇状の範囲内の敵に毎秒 ? ? の物理ダメージを与える。"
     },
     {
       "stt": 26,
@@ -2283,7 +2178,7 @@
       ],
       "status": "Pyke",
       "mana": "0 / 40",
-      "description": "? up to one hex to throw a harpoon at the furthest enemy. ? harpoon pulls the first enemy hit one hex forward and deals ? ? physical damage. ?, teleport behind them and cleave, dealing ? ? physical damage to them and ? ? physical damage to nearby enemies."
+      "description": "最も遠い敵にハープーンを投げるため、最大1マスまで ? する。? ハープーンは最初に命中した敵を1マス引き寄せ、? ? の物理ダメージを与える。? その後、敵の背後にテレポートして切り裂き、その敵に ? ? 、周囲の敵に ? ? の物理ダメージを与える。"
     },
     {
       "stt": 27,
@@ -2296,7 +2191,7 @@
       ],
       "status": "Zoe",
       "mana": "0 / 50",
-      "description": "? a paddle star at the current target, dealing ? ? magic damage to the first target hit and ? ? to others it passes through. ? the missile reaches its destination, redirect it to a distant enemy, increasing its speed and repeating the damage. ? redirect can occur ? times."
+      "description": "現在のターゲットにパドルスターを ? し、最初に命中したターゲットに ? ? 、貫通した他の敵に ? ? の魔法ダメージを与える。? 星が終端に達したとき、遠くの敵に向かって方向転換し、速度を上げてダメージを繰り返す。? 方向転換は ? 回まで発生する可能性がある。"
     },
     {
       "stt": 28,
@@ -2309,7 +2204,7 @@
       ],
       "status": "Aurora",
       "mana": "20 / 80",
-      "description": "? a ? hex rift containing the target, ? enemies within for ? seconds and dealing ? ? magic damage to each, plus ? ? magic damage split between all enemies hit. ? enemies store ?% of all damage they take. ? the ? ends, they take true damage equal to the stored damage. ? ends early if it would kill the target."
+      "description": "ターゲットの周囲に六角形の亀裂を ? し、? 秒間中の敵を ? させ、それぞれに ? ? の魔法ダメージを与え、命中したすべての敵に均等に分配される ? ? の追加魔法ダメージを与える。? 敵は受けるすべてのダメージの ?% を蓄積する。? 亀裂の ? が終了したとき、蓄積されたダメージに等しい確定ダメージを受ける。? このダメージでターゲットを倒せる場合、早期に終了する。"
     },
     {
       "stt": 29,
@@ -2322,7 +2217,7 @@
       ],
       "status": "Diana",
       "mana": "0 / 50",
-      "description": "?: ? deal ? ? bonus magic damage. ?: ? ? ? and summon 3 encircling orbs for ? seconds. ? deal ? ? magic damage to enemies they pass through, and rotate faster based on ?."
+      "description": "?: ? 追加で ? ? の魔法ダメージを与える。?: ? ? ? し、? 秒間周囲を回る3つのオーブを召喚する。? 通過した敵に ? ? の魔法ダメージを与え、? に応じて回転が速くなる。"
     },
     {
       "stt": 30,
@@ -2335,7 +2230,7 @@
       ],
       "status": "Fizz",
       "mana": "0 / 20",
-      "description": "? through the current target, dealing ? ? magic damage. ? third cast also summons a ? after a delay, briefly knocking the target up and dealing ? ? magic damage in a one-hex radius, reduced by ?% per hex from the center. ?: ? ? to the bait, increasing ? damage by ?."
+      "description": "現在のターゲットを貫通して ? し、? ? の魔法ダメージを与える。? 3回目のスキル使用ごとに、一定時間後に ? を召喚し、ターゲットをわずかにノックアップさせ、1マス以内の敵に ? ? の魔法ダメージを与える（中心から離れるほど ?% 減少）。?: ? デコイに ? し、? のダメージを ? に増加させる。"
     },
     {
       "stt": 31,
@@ -2349,7 +2244,7 @@
       ],
       "status": "Illaoi",
       "mana": "40 / 100",
-      "description": "? ? ? for ? seconds. ? the duration, drain ? ? ? from the nearest ? enemies. ? slam down, dealing ? ? magic damage to all enemies within 2 hexes."
+      "description": "? 秒間 ? ? ? する。? 効果時間中、最も近い ? 人の敵から ? ? ? を吸収する。? 地面を叩きつけ、2マス以内のすべての敵に ? ? の魔法ダメージを与える。"
     },
     {
       "stt": 32,
@@ -2362,7 +2257,7 @@
       ],
       "status": "Kai'Sa",
       "mana": "0 / 50",
-      "description": "?: ? takedown, gain ? mana. ?: ? missiles in a ?-hex radius around the current target, dealing ? ? physical damage each."
+      "description": "?: ? キルに関与したとき、? マナを獲得する。?: 現在のターゲットから ? マス以内の範囲にミサイルを連射し、1発ごとに ? ? の物理ダメージを与える。"
     },
     {
       "stt": 33,
@@ -2375,7 +2270,7 @@
       ],
       "status": "Lulu",
       "mana": "0 / 60",
-      "description": "?: ?'s spell gains a different secondary effect each game. ?: ? down something from the sky, dealing ? ? magic damage to ? nearby enemies and do some special effect based on this game's ?."
+      "description": "?: ? のスキルの ? は、試合ごとに異なる副次効果を持つ。?: 空から何かを ? し、近くの ? 人の敵に ? ? の魔法ダメージを与え、現在の試合の ? に基づいた特別な効果を発生させる。"
     },
     {
       "stt": 34,
@@ -2388,7 +2283,7 @@
       ],
       "status": "Maokai",
       "mana": "30 / 100",
-      "description": "?: ?% more max ? from all sources. ?: ? an ?-shape of vines on the target, dealing ? ? magic damage to each enemy hit and ? them for ? seconds. ?. ?: ? forth a wave of dragons that stun all enemies for ? seconds. ? the rest of combat, ?'s attacks deal ? ? bonus physical damage."
+      "description": "?: あらゆるソースからの最大 ?% 体力を追加で ? する。?: ターゲットに ? 状の蔓の範囲を ? し、命中した敵に ? ? の魔法ダメージを与え、? 秒間 ? させる。?。?: すべての敵を ? 秒間スタンさせるドラゴンの波を放つ。? 試合の残りの間、? の攻撃は追加で ? ? の物理ダメージを与える。"
     },
     {
       "stt": 35,
@@ -2415,7 +2310,7 @@
       ],
       "status": "Ornn",
       "mana": "40 / 100",
-      "description": "?: ? combat start, forge a temporary completed item. ? 3 items are already equipped, a random completed item becomes ? for the rest of combat instead. ?: ? ? ? for ? seconds. ? breath fire in a cone, dealing ? ? magic damage. ? any ? on ? expires, ? enters ? for ? seconds."
+      "description": "?: ? 戦闘開始時、一時的な完成アイテムを鍛造する。? すでに3つの装備がある場合、ランダムな完成アイテムがその戦闘の間 ? になる。?: ? 秒間 ? ? ? する。? 扇状に炎を吹き、? ? の魔法ダメージを与える。? いずれかの ? が ? 切れたとき、? 秒間 ? 状態にする。"
     },
     {
       "stt": 37,
@@ -2427,7 +2322,7 @@
       ],
       "status": "Rhaast",
       "mana": "30 / 90",
-      "description": "?% ? for ? seconds, healing ? ? over the duration. ?, slash forward in a line, dealing ? ? physical damage to enemies hit and knocking them up for ? second."
+      "description": "? 秒間 ?% ? し、効果時間中に ? ? 回復する。? その後、前方へ直線状に切り裂き、命中した敵に ? ? の物理ダメージを与え、? 秒間ノックアップさせる。"
     },
     {
       "stt": 38,
@@ -2440,7 +2335,7 @@
       ],
       "status": "Samira",
       "mana": "0 / 60",
-      "description": "?: ? an enemy is knocked up, shoot them, dealing ? ? physical damage and entering ? for ? seconds. ?: ? a volley of bullets at the target, dealing ? ? physical damage and knocking up for ? seconds."
+      "description": "?: ? 敵がノックアップされたとき、それらを撃ち、? ? の物理ダメージと ? 秒間の ? 状態を与える。?: ターゲットに弾丸を連射し、? ? の物理ダメージを与え、? 秒間ノックアップさせる。"
     },
     {
       "stt": 39,
@@ -2454,7 +2349,7 @@
       ],
       "status": "Urgot",
       "mana": "0 / 50",
-      "description": "? - ?: ? an enemy enters a ? ? hex radius, fire a blast in a cone towards the closest adjacent hex that deals ? ? physical damage with ?% falloff per hex. ? adjacent hex has a ? second cooldown. ?: ? ? ? for ? seconds and dash behind the current target. ? ?'s cooldowns."
+      "description": "? - ?: ? 敵が ? ? マスの射程内に入ったとき、最も近い隣接するマスに向かって扇状にエネルギーを放ち、1マスごとに ?% 減衰する ? ? の物理ダメージを与える。? 隣接するマスには ? 秒のクールダウンがある。?: ? 秒間 ? ? ? を獲得し、現在のターゲットの背後へダッシュする。? ? のすべてのスキルをリセットする。"
     },
     {
       "stt": 40,
@@ -2467,7 +2362,7 @@
       ],
       "status": "Viktor",
       "mana": "20 / 80",
-      "description": "? a one-hex psionic storm that follows enemies for ? seconds. ? second, it grows larger and deals ? ? magic damage to enemies within, reduced by ?% per hex from the epicenter."
+      "description": "? 敵を追尾する1マスの幅のサイキックストームを ? 秒間発生させる。? 毎秒ストームは大きくなり、中の敵に ? ? の魔法ダメージを与える（中心から離れるほど ?% 減少）。"
     },
     {
       "stt": 41,
@@ -2480,7 +2375,7 @@
       ],
       "status": "Aurelion Sol",
       "mana": "15 / 75",
-      "description": "? a deathbeam in a line towards the current target for ? seconds. ? deals ? ? magic damage per second, reduced by ?% per enemy it passes through. ? ignores ?% of the enemy's ?."
+      "description": "現在のターゲットに向かって直線状に ? 秒間死の光線を放つ。? 毎秒 ? ? の魔法ダメージを与え、敵を貫通するたびに ?% 減少する。? 敵の ?% ? を無視する。"
     },
     {
       "stt": 42,
@@ -2493,7 +2388,7 @@
       ],
       "status": "Corki",
       "mana": "0 / 60",
-      "description": "? to a nearby position, unleashing ? missiles split between the target and all enemies within two hexes. ? deal ? ? physical damage with a ?% chance of firing a mega missile that deals ? ? instead. ?: ? seconds, launch an ? at the target, dealing ? ? physical damage in a one hex radius on impact. ?: ? twice and take the better outcome."
+      "description": "近くの地点へ ? し、ターゲットおよび2マス以内のすべての敵に均等に分配される ? 発のミサイルを発射する。? ? ? の物理ダメージを与え、?% の確率で代わりに ? ? のダメージを与える巨大ミサイルを発射する。?: ? 秒、ターゲットに ? を発射し、命中時に1マスの範囲に ? ? の物理ダメージを与える。?: ? 2回実行し、より良い結果を選択する。"
     },
     {
       "stt": 43,
@@ -2506,7 +2401,7 @@
       ],
       "status": "Karma",
       "mana": "10 / 50",
-      "description": "? the force of a black hole, dealing ? ? magic damage split between the target and the ? closest enemies to them. ? target takes an additional ? ? magic damage."
+      "description": "ブラックホールの力を ? し、ターゲットとその周囲の最も近い ? 人の敵に均等に分配される ? ? の魔法ダメージを与える。? メインターゲットは追加で ? ? の魔法ダメージを受ける。"
     },
     {
       "stt": 44,
@@ -2519,7 +2414,7 @@
       ],
       "status": "Kindred",
       "mana": "0 / 40",
-      "description": "?: ? and ? mark the target. ? an enemy reaches ? marks, ? consumes the marks, dealing ? ? physical damage. ?: ? up to ? hex away and fire arrows at the nearest ? targets, each dealing ? ? physical damage. ?. ?: ?% ?. ? and every ? seconds after, add a mark to all enemies."
+      "description": "?: ? と ? がターゲットをマークする。? 敵が ? 個のマークに達したとき、? はマークを消費し、? ? の物理ダメージを与える。?: 最大 ? マスまで ? し、最も近い ? 人のターゲットに矢を放ち、それぞれに ? ? の物理ダメージを与える。?。?: ?% ? 。? およびその後 ? 秒ごとに、すべての敵にマークを追加する。"
     },
     {
       "stt": 45,
@@ -2532,7 +2427,7 @@
       ],
       "status": "LeBlanc",
       "mana": "0 / 40",
-      "description": "?: ? deal ? ? magic damage instead. ?: ? clones that attack alongside ? for ? attacks, dealing ?% damage. ? their final attack, clones fire a bolt that deals ? ? magic damage."
+      "description": "?: ? 代わりに ? ? の魔法ダメージを与える。?: ? 分身を召喚し、? 回の攻撃の間 ? と共に攻撃させ、?% のダメージを与える。? それらの最後の攻撃で、分身はエネルギーを放ち、? ? の魔法ダメージを与える。"
     },
     {
       "stt": 46,
@@ -2545,7 +2440,7 @@
       ],
       "status": "Master Yi",
       "mana": "30 / 70",
-      "description": "?: ? third attack strikes an additional time for ? ? bonus physical damage. ?: ? brief meditation, enter a ?-? for ? seconds, gaining ?% ?, ?% ?, and increased movement speed. ? a second, fire a psychic projection at a random nearby enemy that deals ? ? physical damage."
+      "description": "?: ? 3回目の攻撃ごとに追加で攻撃し、さらに ? ? の物理ダメージを与える。?: 短い瞑想を行い、? 秒間 ?-? 状態に入り、?% ? 、?% ? を獲得し、移動速度が増加する。? 毎秒、近くのランダムな敵にサイキックエネルギーを放ち、 ? ? の物理ダメージを与える。"
     },
     {
       "stt": 47,
@@ -2558,7 +2453,7 @@
       ],
       "status": "Nami",
       "mana": "30 / 85",
-      "description": "? a disco bubble at the target that deals ? ? split between enemies in a one hex radius. ? explosion sends ? globs towards nearby enemies that deal ? ? magic damage. ? cast, ? enters ? for ? seconds."
+      "description": "まだ持っていない最も近いターゲットにディスコバブルを ? し、1マスの範囲の敵に均等に分配される ? ? のダメージを与える。? 爆発により近くの敵に向かって ? 個のオーブが放たれ、それぞれ ? ? の魔法ダメージを与える。? スキル使用後、? 秒間 ? 状態になる。"
     },
     {
       "stt": 48,
@@ -2571,7 +2466,7 @@
       ],
       "status": "Nunu",
       "mana": "45 / 155",
-      "description": "? ? ? for ? seconds. ? an astrolabe to crash down on the most enemies within 2 hexes, dealing ? ? magic damage. ?, ? pushes the astrolabe towards the end of the board, dealing ? ? magic damage. ? enemies hit by the astrolabe are knocked up for ? seconds."
+      "description": "? 秒間 ? ? ? する。2マス以内の最も敵が密集している場所へ天球を ? させ、? ? の魔法ダメージを与える。? その後、? は天球をフィールドの端まで押し出し、? ? の魔法ダメージを与える。? 天球に当たった敵は ? 秒間ノックアップされる。"
     },
     {
       "stt": 49,
@@ -2584,7 +2479,7 @@
       ],
       "status": "Rammus",
       "mana": "30 / 100",
-      "description": "? ? shield for ? seconds. ?, strike the most enemies in a three hex line, dealing ? ? magic damage. ?: ? the damage of incoming attacks by ?. ? being attacked ? times, deal ? ? magic damage in a two hex radius."
+      "description": "? 秒間 ? ? シールドを獲得する。? 直線3マスの範囲で最も多くの敵を攻撃し、? ? の魔法ダメージを与える。?: 通常攻撃から受けるダメージを ? 軽減する。? ? 回攻撃を受けた後、2マスの範囲に ? ? の魔法ダメージを与える。"
     },
     {
       "stt": 50,
@@ -2597,7 +2492,7 @@
       ],
       "status": "Riven",
       "mana": "0 / 20",
-      "description": "?: ? adapts to ?'s ? or ?, whichever is higher. ? deal ? (?/?) damage. ?: ? to a nearby hex, gaining ? for ? seconds and slashing adjacent enemies for ? (?/?) damage. ? third cast, leap into the air and launch a wave of energy that deals ? (?/?) damage."
+      "description": "?: ? の ? または ? の高い方に適応する。? ? (?/?) のダメージを与える。?: 近くのマスへ ? し、? 秒間 ? を獲得し、周囲の敵を切り裂いて ? (?/?) のダメージを与える。? 3回目のスキル使用時、空中へ跳び上がり、? (?/?) のダメージを与えるエネルギー波を放つ。"
     },
     {
       "stt": 51,
@@ -2610,7 +2505,7 @@
       ],
       "status": "Tahm Kench",
       "mana": "50 / 120",
-      "description": "?: ? per combat after dropping below ?% ?, gain ? for ? seconds equal to ?% of healing received this combat. ?: ? ?, then tongue lash all enemies within two hexes dealing ? ? magic damage."
+      "description": "?: 体力が ?% ? を下回った後、この戦闘で受けた回復量の ?% に等しい ? を ? 秒間獲得する。?: ? ? し、その後2マス以内のすべての敵を舌で叩き、? ? の魔法ダメージを与える。"
     },
     {
       "stt": 52,
@@ -2623,7 +2518,7 @@
       ],
       "status": "The Mighty Mech",
       "mana": "40 / 100",
-      "description": "? a defensive stance for ? seconds gaining ?% ?. ? in the defensive stance, attract nearby enemy projectiles and heal ? ? over the duration. ? this ends, release a shockwave that deals ? ? as physical damage in a ?-hex range."
+      "description": "? 秒間防御態勢に入り、?% ? を獲得する。? 防御態勢の間、近くの敵の攻撃を引き付け、効果時間中に ? ? 回復する。? 終了時、電気ショックを放ち、?-マス以内の範囲に ? ? の物理ダメージを与える。"
     },
     {
       "stt": 53,
@@ -2636,7 +2531,7 @@
       ],
       "status": "Xayah",
       "mana": "0 / 50",
-      "description": "?: ? bounce to strike ? times, dealing ?% reduced damage per target hit and leaving a ? behind the final target. ?: ?% ? for ? seconds. ? the end, recall all ? split between the closest ? enemies, dealing ? ? physical damage each."
+      "description": "?: ? は ? 回跳ね返り、ターゲットごとにダメージが ?% 減少し、最後のターゲットの背後に ? を残す。?: ? 秒間 ?% ? を獲得する。? 終了時、すべての ? を回収し、最も近い ? 人の敵に均等に分配し、1つにつき ? ? の物理ダメージを与える。"
     },
     {
       "stt": 54,
@@ -2649,7 +2544,7 @@
       ],
       "status": "Bard",
       "mana": "0 / 70",
-      "description": "? a flying saucer over the current target that lasts ? seconds. ? second it deals ? ? magic damage to the target, plus ? ? magic damage split between all enemies within ? hex. ? saucer deals ?% increased damage to ?. ? an enemy under the ? dies, ? has a ?% chance to abduct them and create a 1-star copy on your bench. ? bonus: ? combat start, grant the nearest ? an additional ?. ? abducted: ?"
+      "description": "現在のターゲットの上に ? 秒間続くUFOを ? する。? 毎秒、ターゲットに ? ? 、さらに ? マスの範囲のすべての敵に均等に分配される ? ? の魔法ダメージを与える。? UFOは ? に対して ?% の増加ダメージを与える。? もし ? 以下の敵が死亡した場合、? ?% の確率でそれらを誘拐し、ベンチに1星のコピーを作成する。? ボーナス: ? 戦闘開始時、最も近い ? に追加の ? を付与する。? 誘拐済み: ?"
     },
     {
       "stt": 55,
@@ -2663,7 +2558,7 @@
       ],
       "status": "Blitzcrank",
       "mana": "10 / 90",
-      "description": "?: ? seconds, call down a bolt on the highest ? nearby enemy that deals ? ? magic damage. ?: ? a disco ball at the largest clump of enemies, then uppercut the current target dealing ? ? magic damage and knocking up. ? crash down into the disco ball dealing ? ? magic damage in a three hex radius. ? ? for ? second per enemy hit."
+      "description": "?: ? 秒、最も近い ? 敵に落雷を浴びせ、? ? の魔法ダメージを与える。?: 最も密集している敵のグループにディスコボールを ? し、現在のターゲットにアッパーカットを浴びせて ? ? の魔法ダメージを与え、ノックアップさせる。? ディスコボールが落下し、3マスの範囲に ? ? の魔法ダメージを与える。命中した敵1体につき ? 秒間 ? する。"
     },
     {
       "stt": 56,
@@ -2677,7 +2572,7 @@
       ],
       "status": "Fiora",
       "mana": "10 / 80",
-      "description": "?: ? attacks, reveal a ? on the target. ? a ? exists, dash to attack it dealing ? ? bonus true damage and heal for ?% of the damage dealt. ?: ? ? on the target and quickly attack them all. ? the target dies, remaining ? transfer to the nearest enemy. ? striking the final ?, create a two hex aura that heals allies within for ? ? over ? seconds."
+      "description": "?: ? 攻撃ごとに、ターゲットに ? を露呈させる。? ? が存在するとき、それを攻撃するためにダッシュし、追加で ? ? の確定ダメージを与え、与えたダメージの ?% 回復する。?: ターゲットに ? を付与し、それらすべてを素早く攻撃する。? ターゲットが死亡した場合、残りの ? は最も近い敵に移る。? 最後の ? を攻撃したとき、2マスのオーラを生成し、中の味方を ? 秒間、? ? 回復させる。"
     },
     {
       "stt": 57,
@@ -2689,7 +2584,7 @@
       ],
       "status": "Graves",
       "mana": "0 / 60",
-      "description": "?: ? fire ? projectiles in a cone that deal ? physical damage each. ?: ? an explosive shell that deals ? ? physical damage to the target, and ? ? physical damage to all enemies in a one hex radius."
+      "description": "?: ? 扇状の範囲に ? 発の弾丸を発射し、1発につき ? 物理ダメージを与える。?: ターゲットに爆発弾を放ち、? ? の物理ダメージを与え、1マスの範囲のすべての敵に ? ? の物理ダメージを与える。"
     },
     {
       "stt": 58,
@@ -2703,7 +2598,7 @@
       ],
       "status": "Jhin",
       "mana": "0 / 44",
-      "description": "?: ? has a fixed attack speed of ? and converts every ?% of bonus ? into ? bonus ?. ?: ? spectral hands that fire alongside ? for the next ? attacks. ? hand deals ? ? physical damage per shot and removes ?. ? final shots deal ?% more damage and pierce through the most enemies in a line, dealing ?% reduced damage per target hit."
+      "description": "?: ? は ? の固定攻撃速度を持ち、?% の追加 ? を ? ? に変換する。?: 次の ? 回の攻撃の間、幽霊のような手が ? と共に射撃する。? 手は1発につき ? ? の物理ダメージを与え、? を取り除く。? 最後の射撃は ?% の追加ダメージを与え、直線上の最も多くの敵を貫通し、命中するたびにダメージが ?% 減少する。"
     },
     {
       "stt": 59,
@@ -2715,7 +2610,7 @@
       ],
       "status": "Morgana",
       "mana": "20 / 60",
-      "description": "? into ? for ? seconds, gaining ? ? ? for the duration. ? in ?, tether the ? nearest enemies, dealing ? ? magic damage per second to each one and healing for ?% of damage dealt. ? the end of the transformation, deal ? ? to all tethered enemies."
+      "description": "? 秒間 ? に ? し、効果時間中に ? ? ? を獲得する。? ? 状態の間、最も近い ? 人の敵を束縛し、それぞれに毎秒 ? ? の魔法ダメージを与え、与えたダメージの ?% 回復する。? 変身の終了時、束縛されたすべての敵に ? ? を与える。"
     },
     {
       "stt": 60,
@@ -2728,7 +2623,7 @@
       ],
       "status": "Shen",
       "mana": "10 / 70",
-      "description": "?: ? cast, attacks gain ? ? stacking bonus magic damage. ? from the third cast, gain true damage instead. ?: ? ? ? for ? seconds, then slice open a rift on the largest group of champions dealing the ?'s bonus damage to all enemies within. ? have their ? slowed by ?% while allies within gain ?% ?, both rapidly decaying over ? seconds."
+      "description": "?: ? スキルを使用するたびに、攻撃に追加の ? ? 魔法ダメージがスタックする。? 3回目のスキル使用からは、代わりに確定ダメージを得る。?: ? 秒間 ? ? ? し、最も密集している敵のグループに裂け目を切り開き、? のボーナスダメージを中のすべての敵に与える。? は ? が ?% 低下し、中の味方は ?% ? を獲得するが、どちらも ? 秒かけて急速に減衰する。"
     },
     {
       "stt": 61,
@@ -2742,7 +2637,7 @@
       ],
       "status": "Sona",
       "mana": "0 / 25",
-      "description": "? a chunk of magnetic debris at the nearest target without one, dealing ? ? magic damage and sticking it to them. ? an enemy with debris dies, it passes to the nearest enemy without one. ? casts, instead rip off all debris dealing ? ? magic damage, then crush all the debris onto the target, dealing ? ? magic damage and briefly stunning them."
+      "description": "まだ持っていない最も近いターゲットに磁気破片を ? し、? ? の魔法ダメージを与えて付着させる。? 破片を持った敵が死亡した場合、まだ持っていない最も近い敵に移動する。? スキル使用時、代わりにすべての破片を引き剥がして ? ? の魔法ダメージを与え、その後すべての破片をターゲットに叩きつけて ? ? の魔法ダメージを与え、短時間スタンさせる。"
     },
     {
       "stt": 62,
@@ -2754,7 +2649,7 @@
       ],
       "status": "Vex",
       "mana": "0 / 60",
-      "description": "?: ? time ? attacks, ? strikes a nearby enemy, dealing ? ? magic damage. ? an enemy is struck ? times by ?, ? strikes them again. ?: ? launches ? empowered strikes, dealing ? ? magic damage instead."
+      "description": "?: ? が ? 回攻撃するたびに、? が近くの敵を攻撃し、? ? の魔法ダメージを与える。? もし敵が ? によって ? 回攻撃された場合、? はそれらを再度攻撃する。?: ? は ? 回の強化攻撃を放ち、代わりに ? ? の魔法ダメージを与える。"
     },
     {
       "stt": 63,
@@ -2766,7 +2661,7 @@
       ],
       "status": "Zed",
       "mana": "30 / 80",
-      "description": "? a clone behind the target with ?% reduced max ? and ? increased ? cost. ? clone inherits its creator's items, stats, and current ?, and can cast ?."
+      "description": "ターゲットの背後に、?% 減少した最大 ? と増加した ? の ? を持つ分身を ? する。? 分身は作成者の現在の装備、ステータス、? を引き継ぎ、スキルを ? ことができる。"
     }
   ],
   "items": [
@@ -2775,7 +2670,7 @@
       "name": "Psionic",
       "icon": "trait-psionic.svg",
       "count": "5 items",
-      "description": "Psionic",
+      "description": "サイオニック",
       "items": [
         {
           "stt": "1-1",
@@ -2783,8 +2678,8 @@
           "name": "Drone Uplink",
           "image": "psionic-drone-uplink.jpg",
           "texts": [
-            "A drone repeats 25% of damage from the holder's attacks and Abilities to the same targets every 3 seconds.",
-            "At (4): If the holder is Psionic, gain an additional mini-drone that repeats 20% of damage.",
+            "ドローンが、3秒ごとに装備者の通常攻撃およびスキルによるダメージの25%を同じターゲットに繰り返す。",
+            "(4): 装備者がサイオニックの場合、ダメージの20%を繰り返す追加のミニドローンを獲得する。",
             "Set.17.items.recommended Sona, Viktor"
           ]
         },
@@ -2794,8 +2689,8 @@
           "name": "Malware Matrix",
           "image": "psionic-malware-matrix.jpg",
           "texts": [
-            "Dealing physical damage to an enemy reduces the target's Armor by 2.",
-            "At (4): If the holder is Psionic, every 3rd attack cleaves, dealing 75 physical damage to nearby enemies.",
+            "敵に物理ダメージを与えると、ターゲットの物理防御を2減少させる。",
+            "(4): 装備者がサイオニックの場合、3回目の攻撃ごとになぎ払いを行い、周囲の敵に75の物理ダメージを与える。",
             "Set.17.items.recommended Master Yi, Pyke"
           ]
         },
@@ -2805,8 +2700,8 @@
           "name": "Biomatter Preserver",
           "image": "psionic-biomatter-preserver.jpg",
           "texts": [
-            "Gain 5% max Health and deploy 3 Life Orbs. Every 5 seconds of combat, one drops restoring 18% of the holder's missing Health.",
-            "At (4): If the holder is Psionic, they gain 22% increased healing from all sources.",
+            "最大体力が5%増加し、3つのライフオーブを展開する。戦闘中5秒ごとに1つがドロップし、装備者の欠損体力の18%を回復する。",
+            "(4): 装備者がサイオニックの場合、あらゆるソースからの回復効果が22%増加する。",
             "Set.17.items.recommended Gragas"
           ]
         },
@@ -2816,8 +2711,8 @@
           "name": "Sympathetic Implant",
           "image": "psionic-sympathetic-implant.jpg",
           "texts": [
-            "Every 5 seconds, gain 1 additional Mana Per Second.",
-            "At (4): If the holder is Psionic, their abilities deal 20% of their ability damage as true damage instead.",
+            "5秒ごとに、秒間マナ回復が1増加する。",
+            "(4): 装備者がサイオニックの場合、スキルのダメージの20%を代わりに確定ダメージとして与える。",
             "Set.17.items.recommended Sona, Viktor"
           ]
         },
@@ -2827,8 +2722,8 @@
           "name": "Target-Lock Optics",
           "image": "psionic-target-lock-optics.jpg",
           "texts": [
-            "The holder's first attack on each enemy deals 150 additional damage.",
-            "At (4): If the holder is Psionic, they heal 12% of their max Health whenever their target dies.",
+            "各敵に対する装備者の最初の攻撃は、150の追加ダメージを与える。",
+            "(4): 装備者がサイオニックの場合、ターゲットが死亡するたびに最大体力の12%を回復する。",
             "Set.17.items.recommended Pyke, Master Yi"
           ]
         }
@@ -2839,7 +2734,7 @@
       "name": "Commander",
       "icon": "trait-commander.svg",
       "count": "8 items",
-      "description": "Commander",
+      "description": "コマンダー",
       "items": [
         {
           "stt": "2-1",
@@ -2847,7 +2742,7 @@
           "name": "Command Mod: Exhaust",
           "image": "command-mod-exhaust.jpg",
           "texts": [
-            "Command a unit's attacks to Burn, Wound, and Chill."
+            "ユニットの攻撃に燃焼、負傷、冷気の効果を付与するよう命令する。"
           ]
         },
         {
@@ -2856,7 +2751,7 @@
           "name": "Command Mod: Doublestrike",
           "image": "command-mod-doublestrike.jpg",
           "texts": [
-            "Command a unit to have a 25% chance to attack twice when attacking."
+            "ユニットが攻撃時に25%の確率で2回攻撃するよう命令する。"
           ]
         },
         {
@@ -2865,7 +2760,7 @@
           "name": "Command Mod: Analyze",
           "image": "command-mod-analyze.jpg",
           "texts": [
-            "Command a unit to grant you 1 XP every 3 seconds it is alive during player combat."
+            "対人戦闘中、そのユニットが生存している間、3秒ごとに1 XPを獲得するよう命令する。"
           ]
         },
         {
@@ -2874,7 +2769,7 @@
           "name": "Command Mod: Brace",
           "image": "command-mod-brace.jpg",
           "texts": [
-            "Command a unit to gain a 20% Health shield for 8 seconds at the start of combat."
+            "戦闘開始時、ユニットが8秒間、体力の20%のシールドを獲得するよう命令する。"
           ]
         },
         {
@@ -2883,7 +2778,7 @@
           "name": "Command Mod: Transmute",
           "image": "command-mod-transmute.jpg",
           "texts": [
-            "Command a unit to drop 2 gold each time it kills an enemy during player combat."
+            "対人戦闘中、ユニットが敵を倒すたびに2ゴールドをドロップするよう命令する。"
           ]
         },
         {
@@ -2892,7 +2787,7 @@
           "name": "Command Mod: Disrupt",
           "image": "command-mod-disrupt.jpg",
           "texts": [
-            "Command a unit to Stun enemies within 3 hexes for 1 second when it dies."
+            "ユニットが死亡した際、3マス以内の敵を1秒間スタンさせるよう命令する。"
           ]
         },
         {
@@ -2901,7 +2796,7 @@
           "name": "Command Mod: Optimize",
           "image": "command-mod-optimize.jpg",
           "texts": [
-            "Command a unit to reduce their mana cost by 15%."
+            "ユニットのマナコストを15%削減するよう命令する。"
           ]
         },
         {
@@ -2910,7 +2805,7 @@
           "name": "Command Mod: Fabricate",
           "image": "command-mod-fabricate.jpg",
           "texts": [
-            "Command a unit to gain a temporary recommended item at the start of combat."
+            "戦闘開始時、ユニットが一時的な推奨アイテムを獲得するよう命令する。"
           ]
         }
       ]
@@ -2920,7 +2815,7 @@
       "name": "Emblem",
       "icon": "trait-emblem.svg",
       "count": "19 items",
-      "description": "Items that grant a unit an additional trait. Crafted using a Spatula and a component.",
+      "description": "ユニットに追加の特性を付与するアイテム。へらと素材アイテムを使用して作成される。",
       "items": [
         {
           "stt": "3-1",
@@ -2928,7 +2823,7 @@
           "name": "Dark Star Emblem",
           "image": "emblem-dark-star.png",
           "texts": [
-            "The holder gains the Dark Star trait."
+            "装備者はダークスターの特性を獲得する。"
           ]
         },
         {
@@ -2937,7 +2832,7 @@
           "name": "Timebreaker Emblem",
           "image": "emblem-timebreaker.png",
           "texts": [
-            "The holder gains the Timebreaker trait."
+            "装備者はタイムブレイカーの特性を獲得する。"
           ]
         },
         {
@@ -2946,7 +2841,7 @@
           "name": "Stargazer Emblem",
           "image": "emblem-stargazer.png",
           "texts": [
-            "The holder gains the Stargazer trait."
+            "装備者はスターゲイザーの特性を獲得する。"
           ]
         },
         {
@@ -2955,7 +2850,7 @@
           "name": "Space Groove Emblem",
           "image": "emblem-space-groove.png",
           "texts": [
-            "The holder gains the Space Groove trait."
+            "装備者はスペースグルーヴの特性を獲得する。"
           ]
         },
         {
@@ -2964,7 +2859,7 @@
           "name": "Meeple Emblem",
           "image": "emblem-meeple.png",
           "texts": [
-            "The holder gains the Meeple trait."
+            "装備者はミープルの特性を獲得する。"
           ]
         },
         {
@@ -2973,7 +2868,7 @@
           "name": "Arbiter Emblem",
           "image": "emblem-arbiter.png",
           "texts": [
-            "The holder gains the Arbiter trait."
+            "装備者はアービターの特性を獲得する。"
           ]
         },
         {
@@ -2982,7 +2877,7 @@
           "name": "Primordian Emblem",
           "image": "emblem-primordian.png",
           "texts": [
-            "The holder gains the Primordian trait."
+            "装備者はプリモーディアンの特性を獲得する。"
           ]
         },
         {
@@ -2991,7 +2886,7 @@
           "name": "N.O.V.A. Emblem",
           "image": "emblem-nova.png",
           "texts": [
-            "The holder gains the N.O.V.A. trait."
+            "装備者はN.O.V.A.の特性を獲得する。"
           ]
         },
         {
@@ -3000,7 +2895,7 @@
           "name": "Marauder Emblem",
           "image": "emblem-marauder.png",
           "texts": [
-            "The holder gains the Marauder trait."
+            "装備者はマローダーの特性を獲得する。"
           ]
         },
         {
@@ -3009,7 +2904,7 @@
           "name": "Challenger Emblem",
           "image": "emblem-challenger.png",
           "texts": [
-            "The holder gains the Challenger trait."
+            "装備者はチャレンジャーの特性を獲得する。"
           ]
         },
         {
@@ -3018,7 +2913,7 @@
           "name": "Voyager Emblem",
           "image": "emblem-voyager.png",
           "texts": [
-            "The holder gains the Voyager trait."
+            "装備者はヴォイジャーの特性を獲得する。"
           ]
         },
         {
@@ -3027,7 +2922,7 @@
           "name": "Shepherd Emblem",
           "image": "emblem-shepherd.png",
           "texts": [
-            "The holder gains the Shepherd trait."
+            "装備者はシェパードの特性を獲得する。"
           ]
         },
         {
@@ -3036,7 +2931,7 @@
           "name": "Bastion Emblem",
           "image": "emblem-bastion.png",
           "texts": [
-            "The holder gains the Bastion trait."
+            "装備者はバスティオンの特性を獲得する。"
           ]
         },
         {
@@ -3045,7 +2940,7 @@
           "name": "Vanguard Emblem",
           "image": "emblem-vanguard.png",
           "texts": [
-            "The holder gains the Vanguard trait."
+            "装備者はヴァンガードの特性を獲得する。"
           ]
         },
         {
@@ -3054,7 +2949,7 @@
           "name": "Brawler Emblem",
           "image": "emblem-brawler.png",
           "texts": [
-            "The holder gains the Brawler trait."
+            "装備者はブロウラーの特性を獲得する。"
           ]
         },
         {
@@ -3063,7 +2958,7 @@
           "name": "Rogue Emblem",
           "image": "emblem-rogue.png",
           "texts": [
-            "The holder gains the Rogue trait."
+            "装備者はローグの特性を獲得する。"
           ]
         },
         {
@@ -3072,7 +2967,7 @@
           "name": "Anima Emblem",
           "image": "emblem-anima-tech.png",
           "texts": [
-            "The holder gains the Anima trait."
+            "装備者はアニマの特性を獲得する。"
           ]
         },
         {
@@ -3081,7 +2976,7 @@
           "name": "Psionic Emblem",
           "image": "emblem-psyonic.png",
           "texts": [
-            "The holder gains the Psionic trait."
+            "装備者はサイオニックの特性を獲得する。"
           ]
         },
         {
@@ -3090,7 +2985,7 @@
           "name": "Sniper Emblem",
           "image": "emblem-sniper.png",
           "texts": [
-            "The holder gains the Sniper trait."
+            "装備者はスナイパーの特性を獲得する。"
           ]
         }
       ]
@@ -3103,7 +2998,7 @@
       "name": "Poppy Hero",
       "image": "tier-silver.png",
       "tier": "2-1",
-      "description": "Gain a Poppy. Poppy becomes a ranged Marksman and her attacks Meeps at her target."
+      "description": "ポッピーを1体獲得する。ポッピーは遠距離攻撃のマークスマンとなり、ターゲットにミープを投げつけて攻撃する。"
     },
     {
       "stt": "1-2",
@@ -3111,7 +3006,7 @@
       "name": "Aatrox Hero",
       "image": "tier-silver.png",
       "tier": "2-1",
-      "description": "Aatrox's spell is now a low-mana three-hit combo that heals him for a portion of the damage dealt. When his NOVA move happens, he gains maximum health and size."
+      "description": "エイトロックスのスキルが低マナの3連コンボになり、与えたダメージの一部を回復する。NOVAを発動すると、最大体力とサイズが増加する。"
     },
     {
       "stt": "1-3",
@@ -3119,7 +3014,7 @@
       "name": "Bonk!",
       "image": "tier-silver.png",
       "tier": "2-1",
-      "description": "Gain a Nasus. Your strongest Nasus becomes an Attack Fighter with a single target ability that gets stronger with each kill."
+      "description": "ナサスを1体獲得する。最も強いナサスはアタックファイターとなり、敵を倒すごとに強化される単体対象スキルを持つようになる。"
     },
     {
       "stt": "1-4",
@@ -3127,7 +3022,7 @@
       "name": "Charge Transfer I",
       "image": "tier-silver.png",
       "tier": "3-2",
-      "description": "Your team gains 5% Damage Amp. 50% of overkill damage is dealt to the nearest enemy."
+      "description": "チームのダメージ増幅が5%上昇する。オーバーキルダメージの50%を最も近い敵に与える。"
     },
     {
       "stt": "1-5",
@@ -3135,7 +3030,7 @@
       "name": "The Tower",
       "image": "tier-silver.png",
       "tier": "2-1",
-      "description": "Gain a massive Training Dummy that zaps nearby enemies"
+      "description": "近くの敵を感電させる巨大なトレーニングドールを獲得する。"
     },
     {
       "stt": "1-6",
@@ -3143,7 +3038,7 @@
       "name": "Group Hug I",
       "image": "tier-silver.png",
       "tier": "3-2",
-      "description": "Combat start: Allies grant other adjacent allies 6 Armor and Magic Resist. This effect stacks."
+      "description": "戦闘開始時：味方が隣接する他の味方に物理防御と魔法防御を6付与する。この効果はスタックする。"
     },
     {
       "stt": "1-7",
@@ -3151,7 +3046,7 @@
       "name": "Expedition",
       "image": "tier-silver.png",
       "tier": "2-1",
-      "description": "At the start of planning phase, lose the right-most champion on your bench. After losing 33 gold of units this way, gain a powerful reward."
+      "description": "計画フェーズの開始時、ベンチの右端にいるチャンピオンを失う。この方法で合計33ゴールド分のユニットを失うと、強力な報酬を獲得する。"
     },
     {
       "stt": "1-8",
@@ -3159,7 +3054,7 @@
       "name": "Forge a Friend",
       "image": "tier-silver.png",
       "tier": "4-2",
-      "description": "The next 1-cost champion you purchase is 3-star."
+      "description": "次に購入する1コストチャンピオンが星3になる。"
     },
     {
       "stt": "1-9",
@@ -3167,7 +3062,7 @@
       "name": "Size Matters",
       "image": "tier-silver.png",
       "tier": "3-2",
-      "description": "Gain a Giant's Belt. After a champion begins combat with more than 3800 max Health, gain another."
+      "description": "ジャイアントベルトを1つ獲得する。チャンピオンが最大体力3800以上で戦闘を開始した後、もう1つ獲得する。"
     },
     {
       "stt": "1-10",
@@ -3175,7 +3070,7 @@
       "name": "Feeling Lucky",
       "image": "tier-silver.png",
       "tier": "3-2",
-      "description": "Gain 12 gold, then flip a coin. If heads, gain 3 more gold."
+      "description": "12ゴールドを獲得し、コインを投げる。表が出ればさらに3ゴールド獲得する。"
     },
     {
       "stt": "1-11",
@@ -3183,7 +3078,7 @@
       "name": "Cognitive Tax",
       "image": "tier-silver.png",
       "tier": "2-1",
-      "description": "Gain 8 gold and 1 XP."
+      "description": "8ゴールドと1 XPを獲得する。"
     },
     {
       "stt": "1-12",
@@ -3191,7 +3086,7 @@
       "name": "Cognitive Tax+",
       "image": "tier-silver.png",
       "tier": "3-2",
-      "description": "Gain 12 gold and 3 XP."
+      "description": "12ゴールドと3 XPを獲得する。"
     },
     {
       "stt": "1-13",
@@ -3199,7 +3094,7 @@
       "name": "Kick Start",
       "image": "tier-silver.png",
       "tier": "2-1",
-      "description": "Gain a random 2-star 2-cost champion and 1 gold."
+      "description": "ランダムな星2の2コストチャンピオン1体と1ゴールドを獲得する。"
     },
     {
       "stt": "2-1",
@@ -3207,7 +3102,7 @@
       "name": "Anima Commander",
       "image": "tier-gold.png",
       "tier": "2-1",
-      "description": "Gain a Briar, a Jinx, and an Illaoi. Increase your current and max player Health by 10."
+      "description": "ブライアー、ジンクス、イラオイを獲得する。プレイヤーの現在体力と最大体力を10増加させる。"
     },
     {
       "stt": "2-2",
@@ -3215,7 +3110,7 @@
       "name": "Sniper's Nest",
       "image": "tier-gold.png",
       "tier": "2-1",
-      "description": "Snipers gain 8% Damage Amp for each combat fought from the same starting hex, up to 32%. Gain an Ezreal and a Gnar."
+      "description": "スナイパーは同じ開始マスから戦闘を行うたびにダメージ増幅が8%上昇し、最大32%まで増加する。エズリアルとナーを獲得する。"
     },
     {
       "stt": "2-3",
@@ -3223,7 +3118,7 @@
       "name": "May the Fours Be With You",
       "image": "tier-gold.png",
       "tier": "4-2",
-      "description": "Your 4 cost champions and Jhin gain 204 Health and 14% Attack Speed. Gain a Jhin."
+      "description": "自分の4コストチャンピオンとジンは体力が204、攻撃速度が14%増加する。ジンを1体獲得する。"
     },
     {
       "stt": "2-4",
@@ -3231,7 +3126,7 @@
       "name": "Invader Zed",
       "image": "tier-gold.png",
       "tier": "3-2",
-      "description": "Gain a Bloodthirster. On Stage 4-1, gain a Zed. After receiving Zed, he can then appear in your shops. Zed is a 5-cost Attack Fighter that creates clones of himself."
+      "description": "ブラッドサースターを獲得する。ステージ4-1でゼドを獲得する。ゼド獲得後、ショップにゼドが出現するようになる。ゼドは自身の分身を作る5コストのアタックファイター。"
     },
     {
       "stt": "2-5",
@@ -3239,7 +3134,7 @@
       "name": "Reach For the Stars",
       "image": "tier-gold.png",
       "tier": "2-1",
-      "description": "Jax gains stacking attack speed with every attack. On cast, jump to a nearby enemy, dealing damage and adding stacking on-hit damage for the rest of combat."
+      "description": "ジャックスは攻撃するたびに攻撃速度がスタックする。スキル使用時、近くの敵に飛び込みダメージを与え、戦闘終了までスタックする追加ダメージを付与する。"
     },
     {
       "stt": "2-6",
@@ -3247,7 +3142,7 @@
       "name": "Meep Space 9",
       "image": "tier-gold.png",
       "tier": "2-1",
-      "description": "Meepsie gains a weaker version of Brock's spell and heavy attack damage."
+      "description": "ミープシーはブロックのスキルの弱体化バージョンと強力な攻撃力を獲得する。"
     },
     {
       "stt": "2-7",
@@ -3255,7 +3150,7 @@
       "name": "Star Conqueror",
       "image": "tier-gold.png",
       "tier": "2-1",
-      "description": "Mordekaiser becomes an auto-attack based AP carry, whose channel is a burst of attack speed for as long as he has mana to spend. At combat start and on kill, he gains a non-mana-locking shield."
+      "description": "モルデカイザーは通常攻撃ベースのAPキャリーとなる。チャネリング中、マナがある限り攻撃速度が大幅に上昇する。戦闘開始時とキル時にマナロックされないシールドを獲得する。"
     },
     {
       "stt": "2-8",
@@ -3263,7 +3158,7 @@
       "name": "Self Destruct",
       "image": "tier-gold.png",
       "tier": "2-1",
-      "description": "Gain a Gragas. Gragas now self detonates, sacrificing 20% of max Health to deal XXX (AP) plus the sacrificed Health as magic damage in a four hex radius, reduced by 20% per hex from the epicenter."
+      "description": "グラガスを獲得する。グラガスは自爆するようになり、最大体力の20%を犠牲にしてXXX(AP)＋犠牲にした体力を魔法ダメージとして周囲4マスに与える。中心から離れるほどダメージは20%ずつ減少する。"
     },
     {
       "stt": "2-9",
@@ -3271,7 +3166,7 @@
       "name": "Contract Killer",
       "image": "tier-gold.png",
       "tier": "2-1",
-      "description": "Gain a Pyke. Your strongest Pyke gains a resetting ability and generates gold on takedown."
+      "description": "パイクを獲得する。最も強いパイクはスキルがリセットされるようになり、キル時にゴールドを生成する。"
     },
     {
       "stt": "2-10",
@@ -3279,7 +3174,7 @@
       "name": "Side Effects",
       "image": "tier-gold.png",
       "tier": "3-2",
-      "description": "When an ally is healed, they deal 50% of the healing to their target as magic damage. Every 5 seconds, allies heal for 5% of their max Health."
+      "description": "味方が回復したとき、回復量の50%を魔法ダメージとしてターゲットに与える。5秒ごとに味方は最大体力の5%を回復する。"
     },
     {
       "stt": "2-11",
@@ -3287,7 +3182,7 @@
       "name": "Misfits",
       "image": "tier-gold.png",
       "tier": "2-1",
-      "description": "Your team gains 75 Health for each active Unique trait. Gain a Miss Fortune and a Rhaast."
+      "description": "有効なユニーク特性1つにつき、チームの体力が75増加する。ミス・フォーチュンとラーストを獲得する。"
     },
     {
       "stt": "2-12",
@@ -3295,7 +3190,7 @@
       "name": "Booster Pack",
       "image": "tier-gold.png",
       "tier": "2-1",
-      "description": "Gain 11 gold worth of random champions. (At least one 3-Cost guaranteed!)"
+      "description": "11ゴールド相当のランダムなチャンピオンを獲得する（少なくとも1体の3コスト確定）。"
     },
     {
       "stt": "2-13",
@@ -3303,7 +3198,7 @@
       "name": "Booster Pack+",
       "image": "tier-gold.png",
       "tier": "3-2",
-      "description": "Gain 18 gold worth of random champions. (At least one 4-Cost guaranteed!)"
+      "description": "18ゴールド相当のランダムなチャンピオンを獲得する（少なくとも1体の4コスト確定）。"
     },
     {
       "stt": "2-14",
@@ -3311,7 +3206,7 @@
       "name": "Booster Pack++",
       "image": "tier-gold.png",
       "tier": "4-2",
-      "description": "Gain 30 gold worth of random champions. (At least one 5-Cost guaranteed!)"
+      "description": "30ゴールド相当のランダムなチャンピオンを獲得する（少なくとも1体の5コスト確定）。"
     },
     {
       "stt": "2-15",
@@ -3319,7 +3214,7 @@
       "name": "Charge Transfer II",
       "image": "tier-gold.png",
       "tier": "3-2",
-      "description": "Your team gains 8% Damage Amp. 80% of overkill damage is dealt to the nearest enemy."
+      "description": "チームのダメージ増幅が8%上昇する。オーバーキルダメージの80%を最も近い敵に与える。"
     },
     {
       "stt": "2-16",
@@ -3327,7 +3222,7 @@
       "name": "Group Hug II",
       "image": "tier-gold.png",
       "tier": "3-2",
-      "description": "Combat start: Allies grant other adjacent allies 9 Armor and Magic Resist. This effect stacks."
+      "description": "戦闘開始時：味方が隣接する他の味方に物理防御と魔法防御を9付与する。この効果はスタックする。"
     },
     {
       "stt": "2-17",
@@ -3335,7 +3230,7 @@
       "name": "Frontline Foundation",
       "image": "tier-gold.png",
       "tier": "2-1",
-      "description": "Gain a 2-star 1-cost Tank champion and an emblem for their last-listed trait."
+      "description": "星2の1コストタンクチャンピオンと、その一番最後に記載されている特性の紋章を獲得する。"
     },
     {
       "stt": "2-18",
@@ -3343,7 +3238,7 @@
       "name": "Kahunahuna",
       "image": "tier-gold.png",
       "tier": "2-1",
-      "description": "Every 5th attack deals bonus true damage equal to 200% Basic Attack Damage."
+      "description": "5回目ごとの攻撃で、基礎攻撃力の200%に等しい追加確定ダメージを与える。"
     },
     {
       "stt": "2-19",
@@ -3351,7 +3246,7 @@
       "name": "Cosmic Restart",
       "image": "tier-gold.png",
       "tier": "3-2",
-      "description": "Call upon the Gods to sell all units on your board and bench. Gain 2 random Emblems and 10 free Shop rerolls."
+      "description": "神々を呼び、ボードとベンチの全ユニットを売却する。ランダムな紋章2つと無料ショップリロール10回を獲得する。"
     },
     {
       "stt": "2-20",
@@ -3359,7 +3254,7 @@
       "name": "Cognitive Overload",
       "image": "tier-gold.png",
       "tier": "3-2",
-      "description": "Gain 7 Gold, 1 2-star 1-cost champion, 1 2-cost champion, 2 3-cost champions, 1 XP, and 1 Shop reroll."
+      "description": "7ゴールド、星2の1コスト1体、2コスト1体、3コスト2体、1 XP、ショップリロール1回を獲得する。"
     },
     {
       "stt": "2-21",
@@ -3367,7 +3262,7 @@
       "name": "Backline Blueprint",
       "image": "tier-gold.png",
       "tier": "2-1",
-      "description": "Gain a 3-cost non-Tank champion and an emblem for their last-listed trait."
+      "description": "タンク以外の3コストチャンピオンと、その一番最後に記載されている特性の紋章を獲得する。"
     },
     {
       "stt": "2-22",
@@ -3375,7 +3270,7 @@
       "name": "Money Hungry",
       "image": "tier-gold.png",
       "tier": "2-1",
-      "description": "Gain 10 gold now, then 7 gold at the start of every stage. Picking up gold makes your Tactician larger."
+      "description": "今すぐ10ゴールド獲得し、各ステージ開始時に7ゴールド獲得する。ゴールドを拾うとプレイヤーのサイズが大きくなる。"
     },
     {
       "stt": "3-1",
@@ -3383,7 +3278,7 @@
       "name": "Five-Pointed Star",
       "image": "tier-prism.png",
       "tier": "4-2",
-      "description": "At the start of each stage, the first champion you buy from a specific tier is 2-star. Gain a 2-star 1-cost champion and 2 gold now. Stage 2: 2-cost Stage 3: 3-cost Stage 4: 4-cost Stage 5: 5-cost"
+      "description": "各ステージ開始時、特定のコストから最初に購入するチャンピオンが星2になる。今すぐ星2の1コスト1体と2ゴールドを獲得。ステージ2：2コスト、ステージ3：3コスト、ステージ4：4コスト、ステージ5：5コスト。"
     },
     {
       "stt": "3-2",
@@ -3391,7 +3286,7 @@
       "name": "Just Hit",
       "image": "tier-prism.png",
       "tier": "4-2",
-      "description": "Gain a Champion Duplicator, 18 Shop rerolls, and 10 gold."
+      "description": "チャンピオン複製器1つ、ショップリロール18回、10ゴールドを獲得する。"
     },
     {
       "stt": "3-3",
@@ -3399,7 +3294,7 @@
       "name": "Golden Gamble",
       "image": "tier-prism.png",
       "tier": "2-1",
-      "description": "Flip a coin. If heads, gain a Radiant Lucky Item Chest. If tails, gain a random Radiant item and a Reforger."
+      "description": "コインを投げる。表ならレディアントラッキーアイテムチェスト、裏ならランダムなレディアントアイテムと磁気除去装置を獲得する。"
     },
     {
       "stt": "3-4",
@@ -3407,7 +3302,7 @@
       "name": "Baron's Lair",
       "image": "tier-prism.png",
       "tier": "2-1",
-      "description": "Gain a Tank item. After 8 seconds of combat, your team gains 5% Attack Damage and Ability Power every second for the rest of combat."
+      "description": "タンクアイテムを獲得する。戦闘が8秒経過した後、残りの戦闘中、チームは毎秒5%の攻撃力と魔力を獲得する。"
     }
   ]
 }

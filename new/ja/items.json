@@ -4,7 +4,7 @@
     "name": "Psionic",
     "icon": "trait-psionic.svg",
     "count": "5 items",
-    "description": "Psionic",
+    "description": "サイオニック",
     "items": [
       {
         "stt": "1-1",
@@ -12,8 +12,8 @@
         "name": "Drone Uplink",
         "image": "psionic-drone-uplink.jpg",
         "texts": [
-          "A drone repeats 25% of damage from the holder's attacks and Abilities to the same targets every 3 seconds.",
-          "At (4): If the holder is Psionic, gain an additional mini-drone that repeats 20% of damage.",
+          "ドローンが、3秒ごとに装備者の通常攻撃およびスキルによるダメージの25%を同じターゲットに繰り返す。",
+          "(4): 装備者がサイオニックの場合、ダメージの20%を繰り返す追加のミニドローンを獲得する。",
           "Set.17.items.recommended Sona, Viktor"
         ]
       },
@@ -23,8 +23,8 @@
         "name": "Malware Matrix",
         "image": "psionic-malware-matrix.jpg",
         "texts": [
-          "Dealing physical damage to an enemy reduces the target's Armor by 2.",
-          "At (4): If the holder is Psionic, every 3rd attack cleaves, dealing 75 physical damage to nearby enemies.",
+          "敵に物理ダメージを与えると、ターゲットの物理防御を2減少させる。",
+          "(4): 装備者がサイオニックの場合、3回目の攻撃ごとになぎ払いを行い、周囲の敵に75の物理ダメージを与える。",
           "Set.17.items.recommended Master Yi, Pyke"
         ]
       },
@@ -34,8 +34,8 @@
         "name": "Biomatter Preserver",
         "image": "psionic-biomatter-preserver.jpg",
         "texts": [
-          "Gain 5% max Health and deploy 3 Life Orbs. Every 5 seconds of combat, one drops restoring 18% of the holder's missing Health.",
-          "At (4): If the holder is Psionic, they gain 22% increased healing from all sources.",
+          "最大体力が5%増加し、3つのライフオーブを展開する。戦闘中5秒ごとに1つがドロップし、装備者の欠損体力の18%を回復する。",
+          "(4): 装備者がサイオニックの場合、あらゆるソースからの回復効果が22%増加する。",
           "Set.17.items.recommended Gragas"
         ]
       },
@@ -45,8 +45,8 @@
         "name": "Sympathetic Implant",
         "image": "psionic-sympathetic-implant.jpg",
         "texts": [
-          "Every 5 seconds, gain 1 additional Mana Per Second.",
-          "At (4): If the holder is Psionic, their abilities deal 20% of their ability damage as true damage instead.",
+          "5秒ごとに、秒間マナ回復が1増加する。",
+          "(4): 装備者がサイオニックの場合、スキルのダメージの20%を代わりに確定ダメージとして与える。",
           "Set.17.items.recommended Sona, Viktor"
         ]
       },
@@ -56,8 +56,8 @@
         "name": "Target-Lock Optics",
         "image": "psionic-target-lock-optics.jpg",
         "texts": [
-          "The holder's first attack on each enemy deals 150 additional damage.",
-          "At (4): If the holder is Psionic, they heal 12% of their max Health whenever their target dies.",
+          "各敵に対する装備者の最初の攻撃は、150の追加ダメージを与える。",
+          "(4): 装備者がサイオニックの場合、ターゲットが死亡するたびに最大体力の12%を回復する。",
           "Set.17.items.recommended Pyke, Master Yi"
         ]
       }
@@ -68,7 +68,7 @@
     "name": "Commander",
     "icon": "trait-commander.svg",
     "count": "8 items",
-    "description": "Commander",
+    "description": "コマンダー",
     "items": [
       {
         "stt": "2-1",
@@ -76,7 +76,7 @@
         "name": "Command Mod: Exhaust",
         "image": "command-mod-exhaust.jpg",
         "texts": [
-          "Command a unit's attacks to Burn, Wound, and Chill."
+          "ユニットの攻撃に燃焼、負傷、冷気の効果を付与するよう命令する。"
         ]
       },
       {
@@ -85,7 +85,7 @@
         "name": "Command Mod: Doublestrike",
         "image": "command-mod-doublestrike.jpg",
         "texts": [
-          "Command a unit to have a 25% chance to attack twice when attacking."
+          "ユニットが攻撃時に25%の確率で2回攻撃するよう命令する。"
         ]
       },
       {
@@ -94,7 +94,7 @@
         "name": "Command Mod: Analyze",
         "image": "command-mod-analyze.jpg",
         "texts": [
-          "Command a unit to grant you 1 XP every 3 seconds it is alive during player combat."
+          "対人戦闘中、そのユニットが生存している間、3秒ごとに1 XPを獲得するよう命令する。"
         ]
       },
       {
@@ -103,7 +103,7 @@
         "name": "Command Mod: Brace",
         "image": "command-mod-brace.jpg",
         "texts": [
-          "Command a unit to gain a 20% Health shield for 8 seconds at the start of combat."
+          "戦闘開始時、ユニットが8秒間、体力の20%のシールドを獲得するよう命令する。"
         ]
       },
       {
@@ -112,7 +112,7 @@
         "name": "Command Mod: Transmute",
         "image": "command-mod-transmute.jpg",
         "texts": [
-          "Command a unit to drop 2 gold each time it kills an enemy during player combat."
+          "対人戦闘中、ユニットが敵を倒すたびに2ゴールドをドロップするよう命令する。"
         ]
       },
       {
@@ -121,7 +121,7 @@
         "name": "Command Mod: Disrupt",
         "image": "command-mod-disrupt.jpg",
         "texts": [
-          "Command a unit to Stun enemies within 3 hexes for 1 second when it dies."
+          "ユニットが死亡した際、3マス以内の敵を1秒間スタンさせるよう命令する。"
         ]
       },
       {
@@ -130,7 +130,7 @@
         "name": "Command Mod: Optimize",
         "image": "command-mod-optimize.jpg",
         "texts": [
-          "Command a unit to reduce their mana cost by 15%."
+          "ユニットのマナコストを15%削減するよう命令する。"
         ]
       },
       {
@@ -139,7 +139,7 @@
         "name": "Command Mod: Fabricate",
         "image": "command-mod-fabricate.jpg",
         "texts": [
-          "Command a unit to gain a temporary recommended item at the start of combat."
+          "戦闘開始時、ユニットが一時的な推奨アイテムを獲得するよう命令する。"
         ]
       }
     ]
@@ -149,7 +149,7 @@
     "name": "Emblem",
     "icon": "trait-emblem.svg",
     "count": "19 items",
-    "description": "Items that grant a unit an additional trait. Crafted using a Spatula and a component.",
+    "description": "ユニットに追加の特性を付与するアイテム。へらと素材アイテムを使用して作成される。",
     "items": [
       {
         "stt": "3-1",
@@ -157,7 +157,7 @@
         "name": "Dark Star Emblem",
         "image": "emblem-dark-star.png",
         "texts": [
-          "The holder gains the Dark Star trait."
+          "装備者はダークスターの特性を獲得する。"
         ]
       },
       {
@@ -166,7 +166,7 @@
         "name": "Timebreaker Emblem",
         "image": "emblem-timebreaker.png",
         "texts": [
-          "The holder gains the Timebreaker trait."
+          "装備者はタイムブレイカーの特性を獲得する。"
         ]
       },
       {
@@ -175,7 +175,7 @@
         "name": "Stargazer Emblem",
         "image": "emblem-stargazer.png",
         "texts": [
-          "The holder gains the Stargazer trait."
+          "装備者はスターゲイザーの特性を獲得する。"
         ]
       },
       {
@@ -184,7 +184,7 @@
         "name": "Space Groove Emblem",
         "image": "emblem-space-groove.png",
         "texts": [
-          "The holder gains the Space Groove trait."
+          "装備者はスペースグルーヴの特性を獲得する。"
         ]
       },
       {
@@ -193,7 +193,7 @@
         "name": "Meeple Emblem",
         "image": "emblem-meeple.png",
         "texts": [
-          "The holder gains the Meeple trait."
+          "装備者はミープルの特性を獲得する。"
         ]
       },
       {
@@ -202,7 +202,7 @@
         "name": "Arbiter Emblem",
         "image": "emblem-arbiter.png",
         "texts": [
-          "The holder gains the Arbiter trait."
+          "装備者はアービターの特性を獲得する。"
         ]
       },
       {
@@ -211,7 +211,7 @@
         "name": "Primordian Emblem",
         "image": "emblem-primordian.png",
         "texts": [
-          "The holder gains the Primordian trait."
+          "装備者はプリモーディアンの特性を獲得する。"
         ]
       },
       {
@@ -220,7 +220,7 @@
         "name": "N.O.V.A. Emblem",
         "image": "emblem-nova.png",
         "texts": [
-          "The holder gains the N.O.V.A. trait."
+          "装備者はN.O.V.A.の特性を獲得する。"
         ]
       },
       {
@@ -229,7 +229,7 @@
         "name": "Marauder Emblem",
         "image": "emblem-marauder.png",
         "texts": [
-          "The holder gains the Marauder trait."
+          "装備者はマローダーの特性を獲得する。"
         ]
       },
       {
@@ -238,7 +238,7 @@
         "name": "Challenger Emblem",
         "image": "emblem-challenger.png",
         "texts": [
-          "The holder gains the Challenger trait."
+          "装備者はチャレンジャーの特性を獲得する。"
         ]
       },
       {
@@ -247,7 +247,7 @@
         "name": "Voyager Emblem",
         "image": "emblem-voyager.png",
         "texts": [
-          "The holder gains the Voyager trait."
+          "装備者はヴォイジャーの特性を獲得する。"
         ]
       },
       {
@@ -256,7 +256,7 @@
         "name": "Shepherd Emblem",
         "image": "emblem-shepherd.png",
         "texts": [
-          "The holder gains the Shepherd trait."
+          "装備者はシェパードの特性を獲得する。"
         ]
       },
       {
@@ -265,7 +265,7 @@
         "name": "Bastion Emblem",
         "image": "emblem-bastion.png",
         "texts": [
-          "The holder gains the Bastion trait."
+          "装備者はバスティオンの特性を獲得する。"
         ]
       },
       {
@@ -274,7 +274,7 @@
         "name": "Vanguard Emblem",
         "image": "emblem-vanguard.png",
         "texts": [
-          "The holder gains the Vanguard trait."
+          "装備者はヴァンガードの特性を獲得する。"
         ]
       },
       {
@@ -283,7 +283,7 @@
         "name": "Brawler Emblem",
         "image": "emblem-brawler.png",
         "texts": [
-          "The holder gains the Brawler trait."
+          "装備者はブロウラーの特性を獲得する。"
         ]
       },
       {
@@ -292,7 +292,7 @@
         "name": "Rogue Emblem",
         "image": "emblem-rogue.png",
         "texts": [
-          "The holder gains the Rogue trait."
+          "装備者はローグの特性を獲得する。"
         ]
       },
       {
@@ -301,7 +301,7 @@
         "name": "Anima Emblem",
         "image": "emblem-anima-tech.png",
         "texts": [
-          "The holder gains the Anima trait."
+          "装備者はアニマの特性を獲得する。"
         ]
       },
       {
@@ -310,7 +310,7 @@
         "name": "Psionic Emblem",
         "image": "emblem-psyonic.png",
         "texts": [
-          "The holder gains the Psionic trait."
+          "装備者はサイオニックの特性を獲得する。"
         ]
       },
       {
@@ -319,7 +319,7 @@
         "name": "Sniper Emblem",
         "image": "emblem-sniper.png",
         "texts": [
-          "The holder gains the Sniper trait."
+          "装備者はスナイパーの特性を獲得する。"
         ]
       }
     ]
