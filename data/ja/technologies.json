@@ -1,5 +1,421 @@
 {
-    "1": [],
-    "2": [],
-    "3": []
+    "1": [
+        {
+            "stt": 1,
+            "id": "pandoranoaitemu",
+            "name": "パンドラのアイテム",
+            "image": "Pandora1.png",
+            "description": "Loading..."
+        },
+        {
+            "stt": 2,
+            "id": "ro-ringudeizu_i",
+            "name": "ローリングデイズ I",
+            "image": "Rolling-For-Days-I.png",
+            "description": "ショップの無料リロールを10回獲得する。"
+        },
+        {
+            "stt": 3,
+            "id": "Xiao_sanaFu_Dai_",
+            "name": "小さな福袋",
+            "image": "SmallGrabBag_I.TFT_Set16.png",
+            "description": "ランダムな素材アイテムを2個獲得する。"
+        },
+        {
+            "stt": 4,
+            "id": "aitemuFu_Dai_",
+            "name": "アイテム福袋",
+            "image": "ItemGrabBag1.png",
+            "description": "ランダムな完成アイテム1個を獲得する。"
+        },
+        {
+            "stt": 5,
+            "id": "o-gumentopawa-",
+            "name": "オーグメントパワー",
+            "image": "PowerUp_I.TFT_Set13.png",
+            "description": "次のオーグメントのティアが1つ高くなる。"
+        },
+        {
+            "stt": 6,
+            "id": "chi-muGou_Zhu_",
+            "name": "チーム構築",
+            "image": "Building-an-army-I.png",
+            "description": "「小型チャンピオン複製器」を1個獲得する。対人戦を5回行うと、さらにもう1個獲得する。\n\nこのアイテムを使うとコスト3以下のチャンピオンを1体獲得できる。"
+        },
+        {
+            "stt": 7,
+            "id": "chiyotsutodakeMo_Fa_nodaisu",
+            "name": "ちょっとだけ魔法のダイス",
+            "image": "SlightlyMagicRoll_I.TFT_Set16.png",
+            "description": "ダイスを振る。出た目に応じて報酬を獲得する。\n\n報酬: ?"
+        },
+        {
+            "stt": 8,
+            "id": "tsuiteruQi_Fen_",
+            "name": "ツイてる気分",
+            "image": "FeelingLucky_I.TFT_Set17.png",
+            "description": "12ゴールドを獲得し、コインを投げる。表が出た場合、4ゴールド多く獲得する。\n\n?"
+        }
+    ],
+    "2": [
+        {
+            "stt": 1,
+            "id": "pandoranoaitemu_ii",
+            "name": "パンドラのアイテム II",
+            "image": "Pandora2.png",
+            "description": "ラウンド開始時: ベンチのアイテムがランダムに変更される。\n\nランダムな素材アイテムを2個獲得する。"
+        },
+        {
+            "stt": 2,
+            "id": "po-taburu_huo-zi",
+            "name": "ポータブル フォージ",
+            "image": "PortableForge2.png",
+            "description": "4個のアーティファクトから1個を選択する。\n\nアーティファクトは独自の効果を持つ強力なアイテム。"
+        },
+        {
+            "stt": 3,
+            "id": "Da_kinaFu_Dai_",
+            "name": "大きな福袋",
+            "image": "Grab-Bag-II.png",
+            "description": "ランダムな素材アイテムを3個、2ゴールド、「再合成装置」を1個獲得する。\n\n「再合成装置」はアイテムを別のアイテムに変化させる。"
+        },
+        {
+            "stt": 4,
+            "id": "Xian_Ding_kasutamaizu",
+            "name": "限定カスタマイズ",
+            "image": "ExclusiveCustomization_II.TFT_Set15.png",
+            "description": "「幸運のアイテムチェスト」を1個、「磁力式除去装置」を1個、10ゴールドを獲得する。\n\n「幸運のアイテムチェスト」をチャンピオンに使用すると、おすすめアイテムのアーマリーから選択できる！"
+        },
+        {
+            "stt": 5,
+            "id": "u.r.f.",
+            "name": "U.R.F.",
+            "image": "UltraRapidFire_II.TFT_Set16.png",
+            "description": "「へら」を1個獲得する。「へら」または「フライパン」アイテムを装備しているチャンピオンの攻撃速度が15%、マナ自動回復が2増加する。"
+        },
+        {
+            "stt": 6,
+            "id": "asenshiyon",
+            "name": "アセンション",
+            "image": "Ascension2.png",
+            "description": "戦闘開始から12秒経過すると、味方ユニットのダメージ増加効果が35%増加する。"
+        },
+        {
+            "stt": 7,
+            "id": "sanhuaia_bo-do",
+            "name": "サンファイア ボード",
+            "image": "SunfireBoard2.png",
+            "description": "戦闘開始時: すべての敵を焼き、15秒かけて対象の最大体力の15%にあたるダメージを与え、対象が受ける回復効果を33%低下させる。"
+        },
+        {
+            "stt": 8,
+            "id": "ziyueru_ro-tasu_i",
+            "name": "ジュエル ロータス I",
+            "image": "Jeweled-Lotus-II.png",
+            "description": "味方チームのクリティカル率が20%増加し、正確無比を獲得する。\n\n{{TFT_Keyword_Precision}}"
+        },
+        {
+            "stt": 9,
+            "id": "chiya-zitoransuhua-_ii",
+            "name": "チャージトランスファー II",
+            "image": "ChargeTransfer2_II.TFT_Set17.png",
+            "description": "味方チームが与えるダメージが8%増加する。超過ダメージの80%を、最も近くにいる敵に魔法ダメージとして与える。"
+        },
+        {
+            "stt": 10,
+            "id": "pandoranobenchi",
+            "name": "パンドラのベンチ",
+            "image": "Pandoras-Bench-II.png",
+            "description": "各ラウンドの開始時に、ベンチの右側3スロットにいるチャンピオンが、同じコストのランダムなチャンピオンに変化する。6ゴールドを獲得する。"
+        },
+        {
+            "stt": 11,
+            "id": "bu-suta-patsuku++",
+            "name": "ブースターパック++",
+            "image": "BoosterPack1_II.TFT_Set17.png",
+            "description": "ランダムなチャンピオンを合計26ゴールド分獲得する(コスト5が1体以上確定！)。\n\n(各チャンピオンは低確率でホログラム仕様になる！)"
+        },
+        {
+            "stt": 12,
+            "id": "meisunoJue_Yi_",
+            "name": "メイスの決意",
+            "image": "Will-of-the-Flail-II.png",
+            "description": "「スパーリング グローブ」を1個獲得する。味方チームの攻撃速度が8%、クリティカル率が20%増加する。"
+        },
+        {
+            "stt": 13,
+            "id": "ridenpushiyonnoHun_",
+            "name": "リデンプションの魂",
+            "image": "SpiritofRedemption_II.TFT_Set16.png",
+            "description": "「スピリット ビサージュ」を1個獲得する。5秒ごとに、「スピリット ビサージュ」が1マス以内の味方を、減少体力の7.5%回復する。"
+        },
+        {
+            "stt": 14,
+            "id": "Ying_Xiong_noratsuki-batsugu",
+            "name": "英雄のラッキーバッグ",
+            "image": "Heroic-Grab-Bag-II.png",
+            "description": "「小型チャンピオン複製器」2個と5ゴールドを獲得する。\n\n「小型チャンピオン複製器」を使うとコスト3以下のチャンピオンのコピーを1体獲得できる。"
+        },
+        {
+            "stt": 15,
+            "id": "Ying_Xiong_noratsuki-batsugu++",
+            "name": "英雄のラッキーバッグ++",
+            "image": "Heroic-Grab-Bag-II.png",
+            "description": "「小型チャンピオン複製器」2個と14ゴールドを獲得する。\n\n「小型チャンピオン複製器」を使うとコスト3以下のチャンピオンのコピーを1体獲得できる。"
+        },
+        {
+            "stt": 16,
+            "id": "Gao_Su_daburukiru",
+            "name": "高速ダブルキル",
+            "image": "SpeedyDoubleKill_II.TFT_Set16_ChampionAugments.png",
+            "description": "「グインソー レイジブレード」を1個獲得する。2人のプレイヤーが敗退すると、40ゴールドを獲得する。\n\n2021 Fates Championship"
+        },
+        {
+            "stt": 17,
+            "id": "o-raYu_Cheng_Zhong_",
+            "name": "オーラ育成中",
+            "image": "AuraFarming_II.TFT_Set15.png",
+            "description": "推奨アイテムを装備した★2のコスト5チャンピオンを1体獲得する。これは、ステージ4-3までボードに配置できない。"
+        },
+        {
+            "stt": 18,
+            "id": "kahunahuna",
+            "name": "カフナフナ",
+            "image": "FuriousBlows_II.TFT_Set16.png",
+            "description": "通常攻撃を5回行うごとに、基本攻撃力の150%にあたる追加確定ダメージを与える。"
+        },
+        {
+            "stt": 19,
+            "id": "sute-tasumashimashi",
+            "name": "ステータスマシマシ",
+            "image": "Tons-of-Stats-II.png",
+            "description": "味方チームの体力が44、攻撃力が4%、魔力が4%、物理防御が4、魔法防御が4、攻撃速度が4%、マナが4増加する。"
+        },
+        {
+            "stt": 20,
+            "id": "tore-dosekuta-",
+            "name": "トレードセクター",
+            "image": "Trade2.png",
+            "description": "毎ラウンド、ショップの無料リロール1回分を獲得する。2ゴールドを獲得する。"
+        },
+        {
+            "stt": 21,
+            "id": "hi-ringuo-bu_ii",
+            "name": "ヒーリングオーブ II",
+            "image": "Healing-Orbs-II.png",
+            "description": "敵ユニットがデスした際に、最も近くにいる味方の体力が500回復する。"
+        },
+        {
+            "stt": 22,
+            "id": "matsukusubirudo",
+            "name": "マックスビルド",
+            "image": "MaxBuild_II.TFT_Set16_ChampionAugments.png",
+            "description": "8回分のショップ無料リロールを獲得する。「チャンピオン複製器」をステージ4-5と6-2で1個獲得する。\n\n2020 Galaxies Championship"
+        },
+        {
+            "stt": 23,
+            "id": "Xi_Xie_noDan_Li__ii",
+            "name": "吸血の胆力 II",
+            "image": "Dhampyr_II.TFT_Set13.png",
+            "description": "敵のタクティシャンに与えたダメージの12%にあたる体力を回復する。味方チームのオムニヴァンプが18%増加する。"
+        },
+        {
+            "stt": 24,
+            "id": "Shi_Ji_Shi_Gua_kenoJia_Su_Zhuang_Zhi_",
+            "name": "時計仕掛けの加速装置",
+            "image": "ClockworkAccelerator_II.TFT_Set12.png",
+            "description": "戦闘中3秒ごとに味方チームの攻撃速度が10%増加する。"
+        },
+        {
+            "stt": 25,
+            "id": "Pu_Tong_Yu_Jin_Kou_Zuo_",
+            "name": "普通預金口座",
+            "image": "SavingsAccount_II.TFT_Set16.png",
+            "description": "利子で50ゴールドを獲得後、30ゴールドを獲得する。最大利子が7に増加する。即座に4ゴールドを獲得する。\n\n獲得ゴールド: ?"
+        },
+        {
+            "stt": 26,
+            "id": "Zui_Qiang_noSi_Pei_Zhe_",
+            "name": "最強の四配者",
+            "image": "Reinfourcement_II.png",
+            "description": "次にゴールドで購入するコスト4のチャンピオンが、即座に★2にアップグレードされる。5ゴールドを獲得する。"
+        },
+        {
+            "stt": 27,
+            "id": "Yan_woQiang_mete",
+            "name": "炎を強めて",
+            "image": "FeedTheFlames_II.TFT_Set16.png",
+            "description": "「サンファイア ケープ」を1個獲得する。燃焼を付与された敵を攻撃するとき、味方チームのオムニヴァンプが12%増加する。"
+        },
+        {
+            "stt": 28,
+            "id": "Wu_Chai_Bie_Sha_Ren_Zhe_",
+            "name": "無差別殺人者",
+            "image": "IndiscriminateSlayer_II.TFT_Set16.png",
+            "description": "「ジャイアント スレイヤー」を1個獲得する。「ジャイアント スレイヤー」がタンクだけでなく、すべての敵に対してダメージ増加効果を獲得する。"
+        },
+        {
+            "stt": 29,
+            "id": "Fu_Zhi_",
+            "name": "複製",
+            "image": "Replication-II.png",
+            "description": "3つの素材アイテムから1つを選ぶ。次の2ラウンドの間、その素材アイテムのコピーを1個獲得する。"
+        },
+        {
+            "stt": 30,
+            "id": "Qi_Si_Hui_Sheng__ii",
+            "name": "起死回生 II",
+            "image": "Second--Wind-II.png",
+            "description": "戦闘開始から10秒後、味方チームが減少体力の60%の体力を回復する。"
+        },
+        {
+            "stt": 31,
+            "id": "deyuokiyu-",
+            "name": "デュオキュー",
+            "image": "DuoQueue_II.TFT_Set12.png",
+            "description": "ランダムなコスト5のチャンピオンを2体獲得し、ランダムな素材アイテムのコピーを2個獲得する。"
+        },
+        {
+            "stt": 32,
+            "id": "Gong_noShi_i",
+            "name": "弓の誓い",
+            "image": "You-Have-My-Bow-II.png",
+            "description": "「リカーブ ボウ」を1個獲得する。味方チームの攻撃速度が12%増加する。"
+        },
+        {
+            "stt": 33,
+            "id": "Bao_Fa_De_Cheng_Chang_+",
+            "name": "爆発的成長+",
+            "image": "ExplosiveGrowth_II.TFT_Set12.png",
+            "description": "即座に、および次の3ラウンドに渡って、ラウンド開始時に10 XPの経験値を獲得する。"
+        },
+        {
+            "stt": 34,
+            "id": "Yan_Jiu_Re_Xin_",
+            "name": "研究熱心",
+            "image": "Learning-From-Experience-II.png",
+            "description": "対人戦ラウンドに勝利すると経験値を2 XP、敗北すると経験値を3 XP獲得する。"
+        },
+        {
+            "stt": 35,
+            "id": "Ying_Xiong_noratsuki-batsugu+",
+            "name": "英雄のラッキーバッグ+",
+            "image": "Heroic-Grab-Bag-II.png",
+            "description": "「小型チャンピオン複製器」2個と8ゴールドを獲得する。\n\n「小型チャンピオン複製器」を使うとコスト3以下のチャンピオンのコピーを1体獲得できる。"
+        },
+        {
+            "stt": 36,
+            "id": "Jin_pikanoGang_",
+            "name": "金ピカの鋼",
+            "image": "GildedSteel_II.TFT_16_4.png",
+            "description": "タンク以外のコスト5のチャンピオンを2体獲得する。コスト5のチャンピオンを1体以上配置すると、コスト1～4のチャンピオンが8%の耐久力を獲得する。\n\n2025 K.O. コロシアム: Tactician's Crown"
+        },
+        {
+            "stt": 37,
+            "id": "Mo_Fa_nodaisu",
+            "name": "魔法のダイス",
+            "image": "A-Magical-Roll-II.png",
+            "description": "3個のダイスを振る。その合計に応じて報酬を獲得する。\n\n報酬: ?"
+        }
+    ],
+    "3": [
+        {
+            "stt": 1,
+            "id": "ziyueru_ro-tasu_ii",
+            "name": "ジュエル ロータス II",
+            "image": "Jeweled-Lotus-III.png",
+            "description": "味方チームのクリティカル率が25%、クリティカルダメージが10%増加し、正確無比を獲得する。\n\n{{TFT_Keyword_Precision}}"
+        },
+        {
+            "stt": 2,
+            "id": "sourunoMu_Jue_me",
+            "name": "ソウルの目覚め",
+            "image": "AwakenedSoul_III.TFT_Set16.png",
+            "description": "戦闘開始時: 10秒間、味方チームの攻撃力と魔力が1.5%増加する。最大スタックになると、12%の追加確定ダメージを与える。"
+        },
+        {
+            "stt": 3,
+            "id": "pandoranoaitemu_iii",
+            "name": "パンドラのアイテム III",
+            "image": "Pandora3.png",
+            "description": "ラウンド開始時: ベンチのアイテムがランダムに変更される。\n\nランダムなレディアントアイテムを1個獲得する。"
+        },
+        {
+            "stt": 4,
+            "id": "purizumuchiketsuto",
+            "name": "プリズムチケット",
+            "image": "GoldenTicket3.png",
+            "description": "ショップをリロールするたびに、50%の確率で無料リロール1回分を獲得する。"
+        },
+        {
+            "stt": 5,
+            "id": "Hun_Dun_henoHu_biSheng_",
+            "name": "混沌への呼び声",
+            "image": "CallToChaos_III.png",
+            "description": "強力でランダムな報酬を1種類獲得する。\n\n報酬: ?"
+        },
+        {
+            "stt": 6,
+            "id": "Huang_Jin_noBo_Da_++",
+            "name": "黄金の博打++",
+            "image": "GoldenGamble_III.TFT_Set17.png",
+            "description": "12ゴールドを獲得してコインを投げる。表が出た場合、「レディアント 幸運のアイテムチェスト」を1個獲得する。裏が出た場合、「完成アイテムの金床」を2個獲得する。\n\n?"
+        },
+        {
+            "stt": 7,
+            "id": "koma-su_koa",
+            "name": "コマース コア",
+            "image": "Trade3.png",
+            "description": "ショップの無料のリロールを即座に16回分獲得し、さらに試合終了まで毎ラウンド3回分獲得する。"
+        },
+        {
+            "stt": 8,
+            "id": "baronnoChao_",
+            "name": "バロンの巣",
+            "image": "TheBaronsLair_III.TFT_16_4.png",
+            "description": "ランダムなタンクアイテムを1個獲得する。戦闘開始後8秒経過時点から戦闘終了まで、味方チームの攻撃速度と魔力が毎秒5%増加する。\n\n2025 TFT Paris Open"
+        },
+        {
+            "stt": 9,
+            "id": "Tou_Zi_Wan_Liao_++",
+            "name": "投資完了++",
+            "image": "Invested-III.png",
+            "description": "40ゴールドを獲得する。各戦闘終了時、50ゴールドを超えるゴールド量が10ゴールドごとにショップのリロールを1回獲得する(最大80ゴールドまで)。"
+        },
+        {
+            "stt": 10,
+            "id": "Xin_Bing_",
+            "name": "新兵",
+            "image": "NewRecruit3.png",
+            "description": "チームサイズの上限が1増加し、「チャンピオン複製器」を1個獲得する。"
+        },
+        {
+            "stt": 11,
+            "id": "Hui_kuE_Dang_",
+            "name": "輝く悪党",
+            "image": "Roll-the-Dice-III.png",
+            "description": "「悪党のグローブ」を1個獲得する。このアイテムの装備者は毎ラウンド、ランダムなレディアントアイテムを2個装備する。\n\nレディアントアイテムは非常に強力な完成アイテム。"
+        },
+        {
+            "stt": 12,
+            "id": "Jin_nomonsu-n",
+            "name": "金のモンスーン",
+            "image": "MoneyMonsoon_III.TFT_Set16.png",
+            "description": "即座に、そして残りの試合の毎ラウンド、7ゴールドを獲得する。"
+        },
+        {
+            "stt": 13,
+            "id": "ziyasutohitsuto",
+            "name": "ジャストヒット",
+            "image": "JustHit_III.TFT_Set16.png",
+            "description": "「チャンピオン複製器」を1個、ショップのリロール18回、3ゴールドを獲得する。"
+        },
+        {
+            "stt": 14,
+            "id": "Tou_Zi_Wan_Liao_+",
+            "name": "投資完了+",
+            "image": "Invested-III.png",
+            "description": "26ゴールドを獲得する。各戦闘終了時、50ゴールドを超えるゴールド量が10ゴールドごとにショップのリロールを1回獲得する(最大80ゴールドまで)。"
+        }
+    ]
 }
