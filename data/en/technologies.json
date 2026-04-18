@@ -5,7 +5,7 @@
             "id": "pandora's_items",
             "name": "Pandora's Items",
             "image": "Pandora1.png",
-            "description": "Round start: items on your bench are randomized. \n\nGain 1 random component."
+            "description": "Loading..."
         },
         {
             "stt": 2,
@@ -23,31 +23,31 @@
         },
         {
             "stt": 4,
+            "id": "teaming_up",
+            "name": "Teaming Up",
+            "image": "Teaming-Up-I.png",
+            "description": "Gain 1 random component and 2 random 3-cost champions."
+        },
+        {
+            "stt": 5,
             "id": "augmented_power",
             "name": "Augmented Power",
             "image": "PowerUp_I.TFT_Set13.png",
             "description": "Your next augment is one tier higher."
         },
         {
-            "stt": 5,
-            "id": "item_grab_bag",
-            "name": "Item Grab Bag",
-            "image": "ItemGrabBag1.png",
-            "description": "Gain 1 random completed item."
-        },
-        {
             "stt": 6,
-            "id": "slightly_magic_roll",
-            "name": "Slightly Magic Roll",
-            "image": "SlightlyMagicRoll_I.TFT_Set16.png",
-            "description": "Roll a die. Gain rewards based on the number rolled.\n\nReward: ?"
+            "id": "band_of_thieves",
+            "name": "Band of Thieves",
+            "image": "BandThieves1.png",
+            "description": "Gain 1 Thief's Gloves."
         },
         {
             "stt": 7,
-            "id": "team_building",
-            "name": "Team Building",
-            "image": "Building-an-army-I.png",
-            "description": "Gain a Lesser Champion Duplicator. Gain another after 5 player combats.\n\nThis item allows you to copy a 3-cost or less champion."
+            "id": "cognitive_tax+",
+            "name": "Cognitive Tax+",
+            "image": "CognitiveTax_I.TFT_Set17.png",
+            "description": "Gain 12 gold and 3 XP."
         },
         {
             "stt": 8,
@@ -55,6 +55,48 @@
             "name": "Feeling Lucky",
             "image": "FeelingLucky_I.TFT_Set17.png",
             "description": "Gain 12 gold, then flip a coin. If heads, gain 4 more gold.\n\n?"
+        },
+        {
+            "stt": 9,
+            "id": "item_grab_bag",
+            "name": "Item Grab Bag",
+            "image": "ItemGrabBag1.png",
+            "description": "Gain 1 random completed item."
+        },
+        {
+            "stt": 10,
+            "id": "partial_ascension",
+            "name": "Partial Ascension",
+            "image": "Ascension1.png",
+            "description": "After 12 seconds of combat, your team gains 20% Damage Amp."
+        },
+        {
+            "stt": 11,
+            "id": "slightly_magic_roll",
+            "name": "Slightly Magic Roll",
+            "image": "SlightlyMagicRoll_I.TFT_Set16.png",
+            "description": "Roll a die. Gain rewards based on the number rolled.\n\nReward: ?"
+        },
+        {
+            "stt": 12,
+            "id": "team_building",
+            "name": "Team Building",
+            "image": "Building-an-army-I.png",
+            "description": "Gain a Lesser Champion Duplicator. Gain another after 5 player combats.\n\nThis item allows you to copy a 3-cost or less champion."
+        },
+        {
+            "stt": 13,
+            "id": "the_tower",
+            "name": "The Tower",
+            "image": "TheTower_I.TFT_Set17.png",
+            "description": "Gain a giant Training Dummy with increased Health (increases with Stage). Every 4 seconds, it zaps the 3 nearest enemies dealing 5% max Health true damage."
+        },
+        {
+            "stt": 14,
+            "id": "size_matters",
+            "name": "Size Matters",
+            "image": "SizeMatters_I.TFT_Set17.png",
+            "description": "Gain a Giant's Belt. After a champion starts combat with more than null max Health, gain a Warmog's Armor."
         }
     ],
     "2": [
@@ -67,24 +109,24 @@
         },
         {
             "stt": 2,
+            "id": "portable_forge",
+            "name": "Portable Forge",
+            "image": "PortableForge2.png",
+            "description": "Choose 1 of 4 Artifacts.\n\nArtifacts are more powerful items with a unique effect."
+        },
+        {
+            "stt": 3,
             "id": "big_grab_bag",
             "name": "Big Grab Bag",
             "image": "Grab-Bag-II.png",
             "description": "Gain 3 random components, 2 gold, and 1 Reforger. \n\nReforgers allow you to remake any item."
         },
         {
-            "stt": 3,
+            "stt": 4,
             "id": "exclusive_customization",
             "name": "Exclusive Customization",
             "image": "ExclusiveCustomization_II.TFT_Set15.png",
             "description": "Gain a Lucky Item Chest, a Magnetic Remover, and 10 gold.\n\nUse a Lucky Item Chest on a champion to choose from an armory of recommended items!"
-        },
-        {
-            "stt": 4,
-            "id": "portable_forge",
-            "name": "Portable Forge",
-            "image": "PortableForge2.png",
-            "description": "Choose 1 of 4 Artifacts.\n\nArtifacts are more powerful items with a unique effect."
         },
         {
             "stt": 5,
@@ -109,199 +151,199 @@
         },
         {
             "stt": 8,
+            "id": "contract_killer",
+            "name": "Contract Killer",
+            "image": "ContractKiller_II.TFT_Set17.png",
+            "description": "Gain a Pyke. Your strongest Pyke becomes an Attack Fighter, generates gold on team takedown, and gains a reset on-kill Ability."
+        },
+        {
+            "stt": 9,
             "id": "heroic_grab_bag",
             "name": "Heroic Grab Bag",
             "image": "Heroic-Grab-Bag-II.png",
             "description": "Gain 2 Lesser Champion Duplicators and 5 gold.\n\nThis item allows you to copy a 3-cost or less champion."
         },
         {
-            "stt": 9,
+            "stt": 10,
             "id": "heroic_grab_bag++",
             "name": "Heroic Grab Bag++",
             "image": "Heroic-Grab-Bag-II.png",
             "description": "Gain 2 Lesser Champion Duplicators and 14 gold.\n\nThis item allows you to copy a 3-cost or less champion."
         },
         {
-            "stt": 10,
+            "stt": 11,
             "id": "jeweled_lotus_i",
             "name": "Jeweled Lotus I",
             "image": "Jeweled-Lotus-II.png",
             "description": "Your team gains 20% Critical Strike Chance and Precision.\n\n{{TFT_Keyword_Precision}}"
         },
         {
-            "stt": 11,
-            "id": "mace's_will",
-            "name": "Mace's Will",
-            "image": "Will-of-the-Flail-II.png",
-            "description": "Gain a Sparring Gloves. Your team gains 8% Attack Speed and 20% Critical Strike Chance."
-        },
-        {
             "stt": 12,
-            "id": "pandora's_bench",
-            "name": "Pandora's Bench",
-            "image": "Pandoras-Bench-II.png",
-            "description": "At the start of every round, champions on the 3 rightmost bench slots transform into random champions of the same cost. Gain 6 gold."
-        },
-        {
-            "stt": 13,
-            "id": "speedy_double_kill",
-            "name": "Speedy Double Kill",
-            "image": "SpeedyDoubleKill_II.TFT_Set16_ChampionAugments.png",
-            "description": "Gain a Guinsoo's Rageblade. When 2 players are eliminated, gain 40 gold.\n\nFates Championship, 2021"
-        },
-        {
-            "stt": 14,
-            "id": "spirit_of_redemption",
-            "name": "Spirit of Redemption",
-            "image": "SpiritofRedemption_II.TFT_Set16.png",
-            "description": "Gain a Spirit Visage. Every 5 seconds, Spirit Visage heals allies within 1 hex for 7.5% of their missing Health."
-        },
-        {
-            "stt": 15,
-            "id": "sunfire_board",
-            "name": "Sunfire Board",
-            "image": "SunfireBoard2.png",
-            "description": "Combat Start: Burn all enemies for 15% of their max Health over 15 seconds and reduce healing received by 33%."
-        },
-        {
-            "stt": 16,
-            "id": "u.r.f",
-            "name": "U.R.F",
-            "image": "UltraRapidFire_II.TFT_Set16.png",
-            "description": "Gain a Spatula. Champions holding Spatula or Frying Pan items gain 15% Attack Speed and 2 Mana Regen."
-        },
-        {
-            "stt": 17,
-            "id": "aura_farming",
-            "name": "Aura Farming",
-            "image": "AuraFarming_II.TFT_Set15.png",
-            "description": "Gain a 2-star 5-cost champion holding a recommended item. You cannot field it until Stage 4-3."
-        },
-        {
-            "stt": 18,
-            "id": "clockwork_accelerator",
-            "name": "Clockwork Accelerator",
-            "image": "ClockworkAccelerator_II.TFT_Set12.png",
-            "description": "Your team gains 10% Attack Speed every 3 seconds in combat."
-        },
-        {
-            "stt": 19,
-            "id": "feed_the_flames",
-            "name": "Feed the Flames",
-            "image": "FeedTheFlames_II.TFT_Set16.png",
-            "description": "Gain a Sunfire Cape. Your team gains 12% Omnivamp when attacking Burning enemies."
-        },
-        {
-            "stt": 20,
-            "id": "healing_orbs_ii",
-            "name": "Healing Orbs II",
-            "image": "Healing-Orbs-II.png",
-            "description": "When an enemy dies, the nearest ally is healed for 500."
-        },
-        {
-            "stt": 21,
-            "id": "indiscriminate_killer",
-            "name": "Indiscriminate Killer",
-            "image": "IndiscriminateSlayer_II.TFT_Set16.png",
-            "description": "Gain a Giant Slayer. Giant Slayers gain their Damage Amp against all enemies instead of just Tanks."
-        },
-        {
-            "stt": 22,
             "id": "kahunahuna",
             "name": "Kahunahuna",
             "image": "FuriousBlows_II.TFT_Set16.png",
             "description": "Every 5th attack deals bonus true damage equal to 150% Basic Attack Damage."
         },
         {
-            "stt": 23,
+            "stt": 13,
+            "id": "mace's_will",
+            "name": "Mace's Will",
+            "image": "Will-of-the-Flail-II.png",
+            "description": "Gain a Sparring Gloves. Your team gains 8% Attack Speed and 20% Critical Strike Chance."
+        },
+        {
+            "stt": 14,
             "id": "max_build",
             "name": "Max Build",
             "image": "MaxBuild_II.TFT_Set16_ChampionAugments.png",
             "description": "Gain 8 free Shop rerolls. On Stage 4-5 and 6-2, gain a Champion Duplicator.\n\nGalaxies Championship, 2020"
         },
         {
-            "stt": 24,
-            "id": "reinfourcement",
-            "name": "ReinFOURcement",
-            "image": "Reinfourcement_II.png",
-            "description": "The next 4-cost champion you buy with gold is instantly upgraded to 2-star. Gain 5 gold."
+            "stt": 15,
+            "id": "pandora's_bench",
+            "name": "Pandora's Bench",
+            "image": "Pandoras-Bench-II.png",
+            "description": "At the start of every round, champions on the 3 rightmost bench slots transform into random champions of the same cost. Gain 6 gold."
         },
         {
-            "stt": 25,
-            "id": "replication",
-            "name": "Replication",
-            "image": "Replication-II.png",
-            "description": "Choose 1 of 3 components. For the next 2 rounds, gain a copy of that component."
+            "stt": 16,
+            "id": "speedy_double_kill",
+            "name": "Speedy Double Kill",
+            "image": "SpeedyDoubleKill_II.TFT_Set16_ChampionAugments.png",
+            "description": "Gain a Guinsoo's Rageblade. When 2 players are eliminated, gain 40 gold.\n\nFates Championship, 2021"
         },
         {
-            "stt": 26,
-            "id": "savings_account",
-            "name": "Savings Account",
-            "image": "SavingsAccount_II.TFT_Set16.png",
-            "description": "After you earn 50 gold in interest, gain 30 gold. Your max interest is increased to 7. Gain 4 gold now.\n\nGold earned: ?"
+            "stt": 17,
+            "id": "spirit_of_redemption",
+            "name": "Spirit of Redemption",
+            "image": "SpiritofRedemption_II.TFT_Set16.png",
+            "description": "Gain a Spirit Visage. Every 5 seconds, Spirit Visage heals allies within 1 hex for 7.5% of their missing Health."
         },
         {
-            "stt": 27,
-            "id": "second_wind_ii",
-            "name": "Second Wind II",
-            "image": "Second--Wind-II.png",
-            "description": "After 10 seconds of combat, your team heals 60% of their missing Health."
+            "stt": 18,
+            "id": "sunfire_board",
+            "name": "Sunfire Board",
+            "image": "SunfireBoard2.png",
+            "description": "Combat Start: Burn all enemies for 15% of their max Health over 15 seconds and reduce healing received by 33%."
         },
         {
-            "stt": 28,
-            "id": "tons_of_stats!",
-            "name": "Tons of Stats!",
-            "image": "Tons-of-Stats-II.png",
-            "description": "Your team gains 44 Health, 4% Attack Damage, 4% Ability Power, 4 Armor, 4 Magic Resist, 4% Attack Speed, and 4 Mana."
-        },
-        {
-            "stt": 29,
+            "stt": 19,
             "id": "trade_sector",
             "name": "Trade Sector",
             "image": "Trade2.png",
             "description": "Gain a free Shop reroll every round. Gain 2 gold."
         },
         {
+            "stt": 20,
+            "id": "u.r.f",
+            "name": "U.R.F",
+            "image": "UltraRapidFire_II.TFT_Set16.png",
+            "description": "Gain a Spatula. Champions holding Spatula or Frying Pan items gain 15% Attack Speed and 2 Mana Regen."
+        },
+        {
+            "stt": 21,
+            "id": "aura_farming",
+            "name": "Aura Farming",
+            "image": "AuraFarming_II.TFT_Set15.png",
+            "description": "Gain a 2-star 5-cost champion holding a recommended item. You cannot field it until Stage 4-3."
+        },
+        {
+            "stt": 22,
+            "id": "clockwork_accelerator",
+            "name": "Clockwork Accelerator",
+            "image": "ClockworkAccelerator_II.TFT_Set12.png",
+            "description": "Your team gains 10% Attack Speed every 3 seconds in combat."
+        },
+        {
+            "stt": 23,
+            "id": "cluttered_mind",
+            "name": "Cluttered Mind",
+            "image": "Dizzy-II.png",
+            "description": "Gain 4 random 1-cost champions now. If your bench is full at the end of player combat, gain 3 XP."
+        },
+        {
+            "stt": 24,
+            "id": "early_learnings",
+            "name": "Early Learnings",
+            "image": "EarlyLearning_II.TFT_Set16_ChampionAugments.png",
+            "description": "Your team gains 4% Attack Damage & Ability Power. This increases by 1% after each player combat. 1-cost champions gain double.\n?\nTFT Vegas Open, 2023"
+        },
+        {
+            "stt": 25,
+            "id": "electrocharge_ii",
+            "name": "Electrocharge II",
+            "image": "Electrocharge-II.png",
+            "description": "Every 4 attacks an ally takes, they deal 50-140 (based on current Stage) magic damage to nearby enemies (1 second cooldown)."
+        },
+        {
+            "stt": 26,
+            "id": "epic_rolldown",
+            "name": "Epic Rolldown",
+            "image": "EpicRolldown_II.TFT_Set16_ChampionAugments.png",
+            "description": "When you reach Level 8, gain 20 Shop rerolls.\n\nRuneterra Reforged Championship, 2023"
+        },
+        {
+            "stt": 27,
+            "id": "epoch",
+            "name": "Epoch",
+            "image": "Epoch_II.png",
+            "description": "Now, and at the start of every stage, gain 4 XP and 2 free rerolls."
+        },
+        {
+            "stt": 28,
+            "id": "feed_the_flames",
+            "name": "Feed the Flames",
+            "image": "FeedTheFlames_II.TFT_Set16.png",
+            "description": "Gain a Sunfire Cape. Your team gains 12% Omnivamp when attacking Burning enemies."
+        },
+        {
+            "stt": 29,
+            "id": "gain_21_gold",
+            "name": "Gain 21 Gold",
+            "image": "Windfall2.png",
+            "description": "Gain 21 gold."
+        },
+        {
             "stt": 30,
-            "id": "vampiric_vitality_ii",
-            "name": "Vampiric Vitality II",
-            "image": "Dhampyr_II.TFT_Set13.png",
-            "description": "You heal for 12% of the damage you deal to enemy Tacticians. Your team gains 18% Omnivamp."
-        },
-        {
-            "stt": 31,
-            "id": "a_magic_roll",
-            "name": "A Magic Roll",
-            "image": "A-Magical-Roll-II.png",
-            "description": "Roll 3 dice. Gain rewards based on their total.\n\nReward: ?"
-        },
-        {
-            "stt": 32,
-            "id": "duo_queue",
-            "name": "Duo Queue",
-            "image": "DuoQueue_II.TFT_Set12.png",
-            "description": "Gain 2 random 5-cost champions and 2 copies of a random component."
-        },
-        {
-            "stt": 33,
-            "id": "explosive_growth+",
-            "name": "Explosive Growth+",
-            "image": "ExplosiveGrowth_II.TFT_Set12.png",
-            "description": "Now and at the start of the next 3 rounds, gain 10 XP."
-        },
-        {
-            "stt": 34,
             "id": "gilded_steel",
             "name": "Gilded Steel",
             "image": "GildedSteel_II.TFT_16_4.png",
             "description": "Gain 2 non-Tank 5-cost champions. If you field at least one 5-cost champion, your 1 to 4-cost champions gain 8% Durability.\n\nK.O. Coliseum Tactician's Crown, 2025"
         },
         {
-            "stt": 35,
+            "stt": 31,
+            "id": "healing_orbs_ii",
+            "name": "Healing Orbs II",
+            "image": "Healing-Orbs-II.png",
+            "description": "When an enemy dies, the nearest ally is healed for 500."
+        },
+        {
+            "stt": 32,
             "id": "heroic_grab_bag+",
             "name": "Heroic Grab Bag+",
             "image": "Heroic-Grab-Bag-II.png",
             "description": "Gain 2 Lesser Champion Duplicators and 8 gold.\n\nThis item allows you to copy a 3-cost or less champion."
+        },
+        {
+            "stt": 33,
+            "id": "indiscriminate_killer",
+            "name": "Indiscriminate Killer",
+            "image": "IndiscriminateSlayer_II.TFT_Set16.png",
+            "description": "Gain a Giant Slayer. Giant Slayers gain their Damage Amp against all enemies instead of just Tanks."
+        },
+        {
+            "stt": 34,
+            "id": "malicious_monetization",
+            "name": "Malicious Monetization",
+            "image": "MirroredMonetization_II.TFT_Set13.png",
+            "description": "Gain 4 gold. For the next 2 rounds, enemy champions drop 2 gold when killed.\n\n?"
+        },
+        {
+            "stt": 35,
+            "id": "money_hungry",
+            "name": "Money Hungry",
+            "image": "MoneyHungry1_II.TFT_Set17.png",
+            "description": "Gain 7 gold now, then 7 gold at the start of every stage. Picking up gold makes your Tactician larger."
         },
         {
             "stt": 36,
@@ -312,110 +354,257 @@
         },
         {
             "stt": 37,
+            "id": "reinfourcement",
+            "name": "ReinFOURcement",
+            "image": "Reinfourcement_II.png",
+            "description": "The next 4-cost champion you buy with gold is instantly upgraded to 2-star. Gain 5 gold."
+        },
+        {
+            "stt": 38,
+            "id": "replication",
+            "name": "Replication",
+            "image": "Replication-II.png",
+            "description": "Choose 1 of 3 components. For the next 2 rounds, gain a copy of that component."
+        },
+        {
+            "stt": 39,
+            "id": "salvage_bin+",
+            "name": "Salvage Bin+",
+            "image": "Salvage2.png",
+            "description": "Gain 1 random completed item now, and 1 component after 4 player combats. Selling champions breaks completed items into components (excluding Tactician's items and Emblems)."
+        },
+        {
+            "stt": 40,
+            "id": "savings_account",
+            "name": "Savings Account",
+            "image": "SavingsAccount_II.TFT_Set16.png",
+            "description": "After you earn 50 gold in interest, gain 30 gold. Your max interest is increased to 7. Gain 4 gold now.\n\nGold earned: ?"
+        },
+        {
+            "stt": 41,
+            "id": "second_wind_ii",
+            "name": "Second Wind II",
+            "image": "Second--Wind-II.png",
+            "description": "After 10 seconds of combat, your team heals 60% of their missing Health."
+        },
+        {
+            "stt": 42,
+            "id": "seraphim's_staff",
+            "name": "Seraphim's Staff",
+            "image": "SeraphimsStaff_II.TFT_Set16.png",
+            "description": "Gain an Archangel's Staff. Archangel's Staff grants 2 additional Mana Regen if its holder has 90% or more Ability Power."
+        },
+        {
+            "stt": 43,
+            "id": "solo_plate",
+            "name": "Solo Plate",
+            "image": "SoloPlate_II.TFT_Set16.png",
+            "description": "Gain a Gargoyle Stoneplate. Combat start: Allies holding Gargoyle Stoneplate gain 20% max Health if they're the only one in their row."
+        },
+        {
+            "stt": 44,
+            "id": "the_big_bang",
+            "name": "The Big Bang",
+            "image": "MeepSpace9_II.TFT_Set17.png",
+            "description": "Gain a Meepsie. Your strongest Meepsie becomes a Magic Fighter that leaps to a nearby hex to deal damage in a large radius."
+        },
+        {
+            "stt": 45,
+            "id": "tons_of_stats!",
+            "name": "Tons of Stats!",
+            "image": "Tons-of-Stats-II.png",
+            "description": "Your team gains 44 Health, 4% Attack Damage, 4% Ability Power, 4 Armor, 4 Magic Resist, 4% Attack Speed, and 4 Mana."
+        },
+        {
+            "stt": 46,
+            "id": "vampiric_vitality_ii",
+            "name": "Vampiric Vitality II",
+            "image": "Dhampyr_II.TFT_Set13.png",
+            "description": "You heal for 12% of the damage you deal to enemy Tacticians. Your team gains 18% Omnivamp."
+        },
+        {
+            "stt": 47,
+            "id": "warlord's_honor",
+            "name": "Warlord's Honor",
+            "image": "Unforgotten_II.TFT_Set16.png",
+            "description": "Every round, your team gain 5% Attack Damage and Ability Power. Champions start with 1 stack of this effect, and can stack up to 4 times."
+        },
+        {
+            "stt": 48,
+            "id": "worth_the_wait",
+            "name": "Worth the Wait",
+            "image": "WorthTheWait_II.TFT_Set12.png",
+            "description": "Gain a random 1-cost champion. Gain another copy of them at the start of each round for the rest of the game.\n\nChampion: ?"
+        },
+        {
+            "stt": 49,
             "id": "you_have_my_bow",
             "name": "You Have My Bow",
             "image": "You-Have-My-Bow-II.png",
             "description": "Gain a Recurve Bow. Your team gains 12% Attack Speed."
+        },
+        {
+            "stt": 50,
+            "id": "a_magic_roll",
+            "name": "A Magic Roll",
+            "image": "A-Magical-Roll-II.png",
+            "description": "Roll 3 dice. Gain rewards based on their total.\n\nReward: ?"
+        },
+        {
+            "stt": 51,
+            "id": "anima_commander",
+            "name": "Anima Commander",
+            "image": "AnimaCommander_II.TFT_Set17.png",
+            "description": "Gain a Briar, a Jinx, and an Illaoi. Increase your current and max player Health by 10."
+        },
+        {
+            "stt": 52,
+            "id": "booster_pack",
+            "name": "Booster Pack",
+            "image": "BoosterPack1_II.TFT_Set17.png",
+            "description": "Gain 10 gold of random champions. (At least one 3-cost guaranteed!)\n\n(Each champion has a small chance of being holographic!)"
+        },
+        {
+            "stt": 53,
+            "id": "booster_pack+",
+            "name": "Booster Pack+",
+            "image": "BoosterPack1_II.TFT_Set17.png",
+            "description": "Gain 18 gold of random champions. (At least one 4-cost guaranteed!)\n\n(Each champion has a small chance of being holographic!)"
+        },
+        {
+            "stt": 54,
+            "id": "duo_queue",
+            "name": "Duo Queue",
+            "image": "DuoQueue_II.TFT_Set12.png",
+            "description": "Gain 2 random 5-cost champions and 2 copies of a random component."
+        },
+        {
+            "stt": 55,
+            "id": "epoch+",
+            "name": "Epoch+",
+            "image": "Epoch_II.png",
+            "description": "Now, and at the start of every stage, gain 8 XP and 2 free rerolls."
+        },
+        {
+            "stt": 56,
+            "id": "explosive_growth+",
+            "name": "Explosive Growth+",
+            "image": "ExplosiveGrowth_II.TFT_Set12.png",
+            "description": "Now and at the start of the next 3 rounds, gain 10 XP."
+        },
+        {
+            "stt": 57,
+            "id": "vampiric_vitality_i",
+            "name": "Vampiric Vitality I",
+            "image": "Dhampyr_II.TFT_Set13.png",
+            "description": "You heal for 12% of the damage you deal to enemy Tacticians. Your team gains 10% Omnivamp."
         }
     ],
     "3": [
         {
             "stt": 1,
-            "id": "call_to_chaos",
-            "name": "Call to Chaos",
-            "image": "CallToChaos_III.png",
-            "description": "Gain a powerful and random reward.\n\nReward: ?"
-        },
-        {
-            "stt": 2,
-            "id": "golden_gamble++",
-            "name": "Golden Gamble++",
-            "image": "GoldenGamble_III.TFT_Set17.png",
-            "description": "Gain 12 gold and flip a coin. If heads, gain a Radiant Lucky Item Chest. If tails, gain 2 Completed item anvils.\n\n?"
-        },
-        {
-            "stt": 3,
-            "id": "jeweled_lotus_ii",
-            "name": "Jeweled Lotus II",
-            "image": "Jeweled-Lotus-III.png",
-            "description": "Your team gains 25% Critical Strike Chance, 10% Critical Strike Damage, and Precision.\n\n{{TFT_Keyword_Precision}}"
-        },
-        {
-            "stt": 4,
-            "id": "pandora's_items_iii",
-            "name": "Pandora's Items III",
-            "image": "Pandora3.png",
-            "description": "Round start: items on your bench are randomized. \n\nGain 1 random Radiant item."
-        },
-        {
-            "stt": 5,
-            "id": "prismatic_ticket",
-            "name": "Prismatic Ticket",
-            "image": "GoldenTicket3.png",
-            "description": "Each time your Shop is rerolled, you have a 50% chance to gain a free reroll."
-        },
-        {
-            "stt": 6,
-            "id": "soul_awakening",
-            "name": "Soul Awakening",
-            "image": "AwakenedSoul_III.TFT_Set16.png",
-            "description": "Combat start: Your team gains 1.5% Attack Damage and Ability Power per second for 10 seconds. At max stacks, deal 12% bonus true damage."
-        },
-        {
-            "stt": 7,
             "id": "baron's_lair",
             "name": "Baron's Lair",
             "image": "TheBaronsLair_III.TFT_16_4.png",
             "description": "Gain a random Tank item. After 8 seconds of combat, your team gains 5% bonus Attack Damage and Ability Power every second for the rest of combat.\n\nTFT Paris Open, 2025"
         },
         {
-            "stt": 8,
+            "stt": 2,
+            "id": "call_to_chaos",
+            "name": "Call to Chaos",
+            "image": "CallToChaos_III.png",
+            "description": "Gain a powerful and random reward.\n\nReward: ?"
+        },
+        {
+            "stt": 3,
             "id": "commerce_core",
             "name": "Commerce Core",
             "image": "Trade3.png",
             "description": "Gain 16 free Shop rerolls now and 3 every round for the rest of the game."
         },
         {
+            "stt": 4,
+            "id": "golden_gamble++",
+            "name": "Golden Gamble++",
+            "image": "GoldenGamble_III.TFT_Set17.png",
+            "description": "Gain 12 gold and flip a coin. If heads, gain a Radiant Lucky Item Chest. If tails, gain 2 Completed item anvils.\n\n?"
+        },
+        {
+            "stt": 5,
+            "id": "jeweled_lotus_ii",
+            "name": "Jeweled Lotus II",
+            "image": "Jeweled-Lotus-III.png",
+            "description": "Your team gains 25% Critical Strike Chance, 10% Critical Strike Damage, and Precision.\n\n{{TFT_Keyword_Precision}}"
+        },
+        {
+            "stt": 6,
+            "id": "pandora's_items_iii",
+            "name": "Pandora's Items III",
+            "image": "Pandora3.png",
+            "description": "Round start: items on your bench are randomized. \n\nGain 1 random Radiant item."
+        },
+        {
+            "stt": 7,
+            "id": "prismatic_ticket",
+            "name": "Prismatic Ticket",
+            "image": "GoldenTicket3.png",
+            "description": "Each time your Shop is rerolled, you have a 50% chance to gain a free reroll."
+        },
+        {
+            "stt": 8,
+            "id": "soul_awakening",
+            "name": "Soul Awakening",
+            "image": "AwakenedSoul_III.TFT_Set16.png",
+            "description": "Combat start: Your team gains 1.5% Attack Damage and Ability Power per second for 10 seconds. At max stacks, deal 12% bonus true damage."
+        },
+        {
             "stt": 9,
-            "id": "invested++",
-            "name": "Invested++",
-            "image": "Invested-III.png",
-            "description": "Gain 40 gold. After every combat, gain 1 Shop reroll for every 10 gold above 50 (max 80 gold)."
+            "id": "hedge_fund+",
+            "name": "Hedge Fund+",
+            "image": "RichGetRicher3.png",
+            "description": "Gain 30 gold. Your max interest is increased to 10.\n\nInterest is extra gold you gain per 10g saved."
         },
         {
             "stt": 10,
-            "id": "money_monsoon",
-            "name": "Money Monsoon",
-            "image": "MoneyMonsoon_III.TFT_Set16.png",
-            "description": "Gain 7 gold now and every round for the rest of the game."
-        },
-        {
-            "stt": 11,
-            "id": "new_recruit",
-            "name": "New Recruit",
-            "image": "NewRecruit3.png",
-            "description": "Gain +1 max team size and a Champion Duplicator."
-        },
-        {
-            "stt": 12,
-            "id": "radiant_rascal",
-            "name": "Radiant Rascal",
-            "image": "Roll-the-Dice-III.png",
-            "description": "Gain a Rascal's Gloves item. This equips 2 random Radiant items every round.\n\nRadiant items are very powerful versions of completed items."
-        },
-        {
-            "stt": 13,
             "id": "invested+",
             "name": "Invested+",
             "image": "Invested-III.png",
             "description": "Gain 26 gold. After every combat, gain 1 Shop reroll for every 10 gold above 50 (max 80 gold)."
         },
         {
-            "stt": 14,
+            "stt": 11,
+            "id": "invested++",
+            "name": "Invested++",
+            "image": "Invested-III.png",
+            "description": "Gain 40 gold. After every combat, gain 1 Shop reroll for every 10 gold above 50 (max 80 gold)."
+        },
+        {
+            "stt": 12,
             "id": "just_hit",
             "name": "Just Hit",
             "image": "JustHit_III.TFT_Set16.png",
             "description": "Gain a Champion Duplicator, 18 Shop rerolls, and 3 gold."
+        },
+        {
+            "stt": 13,
+            "id": "money_monsoon",
+            "name": "Money Monsoon",
+            "image": "MoneyMonsoon_III.TFT_Set16.png",
+            "description": "Gain 7 gold now and every round for the rest of the game."
+        },
+        {
+            "stt": 14,
+            "id": "new_recruit",
+            "name": "New Recruit",
+            "image": "NewRecruit3.png",
+            "description": "Gain +1 max team size and a Champion Duplicator."
+        },
+        {
+            "stt": 15,
+            "id": "radiant_rascal",
+            "name": "Radiant Rascal",
+            "image": "Roll-the-Dice-III.png",
+            "description": "Gain a Rascal's Gloves item. This equips 2 random Radiant items every round.\n\nRadiant items are very powerful versions of completed items."
         }
     ]
 }
