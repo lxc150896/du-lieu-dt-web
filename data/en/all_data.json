@@ -15375,92 +15375,153 @@
   "synergys": [
     {
       "stt": 1,
-      "id": "space_groove",
-      "name": "Space Groove",
-      "image": "Trait_Icon_17_SpaceGroove.TFT_Set17.png",
+      "id": "dark_star",
+      "name": "Dark Star",
+      "image": "Trait_Icon_17_DarkStar.TFT_Set17.png",
       "description_icon": [
-        "Space Groove units can enter the Groove state. While in Groove, their bonuses scale with the number of Space Groove allies and grow stronger at higher trait tiers."
+        "Dark Star units create a black hole that devours enemies below 10% max Health. The higher the trait tier, the stronger the black hole becomes."
       ],
       "description_detail": [
         [
-          "1",
-          "Groovians can enter Space Groove. While in it",
-          "they gain Attack Speed and max Health Regen",
-          "increased per Groovian on your team."
+          "2",
+          "Dark Stars create a black hole that consumes enemies at",
+          "?%",
+          "8%",
+          "max health."
         ],
         [
-          "3",
-          "All Groovians start combat in Space Groove for 3 seconds."
+          "4",
+          "AND they gain 45%",
+          "AD.png",
+          "AP.png",
+          "."
         ],
         [
-          "5",
-          "Each second spent in Space Groove grants 5% stacking Attack Damage and Ability Power."
+          "6",
+          "AND the strongest Dark Star unit goes supermassive",
+          "gaining 85% effectiveness from Dark Star",
+          "and creates 2 minor Black Holes."
         ],
         [
-          "7",
-          "Increase these effects by 10%!"
-        ],
-        [
-          "10",
-          "{{TFT17_SpaceGroove_Groove}}"
+          "9",
+          "All Dark Stars are supermassive. At level 10",
+          "CONSUME EVERYONE."
         ]
       ],
-      "champions": [],
-      "average_position": "1.07",
+      "champions": [
+        {
+          "id": "cho'gath",
+          "name": "Cho'Gath",
+          "image": "tft17_chogath.tft_set17.png"
+        },
+        {
+          "id": "lissandra",
+          "name": "Lissandra",
+          "image": "tft17_lissandra.tft_set17.png"
+        },
+        {
+          "id": "mordekaiser",
+          "name": "Mordekaiser",
+          "image": "tft17_mordekaiser.tft_set17.png"
+        },
+        {
+          "id": "kai'sa",
+          "name": "Kai'Sa",
+          "image": "tft17_kaisa.tft_set17.png"
+        },
+        {
+          "id": "karma",
+          "name": "Karma",
+          "image": "tft17_karma.tft_set17.png"
+        },
+        {
+          "id": "jhin",
+          "name": "Jhin",
+          "image": "tft17_jhin.tft_set17.png"
+        }
+      ],
+      "average_position": "1",
       "top_4_rate": "100",
-      "top_1_rate": "96.09",
-      "battle": "179",
+      "top_1_rate": "100.00",
+      "battle": "3",
       "trait": "Origin",
-      "kich_hoat": "10"
+      "kich_hoat": "9"
     },
     {
       "stt": 2,
-      "id": "stargazer_(the_mountain)",
-      "name": "Stargazer (The Mountain)",
-      "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
+      "id": "conduit",
+      "name": "Conduit",
+      "image": "Trait_Icon_17_Channeler.TFT_Set17.png",
       "description_icon": [
-        "Stargazers chart a different constellation every game. This game: The Mountain",
+        "Innate: Conduits gain 20% additional Mana from all sources.",
         "\n",
         "\n",
-        "Every 5 player combats, gain a Stargazer Emblem. Stargazers in empowered hexes gain various bonuses.",
-        "\n",
-        "\n",
-        "(Combats Remaining: ?)",
+        "Your team gains Mana Regen, increased for Conduits.",
         "\n"
       ],
       "description_detail": [
         [
+          "2",
+          "1",
+          "manaregen.png",
+          "| 3",
+          "manaregen.png"
+        ],
+        [
           "3",
-          "Gain 15% Health"
+          "1",
+          "manaregen.png",
+          "| 5",
+          "manaregen.png"
         ],
         [
           "4",
-          "AND 15% Attack Damage and Ability Power"
+          "2",
+          "manaregen.png",
+          "| 7",
+          "manaregen.png"
         ],
         [
           "5",
-          "AND 10 Armor and Magic Resist"
-        ],
-        [
-          "6",
-          "AND 10% Attack Speed"
-        ],
-        [
-          "7",
-          "AND 6% Durability"
-        ],
-        [
-          "8",
-          "AND increase all other bonuses by 10%"
+          "3",
+          "manaregen.png",
+          "| 9",
+          "manaregen.png"
         ]
       ],
-      "champions": [],
-      "average_position": "1.11",
-      "top_4_rate": "97.73",
-      "top_1_rate": "95.45",
-      "battle": "44",
-      "trait": "Origin",
-      "kich_hoat": "11"
+      "champions": [
+        {
+          "id": "zoe",
+          "name": "Zoe",
+          "image": "tft17_zoe.tft_set17.png"
+        },
+        {
+          "id": "mordekaiser",
+          "name": "Mordekaiser",
+          "image": "tft17_mordekaiser.tft_set17.png"
+        },
+        {
+          "id": "viktor",
+          "name": "Viktor",
+          "image": "tft17_viktor.tft_set17.png"
+        },
+        {
+          "id": "aurelion_sol",
+          "name": "Aurelion Sol",
+          "image": "tft17_aurelionsol.tft_set17.png"
+        },
+        {
+          "id": "bard",
+          "name": "Bard",
+          "image": "tft17_bard.tft_set17.png"
+        }
+      ],
+      "average_position": "2.6",
+      "top_4_rate": "100",
+      "top_1_rate": "40.00",
+      "battle": "5",
+      "trait": "Class",
+      "kich_hoat": "4"
     },
     {
       "stt": 3,
@@ -15507,51 +15568,101 @@
           ". SUMMON THE FOUR MEEPLORDS!"
         ]
       ],
-      "champions": [],
-      "average_position": "1.66",
-      "top_4_rate": "94.98",
-      "top_1_rate": "69.28",
-      "battle": "677",
+      "champions": [
+        {
+          "id": "poppy",
+          "name": "Poppy",
+          "image": "tft17_poppy.tft_set17.png"
+        },
+        {
+          "id": "veigar",
+          "name": "Veigar",
+          "image": "tft17_veigar.tft_set17.png"
+        },
+        {
+          "id": "gnar",
+          "name": "Gnar",
+          "image": "tft17_gnar.tft_set17.png"
+        },
+        {
+          "id": "meepsie",
+          "name": "Meepsie",
+          "image": "tft17_ivernminion.tft_set17.png"
+        },
+        {
+          "id": "fizz",
+          "name": "Fizz",
+          "image": "tft17_fizz.tft_set17.png"
+        },
+        {
+          "id": "rammus",
+          "name": "Rammus",
+          "image": "tft17_rammus.tft_set17.png"
+        },
+        {
+          "id": "corki",
+          "name": "Corki",
+          "image": "tft17_corki.tft_set17.png"
+        },
+        {
+          "id": "bard",
+          "name": "Bard",
+          "image": "tft17_bard.tft_set17.png"
+        }
+      ],
+      "average_position": "1.86",
+      "top_4_rate": "92.86",
+      "top_1_rate": "57.14",
+      "battle": "14",
       "trait": "Origin",
       "kich_hoat": "10"
     },
     {
       "stt": 4,
-      "id": "dark_star",
-      "name": "Dark Star",
-      "image": "Trait_Icon_17_DarkStar.TFT_Set17.png",
+      "id": "stargazer_(the_mountain)",
+      "name": "Stargazer (The Mountain)",
+      "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
       "description_icon": [
-        "Dark Star units create a black hole that devours enemies below 10% max Health. The higher the trait tier, the stronger the black hole becomes."
+        "Stargazers chart a different constellation every game. This game: The Mountain",
+        "\n",
+        "\n",
+        "Every 5 player combats, gain a Stargazer Emblem. Stargazers in empowered hexes gain various bonuses.",
+        "\n",
+        "\n",
+        "(Combats Remaining: ?)",
+        "\n"
       ],
       "description_detail": [
         [
-          "2",
-          "Dark Stars create a black hole that consumes enemies at 8% max health."
+          "3",
+          "Gain 15% Health"
         ],
         [
           "4",
-          "AND they gain 45%",
-          "AD.png",
-          "AP.png",
-          "."
+          "AND 15% Attack Damage and Ability Power"
+        ],
+        [
+          "5",
+          "AND 10 Armor and Magic Resist"
         ],
         [
           "6",
-          "AND the strongest Dark Star unit goes supermassive",
-          "gaining 85% effectiveness from Dark Star",
-          "and creates 2 minor Black Holes."
+          "AND 10% Attack Speed"
         ],
         [
-          "9",
-          "All Dark Stars are supermassive. At level 10",
-          "CONSUME EVERYONE."
+          "7",
+          "AND 6% Durability"
+        ],
+        [
+          "8",
+          "AND increase all other bonuses by 10%"
         ]
       ],
       "champions": [],
-      "average_position": "1.45",
-      "top_4_rate": "94.41",
-      "top_1_rate": "86.59",
-      "battle": "179",
+      "average_position": "2.68",
+      "top_4_rate": "89.47",
+      "top_1_rate": "21.05",
+      "battle": "19",
       "trait": "Origin",
       "kich_hoat": "9"
     },
@@ -15597,686 +15708,15 @@
         ]
       ],
       "champions": [],
-      "average_position": "2.77",
-      "top_4_rate": "82.05",
-      "top_1_rate": "30.77",
-      "battle": "117",
+      "average_position": "2.13",
+      "top_4_rate": "87.5",
+      "top_1_rate": "50.00",
+      "battle": "8",
       "trait": "Origin",
       "kich_hoat": "10"
     },
     {
       "stt": 6,
-      "id": "stargazer_(the_mountain)",
-      "name": "Stargazer (The Mountain)",
-      "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
-      "description_icon": [
-        "Stargazers chart a different constellation every game. This game: The Mountain",
-        "\n",
-        "\n",
-        "Every 5 player combats, gain a Stargazer Emblem. Stargazers in empowered hexes gain various bonuses.",
-        "\n",
-        "\n",
-        "(Combats Remaining: ?)",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "3",
-          "Gain 15% Health"
-        ],
-        [
-          "4",
-          "AND 15% Attack Damage and Ability Power"
-        ],
-        [
-          "5",
-          "AND 10 Armor and Magic Resist"
-        ],
-        [
-          "6",
-          "AND 10% Attack Speed"
-        ],
-        [
-          "7",
-          "AND 6% Durability"
-        ],
-        [
-          "8",
-          "AND increase all other bonuses by 10%"
-        ]
-      ],
-      "champions": [],
-      "average_position": "3",
-      "top_4_rate": "81.7",
-      "top_1_rate": "23.70",
-      "battle": "962",
-      "trait": "Origin",
-      "kich_hoat": "9"
-    },
-    {
-      "stt": 7,
-      "id": "conduit",
-      "name": "Conduit",
-      "image": "Trait_Icon_17_Channeler.TFT_Set17.png",
-      "description_icon": [
-        "Innate: Conduits gain 20% additional Mana from all sources.",
-        "\n",
-        "\n",
-        "Your team gains Mana Regen, increased for Conduits.",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "2",
-          "1",
-          "manaregen.png",
-          "| 3",
-          "manaregen.png"
-        ],
-        [
-          "3",
-          "1",
-          "manaregen.png",
-          "| 5",
-          "manaregen.png"
-        ],
-        [
-          "4",
-          "2",
-          "manaregen.png",
-          "| 7",
-          "manaregen.png"
-        ],
-        [
-          "5",
-          "3",
-          "manaregen.png",
-          "| 9",
-          "manaregen.png"
-        ]
-      ],
-      "champions": [],
-      "average_position": "3.34",
-      "top_4_rate": "72.88",
-      "top_1_rate": "21.40",
-      "battle": "8,010",
-      "trait": "Class",
-      "kich_hoat": "3"
-    },
-    {
-      "stt": 8,
-      "id": "vanguard",
-      "name": "Vanguard",
-      "image": "Trait_Icon_12_Vanguard.TFT_Set12.png",
-      "description_icon": [
-        "Vanguards gain 5% Durability while Shielded.",
-        "\n",
-        "\n",
-        "Combat start and 50% Health: Gain a max Health Shield for 10 seconds.",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "2",
-          "16% max Health"
-        ],
-        [
-          "4",
-          "30% max Health"
-        ],
-        [
-          "6",
-          "40% max Health;8%",
-          "DR.png",
-          "while Shielded"
-        ]
-      ],
-      "champions": [],
-      "average_position": "3.36",
-      "top_4_rate": "72.64",
-      "top_1_rate": "20.65",
-      "battle": "11,059",
-      "trait": "Class",
-      "kich_hoat": "6"
-    },
-    {
-      "stt": 9,
-      "id": "rogue",
-      "name": "Rogue",
-      "image": "Trait_Icon_17_Rogue.TFT_Set17.png",
-      "description_icon": [
-        "Rogues gain Attack Damage and Ability Power. The first time they fall below 50% health, they slip into shadows. Enemies targeting them are redirected to a nearby unit, preferring Tanks.",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "2",
-          "12%",
-          "AD.png",
-          "AP.png"
-        ],
-        [
-          "3",
-          "25%",
-          "AD.png",
-          "AP.png"
-        ],
-        [
-          "4",
-          "40%",
-          "AD.png",
-          "AP.png"
-        ],
-        [
-          "5",
-          "55%",
-          "AD.png",
-          "AP.png"
-        ]
-      ],
-      "champions": [],
-      "average_position": "3.47",
-      "top_4_rate": "71.26",
-      "top_1_rate": "16.75",
-      "battle": "1,009",
-      "trait": "Class",
-      "kich_hoat": "5"
-    },
-    {
-      "stt": 10,
-      "id": "mecha",
-      "name": "Mecha",
-      "image": "Trait_Icon_17_Mecha.TFT_Set17.png",
-      "description_icon": [
-        "Innate: Mecha units can transform into their Ultimate form, upgrading their ability and gaining 40% Health. Transformed Mechas take up two team slots and count twice for the Mecha trait.",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "3",
-          "Energy Cells: Mechas gain 25%",
-          "AD.png",
-          "AP.png",
-          "."
-        ],
-        [
-          "4",
-          "Overclocked Cells: Increased to 45%",
-          "AD.png",
-          "AP.png",
-          "."
-        ],
-        [
-          "6",
-          "Precision Engineering: +1 max team size"
-        ]
-      ],
-      "champions": [],
-      "average_position": "3.49",
-      "top_4_rate": "71.09",
-      "top_1_rate": "20.27",
-      "battle": "22,305",
-      "trait": "Origin",
-      "kich_hoat": "4"
-    },
-    {
-      "stt": 11,
-      "id": "fateweaver",
-      "name": "Fateweaver",
-      "image": "Trait_Icon_17_Fateweaver.TFT_Set17.png",
-      "description_icon": [
-        "Innate: Fateweavers have Precision.",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "2",
-          "Chance effects on abilities are",
-          "Lucky",
-          "."
-        ],
-        [
-          "4",
-          "Gain 20% Crit Chance and 20% Crit Damage. Critical strikes are also",
-          "Lucky",
-          "."
-        ]
-      ],
-      "champions": [],
-      "average_position": "3.58",
-      "top_4_rate": "70.03",
-      "top_1_rate": "13.93",
-      "battle": "20,201",
-      "trait": "Class",
-      "kich_hoat": "4"
-    },
-    {
-      "stt": 12,
-      "id": "marauder",
-      "name": "Marauder",
-      "image": "Trait_Icon_16_Slayer.png",
-      "description_icon": [
-        "Your team gains 5% Omnivamp. Marauders gain more Omnivamp, Attack Damage, and their Omnivamp overhealing is converted into Shield (up to 25% max Health.)",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "2",
-          "5%",
-          "SV.png",
-          "",
-          "20%",
-          "AD.png"
-        ],
-        [
-          "4",
-          "7%",
-          "SV.png",
-          "",
-          "40%",
-          "AD.png"
-        ],
-        [
-          "6",
-          "10%",
-          "SV.png",
-          "",
-          "60%",
-          "AD.png",
-          "."
-        ]
-      ],
-      "champions": [],
-      "average_position": "3.42",
-      "top_4_rate": "70.01",
-      "top_1_rate": "20.60",
-      "battle": "1,714",
-      "trait": "Class",
-      "kich_hoat": "6"
-    },
-    {
-      "stt": 13,
-      "id": "voyager",
-      "name": "Voyager",
-      "image": "Trait_Icon_17_Voyager.TFT_Set17.png",
-      "description_icon": [
-        "Combat Start: Your Tanks gain a Shield for 15 seconds. Your other allies gain Damage Amp.",
-        "\n",
-        "\n",
-        "Voyagers gain double.",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "2",
-          "175 Shield; 9%",
-          "DA.png"
-        ],
-        [
-          "3",
-          "250 Shield; 15%",
-          "DA.png"
-        ],
-        [
-          "4",
-          "350 Shield; 18%",
-          "DA.png"
-        ],
-        [
-          "5",
-          "500 Shield; 22%",
-          "DA.png"
-        ],
-        [
-          "6",
-          "700 Shield; 27%",
-          "DA.png"
-        ]
-      ],
-      "champions": [],
-      "average_position": "3.63",
-      "top_4_rate": "68.24",
-      "top_1_rate": "16.64",
-      "battle": "595",
-      "trait": "Class",
-      "kich_hoat": "6"
-    },
-    {
-      "stt": 14,
-      "id": "shepherd",
-      "name": "Shepherd",
-      "image": "Trait_Icon_17_Shepherd.TFT_Set17.png",
-      "description_icon": [
-        "Shepherds summon the Bond of the Stars to aid them in battle.",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "3",
-          "Summon Bia"
-        ],
-        [
-          "5",
-          "Summon Bayin"
-        ],
-        [
-          "7",
-          "Bia and Bayin's bond grows deeper"
-        ]
-      ],
-      "champions": [],
-      "average_position": "3.63",
-      "top_4_rate": "67.74",
-      "top_1_rate": "17.81",
-      "battle": "2,700",
-      "trait": "Class",
-      "kich_hoat": "7"
-    },
-    {
-      "stt": 15,
-      "id": "conduit",
-      "name": "Conduit",
-      "image": "Trait_Icon_17_Channeler.TFT_Set17.png",
-      "description_icon": [
-        "Innate: Conduits gain 20% additional Mana from all sources.",
-        "\n",
-        "\n",
-        "Your team gains Mana Regen, increased for Conduits.",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "2",
-          "1",
-          "manaregen.png",
-          "| 3",
-          "manaregen.png"
-        ],
-        [
-          "3",
-          "1",
-          "manaregen.png",
-          "| 5",
-          "manaregen.png"
-        ],
-        [
-          "4",
-          "2",
-          "manaregen.png",
-          "| 7",
-          "manaregen.png"
-        ],
-        [
-          "5",
-          "3",
-          "manaregen.png",
-          "| 9",
-          "manaregen.png"
-        ]
-      ],
-      "champions": [],
-      "average_position": "3.65",
-      "top_4_rate": "67.55",
-      "top_1_rate": "18.09",
-      "battle": "376",
-      "trait": "Class",
-      "kich_hoat": "4"
-    },
-    {
-      "stt": 16,
-      "id": "voyager",
-      "name": "Voyager",
-      "image": "Trait_Icon_17_Voyager.TFT_Set17.png",
-      "description_icon": [
-        "Combat Start: Your Tanks gain a Shield for 15 seconds. Your other allies gain Damage Amp.",
-        "\n",
-        "\n",
-        "Voyagers gain double.",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "2",
-          "175 Shield; 9%",
-          "DA.png"
-        ],
-        [
-          "3",
-          "250 Shield; 15%",
-          "DA.png"
-        ],
-        [
-          "4",
-          "350 Shield; 18%",
-          "DA.png"
-        ],
-        [
-          "5",
-          "500 Shield; 22%",
-          "DA.png"
-        ],
-        [
-          "6",
-          "700 Shield; 27%",
-          "DA.png"
-        ]
-      ],
-      "champions": [],
-      "average_position": "3.74",
-      "top_4_rate": "66.51",
-      "top_1_rate": "15.36",
-      "battle": "2,487",
-      "trait": "Class",
-      "kich_hoat": "5"
-    },
-    {
-      "stt": 17,
-      "id": "space_groove",
-      "name": "Space Groove",
-      "image": "Trait_Icon_17_SpaceGroove.TFT_Set17.png",
-      "description_icon": [
-        "Space Groove units can enter the Groove state. While in Groove, their bonuses scale with the number of Space Groove allies and grow stronger at higher trait tiers."
-      ],
-      "description_detail": [
-        [
-          "1",
-          "Groovians can enter Space Groove. While in it",
-          "they gain Attack Speed and max Health Regen",
-          "increased per Groovian on your team."
-        ],
-        [
-          "3",
-          "All Groovians start combat in Space Groove for 3 seconds."
-        ],
-        [
-          "5",
-          "Each second spent in Space Groove grants 5% stacking Attack Damage and Ability Power."
-        ],
-        [
-          "7",
-          "Increase these effects by 10%!"
-        ],
-        [
-          "10",
-          "{{TFT17_SpaceGroove_Groove}}"
-        ]
-      ],
-      "champions": [],
-      "average_position": "3.6",
-      "top_4_rate": "66.32",
-      "top_1_rate": "21.60",
-      "battle": "6,120",
-      "trait": "Origin",
-      "kich_hoat": "7"
-    },
-    {
-      "stt": 18,
-      "id": "rogue",
-      "name": "Rogue",
-      "image": "Trait_Icon_17_Rogue.TFT_Set17.png",
-      "description_icon": [
-        "Rogues gain Attack Damage and Ability Power. The first time they fall below 50% health, they slip into shadows. Enemies targeting them are redirected to a nearby unit, preferring Tanks.",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "2",
-          "12%",
-          "AD.png",
-          "AP.png"
-        ],
-        [
-          "3",
-          "25%",
-          "AD.png",
-          "AP.png"
-        ],
-        [
-          "4",
-          "40%",
-          "AD.png",
-          "AP.png"
-        ],
-        [
-          "5",
-          "55%",
-          "AD.png",
-          "AP.png"
-        ]
-      ],
-      "champions": [],
-      "average_position": "3.68",
-      "top_4_rate": "66.03",
-      "top_1_rate": "16.89",
-      "battle": "3,262",
-      "trait": "Class",
-      "kich_hoat": "4"
-    },
-    {
-      "stt": 19,
-      "id": "stargazer_(the_mountain)",
-      "name": "Stargazer (The Mountain)",
-      "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
-      "description_icon": [
-        "Stargazers chart a different constellation every game. This game: The Mountain",
-        "\n",
-        "\n",
-        "Every 5 player combats, gain a Stargazer Emblem. Stargazers in empowered hexes gain various bonuses.",
-        "\n",
-        "\n",
-        "(Combats Remaining: ?)",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "3",
-          "Gain 15% Health"
-        ],
-        [
-          "4",
-          "AND 15% Attack Damage and Ability Power"
-        ],
-        [
-          "5",
-          "AND 10 Armor and Magic Resist"
-        ],
-        [
-          "6",
-          "AND 10% Attack Speed"
-        ],
-        [
-          "7",
-          "AND 6% Durability"
-        ],
-        [
-          "8",
-          "AND increase all other bonuses by 10%"
-        ]
-      ],
-      "champions": [],
-      "average_position": "3.65",
-      "top_4_rate": "65.84",
-      "top_1_rate": "19.61",
-      "battle": "3,636",
-      "trait": "Origin",
-      "kich_hoat": "8"
-    },
-    {
-      "stt": 20,
-      "id": "space_groove",
-      "name": "Space Groove",
-      "image": "Trait_Icon_17_SpaceGroove.TFT_Set17.png",
-      "description_icon": [
-        "Space Groove units can enter the Groove state. While in Groove, their bonuses scale with the number of Space Groove allies and grow stronger at higher trait tiers."
-      ],
-      "description_detail": [
-        [
-          "1",
-          "Groovians can enter Space Groove. While in it",
-          "they gain Attack Speed and max Health Regen",
-          "increased per Groovian on your team."
-        ],
-        [
-          "3",
-          "All Groovians start combat in Space Groove for 3 seconds."
-        ],
-        [
-          "5",
-          "Each second spent in Space Groove grants 5% stacking Attack Damage and Ability Power."
-        ],
-        [
-          "7",
-          "Increase these effects by 10%!"
-        ],
-        [
-          "10",
-          "{{TFT17_SpaceGroove_Groove}}"
-        ]
-      ],
-      "champions": [],
-      "average_position": "3.85",
-      "top_4_rate": "63.95",
-      "top_1_rate": "15.07",
-      "battle": "34,890",
-      "trait": "Origin",
-      "kich_hoat": "3"
-    },
-    {
-      "stt": 21,
-      "id": "dark_lady",
-      "name": "Dark Lady",
-      "image": "Trait_Icon_17_DarkLady.TFT_Set17.png",
-      "description_icon": [
-        "Allies take 5% less damage from abilities, increased to 10% while Morgana is in Dark Form."
-      ],
-      "description_detail": [],
-      "champions": [],
-      "average_position": "3.75",
-      "top_4_rate": "63.74",
-      "top_1_rate": "22.84",
-      "battle": "76,473",
-      "trait": "Origin",
-      "kich_hoat": "1"
-    },
-    {
-      "stt": 22,
-      "id": "eradicator",
-      "name": "Eradicator",
-      "image": "Trait_Icon_17_Singularity.TFT_Set17.png",
-      "description_icon": [
-        "Enemies have 10% less Armor and Magic Resist."
-      ],
-      "description_detail": [],
-      "champions": [],
-      "average_position": "3.72",
-      "top_4_rate": "63.69",
-      "top_1_rate": "24.29",
-      "battle": "96,895",
-      "trait": "Origin",
-      "kich_hoat": "1"
-    },
-    {
-      "stt": 23,
       "id": "stargazer_(the_serpent)",
       "name": "Stargazer (The Serpent)",
       "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
@@ -16311,64 +15751,273 @@
         ]
       ],
       "champions": [],
-      "average_position": "3.8",
-      "top_4_rate": "63.16",
-      "top_1_rate": "11.84",
-      "battle": "76",
+      "average_position": "3.25",
+      "top_4_rate": "75",
+      "top_1_rate": "25.00",
+      "battle": "4",
       "trait": "Origin",
       "kich_hoat": "7"
     },
     {
-      "stt": 24,
-      "id": "stargazer_(the_mountain)",
-      "name": "Stargazer (The Mountain)",
-      "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
+      "stt": 7,
+      "id": "fateweaver",
+      "name": "Fateweaver",
+      "image": "Trait_Icon_17_Fateweaver.TFT_Set17.png",
       "description_icon": [
-        "Stargazers chart a different constellation every game. This game: The Mountain",
-        "\n",
-        "\n",
-        "Every 5 player combats, gain a Stargazer Emblem. Stargazers in empowered hexes gain various bonuses.",
-        "\n",
-        "\n",
-        "(Combats Remaining: ?)",
+        "Innate: Fateweavers have Precision.",
+        "\n"
+      ],
+      "description_detail": [
+        [
+          "2",
+          "Chance effects on abilities are",
+          "Lucky",
+          "."
+        ],
+        [
+          "4",
+          "Gain 20% Crit Chance and 20% Crit Damage. Critical strikes are also",
+          "Lucky",
+          "."
+        ]
+      ],
+      "champions": [
+        {
+          "id": "caitlyn",
+          "name": "Caitlyn",
+          "image": "tft17_caitlyn.tft_set17.png"
+        },
+        {
+          "id": "twisted_fate",
+          "name": "Twisted Fate",
+          "image": "tft17_twistedfate.tft_set17.png"
+        },
+        {
+          "id": "milio",
+          "name": "Milio",
+          "image": "tft17_milio.tft_set17.png"
+        },
+        {
+          "id": "corki",
+          "name": "Corki",
+          "image": "tft17_corki.tft_set17.png"
+        }
+      ],
+      "average_position": "3.4",
+      "top_4_rate": "74.39",
+      "top_1_rate": "15.92",
+      "battle": "289",
+      "trait": "Class",
+      "kich_hoat": "4"
+    },
+    {
+      "stt": 8,
+      "id": "shepherd",
+      "name": "Shepherd",
+      "image": "Trait_Icon_17_Shepherd.TFT_Set17.png",
+      "description_icon": [
+        "Shepherds summon the Bond of the Stars to aid them in battle.",
         "\n"
       ],
       "description_detail": [
         [
           "3",
-          "Gain 15% Health"
-        ],
-        [
-          "4",
-          "AND 15% Attack Damage and Ability Power"
+          "Summon Bia"
         ],
         [
           "5",
-          "AND 10 Armor and Magic Resist"
-        ],
-        [
-          "6",
-          "AND 10% Attack Speed"
+          "Summon Bayin"
         ],
         [
           "7",
-          "AND 6% Durability"
-        ],
-        [
-          "8",
-          "AND increase all other bonuses by 10%"
+          "Bia and Bayin's bond grows deeper"
         ]
       ],
-      "champions": [],
-      "average_position": "3.82",
-      "top_4_rate": "62.82",
-      "top_1_rate": "20.50",
-      "battle": "3,039",
-      "trait": "Origin",
+      "champions": [
+        {
+          "id": "teemo",
+          "name": "Teemo",
+          "image": "tft17_teemo.tft_set17.png"
+        },
+        {
+          "id": "lissandra",
+          "name": "Lissandra",
+          "image": "tft17_lissandra.tft_set17.png"
+        },
+        {
+          "id": "meepsie",
+          "name": "Meepsie",
+          "image": "tft17_ivernminion.tft_set17.png"
+        },
+        {
+          "id": "illaoi",
+          "name": "Illaoi",
+          "image": "tft17_illaoi.tft_set17.png"
+        },
+        {
+          "id": "leblanc",
+          "name": "LeBlanc",
+          "image": "tft17_leblanc.tft_set17.png"
+        },
+        {
+          "id": "sona",
+          "name": "Sona",
+          "image": "tft17_sona.tft_set17.png"
+        }
+      ],
+      "average_position": "3.09",
+      "top_4_rate": "73.33",
+      "top_1_rate": "24.44",
+      "battle": "45",
+      "trait": "Class",
       "kich_hoat": "7"
     },
     {
-      "stt": 25,
+      "stt": 9,
+      "id": "marauder",
+      "name": "Marauder",
+      "image": "Trait_Icon_16_Slayer.png",
+      "description_icon": [
+        "Your team gains 5% Omnivamp. Marauders gain more Omnivamp, Attack Damage, and their Omnivamp overhealing is converted into Shield (up to 25% max Health.)",
+        "\n"
+      ],
+      "description_detail": [
+        [
+          "2",
+          "5%",
+          "SV.png",
+          "",
+          "20%",
+          "AD.png"
+        ],
+        [
+          "4",
+          "7%",
+          "SV.png",
+          "",
+          "40%",
+          "AD.png"
+        ],
+        [
+          "6",
+          "10%",
+          "SV.png",
+          "",
+          "60%",
+          "AD.png",
+          "."
+        ]
+      ],
+      "champions": [
+        {
+          "id": "bel'veth",
+          "name": "Bel'Veth",
+          "image": "tft17_belveth.tft_set17.png"
+        },
+        {
+          "id": "akali",
+          "name": "Akali",
+          "image": "tft17_akali.tft_set17.png"
+        },
+        {
+          "id": "urgot",
+          "name": "Urgot",
+          "image": "tft17_urgot.tft_set17.png"
+        },
+        {
+          "id": "master_yi",
+          "name": "Master Yi",
+          "image": "tft17_masteryi.tft_set17.png"
+        },
+        {
+          "id": "fiora",
+          "name": "Fiora",
+          "image": "tft17_fiora.tft_set17.png"
+        }
+      ],
+      "average_position": "3.73",
+      "top_4_rate": "72.73",
+      "top_1_rate": "18.18",
+      "battle": "33",
+      "trait": "Class",
+      "kich_hoat": "6"
+    },
+    {
+      "stt": 10,
+      "id": "rogue",
+      "name": "Rogue",
+      "image": "Trait_Icon_17_Rogue.TFT_Set17.png",
+      "description_icon": [
+        "Rogues gain Attack Damage and Ability Power. The first time they fall below 50% health, they slip into shadows. Enemies targeting them are redirected to a nearby unit, preferring Tanks.",
+        "\n"
+      ],
+      "description_detail": [
+        [
+          "2",
+          "12%",
+          "AD.png",
+          "AP.png"
+        ],
+        [
+          "3",
+          "25%",
+          "AD.png",
+          "AP.png"
+        ],
+        [
+          "4",
+          "40%",
+          "AD.png",
+          "AP.png"
+        ],
+        [
+          "5",
+          "55%",
+          "AD.png",
+          "AP.png"
+        ]
+      ],
+      "champions": [
+        {
+          "id": "briar",
+          "name": "Briar",
+          "image": "tft17_briar.tft_set17.png"
+        },
+        {
+          "id": "talon",
+          "name": "Talon",
+          "image": "tft17_talon.tft_set17.png"
+        },
+        {
+          "id": "gwen",
+          "name": "Gwen",
+          "image": "tft17_gwen.tft_set17.png"
+        },
+        {
+          "id": "fizz",
+          "name": "Fizz",
+          "image": "tft17_fizz.tft_set17.png"
+        },
+        {
+          "id": "kai'sa",
+          "name": "Kai'Sa",
+          "image": "tft17_kaisa.tft_set17.png"
+        },
+        {
+          "id": "riven",
+          "name": "Riven",
+          "image": "tft17_riven.tft_set17.png"
+        }
+      ],
+      "average_position": "3.63",
+      "top_4_rate": "70.83",
+      "top_1_rate": "12.50",
+      "battle": "24",
+      "trait": "Class",
+      "kich_hoat": "5"
+    },
+    {
+      "stt": 11,
       "id": "stargazer_(the_boar)",
       "name": "Stargazer (The Boar)",
       "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
@@ -16425,12 +16074,774 @@
         ]
       ],
       "champions": [],
-      "average_position": "3.89",
-      "top_4_rate": "62.75",
-      "top_1_rate": "18.77",
-      "battle": "698",
+      "average_position": "3.08",
+      "top_4_rate": "69.23",
+      "top_1_rate": "38.46",
+      "battle": "13",
       "trait": "Origin",
       "kich_hoat": "5"
+    },
+    {
+      "stt": 12,
+      "id": "stargazer_(the_mountain)",
+      "name": "Stargazer (The Mountain)",
+      "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
+      "description_icon": [
+        "Stargazers chart a different constellation every game. This game: The Mountain",
+        "\n",
+        "\n",
+        "Every 5 player combats, gain a Stargazer Emblem. Stargazers in empowered hexes gain various bonuses.",
+        "\n",
+        "\n",
+        "(Combats Remaining: ?)",
+        "\n"
+      ],
+      "description_detail": [
+        [
+          "3",
+          "Gain 15% Health"
+        ],
+        [
+          "4",
+          "AND 15% Attack Damage and Ability Power"
+        ],
+        [
+          "5",
+          "AND 10 Armor and Magic Resist"
+        ],
+        [
+          "6",
+          "AND 10% Attack Speed"
+        ],
+        [
+          "7",
+          "AND 6% Durability"
+        ],
+        [
+          "8",
+          "AND increase all other bonuses by 10%"
+        ]
+      ],
+      "champions": [],
+      "average_position": "3.58",
+      "top_4_rate": "68.66",
+      "top_1_rate": "19.40",
+      "battle": "67",
+      "trait": "Origin",
+      "kich_hoat": "8"
+    },
+    {
+      "stt": 13,
+      "id": "vanguard",
+      "name": "Vanguard",
+      "image": "Trait_Icon_12_Vanguard.TFT_Set12.png",
+      "description_icon": [
+        "Vanguards gain 5% Durability while Shielded.",
+        "\n",
+        "\n",
+        "Combat start and 50% Health: Gain a max Health Shield for 10 seconds.",
+        "\n"
+      ],
+      "description_detail": [
+        [
+          "2",
+          "16% max Health"
+        ],
+        [
+          "4",
+          "30% max Health"
+        ],
+        [
+          "6",
+          "40% max Health;8%",
+          "DR.png",
+          "while Shielded"
+        ]
+      ],
+      "champions": [
+        {
+          "id": "nasus",
+          "name": "Nasus",
+          "image": "tft17_nasus.tft_set17.png"
+        },
+        {
+          "id": "leona",
+          "name": "Leona",
+          "image": "tft17_leona.tft_set17.png"
+        },
+        {
+          "id": "mordekaiser",
+          "name": "Mordekaiser",
+          "image": "tft17_mordekaiser.tft_set17.png"
+        },
+        {
+          "id": "illaoi",
+          "name": "Illaoi",
+          "image": "tft17_illaoi.tft_set17.png"
+        },
+        {
+          "id": "nunu_&_willump",
+          "name": "Nunu & Willump",
+          "image": "tft17_nunu.tft_set17.png"
+        },
+        {
+          "id": "blitzcrank",
+          "name": "Blitzcrank",
+          "image": "tft17_blitzcrank.tft_set17.png"
+        }
+      ],
+      "average_position": "3.54",
+      "top_4_rate": "68.52",
+      "top_1_rate": "22.22",
+      "battle": "162",
+      "trait": "Class",
+      "kich_hoat": "6"
+    },
+    {
+      "stt": 14,
+      "id": "conduit",
+      "name": "Conduit",
+      "image": "Trait_Icon_17_Channeler.TFT_Set17.png",
+      "description_icon": [
+        "Innate: Conduits gain 20% additional Mana from all sources.",
+        "\n",
+        "\n",
+        "Your team gains Mana Regen, increased for Conduits.",
+        "\n"
+      ],
+      "description_detail": [
+        [
+          "2",
+          "1",
+          "manaregen.png",
+          "| 3",
+          "manaregen.png"
+        ],
+        [
+          "3",
+          "1",
+          "manaregen.png",
+          "| 5",
+          "manaregen.png"
+        ],
+        [
+          "4",
+          "2",
+          "manaregen.png",
+          "| 7",
+          "manaregen.png"
+        ],
+        [
+          "5",
+          "3",
+          "manaregen.png",
+          "| 9",
+          "manaregen.png"
+        ]
+      ],
+      "champions": [
+        {
+          "id": "zoe",
+          "name": "Zoe",
+          "image": "tft17_zoe.tft_set17.png"
+        },
+        {
+          "id": "mordekaiser",
+          "name": "Mordekaiser",
+          "image": "tft17_mordekaiser.tft_set17.png"
+        },
+        {
+          "id": "viktor",
+          "name": "Viktor",
+          "image": "tft17_viktor.tft_set17.png"
+        },
+        {
+          "id": "aurelion_sol",
+          "name": "Aurelion Sol",
+          "image": "tft17_aurelionsol.tft_set17.png"
+        },
+        {
+          "id": "bard",
+          "name": "Bard",
+          "image": "tft17_bard.tft_set17.png"
+        }
+      ],
+      "average_position": "3.63",
+      "top_4_rate": "68.42",
+      "top_1_rate": "16.84",
+      "battle": "95",
+      "trait": "Class",
+      "kich_hoat": "3"
+    },
+    {
+      "stt": 15,
+      "id": "mecha",
+      "name": "Mecha",
+      "image": "Trait_Icon_17_Mecha.TFT_Set17.png",
+      "description_icon": [
+        "Innate: Mecha units can transform into their Ultimate form, upgrading their ability and gaining 40% Health. Transformed Mechas take up two team slots and count twice for the Mecha trait.",
+        "\n"
+      ],
+      "description_detail": [
+        [
+          "3",
+          "Energy Cells: Mechas gain 25%",
+          "AD.png",
+          "AP.png",
+          "."
+        ],
+        [
+          "4",
+          "Overclocked Cells: Increased to 45%",
+          "AD.png",
+          "AP.png",
+          "."
+        ],
+        [
+          "6",
+          "Precision Engineering: +1 max team size"
+        ]
+      ],
+      "champions": [
+        {
+          "id": "urgot",
+          "name": "Urgot",
+          "image": "tft17_urgot.tft_set17.png"
+        },
+        {
+          "id": "aurelion_sol",
+          "name": "Aurelion Sol",
+          "image": "tft17_aurelionsol.tft_set17.png"
+        },
+        {
+          "id": "the_mighty_mech",
+          "name": "The Mighty Mech",
+          "image": "tft17_galio.tft_set17.png"
+        }
+      ],
+      "average_position": "3.62",
+      "top_4_rate": "68.16",
+      "top_1_rate": "18.35",
+      "battle": "267",
+      "trait": "Origin",
+      "kich_hoat": "4"
+    },
+    {
+      "stt": 16,
+      "id": "eradicator",
+      "name": "Eradicator",
+      "image": "Trait_Icon_17_Singularity.TFT_Set17.png",
+      "description_icon": [
+        "Enemies have 10% less Armor and Magic Resist."
+      ],
+      "description_detail": [],
+      "champions": [
+        {
+          "id": "jhin",
+          "name": "Jhin",
+          "image": "tft17_jhin.tft_set17.png"
+        }
+      ],
+      "average_position": "3.57",
+      "top_4_rate": "66.71",
+      "top_1_rate": "22.76",
+      "battle": "1,397",
+      "trait": "Origin",
+      "kich_hoat": "1"
+    },
+    {
+      "stt": 17,
+      "id": "stargazer_(the_boar)",
+      "name": "Stargazer (The Boar)",
+      "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
+      "description_icon": [
+        "Stargazers chart a different constellation every game. This game: The Boar.",
+        "\n",
+        "\n",
+        "Gain gold after winning player combat. Allies in empowered hexes gain 8% Health, Attack Damage, and Ability Power. Stargazers gain more.",
+        "\n",
+        "\n",
+        "(Gold Earned: ?)",
+        "\n"
+      ],
+      "description_detail": [
+        [
+          "3",
+          "1 gold",
+          "2%",
+          "Health.png",
+          "",
+          "10%",
+          "AD.png",
+          "AP.png"
+        ],
+        [
+          "4",
+          "2 gold",
+          "8%",
+          "Health.png",
+          "",
+          "15%",
+          "AD.png",
+          "AP.png"
+        ],
+        [
+          "5",
+          "4 gold",
+          "15%",
+          "Health.png",
+          "",
+          "25%",
+          "AD.png",
+          "AP.png"
+        ],
+        [
+          "6",
+          "6 gold",
+          "22%",
+          "Health.png",
+          "",
+          "30%",
+          "AD.png",
+          "AP.png"
+        ]
+      ],
+      "champions": [],
+      "average_position": "3.5",
+      "top_4_rate": "66.67",
+      "top_1_rate": "16.67",
+      "battle": "6",
+      "trait": "Origin",
+      "kich_hoat": "6"
+    },
+    {
+      "stt": 18,
+      "id": "dark_lady",
+      "name": "Dark Lady",
+      "image": "Trait_Icon_17_DarkLady.TFT_Set17.png",
+      "description_icon": [
+        "Your team gains 5% Durability %i:scaleDurability%, increased to ?% when Morgana is in her Dark Form."
+      ],
+      "description_detail": [],
+      "champions": [
+        {
+          "id": "morgana",
+          "name": "Morgana",
+          "image": "tft17_morgana.tft_set17.png"
+        }
+      ],
+      "average_position": "3.65",
+      "top_4_rate": "66.54",
+      "top_1_rate": "22.71",
+      "battle": "1,061",
+      "trait": "Origin",
+      "kich_hoat": "1"
+    },
+    {
+      "stt": 19,
+      "id": "voyager",
+      "name": "Voyager",
+      "image": "Trait_Icon_17_Voyager.TFT_Set17.png",
+      "description_icon": [
+        "Combat Start: Your Tanks gain a Shield for 15 seconds. Your other allies gain Damage Amp.",
+        "\n",
+        "\n",
+        "Voyagers gain double.",
+        "\n"
+      ],
+      "description_detail": [
+        [
+          "2",
+          "175 Shield; 9%",
+          "DA.png"
+        ],
+        [
+          "3",
+          "250 Shield; 15%",
+          "DA.png"
+        ],
+        [
+          "4",
+          "350 Shield; 18%",
+          "DA.png"
+        ],
+        [
+          "5",
+          "500 Shield; 22%",
+          "DA.png"
+        ],
+        [
+          "6",
+          "700 Shield; 27%",
+          "DA.png"
+        ]
+      ],
+      "champions": [
+        {
+          "id": "pyke",
+          "name": "Pyke",
+          "image": "tft17_pyke.tft_set17.png"
+        },
+        {
+          "id": "meepsie",
+          "name": "Meepsie",
+          "image": "tft17_ivernminion.tft_set17.png"
+        },
+        {
+          "id": "aurora",
+          "name": "Aurora",
+          "image": "tft17_aurora.tft_set17.png"
+        },
+        {
+          "id": "karma",
+          "name": "Karma",
+          "image": "tft17_karma.tft_set17.png"
+        },
+        {
+          "id": "the_mighty_mech",
+          "name": "The Mighty Mech",
+          "image": "tft17_galio.tft_set17.png"
+        }
+      ],
+      "average_position": "3.9",
+      "top_4_rate": "64.52",
+      "top_1_rate": "11.83",
+      "battle": "93",
+      "trait": "Class",
+      "kich_hoat": "4"
+    },
+    {
+      "stt": 20,
+      "id": "rogue",
+      "name": "Rogue",
+      "image": "Trait_Icon_17_Rogue.TFT_Set17.png",
+      "description_icon": [
+        "Rogues gain Attack Damage and Ability Power. The first time they fall below 50% health, they slip into shadows. Enemies targeting them are redirected to a nearby unit, preferring Tanks.",
+        "\n"
+      ],
+      "description_detail": [
+        [
+          "2",
+          "12%",
+          "AD.png",
+          "AP.png"
+        ],
+        [
+          "3",
+          "25%",
+          "AD.png",
+          "AP.png"
+        ],
+        [
+          "4",
+          "40%",
+          "AD.png",
+          "AP.png"
+        ],
+        [
+          "5",
+          "55%",
+          "AD.png",
+          "AP.png"
+        ]
+      ],
+      "champions": [
+        {
+          "id": "briar",
+          "name": "Briar",
+          "image": "tft17_briar.tft_set17.png"
+        },
+        {
+          "id": "talon",
+          "name": "Talon",
+          "image": "tft17_talon.tft_set17.png"
+        },
+        {
+          "id": "gwen",
+          "name": "Gwen",
+          "image": "tft17_gwen.tft_set17.png"
+        },
+        {
+          "id": "fizz",
+          "name": "Fizz",
+          "image": "tft17_fizz.tft_set17.png"
+        },
+        {
+          "id": "kai'sa",
+          "name": "Kai'Sa",
+          "image": "tft17_kaisa.tft_set17.png"
+        },
+        {
+          "id": "riven",
+          "name": "Riven",
+          "image": "tft17_riven.tft_set17.png"
+        }
+      ],
+      "average_position": "4.09",
+      "top_4_rate": "64.15",
+      "top_1_rate": "7.55",
+      "battle": "53",
+      "trait": "Class",
+      "kich_hoat": "4"
+    },
+    {
+      "stt": 21,
+      "id": "space_groove",
+      "name": "Space Groove",
+      "image": "Trait_Icon_17_SpaceGroove.TFT_Set17.png",
+      "description_icon": [
+        "Space Groove units can enter the Groove state. While in Groove, their bonuses scale with the number of Space Groove allies and grow stronger at higher trait tiers."
+      ],
+      "description_detail": [
+        [
+          "1",
+          "Groovians can enter Space Groove. While in it",
+          "they gain Attack Speed and max Health Regen",
+          "increased per Groovian on your team."
+        ],
+        [
+          "3",
+          "All Groovians start combat in Space Groove for 3 seconds."
+        ],
+        [
+          "5",
+          "Each second spent in Space Groove grants 5% stacking Attack Damage and Ability Power."
+        ],
+        [
+          "7",
+          "Increase these effects by 10%!"
+        ],
+        [
+          "10",
+          "{{TFT17_SpaceGroove_Groove}}"
+        ]
+      ],
+      "champions": [
+        {
+          "id": "teemo",
+          "name": "Teemo",
+          "image": "tft17_teemo.tft_set17.png"
+        },
+        {
+          "id": "nasus",
+          "name": "Nasus",
+          "image": "tft17_nasus.tft_set17.png"
+        },
+        {
+          "id": "gwen",
+          "name": "Gwen",
+          "image": "tft17_gwen.tft_set17.png"
+        },
+        {
+          "id": "samira",
+          "name": "Samira",
+          "image": "tft17_samira.tft_set17.png"
+        },
+        {
+          "id": "ornn",
+          "name": "Ornn",
+          "image": "tft17_ornn.tft_set17.png"
+        },
+        {
+          "id": "nami",
+          "name": "Nami",
+          "image": "tft17_nami.tft_set17.png"
+        },
+        {
+          "id": "blitzcrank",
+          "name": "Blitzcrank",
+          "image": "tft17_blitzcrank.tft_set17.png"
+        }
+      ],
+      "average_position": "3.82",
+      "top_4_rate": "64.12",
+      "top_1_rate": "15.78",
+      "battle": "393",
+      "trait": "Origin",
+      "kich_hoat": "3"
+    },
+    {
+      "stt": 22,
+      "id": "bulwark",
+      "name": "Bulwark",
+      "image": "Trait_Icon_17_Bulwark.TFT_Set17.png",
+      "description_icon": [
+        "Summon a placeable relic. At the start of combat, it grants adjacent allies a 10% max Health shield and 10% Attack Speed."
+      ],
+      "description_detail": [],
+      "champions": [
+        {
+          "id": "shen",
+          "name": "Shen",
+          "image": "tft17_shen.tft_set17.png"
+        }
+      ],
+      "average_position": "3.77",
+      "top_4_rate": "64.11",
+      "top_1_rate": "20.18",
+      "battle": "1,368",
+      "trait": "Origin",
+      "kich_hoat": "1"
+    },
+    {
+      "stt": 23,
+      "id": "dark_star",
+      "name": "Dark Star",
+      "image": "Trait_Icon_17_DarkStar.TFT_Set17.png",
+      "description_icon": [
+        "Dark Star units create a black hole that devours enemies below 10% max Health. The higher the trait tier, the stronger the black hole becomes."
+      ],
+      "description_detail": [
+        [
+          "2",
+          "Dark Stars create a black hole that consumes enemies at",
+          "?%",
+          "8%",
+          "max health."
+        ],
+        [
+          "4",
+          "AND they gain 45%",
+          "AD.png",
+          "AP.png",
+          "."
+        ],
+        [
+          "6",
+          "AND the strongest Dark Star unit goes supermassive",
+          "gaining 85% effectiveness from Dark Star",
+          "and creates 2 minor Black Holes."
+        ],
+        [
+          "9",
+          "All Dark Stars are supermassive. At level 10",
+          "CONSUME EVERYONE."
+        ]
+      ],
+      "champions": [
+        {
+          "id": "cho'gath",
+          "name": "Cho'Gath",
+          "image": "tft17_chogath.tft_set17.png"
+        },
+        {
+          "id": "lissandra",
+          "name": "Lissandra",
+          "image": "tft17_lissandra.tft_set17.png"
+        },
+        {
+          "id": "mordekaiser",
+          "name": "Mordekaiser",
+          "image": "tft17_mordekaiser.tft_set17.png"
+        },
+        {
+          "id": "kai'sa",
+          "name": "Kai'Sa",
+          "image": "tft17_kaisa.tft_set17.png"
+        },
+        {
+          "id": "karma",
+          "name": "Karma",
+          "image": "tft17_karma.tft_set17.png"
+        },
+        {
+          "id": "jhin",
+          "name": "Jhin",
+          "image": "tft17_jhin.tft_set17.png"
+        }
+      ],
+      "average_position": "3.75",
+      "top_4_rate": "63.66",
+      "top_1_rate": "19.48",
+      "battle": "344",
+      "trait": "Origin",
+      "kich_hoat": "6"
+    },
+    {
+      "stt": 24,
+      "id": "shepherd",
+      "name": "Shepherd",
+      "image": "Trait_Icon_17_Shepherd.TFT_Set17.png",
+      "description_icon": [
+        "Shepherds summon the Bond of the Stars to aid them in battle.",
+        "\n"
+      ],
+      "description_detail": [
+        [
+          "3",
+          "Summon Bia"
+        ],
+        [
+          "5",
+          "Summon Bayin"
+        ],
+        [
+          "7",
+          "Bia and Bayin's bond grows deeper"
+        ]
+      ],
+      "champions": [
+        {
+          "id": "teemo",
+          "name": "Teemo",
+          "image": "tft17_teemo.tft_set17.png"
+        },
+        {
+          "id": "lissandra",
+          "name": "Lissandra",
+          "image": "tft17_lissandra.tft_set17.png"
+        },
+        {
+          "id": "meepsie",
+          "name": "Meepsie",
+          "image": "tft17_ivernminion.tft_set17.png"
+        },
+        {
+          "id": "illaoi",
+          "name": "Illaoi",
+          "image": "tft17_illaoi.tft_set17.png"
+        },
+        {
+          "id": "leblanc",
+          "name": "LeBlanc",
+          "image": "tft17_leblanc.tft_set17.png"
+        },
+        {
+          "id": "sona",
+          "name": "Sona",
+          "image": "tft17_sona.tft_set17.png"
+        }
+      ],
+      "average_position": "3.8",
+      "top_4_rate": "61.83",
+      "top_1_rate": "14.50",
+      "battle": "131",
+      "trait": "Class",
+      "kich_hoat": "5"
+    },
+    {
+      "stt": 25,
+      "id": "galaxy_hunter",
+      "name": "Galaxy Hunter",
+      "image": "Trait_Icon_17_GalaxyHunter.TFT_Set17.png",
+      "description_icon": [
+        "Zed is obtained from the Invader Zed augment.",
+        "\n"
+      ],
+      "description_detail": [],
+      "champions": [
+        {
+          "id": "zed",
+          "name": "Zed",
+          "image": "tft17_zed.tft_set17.png"
+        }
+      ],
+      "average_position": "3.9",
+      "top_4_rate": "61.06",
+      "top_1_rate": "20.35",
+      "battle": "113",
+      "trait": "Class",
+      "kich_hoat": "1"
     },
     {
       "stt": 26,
@@ -16467,81 +16878,138 @@
           "per hex"
         ]
       ],
-      "champions": [],
-      "average_position": "3.7",
-      "top_4_rate": "62.67",
-      "top_1_rate": "26.05",
-      "battle": "4,514",
+      "champions": [
+        {
+          "id": "ezreal",
+          "name": "Ezreal",
+          "image": "tft17_ezreal.tft_set17.png"
+        },
+        {
+          "id": "gnar",
+          "name": "Gnar",
+          "image": "tft17_gnar.tft_set17.png"
+        },
+        {
+          "id": "samira",
+          "name": "Samira",
+          "image": "tft17_samira.tft_set17.png"
+        },
+        {
+          "id": "xayah",
+          "name": "Xayah",
+          "image": "tft17_xayah.tft_set17.png"
+        },
+        {
+          "id": "jhin",
+          "name": "Jhin",
+          "image": "tft17_jhin.tft_set17.png"
+        }
+      ],
+      "average_position": "3.59",
+      "top_4_rate": "61.02",
+      "top_1_rate": "25.42",
+      "battle": "59",
       "trait": "Class",
       "kich_hoat": "4"
     },
     {
       "stt": 27,
-      "id": "stargazer_(the_serpent)",
-      "name": "Stargazer (The Serpent)",
-      "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
+      "id": "commander",
+      "name": "Commander",
+      "image": "Trait_Icon_17_Commander.TFT_Set17.png",
+      "description_icon": [],
+      "description_detail": [
+        [
+          "1",
+          "Sona gives you a random Command Mod every 2 rounds which allows you to alter the way an ally behaves during combat. Command Mods last 2 player combats even if they are not equipped."
+        ]
+      ],
+      "champions": [
+        {
+          "id": "sona",
+          "name": "Sona",
+          "image": "tft17_sona.tft_set17.png"
+        }
+      ],
+      "average_position": "3.86",
+      "top_4_rate": "60.73",
+      "top_1_rate": "19.38",
+      "battle": "960",
+      "trait": "Class",
+      "kich_hoat": "1"
+    },
+    {
+      "stt": 28,
+      "id": "voyager",
+      "name": "Voyager",
+      "image": "Trait_Icon_17_Voyager.TFT_Set17.png",
       "description_icon": [
-        "Stargazers chart a different constellation every game. This game: The Serpent.",
+        "Combat Start: Your Tanks gain a Shield for 15 seconds. Your other allies gain Damage Amp.",
         "\n",
         "\n",
-        "Allies in empowered hexes gain 5% Durability. Stargazers in empowered hexes gain more and poison enemies, repeating a portion of damage dealt as magic damage over 3 seconds.",
+        "Voyagers gain double.",
         "\n"
       ],
       "description_detail": [
         [
-          "3",
-          "5%",
-          "DR.png",
-          "",
-          "25% poison damage"
-        ],
-        [
-          "5",
-          "10%",
-          "DR.png",
-          "",
-          "40% poison damage"
-        ],
-        [
-          "7",
-          "15%",
-          "DR.png",
-          "",
-          "60% poison damage"
-        ]
-      ],
-      "champions": [],
-      "average_position": "3.91",
-      "top_4_rate": "61.92",
-      "top_1_rate": "14.75",
-      "battle": "793",
-      "trait": "Origin",
-      "kich_hoat": "5"
-    },
-    {
-      "stt": 28,
-      "id": "n.o.v.a.",
-      "name": "N.O.V.A.",
-      "image": "Trait_Icon_17_NOVA.TFT_Set17.png",
-      "description_icon": [],
-      "description_detail": [
-        [
           "2",
-          "6 seconds into combat",
-          "N.O.V.A. grant a power surge to allies based on champions."
+          "175 Shield; 9%",
+          "DA.png"
+        ],
+        [
+          "3",
+          "250 Shield; 15%",
+          "DA.png"
+        ],
+        [
+          "4",
+          "350 Shield; 18%",
+          "DA.png"
         ],
         [
           "5",
-          "Gain a Striker selector. The chosen N.O.V.A. activates their Strike during the power surge."
+          "500 Shield; 22%",
+          "DA.png"
+        ],
+        [
+          "6",
+          "700 Shield; 27%",
+          "DA.png"
         ]
       ],
-      "champions": [],
-      "average_position": "3.97",
-      "top_4_rate": "61.84",
-      "top_1_rate": "12.11",
-      "battle": "27,174",
-      "trait": "Origin",
-      "kich_hoat": "5"
+      "champions": [
+        {
+          "id": "pyke",
+          "name": "Pyke",
+          "image": "tft17_pyke.tft_set17.png"
+        },
+        {
+          "id": "meepsie",
+          "name": "Meepsie",
+          "image": "tft17_ivernminion.tft_set17.png"
+        },
+        {
+          "id": "aurora",
+          "name": "Aurora",
+          "image": "tft17_aurora.tft_set17.png"
+        },
+        {
+          "id": "karma",
+          "name": "Karma",
+          "image": "tft17_karma.tft_set17.png"
+        },
+        {
+          "id": "the_mighty_mech",
+          "name": "The Mighty Mech",
+          "image": "tft17_galio.tft_set17.png"
+        }
+      ],
+      "average_position": "4.03",
+      "top_4_rate": "60.49",
+      "top_1_rate": "14.88",
+      "battle": "410",
+      "trait": "Class",
+      "kich_hoat": "3"
     },
     {
       "stt": 29,
@@ -16578,11 +17046,37 @@
           "per hex"
         ]
       ],
-      "champions": [],
-      "average_position": "3.78",
-      "top_4_rate": "61.75",
-      "top_1_rate": "26.46",
-      "battle": "41,810",
+      "champions": [
+        {
+          "id": "ezreal",
+          "name": "Ezreal",
+          "image": "tft17_ezreal.tft_set17.png"
+        },
+        {
+          "id": "gnar",
+          "name": "Gnar",
+          "image": "tft17_gnar.tft_set17.png"
+        },
+        {
+          "id": "samira",
+          "name": "Samira",
+          "image": "tft17_samira.tft_set17.png"
+        },
+        {
+          "id": "xayah",
+          "name": "Xayah",
+          "image": "tft17_xayah.tft_set17.png"
+        },
+        {
+          "id": "jhin",
+          "name": "Jhin",
+          "image": "tft17_jhin.tft_set17.png"
+        }
+      ],
+      "average_position": "3.94",
+      "top_4_rate": "60.14",
+      "top_1_rate": "18.84",
+      "battle": "414",
       "trait": "Class",
       "kich_hoat": "3"
     },
@@ -16644,508 +17138,15 @@
         ]
       ],
       "champions": [],
-      "average_position": "3.88",
-      "top_4_rate": "61.33",
-      "top_1_rate": "21.00",
-      "battle": "481",
+      "average_position": "4.07",
+      "top_4_rate": "59.89",
+      "top_1_rate": "13.74",
+      "battle": "182",
       "trait": "Origin",
-      "kich_hoat": "6"
+      "kich_hoat": "3"
     },
     {
       "stt": 31,
-      "id": "voyager",
-      "name": "Voyager",
-      "image": "Trait_Icon_17_Voyager.TFT_Set17.png",
-      "description_icon": [
-        "Combat Start: Your Tanks gain a Shield for 15 seconds. Your other allies gain Damage Amp.",
-        "\n",
-        "\n",
-        "Voyagers gain double.",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "2",
-          "175 Shield; 9%",
-          "DA.png"
-        ],
-        [
-          "3",
-          "250 Shield; 15%",
-          "DA.png"
-        ],
-        [
-          "4",
-          "350 Shield; 18%",
-          "DA.png"
-        ],
-        [
-          "5",
-          "500 Shield; 22%",
-          "DA.png"
-        ],
-        [
-          "6",
-          "700 Shield; 27%",
-          "DA.png"
-        ]
-      ],
-      "champions": [],
-      "average_position": "3.95",
-      "top_4_rate": "60.92",
-      "top_1_rate": "15.76",
-      "battle": "5,824",
-      "trait": "Class",
-      "kich_hoat": "4"
-    },
-    {
-      "stt": 32,
-      "id": "bulwark",
-      "name": "Bulwark",
-      "image": "Trait_Icon_17_Bulwark.TFT_Set17.png",
-      "description_icon": [
-        "Summon a placeable relic. At the start of combat, it grants adjacent allies a 10% max Health shield and 10% Attack Speed."
-      ],
-      "description_detail": [],
-      "champions": [],
-      "average_position": "3.93",
-      "top_4_rate": "60.81",
-      "top_1_rate": "19.64",
-      "battle": "105,482",
-      "trait": "Origin",
-      "kich_hoat": "1"
-    },
-    {
-      "stt": 33,
-      "id": "commander",
-      "name": "Commander",
-      "image": "Trait_Icon_17_Commander.TFT_Set17.png",
-      "description_icon": [],
-      "description_detail": [
-        [
-          "1",
-          "Sona gives you a random Command Mod every 2 rounds which allows you to alter the way an ally behaves during combat. Command Mods last 2 player combats even if they are not equipped."
-        ]
-      ],
-      "champions": [],
-      "average_position": "3.92",
-      "top_4_rate": "60.78",
-      "top_1_rate": "19.59",
-      "battle": "62,508",
-      "trait": "Class",
-      "kich_hoat": "1"
-    },
-    {
-      "stt": 34,
-      "id": "shepherd",
-      "name": "Shepherd",
-      "image": "Trait_Icon_17_Shepherd.TFT_Set17.png",
-      "description_icon": [
-        "Shepherds summon the Bond of the Stars to aid them in battle.",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "3",
-          "Summon Bia"
-        ],
-        [
-          "5",
-          "Summon Bayin"
-        ],
-        [
-          "7",
-          "Bia and Bayin's bond grows deeper"
-        ]
-      ],
-      "champions": [],
-      "average_position": "3.97",
-      "top_4_rate": "60.46",
-      "top_1_rate": "14.58",
-      "battle": "6,687",
-      "trait": "Class",
-      "kich_hoat": "5"
-    },
-    {
-      "stt": 35,
-      "id": "stargazer_(the_mountain)",
-      "name": "Stargazer (The Mountain)",
-      "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
-      "description_icon": [
-        "Stargazers chart a different constellation every game. This game: The Mountain",
-        "\n",
-        "\n",
-        "Every 5 player combats, gain a Stargazer Emblem. Stargazers in empowered hexes gain various bonuses.",
-        "\n",
-        "\n",
-        "(Combats Remaining: ?)",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "3",
-          "Gain 15% Health"
-        ],
-        [
-          "4",
-          "AND 15% Attack Damage and Ability Power"
-        ],
-        [
-          "5",
-          "AND 10 Armor and Magic Resist"
-        ],
-        [
-          "6",
-          "AND 10% Attack Speed"
-        ],
-        [
-          "7",
-          "AND 6% Durability"
-        ],
-        [
-          "8",
-          "AND increase all other bonuses by 10%"
-        ]
-      ],
-      "champions": [],
-      "average_position": "3.76",
-      "top_4_rate": "60.39",
-      "top_1_rate": "30.33",
-      "battle": "3,845",
-      "trait": "Origin",
-      "kich_hoat": "5"
-    },
-    {
-      "stt": 36,
-      "id": "rogue",
-      "name": "Rogue",
-      "image": "Trait_Icon_17_Rogue.TFT_Set17.png",
-      "description_icon": [
-        "Rogues gain Attack Damage and Ability Power. The first time they fall below 50% health, they slip into shadows. Enemies targeting them are redirected to a nearby unit, preferring Tanks.",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "2",
-          "12%",
-          "AD.png",
-          "AP.png"
-        ],
-        [
-          "3",
-          "25%",
-          "AD.png",
-          "AP.png"
-        ],
-        [
-          "4",
-          "40%",
-          "AD.png",
-          "AP.png"
-        ],
-        [
-          "5",
-          "55%",
-          "AD.png",
-          "AP.png"
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.02",
-      "top_4_rate": "60.29",
-      "top_1_rate": "13.45",
-      "battle": "14,696",
-      "trait": "Class",
-      "kich_hoat": "3"
-    },
-    {
-      "stt": 37,
-      "id": "conduit",
-      "name": "Conduit",
-      "image": "Trait_Icon_17_Channeler.TFT_Set17.png",
-      "description_icon": [
-        "Innate: Conduits gain 20% additional Mana from all sources.",
-        "\n",
-        "\n",
-        "Your team gains Mana Regen, increased for Conduits.",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "2",
-          "1",
-          "manaregen.png",
-          "| 3",
-          "manaregen.png"
-        ],
-        [
-          "3",
-          "1",
-          "manaregen.png",
-          "| 5",
-          "manaregen.png"
-        ],
-        [
-          "4",
-          "2",
-          "manaregen.png",
-          "| 7",
-          "manaregen.png"
-        ],
-        [
-          "5",
-          "3",
-          "manaregen.png",
-          "| 9",
-          "manaregen.png"
-        ]
-      ],
-      "champions": [],
-      "average_position": "3.94",
-      "top_4_rate": "60.17",
-      "top_1_rate": "18.43",
-      "battle": "163,562",
-      "trait": "Class",
-      "kich_hoat": "2"
-    },
-    {
-      "stt": 38,
-      "id": "challenger",
-      "name": "Challenger",
-      "image": "Trait_Icon_17_Challenger.TFT_Set17.png",
-      "description_icon": [
-        "Your team gains 10% Attack Speed. Challengers gain bonus Attack Speed. When their target dies, Challengers dash to a new target and increase their Attack Speed bonus by 50% for 2.5 seconds.",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "2",
-          "15%",
-          "AS.png"
-        ],
-        [
-          "3",
-          "22%",
-          "AS.png"
-        ],
-        [
-          "4",
-          "40%",
-          "AS.png"
-        ],
-        [
-          "5",
-          "55%",
-          "AS.png"
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.06",
-      "top_4_rate": "59.77",
-      "top_1_rate": "11.89",
-      "battle": "52,089",
-      "trait": "Class",
-      "kich_hoat": "2"
-    },
-    {
-      "stt": 39,
-      "id": "voyager",
-      "name": "Voyager",
-      "image": "Trait_Icon_17_Voyager.TFT_Set17.png",
-      "description_icon": [
-        "Combat Start: Your Tanks gain a Shield for 15 seconds. Your other allies gain Damage Amp.",
-        "\n",
-        "\n",
-        "Voyagers gain double.",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "2",
-          "175 Shield; 9%",
-          "DA.png"
-        ],
-        [
-          "3",
-          "250 Shield; 15%",
-          "DA.png"
-        ],
-        [
-          "4",
-          "350 Shield; 18%",
-          "DA.png"
-        ],
-        [
-          "5",
-          "500 Shield; 22%",
-          "DA.png"
-        ],
-        [
-          "6",
-          "700 Shield; 27%",
-          "DA.png"
-        ]
-      ],
-      "champions": [],
-      "average_position": "3.99",
-      "top_4_rate": "59.67",
-      "top_1_rate": "17.41",
-      "battle": "27,703",
-      "trait": "Class",
-      "kich_hoat": "3"
-    },
-    {
-      "stt": 40,
-      "id": "redeemer",
-      "name": "Redeemer",
-      "image": "Trait_Icon_17_Redeemer.TFT_Set17.png",
-      "description_icon": [],
-      "description_detail": [
-        [
-          "1",
-          "For each non-unique trait you have active",
-          "your team gains 2%/3%/3% Attack Speed",
-          "and 2/2.5/3 Armor and Magic Resist."
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.01",
-      "top_4_rate": "59.63",
-      "top_1_rate": "16.57",
-      "battle": "167,646",
-      "trait": "Origin",
-      "kich_hoat": "1"
-    },
-    {
-      "stt": 41,
-      "id": "primordian",
-      "name": "Primordian",
-      "image": "Trait_Icon_17_Primordian.TFT_Set17.png",
-      "description_icon": [],
-      "description_detail": [
-        [
-          "2",
-          "Dealing damage spawns Swarmlings based on unique Primordian star level."
-        ],
-        [
-          "3",
-          "Spawn 45% more Swarmlings! After each player combat",
-          "gain a random 1 or 2-cost champion."
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.09",
-      "top_4_rate": "59.51",
-      "top_1_rate": "10.48",
-      "battle": "41,011",
-      "trait": "Origin",
-      "kich_hoat": "3"
-    },
-    {
-      "stt": 42,
-      "id": "party_animal",
-      "name": "Party Animal",
-      "image": "Trait_Icon_17_PartyAnimal.TFT_Set17.png",
-      "description_icon": [
-        "Once per combat, after falling below 45% percent Health, become untargetable and repair 15% max Health per second. Upon reaching full Health, or when no other allies remain, return to combat. If fully healed, for the rest of combat Blitzcrank is in Space Groove and Party Crasher's passive fires bolts four times as fast."
-      ],
-      "description_detail": [],
-      "champions": [],
-      "average_position": "3.99",
-      "top_4_rate": "59.22",
-      "top_1_rate": "19.28",
-      "battle": "135,317",
-      "trait": "Class",
-      "kich_hoat": "1"
-    },
-    {
-      "stt": 43,
-      "id": "psionic",
-      "name": "Psionic",
-      "image": "Trait_Icon_17_PsyOps.TFT_Set17.png",
-      "description_icon": [
-        "Gain Psionic items that can be equipped to any ally.",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "2",
-          "Gain the ?"
-        ],
-        [
-          "4",
-          "Gain the ?",
-          "Psionic items gain extra effects on Psionic units"
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.05",
-      "top_4_rate": "59.2",
-      "top_1_rate": "13.66",
-      "battle": "70,640",
-      "trait": "Origin",
-      "kich_hoat": "2"
-    },
-    {
-      "stt": 44,
-      "id": "replicator",
-      "name": "Replicator",
-      "image": "Trait_Icon_17_Replicator.TFT_Set17.png",
-      "description_icon": [
-        "Replicator abilities occur a second time at reduced effectiveness.",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "2",
-          "22% strength"
-        ],
-        [
-          "4",
-          "45% strength"
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.05",
-      "top_4_rate": "59.12",
-      "top_1_rate": "14.47",
-      "battle": "107,268",
-      "trait": "Class",
-      "kich_hoat": "2"
-    },
-    {
-      "stt": 45,
-      "id": "shepherd",
-      "name": "Shepherd",
-      "image": "Trait_Icon_17_Shepherd.TFT_Set17.png",
-      "description_icon": [
-        "Shepherds summon the Bond of the Stars to aid them in battle.",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "3",
-          "Summon Bia"
-        ],
-        [
-          "5",
-          "Summon Bayin"
-        ],
-        [
-          "7",
-          "Bia and Bayin's bond grows deeper"
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.05",
-      "top_4_rate": "58.77",
-      "top_1_rate": "13.76",
-      "battle": "129,692",
-      "trait": "Class",
-      "kich_hoat": "3"
-    },
-    {
-      "stt": 46,
       "id": "marauder",
       "name": "Marauder",
       "image": "Trait_Icon_16_Slayer.png",
@@ -17180,56 +17181,125 @@
           "."
         ]
       ],
-      "champions": [],
-      "average_position": "4.09",
-      "top_4_rate": "58.74",
-      "top_1_rate": "13.01",
-      "battle": "16,131",
+      "champions": [
+        {
+          "id": "bel'veth",
+          "name": "Bel'Veth",
+          "image": "tft17_belveth.tft_set17.png"
+        },
+        {
+          "id": "akali",
+          "name": "Akali",
+          "image": "tft17_akali.tft_set17.png"
+        },
+        {
+          "id": "urgot",
+          "name": "Urgot",
+          "image": "tft17_urgot.tft_set17.png"
+        },
+        {
+          "id": "master_yi",
+          "name": "Master Yi",
+          "image": "tft17_masteryi.tft_set17.png"
+        },
+        {
+          "id": "fiora",
+          "name": "Fiora",
+          "image": "tft17_fiora.tft_set17.png"
+        }
+      ],
+      "average_position": "3.95",
+      "top_4_rate": "59.79",
+      "top_1_rate": "15.26",
+      "battle": "485",
       "trait": "Class",
       "kich_hoat": "4"
     },
     {
-      "stt": 47,
-      "id": "dark_star",
-      "name": "Dark Star",
-      "image": "Trait_Icon_17_DarkStar.TFT_Set17.png",
+      "stt": 32,
+      "id": "party_animal",
+      "name": "Party Animal",
+      "image": "Trait_Icon_17_PartyAnimal.TFT_Set17.png",
       "description_icon": [
-        "Dark Star units create a black hole that devours enemies below 10% max Health. The higher the trait tier, the stronger the black hole becomes."
+        "Once per combat, after falling below 45% percent Health, become untargetable and repair 15% max Health per second. Upon reaching full Health, or when no other allies remain, return to combat. If fully healed, for the rest of combat Blitzcrank is in Space Groove and Party Crasher's passive fires bolts four times as fast."
+      ],
+      "description_detail": [],
+      "champions": [
+        {
+          "id": "blitzcrank",
+          "name": "Blitzcrank",
+          "image": "tft17_blitzcrank.tft_set17.png"
+        }
+      ],
+      "average_position": "3.98",
+      "top_4_rate": "59.42",
+      "top_1_rate": "18.35",
+      "battle": "1,597",
+      "trait": "Class",
+      "kich_hoat": "1"
+    },
+    {
+      "stt": 33,
+      "id": "challenger",
+      "name": "Challenger",
+      "image": "Trait_Icon_17_Challenger.TFT_Set17.png",
+      "description_icon": [
+        "Your team gains 10% Attack Speed. Challengers gain bonus Attack Speed. When their target dies, Challengers dash to a new target and increase their Attack Speed bonus by 50% for 2.5 seconds.",
+        "\n"
       ],
       "description_detail": [
         [
           "2",
-          "Dark Stars create a black hole that consumes enemies at 8% max health."
+          "15%",
+          "AS.png"
+        ],
+        [
+          "3",
+          "22%",
+          "AS.png"
         ],
         [
           "4",
-          "AND they gain 45%",
-          "AD.png",
-          "AP.png",
-          "."
+          "40%",
+          "AS.png"
         ],
         [
-          "6",
-          "AND the strongest Dark Star unit goes supermassive",
-          "gaining 85% effectiveness from Dark Star",
-          "and creates 2 minor Black Holes."
-        ],
-        [
-          "9",
-          "All Dark Stars are supermassive. At level 10",
-          "CONSUME EVERYONE."
+          "5",
+          "55%",
+          "AS.png"
         ]
       ],
-      "champions": [],
-      "average_position": "4.03",
-      "top_4_rate": "58.66",
-      "top_1_rate": "16.95",
-      "battle": "231,477",
-      "trait": "Origin",
+      "champions": [
+        {
+          "id": "bel'veth",
+          "name": "Bel'Veth",
+          "image": "tft17_belveth.tft_set17.png"
+        },
+        {
+          "id": "jinx",
+          "name": "Jinx",
+          "image": "tft17_jinx.tft_set17.png"
+        },
+        {
+          "id": "diana",
+          "name": "Diana",
+          "image": "tft17_diana_teamplanner_splash.tft_set17.png"
+        },
+        {
+          "id": "kindred",
+          "name": "Kindred",
+          "image": "tft17_kindred.tft_set17.png"
+        }
+      ],
+      "average_position": "4.11",
+      "top_4_rate": "59.13",
+      "top_1_rate": "13.80",
+      "battle": "964",
+      "trait": "Class",
       "kich_hoat": "2"
     },
     {
-      "stt": 48,
+      "stt": 34,
       "id": "stargazer_(the_serpent)",
       "name": "Stargazer (The Serpent)",
       "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
@@ -17264,267 +17334,217 @@
         ]
       ],
       "champions": [],
-      "average_position": "4.02",
-      "top_4_rate": "58.36",
-      "top_1_rate": "19.29",
-      "battle": "18,215",
+      "average_position": "4.13",
+      "top_4_rate": "59.02",
+      "top_1_rate": "17.56",
+      "battle": "205",
       "trait": "Origin",
       "kich_hoat": "3"
     },
     {
-      "stt": 49,
-      "id": "dark_star",
-      "name": "Dark Star",
-      "image": "Trait_Icon_17_DarkStar.TFT_Set17.png",
+      "stt": 35,
+      "id": "n.o.v.a.",
+      "name": "N.O.V.A.",
+      "image": "Trait_Icon_17_NOVA.TFT_Set17.png",
+      "description_icon": [],
+      "description_detail": [
+        [
+          "2",
+          "6 seconds into combat",
+          "N.O.V.A. grant a power surge to allies based on champions."
+        ],
+        [
+          "5",
+          "Gain a Striker selector. The chosen N.O.V.A. activates their Strike during the power surge."
+        ]
+      ],
+      "champions": [
+        {
+          "id": "aatrox",
+          "name": "Aatrox",
+          "image": "tft17_aatrox.tft_set17.png"
+        },
+        {
+          "id": "caitlyn",
+          "name": "Caitlyn",
+          "image": "tft17_caitlyn.tft_set17.png"
+        },
+        {
+          "id": "akali",
+          "name": "Akali",
+          "image": "tft17_akali.tft_set17.png"
+        },
+        {
+          "id": "maokai",
+          "name": "Maokai",
+          "image": "tft17_maokai.tft_set17.png"
+        },
+        {
+          "id": "kindred",
+          "name": "Kindred",
+          "image": "tft17_kindred.tft_set17.png"
+        }
+      ],
+      "average_position": "4.06",
+      "top_4_rate": "58.71",
+      "top_1_rate": "12.94",
+      "battle": "402",
+      "trait": "Origin",
+      "kich_hoat": "5"
+    },
+    {
+      "stt": 36,
+      "id": "bastion",
+      "name": "Bastion",
+      "image": "Trait_Icon_9_Bastion.png",
       "description_icon": [
-        "Dark Star units create a black hole that devours enemies below 10% max Health. The higher the trait tier, the stronger the black hole becomes."
+        "Your team gains 15 Armor and Magic Resist.",
+        "\n",
+        "\n",
+        "Bastions gain more, and the value doubles in the first 10 seconds of combat.",
+        "\n"
       ],
       "description_detail": [
         [
           "2",
-          "Dark Stars create a black hole that consumes enemies at 8% max health."
+          "16",
+          "Armor.png",
+          "MR.png"
         ],
         [
           "4",
-          "AND they gain 45%",
-          "AD.png",
-          "AP.png",
+          "40",
+          "Armor.png",
+          "MR.png"
+        ],
+        [
+          "6",
+          "60",
+          "Armor.png",
+          "MR.png",
+          "; Non-Bastions gain an additional 20",
+          "Armor.png",
+          "MR.png",
           "."
-        ],
-        [
-          "6",
-          "AND the strongest Dark Star unit goes supermassive",
-          "gaining 85% effectiveness from Dark Star",
-          "and creates 2 minor Black Holes."
-        ],
-        [
-          "9",
-          "All Dark Stars are supermassive. At level 10",
-          "CONSUME EVERYONE."
         ]
       ],
-      "champions": [],
-      "average_position": "4.07",
-      "top_4_rate": "57.6",
-      "top_1_rate": "15.82",
-      "battle": "16,879",
-      "trait": "Origin",
-      "kich_hoat": "6"
-    },
-    {
-      "stt": 50,
-      "id": "stargazer_(the_altar)",
-      "name": "Stargazer (The Altar)",
-      "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
-      "description_icon": [
-        "Stargazers chart a different constellation every game. This game: The Altar.",
-        "\n"
+      "champions": [
+        {
+          "id": "poppy",
+          "name": "Poppy",
+          "image": "tft17_poppy.tft_set17.png"
+        },
+        {
+          "id": "aatrox",
+          "name": "Aatrox",
+          "image": "tft17_aatrox.tft_set17.png"
+        },
+        {
+          "id": "jax",
+          "name": "Jax",
+          "image": "tft17_jax.tft_set17.png"
+        },
+        {
+          "id": "ornn",
+          "name": "Ornn",
+          "image": "tft17_ornn.tft_set17.png"
+        },
+        {
+          "id": "rammus",
+          "name": "Rammus",
+          "image": "tft17_rammus.tft_set17.png"
+        },
+        {
+          "id": "shen",
+          "name": "Shen",
+          "image": "tft17_shen.tft_set17.png"
+        }
       ],
-      "description_detail": [
-        [
-          "3",
-          "When ANY champion dies",
-          "they are sacrificed to the Altar. Allies in empowered hexes gain 8% Health and 8% Attack Speed.After 60 sacrifices",
-          "Stargazers in empowered hexes gain an additional 20%",
-          "Health.png",
-          "and 18%",
-          "AS.png",
-          "Sacrifices: (? / 60)"
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.08",
-      "top_4_rate": "57.45",
-      "top_1_rate": "19.67",
-      "battle": "18,186",
-      "trait": "Origin",
-      "kich_hoat": "3"
-    },
-    {
-      "stt": 51,
-      "id": "stargazer_(the_boar)",
-      "name": "Stargazer (The Boar)",
-      "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
-      "description_icon": [
-        "Stargazers chart a different constellation every game. This game: The Boar.",
-        "\n",
-        "\n",
-        "Gain gold after winning player combat. Allies in empowered hexes gain 8% Health, Attack Damage, and Ability Power. Stargazers gain more.",
-        "\n",
-        "\n",
-        "(Gold Earned: ?)",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "3",
-          "1 gold",
-          "2%",
-          "Health.png",
-          "",
-          "10%",
-          "AD.png",
-          "AP.png"
-        ],
-        [
-          "4",
-          "2 gold",
-          "8%",
-          "Health.png",
-          "",
-          "15%",
-          "AD.png",
-          "AP.png"
-        ],
-        [
-          "5",
-          "4 gold",
-          "15%",
-          "Health.png",
-          "",
-          "25%",
-          "AD.png",
-          "AP.png"
-        ],
-        [
-          "6",
-          "6 gold",
-          "22%",
-          "Health.png",
-          "",
-          "30%",
-          "AD.png",
-          "AP.png"
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.13",
-      "top_4_rate": "56.56",
-      "top_1_rate": "15.21",
-      "battle": "1,814",
-      "trait": "Origin",
+      "average_position": "4.04",
+      "top_4_rate": "58.33",
+      "top_1_rate": "12.88",
+      "battle": "132",
+      "trait": "Class",
       "kich_hoat": "4"
     },
     {
-      "stt": 52,
-      "id": "meeple",
-      "name": "Meeple",
-      "image": "Trait_Icon_17_Astronaut.TFT_Set17.png",
+      "stt": 37,
+      "id": "space_groove",
+      "name": "Space Groove",
+      "image": "Trait_Icon_17_SpaceGroove.TFT_Set17.png",
       "description_icon": [
-        "Meeple attract Meeps that empower Meeple abilities in meepy ways. They also gain bonus Health.",
-        "\n"
+        "Space Groove units can enter the Groove state. While in Groove, their bonuses scale with the number of Space Groove allies and grow stronger at higher trait tiers."
       ],
       "description_detail": [
         [
+          "1",
+          "Groovians can enter Space Groove. While in it",
+          "they gain Attack Speed and max Health Regen",
+          "increased per Groovian on your team."
+        ],
+        [
           "3",
-          "2",
-          "AMP.png",
-          "",
-          "100",
-          "Health.png"
+          "All Groovians start combat in Space Groove for 3 seconds."
         ],
         [
           "5",
-          "3",
-          "AMP.png",
-          "",
-          "400",
-          "Health.png"
+          "Each second spent in Space Groove grants 5% stacking Attack Damage and Ability Power."
         ],
         [
           "7",
-          "4",
-          "AMP.png",
-          "",
-          "400",
-          "Health.png",
-          ". Create a Cloning Slot on your bench. Gain gold and a 1-star copy of the champion placed there when cloning completes."
+          "Increase these effects by 10%!"
         ],
         [
           "10",
-          "6",
-          "AMP.png",
-          "",
-          "500",
-          "Health.png",
-          ". SUMMON THE FOUR MEEPLORDS!"
+          "{{TFT17_SpaceGroove_Groove}}"
         ]
       ],
-      "champions": [],
-      "average_position": "4.09",
-      "top_4_rate": "56.54",
-      "top_1_rate": "19.93",
-      "battle": "70,642",
+      "champions": [
+        {
+          "id": "teemo",
+          "name": "Teemo",
+          "image": "tft17_teemo.tft_set17.png"
+        },
+        {
+          "id": "nasus",
+          "name": "Nasus",
+          "image": "tft17_nasus.tft_set17.png"
+        },
+        {
+          "id": "gwen",
+          "name": "Gwen",
+          "image": "tft17_gwen.tft_set17.png"
+        },
+        {
+          "id": "samira",
+          "name": "Samira",
+          "image": "tft17_samira.tft_set17.png"
+        },
+        {
+          "id": "ornn",
+          "name": "Ornn",
+          "image": "tft17_ornn.tft_set17.png"
+        },
+        {
+          "id": "nami",
+          "name": "Nami",
+          "image": "tft17_nami.tft_set17.png"
+        },
+        {
+          "id": "blitzcrank",
+          "name": "Blitzcrank",
+          "image": "tft17_blitzcrank.tft_set17.png"
+        }
+      ],
+      "average_position": "4.27",
+      "top_4_rate": "57.58",
+      "top_1_rate": "9.09",
+      "battle": "33",
       "trait": "Origin",
-      "kich_hoat": "3"
+      "kich_hoat": "7"
     },
     {
-      "stt": 53,
-      "id": "stargazer_(the_boar)",
-      "name": "Stargazer (The Boar)",
-      "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
-      "description_icon": [
-        "Stargazers chart a different constellation every game. This game: The Boar.",
-        "\n",
-        "\n",
-        "Gain gold after winning player combat. Allies in empowered hexes gain 8% Health, Attack Damage, and Ability Power. Stargazers gain more.",
-        "\n",
-        "\n",
-        "(Gold Earned: ?)",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "3",
-          "1 gold",
-          "2%",
-          "Health.png",
-          "",
-          "10%",
-          "AD.png",
-          "AP.png"
-        ],
-        [
-          "4",
-          "2 gold",
-          "8%",
-          "Health.png",
-          "",
-          "15%",
-          "AD.png",
-          "AP.png"
-        ],
-        [
-          "5",
-          "4 gold",
-          "15%",
-          "Health.png",
-          "",
-          "25%",
-          "AD.png",
-          "AP.png"
-        ],
-        [
-          "6",
-          "6 gold",
-          "22%",
-          "Health.png",
-          "",
-          "30%",
-          "AD.png",
-          "AP.png"
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.12",
-      "top_4_rate": "56.41",
-      "top_1_rate": "19.58",
-      "battle": "16,062",
-      "trait": "Origin",
-      "kich_hoat": "3"
-    },
-    {
-      "stt": 54,
+      "stt": 38,
       "id": "rogue",
       "name": "Rogue",
       "image": "Trait_Icon_17_Rogue.TFT_Set17.png",
@@ -17558,158 +17578,47 @@
           "AP.png"
         ]
       ],
-      "champions": [],
-      "average_position": "4.22",
-      "top_4_rate": "55.81",
-      "top_1_rate": "13.27",
-      "battle": "107,084",
+      "champions": [
+        {
+          "id": "briar",
+          "name": "Briar",
+          "image": "tft17_briar.tft_set17.png"
+        },
+        {
+          "id": "talon",
+          "name": "Talon",
+          "image": "tft17_talon.tft_set17.png"
+        },
+        {
+          "id": "gwen",
+          "name": "Gwen",
+          "image": "tft17_gwen.tft_set17.png"
+        },
+        {
+          "id": "fizz",
+          "name": "Fizz",
+          "image": "tft17_fizz.tft_set17.png"
+        },
+        {
+          "id": "kai'sa",
+          "name": "Kai'Sa",
+          "image": "tft17_kaisa.tft_set17.png"
+        },
+        {
+          "id": "riven",
+          "name": "Riven",
+          "image": "tft17_riven.tft_set17.png"
+        }
+      ],
+      "average_position": "4.17",
+      "top_4_rate": "57.44",
+      "top_1_rate": "14.40",
+      "battle": "1,687",
       "trait": "Class",
       "kich_hoat": "2"
     },
     {
-      "stt": 55,
-      "id": "bastion",
-      "name": "Bastion",
-      "image": "Trait_Icon_9_Bastion.png",
-      "description_icon": [
-        "Your team gains 15 Armor and Magic Resist.",
-        "\n",
-        "\n",
-        "Bastions gain more, and the value doubles in the first 10 seconds of combat.",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "2",
-          "16",
-          "Armor.png",
-          "MR.png"
-        ],
-        [
-          "4",
-          "40",
-          "Armor.png",
-          "MR.png"
-        ],
-        [
-          "6",
-          "60",
-          "Armor.png",
-          "MR.png",
-          "; Non-Bastions gain an additional 20",
-          "Armor.png",
-          "MR.png",
-          "."
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.19",
-      "top_4_rate": "55.62",
-      "top_1_rate": "14.52",
-      "battle": "10,096",
-      "trait": "Class",
-      "kich_hoat": "4"
-    },
-    {
-      "stt": 56,
-      "id": "divine_duelist",
-      "name": "Divine Duelist",
-      "image": "Trait_Icon_17_DivineDuelist.TFT_Set17.png",
-      "description_icon": [
-        "Your Tactician heals for 15% of player damage dealt from winning.",
-        "\n"
-      ],
-      "description_detail": [],
-      "champions": [],
-      "average_position": "4.19",
-      "top_4_rate": "55.48",
-      "top_1_rate": "19.27",
-      "battle": "73,470",
-      "trait": "Class",
-      "kich_hoat": "1"
-    },
-    {
-      "stt": 57,
-      "id": "bastion",
-      "name": "Bastion",
-      "image": "Trait_Icon_9_Bastion.png",
-      "description_icon": [
-        "Your team gains 15 Armor and Magic Resist.",
-        "\n",
-        "\n",
-        "Bastions gain more, and the value doubles in the first 10 seconds of combat.",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "2",
-          "16",
-          "Armor.png",
-          "MR.png"
-        ],
-        [
-          "4",
-          "40",
-          "Armor.png",
-          "MR.png"
-        ],
-        [
-          "6",
-          "60",
-          "Armor.png",
-          "MR.png",
-          "; Non-Bastions gain an additional 20",
-          "Armor.png",
-          "MR.png",
-          "."
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.27",
-      "top_4_rate": "55.42",
-      "top_1_rate": "9.02",
-      "battle": "1,209",
-      "trait": "Class",
-      "kich_hoat": "6"
-    },
-    {
-      "stt": 58,
-      "id": "vanguard",
-      "name": "Vanguard",
-      "image": "Trait_Icon_12_Vanguard.TFT_Set12.png",
-      "description_icon": [
-        "Vanguards gain 5% Durability while Shielded.",
-        "\n",
-        "\n",
-        "Combat start and 50% Health: Gain a max Health Shield for 10 seconds.",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "2",
-          "16% max Health"
-        ],
-        [
-          "4",
-          "30% max Health"
-        ],
-        [
-          "6",
-          "40% max Health;8%",
-          "DR.png",
-          "while Shielded"
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.21",
-      "top_4_rate": "55.16",
-      "top_1_rate": "14.05",
-      "battle": "72,029",
-      "trait": "Class",
-      "kich_hoat": "4"
-    },
-    {
-      "stt": 59,
+      "stt": 39,
       "id": "timebreaker",
       "name": "Timebreaker",
       "image": "Trait_Icon_17_Timebreaker.TFT_Set17.png",
@@ -17730,285 +17639,254 @@
           "AND Timebreakers gain an additional 50% Attack Speed"
         ]
       ],
-      "champions": [],
-      "average_position": "4.21",
-      "top_4_rate": "55.11",
-      "top_1_rate": "16.03",
-      "battle": "10,520",
+      "champions": [
+        {
+          "id": "ezreal",
+          "name": "Ezreal",
+          "image": "tft17_ezreal.tft_set17.png"
+        },
+        {
+          "id": "milio",
+          "name": "Milio",
+          "image": "tft17_milio.tft_set17.png"
+        },
+        {
+          "id": "pantheon",
+          "name": "Pantheon",
+          "image": "tft17_pantheon.tft_set17.png"
+        },
+        {
+          "id": "riven",
+          "name": "Riven",
+          "image": "tft17_riven.tft_set17.png"
+        }
+      ],
+      "average_position": "4.12",
+      "top_4_rate": "57.31",
+      "top_1_rate": "20.75",
+      "battle": "424",
       "trait": "Origin",
-      "kich_hoat": "3"
+      "kich_hoat": "4"
     },
     {
-      "stt": 60,
-      "id": "bastion",
-      "name": "Bastion",
-      "image": "Trait_Icon_9_Bastion.png",
+      "stt": 40,
+      "id": "challenger",
+      "name": "Challenger",
+      "image": "Trait_Icon_17_Challenger.TFT_Set17.png",
       "description_icon": [
-        "Your team gains 15 Armor and Magic Resist.",
-        "\n",
-        "\n",
-        "Bastions gain more, and the value doubles in the first 10 seconds of combat.",
+        "Your team gains 10% Attack Speed. Challengers gain bonus Attack Speed. When their target dies, Challengers dash to a new target and increase their Attack Speed bonus by 50% for 2.5 seconds.",
         "\n"
       ],
       "description_detail": [
         [
           "2",
-          "16",
-          "Armor.png",
-          "MR.png"
+          "15%",
+          "AS.png"
+        ],
+        [
+          "3",
+          "22%",
+          "AS.png"
         ],
         [
           "4",
-          "40",
-          "Armor.png",
-          "MR.png"
+          "40%",
+          "AS.png"
         ],
         [
-          "6",
-          "60",
-          "Armor.png",
-          "MR.png",
-          "; Non-Bastions gain an additional 20",
-          "Armor.png",
-          "MR.png",
-          "."
+          "5",
+          "55%",
+          "AS.png"
         ]
       ],
-      "champions": [],
-      "average_position": "4.21",
-      "top_4_rate": "55",
-      "top_1_rate": "17.06",
-      "battle": "238,371",
+      "champions": [
+        {
+          "id": "bel'veth",
+          "name": "Bel'Veth",
+          "image": "tft17_belveth.tft_set17.png"
+        },
+        {
+          "id": "jinx",
+          "name": "Jinx",
+          "image": "tft17_jinx.tft_set17.png"
+        },
+        {
+          "id": "diana",
+          "name": "Diana",
+          "image": "tft17_diana_teamplanner_splash.tft_set17.png"
+        },
+        {
+          "id": "kindred",
+          "name": "Kindred",
+          "image": "tft17_kindred.tft_set17.png"
+        }
+      ],
+      "average_position": "4.28",
+      "top_4_rate": "57.14",
+      "top_1_rate": "9.18",
+      "battle": "98",
       "trait": "Class",
+      "kich_hoat": "3"
+    },
+    {
+      "stt": 41,
+      "id": "timebreaker",
+      "name": "Timebreaker",
+      "image": "Trait_Icon_17_Timebreaker.TFT_Set17.png",
+      "description_icon": [],
+      "description_detail": [
+        [
+          "2",
+          "Allies gain 15% Attack Speed."
+        ],
+        [
+          "3",
+          "AND When you lose",
+          "gain free rerolls. When you win",
+          "store XP in a Temporal Core (scales with stage)."
+        ],
+        [
+          "4",
+          "AND Timebreakers gain an additional 50% Attack Speed"
+        ]
+      ],
+      "champions": [
+        {
+          "id": "ezreal",
+          "name": "Ezreal",
+          "image": "tft17_ezreal.tft_set17.png"
+        },
+        {
+          "id": "milio",
+          "name": "Milio",
+          "image": "tft17_milio.tft_set17.png"
+        },
+        {
+          "id": "pantheon",
+          "name": "Pantheon",
+          "image": "tft17_pantheon.tft_set17.png"
+        },
+        {
+          "id": "riven",
+          "name": "Riven",
+          "image": "tft17_riven.tft_set17.png"
+        }
+      ],
+      "average_position": "4.15",
+      "top_4_rate": "57.11",
+      "top_1_rate": "14.12",
+      "battle": "921",
+      "trait": "Origin",
       "kich_hoat": "2"
     },
     {
-      "stt": 61,
-      "id": "galaxy_hunter",
-      "name": "Galaxy Hunter",
-      "image": "Trait_Icon_17_GalaxyHunter.TFT_Set17.png",
+      "stt": 42,
+      "id": "redeemer",
+      "name": "Redeemer",
+      "image": "Trait_Icon_17_Redeemer.TFT_Set17.png",
+      "description_icon": [],
+      "description_detail": [
+        [
+          "1",
+          "For each non-unique trait you have active",
+          "your team gains 2%/3%/3% Attack Speed",
+          "and 2/2.5/3 Armor and Magic Resist."
+        ]
+      ],
+      "champions": [
+        {
+          "id": "rhaast",
+          "name": "Rhaast",
+          "image": "tft17_kayn_slay.tft_set17.png"
+        }
+      ],
+      "average_position": "4.16",
+      "top_4_rate": "56.84",
+      "top_1_rate": "13.91",
+      "battle": "1,805",
+      "trait": "Origin",
+      "kich_hoat": "1"
+    },
+    {
+      "stt": 43,
+      "id": "divine_duelist",
+      "name": "Divine Duelist",
+      "image": "Trait_Icon_17_DivineDuelist.TFT_Set17.png",
       "description_icon": [
-        "Zed is obtained from the Invader Zed augment.",
+        "Your Tactician heals for 15% of player damage dealt from winning.",
         "\n"
       ],
       "description_detail": [],
-      "champions": [],
-      "average_position": "4.19",
-      "top_4_rate": "54.83",
-      "top_1_rate": "20.53",
-      "battle": "6,920",
+      "champions": [
+        {
+          "id": "fiora",
+          "name": "Fiora",
+          "image": "tft17_fiora.tft_set17.png"
+        }
+      ],
+      "average_position": "4.09",
+      "top_4_rate": "56.61",
+      "top_1_rate": "18.09",
+      "battle": "1,150",
       "trait": "Class",
       "kich_hoat": "1"
     },
     {
-      "stt": 62,
-      "id": "marauder",
-      "name": "Marauder",
-      "image": "Trait_Icon_16_Slayer.png",
+      "stt": 44,
+      "id": "psionic",
+      "name": "Psionic",
+      "image": "Trait_Icon_17_PsyOps.TFT_Set17.png",
       "description_icon": [
-        "Your team gains 5% Omnivamp. Marauders gain more Omnivamp, Attack Damage, and their Omnivamp overhealing is converted into Shield (up to 25% max Health.)",
+        "Gain Psionic items that can be equipped to any ally.",
         "\n"
       ],
       "description_detail": [
         [
           "2",
-          "5%",
-          "SV.png",
-          "",
-          "20%",
-          "AD.png"
+          "Gain the ?"
         ],
         [
           "4",
-          "7%",
-          "SV.png",
-          "",
-          "40%",
-          "AD.png"
-        ],
-        [
-          "6",
-          "10%",
-          "SV.png",
-          "",
-          "60%",
-          "AD.png",
-          "."
+          "Gain the ?",
+          "Psionic items gain extra effects on Psionic units"
         ]
       ],
-      "champions": [],
-      "average_position": "4.26",
-      "top_4_rate": "54.69",
-      "top_1_rate": "14.75",
-      "battle": "140,691",
-      "trait": "Class",
-      "kich_hoat": "2"
-    },
-    {
-      "stt": 63,
-      "id": "arbiter",
-      "name": "Arbiter",
-      "image": "Trait_Icon_17_Arbiter.TFT_Set17.png",
-      "description_icon": [
-        "Scribe a unique divine law, allowing you to choose an effect to apply to Arbiters when a chosen cause occurs.",
-        "\n"
+      "champions": [
+        {
+          "id": "pyke",
+          "name": "Pyke",
+          "image": "tft17_pyke.tft_set17.png"
+        },
+        {
+          "id": "gragas",
+          "name": "Gragas",
+          "image": "tft17_gragas.tft_set17.png"
+        },
+        {
+          "id": "viktor",
+          "name": "Viktor",
+          "image": "tft17_viktor.tft_set17.png"
+        },
+        {
+          "id": "master_yi",
+          "name": "Master Yi",
+          "image": "tft17_masteryi.tft_set17.png"
+        },
+        {
+          "id": "sona",
+          "name": "Sona",
+          "image": "tft17_sona.tft_set17.png"
+        }
       ],
-      "description_detail": [
-        [
-          "2",
-          "Choose a cause and effect for your law"
-        ],
-        [
-          "3",
-          "Effects are stronger."
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.31",
-      "top_4_rate": "54.61",
-      "top_1_rate": "10.20",
-      "battle": "34,369",
+      "average_position": "4.21",
+      "top_4_rate": "56.43",
+      "top_1_rate": "11.86",
+      "battle": "902",
       "trait": "Origin",
       "kich_hoat": "2"
     },
     {
-      "stt": 64,
-      "id": "voyager",
-      "name": "Voyager",
-      "image": "Trait_Icon_17_Voyager.TFT_Set17.png",
-      "description_icon": [
-        "Combat Start: Your Tanks gain a Shield for 15 seconds. Your other allies gain Damage Amp.",
-        "\n",
-        "\n",
-        "Voyagers gain double.",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "2",
-          "175 Shield; 9%",
-          "DA.png"
-        ],
-        [
-          "3",
-          "250 Shield; 15%",
-          "DA.png"
-        ],
-        [
-          "4",
-          "350 Shield; 18%",
-          "DA.png"
-        ],
-        [
-          "5",
-          "500 Shield; 22%",
-          "DA.png"
-        ],
-        [
-          "6",
-          "700 Shield; 27%",
-          "DA.png"
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.26",
-      "top_4_rate": "54.56",
-      "top_1_rate": "14.26",
-      "battle": "166,865",
-      "trait": "Class",
-      "kich_hoat": "2"
-    },
-    {
-      "stt": 65,
-      "id": "stargazer_(the_fountain)",
-      "name": "Stargazer (The Fountain)",
-      "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
-      "description_icon": [
-        "Stargazers chart a different constellation every game. This game: The Fountain.",
-        "\n",
-        "\n",
-        "Allies in empowered hexes gain 1 Mana Regen. Stargazers in empowered hexes gain more and heal the lowest Health ally with their abilities.",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "3",
-          "1",
-          "manaregen.png",
-          "",
-          "18% ability damage heal"
-        ],
-        [
-          "5",
-          "5",
-          "manaregen.png",
-          "",
-          "25% ability damage heal"
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.33",
-      "top_4_rate": "54.56",
-      "top_1_rate": "10.22",
-      "battle": "724",
-      "trait": "Origin",
-      "kich_hoat": "5"
-    },
-    {
-      "stt": 66,
-      "id": "meeple",
-      "name": "Meeple",
-      "image": "Trait_Icon_17_Astronaut.TFT_Set17.png",
-      "description_icon": [
-        "Meeple attract Meeps that empower Meeple abilities in meepy ways. They also gain bonus Health.",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "3",
-          "2",
-          "AMP.png",
-          "",
-          "100",
-          "Health.png"
-        ],
-        [
-          "5",
-          "3",
-          "AMP.png",
-          "",
-          "400",
-          "Health.png"
-        ],
-        [
-          "7",
-          "4",
-          "AMP.png",
-          "",
-          "400",
-          "Health.png",
-          ". Create a Cloning Slot on your bench. Gain gold and a 1-star copy of the champion placed there when cloning completes."
-        ],
-        [
-          "10",
-          "6",
-          "AMP.png",
-          "",
-          "500",
-          "Health.png",
-          ". SUMMON THE FOUR MEEPLORDS!"
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.23",
-      "top_4_rate": "54.44",
-      "top_1_rate": "13.22",
-      "battle": "14,002",
-      "trait": "Origin",
-      "kich_hoat": "5"
-    },
-    {
-      "stt": 67,
+      "stt": 45,
       "id": "conduit",
       "name": "Conduit",
       "image": "Trait_Icon_17_Channeler.TFT_Set17.png",
@@ -18049,135 +17927,42 @@
           "manaregen.png"
         ]
       ],
-      "champions": [],
-      "average_position": "4.33",
-      "top_4_rate": "54.31",
-      "top_1_rate": "8.62",
-      "battle": "116",
+      "champions": [
+        {
+          "id": "zoe",
+          "name": "Zoe",
+          "image": "tft17_zoe.tft_set17.png"
+        },
+        {
+          "id": "mordekaiser",
+          "name": "Mordekaiser",
+          "image": "tft17_mordekaiser.tft_set17.png"
+        },
+        {
+          "id": "viktor",
+          "name": "Viktor",
+          "image": "tft17_viktor.tft_set17.png"
+        },
+        {
+          "id": "aurelion_sol",
+          "name": "Aurelion Sol",
+          "image": "tft17_aurelionsol.tft_set17.png"
+        },
+        {
+          "id": "bard",
+          "name": "Bard",
+          "image": "tft17_bard.tft_set17.png"
+        }
+      ],
+      "average_position": "4.16",
+      "top_4_rate": "55.92",
+      "top_1_rate": "15.51",
+      "battle": "1,747",
       "trait": "Class",
-      "kich_hoat": "5"
-    },
-    {
-      "stt": 68,
-      "id": "timebreaker",
-      "name": "Timebreaker",
-      "image": "Trait_Icon_17_Timebreaker.TFT_Set17.png",
-      "description_icon": [],
-      "description_detail": [
-        [
-          "2",
-          "Allies gain 15% Attack Speed."
-        ],
-        [
-          "3",
-          "AND When you lose",
-          "gain free rerolls. When you win",
-          "store XP in a Temporal Core (scales with stage)."
-        ],
-        [
-          "4",
-          "AND Timebreakers gain an additional 50% Attack Speed"
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.31",
-      "top_4_rate": "54.26",
-      "top_1_rate": "13.97",
-      "battle": "62,373",
-      "trait": "Origin",
       "kich_hoat": "2"
     },
     {
-      "stt": 69,
-      "id": "n.o.v.a.",
-      "name": "N.O.V.A.",
-      "image": "Trait_Icon_17_NOVA.TFT_Set17.png",
-      "description_icon": [],
-      "description_detail": [
-        [
-          "2",
-          "6 seconds into combat",
-          "N.O.V.A. grant a power surge to allies based on champions."
-        ],
-        [
-          "5",
-          "Gain a Striker selector. The chosen N.O.V.A. activates their Strike during the power surge."
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.3",
-      "top_4_rate": "54.17",
-      "top_1_rate": "12.78",
-      "battle": "157,798",
-      "trait": "Origin",
-      "kich_hoat": "2"
-    },
-    {
-      "stt": 70,
-      "id": "space_groove",
-      "name": "Space Groove",
-      "image": "Trait_Icon_17_SpaceGroove.TFT_Set17.png",
-      "description_icon": [
-        "Space Groove units can enter the Groove state. While in Groove, their bonuses scale with the number of Space Groove allies and grow stronger at higher trait tiers."
-      ],
-      "description_detail": [
-        [
-          "1",
-          "Groovians can enter Space Groove. While in it",
-          "they gain Attack Speed and max Health Regen",
-          "increased per Groovian on your team."
-        ],
-        [
-          "3",
-          "All Groovians start combat in Space Groove for 3 seconds."
-        ],
-        [
-          "5",
-          "Each second spent in Space Groove grants 5% stacking Attack Damage and Ability Power."
-        ],
-        [
-          "7",
-          "Increase these effects by 10%!"
-        ],
-        [
-          "10",
-          "{{TFT17_SpaceGroove_Groove}}"
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.28",
-      "top_4_rate": "54.13",
-      "top_1_rate": "14.29",
-      "battle": "198,487",
-      "trait": "Origin",
-      "kich_hoat": "1"
-    },
-    {
-      "stt": 71,
-      "id": "stargazer_(the_medallion)",
-      "name": "Stargazer (The Medallion)",
-      "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
-      "description_icon": [
-        "Stargazers chart a different constellation every game. This game: The Medallion.",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "3",
-          "Allies in empowered hexes gain 12% Damage Amp",
-          "which increases by 5% for each 3-star ally."
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.29",
-      "top_4_rate": "53.72",
-      "top_1_rate": "16.56",
-      "battle": "21,632",
-      "trait": "Origin",
-      "kich_hoat": "3"
-    },
-    {
-      "stt": 72,
+      "stt": 46,
       "id": "vanguard",
       "name": "Vanguard",
       "image": "Trait_Icon_12_Vanguard.TFT_Set12.png",
@@ -18204,525 +17989,256 @@
           "while Shielded"
         ]
       ],
-      "champions": [],
-      "average_position": "4.29",
-      "top_4_rate": "53.7",
-      "top_1_rate": "16.69",
-      "battle": "223,955",
+      "champions": [
+        {
+          "id": "nasus",
+          "name": "Nasus",
+          "image": "tft17_nasus.tft_set17.png"
+        },
+        {
+          "id": "leona",
+          "name": "Leona",
+          "image": "tft17_leona.tft_set17.png"
+        },
+        {
+          "id": "mordekaiser",
+          "name": "Mordekaiser",
+          "image": "tft17_mordekaiser.tft_set17.png"
+        },
+        {
+          "id": "illaoi",
+          "name": "Illaoi",
+          "image": "tft17_illaoi.tft_set17.png"
+        },
+        {
+          "id": "nunu_&_willump",
+          "name": "Nunu & Willump",
+          "image": "tft17_nunu.tft_set17.png"
+        },
+        {
+          "id": "blitzcrank",
+          "name": "Blitzcrank",
+          "image": "tft17_blitzcrank.tft_set17.png"
+        }
+      ],
+      "average_position": "4.18",
+      "top_4_rate": "55.61",
+      "top_1_rate": "13.37",
+      "battle": "1,025",
       "trait": "Class",
-      "kich_hoat": "2"
+      "kich_hoat": "4"
     },
     {
-      "stt": 73,
-      "id": "mecha",
-      "name": "Mecha",
-      "image": "Trait_Icon_17_Mecha.TFT_Set17.png",
+      "stt": 47,
+      "id": "voyager",
+      "name": "Voyager",
+      "image": "Trait_Icon_17_Voyager.TFT_Set17.png",
       "description_icon": [
-        "Innate: Mecha units can transform into their Ultimate form, upgrading their ability and gaining 40% Health. Transformed Mechas take up two team slots and count twice for the Mecha trait.",
+        "Combat Start: Your Tanks gain a Shield for 15 seconds. Your other allies gain Damage Amp.",
+        "\n",
+        "\n",
+        "Voyagers gain double.",
         "\n"
       ],
       "description_detail": [
         [
+          "2",
+          "175 Shield; 9%",
+          "DA.png"
+        ],
+        [
           "3",
-          "Energy Cells: Mechas gain 25%",
+          "250 Shield; 15%",
+          "DA.png"
+        ],
+        [
+          "4",
+          "350 Shield; 18%",
+          "DA.png"
+        ],
+        [
+          "5",
+          "500 Shield; 22%",
+          "DA.png"
+        ],
+        [
+          "6",
+          "700 Shield; 27%",
+          "DA.png"
+        ]
+      ],
+      "champions": [
+        {
+          "id": "pyke",
+          "name": "Pyke",
+          "image": "tft17_pyke.tft_set17.png"
+        },
+        {
+          "id": "meepsie",
+          "name": "Meepsie",
+          "image": "tft17_ivernminion.tft_set17.png"
+        },
+        {
+          "id": "aurora",
+          "name": "Aurora",
+          "image": "tft17_aurora.tft_set17.png"
+        },
+        {
+          "id": "karma",
+          "name": "Karma",
+          "image": "tft17_karma.tft_set17.png"
+        },
+        {
+          "id": "the_mighty_mech",
+          "name": "The Mighty Mech",
+          "image": "tft17_galio.tft_set17.png"
+        }
+      ],
+      "average_position": "4.33",
+      "top_4_rate": "55.56",
+      "top_1_rate": "11.11",
+      "battle": "9",
+      "trait": "Class",
+      "kich_hoat": "6"
+    },
+    {
+      "stt": 48,
+      "id": "dark_star",
+      "name": "Dark Star",
+      "image": "Trait_Icon_17_DarkStar.TFT_Set17.png",
+      "description_icon": [
+        "Dark Star units create a black hole that devours enemies below 10% max Health. The higher the trait tier, the stronger the black hole becomes."
+      ],
+      "description_detail": [
+        [
+          "2",
+          "Dark Stars create a black hole that consumes enemies at",
+          "?%",
+          "8%",
+          "max health."
+        ],
+        [
+          "4",
+          "AND they gain 45%",
           "AD.png",
           "AP.png",
           "."
         ],
         [
-          "4",
-          "Overclocked Cells: Increased to 45%",
-          "AD.png",
-          "AP.png",
-          "."
+          "6",
+          "AND the strongest Dark Star unit goes supermassive",
+          "gaining 85% effectiveness from Dark Star",
+          "and creates 2 minor Black Holes."
         ],
         [
-          "6",
-          "Precision Engineering: +1 max team size"
+          "9",
+          "All Dark Stars are supermassive. At level 10",
+          "CONSUME EVERYONE."
         ]
       ],
-      "champions": [],
-      "average_position": "4.28",
-      "top_4_rate": "53.4",
-      "top_1_rate": "20.59",
-      "battle": "26,174",
+      "champions": [
+        {
+          "id": "cho'gath",
+          "name": "Cho'Gath",
+          "image": "tft17_chogath.tft_set17.png"
+        },
+        {
+          "id": "lissandra",
+          "name": "Lissandra",
+          "image": "tft17_lissandra.tft_set17.png"
+        },
+        {
+          "id": "mordekaiser",
+          "name": "Mordekaiser",
+          "image": "tft17_mordekaiser.tft_set17.png"
+        },
+        {
+          "id": "kai'sa",
+          "name": "Kai'Sa",
+          "image": "tft17_kaisa.tft_set17.png"
+        },
+        {
+          "id": "karma",
+          "name": "Karma",
+          "image": "tft17_karma.tft_set17.png"
+        },
+        {
+          "id": "jhin",
+          "name": "Jhin",
+          "image": "tft17_jhin.tft_set17.png"
+        }
+      ],
+      "average_position": "4.2",
+      "top_4_rate": "55.44",
+      "top_1_rate": "14.43",
+      "battle": "2,987",
       "trait": "Origin",
-      "kich_hoat": "6"
-    },
-    {
-      "stt": 74,
-      "id": "brawler",
-      "name": "Brawler",
-      "image": "Trait_Icon_Brawler.png",
-      "description_icon": [
-        "Your team gains 5% Health. Brawlers gain more.",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "2",
-          "+25% maximum Health"
-        ],
-        [
-          "4",
-          "+45% maximum Health"
-        ],
-        [
-          "6",
-          "+65% maximum Health"
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.34",
-      "top_4_rate": "53.29",
-      "top_1_rate": "13.88",
-      "battle": "190,577",
-      "trait": "Class",
       "kich_hoat": "2"
     },
     {
-      "stt": 75,
-      "id": "doomer",
-      "name": "Doomer",
-      "image": "Trait_Icon_17_Doomer.TFT_Set17.png",
+      "stt": 49,
+      "id": "shepherd",
+      "name": "Shepherd",
+      "image": "Trait_Icon_17_Shepherd.TFT_Set17.png",
       "description_icon": [
-        "Combat Start: Mark all enemies with Doom.",
-        "\n"
-      ],
-      "description_detail": [],
-      "champions": [],
-      "average_position": "4.28",
-      "top_4_rate": "53.26",
-      "top_1_rate": "17.28",
-      "battle": "72,407",
-      "trait": "Origin",
-      "kich_hoat": "1"
-    },
-    {
-      "stt": 76,
-      "id": "timebreaker",
-      "name": "Timebreaker",
-      "image": "Trait_Icon_17_Timebreaker.TFT_Set17.png",
-      "description_icon": [],
-      "description_detail": [
-        [
-          "2",
-          "Allies gain 15% Attack Speed."
-        ],
-        [
-          "3",
-          "AND When you lose",
-          "gain free rerolls. When you win",
-          "store XP in a Temporal Core (scales with stage)."
-        ],
-        [
-          "4",
-          "AND Timebreakers gain an additional 50% Attack Speed"
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.25",
-      "top_4_rate": "52.95",
-      "top_1_rate": "15.78",
-      "battle": "7,954",
-      "trait": "Origin",
-      "kich_hoat": "4"
-    },
-    {
-      "stt": 77,
-      "id": "arbiter",
-      "name": "Arbiter",
-      "image": "Trait_Icon_17_Arbiter.TFT_Set17.png",
-      "description_icon": [
-        "Scribe a unique divine law, allowing you to choose an effect to apply to Arbiters when a chosen cause occurs.",
+        "Shepherds summon the Bond of the Stars to aid them in battle.",
         "\n"
       ],
       "description_detail": [
         [
-          "2",
-          "Choose a cause and effect for your law"
-        ],
-        [
           "3",
-          "Effects are stronger."
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.36",
-      "top_4_rate": "52.71",
-      "top_1_rate": "11.70",
-      "battle": "20,165",
-      "trait": "Origin",
-      "kich_hoat": "3"
-    },
-    {
-      "stt": 78,
-      "id": "space_groove",
-      "name": "Space Groove",
-      "image": "Trait_Icon_17_SpaceGroove.TFT_Set17.png",
-      "description_icon": [
-        "Space Groove units can enter the Groove state. While in Groove, their bonuses scale with the number of Space Groove allies and grow stronger at higher trait tiers."
-      ],
-      "description_detail": [
-        [
-          "1",
-          "Groovians can enter Space Groove. While in it",
-          "they gain Attack Speed and max Health Regen",
-          "increased per Groovian on your team."
-        ],
-        [
-          "3",
-          "All Groovians start combat in Space Groove for 3 seconds."
+          "Summon Bia"
         ],
         [
           "5",
-          "Each second spent in Space Groove grants 5% stacking Attack Damage and Ability Power."
+          "Summon Bayin"
         ],
         [
           "7",
-          "Increase these effects by 10%!"
-        ],
-        [
-          "10",
-          "{{TFT17_SpaceGroove_Groove}}"
+          "Bia and Bayin's bond grows deeper"
         ]
       ],
-      "champions": [],
-      "average_position": "4.37",
-      "top_4_rate": "51.98",
-      "top_1_rate": "15.00",
-      "battle": "25,927",
-      "trait": "Origin",
-      "kich_hoat": "5"
-    },
-    {
-      "stt": 79,
-      "id": "stargazer_(the_huntress)",
-      "name": "Stargazer (The Huntress)",
-      "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
-      "description_icon": [
-        "Stargazers chart a different constellation every game. This game: The Huntress.",
-        "\n",
-        "\n",
-        "Combat Start: Mark the highest Health enemies.",
-        "\n",
-        "\n",
-        "Allies in empowered hexes gain 15% Attack Speed. Stargazers in empowered hexes gain more and heal for 15% of their max Health when a marked enemy dies.",
-        "\n"
+      "champions": [
+        {
+          "id": "teemo",
+          "name": "Teemo",
+          "image": "tft17_teemo.tft_set17.png"
+        },
+        {
+          "id": "lissandra",
+          "name": "Lissandra",
+          "image": "tft17_lissandra.tft_set17.png"
+        },
+        {
+          "id": "meepsie",
+          "name": "Meepsie",
+          "image": "tft17_ivernminion.tft_set17.png"
+        },
+        {
+          "id": "illaoi",
+          "name": "Illaoi",
+          "image": "tft17_illaoi.tft_set17.png"
+        },
+        {
+          "id": "leblanc",
+          "name": "LeBlanc",
+          "image": "tft17_leblanc.tft_set17.png"
+        },
+        {
+          "id": "sona",
+          "name": "Sona",
+          "image": "tft17_sona.tft_set17.png"
+        }
       ],
-      "description_detail": [
-        [
-          "3",
-          "12%",
-          "AS.png",
-          "",
-          "3 marks"
-        ],
-        [
-          "5",
-          "35%",
-          "AS.png",
-          "",
-          "5 marks"
-        ],
-        [
-          "7",
-          "55%",
-          "AS.png",
-          "",
-          "7 marks"
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.35",
-      "top_4_rate": "51.93",
-      "top_1_rate": "16.53",
-      "battle": "14,734",
-      "trait": "Origin",
-      "kich_hoat": "3"
-    },
-    {
-      "stt": 80,
-      "id": "challenger",
-      "name": "Challenger",
-      "image": "Trait_Icon_17_Challenger.TFT_Set17.png",
-      "description_icon": [
-        "Your team gains 10% Attack Speed. Challengers gain bonus Attack Speed. When their target dies, Challengers dash to a new target and increase their Attack Speed bonus by 50% for 2.5 seconds.",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "2",
-          "15%",
-          "AS.png"
-        ],
-        [
-          "3",
-          "22%",
-          "AS.png"
-        ],
-        [
-          "4",
-          "40%",
-          "AS.png"
-        ],
-        [
-          "5",
-          "55%",
-          "AS.png"
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.48",
-      "top_4_rate": "51.54",
-      "top_1_rate": "9.19",
-      "battle": "3,894",
+      "average_position": "4.24",
+      "top_4_rate": "54.9",
+      "top_1_rate": "12.89",
+      "battle": "1,583",
       "trait": "Class",
       "kich_hoat": "3"
     },
     {
-      "stt": 81,
-      "id": "oracle",
-      "name": "Oracle",
-      "image": "Trait_Icon_12_Arcana.TFT_Set12.png",
-      "description_icon": [
-        "Every 3 rounds, Tahm Kench grants a reward!",
-        "\n",
-        "\n",
-        "Rounds Remaining: ?"
-      ],
-      "description_detail": [],
-      "champions": [],
-      "average_position": "4.48",
-      "top_4_rate": "50.09",
-      "top_1_rate": "15.55",
-      "battle": "124,812",
-      "trait": "Origin",
-      "kich_hoat": "1"
-    },
-    {
-      "stt": 82,
-      "id": "stargazer_(the_huntress)",
-      "name": "Stargazer (The Huntress)",
-      "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
-      "description_icon": [
-        "Stargazers chart a different constellation every game. This game: The Huntress.",
-        "\n",
-        "\n",
-        "Combat Start: Mark the highest Health enemies.",
-        "\n",
-        "\n",
-        "Allies in empowered hexes gain 15% Attack Speed. Stargazers in empowered hexes gain more and heal for 15% of their max Health when a marked enemy dies.",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "3",
-          "12%",
-          "AS.png",
-          "",
-          "3 marks"
-        ],
-        [
-          "5",
-          "35%",
-          "AS.png",
-          "",
-          "5 marks"
-        ],
-        [
-          "7",
-          "55%",
-          "AS.png",
-          "",
-          "7 marks"
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.83",
-      "top_4_rate": "50",
-      "top_1_rate": "4.69",
-      "battle": "64",
-      "trait": "Origin",
-      "kich_hoat": "7"
-    },
-    {
-      "stt": 83,
-      "id": "brawler",
-      "name": "Brawler",
-      "image": "Trait_Icon_Brawler.png",
-      "description_icon": [
-        "Your team gains 5% Health. Brawlers gain more.",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "2",
-          "+25% maximum Health"
-        ],
-        [
-          "4",
-          "+45% maximum Health"
-        ],
-        [
-          "6",
-          "+65% maximum Health"
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.46",
-      "top_4_rate": "49.94",
-      "top_1_rate": "12.70",
-      "battle": "16,254",
-      "trait": "Class",
-      "kich_hoat": "4"
-    },
-    {
-      "stt": 84,
-      "id": "stargazer_(the_mountain)",
-      "name": "Stargazer (The Mountain)",
-      "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
-      "description_icon": [
-        "Stargazers chart a different constellation every game. This game: The Mountain",
-        "\n",
-        "\n",
-        "Every 5 player combats, gain a Stargazer Emblem. Stargazers in empowered hexes gain various bonuses.",
-        "\n",
-        "\n",
-        "(Combats Remaining: ?)",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "3",
-          "Gain 15% Health"
-        ],
-        [
-          "4",
-          "AND 15% Attack Damage and Ability Power"
-        ],
-        [
-          "5",
-          "AND 10 Armor and Magic Resist"
-        ],
-        [
-          "6",
-          "AND 10% Attack Speed"
-        ],
-        [
-          "7",
-          "AND 6% Durability"
-        ],
-        [
-          "8",
-          "AND increase all other bonuses by 10%"
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.43",
-      "top_4_rate": "49.18",
-      "top_1_rate": "14.08",
-      "battle": "3,225",
-      "trait": "Origin",
-      "kich_hoat": "6"
-    },
-    {
-      "stt": 85,
-      "id": "brawler",
-      "name": "Brawler",
-      "image": "Trait_Icon_Brawler.png",
-      "description_icon": [
-        "Your team gains 5% Health. Brawlers gain more.",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "2",
-          "+25% maximum Health"
-        ],
-        [
-          "4",
-          "+45% maximum Health"
-        ],
-        [
-          "6",
-          "+65% maximum Health"
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.46",
-      "top_4_rate": "49.07",
-      "top_1_rate": "12.57",
-      "battle": "1,567",
-      "trait": "Class",
-      "kich_hoat": "6"
-    },
-    {
-      "stt": 86,
-      "id": "psionic",
-      "name": "Psionic",
-      "image": "Trait_Icon_17_PsyOps.TFT_Set17.png",
-      "description_icon": [
-        "Gain Psionic items that can be equipped to any ally.",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "2",
-          "Gain the ?"
-        ],
-        [
-          "4",
-          "Gain the ?",
-          "Psionic items gain extra effects on Psionic units"
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.55",
-      "top_4_rate": "48.8",
-      "top_1_rate": "8.40",
-      "battle": "6,168",
-      "trait": "Origin",
-      "kich_hoat": "4"
-    },
-    {
-      "stt": 87,
-      "id": "stargazer_(the_fountain)",
-      "name": "Stargazer (The Fountain)",
-      "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
-      "description_icon": [
-        "Stargazers chart a different constellation every game. This game: The Fountain.",
-        "\n",
-        "\n",
-        "Allies in empowered hexes gain 1 Mana Regen. Stargazers in empowered hexes gain more and heal the lowest Health ally with their abilities.",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "3",
-          "1",
-          "manaregen.png",
-          "",
-          "18% ability damage heal"
-        ],
-        [
-          "5",
-          "5",
-          "manaregen.png",
-          "",
-          "25% ability damage heal"
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.6",
-      "top_4_rate": "47.55",
-      "top_1_rate": "13.85",
-      "battle": "13,502",
-      "trait": "Origin",
-      "kich_hoat": "3"
-    },
-    {
-      "stt": 88,
+      "stt": 50,
       "id": "sniper",
       "name": "Sniper",
       "image": "Trait_Icon_6_Sniper.png",
@@ -18756,107 +18272,278 @@
           "per hex"
         ]
       ],
-      "champions": [],
-      "average_position": "4.61",
-      "top_4_rate": "47.07",
-      "top_1_rate": "15.55",
-      "battle": "55,540",
+      "champions": [
+        {
+          "id": "ezreal",
+          "name": "Ezreal",
+          "image": "tft17_ezreal.tft_set17.png"
+        },
+        {
+          "id": "gnar",
+          "name": "Gnar",
+          "image": "tft17_gnar.tft_set17.png"
+        },
+        {
+          "id": "samira",
+          "name": "Samira",
+          "image": "tft17_samira.tft_set17.png"
+        },
+        {
+          "id": "xayah",
+          "name": "Xayah",
+          "image": "tft17_xayah.tft_set17.png"
+        },
+        {
+          "id": "jhin",
+          "name": "Jhin",
+          "image": "tft17_jhin.tft_set17.png"
+        }
+      ],
+      "average_position": "4.2",
+      "top_4_rate": "54.87",
+      "top_1_rate": "18.68",
+      "battle": "862",
       "trait": "Class",
       "kich_hoat": "2"
     },
     {
-      "stt": 89,
-      "id": "factory_new",
-      "name": "Factory New",
-      "image": "Trait_Icon_17_FactoryNew.TFT_Set17.png",
+      "stt": 51,
+      "id": "bastion",
+      "name": "Bastion",
+      "image": "Trait_Icon_9_Bastion.png",
       "description_icon": [
-        "After participating in combat, open an armory to purchase a permanent upgrade for your strongest Graves.",
+        "Your team gains 15 Armor and Magic Resist.",
         "\n",
         "\n",
-        "Every 3 upgrades, future upgrades will take an additional round.",
-        "\n"
-      ],
-      "description_detail": [],
-      "champions": [],
-      "average_position": "4.62",
-      "top_4_rate": "46.82",
-      "top_1_rate": "15.88",
-      "battle": "46,083",
-      "trait": "Origin",
-      "kich_hoat": "1"
-    },
-    {
-      "stt": 90,
-      "id": "challenger",
-      "name": "Challenger",
-      "image": "Trait_Icon_17_Challenger.TFT_Set17.png",
-      "description_icon": [
-        "Your team gains 10% Attack Speed. Challengers gain bonus Attack Speed. When their target dies, Challengers dash to a new target and increase their Attack Speed bonus by 50% for 2.5 seconds.",
+        "Bastions gain more, and the value doubles in the first 10 seconds of combat.",
         "\n"
       ],
       "description_detail": [
         [
           "2",
-          "15%",
-          "AS.png"
-        ],
-        [
-          "3",
-          "22%",
-          "AS.png"
+          "16",
+          "Armor.png",
+          "MR.png"
         ],
         [
           "4",
-          "40%",
-          "AS.png"
+          "40",
+          "Armor.png",
+          "MR.png"
         ],
         [
-          "5",
-          "55%",
-          "AS.png"
+          "6",
+          "60",
+          "Armor.png",
+          "MR.png",
+          "; Non-Bastions gain an additional 20",
+          "Armor.png",
+          "MR.png",
+          "."
         ]
       ],
-      "champions": [],
-      "average_position": "4.68",
-      "top_4_rate": "46.78",
-      "top_1_rate": "8.19",
-      "battle": "684",
+      "champions": [
+        {
+          "id": "poppy",
+          "name": "Poppy",
+          "image": "tft17_poppy.tft_set17.png"
+        },
+        {
+          "id": "aatrox",
+          "name": "Aatrox",
+          "image": "tft17_aatrox.tft_set17.png"
+        },
+        {
+          "id": "jax",
+          "name": "Jax",
+          "image": "tft17_jax.tft_set17.png"
+        },
+        {
+          "id": "ornn",
+          "name": "Ornn",
+          "image": "tft17_ornn.tft_set17.png"
+        },
+        {
+          "id": "rammus",
+          "name": "Rammus",
+          "image": "tft17_rammus.tft_set17.png"
+        },
+        {
+          "id": "shen",
+          "name": "Shen",
+          "image": "tft17_shen.tft_set17.png"
+        }
+      ],
+      "average_position": "4.24",
+      "top_4_rate": "54.84",
+      "top_1_rate": "15.27",
+      "battle": "2,934",
+      "trait": "Class",
+      "kich_hoat": "2"
+    },
+    {
+      "stt": 52,
+      "id": "primordian",
+      "name": "Primordian",
+      "image": "Trait_Icon_17_Primordian.TFT_Set17.png",
+      "description_icon": [],
+      "description_detail": [
+        [
+          "2",
+          "Dealing damage spawns Swarmlings based on unique Primordian star level."
+        ],
+        [
+          "3",
+          "Spawn 45% more Swarmlings! After each player combat",
+          "gain a random 1 or 2-cost champion."
+        ]
+      ],
+      "champions": [
+        {
+          "id": "briar",
+          "name": "Briar",
+          "image": "tft17_briar.tft_set17.png"
+        },
+        {
+          "id": "rek'sai",
+          "name": "Rek'Sai",
+          "image": "tft17_reksai.tft_set17.png"
+        },
+        {
+          "id": "bel'veth",
+          "name": "Bel'Veth",
+          "image": "tft17_belveth.tft_set17.png"
+        }
+      ],
+      "average_position": "4.39",
+      "top_4_rate": "54.78",
+      "top_1_rate": "10.15",
+      "battle": "670",
+      "trait": "Origin",
+      "kich_hoat": "3"
+    },
+    {
+      "stt": 53,
+      "id": "mecha",
+      "name": "Mecha",
+      "image": "Trait_Icon_17_Mecha.TFT_Set17.png",
+      "description_icon": [
+        "Innate: Mecha units can transform into their Ultimate form, upgrading their ability and gaining 40% Health. Transformed Mechas take up two team slots and count twice for the Mecha trait.",
+        "\n"
+      ],
+      "description_detail": [
+        [
+          "3",
+          "Energy Cells: Mechas gain 25%",
+          "AD.png",
+          "AP.png",
+          "."
+        ],
+        [
+          "4",
+          "Overclocked Cells: Increased to 45%",
+          "AD.png",
+          "AP.png",
+          "."
+        ],
+        [
+          "6",
+          "Precision Engineering: +1 max team size"
+        ]
+      ],
+      "champions": [
+        {
+          "id": "urgot",
+          "name": "Urgot",
+          "image": "tft17_urgot.tft_set17.png"
+        },
+        {
+          "id": "aurelion_sol",
+          "name": "Aurelion Sol",
+          "image": "tft17_aurelionsol.tft_set17.png"
+        },
+        {
+          "id": "the_mighty_mech",
+          "name": "The Mighty Mech",
+          "image": "tft17_galio.tft_set17.png"
+        }
+      ],
+      "average_position": "4.25",
+      "top_4_rate": "54.73",
+      "top_1_rate": "17.70",
+      "battle": "243",
+      "trait": "Origin",
+      "kich_hoat": "6"
+    },
+    {
+      "stt": 54,
+      "id": "brawler",
+      "name": "Brawler",
+      "image": "Trait_Icon_Brawler.png",
+      "description_icon": [
+        "Your team gains 5% Health. Brawlers gain more.",
+        "\n"
+      ],
+      "description_detail": [
+        [
+          "2",
+          "+25% maximum Health"
+        ],
+        [
+          "4",
+          "+45% maximum Health"
+        ],
+        [
+          "6",
+          "+65% maximum Health"
+        ]
+      ],
+      "champions": [
+        {
+          "id": "cho'gath",
+          "name": "Cho'Gath",
+          "image": "tft17_chogath.tft_set17.png"
+        },
+        {
+          "id": "rek'sai",
+          "name": "Rek'Sai",
+          "image": "tft17_reksai.tft_set17.png"
+        },
+        {
+          "id": "gragas",
+          "name": "Gragas",
+          "image": "tft17_gragas.tft_set17.png"
+        },
+        {
+          "id": "pantheon",
+          "name": "Pantheon",
+          "image": "tft17_pantheon.tft_set17.png"
+        },
+        {
+          "id": "maokai",
+          "name": "Maokai",
+          "image": "tft17_maokai.tft_set17.png"
+        },
+        {
+          "id": "urgot",
+          "name": "Urgot",
+          "image": "tft17_urgot.tft_set17.png"
+        },
+        {
+          "id": "tahm_kench",
+          "name": "Tahm Kench",
+          "image": "tft17_tahmkench.tft_set17.png"
+        }
+      ],
+      "average_position": "4.26",
+      "top_4_rate": "54.71",
+      "top_1_rate": "15.63",
+      "battle": "806",
       "trait": "Class",
       "kich_hoat": "4"
     },
     {
-      "stt": 91,
-      "id": "fateweaver",
-      "name": "Fateweaver",
-      "image": "Trait_Icon_17_Fateweaver.TFT_Set17.png",
-      "description_icon": [
-        "Innate: Fateweavers have Precision.",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "2",
-          "Chance effects on abilities are",
-          "Lucky",
-          "."
-        ],
-        [
-          "4",
-          "Gain 20% Crit Chance and 20% Crit Damage. Critical strikes are also",
-          "Lucky",
-          "."
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.67",
-      "top_4_rate": "46.05",
-      "top_1_rate": "9.97",
-      "battle": "32,979",
-      "trait": "Class",
-      "kich_hoat": "2"
-    },
-    {
-      "stt": 92,
+      "stt": 55,
       "id": "meeple",
       "name": "Meeple",
       "image": "Trait_Icon_17_Astronaut.TFT_Set17.png",
@@ -18900,72 +18587,463 @@
           ". SUMMON THE FOUR MEEPLORDS!"
         ]
       ],
-      "champions": [],
-      "average_position": "4.58",
-      "top_4_rate": "45.6",
-      "top_1_rate": "17.55",
-      "battle": "12,407",
-      "trait": "Origin",
-      "kich_hoat": "7"
-    },
-    {
-      "stt": 93,
-      "id": "gun_goddess",
-      "name": "Gun Goddess",
-      "image": "Trait_Icon_17_GunGoddess.TFT_Set17.png",
-      "description_icon": [
-        "When you field Miss Fortune, choose between Conduit Mode, Challenger Mode, and Replicator Mode. Miss Fortune has a unique ability based on her mode and gains the associated trait."
+      "champions": [
+        {
+          "id": "poppy",
+          "name": "Poppy",
+          "image": "tft17_poppy.tft_set17.png"
+        },
+        {
+          "id": "veigar",
+          "name": "Veigar",
+          "image": "tft17_veigar.tft_set17.png"
+        },
+        {
+          "id": "gnar",
+          "name": "Gnar",
+          "image": "tft17_gnar.tft_set17.png"
+        },
+        {
+          "id": "meepsie",
+          "name": "Meepsie",
+          "image": "tft17_ivernminion.tft_set17.png"
+        },
+        {
+          "id": "fizz",
+          "name": "Fizz",
+          "image": "tft17_fizz.tft_set17.png"
+        },
+        {
+          "id": "rammus",
+          "name": "Rammus",
+          "image": "tft17_rammus.tft_set17.png"
+        },
+        {
+          "id": "corki",
+          "name": "Corki",
+          "image": "tft17_corki.tft_set17.png"
+        },
+        {
+          "id": "bard",
+          "name": "Bard",
+          "image": "tft17_bard.tft_set17.png"
+        }
       ],
-      "description_detail": [],
-      "champions": [],
-      "average_position": "4.76",
-      "top_4_rate": "45.25",
-      "top_1_rate": "8.81",
-      "battle": "5,922",
-      "trait": "Class",
-      "kich_hoat": "1"
+      "average_position": "4.3",
+      "top_4_rate": "54.48",
+      "top_1_rate": "12.90",
+      "battle": "279",
+      "trait": "Origin",
+      "kich_hoat": "5"
     },
     {
-      "stt": 94,
-      "id": "challenger",
-      "name": "Challenger",
-      "image": "Trait_Icon_17_Challenger.TFT_Set17.png",
+      "stt": 56,
+      "id": "n.o.v.a.",
+      "name": "N.O.V.A.",
+      "image": "Trait_Icon_17_NOVA.TFT_Set17.png",
+      "description_icon": [],
+      "description_detail": [
+        [
+          "2",
+          "6 seconds into combat",
+          "N.O.V.A. grant a power surge to allies based on champions."
+        ],
+        [
+          "5",
+          "Gain a Striker selector. The chosen N.O.V.A. activates their Strike during the power surge."
+        ]
+      ],
+      "champions": [
+        {
+          "id": "aatrox",
+          "name": "Aatrox",
+          "image": "tft17_aatrox.tft_set17.png"
+        },
+        {
+          "id": "caitlyn",
+          "name": "Caitlyn",
+          "image": "tft17_caitlyn.tft_set17.png"
+        },
+        {
+          "id": "akali",
+          "name": "Akali",
+          "image": "tft17_akali.tft_set17.png"
+        },
+        {
+          "id": "maokai",
+          "name": "Maokai",
+          "image": "tft17_maokai.tft_set17.png"
+        },
+        {
+          "id": "kindred",
+          "name": "Kindred",
+          "image": "tft17_kindred.tft_set17.png"
+        }
+      ],
+      "average_position": "4.3",
+      "top_4_rate": "54.46",
+      "top_1_rate": "13.38",
+      "battle": "2,534",
+      "trait": "Origin",
+      "kich_hoat": "2"
+    },
+    {
+      "stt": 57,
+      "id": "replicator",
+      "name": "Replicator",
+      "image": "Trait_Icon_17_Replicator.TFT_Set17.png",
       "description_icon": [
-        "Your team gains 10% Attack Speed. Challengers gain bonus Attack Speed. When their target dies, Challengers dash to a new target and increase their Attack Speed bonus by 50% for 2.5 seconds.",
+        "Replicator abilities occur a second time at reduced effectiveness.",
         "\n"
       ],
       "description_detail": [
         [
           "2",
-          "15%",
-          "AS.png"
+          "22% strength"
+        ],
+        [
+          "4",
+          "45% strength"
+        ]
+      ],
+      "champions": [
+        {
+          "id": "veigar",
+          "name": "Veigar",
+          "image": "tft17_veigar.tft_set17.png"
+        },
+        {
+          "id": "lissandra",
+          "name": "Lissandra",
+          "image": "tft17_lissandra.tft_set17.png"
+        },
+        {
+          "id": "pantheon",
+          "name": "Pantheon",
+          "image": "tft17_pantheon.tft_set17.png"
+        },
+        {
+          "id": "lulu",
+          "name": "Lulu",
+          "image": "tft17_lulu.tft_set17.png"
+        },
+        {
+          "id": "nami",
+          "name": "Nami",
+          "image": "tft17_nami.tft_set17.png"
+        }
+      ],
+      "average_position": "4.3",
+      "top_4_rate": "54.34",
+      "top_1_rate": "12.21",
+      "battle": "1,220",
+      "trait": "Class",
+      "kich_hoat": "2"
+    },
+    {
+      "stt": 58,
+      "id": "bastion",
+      "name": "Bastion",
+      "image": "Trait_Icon_9_Bastion.png",
+      "description_icon": [
+        "Your team gains 15 Armor and Magic Resist.",
+        "\n",
+        "\n",
+        "Bastions gain more, and the value doubles in the first 10 seconds of combat.",
+        "\n"
+      ],
+      "description_detail": [
+        [
+          "2",
+          "16",
+          "Armor.png",
+          "MR.png"
+        ],
+        [
+          "4",
+          "40",
+          "Armor.png",
+          "MR.png"
+        ],
+        [
+          "6",
+          "60",
+          "Armor.png",
+          "MR.png",
+          "; Non-Bastions gain an additional 20",
+          "Armor.png",
+          "MR.png",
+          "."
+        ]
+      ],
+      "champions": [
+        {
+          "id": "poppy",
+          "name": "Poppy",
+          "image": "tft17_poppy.tft_set17.png"
+        },
+        {
+          "id": "aatrox",
+          "name": "Aatrox",
+          "image": "tft17_aatrox.tft_set17.png"
+        },
+        {
+          "id": "jax",
+          "name": "Jax",
+          "image": "tft17_jax.tft_set17.png"
+        },
+        {
+          "id": "ornn",
+          "name": "Ornn",
+          "image": "tft17_ornn.tft_set17.png"
+        },
+        {
+          "id": "rammus",
+          "name": "Rammus",
+          "image": "tft17_rammus.tft_set17.png"
+        },
+        {
+          "id": "shen",
+          "name": "Shen",
+          "image": "tft17_shen.tft_set17.png"
+        }
+      ],
+      "average_position": "3.92",
+      "top_4_rate": "53.85",
+      "top_1_rate": "15.38",
+      "battle": "13",
+      "trait": "Class",
+      "kich_hoat": "6"
+    },
+    {
+      "stt": 59,
+      "id": "stargazer_(the_mountain)",
+      "name": "Stargazer (The Mountain)",
+      "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
+      "description_icon": [
+        "Stargazers chart a different constellation every game. This game: The Mountain",
+        "\n",
+        "\n",
+        "Every 5 player combats, gain a Stargazer Emblem. Stargazers in empowered hexes gain various bonuses.",
+        "\n",
+        "\n",
+        "(Combats Remaining: ?)",
+        "\n"
+      ],
+      "description_detail": [
+        [
+          "3",
+          "Gain 15% Health"
+        ],
+        [
+          "4",
+          "AND 15% Attack Damage and Ability Power"
+        ],
+        [
+          "5",
+          "AND 10 Armor and Magic Resist"
+        ],
+        [
+          "6",
+          "AND 10% Attack Speed"
+        ],
+        [
+          "7",
+          "AND 6% Durability"
+        ],
+        [
+          "8",
+          "AND increase all other bonuses by 10%"
+        ]
+      ],
+      "champions": [],
+      "average_position": "4.09",
+      "top_4_rate": "53.49",
+      "top_1_rate": "16.28",
+      "battle": "43",
+      "trait": "Origin",
+      "kich_hoat": "5"
+    },
+    {
+      "stt": 60,
+      "id": "rogue",
+      "name": "Rogue",
+      "image": "Trait_Icon_17_Rogue.TFT_Set17.png",
+      "description_icon": [
+        "Rogues gain Attack Damage and Ability Power. The first time they fall below 50% health, they slip into shadows. Enemies targeting them are redirected to a nearby unit, preferring Tanks.",
+        "\n"
+      ],
+      "description_detail": [
+        [
+          "2",
+          "12%",
+          "AD.png",
+          "AP.png"
         ],
         [
           "3",
-          "22%",
-          "AS.png"
+          "25%",
+          "AD.png",
+          "AP.png"
         ],
         [
           "4",
           "40%",
-          "AS.png"
+          "AD.png",
+          "AP.png"
         ],
         [
           "5",
           "55%",
-          "AS.png"
+          "AD.png",
+          "AP.png"
+        ]
+      ],
+      "champions": [
+        {
+          "id": "briar",
+          "name": "Briar",
+          "image": "tft17_briar.tft_set17.png"
+        },
+        {
+          "id": "talon",
+          "name": "Talon",
+          "image": "tft17_talon.tft_set17.png"
+        },
+        {
+          "id": "gwen",
+          "name": "Gwen",
+          "image": "tft17_gwen.tft_set17.png"
+        },
+        {
+          "id": "fizz",
+          "name": "Fizz",
+          "image": "tft17_fizz.tft_set17.png"
+        },
+        {
+          "id": "kai'sa",
+          "name": "Kai'Sa",
+          "image": "tft17_kaisa.tft_set17.png"
+        },
+        {
+          "id": "riven",
+          "name": "Riven",
+          "image": "tft17_riven.tft_set17.png"
+        }
+      ],
+      "average_position": "4.35",
+      "top_4_rate": "53.43",
+      "top_1_rate": "12.25",
+      "battle": "204",
+      "trait": "Class",
+      "kich_hoat": "3"
+    },
+    {
+      "stt": 61,
+      "id": "stargazer_(the_mountain)",
+      "name": "Stargazer (The Mountain)",
+      "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
+      "description_icon": [
+        "Stargazers chart a different constellation every game. This game: The Mountain",
+        "\n",
+        "\n",
+        "Every 5 player combats, gain a Stargazer Emblem. Stargazers in empowered hexes gain various bonuses.",
+        "\n",
+        "\n",
+        "(Combats Remaining: ?)",
+        "\n"
+      ],
+      "description_detail": [
+        [
+          "3",
+          "Gain 15% Health"
+        ],
+        [
+          "4",
+          "AND 15% Attack Damage and Ability Power"
+        ],
+        [
+          "5",
+          "AND 10 Armor and Magic Resist"
+        ],
+        [
+          "6",
+          "AND 10% Attack Speed"
+        ],
+        [
+          "7",
+          "AND 6% Durability"
+        ],
+        [
+          "8",
+          "AND increase all other bonuses by 10%"
         ]
       ],
       "champions": [],
-      "average_position": "4.73",
-      "top_4_rate": "43.93",
-      "top_1_rate": "8.52",
-      "battle": "305",
-      "trait": "Class",
-      "kich_hoat": "5"
+      "average_position": "4.22",
+      "top_4_rate": "53.33",
+      "top_1_rate": "20.00",
+      "battle": "45",
+      "trait": "Origin",
+      "kich_hoat": "7"
     },
     {
-      "stt": 95,
+      "stt": 62,
+      "id": "stargazer_(the_altar)",
+      "name": "Stargazer (The Altar)",
+      "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
+      "description_icon": [
+        "Stargazers chart a different constellation every game. This game: The Altar.",
+        "\n"
+      ],
+      "description_detail": [
+        [
+          "3",
+          "When ANY champion dies",
+          "they are sacrificed to the Altar. Allies in empowered hexes gain 8% Health and 8% Attack Speed.After 60 sacrifices",
+          "Stargazers in empowered hexes gain an additional 20%",
+          "Health.png",
+          "and 18%",
+          "AS.png",
+          "Sacrifices: (? / 60)"
+        ]
+      ],
+      "champions": [],
+      "average_position": "4.23",
+      "top_4_rate": "52.89",
+      "top_1_rate": "16.53",
+      "battle": "242",
+      "trait": "Origin",
+      "kich_hoat": "3"
+    },
+    {
+      "stt": 63,
+      "id": "oracle",
+      "name": "Oracle",
+      "image": "Trait_Icon_12_Arcana.TFT_Set12.png",
+      "description_icon": [
+        "Every 3 rounds, Tahm Kench grants a reward!",
+        "\n",
+        "\n",
+        "Rounds Remaining: ?"
+      ],
+      "description_detail": [],
+      "champions": [
+        {
+          "id": "tahm_kench",
+          "name": "Tahm Kench",
+          "image": "tft17_tahmkench.tft_set17.png"
+        }
+      ],
+      "average_position": "4.35",
+      "top_4_rate": "52.72",
+      "top_1_rate": "15.16",
+      "battle": "2,170",
+      "trait": "Origin",
+      "kich_hoat": "1"
+    },
+    {
+      "stt": 64,
       "id": "stargazer_(the_huntress)",
       "name": "Stargazer (The Huntress)",
       "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
@@ -19003,67 +19081,1212 @@
         ]
       ],
       "champions": [],
-      "average_position": "4.87",
-      "top_4_rate": "42.91",
-      "top_1_rate": "3.69",
-      "battle": "515",
+      "average_position": "4.39",
+      "top_4_rate": "52.57",
+      "top_1_rate": "11.43",
+      "battle": "175",
       "trait": "Origin",
-      "kich_hoat": "5"
+      "kich_hoat": "3"
     },
     {
-      "stt": 96,
-      "id": "primordian",
-      "name": "Primordian",
-      "image": "Trait_Icon_17_Primordian.TFT_Set17.png",
-      "description_icon": [],
+      "stt": 65,
+      "id": "stargazer_(the_medallion)",
+      "name": "Stargazer (The Medallion)",
+      "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
+      "description_icon": [
+        "Stargazers chart a different constellation every game. This game: The Medallion.",
+        "\n"
+      ],
       "description_detail": [
         [
-          "2",
-          "Dealing damage spawns Swarmlings based on unique Primordian star level."
-        ],
-        [
           "3",
-          "Spawn 45% more Swarmlings! After each player combat",
-          "gain a random 1 or 2-cost champion."
+          "Allies in empowered hexes gain 12% Damage Amp",
+          "which increases by 5% for each 3-star ally."
         ]
       ],
       "champions": [],
-      "average_position": "5.08",
-      "top_4_rate": "42.4",
-      "top_1_rate": "8.51",
-      "battle": "2,363",
+      "average_position": "4.47",
+      "top_4_rate": "52.56",
+      "top_1_rate": "12.63",
+      "battle": "293",
       "trait": "Origin",
-      "kich_hoat": "2"
+      "kich_hoat": "3"
     },
     {
-      "stt": 97,
-      "id": "replicator",
-      "name": "Replicator",
-      "image": "Trait_Icon_17_Replicator.TFT_Set17.png",
+      "stt": 66,
+      "id": "space_groove",
+      "name": "Space Groove",
+      "image": "Trait_Icon_17_SpaceGroove.TFT_Set17.png",
       "description_icon": [
-        "Replicator abilities occur a second time at reduced effectiveness.",
+        "Space Groove units can enter the Groove state. While in Groove, their bonuses scale with the number of Space Groove allies and grow stronger at higher trait tiers."
+      ],
+      "description_detail": [
+        [
+          "1",
+          "Groovians can enter Space Groove. While in it",
+          "they gain Attack Speed and max Health Regen",
+          "increased per Groovian on your team."
+        ],
+        [
+          "3",
+          "All Groovians start combat in Space Groove for 3 seconds."
+        ],
+        [
+          "5",
+          "Each second spent in Space Groove grants 5% stacking Attack Damage and Ability Power."
+        ],
+        [
+          "7",
+          "Increase these effects by 10%!"
+        ],
+        [
+          "10",
+          "{{TFT17_SpaceGroove_Groove}}"
+        ]
+      ],
+      "champions": [
+        {
+          "id": "teemo",
+          "name": "Teemo",
+          "image": "tft17_teemo.tft_set17.png"
+        },
+        {
+          "id": "nasus",
+          "name": "Nasus",
+          "image": "tft17_nasus.tft_set17.png"
+        },
+        {
+          "id": "gwen",
+          "name": "Gwen",
+          "image": "tft17_gwen.tft_set17.png"
+        },
+        {
+          "id": "samira",
+          "name": "Samira",
+          "image": "tft17_samira.tft_set17.png"
+        },
+        {
+          "id": "ornn",
+          "name": "Ornn",
+          "image": "tft17_ornn.tft_set17.png"
+        },
+        {
+          "id": "nami",
+          "name": "Nami",
+          "image": "tft17_nami.tft_set17.png"
+        },
+        {
+          "id": "blitzcrank",
+          "name": "Blitzcrank",
+          "image": "tft17_blitzcrank.tft_set17.png"
+        }
+      ],
+      "average_position": "4.35",
+      "top_4_rate": "52.55",
+      "top_1_rate": "13.40",
+      "battle": "2,493",
+      "trait": "Origin",
+      "kich_hoat": "1"
+    },
+    {
+      "stt": 67,
+      "id": "arbiter",
+      "name": "Arbiter",
+      "image": "Trait_Icon_17_Arbiter.TFT_Set17.png",
+      "description_icon": [
+        "Scribe a unique divine law, allowing you to choose an effect to apply to Arbiters when a chosen cause occurs.",
         "\n"
       ],
       "description_detail": [
         [
           "2",
-          "22% strength"
+          "Choose a cause and effect for your law"
+        ],
+        [
+          "3",
+          "Effects are stronger."
+        ]
+      ],
+      "champions": [
+        {
+          "id": "leona",
+          "name": "Leona",
+          "image": "tft17_leona.tft_set17.png"
+        },
+        {
+          "id": "zoe",
+          "name": "Zoe",
+          "image": "tft17_zoe.tft_set17.png"
+        },
+        {
+          "id": "diana",
+          "name": "Diana",
+          "image": "tft17_diana_teamplanner_splash.tft_set17.png"
+        },
+        {
+          "id": "leblanc",
+          "name": "LeBlanc",
+          "image": "tft17_leblanc.tft_set17.png"
+        }
+      ],
+      "average_position": "4.43",
+      "top_4_rate": "52.24",
+      "top_1_rate": "13.18",
+      "battle": "402",
+      "trait": "Origin",
+      "kich_hoat": "3"
+    },
+    {
+      "stt": 68,
+      "id": "marauder",
+      "name": "Marauder",
+      "image": "Trait_Icon_16_Slayer.png",
+      "description_icon": [
+        "Your team gains 5% Omnivamp. Marauders gain more Omnivamp, Attack Damage, and their Omnivamp overhealing is converted into Shield (up to 25% max Health.)",
+        "\n"
+      ],
+      "description_detail": [
+        [
+          "2",
+          "5%",
+          "SV.png",
+          "",
+          "20%",
+          "AD.png"
         ],
         [
           "4",
-          "45% strength"
+          "7%",
+          "SV.png",
+          "",
+          "40%",
+          "AD.png"
+        ],
+        [
+          "6",
+          "10%",
+          "SV.png",
+          "",
+          "60%",
+          "AD.png",
+          "."
         ]
       ],
-      "champions": [],
-      "average_position": "4.89",
-      "top_4_rate": "40.99",
-      "top_1_rate": "9.75",
-      "battle": "749",
+      "champions": [
+        {
+          "id": "bel'veth",
+          "name": "Bel'Veth",
+          "image": "tft17_belveth.tft_set17.png"
+        },
+        {
+          "id": "akali",
+          "name": "Akali",
+          "image": "tft17_akali.tft_set17.png"
+        },
+        {
+          "id": "urgot",
+          "name": "Urgot",
+          "image": "tft17_urgot.tft_set17.png"
+        },
+        {
+          "id": "master_yi",
+          "name": "Master Yi",
+          "image": "tft17_masteryi.tft_set17.png"
+        },
+        {
+          "id": "fiora",
+          "name": "Fiora",
+          "image": "tft17_fiora.tft_set17.png"
+        }
+      ],
+      "average_position": "4.41",
+      "top_4_rate": "51.82",
+      "top_1_rate": "13.31",
+      "battle": "1,924",
+      "trait": "Class",
+      "kich_hoat": "2"
+    },
+    {
+      "stt": 69,
+      "id": "voyager",
+      "name": "Voyager",
+      "image": "Trait_Icon_17_Voyager.TFT_Set17.png",
+      "description_icon": [
+        "Combat Start: Your Tanks gain a Shield for 15 seconds. Your other allies gain Damage Amp.",
+        "\n",
+        "\n",
+        "Voyagers gain double.",
+        "\n"
+      ],
+      "description_detail": [
+        [
+          "2",
+          "175 Shield; 9%",
+          "DA.png"
+        ],
+        [
+          "3",
+          "250 Shield; 15%",
+          "DA.png"
+        ],
+        [
+          "4",
+          "350 Shield; 18%",
+          "DA.png"
+        ],
+        [
+          "5",
+          "500 Shield; 22%",
+          "DA.png"
+        ],
+        [
+          "6",
+          "700 Shield; 27%",
+          "DA.png"
+        ]
+      ],
+      "champions": [
+        {
+          "id": "pyke",
+          "name": "Pyke",
+          "image": "tft17_pyke.tft_set17.png"
+        },
+        {
+          "id": "meepsie",
+          "name": "Meepsie",
+          "image": "tft17_ivernminion.tft_set17.png"
+        },
+        {
+          "id": "aurora",
+          "name": "Aurora",
+          "image": "tft17_aurora.tft_set17.png"
+        },
+        {
+          "id": "karma",
+          "name": "Karma",
+          "image": "tft17_karma.tft_set17.png"
+        },
+        {
+          "id": "the_mighty_mech",
+          "name": "The Mighty Mech",
+          "image": "tft17_galio.tft_set17.png"
+        }
+      ],
+      "average_position": "4.38",
+      "top_4_rate": "51.68",
+      "top_1_rate": "13.35",
+      "battle": "2,022",
+      "trait": "Class",
+      "kich_hoat": "2"
+    },
+    {
+      "stt": 70,
+      "id": "meeple",
+      "name": "Meeple",
+      "image": "Trait_Icon_17_Astronaut.TFT_Set17.png",
+      "description_icon": [
+        "Meeple attract Meeps that empower Meeple abilities in meepy ways. They also gain bonus Health.",
+        "\n"
+      ],
+      "description_detail": [
+        [
+          "3",
+          "2",
+          "AMP.png",
+          "",
+          "100",
+          "Health.png"
+        ],
+        [
+          "5",
+          "3",
+          "AMP.png",
+          "",
+          "400",
+          "Health.png"
+        ],
+        [
+          "7",
+          "4",
+          "AMP.png",
+          "",
+          "400",
+          "Health.png",
+          ". Create a Cloning Slot on your bench. Gain gold and a 1-star copy of the champion placed there when cloning completes."
+        ],
+        [
+          "10",
+          "6",
+          "AMP.png",
+          "",
+          "500",
+          "Health.png",
+          ". SUMMON THE FOUR MEEPLORDS!"
+        ]
+      ],
+      "champions": [
+        {
+          "id": "poppy",
+          "name": "Poppy",
+          "image": "tft17_poppy.tft_set17.png"
+        },
+        {
+          "id": "veigar",
+          "name": "Veigar",
+          "image": "tft17_veigar.tft_set17.png"
+        },
+        {
+          "id": "gnar",
+          "name": "Gnar",
+          "image": "tft17_gnar.tft_set17.png"
+        },
+        {
+          "id": "meepsie",
+          "name": "Meepsie",
+          "image": "tft17_ivernminion.tft_set17.png"
+        },
+        {
+          "id": "fizz",
+          "name": "Fizz",
+          "image": "tft17_fizz.tft_set17.png"
+        },
+        {
+          "id": "rammus",
+          "name": "Rammus",
+          "image": "tft17_rammus.tft_set17.png"
+        },
+        {
+          "id": "corki",
+          "name": "Corki",
+          "image": "tft17_corki.tft_set17.png"
+        },
+        {
+          "id": "bard",
+          "name": "Bard",
+          "image": "tft17_bard.tft_set17.png"
+        }
+      ],
+      "average_position": "4.21",
+      "top_4_rate": "51.57",
+      "top_1_rate": "20.18",
+      "battle": "223",
+      "trait": "Origin",
+      "kich_hoat": "7"
+    },
+    {
+      "stt": 71,
+      "id": "brawler",
+      "name": "Brawler",
+      "image": "Trait_Icon_Brawler.png",
+      "description_icon": [
+        "Your team gains 5% Health. Brawlers gain more.",
+        "\n"
+      ],
+      "description_detail": [
+        [
+          "2",
+          "+25% maximum Health"
+        ],
+        [
+          "4",
+          "+45% maximum Health"
+        ],
+        [
+          "6",
+          "+65% maximum Health"
+        ]
+      ],
+      "champions": [
+        {
+          "id": "cho'gath",
+          "name": "Cho'Gath",
+          "image": "tft17_chogath.tft_set17.png"
+        },
+        {
+          "id": "rek'sai",
+          "name": "Rek'Sai",
+          "image": "tft17_reksai.tft_set17.png"
+        },
+        {
+          "id": "gragas",
+          "name": "Gragas",
+          "image": "tft17_gragas.tft_set17.png"
+        },
+        {
+          "id": "pantheon",
+          "name": "Pantheon",
+          "image": "tft17_pantheon.tft_set17.png"
+        },
+        {
+          "id": "maokai",
+          "name": "Maokai",
+          "image": "tft17_maokai.tft_set17.png"
+        },
+        {
+          "id": "urgot",
+          "name": "Urgot",
+          "image": "tft17_urgot.tft_set17.png"
+        },
+        {
+          "id": "tahm_kench",
+          "name": "Tahm Kench",
+          "image": "tft17_tahmkench.tft_set17.png"
+        }
+      ],
+      "average_position": "4.43",
+      "top_4_rate": "51.53",
+      "top_1_rate": "12.46",
+      "battle": "2,721",
+      "trait": "Class",
+      "kich_hoat": "2"
+    },
+    {
+      "stt": 72,
+      "id": "doomer",
+      "name": "Doomer",
+      "image": "Trait_Icon_17_Doomer.TFT_Set17.png",
+      "description_icon": [
+        "Combat Start: Mark all enemies with Doom.",
+        "\n"
+      ],
+      "description_detail": [],
+      "champions": [
+        {
+          "id": "vex",
+          "name": "Vex",
+          "image": "tft17_vex.tft_set17.png"
+        }
+      ],
+      "average_position": "4.37",
+      "top_4_rate": "50.42",
+      "top_1_rate": "17.41",
+      "battle": "827",
+      "trait": "Origin",
+      "kich_hoat": "1"
+    },
+    {
+      "stt": 73,
+      "id": "meeple",
+      "name": "Meeple",
+      "image": "Trait_Icon_17_Astronaut.TFT_Set17.png",
+      "description_icon": [
+        "Meeple attract Meeps that empower Meeple abilities in meepy ways. They also gain bonus Health.",
+        "\n"
+      ],
+      "description_detail": [
+        [
+          "3",
+          "2",
+          "AMP.png",
+          "",
+          "100",
+          "Health.png"
+        ],
+        [
+          "5",
+          "3",
+          "AMP.png",
+          "",
+          "400",
+          "Health.png"
+        ],
+        [
+          "7",
+          "4",
+          "AMP.png",
+          "",
+          "400",
+          "Health.png",
+          ". Create a Cloning Slot on your bench. Gain gold and a 1-star copy of the champion placed there when cloning completes."
+        ],
+        [
+          "10",
+          "6",
+          "AMP.png",
+          "",
+          "500",
+          "Health.png",
+          ". SUMMON THE FOUR MEEPLORDS!"
+        ]
+      ],
+      "champions": [
+        {
+          "id": "poppy",
+          "name": "Poppy",
+          "image": "tft17_poppy.tft_set17.png"
+        },
+        {
+          "id": "veigar",
+          "name": "Veigar",
+          "image": "tft17_veigar.tft_set17.png"
+        },
+        {
+          "id": "gnar",
+          "name": "Gnar",
+          "image": "tft17_gnar.tft_set17.png"
+        },
+        {
+          "id": "meepsie",
+          "name": "Meepsie",
+          "image": "tft17_ivernminion.tft_set17.png"
+        },
+        {
+          "id": "fizz",
+          "name": "Fizz",
+          "image": "tft17_fizz.tft_set17.png"
+        },
+        {
+          "id": "rammus",
+          "name": "Rammus",
+          "image": "tft17_rammus.tft_set17.png"
+        },
+        {
+          "id": "corki",
+          "name": "Corki",
+          "image": "tft17_corki.tft_set17.png"
+        },
+        {
+          "id": "bard",
+          "name": "Bard",
+          "image": "tft17_bard.tft_set17.png"
+        }
+      ],
+      "average_position": "4.43",
+      "top_4_rate": "50.35",
+      "top_1_rate": "11.99",
+      "battle": "717",
+      "trait": "Origin",
+      "kich_hoat": "3"
+    },
+    {
+      "stt": 74,
+      "id": "arbiter",
+      "name": "Arbiter",
+      "image": "Trait_Icon_17_Arbiter.TFT_Set17.png",
+      "description_icon": [
+        "Scribe a unique divine law, allowing you to choose an effect to apply to Arbiters when a chosen cause occurs.",
+        "\n"
+      ],
+      "description_detail": [
+        [
+          "2",
+          "Choose a cause and effect for your law"
+        ],
+        [
+          "3",
+          "Effects are stronger."
+        ]
+      ],
+      "champions": [
+        {
+          "id": "leona",
+          "name": "Leona",
+          "image": "tft17_leona.tft_set17.png"
+        },
+        {
+          "id": "zoe",
+          "name": "Zoe",
+          "image": "tft17_zoe.tft_set17.png"
+        },
+        {
+          "id": "diana",
+          "name": "Diana",
+          "image": "tft17_diana_teamplanner_splash.tft_set17.png"
+        },
+        {
+          "id": "leblanc",
+          "name": "LeBlanc",
+          "image": "tft17_leblanc.tft_set17.png"
+        }
+      ],
+      "average_position": "4.46",
+      "top_4_rate": "50.26",
+      "top_1_rate": "10.75",
+      "battle": "577",
+      "trait": "Origin",
+      "kich_hoat": "2"
+    },
+    {
+      "stt": 75,
+      "id": "fateweaver",
+      "name": "Fateweaver",
+      "image": "Trait_Icon_17_Fateweaver.TFT_Set17.png",
+      "description_icon": [
+        "Innate: Fateweavers have Precision.",
+        "\n"
+      ],
+      "description_detail": [
+        [
+          "2",
+          "Chance effects on abilities are",
+          "Lucky",
+          "."
+        ],
+        [
+          "4",
+          "Gain 20% Crit Chance and 20% Crit Damage. Critical strikes are also",
+          "Lucky",
+          "."
+        ]
+      ],
+      "champions": [
+        {
+          "id": "caitlyn",
+          "name": "Caitlyn",
+          "image": "tft17_caitlyn.tft_set17.png"
+        },
+        {
+          "id": "twisted_fate",
+          "name": "Twisted Fate",
+          "image": "tft17_twistedfate.tft_set17.png"
+        },
+        {
+          "id": "milio",
+          "name": "Milio",
+          "image": "tft17_milio.tft_set17.png"
+        },
+        {
+          "id": "corki",
+          "name": "Corki",
+          "image": "tft17_corki.tft_set17.png"
+        }
+      ],
+      "average_position": "4.47",
+      "top_4_rate": "50.16",
+      "top_1_rate": "14.75",
+      "battle": "610",
+      "trait": "Class",
+      "kich_hoat": "2"
+    },
+    {
+      "stt": 76,
+      "id": "challenger",
+      "name": "Challenger",
+      "image": "Trait_Icon_17_Challenger.TFT_Set17.png",
+      "description_icon": [
+        "Your team gains 10% Attack Speed. Challengers gain bonus Attack Speed. When their target dies, Challengers dash to a new target and increase their Attack Speed bonus by 50% for 2.5 seconds.",
+        "\n"
+      ],
+      "description_detail": [
+        [
+          "2",
+          "15%",
+          "AS.png"
+        ],
+        [
+          "3",
+          "22%",
+          "AS.png"
+        ],
+        [
+          "4",
+          "40%",
+          "AS.png"
+        ],
+        [
+          "5",
+          "55%",
+          "AS.png"
+        ]
+      ],
+      "champions": [
+        {
+          "id": "bel'veth",
+          "name": "Bel'Veth",
+          "image": "tft17_belveth.tft_set17.png"
+        },
+        {
+          "id": "jinx",
+          "name": "Jinx",
+          "image": "tft17_jinx.tft_set17.png"
+        },
+        {
+          "id": "diana",
+          "name": "Diana",
+          "image": "tft17_diana_teamplanner_splash.tft_set17.png"
+        },
+        {
+          "id": "kindred",
+          "name": "Kindred",
+          "image": "tft17_kindred.tft_set17.png"
+        }
+      ],
+      "average_position": "4.82",
+      "top_4_rate": "50",
+      "top_1_rate": "0.00",
+      "battle": "22",
       "trait": "Class",
       "kich_hoat": "4"
     },
     {
-      "stt": 98,
+      "stt": 77,
+      "id": "stargazer_(the_serpent)",
+      "name": "Stargazer (The Serpent)",
+      "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
+      "description_icon": [
+        "Stargazers chart a different constellation every game. This game: The Serpent.",
+        "\n",
+        "\n",
+        "Allies in empowered hexes gain 5% Durability. Stargazers in empowered hexes gain more and poison enemies, repeating a portion of damage dealt as magic damage over 3 seconds.",
+        "\n"
+      ],
+      "description_detail": [
+        [
+          "3",
+          "5%",
+          "DR.png",
+          "",
+          "25% poison damage"
+        ],
+        [
+          "5",
+          "10%",
+          "DR.png",
+          "",
+          "40% poison damage"
+        ],
+        [
+          "7",
+          "15%",
+          "DR.png",
+          "",
+          "60% poison damage"
+        ]
+      ],
+      "champions": [],
+      "average_position": "4.25",
+      "top_4_rate": "50",
+      "top_1_rate": "25.00",
+      "battle": "8",
+      "trait": "Origin",
+      "kich_hoat": "5"
+    },
+    {
+      "stt": 78,
+      "id": "factory_new",
+      "name": "Factory New",
+      "image": "Trait_Icon_17_FactoryNew.TFT_Set17.png",
+      "description_icon": [
+        "After participating in combat, open an armory to purchase a permanent upgrade for your strongest Graves.",
+        "\n",
+        "\n",
+        "Every 3 upgrades, future upgrades will take an additional round.",
+        "\n"
+      ],
+      "description_detail": [],
+      "champions": [
+        {
+          "id": "graves",
+          "name": "Graves",
+          "image": "tft17_graves.tft_set17.png"
+        }
+      ],
+      "average_position": "4.48",
+      "top_4_rate": "49.92",
+      "top_1_rate": "17.60",
+      "battle": "591",
+      "trait": "Origin",
+      "kich_hoat": "1"
+    },
+    {
+      "stt": 79,
+      "id": "stargazer_(the_mountain)",
+      "name": "Stargazer (The Mountain)",
+      "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
+      "description_icon": [
+        "Stargazers chart a different constellation every game. This game: The Mountain",
+        "\n",
+        "\n",
+        "Every 5 player combats, gain a Stargazer Emblem. Stargazers in empowered hexes gain various bonuses.",
+        "\n",
+        "\n",
+        "(Combats Remaining: ?)",
+        "\n"
+      ],
+      "description_detail": [
+        [
+          "3",
+          "Gain 15% Health"
+        ],
+        [
+          "4",
+          "AND 15% Attack Damage and Ability Power"
+        ],
+        [
+          "5",
+          "AND 10 Armor and Magic Resist"
+        ],
+        [
+          "6",
+          "AND 10% Attack Speed"
+        ],
+        [
+          "7",
+          "AND 6% Durability"
+        ],
+        [
+          "8",
+          "AND increase all other bonuses by 10%"
+        ]
+      ],
+      "champions": [],
+      "average_position": "4.44",
+      "top_4_rate": "49.15",
+      "top_1_rate": "13.56",
+      "battle": "59",
+      "trait": "Origin",
+      "kich_hoat": "6"
+    },
+    {
+      "stt": 80,
+      "id": "vanguard",
+      "name": "Vanguard",
+      "image": "Trait_Icon_12_Vanguard.TFT_Set12.png",
+      "description_icon": [
+        "Vanguards gain 5% Durability while Shielded.",
+        "\n",
+        "\n",
+        "Combat start and 50% Health: Gain a max Health Shield for 10 seconds.",
+        "\n"
+      ],
+      "description_detail": [
+        [
+          "2",
+          "16% max Health"
+        ],
+        [
+          "4",
+          "30% max Health"
+        ],
+        [
+          "6",
+          "40% max Health;8%",
+          "DR.png",
+          "while Shielded"
+        ]
+      ],
+      "champions": [
+        {
+          "id": "nasus",
+          "name": "Nasus",
+          "image": "tft17_nasus.tft_set17.png"
+        },
+        {
+          "id": "leona",
+          "name": "Leona",
+          "image": "tft17_leona.tft_set17.png"
+        },
+        {
+          "id": "mordekaiser",
+          "name": "Mordekaiser",
+          "image": "tft17_mordekaiser.tft_set17.png"
+        },
+        {
+          "id": "illaoi",
+          "name": "Illaoi",
+          "image": "tft17_illaoi.tft_set17.png"
+        },
+        {
+          "id": "nunu_&_willump",
+          "name": "Nunu & Willump",
+          "image": "tft17_nunu.tft_set17.png"
+        },
+        {
+          "id": "blitzcrank",
+          "name": "Blitzcrank",
+          "image": "tft17_blitzcrank.tft_set17.png"
+        }
+      ],
+      "average_position": "4.56",
+      "top_4_rate": "48.35",
+      "top_1_rate": "13.47",
+      "battle": "2,480",
+      "trait": "Class",
+      "kich_hoat": "2"
+    },
+    {
+      "stt": 81,
+      "id": "space_groove",
+      "name": "Space Groove",
+      "image": "Trait_Icon_17_SpaceGroove.TFT_Set17.png",
+      "description_icon": [
+        "Space Groove units can enter the Groove state. While in Groove, their bonuses scale with the number of Space Groove allies and grow stronger at higher trait tiers."
+      ],
+      "description_detail": [
+        [
+          "1",
+          "Groovians can enter Space Groove. While in it",
+          "they gain Attack Speed and max Health Regen",
+          "increased per Groovian on your team."
+        ],
+        [
+          "3",
+          "All Groovians start combat in Space Groove for 3 seconds."
+        ],
+        [
+          "5",
+          "Each second spent in Space Groove grants 5% stacking Attack Damage and Ability Power."
+        ],
+        [
+          "7",
+          "Increase these effects by 10%!"
+        ],
+        [
+          "10",
+          "{{TFT17_SpaceGroove_Groove}}"
+        ]
+      ],
+      "champions": [
+        {
+          "id": "teemo",
+          "name": "Teemo",
+          "image": "tft17_teemo.tft_set17.png"
+        },
+        {
+          "id": "nasus",
+          "name": "Nasus",
+          "image": "tft17_nasus.tft_set17.png"
+        },
+        {
+          "id": "gwen",
+          "name": "Gwen",
+          "image": "tft17_gwen.tft_set17.png"
+        },
+        {
+          "id": "samira",
+          "name": "Samira",
+          "image": "tft17_samira.tft_set17.png"
+        },
+        {
+          "id": "ornn",
+          "name": "Ornn",
+          "image": "tft17_ornn.tft_set17.png"
+        },
+        {
+          "id": "nami",
+          "name": "Nami",
+          "image": "tft17_nami.tft_set17.png"
+        },
+        {
+          "id": "blitzcrank",
+          "name": "Blitzcrank",
+          "image": "tft17_blitzcrank.tft_set17.png"
+        }
+      ],
+      "average_position": "4.68",
+      "top_4_rate": "47.71",
+      "top_1_rate": "11.47",
+      "battle": "218",
+      "trait": "Origin",
+      "kich_hoat": "5"
+    },
+    {
+      "stt": 82,
+      "id": "stargazer_(the_boar)",
+      "name": "Stargazer (The Boar)",
+      "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
+      "description_icon": [
+        "Stargazers chart a different constellation every game. This game: The Boar.",
+        "\n",
+        "\n",
+        "Gain gold after winning player combat. Allies in empowered hexes gain 8% Health, Attack Damage, and Ability Power. Stargazers gain more.",
+        "\n",
+        "\n",
+        "(Gold Earned: ?)",
+        "\n"
+      ],
+      "description_detail": [
+        [
+          "3",
+          "1 gold",
+          "2%",
+          "Health.png",
+          "",
+          "10%",
+          "AD.png",
+          "AP.png"
+        ],
+        [
+          "4",
+          "2 gold",
+          "8%",
+          "Health.png",
+          "",
+          "15%",
+          "AD.png",
+          "AP.png"
+        ],
+        [
+          "5",
+          "4 gold",
+          "15%",
+          "Health.png",
+          "",
+          "25%",
+          "AD.png",
+          "AP.png"
+        ],
+        [
+          "6",
+          "6 gold",
+          "22%",
+          "Health.png",
+          "",
+          "30%",
+          "AD.png",
+          "AP.png"
+        ]
+      ],
+      "champions": [],
+      "average_position": "4.71",
+      "top_4_rate": "47.06",
+      "top_1_rate": "5.88",
+      "battle": "17",
+      "trait": "Origin",
+      "kich_hoat": "4"
+    },
+    {
+      "stt": 83,
+      "id": "voyager",
+      "name": "Voyager",
+      "image": "Trait_Icon_17_Voyager.TFT_Set17.png",
+      "description_icon": [
+        "Combat Start: Your Tanks gain a Shield for 15 seconds. Your other allies gain Damage Amp.",
+        "\n",
+        "\n",
+        "Voyagers gain double.",
+        "\n"
+      ],
+      "description_detail": [
+        [
+          "2",
+          "175 Shield; 9%",
+          "DA.png"
+        ],
+        [
+          "3",
+          "250 Shield; 15%",
+          "DA.png"
+        ],
+        [
+          "4",
+          "350 Shield; 18%",
+          "DA.png"
+        ],
+        [
+          "5",
+          "500 Shield; 22%",
+          "DA.png"
+        ],
+        [
+          "6",
+          "700 Shield; 27%",
+          "DA.png"
+        ]
+      ],
+      "champions": [
+        {
+          "id": "pyke",
+          "name": "Pyke",
+          "image": "tft17_pyke.tft_set17.png"
+        },
+        {
+          "id": "meepsie",
+          "name": "Meepsie",
+          "image": "tft17_ivernminion.tft_set17.png"
+        },
+        {
+          "id": "aurora",
+          "name": "Aurora",
+          "image": "tft17_aurora.tft_set17.png"
+        },
+        {
+          "id": "karma",
+          "name": "Karma",
+          "image": "tft17_karma.tft_set17.png"
+        },
+        {
+          "id": "the_mighty_mech",
+          "name": "The Mighty Mech",
+          "image": "tft17_galio.tft_set17.png"
+        }
+      ],
+      "average_position": "4.59",
+      "top_4_rate": "46.88",
+      "top_1_rate": "6.25",
+      "battle": "32",
+      "trait": "Class",
+      "kich_hoat": "5"
+    },
+    {
+      "stt": 84,
+      "id": "brawler",
+      "name": "Brawler",
+      "image": "Trait_Icon_Brawler.png",
+      "description_icon": [
+        "Your team gains 5% Health. Brawlers gain more.",
+        "\n"
+      ],
+      "description_detail": [
+        [
+          "2",
+          "+25% maximum Health"
+        ],
+        [
+          "4",
+          "+45% maximum Health"
+        ],
+        [
+          "6",
+          "+65% maximum Health"
+        ]
+      ],
+      "champions": [
+        {
+          "id": "cho'gath",
+          "name": "Cho'Gath",
+          "image": "tft17_chogath.tft_set17.png"
+        },
+        {
+          "id": "rek'sai",
+          "name": "Rek'Sai",
+          "image": "tft17_reksai.tft_set17.png"
+        },
+        {
+          "id": "gragas",
+          "name": "Gragas",
+          "image": "tft17_gragas.tft_set17.png"
+        },
+        {
+          "id": "pantheon",
+          "name": "Pantheon",
+          "image": "tft17_pantheon.tft_set17.png"
+        },
+        {
+          "id": "maokai",
+          "name": "Maokai",
+          "image": "tft17_maokai.tft_set17.png"
+        },
+        {
+          "id": "urgot",
+          "name": "Urgot",
+          "image": "tft17_urgot.tft_set17.png"
+        },
+        {
+          "id": "tahm_kench",
+          "name": "Tahm Kench",
+          "image": "tft17_tahmkench.tft_set17.png"
+        }
+      ],
+      "average_position": "4.62",
+      "top_4_rate": "45.57",
+      "top_1_rate": "12.66",
+      "battle": "79",
+      "trait": "Class",
+      "kich_hoat": "6"
+    },
+    {
+      "stt": 85,
       "id": "dark_star",
       "name": "Dark Star",
       "image": "Trait_Icon_17_DarkStar.TFT_Set17.png",
@@ -19073,7 +20296,10 @@
       "description_detail": [
         [
           "2",
-          "Dark Stars create a black hole that consumes enemies at 8% max health."
+          "Dark Stars create a black hole that consumes enemies at",
+          "?%",
+          "8%",
+          "max health."
         ],
         [
           "4",
@@ -19094,16 +20320,386 @@
           "CONSUME EVERYONE."
         ]
       ],
-      "champions": [],
-      "average_position": "5.01",
-      "top_4_rate": "40.01",
-      "top_1_rate": "10.16",
-      "battle": "5,579",
+      "champions": [
+        {
+          "id": "cho'gath",
+          "name": "Cho'Gath",
+          "image": "tft17_chogath.tft_set17.png"
+        },
+        {
+          "id": "lissandra",
+          "name": "Lissandra",
+          "image": "tft17_lissandra.tft_set17.png"
+        },
+        {
+          "id": "mordekaiser",
+          "name": "Mordekaiser",
+          "image": "tft17_mordekaiser.tft_set17.png"
+        },
+        {
+          "id": "kai'sa",
+          "name": "Kai'Sa",
+          "image": "tft17_kaisa.tft_set17.png"
+        },
+        {
+          "id": "karma",
+          "name": "Karma",
+          "image": "tft17_karma.tft_set17.png"
+        },
+        {
+          "id": "jhin",
+          "name": "Jhin",
+          "image": "tft17_jhin.tft_set17.png"
+        }
+      ],
+      "average_position": "4.88",
+      "top_4_rate": "44.44",
+      "top_1_rate": "8.89",
+      "battle": "180",
       "trait": "Origin",
       "kich_hoat": "4"
     },
     {
-      "stt": 99,
+      "stt": 86,
+      "id": "psionic",
+      "name": "Psionic",
+      "image": "Trait_Icon_17_PsyOps.TFT_Set17.png",
+      "description_icon": [
+        "Gain Psionic items that can be equipped to any ally.",
+        "\n"
+      ],
+      "description_detail": [
+        [
+          "2",
+          "Gain the ?"
+        ],
+        [
+          "4",
+          "Gain the ?",
+          "Psionic items gain extra effects on Psionic units"
+        ]
+      ],
+      "champions": [
+        {
+          "id": "pyke",
+          "name": "Pyke",
+          "image": "tft17_pyke.tft_set17.png"
+        },
+        {
+          "id": "gragas",
+          "name": "Gragas",
+          "image": "tft17_gragas.tft_set17.png"
+        },
+        {
+          "id": "viktor",
+          "name": "Viktor",
+          "image": "tft17_viktor.tft_set17.png"
+        },
+        {
+          "id": "master_yi",
+          "name": "Master Yi",
+          "image": "tft17_masteryi.tft_set17.png"
+        },
+        {
+          "id": "sona",
+          "name": "Sona",
+          "image": "tft17_sona.tft_set17.png"
+        }
+      ],
+      "average_position": "4.68",
+      "top_4_rate": "44.32",
+      "top_1_rate": "9.66",
+      "battle": "176",
+      "trait": "Origin",
+      "kich_hoat": "4"
+    },
+    {
+      "stt": 87,
+      "id": "gun_goddess",
+      "name": "Gun Goddess",
+      "image": "Trait_Icon_17_GunGoddess.TFT_Set17.png",
+      "description_icon": [
+        "When you field Miss Fortune, choose between Conduit Mode, Challenger Mode, and Replicator Mode. Miss Fortune has a unique ability based on her mode and gains the associated trait."
+      ],
+      "description_detail": [],
+      "champions": [
+        {
+          "id": "miss_fortune",
+          "name": "Miss Fortune",
+          "image": "tft17_missfortune.tft_set17.png"
+        }
+      ],
+      "average_position": "4.8",
+      "top_4_rate": "44.3",
+      "top_1_rate": "6.75",
+      "battle": "237",
+      "trait": "Class",
+      "kich_hoat": "1"
+    },
+    {
+      "stt": 88,
+      "id": "timebreaker",
+      "name": "Timebreaker",
+      "image": "Trait_Icon_17_Timebreaker.TFT_Set17.png",
+      "description_icon": [],
+      "description_detail": [
+        [
+          "2",
+          "Allies gain 15% Attack Speed."
+        ],
+        [
+          "3",
+          "AND When you lose",
+          "gain free rerolls. When you win",
+          "store XP in a Temporal Core (scales with stage)."
+        ],
+        [
+          "4",
+          "AND Timebreakers gain an additional 50% Attack Speed"
+        ]
+      ],
+      "champions": [
+        {
+          "id": "ezreal",
+          "name": "Ezreal",
+          "image": "tft17_ezreal.tft_set17.png"
+        },
+        {
+          "id": "milio",
+          "name": "Milio",
+          "image": "tft17_milio.tft_set17.png"
+        },
+        {
+          "id": "pantheon",
+          "name": "Pantheon",
+          "image": "tft17_pantheon.tft_set17.png"
+        },
+        {
+          "id": "riven",
+          "name": "Riven",
+          "image": "tft17_riven.tft_set17.png"
+        }
+      ],
+      "average_position": "4.98",
+      "top_4_rate": "42.59",
+      "top_1_rate": "9.72",
+      "battle": "216",
+      "trait": "Origin",
+      "kich_hoat": "3"
+    },
+    {
+      "stt": 89,
+      "id": "primordian",
+      "name": "Primordian",
+      "image": "Trait_Icon_17_Primordian.TFT_Set17.png",
+      "description_icon": [],
+      "description_detail": [
+        [
+          "2",
+          "Dealing damage spawns Swarmlings based on unique Primordian star level."
+        ],
+        [
+          "3",
+          "Spawn 45% more Swarmlings! After each player combat",
+          "gain a random 1 or 2-cost champion."
+        ]
+      ],
+      "champions": [
+        {
+          "id": "briar",
+          "name": "Briar",
+          "image": "tft17_briar.tft_set17.png"
+        },
+        {
+          "id": "rek'sai",
+          "name": "Rek'Sai",
+          "image": "tft17_reksai.tft_set17.png"
+        },
+        {
+          "id": "bel'veth",
+          "name": "Bel'Veth",
+          "image": "tft17_belveth.tft_set17.png"
+        }
+      ],
+      "average_position": "4.96",
+      "top_4_rate": "39.22",
+      "top_1_rate": "3.92",
+      "battle": "51",
+      "trait": "Origin",
+      "kich_hoat": "2"
+    },
+    {
+      "stt": 90,
+      "id": "replicator",
+      "name": "Replicator",
+      "image": "Trait_Icon_17_Replicator.TFT_Set17.png",
+      "description_icon": [
+        "Replicator abilities occur a second time at reduced effectiveness.",
+        "\n"
+      ],
+      "description_detail": [
+        [
+          "2",
+          "22% strength"
+        ],
+        [
+          "4",
+          "45% strength"
+        ]
+      ],
+      "champions": [
+        {
+          "id": "veigar",
+          "name": "Veigar",
+          "image": "tft17_veigar.tft_set17.png"
+        },
+        {
+          "id": "lissandra",
+          "name": "Lissandra",
+          "image": "tft17_lissandra.tft_set17.png"
+        },
+        {
+          "id": "pantheon",
+          "name": "Pantheon",
+          "image": "tft17_pantheon.tft_set17.png"
+        },
+        {
+          "id": "lulu",
+          "name": "Lulu",
+          "image": "tft17_lulu.tft_set17.png"
+        },
+        {
+          "id": "nami",
+          "name": "Nami",
+          "image": "tft17_nami.tft_set17.png"
+        }
+      ],
+      "average_position": "4.89",
+      "top_4_rate": "38.89",
+      "top_1_rate": "11.11",
+      "battle": "36",
+      "trait": "Class",
+      "kich_hoat": "4"
+    },
+    {
+      "stt": 91,
+      "id": "challenger",
+      "name": "Challenger",
+      "image": "Trait_Icon_17_Challenger.TFT_Set17.png",
+      "description_icon": [
+        "Your team gains 10% Attack Speed. Challengers gain bonus Attack Speed. When their target dies, Challengers dash to a new target and increase their Attack Speed bonus by 50% for 2.5 seconds.",
+        "\n"
+      ],
+      "description_detail": [
+        [
+          "2",
+          "15%",
+          "AS.png"
+        ],
+        [
+          "3",
+          "22%",
+          "AS.png"
+        ],
+        [
+          "4",
+          "40%",
+          "AS.png"
+        ],
+        [
+          "5",
+          "55%",
+          "AS.png"
+        ]
+      ],
+      "champions": [
+        {
+          "id": "bel'veth",
+          "name": "Bel'Veth",
+          "image": "tft17_belveth.tft_set17.png"
+        },
+        {
+          "id": "jinx",
+          "name": "Jinx",
+          "image": "tft17_jinx.tft_set17.png"
+        },
+        {
+          "id": "diana",
+          "name": "Diana",
+          "image": "tft17_diana_teamplanner_splash.tft_set17.png"
+        },
+        {
+          "id": "kindred",
+          "name": "Kindred",
+          "image": "tft17_kindred.tft_set17.png"
+        }
+      ],
+      "average_position": "4.81",
+      "top_4_rate": "38.1",
+      "top_1_rate": "4.76",
+      "battle": "21",
+      "trait": "Class",
+      "kich_hoat": "5"
+    },
+    {
+      "stt": 92,
+      "id": "anima",
+      "name": "Anima",
+      "image": "Trait_Icon_17_AnimaTech.TFT_Set17.png",
+      "description_icon": [
+        "After losing a player combat, gain 20 Tech, plus additional Tech equal to 5 times the length of your loss streak. Additionally, gain 2 Tech per Anima takedown.",
+        "\n",
+        "\n",
+        "Each time Animas get 100 Tech, they prototype new Anima Weapons. You can take them, or save your Tech to get more powerful weapons next time.",
+        "\n"
+      ],
+      "description_detail": [
+        [
+          "3",
+          "Start Researching!"
+        ],
+        [
+          "6",
+          "After winning a player combat",
+          "gain loot!"
+        ]
+      ],
+      "champions": [
+        {
+          "id": "briar",
+          "name": "Briar",
+          "image": "tft17_briar.tft_set17.png"
+        },
+        {
+          "id": "jinx",
+          "name": "Jinx",
+          "image": "tft17_jinx.tft_set17.png"
+        },
+        {
+          "id": "illaoi",
+          "name": "Illaoi",
+          "image": "tft17_illaoi.tft_set17.png"
+        },
+        {
+          "id": "aurora",
+          "name": "Aurora",
+          "image": "tft17_aurora.tft_set17.png"
+        },
+        {
+          "id": "fiora",
+          "name": "Fiora",
+          "image": "tft17_fiora.tft_set17.png"
+        }
+      ],
+      "average_position": "5.5",
+      "top_4_rate": "32.47",
+      "top_1_rate": "12.99",
+      "battle": "154",
+      "trait": "Origin",
+      "kich_hoat": "3"
+    },
+    {
+      "stt": 93,
       "id": "mecha",
       "name": "Mecha",
       "image": "Trait_Icon_17_Mecha.TFT_Set17.png",
@@ -19131,16 +20727,32 @@
           "Precision Engineering: +1 max team size"
         ]
       ],
-      "champions": [],
-      "average_position": "5.18",
-      "top_4_rate": "36.05",
-      "top_1_rate": "6.18",
-      "battle": "21,577",
+      "champions": [
+        {
+          "id": "urgot",
+          "name": "Urgot",
+          "image": "tft17_urgot.tft_set17.png"
+        },
+        {
+          "id": "aurelion_sol",
+          "name": "Aurelion Sol",
+          "image": "tft17_aurelionsol.tft_set17.png"
+        },
+        {
+          "id": "the_mighty_mech",
+          "name": "The Mighty Mech",
+          "image": "tft17_galio.tft_set17.png"
+        }
+      ],
+      "average_position": "5.48",
+      "top_4_rate": "27.92",
+      "top_1_rate": "4.15",
+      "battle": "265",
       "trait": "Origin",
       "kich_hoat": "3"
     },
     {
-      "stt": 100,
+      "stt": 94,
       "id": "stargazer_(the_mountain)",
       "name": "Stargazer (The Mountain)",
       "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
@@ -19181,15 +20793,15 @@
         ]
       ],
       "champions": [],
-      "average_position": "5.14",
-      "top_4_rate": "35.15",
-      "top_1_rate": "9.32",
-      "battle": "2,984",
+      "average_position": "5.66",
+      "top_4_rate": "27.66",
+      "top_1_rate": "4.26",
+      "battle": "47",
       "trait": "Origin",
       "kich_hoat": "4"
     },
     {
-      "stt": 101,
+      "stt": 95,
       "id": "anima",
       "name": "Anima",
       "image": "Trait_Icon_17_AnimaTech.TFT_Set17.png",
@@ -19211,47 +20823,42 @@
           "gain loot!"
         ]
       ],
-      "champions": [],
-      "average_position": "6.05",
-      "top_4_rate": "26.14",
-      "top_1_rate": "10.54",
-      "battle": "7,486",
-      "trait": "Origin",
-      "kich_hoat": "3"
-    },
-    {
-      "stt": 102,
-      "id": "anima",
-      "name": "Anima",
-      "image": "Trait_Icon_17_AnimaTech.TFT_Set17.png",
-      "description_icon": [
-        "After losing a player combat, gain 20 Tech, plus additional Tech equal to 5 times the length of your loss streak. Additionally, gain 2 Tech per Anima takedown.",
-        "\n",
-        "\n",
-        "Each time Animas get 100 Tech, they prototype new Anima Weapons. You can take them, or save your Tech to get more powerful weapons next time.",
-        "\n"
+      "champions": [
+        {
+          "id": "briar",
+          "name": "Briar",
+          "image": "tft17_briar.tft_set17.png"
+        },
+        {
+          "id": "jinx",
+          "name": "Jinx",
+          "image": "tft17_jinx.tft_set17.png"
+        },
+        {
+          "id": "illaoi",
+          "name": "Illaoi",
+          "image": "tft17_illaoi.tft_set17.png"
+        },
+        {
+          "id": "aurora",
+          "name": "Aurora",
+          "image": "tft17_aurora.tft_set17.png"
+        },
+        {
+          "id": "fiora",
+          "name": "Fiora",
+          "image": "tft17_fiora.tft_set17.png"
+        }
       ],
-      "description_detail": [
-        [
-          "3",
-          "Start Researching!"
-        ],
-        [
-          "6",
-          "After winning a player combat",
-          "gain loot!"
-        ]
-      ],
-      "champions": [],
-      "average_position": "5.89",
-      "top_4_rate": "25.4",
-      "top_1_rate": "12.41",
-      "battle": "693",
+      "average_position": "6.21",
+      "top_4_rate": "21.43",
+      "top_1_rate": "0.00",
+      "battle": "14",
       "trait": "Origin",
       "kich_hoat": "6"
     },
     {
-      "stt": 103,
+      "stt": 96,
       "id": "stargazer_(the_mountain)",
       "name": "Stargazer (The Mountain)",
       "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
@@ -19292,12 +20899,104 @@
         ]
       ],
       "champions": [],
-      "average_position": "6.51",
-      "top_4_rate": "14.87",
-      "top_1_rate": "3.27",
-      "battle": "2,448",
+      "average_position": "6.4",
+      "top_4_rate": "10",
+      "top_1_rate": "3.33",
+      "battle": "30",
       "trait": "Origin",
       "kich_hoat": "3"
+    },
+    {
+      "stt": 97,
+      "id": "stargazer_(the_huntress)",
+      "name": "Stargazer (The Huntress)",
+      "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
+      "description_icon": [
+        "Stargazers chart a different constellation every game. This game: The Huntress.",
+        "\n",
+        "\n",
+        "Combat Start: Mark the highest Health enemies.",
+        "\n",
+        "\n",
+        "Allies in empowered hexes gain 15% Attack Speed. Stargazers in empowered hexes gain more and heal for 15% of their max Health when a marked enemy dies.",
+        "\n"
+      ],
+      "description_detail": [
+        [
+          "3",
+          "12%",
+          "AS.png",
+          "",
+          "3 marks"
+        ],
+        [
+          "5",
+          "35%",
+          "AS.png",
+          "",
+          "5 marks"
+        ],
+        [
+          "7",
+          "55%",
+          "AS.png",
+          "",
+          "7 marks"
+        ]
+      ],
+      "champions": [],
+      "average_position": "6.56",
+      "top_4_rate": "0",
+      "top_1_rate": "0.00",
+      "battle": "9",
+      "trait": "Origin",
+      "kich_hoat": "5"
+    },
+    {
+      "stt": 98,
+      "id": "stargazer_(the_huntress)",
+      "name": "Stargazer (The Huntress)",
+      "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
+      "description_icon": [
+        "Stargazers chart a different constellation every game. This game: The Huntress.",
+        "\n",
+        "\n",
+        "Combat Start: Mark the highest Health enemies.",
+        "\n",
+        "\n",
+        "Allies in empowered hexes gain 15% Attack Speed. Stargazers in empowered hexes gain more and heal for 15% of their max Health when a marked enemy dies.",
+        "\n"
+      ],
+      "description_detail": [
+        [
+          "3",
+          "12%",
+          "AS.png",
+          "",
+          "3 marks"
+        ],
+        [
+          "5",
+          "35%",
+          "AS.png",
+          "",
+          "5 marks"
+        ],
+        [
+          "7",
+          "55%",
+          "AS.png",
+          "",
+          "7 marks"
+        ]
+      ],
+      "champions": [],
+      "average_position": "5.5",
+      "top_4_rate": "0",
+      "top_1_rate": "0.00",
+      "battle": "2",
+      "trait": "Origin",
+      "kich_hoat": "7"
     }
   ],
   "technologies": {

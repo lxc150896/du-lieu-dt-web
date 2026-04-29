@@ -15375,89 +15375,153 @@
   "synergys": [
     {
       "stt": 1,
-      "id": "hanh_tinh",
-      "name": "Hành Tinh",
-      "image": "Trait_Icon_17_SpaceGroove.TFT_Set17.png",
+      "id": "hac_tinh",
+      "name": "Hắc Tinh",
+      "image": "Trait_Icon_17_DarkStar.TFT_Set17.png",
       "description_icon": [
-        "Space Groove units can enter the Groove state. While in Groove, their bonuses scale with the number of Space Groove allies and grow stronger at higher trait tiers."
+        "Dark Star units create a black hole that devours enemies below 10% max Health. The higher the trait tier, the stronger the black hole becomes."
       ],
       "description_detail": [
         [
-          "1",
-          "Khi các tướng Hành Tinh tiến vào trạng thái Space Groove",
-          "họ nhận Tốc Độ Đánh và hồi Máu tối đa",
-          "tăng theo mỗi tướng Hành Tinh trong đội."
-        ],
-        [
-          "3",
-          "Tất cả tướng Hành Tinh bắt đầu giao tranh ở trạng thái Space Groove trong 3 giây."
-        ],
-        [
-          "5",
-          "Mỗi giây trong trạng thái Space Groove trao 5% Sức Mạnh Công Kích và Sức Mạnh Phép Thuật cộng dồn."
-        ],
-        [
-          "7",
-          "Tăng hiệu ứng thêm 10%!"
-        ],
-        [
-          "10",
-          "{{TFT17_SpaceGroove_Groove}}"
-        ]
-      ],
-      "champions": [],
-      "average_position": "1.07",
-      "top_4_rate": "100",
-      "top_1_rate": "96.09",
-      "battle": "179",
-      "trait": "Tộc",
-      "kich_hoat": "10"
-    },
-    {
-      "stt": 2,
-      "id": "chiem_tinh_(ngon_nui)",
-      "name": "Chiêm Tinh (Ngọn Núi)",
-      "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
-      "description_icon": [
-        "Trận này, tướng Chiêm Tinh dệt nên chòm sao: Ngọn Núi",
-        "\n",
-        "Mỗi 5 giao tranh người chơi, nhận 1 Ấn Chiêm Tinh. Tướng Chiêm Tinh trên ô cường hóa nhận thêm chỉ số.",
-        "\n",
-        "(Giao Tranh Còn Lại: ?)"
-      ],
-      "description_detail": [
-        [
-          "3",
-          "Nhận 15% Máu"
+          "2",
+          "Tướng Hắc Tinh triệu hồi một hố đen nuốt chửng kẻ địch khi chúng còn",
+          "?%",
+          "8%",
+          "máu tối đa."
         ],
         [
           "4",
-          "VÀ 15% Sức Mạnh Công Kích và Sức Mạnh Phép Thuật"
-        ],
-        [
-          "5",
-          "VÀ 10 Giáp & Kháng Phép"
+          "VÀ họ nhận được 45%",
+          "AD.png",
+          "AP.png",
+          "."
         ],
         [
           "6",
-          "VÀ 10% Tốc Độ Đánh"
+          "VÀ tướng Hắc Tinh mạnh nhất hóa siêu khổng lồ",
+          "nhận thêm 85% hiệu ứng từ Hắc Tinh",
+          "đồng thời tạo ra 2 Hố Đen Vũ Trụ nhỏ."
         ],
         [
-          "7",
-          "VÀ 6% Chống Chịu"
-        ],
-        [
-          "8",
-          "VÀ các chỉ số thưởng khác +10%"
+          "9",
+          "Tất cả tướng Hắc Tinh sẽ hóa siêu khổng lồ. Ở cấp 10",
+          "NUỐT CHỬNG TẤT CẢ."
         ]
       ],
-      "champions": [],
-      "average_position": "1.11",
-      "top_4_rate": "97.73",
-      "top_1_rate": "95.45",
-      "battle": "44",
+      "champions": [
+        {
+          "id": "cho'gath",
+          "name": "Cho'Gath",
+          "image": "tft17_chogath.tft_set17.png"
+        },
+        {
+          "id": "lissandra",
+          "name": "Lissandra",
+          "image": "tft17_lissandra.tft_set17.png"
+        },
+        {
+          "id": "mordekaiser",
+          "name": "Mordekaiser",
+          "image": "tft17_mordekaiser.tft_set17.png"
+        },
+        {
+          "id": "kai'sa",
+          "name": "Kai'Sa",
+          "image": "tft17_kaisa.tft_set17.png"
+        },
+        {
+          "id": "karma",
+          "name": "Karma",
+          "image": "tft17_karma.tft_set17.png"
+        },
+        {
+          "id": "jhin",
+          "name": "Jhin",
+          "image": "tft17_jhin.tft_set17.png"
+        }
+      ],
+      "average_position": "1",
+      "top_4_rate": "100",
+      "top_1_rate": "100.00",
+      "battle": "3",
       "trait": "Tộc",
-      "kich_hoat": "11"
+      "kich_hoat": "9"
+    },
+    {
+      "stt": 2,
+      "id": "dan_truyen",
+      "name": "Dẫn Truyền",
+      "image": "Trait_Icon_17_Channeler.TFT_Set17.png",
+      "description_icon": [
+        "Thiên Phú: Tướng Dẫn Truyền nhận thêm 20% Năng Lượng từ mọi nguồn.",
+        "\n",
+        "\n",
+        "Đội của bạn được tăng Hồi Năng Lượng, tướng Dẫn Truyền nhận được nhiều hơn.",
+        "\n"
+      ],
+      "description_detail": [
+        [
+          "2",
+          "1",
+          "manaregen.png",
+          "| 3",
+          "manaregen.png"
+        ],
+        [
+          "3",
+          "1",
+          "manaregen.png",
+          "| 5",
+          "manaregen.png"
+        ],
+        [
+          "4",
+          "2",
+          "manaregen.png",
+          "| 7",
+          "manaregen.png"
+        ],
+        [
+          "5",
+          "3",
+          "manaregen.png",
+          "| 9",
+          "manaregen.png"
+        ]
+      ],
+      "champions": [
+        {
+          "id": "zoe",
+          "name": "Zoe",
+          "image": "tft17_zoe.tft_set17.png"
+        },
+        {
+          "id": "mordekaiser",
+          "name": "Mordekaiser",
+          "image": "tft17_mordekaiser.tft_set17.png"
+        },
+        {
+          "id": "viktor",
+          "name": "Viktor",
+          "image": "tft17_viktor.tft_set17.png"
+        },
+        {
+          "id": "aurelion_sol",
+          "name": "Aurelion Sol",
+          "image": "tft17_aurelionsol.tft_set17.png"
+        },
+        {
+          "id": "bard",
+          "name": "Bard",
+          "image": "tft17_bard.tft_set17.png"
+        }
+      ],
+      "average_position": "2.6",
+      "top_4_rate": "100",
+      "top_1_rate": "40.00",
+      "battle": "5",
+      "trait": "Hệ",
+      "kich_hoat": "4"
     },
     {
       "stt": 3,
@@ -15503,51 +15567,98 @@
           ". TRIỆU HỒI TỨ ĐẠI MEEP CHÚA!"
         ]
       ],
-      "champions": [],
-      "average_position": "1.66",
-      "top_4_rate": "94.98",
-      "top_1_rate": "69.28",
-      "battle": "677",
+      "champions": [
+        {
+          "id": "poppy",
+          "name": "Poppy",
+          "image": "tft17_poppy.tft_set17.png"
+        },
+        {
+          "id": "veigar",
+          "name": "Veigar",
+          "image": "tft17_veigar.tft_set17.png"
+        },
+        {
+          "id": "gnar",
+          "name": "Gnar",
+          "image": "tft17_gnar.tft_set17.png"
+        },
+        {
+          "id": "meepsie",
+          "name": "Meepsie",
+          "image": "tft17_ivernminion.tft_set17.png"
+        },
+        {
+          "id": "fizz",
+          "name": "Fizz",
+          "image": "tft17_fizz.tft_set17.png"
+        },
+        {
+          "id": "rammus",
+          "name": "Rammus",
+          "image": "tft17_rammus.tft_set17.png"
+        },
+        {
+          "id": "corki",
+          "name": "Corki",
+          "image": "tft17_corki.tft_set17.png"
+        },
+        {
+          "id": "bard",
+          "name": "Bard",
+          "image": "tft17_bard.tft_set17.png"
+        }
+      ],
+      "average_position": "1.86",
+      "top_4_rate": "92.86",
+      "top_1_rate": "57.14",
+      "battle": "14",
       "trait": "Tộc",
       "kich_hoat": "10"
     },
     {
       "stt": 4,
-      "id": "hac_tinh",
-      "name": "Hắc Tinh",
-      "image": "Trait_Icon_17_DarkStar.TFT_Set17.png",
+      "id": "chiem_tinh_(ngon_nui)",
+      "name": "Chiêm Tinh (Ngọn Núi)",
+      "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
       "description_icon": [
-        "Dark Star units create a black hole that devours enemies below 10% max Health. The higher the trait tier, the stronger the black hole becomes."
+        "Trận này, tướng Chiêm Tinh dệt nên chòm sao: Ngọn Núi",
+        "\n",
+        "Mỗi 5 giao tranh người chơi, nhận 1 Ấn Chiêm Tinh. Tướng Chiêm Tinh trên ô cường hóa nhận thêm chỉ số.",
+        "\n",
+        "(Giao Tranh Còn Lại: ?)"
       ],
       "description_detail": [
         [
-          "2",
-          "Tướng Hắc Tinh triệu hồi một hố đen nuốt chửng kẻ địch khi chúng còn dưới 8% máu tối đa."
+          "3",
+          "Nhận 15% Máu"
         ],
         [
           "4",
-          "VÀ họ nhận được 45%",
-          "AD.png",
-          "AP.png",
-          "."
+          "VÀ 15% Sức Mạnh Công Kích và Sức Mạnh Phép Thuật"
+        ],
+        [
+          "5",
+          "VÀ 10 Giáp & Kháng Phép"
         ],
         [
           "6",
-          "VÀ tướng Hắc Tinh mạnh nhất hóa siêu khổng lồ",
-          "nhận thêm 85% hiệu ứng từ Hắc Tinh",
-          "đồng thời tạo ra 2 Hố Đen Vũ Trụ nhỏ."
+          "VÀ 10% Tốc Độ Đánh"
         ],
         [
-          "9",
-          "Tất cả tướng Hắc Tinh sẽ hóa siêu khổng lồ. Ở cấp 10",
-          "NUỐT CHỬNG TẤT CẢ."
+          "7",
+          "VÀ 6% Chống Chịu"
+        ],
+        [
+          "8",
+          "VÀ các chỉ số thưởng khác +10%"
         ]
       ],
       "champions": [],
-      "average_position": "1.45",
-      "top_4_rate": "94.41",
-      "top_1_rate": "86.59",
-      "battle": "179",
+      "average_position": "2.68",
+      "top_4_rate": "89.47",
+      "top_1_rate": "21.05",
+      "battle": "19",
       "trait": "Tộc",
       "kich_hoat": "9"
     },
@@ -15590,227 +15701,56 @@
         ]
       ],
       "champions": [],
-      "average_position": "2.77",
-      "top_4_rate": "82.05",
-      "top_1_rate": "30.77",
-      "battle": "117",
+      "average_position": "2.13",
+      "top_4_rate": "87.5",
+      "top_1_rate": "50.00",
+      "battle": "8",
       "trait": "Tộc",
       "kich_hoat": "10"
     },
     {
       "stt": 6,
-      "id": "chiem_tinh_(ngon_nui)",
-      "name": "Chiêm Tinh (Ngọn Núi)",
+      "id": "chiem_tinh_(cu_xa)",
+      "name": "Chiêm Tinh (Cự Xà)",
       "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
       "description_icon": [
-        "Trận này, tướng Chiêm Tinh dệt nên chòm sao: Ngọn Núi",
+        "Trận này, tướng Chiêm Tinh dệt nên chòm sao: Cự Xà.",
         "\n",
-        "Mỗi 5 giao tranh người chơi, nhận 1 Ấn Chiêm Tinh. Tướng Chiêm Tinh trên ô cường hóa nhận thêm chỉ số.",
-        "\n",
-        "(Giao Tranh Còn Lại: ?)"
+        "Ô cường hóa cho thêm 5% Chống Chịu. Tướng Chiêm Tinh trên ô cường hóa nhận được nhiều hơn và áp dụng hiệu ứng độc lên kẻ địch, lặp lại một phần sát thương đã gây ra dưới dạng sát thương phép trong 3 giây."
       ],
       "description_detail": [
         [
           "3",
-          "Nhận 15% Máu"
-        ],
-        [
-          "4",
-          "VÀ 15% Sức Mạnh Công Kích và Sức Mạnh Phép Thuật"
+          "5%",
+          "DR.png",
+          "",
+          "25% sát thương độc"
         ],
         [
           "5",
-          "VÀ 10 Giáp & Kháng Phép"
-        ],
-        [
-          "6",
-          "VÀ 10% Tốc Độ Đánh"
+          "10%",
+          "DR.png",
+          "",
+          "40% sát thương độc"
         ],
         [
           "7",
-          "VÀ 6% Chống Chịu"
-        ],
-        [
-          "8",
-          "VÀ các chỉ số thưởng khác +10%"
+          "15%",
+          "DR.png",
+          "",
+          "60% sát thương độc"
         ]
       ],
       "champions": [],
-      "average_position": "3",
-      "top_4_rate": "81.7",
-      "top_1_rate": "23.70",
-      "battle": "962",
+      "average_position": "3.25",
+      "top_4_rate": "75",
+      "top_1_rate": "25.00",
+      "battle": "4",
       "trait": "Tộc",
-      "kich_hoat": "9"
+      "kich_hoat": "7"
     },
     {
       "stt": 7,
-      "id": "dan_truyen",
-      "name": "Dẫn Truyền",
-      "image": "Trait_Icon_17_Channeler.TFT_Set17.png",
-      "description_icon": [
-        "Thiên Phú: Tướng Dẫn Truyền nhận thêm 20% Năng Lượng từ mọi nguồn.",
-        "\n",
-        "\n",
-        "Đội của bạn được tăng Hồi Năng Lượng, tướng Dẫn Truyền nhận được nhiều hơn.",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "2",
-          "1",
-          "manaregen.png",
-          "| 3",
-          "manaregen.png"
-        ],
-        [
-          "3",
-          "1",
-          "manaregen.png",
-          "| 5",
-          "manaregen.png"
-        ],
-        [
-          "4",
-          "2",
-          "manaregen.png",
-          "| 7",
-          "manaregen.png"
-        ],
-        [
-          "5",
-          "3",
-          "manaregen.png",
-          "| 9",
-          "manaregen.png"
-        ]
-      ],
-      "champions": [],
-      "average_position": "3.34",
-      "top_4_rate": "72.88",
-      "top_1_rate": "21.40",
-      "battle": "8,010",
-      "trait": "Hệ",
-      "kich_hoat": "3"
-    },
-    {
-      "stt": 8,
-      "id": "tien_phong",
-      "name": "Tiên Phong",
-      "image": "Trait_Icon_12_Vanguard.TFT_Set12.png",
-      "description_icon": [
-        "Tướng Tiên Phong được tăng 5% Chống Chịu khi có Lá Chắn.",
-        "\n",
-        "\n",
-        "Bắt đầu giao tranh và khi còn 50% Máu: Nhận một Lá Chắn theo Máu tối đa trong 10 giây.",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "2",
-          "16% Máu tối đa"
-        ],
-        [
-          "4",
-          "30% Máu tối đa"
-        ],
-        [
-          "6",
-          "40% Máu tối đa;8%",
-          "DR.png",
-          "khi có Lá Chắn"
-        ]
-      ],
-      "champions": [],
-      "average_position": "3.36",
-      "top_4_rate": "72.64",
-      "top_1_rate": "20.65",
-      "battle": "11,059",
-      "trait": "Hệ",
-      "kich_hoat": "6"
-    },
-    {
-      "stt": 9,
-      "id": "vo_phap",
-      "name": "Vô Pháp",
-      "image": "Trait_Icon_17_Rogue.TFT_Set17.png",
-      "description_icon": [
-        "Tướng Vô Pháp nhận thêm Sức Mạnh Công Kích và Sức Mạnh Phép Thuật. Lần đầu tiên khi xuống dưới 50% máu, họ sẽ trốn vào trong bóng tối. Kẻ địch đang nhắm vào họ sẽ chuyển hướng sang một đơn vị ở gần, ưu tiên tướng Đỡ Đòn.",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "2",
-          "12%",
-          "AD.png",
-          "AP.png"
-        ],
-        [
-          "3",
-          "25%",
-          "AD.png",
-          "AP.png"
-        ],
-        [
-          "4",
-          "40%",
-          "AD.png",
-          "AP.png"
-        ],
-        [
-          "5",
-          "55%",
-          "AD.png",
-          "AP.png"
-        ]
-      ],
-      "champions": [],
-      "average_position": "3.47",
-      "top_4_rate": "71.26",
-      "top_1_rate": "16.75",
-      "battle": "1,009",
-      "trait": "Hệ",
-      "kich_hoat": "5"
-    },
-    {
-      "stt": 10,
-      "id": "may_moc",
-      "name": "Máy Móc",
-      "image": "Trait_Icon_17_Mecha.TFT_Set17.png",
-      "description_icon": [
-        "Thiên Phú: Các tướng Máy Móc có thể biến đổi thành dạng Tối Thượng, nâng cấp kỹ năng và nhận thêm 40% Máu. Tướng Máy Móc sau khi biến đổi sẽ chiếm 2 vị trí trong đội hình và được tính gấp đôi cho tộc/hệ Máy Móc.",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "3",
-          "Lõi Năng Lượng: Tướng Máy Móc nhận 25%",
-          "AD.png",
-          "AP.png",
-          "."
-        ],
-        [
-          "4",
-          "Lõi Ép Xung: Tăng thành 45%",
-          "AD.png",
-          "AP.png",
-          "."
-        ],
-        [
-          "6",
-          "Cơ Khí Chuẩn Xác: +1 số lượng tướng tối đa"
-        ]
-      ],
-      "champions": [],
-      "average_position": "3.49",
-      "top_4_rate": "71.09",
-      "top_1_rate": "20.27",
-      "battle": "22,305",
-      "trait": "Tộc",
-      "kich_hoat": "4"
-    },
-    {
-      "stt": 11,
       "id": "dinh_menh",
       "name": "Định Mệnh",
       "image": "Trait_Icon_17_Fateweaver.TFT_Set17.png",
@@ -15832,16 +15772,99 @@
           "."
         ]
       ],
-      "champions": [],
-      "average_position": "3.58",
-      "top_4_rate": "70.03",
-      "top_1_rate": "13.93",
-      "battle": "20,201",
+      "champions": [
+        {
+          "id": "caitlyn",
+          "name": "Caitlyn",
+          "image": "tft17_caitlyn.tft_set17.png"
+        },
+        {
+          "id": "twisted_fate",
+          "name": "Twisted Fate",
+          "image": "tft17_twistedfate.tft_set17.png"
+        },
+        {
+          "id": "milio",
+          "name": "Milio",
+          "image": "tft17_milio.tft_set17.png"
+        },
+        {
+          "id": "corki",
+          "name": "Corki",
+          "image": "tft17_corki.tft_set17.png"
+        }
+      ],
+      "average_position": "3.4",
+      "top_4_rate": "74.39",
+      "top_1_rate": "15.92",
+      "battle": "289",
       "trait": "Hệ",
       "kich_hoat": "4"
     },
     {
-      "stt": 12,
+      "stt": 8,
+      "id": "du_muc",
+      "name": "Du Mục",
+      "image": "Trait_Icon_17_Shepherd.TFT_Set17.png",
+      "description_icon": [
+        "Tướng Du Mục triệu hồi Liên Kết Tinh Tú để hỗ trợ họ trong giao tranh.",
+        "\n"
+      ],
+      "description_detail": [
+        [
+          "3",
+          "Triệu hồi Bia"
+        ],
+        [
+          "5",
+          "Triệu hồi Bayin"
+        ],
+        [
+          "7",
+          "Liên kết giữa Bia và Bayin trở nên sâu sắc hơn"
+        ]
+      ],
+      "champions": [
+        {
+          "id": "teemo",
+          "name": "Teemo",
+          "image": "tft17_teemo.tft_set17.png"
+        },
+        {
+          "id": "lissandra",
+          "name": "Lissandra",
+          "image": "tft17_lissandra.tft_set17.png"
+        },
+        {
+          "id": "meepsie",
+          "name": "Meepsie",
+          "image": "tft17_ivernminion.tft_set17.png"
+        },
+        {
+          "id": "illaoi",
+          "name": "Illaoi",
+          "image": "tft17_illaoi.tft_set17.png"
+        },
+        {
+          "id": "leblanc",
+          "name": "LeBlanc",
+          "image": "tft17_leblanc.tft_set17.png"
+        },
+        {
+          "id": "sona",
+          "name": "Sona",
+          "image": "tft17_sona.tft_set17.png"
+        }
+      ],
+      "average_position": "3.09",
+      "top_4_rate": "73.33",
+      "top_1_rate": "24.44",
+      "battle": "45",
+      "trait": "Hệ",
+      "kich_hoat": "7"
+    },
+    {
+      "stt": 9,
       "id": "toan_cuop",
       "name": "Toán Cướp",
       "image": "Trait_Icon_16_Slayer.png",
@@ -15876,231 +15899,42 @@
           "."
         ]
       ],
-      "champions": [],
-      "average_position": "3.42",
-      "top_4_rate": "70.01",
-      "top_1_rate": "20.60",
-      "battle": "1,714",
+      "champions": [
+        {
+          "id": "bel'veth",
+          "name": "Bel'Veth",
+          "image": "tft17_belveth.tft_set17.png"
+        },
+        {
+          "id": "akali",
+          "name": "Akali",
+          "image": "tft17_akali.tft_set17.png"
+        },
+        {
+          "id": "urgot",
+          "name": "Urgot",
+          "image": "tft17_urgot.tft_set17.png"
+        },
+        {
+          "id": "master_yi",
+          "name": "Master Yi",
+          "image": "tft17_masteryi.tft_set17.png"
+        },
+        {
+          "id": "fiora",
+          "name": "Fiora",
+          "image": "tft17_fiora.tft_set17.png"
+        }
+      ],
+      "average_position": "3.73",
+      "top_4_rate": "72.73",
+      "top_1_rate": "18.18",
+      "battle": "33",
       "trait": "Hệ",
       "kich_hoat": "6"
     },
     {
-      "stt": 13,
-      "id": "vien_chinh",
-      "name": "Viễn Chinh",
-      "image": "Trait_Icon_17_Voyager.TFT_Set17.png",
-      "description_icon": [
-        "Bắt đầu giao tranh: Tướng Đỡ Đòn của bạn nhận được Lá Chắn trong 15 giây. Các đồng minh khác của bạn nhận được Khuếch Đại Sát Thương.",
-        "\n",
-        "\n",
-        "Tướng Viễn Chinh nhận gấp đôi.",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "2",
-          "175 Lá Chắn; 9%",
-          "DA.png"
-        ],
-        [
-          "3",
-          "250 Lá Chắn; 15%",
-          "DA.png"
-        ],
-        [
-          "4",
-          "350 Lá Chắn; 18%",
-          "DA.png"
-        ],
-        [
-          "5",
-          "500 Lá Chắn; 22%",
-          "DA.png"
-        ],
-        [
-          "6",
-          "700 Lá Chắn; 27%",
-          "DA.png"
-        ]
-      ],
-      "champions": [],
-      "average_position": "3.63",
-      "top_4_rate": "68.24",
-      "top_1_rate": "16.64",
-      "battle": "595",
-      "trait": "Hệ",
-      "kich_hoat": "6"
-    },
-    {
-      "stt": 14,
-      "id": "du_muc",
-      "name": "Du Mục",
-      "image": "Trait_Icon_17_Shepherd.TFT_Set17.png",
-      "description_icon": [
-        "Tướng Du Mục triệu hồi Liên Kết Tinh Tú để hỗ trợ họ trong giao tranh.",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "3",
-          "Triệu hồi Bia"
-        ],
-        [
-          "5",
-          "Triệu hồi Bayin"
-        ],
-        [
-          "7",
-          "Liên kết giữa Bia và Bayin trở nên sâu sắc hơn"
-        ]
-      ],
-      "champions": [],
-      "average_position": "3.63",
-      "top_4_rate": "67.74",
-      "top_1_rate": "17.81",
-      "battle": "2,700",
-      "trait": "Hệ",
-      "kich_hoat": "7"
-    },
-    {
-      "stt": 15,
-      "id": "dan_truyen",
-      "name": "Dẫn Truyền",
-      "image": "Trait_Icon_17_Channeler.TFT_Set17.png",
-      "description_icon": [
-        "Thiên Phú: Tướng Dẫn Truyền nhận thêm 20% Năng Lượng từ mọi nguồn.",
-        "\n",
-        "\n",
-        "Đội của bạn được tăng Hồi Năng Lượng, tướng Dẫn Truyền nhận được nhiều hơn.",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "2",
-          "1",
-          "manaregen.png",
-          "| 3",
-          "manaregen.png"
-        ],
-        [
-          "3",
-          "1",
-          "manaregen.png",
-          "| 5",
-          "manaregen.png"
-        ],
-        [
-          "4",
-          "2",
-          "manaregen.png",
-          "| 7",
-          "manaregen.png"
-        ],
-        [
-          "5",
-          "3",
-          "manaregen.png",
-          "| 9",
-          "manaregen.png"
-        ]
-      ],
-      "champions": [],
-      "average_position": "3.65",
-      "top_4_rate": "67.55",
-      "top_1_rate": "18.09",
-      "battle": "376",
-      "trait": "Hệ",
-      "kich_hoat": "4"
-    },
-    {
-      "stt": 16,
-      "id": "vien_chinh",
-      "name": "Viễn Chinh",
-      "image": "Trait_Icon_17_Voyager.TFT_Set17.png",
-      "description_icon": [
-        "Bắt đầu giao tranh: Tướng Đỡ Đòn của bạn nhận được Lá Chắn trong 15 giây. Các đồng minh khác của bạn nhận được Khuếch Đại Sát Thương.",
-        "\n",
-        "\n",
-        "Tướng Viễn Chinh nhận gấp đôi.",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "2",
-          "175 Lá Chắn; 9%",
-          "DA.png"
-        ],
-        [
-          "3",
-          "250 Lá Chắn; 15%",
-          "DA.png"
-        ],
-        [
-          "4",
-          "350 Lá Chắn; 18%",
-          "DA.png"
-        ],
-        [
-          "5",
-          "500 Lá Chắn; 22%",
-          "DA.png"
-        ],
-        [
-          "6",
-          "700 Lá Chắn; 27%",
-          "DA.png"
-        ]
-      ],
-      "champions": [],
-      "average_position": "3.74",
-      "top_4_rate": "66.51",
-      "top_1_rate": "15.36",
-      "battle": "2,487",
-      "trait": "Hệ",
-      "kich_hoat": "5"
-    },
-    {
-      "stt": 17,
-      "id": "hanh_tinh",
-      "name": "Hành Tinh",
-      "image": "Trait_Icon_17_SpaceGroove.TFT_Set17.png",
-      "description_icon": [
-        "Space Groove units can enter the Groove state. While in Groove, their bonuses scale with the number of Space Groove allies and grow stronger at higher trait tiers."
-      ],
-      "description_detail": [
-        [
-          "1",
-          "Khi các tướng Hành Tinh tiến vào trạng thái Space Groove",
-          "họ nhận Tốc Độ Đánh và hồi Máu tối đa",
-          "tăng theo mỗi tướng Hành Tinh trong đội."
-        ],
-        [
-          "3",
-          "Tất cả tướng Hành Tinh bắt đầu giao tranh ở trạng thái Space Groove trong 3 giây."
-        ],
-        [
-          "5",
-          "Mỗi giây trong trạng thái Space Groove trao 5% Sức Mạnh Công Kích và Sức Mạnh Phép Thuật cộng dồn."
-        ],
-        [
-          "7",
-          "Tăng hiệu ứng thêm 10%!"
-        ],
-        [
-          "10",
-          "{{TFT17_SpaceGroove_Groove}}"
-        ]
-      ],
-      "champions": [],
-      "average_position": "3.6",
-      "top_4_rate": "66.32",
-      "top_1_rate": "21.60",
-      "battle": "6,120",
-      "trait": "Tộc",
-      "kich_hoat": "7"
-    },
-    {
-      "stt": 18,
+      "stt": 10,
       "id": "vo_phap",
       "name": "Vô Pháp",
       "image": "Trait_Icon_17_Rogue.TFT_Set17.png",
@@ -16134,223 +15968,47 @@
           "AP.png"
         ]
       ],
-      "champions": [],
-      "average_position": "3.68",
-      "top_4_rate": "66.03",
-      "top_1_rate": "16.89",
-      "battle": "3,262",
+      "champions": [
+        {
+          "id": "briar",
+          "name": "Briar",
+          "image": "tft17_briar.tft_set17.png"
+        },
+        {
+          "id": "talon",
+          "name": "Talon",
+          "image": "tft17_talon.tft_set17.png"
+        },
+        {
+          "id": "gwen",
+          "name": "Gwen",
+          "image": "tft17_gwen.tft_set17.png"
+        },
+        {
+          "id": "fizz",
+          "name": "Fizz",
+          "image": "tft17_fizz.tft_set17.png"
+        },
+        {
+          "id": "kai'sa",
+          "name": "Kai'Sa",
+          "image": "tft17_kaisa.tft_set17.png"
+        },
+        {
+          "id": "riven",
+          "name": "Riven",
+          "image": "tft17_riven.tft_set17.png"
+        }
+      ],
+      "average_position": "3.63",
+      "top_4_rate": "70.83",
+      "top_1_rate": "12.50",
+      "battle": "24",
       "trait": "Hệ",
-      "kich_hoat": "4"
+      "kich_hoat": "5"
     },
     {
-      "stt": 19,
-      "id": "chiem_tinh_(ngon_nui)",
-      "name": "Chiêm Tinh (Ngọn Núi)",
-      "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
-      "description_icon": [
-        "Trận này, tướng Chiêm Tinh dệt nên chòm sao: Ngọn Núi",
-        "\n",
-        "Mỗi 5 giao tranh người chơi, nhận 1 Ấn Chiêm Tinh. Tướng Chiêm Tinh trên ô cường hóa nhận thêm chỉ số.",
-        "\n",
-        "(Giao Tranh Còn Lại: ?)"
-      ],
-      "description_detail": [
-        [
-          "3",
-          "Nhận 15% Máu"
-        ],
-        [
-          "4",
-          "VÀ 15% Sức Mạnh Công Kích và Sức Mạnh Phép Thuật"
-        ],
-        [
-          "5",
-          "VÀ 10 Giáp & Kháng Phép"
-        ],
-        [
-          "6",
-          "VÀ 10% Tốc Độ Đánh"
-        ],
-        [
-          "7",
-          "VÀ 6% Chống Chịu"
-        ],
-        [
-          "8",
-          "VÀ các chỉ số thưởng khác +10%"
-        ]
-      ],
-      "champions": [],
-      "average_position": "3.65",
-      "top_4_rate": "65.84",
-      "top_1_rate": "19.61",
-      "battle": "3,636",
-      "trait": "Tộc",
-      "kich_hoat": "8"
-    },
-    {
-      "stt": 20,
-      "id": "hanh_tinh",
-      "name": "Hành Tinh",
-      "image": "Trait_Icon_17_SpaceGroove.TFT_Set17.png",
-      "description_icon": [
-        "Space Groove units can enter the Groove state. While in Groove, their bonuses scale with the number of Space Groove allies and grow stronger at higher trait tiers."
-      ],
-      "description_detail": [
-        [
-          "1",
-          "Khi các tướng Hành Tinh tiến vào trạng thái Space Groove",
-          "họ nhận Tốc Độ Đánh và hồi Máu tối đa",
-          "tăng theo mỗi tướng Hành Tinh trong đội."
-        ],
-        [
-          "3",
-          "Tất cả tướng Hành Tinh bắt đầu giao tranh ở trạng thái Space Groove trong 3 giây."
-        ],
-        [
-          "5",
-          "Mỗi giây trong trạng thái Space Groove trao 5% Sức Mạnh Công Kích và Sức Mạnh Phép Thuật cộng dồn."
-        ],
-        [
-          "7",
-          "Tăng hiệu ứng thêm 10%!"
-        ],
-        [
-          "10",
-          "{{TFT17_SpaceGroove_Groove}}"
-        ]
-      ],
-      "champions": [],
-      "average_position": "3.85",
-      "top_4_rate": "63.95",
-      "top_1_rate": "15.07",
-      "battle": "34,890",
-      "trait": "Tộc",
-      "kich_hoat": "3"
-    },
-    {
-      "stt": 21,
-      "id": "ac_nu",
-      "name": "Ác Nữ",
-      "image": "Trait_Icon_17_DarkLady.TFT_Set17.png",
-      "description_icon": [
-        "Đồng minh được giảm 5% sát thương nhận phải từ kỹ năng, tăng thành 10% khi Morgana ở Thể Hắc Ám."
-      ],
-      "description_detail": [],
-      "champions": [],
-      "average_position": "3.75",
-      "top_4_rate": "63.74",
-      "top_1_rate": "22.84",
-      "battle": "76,473",
-      "trait": "Tộc",
-      "kich_hoat": "1"
-    },
-    {
-      "stt": 22,
-      "id": "huy_diet",
-      "name": "Hủy Diệt",
-      "image": "Trait_Icon_17_Singularity.TFT_Set17.png",
-      "description_icon": [
-        "Kẻ địch bị giảm 10% Giáp và Kháng Phép."
-      ],
-      "description_detail": [],
-      "champions": [],
-      "average_position": "3.72",
-      "top_4_rate": "63.69",
-      "top_1_rate": "24.29",
-      "battle": "96,895",
-      "trait": "Tộc",
-      "kich_hoat": "1"
-    },
-    {
-      "stt": 23,
-      "id": "chiem_tinh_(cu_xa)",
-      "name": "Chiêm Tinh (Cự Xà)",
-      "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
-      "description_icon": [
-        "Trận này, tướng Chiêm Tinh dệt nên chòm sao: Cự Xà.",
-        "\n",
-        "Ô cường hóa cho thêm 5% Chống Chịu. Tướng Chiêm Tinh trên ô cường hóa nhận được nhiều hơn và áp dụng hiệu ứng độc lên kẻ địch, lặp lại một phần sát thương đã gây ra dưới dạng sát thương phép trong 3 giây."
-      ],
-      "description_detail": [
-        [
-          "3",
-          "5%",
-          "DR.png",
-          "",
-          "25% sát thương độc"
-        ],
-        [
-          "5",
-          "10%",
-          "DR.png",
-          "",
-          "40% sát thương độc"
-        ],
-        [
-          "7",
-          "15%",
-          "DR.png",
-          "",
-          "60% sát thương độc"
-        ]
-      ],
-      "champions": [],
-      "average_position": "3.8",
-      "top_4_rate": "63.16",
-      "top_1_rate": "11.84",
-      "battle": "76",
-      "trait": "Tộc",
-      "kich_hoat": "7"
-    },
-    {
-      "stt": 24,
-      "id": "chiem_tinh_(ngon_nui)",
-      "name": "Chiêm Tinh (Ngọn Núi)",
-      "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
-      "description_icon": [
-        "Trận này, tướng Chiêm Tinh dệt nên chòm sao: Ngọn Núi",
-        "\n",
-        "Mỗi 5 giao tranh người chơi, nhận 1 Ấn Chiêm Tinh. Tướng Chiêm Tinh trên ô cường hóa nhận thêm chỉ số.",
-        "\n",
-        "(Giao Tranh Còn Lại: ?)"
-      ],
-      "description_detail": [
-        [
-          "3",
-          "Nhận 15% Máu"
-        ],
-        [
-          "4",
-          "VÀ 15% Sức Mạnh Công Kích và Sức Mạnh Phép Thuật"
-        ],
-        [
-          "5",
-          "VÀ 10 Giáp & Kháng Phép"
-        ],
-        [
-          "6",
-          "VÀ 10% Tốc Độ Đánh"
-        ],
-        [
-          "7",
-          "VÀ 6% Chống Chịu"
-        ],
-        [
-          "8",
-          "VÀ các chỉ số thưởng khác +10%"
-        ]
-      ],
-      "champions": [],
-      "average_position": "3.82",
-      "top_4_rate": "62.82",
-      "top_1_rate": "20.50",
-      "battle": "3,039",
-      "trait": "Tộc",
-      "kich_hoat": "7"
-    },
-    {
-      "stt": 25,
+      "stt": 11,
       "id": "chiem_tinh_(heo_rung)",
       "name": "Chiêm Tinh (Heo Rừng)",
       "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
@@ -16404,12 +16062,768 @@
         ]
       ],
       "champions": [],
-      "average_position": "3.89",
-      "top_4_rate": "62.75",
-      "top_1_rate": "18.77",
-      "battle": "698",
+      "average_position": "3.08",
+      "top_4_rate": "69.23",
+      "top_1_rate": "38.46",
+      "battle": "13",
       "trait": "Tộc",
       "kich_hoat": "5"
+    },
+    {
+      "stt": 12,
+      "id": "chiem_tinh_(ngon_nui)",
+      "name": "Chiêm Tinh (Ngọn Núi)",
+      "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
+      "description_icon": [
+        "Trận này, tướng Chiêm Tinh dệt nên chòm sao: Ngọn Núi",
+        "\n",
+        "Mỗi 5 giao tranh người chơi, nhận 1 Ấn Chiêm Tinh. Tướng Chiêm Tinh trên ô cường hóa nhận thêm chỉ số.",
+        "\n",
+        "(Giao Tranh Còn Lại: ?)"
+      ],
+      "description_detail": [
+        [
+          "3",
+          "Nhận 15% Máu"
+        ],
+        [
+          "4",
+          "VÀ 15% Sức Mạnh Công Kích và Sức Mạnh Phép Thuật"
+        ],
+        [
+          "5",
+          "VÀ 10 Giáp & Kháng Phép"
+        ],
+        [
+          "6",
+          "VÀ 10% Tốc Độ Đánh"
+        ],
+        [
+          "7",
+          "VÀ 6% Chống Chịu"
+        ],
+        [
+          "8",
+          "VÀ các chỉ số thưởng khác +10%"
+        ]
+      ],
+      "champions": [],
+      "average_position": "3.58",
+      "top_4_rate": "68.66",
+      "top_1_rate": "19.40",
+      "battle": "67",
+      "trait": "Tộc",
+      "kich_hoat": "8"
+    },
+    {
+      "stt": 13,
+      "id": "tien_phong",
+      "name": "Tiên Phong",
+      "image": "Trait_Icon_12_Vanguard.TFT_Set12.png",
+      "description_icon": [
+        "Tướng Tiên Phong được tăng 5% Chống Chịu khi có Lá Chắn.",
+        "\n",
+        "\n",
+        "Bắt đầu giao tranh và khi còn 50% Máu: Nhận một Lá Chắn theo Máu tối đa trong 10 giây.",
+        "\n"
+      ],
+      "description_detail": [
+        [
+          "2",
+          "16% Máu tối đa"
+        ],
+        [
+          "4",
+          "30% Máu tối đa"
+        ],
+        [
+          "6",
+          "40% Máu tối đa;8%",
+          "DR.png",
+          "khi có Lá Chắn"
+        ]
+      ],
+      "champions": [
+        {
+          "id": "nasus",
+          "name": "Nasus",
+          "image": "tft17_nasus.tft_set17.png"
+        },
+        {
+          "id": "leona",
+          "name": "Leona",
+          "image": "tft17_leona.tft_set17.png"
+        },
+        {
+          "id": "mordekaiser",
+          "name": "Mordekaiser",
+          "image": "tft17_mordekaiser.tft_set17.png"
+        },
+        {
+          "id": "illaoi",
+          "name": "Illaoi",
+          "image": "tft17_illaoi.tft_set17.png"
+        },
+        {
+          "id": "nunu_&_willump",
+          "name": "Nunu & Willump",
+          "image": "tft17_nunu.tft_set17.png"
+        },
+        {
+          "id": "blitzcrank",
+          "name": "Blitzcrank",
+          "image": "tft17_blitzcrank.tft_set17.png"
+        }
+      ],
+      "average_position": "3.54",
+      "top_4_rate": "68.52",
+      "top_1_rate": "22.22",
+      "battle": "162",
+      "trait": "Hệ",
+      "kich_hoat": "6"
+    },
+    {
+      "stt": 14,
+      "id": "dan_truyen",
+      "name": "Dẫn Truyền",
+      "image": "Trait_Icon_17_Channeler.TFT_Set17.png",
+      "description_icon": [
+        "Thiên Phú: Tướng Dẫn Truyền nhận thêm 20% Năng Lượng từ mọi nguồn.",
+        "\n",
+        "\n",
+        "Đội của bạn được tăng Hồi Năng Lượng, tướng Dẫn Truyền nhận được nhiều hơn.",
+        "\n"
+      ],
+      "description_detail": [
+        [
+          "2",
+          "1",
+          "manaregen.png",
+          "| 3",
+          "manaregen.png"
+        ],
+        [
+          "3",
+          "1",
+          "manaregen.png",
+          "| 5",
+          "manaregen.png"
+        ],
+        [
+          "4",
+          "2",
+          "manaregen.png",
+          "| 7",
+          "manaregen.png"
+        ],
+        [
+          "5",
+          "3",
+          "manaregen.png",
+          "| 9",
+          "manaregen.png"
+        ]
+      ],
+      "champions": [
+        {
+          "id": "zoe",
+          "name": "Zoe",
+          "image": "tft17_zoe.tft_set17.png"
+        },
+        {
+          "id": "mordekaiser",
+          "name": "Mordekaiser",
+          "image": "tft17_mordekaiser.tft_set17.png"
+        },
+        {
+          "id": "viktor",
+          "name": "Viktor",
+          "image": "tft17_viktor.tft_set17.png"
+        },
+        {
+          "id": "aurelion_sol",
+          "name": "Aurelion Sol",
+          "image": "tft17_aurelionsol.tft_set17.png"
+        },
+        {
+          "id": "bard",
+          "name": "Bard",
+          "image": "tft17_bard.tft_set17.png"
+        }
+      ],
+      "average_position": "3.63",
+      "top_4_rate": "68.42",
+      "top_1_rate": "16.84",
+      "battle": "95",
+      "trait": "Hệ",
+      "kich_hoat": "3"
+    },
+    {
+      "stt": 15,
+      "id": "may_moc",
+      "name": "Máy Móc",
+      "image": "Trait_Icon_17_Mecha.TFT_Set17.png",
+      "description_icon": [
+        "Thiên Phú: Các tướng Máy Móc có thể biến đổi thành dạng Tối Thượng, nâng cấp kỹ năng và nhận thêm 40% Máu. Tướng Máy Móc sau khi biến đổi sẽ chiếm 2 vị trí trong đội hình và được tính gấp đôi cho tộc/hệ Máy Móc.",
+        "\n"
+      ],
+      "description_detail": [
+        [
+          "3",
+          "Lõi Năng Lượng: Tướng Máy Móc nhận 25%",
+          "AD.png",
+          "AP.png",
+          "."
+        ],
+        [
+          "4",
+          "Lõi Ép Xung: Tăng thành 45%",
+          "AD.png",
+          "AP.png",
+          "."
+        ],
+        [
+          "6",
+          "Cơ Khí Chuẩn Xác: +1 số lượng tướng tối đa"
+        ]
+      ],
+      "champions": [
+        {
+          "id": "urgot",
+          "name": "Urgot",
+          "image": "tft17_urgot.tft_set17.png"
+        },
+        {
+          "id": "aurelion_sol",
+          "name": "Aurelion Sol",
+          "image": "tft17_aurelionsol.tft_set17.png"
+        },
+        {
+          "id": "robot",
+          "name": "Robot",
+          "image": "tft17_galio.tft_set17.png"
+        }
+      ],
+      "average_position": "3.62",
+      "top_4_rate": "68.16",
+      "top_1_rate": "18.35",
+      "battle": "267",
+      "trait": "Tộc",
+      "kich_hoat": "4"
+    },
+    {
+      "stt": 16,
+      "id": "huy_diet",
+      "name": "Hủy Diệt",
+      "image": "Trait_Icon_17_Singularity.TFT_Set17.png",
+      "description_icon": [
+        "Kẻ địch bị giảm 10% Giáp và Kháng Phép."
+      ],
+      "description_detail": [],
+      "champions": [
+        {
+          "id": "jhin",
+          "name": "Jhin",
+          "image": "tft17_jhin.tft_set17.png"
+        }
+      ],
+      "average_position": "3.57",
+      "top_4_rate": "66.71",
+      "top_1_rate": "22.76",
+      "battle": "1,397",
+      "trait": "Tộc",
+      "kich_hoat": "1"
+    },
+    {
+      "stt": 17,
+      "id": "chiem_tinh_(heo_rung)",
+      "name": "Chiêm Tinh (Heo Rừng)",
+      "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
+      "description_icon": [
+        "Trận này, tướng Chiêm Tinh dệt nên chòm sao: Heo Rừng.",
+        "\n",
+        "Nhận vàng khi thắng giao tranh người chơi. Đồng minh trên ô cường hóa nhận thêm 8% Máu, Sức Mạnh Công Kích và Sức Mạnh Phép Thuật. Tướng Chiêm Tinh nhận nhiều hơn.",
+        "\n",
+        "(Vàng Kiếm Được: ?)"
+      ],
+      "description_detail": [
+        [
+          "3",
+          "1 vàng",
+          "2%",
+          "Health.png",
+          "",
+          "10%",
+          "AD.png",
+          "AP.png"
+        ],
+        [
+          "4",
+          "2 vàng",
+          "8%",
+          "Health.png",
+          "",
+          "15%",
+          "AD.png",
+          "AP.png"
+        ],
+        [
+          "5",
+          "4 vàng",
+          "15%",
+          "Health.png",
+          "",
+          "25%",
+          "AD.png",
+          "AP.png"
+        ],
+        [
+          "6",
+          "6 vàng",
+          "22%",
+          "Health.png",
+          "",
+          "30%",
+          "AD.png",
+          "AP.png"
+        ]
+      ],
+      "champions": [],
+      "average_position": "3.5",
+      "top_4_rate": "66.67",
+      "top_1_rate": "16.67",
+      "battle": "6",
+      "trait": "Tộc",
+      "kich_hoat": "6"
+    },
+    {
+      "stt": 18,
+      "id": "ac_nu",
+      "name": "Ác Nữ",
+      "image": "Trait_Icon_17_DarkLady.TFT_Set17.png",
+      "description_icon": [
+        "Đội của bạn nhận được 5% Chống Chịu %i:scaleDurability%, tăng lên ?% khi Morgana ở Thể Hắc Ám."
+      ],
+      "description_detail": [],
+      "champions": [
+        {
+          "id": "morgana",
+          "name": "Morgana",
+          "image": "tft17_morgana.tft_set17.png"
+        }
+      ],
+      "average_position": "3.65",
+      "top_4_rate": "66.54",
+      "top_1_rate": "22.71",
+      "battle": "1,061",
+      "trait": "Tộc",
+      "kich_hoat": "1"
+    },
+    {
+      "stt": 19,
+      "id": "vien_chinh",
+      "name": "Viễn Chinh",
+      "image": "Trait_Icon_17_Voyager.TFT_Set17.png",
+      "description_icon": [
+        "Bắt đầu giao tranh: Tướng Đỡ Đòn của bạn nhận được Lá Chắn trong 15 giây. Các đồng minh khác của bạn nhận được Khuếch Đại Sát Thương.",
+        "\n",
+        "\n",
+        "Tướng Viễn Chinh nhận gấp đôi.",
+        "\n"
+      ],
+      "description_detail": [
+        [
+          "2",
+          "175 Lá Chắn; 9%",
+          "DA.png"
+        ],
+        [
+          "3",
+          "250 Lá Chắn; 15%",
+          "DA.png"
+        ],
+        [
+          "4",
+          "350 Lá Chắn; 18%",
+          "DA.png"
+        ],
+        [
+          "5",
+          "500 Lá Chắn; 22%",
+          "DA.png"
+        ],
+        [
+          "6",
+          "700 Lá Chắn; 27%",
+          "DA.png"
+        ]
+      ],
+      "champions": [
+        {
+          "id": "pyke",
+          "name": "Pyke",
+          "image": "tft17_pyke.tft_set17.png"
+        },
+        {
+          "id": "meepsie",
+          "name": "Meepsie",
+          "image": "tft17_ivernminion.tft_set17.png"
+        },
+        {
+          "id": "aurora",
+          "name": "Aurora",
+          "image": "tft17_aurora.tft_set17.png"
+        },
+        {
+          "id": "karma",
+          "name": "Karma",
+          "image": "tft17_karma.tft_set17.png"
+        },
+        {
+          "id": "robot",
+          "name": "Robot",
+          "image": "tft17_galio.tft_set17.png"
+        }
+      ],
+      "average_position": "3.9",
+      "top_4_rate": "64.52",
+      "top_1_rate": "11.83",
+      "battle": "93",
+      "trait": "Hệ",
+      "kich_hoat": "4"
+    },
+    {
+      "stt": 20,
+      "id": "vo_phap",
+      "name": "Vô Pháp",
+      "image": "Trait_Icon_17_Rogue.TFT_Set17.png",
+      "description_icon": [
+        "Tướng Vô Pháp nhận thêm Sức Mạnh Công Kích và Sức Mạnh Phép Thuật. Lần đầu tiên khi xuống dưới 50% máu, họ sẽ trốn vào trong bóng tối. Kẻ địch đang nhắm vào họ sẽ chuyển hướng sang một đơn vị ở gần, ưu tiên tướng Đỡ Đòn.",
+        "\n"
+      ],
+      "description_detail": [
+        [
+          "2",
+          "12%",
+          "AD.png",
+          "AP.png"
+        ],
+        [
+          "3",
+          "25%",
+          "AD.png",
+          "AP.png"
+        ],
+        [
+          "4",
+          "40%",
+          "AD.png",
+          "AP.png"
+        ],
+        [
+          "5",
+          "55%",
+          "AD.png",
+          "AP.png"
+        ]
+      ],
+      "champions": [
+        {
+          "id": "briar",
+          "name": "Briar",
+          "image": "tft17_briar.tft_set17.png"
+        },
+        {
+          "id": "talon",
+          "name": "Talon",
+          "image": "tft17_talon.tft_set17.png"
+        },
+        {
+          "id": "gwen",
+          "name": "Gwen",
+          "image": "tft17_gwen.tft_set17.png"
+        },
+        {
+          "id": "fizz",
+          "name": "Fizz",
+          "image": "tft17_fizz.tft_set17.png"
+        },
+        {
+          "id": "kai'sa",
+          "name": "Kai'Sa",
+          "image": "tft17_kaisa.tft_set17.png"
+        },
+        {
+          "id": "riven",
+          "name": "Riven",
+          "image": "tft17_riven.tft_set17.png"
+        }
+      ],
+      "average_position": "4.09",
+      "top_4_rate": "64.15",
+      "top_1_rate": "7.55",
+      "battle": "53",
+      "trait": "Hệ",
+      "kich_hoat": "4"
+    },
+    {
+      "stt": 21,
+      "id": "hanh_tinh",
+      "name": "Hành Tinh",
+      "image": "Trait_Icon_17_SpaceGroove.TFT_Set17.png",
+      "description_icon": [
+        "Space Groove units can enter the Groove state. While in Groove, their bonuses scale with the number of Space Groove allies and grow stronger at higher trait tiers."
+      ],
+      "description_detail": [
+        [
+          "1",
+          "Khi các tướng Hành Tinh tiến vào trạng thái Space Groove",
+          "họ nhận Tốc Độ Đánh và hồi Máu tối đa",
+          "tăng theo mỗi tướng Hành Tinh trong đội."
+        ],
+        [
+          "3",
+          "Tất cả tướng Hành Tinh bắt đầu giao tranh ở trạng thái Space Groove trong 3 giây."
+        ],
+        [
+          "5",
+          "Mỗi giây trong trạng thái Space Groove trao 5% Sức Mạnh Công Kích và Sức Mạnh Phép Thuật cộng dồn."
+        ],
+        [
+          "7",
+          "Tăng hiệu ứng thêm 10%!"
+        ],
+        [
+          "10",
+          "{{TFT17_SpaceGroove_Groove}}"
+        ]
+      ],
+      "champions": [
+        {
+          "id": "teemo",
+          "name": "Teemo",
+          "image": "tft17_teemo.tft_set17.png"
+        },
+        {
+          "id": "nasus",
+          "name": "Nasus",
+          "image": "tft17_nasus.tft_set17.png"
+        },
+        {
+          "id": "gwen",
+          "name": "Gwen",
+          "image": "tft17_gwen.tft_set17.png"
+        },
+        {
+          "id": "samira",
+          "name": "Samira",
+          "image": "tft17_samira.tft_set17.png"
+        },
+        {
+          "id": "ornn",
+          "name": "Ornn",
+          "image": "tft17_ornn.tft_set17.png"
+        },
+        {
+          "id": "nami",
+          "name": "Nami",
+          "image": "tft17_nami.tft_set17.png"
+        },
+        {
+          "id": "blitzcrank",
+          "name": "Blitzcrank",
+          "image": "tft17_blitzcrank.tft_set17.png"
+        }
+      ],
+      "average_position": "3.82",
+      "top_4_rate": "64.12",
+      "top_1_rate": "15.78",
+      "battle": "393",
+      "trait": "Tộc",
+      "kich_hoat": "3"
+    },
+    {
+      "stt": 22,
+      "id": "chien_luy",
+      "name": "Chiến Lũy",
+      "image": "Trait_Icon_17_Bulwark.TFT_Set17.png",
+      "description_icon": [
+        "Triệu hồi một di vật có thể đặt. Khi bắt đầu giao tranh, nó trao cho các đồng minh liền kề một lá chắn bằng 10% Máu tối đa và 10% Tốc Độ Đánh."
+      ],
+      "description_detail": [],
+      "champions": [
+        {
+          "id": "shen",
+          "name": "Shen",
+          "image": "tft17_shen.tft_set17.png"
+        }
+      ],
+      "average_position": "3.77",
+      "top_4_rate": "64.11",
+      "top_1_rate": "20.18",
+      "battle": "1,368",
+      "trait": "Tộc",
+      "kich_hoat": "1"
+    },
+    {
+      "stt": 23,
+      "id": "hac_tinh",
+      "name": "Hắc Tinh",
+      "image": "Trait_Icon_17_DarkStar.TFT_Set17.png",
+      "description_icon": [
+        "Dark Star units create a black hole that devours enemies below 10% max Health. The higher the trait tier, the stronger the black hole becomes."
+      ],
+      "description_detail": [
+        [
+          "2",
+          "Tướng Hắc Tinh triệu hồi một hố đen nuốt chửng kẻ địch khi chúng còn",
+          "?%",
+          "8%",
+          "máu tối đa."
+        ],
+        [
+          "4",
+          "VÀ họ nhận được 45%",
+          "AD.png",
+          "AP.png",
+          "."
+        ],
+        [
+          "6",
+          "VÀ tướng Hắc Tinh mạnh nhất hóa siêu khổng lồ",
+          "nhận thêm 85% hiệu ứng từ Hắc Tinh",
+          "đồng thời tạo ra 2 Hố Đen Vũ Trụ nhỏ."
+        ],
+        [
+          "9",
+          "Tất cả tướng Hắc Tinh sẽ hóa siêu khổng lồ. Ở cấp 10",
+          "NUỐT CHỬNG TẤT CẢ."
+        ]
+      ],
+      "champions": [
+        {
+          "id": "cho'gath",
+          "name": "Cho'Gath",
+          "image": "tft17_chogath.tft_set17.png"
+        },
+        {
+          "id": "lissandra",
+          "name": "Lissandra",
+          "image": "tft17_lissandra.tft_set17.png"
+        },
+        {
+          "id": "mordekaiser",
+          "name": "Mordekaiser",
+          "image": "tft17_mordekaiser.tft_set17.png"
+        },
+        {
+          "id": "kai'sa",
+          "name": "Kai'Sa",
+          "image": "tft17_kaisa.tft_set17.png"
+        },
+        {
+          "id": "karma",
+          "name": "Karma",
+          "image": "tft17_karma.tft_set17.png"
+        },
+        {
+          "id": "jhin",
+          "name": "Jhin",
+          "image": "tft17_jhin.tft_set17.png"
+        }
+      ],
+      "average_position": "3.75",
+      "top_4_rate": "63.66",
+      "top_1_rate": "19.48",
+      "battle": "344",
+      "trait": "Tộc",
+      "kich_hoat": "6"
+    },
+    {
+      "stt": 24,
+      "id": "du_muc",
+      "name": "Du Mục",
+      "image": "Trait_Icon_17_Shepherd.TFT_Set17.png",
+      "description_icon": [
+        "Tướng Du Mục triệu hồi Liên Kết Tinh Tú để hỗ trợ họ trong giao tranh.",
+        "\n"
+      ],
+      "description_detail": [
+        [
+          "3",
+          "Triệu hồi Bia"
+        ],
+        [
+          "5",
+          "Triệu hồi Bayin"
+        ],
+        [
+          "7",
+          "Liên kết giữa Bia và Bayin trở nên sâu sắc hơn"
+        ]
+      ],
+      "champions": [
+        {
+          "id": "teemo",
+          "name": "Teemo",
+          "image": "tft17_teemo.tft_set17.png"
+        },
+        {
+          "id": "lissandra",
+          "name": "Lissandra",
+          "image": "tft17_lissandra.tft_set17.png"
+        },
+        {
+          "id": "meepsie",
+          "name": "Meepsie",
+          "image": "tft17_ivernminion.tft_set17.png"
+        },
+        {
+          "id": "illaoi",
+          "name": "Illaoi",
+          "image": "tft17_illaoi.tft_set17.png"
+        },
+        {
+          "id": "leblanc",
+          "name": "LeBlanc",
+          "image": "tft17_leblanc.tft_set17.png"
+        },
+        {
+          "id": "sona",
+          "name": "Sona",
+          "image": "tft17_sona.tft_set17.png"
+        }
+      ],
+      "average_position": "3.8",
+      "top_4_rate": "61.83",
+      "top_1_rate": "14.50",
+      "battle": "131",
+      "trait": "Hệ",
+      "kich_hoat": "5"
+    },
+    {
+      "stt": 25,
+      "id": "tho_san_vu_tru",
+      "name": "Thợ Săn Vũ Trụ",
+      "image": "Trait_Icon_17_GalaxyHunter.TFT_Set17.png",
+      "description_icon": [
+        "Zed được nhận từ nâng cấp Zed Kẻ Xâm Lăng.",
+        "\n"
+      ],
+      "description_detail": [],
+      "champions": [
+        {
+          "id": "zed",
+          "name": "Zed",
+          "image": "tft17_zed.tft_set17.png"
+        }
+      ],
+      "average_position": "3.9",
+      "top_4_rate": "61.06",
+      "top_1_rate": "20.35",
+      "battle": "113",
+      "trait": "Hệ",
+      "kich_hoat": "1"
     },
     {
       "stt": 26,
@@ -16446,79 +16860,139 @@
           "mỗi ô"
         ]
       ],
-      "champions": [],
-      "average_position": "3.7",
-      "top_4_rate": "62.67",
-      "top_1_rate": "26.05",
-      "battle": "4,514",
+      "champions": [
+        {
+          "id": "ezreal",
+          "name": "Ezreal",
+          "image": "tft17_ezreal.tft_set17.png"
+        },
+        {
+          "id": "gnar",
+          "name": "Gnar",
+          "image": "tft17_gnar.tft_set17.png"
+        },
+        {
+          "id": "samira",
+          "name": "Samira",
+          "image": "tft17_samira.tft_set17.png"
+        },
+        {
+          "id": "xayah",
+          "name": "Xayah",
+          "image": "tft17_xayah.tft_set17.png"
+        },
+        {
+          "id": "jhin",
+          "name": "Jhin",
+          "image": "tft17_jhin.tft_set17.png"
+        }
+      ],
+      "average_position": "3.59",
+      "top_4_rate": "61.02",
+      "top_1_rate": "25.42",
+      "battle": "59",
       "trait": "Hệ",
       "kich_hoat": "4"
     },
     {
       "stt": 27,
-      "id": "chiem_tinh_(cu_xa)",
-      "name": "Chiêm Tinh (Cự Xà)",
-      "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
-      "description_icon": [
-        "Trận này, tướng Chiêm Tinh dệt nên chòm sao: Cự Xà.",
-        "\n",
-        "Ô cường hóa cho thêm 5% Chống Chịu. Tướng Chiêm Tinh trên ô cường hóa nhận được nhiều hơn và áp dụng hiệu ứng độc lên kẻ địch, lặp lại một phần sát thương đã gây ra dưới dạng sát thương phép trong 3 giây."
-      ],
-      "description_detail": [
-        [
-          "3",
-          "5%",
-          "DR.png",
-          "",
-          "25% sát thương độc"
-        ],
-        [
-          "5",
-          "10%",
-          "DR.png",
-          "",
-          "40% sát thương độc"
-        ],
-        [
-          "7",
-          "15%",
-          "DR.png",
-          "",
-          "60% sát thương độc"
-        ]
-      ],
-      "champions": [],
-      "average_position": "3.91",
-      "top_4_rate": "61.92",
-      "top_1_rate": "14.75",
-      "battle": "793",
-      "trait": "Tộc",
-      "kich_hoat": "5"
-    },
-    {
-      "stt": 28,
-      "id": "n.o.v.a.",
-      "name": "N.O.V.A.",
-      "image": "Trait_Icon_17_NOVA.TFT_Set17.png",
+      "id": "chi_huy",
+      "name": "Chỉ Huy",
+      "image": "Trait_Icon_17_Commander.TFT_Set17.png",
       "description_icon": [],
       "description_detail": [
         [
+          "1",
+          "Sona ban cho bạn một Lệnh Chỉ Huy ngẫu nhiên mỗi 2 vòng",
+          "giúp bạn thay đổi cách mà 1 đồng minh hành động trong giao tranh. Các Lệnh Chỉ Huy tồn tại trong 2 giao tranh người chơi ngay cả khi chúng không được trang bị."
+        ]
+      ],
+      "champions": [
+        {
+          "id": "sona",
+          "name": "Sona",
+          "image": "tft17_sona.tft_set17.png"
+        }
+      ],
+      "average_position": "3.86",
+      "top_4_rate": "60.73",
+      "top_1_rate": "19.38",
+      "battle": "960",
+      "trait": "Hệ",
+      "kich_hoat": "1"
+    },
+    {
+      "stt": 28,
+      "id": "vien_chinh",
+      "name": "Viễn Chinh",
+      "image": "Trait_Icon_17_Voyager.TFT_Set17.png",
+      "description_icon": [
+        "Bắt đầu giao tranh: Tướng Đỡ Đòn của bạn nhận được Lá Chắn trong 15 giây. Các đồng minh khác của bạn nhận được Khuếch Đại Sát Thương.",
+        "\n",
+        "\n",
+        "Tướng Viễn Chinh nhận gấp đôi.",
+        "\n"
+      ],
+      "description_detail": [
+        [
           "2",
-          "6 giây sau khi bắt đầu giao tranh",
-          "tướng N.O.V.A. trao đột phá sức mạnh cho đồng minh tùy theo tướng."
+          "175 Lá Chắn; 9%",
+          "DA.png"
+        ],
+        [
+          "3",
+          "250 Lá Chắn; 15%",
+          "DA.png"
+        ],
+        [
+          "4",
+          "350 Lá Chắn; 18%",
+          "DA.png"
         ],
         [
           "5",
-          "Nhận 1 bộ chọn Tiến Công. Tướng N.O.V.A. được chọn sẽ kích hoạt Tiến Công của họ trong khi đột phá sức mạnh."
+          "500 Lá Chắn; 22%",
+          "DA.png"
+        ],
+        [
+          "6",
+          "700 Lá Chắn; 27%",
+          "DA.png"
         ]
       ],
-      "champions": [],
-      "average_position": "3.97",
-      "top_4_rate": "61.84",
-      "top_1_rate": "12.11",
-      "battle": "27,174",
-      "trait": "Tộc",
-      "kich_hoat": "5"
+      "champions": [
+        {
+          "id": "pyke",
+          "name": "Pyke",
+          "image": "tft17_pyke.tft_set17.png"
+        },
+        {
+          "id": "meepsie",
+          "name": "Meepsie",
+          "image": "tft17_ivernminion.tft_set17.png"
+        },
+        {
+          "id": "aurora",
+          "name": "Aurora",
+          "image": "tft17_aurora.tft_set17.png"
+        },
+        {
+          "id": "karma",
+          "name": "Karma",
+          "image": "tft17_karma.tft_set17.png"
+        },
+        {
+          "id": "robot",
+          "name": "Robot",
+          "image": "tft17_galio.tft_set17.png"
+        }
+      ],
+      "average_position": "4.03",
+      "top_4_rate": "60.49",
+      "top_1_rate": "14.88",
+      "battle": "410",
+      "trait": "Hệ",
+      "kich_hoat": "3"
     },
     {
       "stt": 29,
@@ -16555,11 +17029,37 @@
           "mỗi ô"
         ]
       ],
-      "champions": [],
-      "average_position": "3.78",
-      "top_4_rate": "61.75",
-      "top_1_rate": "26.46",
-      "battle": "41,810",
+      "champions": [
+        {
+          "id": "ezreal",
+          "name": "Ezreal",
+          "image": "tft17_ezreal.tft_set17.png"
+        },
+        {
+          "id": "gnar",
+          "name": "Gnar",
+          "image": "tft17_gnar.tft_set17.png"
+        },
+        {
+          "id": "samira",
+          "name": "Samira",
+          "image": "tft17_samira.tft_set17.png"
+        },
+        {
+          "id": "xayah",
+          "name": "Xayah",
+          "image": "tft17_xayah.tft_set17.png"
+        },
+        {
+          "id": "jhin",
+          "name": "Jhin",
+          "image": "tft17_jhin.tft_set17.png"
+        }
+      ],
+      "average_position": "3.94",
+      "top_4_rate": "60.14",
+      "top_1_rate": "18.84",
+      "battle": "414",
       "trait": "Hệ",
       "kich_hoat": "3"
     },
@@ -16618,506 +17118,15 @@
         ]
       ],
       "champions": [],
-      "average_position": "3.88",
-      "top_4_rate": "61.33",
-      "top_1_rate": "21.00",
-      "battle": "481",
+      "average_position": "4.07",
+      "top_4_rate": "59.89",
+      "top_1_rate": "13.74",
+      "battle": "182",
       "trait": "Tộc",
-      "kich_hoat": "6"
+      "kich_hoat": "3"
     },
     {
       "stt": 31,
-      "id": "vien_chinh",
-      "name": "Viễn Chinh",
-      "image": "Trait_Icon_17_Voyager.TFT_Set17.png",
-      "description_icon": [
-        "Bắt đầu giao tranh: Tướng Đỡ Đòn của bạn nhận được Lá Chắn trong 15 giây. Các đồng minh khác của bạn nhận được Khuếch Đại Sát Thương.",
-        "\n",
-        "\n",
-        "Tướng Viễn Chinh nhận gấp đôi.",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "2",
-          "175 Lá Chắn; 9%",
-          "DA.png"
-        ],
-        [
-          "3",
-          "250 Lá Chắn; 15%",
-          "DA.png"
-        ],
-        [
-          "4",
-          "350 Lá Chắn; 18%",
-          "DA.png"
-        ],
-        [
-          "5",
-          "500 Lá Chắn; 22%",
-          "DA.png"
-        ],
-        [
-          "6",
-          "700 Lá Chắn; 27%",
-          "DA.png"
-        ]
-      ],
-      "champions": [],
-      "average_position": "3.95",
-      "top_4_rate": "60.92",
-      "top_1_rate": "15.76",
-      "battle": "5,824",
-      "trait": "Hệ",
-      "kich_hoat": "4"
-    },
-    {
-      "stt": 32,
-      "id": "chien_luy",
-      "name": "Chiến Lũy",
-      "image": "Trait_Icon_17_Bulwark.TFT_Set17.png",
-      "description_icon": [
-        "Triệu hồi một di vật có thể đặt. Khi bắt đầu giao tranh, nó trao cho các đồng minh liền kề một lá chắn bằng 10% Máu tối đa và 10% Tốc Độ Đánh."
-      ],
-      "description_detail": [],
-      "champions": [],
-      "average_position": "3.93",
-      "top_4_rate": "60.81",
-      "top_1_rate": "19.64",
-      "battle": "105,482",
-      "trait": "Tộc",
-      "kich_hoat": "1"
-    },
-    {
-      "stt": 33,
-      "id": "chi_huy",
-      "name": "Chỉ Huy",
-      "image": "Trait_Icon_17_Commander.TFT_Set17.png",
-      "description_icon": [],
-      "description_detail": [
-        [
-          "1",
-          "Sona ban cho bạn một Lệnh Chỉ Huy ngẫu nhiên mỗi 2 vòng",
-          "giúp bạn thay đổi cách mà 1 đồng minh hành động trong giao tranh. Các Lệnh Chỉ Huy tồn tại trong 2 giao tranh người chơi ngay cả khi chúng không được trang bị."
-        ]
-      ],
-      "champions": [],
-      "average_position": "3.92",
-      "top_4_rate": "60.78",
-      "top_1_rate": "19.59",
-      "battle": "62,508",
-      "trait": "Hệ",
-      "kich_hoat": "1"
-    },
-    {
-      "stt": 34,
-      "id": "du_muc",
-      "name": "Du Mục",
-      "image": "Trait_Icon_17_Shepherd.TFT_Set17.png",
-      "description_icon": [
-        "Tướng Du Mục triệu hồi Liên Kết Tinh Tú để hỗ trợ họ trong giao tranh.",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "3",
-          "Triệu hồi Bia"
-        ],
-        [
-          "5",
-          "Triệu hồi Bayin"
-        ],
-        [
-          "7",
-          "Liên kết giữa Bia và Bayin trở nên sâu sắc hơn"
-        ]
-      ],
-      "champions": [],
-      "average_position": "3.97",
-      "top_4_rate": "60.46",
-      "top_1_rate": "14.58",
-      "battle": "6,687",
-      "trait": "Hệ",
-      "kich_hoat": "5"
-    },
-    {
-      "stt": 35,
-      "id": "chiem_tinh_(ngon_nui)",
-      "name": "Chiêm Tinh (Ngọn Núi)",
-      "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
-      "description_icon": [
-        "Trận này, tướng Chiêm Tinh dệt nên chòm sao: Ngọn Núi",
-        "\n",
-        "Mỗi 5 giao tranh người chơi, nhận 1 Ấn Chiêm Tinh. Tướng Chiêm Tinh trên ô cường hóa nhận thêm chỉ số.",
-        "\n",
-        "(Giao Tranh Còn Lại: ?)"
-      ],
-      "description_detail": [
-        [
-          "3",
-          "Nhận 15% Máu"
-        ],
-        [
-          "4",
-          "VÀ 15% Sức Mạnh Công Kích và Sức Mạnh Phép Thuật"
-        ],
-        [
-          "5",
-          "VÀ 10 Giáp & Kháng Phép"
-        ],
-        [
-          "6",
-          "VÀ 10% Tốc Độ Đánh"
-        ],
-        [
-          "7",
-          "VÀ 6% Chống Chịu"
-        ],
-        [
-          "8",
-          "VÀ các chỉ số thưởng khác +10%"
-        ]
-      ],
-      "champions": [],
-      "average_position": "3.76",
-      "top_4_rate": "60.39",
-      "top_1_rate": "30.33",
-      "battle": "3,845",
-      "trait": "Tộc",
-      "kich_hoat": "5"
-    },
-    {
-      "stt": 36,
-      "id": "vo_phap",
-      "name": "Vô Pháp",
-      "image": "Trait_Icon_17_Rogue.TFT_Set17.png",
-      "description_icon": [
-        "Tướng Vô Pháp nhận thêm Sức Mạnh Công Kích và Sức Mạnh Phép Thuật. Lần đầu tiên khi xuống dưới 50% máu, họ sẽ trốn vào trong bóng tối. Kẻ địch đang nhắm vào họ sẽ chuyển hướng sang một đơn vị ở gần, ưu tiên tướng Đỡ Đòn.",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "2",
-          "12%",
-          "AD.png",
-          "AP.png"
-        ],
-        [
-          "3",
-          "25%",
-          "AD.png",
-          "AP.png"
-        ],
-        [
-          "4",
-          "40%",
-          "AD.png",
-          "AP.png"
-        ],
-        [
-          "5",
-          "55%",
-          "AD.png",
-          "AP.png"
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.02",
-      "top_4_rate": "60.29",
-      "top_1_rate": "13.45",
-      "battle": "14,696",
-      "trait": "Hệ",
-      "kich_hoat": "3"
-    },
-    {
-      "stt": 37,
-      "id": "dan_truyen",
-      "name": "Dẫn Truyền",
-      "image": "Trait_Icon_17_Channeler.TFT_Set17.png",
-      "description_icon": [
-        "Thiên Phú: Tướng Dẫn Truyền nhận thêm 20% Năng Lượng từ mọi nguồn.",
-        "\n",
-        "\n",
-        "Đội của bạn được tăng Hồi Năng Lượng, tướng Dẫn Truyền nhận được nhiều hơn.",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "2",
-          "1",
-          "manaregen.png",
-          "| 3",
-          "manaregen.png"
-        ],
-        [
-          "3",
-          "1",
-          "manaregen.png",
-          "| 5",
-          "manaregen.png"
-        ],
-        [
-          "4",
-          "2",
-          "manaregen.png",
-          "| 7",
-          "manaregen.png"
-        ],
-        [
-          "5",
-          "3",
-          "manaregen.png",
-          "| 9",
-          "manaregen.png"
-        ]
-      ],
-      "champions": [],
-      "average_position": "3.94",
-      "top_4_rate": "60.17",
-      "top_1_rate": "18.43",
-      "battle": "163,562",
-      "trait": "Hệ",
-      "kich_hoat": "2"
-    },
-    {
-      "stt": 38,
-      "id": "thach_dau",
-      "name": "Thách Đấu",
-      "image": "Trait_Icon_17_Challenger.TFT_Set17.png",
-      "description_icon": [
-        "Đội của bạn nhận 10% Tốc Độ Đánh. Tướng Thách Đấu nhận Tốc Độ Đánh cộng thêm. Khi mục tiêu của họ bị hạ, tướng Thách Đấu lướt tới mục tiêu mới và tăng 50% lượng Tốc Độ Đánh cộng thêm trong 2.5 giây.",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "2",
-          "15%",
-          "AS.png"
-        ],
-        [
-          "3",
-          "22%",
-          "AS.png"
-        ],
-        [
-          "4",
-          "40%",
-          "AS.png"
-        ],
-        [
-          "5",
-          "55%",
-          "AS.png"
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.06",
-      "top_4_rate": "59.77",
-      "top_1_rate": "11.89",
-      "battle": "52,089",
-      "trait": "Hệ",
-      "kich_hoat": "2"
-    },
-    {
-      "stt": 39,
-      "id": "vien_chinh",
-      "name": "Viễn Chinh",
-      "image": "Trait_Icon_17_Voyager.TFT_Set17.png",
-      "description_icon": [
-        "Bắt đầu giao tranh: Tướng Đỡ Đòn của bạn nhận được Lá Chắn trong 15 giây. Các đồng minh khác của bạn nhận được Khuếch Đại Sát Thương.",
-        "\n",
-        "\n",
-        "Tướng Viễn Chinh nhận gấp đôi.",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "2",
-          "175 Lá Chắn; 9%",
-          "DA.png"
-        ],
-        [
-          "3",
-          "250 Lá Chắn; 15%",
-          "DA.png"
-        ],
-        [
-          "4",
-          "350 Lá Chắn; 18%",
-          "DA.png"
-        ],
-        [
-          "5",
-          "500 Lá Chắn; 22%",
-          "DA.png"
-        ],
-        [
-          "6",
-          "700 Lá Chắn; 27%",
-          "DA.png"
-        ]
-      ],
-      "champions": [],
-      "average_position": "3.99",
-      "top_4_rate": "59.67",
-      "top_1_rate": "17.41",
-      "battle": "27,703",
-      "trait": "Hệ",
-      "kich_hoat": "3"
-    },
-    {
-      "stt": 40,
-      "id": "chuoc_toi",
-      "name": "Chuộc Tội",
-      "image": "Trait_Icon_17_Redeemer.TFT_Set17.png",
-      "description_icon": [],
-      "description_detail": [
-        [
-          "1",
-          "Với mỗi tộc/hệ không phải duy nhất bạn đang kích hoạt",
-          "đội của bạn nhận được 2%/3%/3% Tốc Độ Đánh",
-          "2/2.5/3 Giáp và Kháng Phép."
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.01",
-      "top_4_rate": "59.63",
-      "top_1_rate": "16.57",
-      "battle": "167,646",
-      "trait": "Tộc",
-      "kich_hoat": "1"
-    },
-    {
-      "stt": 41,
-      "id": "toc_thuong_co",
-      "name": "Tộc Thượng Cổ",
-      "image": "Trait_Icon_17_Primordian.TFT_Set17.png",
-      "description_icon": [],
-      "description_detail": [
-        [
-          "2",
-          "Gây sát thương sẽ sinh ra Bầy Đàn Hiểm Họa dựa trên cấp sao độc nhất của tướng Tộc Thượng Cổ."
-        ],
-        [
-          "3",
-          "Sinh ra thêm 45% Bầy Đàn! Sau mỗi giao tranh người chơi",
-          "nhận 1 tướng 1 vàng hoặc 2 vàng ngẫu nhiên."
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.09",
-      "top_4_rate": "59.51",
-      "top_1_rate": "10.48",
-      "battle": "41,011",
-      "trait": "Tộc",
-      "kich_hoat": "3"
-    },
-    {
-      "stt": 42,
-      "id": "tiec_tung",
-      "name": "Tiệc Tùng",
-      "image": "Trait_Icon_17_PartyAnimal.TFT_Set17.png",
-      "description_icon": [
-        "Một lần mỗi giao tranh khi xuống dưới 45% Máu, trở nên không thể bị chọn mục tiêu và tự sửa chữa để hồi 15% Máu tối đa mỗi giây. Khi hồi đầy Máu, hoặc khi không còn đồng minh nào khác, quay trở lại giao tranh. Nếu được hồi đầy máu, trong phần còn lại của giao tranh, Blitzcrank sẽ ở trạng thái Space Groove và nội tại của Kẻ Phá Tiệc sẽ bắn tia nhanh gấp bốn lần."
-      ],
-      "description_detail": [],
-      "champions": [],
-      "average_position": "3.99",
-      "top_4_rate": "59.22",
-      "top_1_rate": "19.28",
-      "battle": "135,317",
-      "trait": "Hệ",
-      "kich_hoat": "1"
-    },
-    {
-      "stt": 43,
-      "id": "sieu_linh",
-      "name": "Siêu Linh",
-      "image": "Trait_Icon_17_PsyOps.TFT_Set17.png",
-      "description_icon": [
-        "Nhận trang bị Siêu Linh có thể lắp cho bất kỳ đồng minh nào.",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "2",
-          "Nhận ?"
-        ],
-        [
-          "4",
-          "Nhận ?",
-          "trang bị Siêu Linh sẽ có thêm hiệu ứng trên các tướng Siêu Linh"
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.05",
-      "top_4_rate": "59.2",
-      "top_1_rate": "13.66",
-      "battle": "70,640",
-      "trait": "Tộc",
-      "kich_hoat": "2"
-    },
-    {
-      "stt": 44,
-      "id": "nhan_ban",
-      "name": "Nhân Bản",
-      "image": "Trait_Icon_17_Replicator.TFT_Set17.png",
-      "description_icon": [
-        "Kỹ năng của tướng Nhân Bản kích hoạt lần hai với hiệu lực giảm bớt.",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "2",
-          "22% sức mạnh"
-        ],
-        [
-          "4",
-          "45% sức mạnh"
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.05",
-      "top_4_rate": "59.12",
-      "top_1_rate": "14.47",
-      "battle": "107,268",
-      "trait": "Hệ",
-      "kich_hoat": "2"
-    },
-    {
-      "stt": 45,
-      "id": "du_muc",
-      "name": "Du Mục",
-      "image": "Trait_Icon_17_Shepherd.TFT_Set17.png",
-      "description_icon": [
-        "Tướng Du Mục triệu hồi Liên Kết Tinh Tú để hỗ trợ họ trong giao tranh.",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "3",
-          "Triệu hồi Bia"
-        ],
-        [
-          "5",
-          "Triệu hồi Bayin"
-        ],
-        [
-          "7",
-          "Liên kết giữa Bia và Bayin trở nên sâu sắc hơn"
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.05",
-      "top_4_rate": "58.77",
-      "top_1_rate": "13.76",
-      "battle": "129,692",
-      "trait": "Hệ",
-      "kich_hoat": "3"
-    },
-    {
-      "stt": 46,
       "id": "toan_cuop",
       "name": "Toán Cướp",
       "image": "Trait_Icon_16_Slayer.png",
@@ -17152,56 +17161,125 @@
           "."
         ]
       ],
-      "champions": [],
-      "average_position": "4.09",
-      "top_4_rate": "58.74",
-      "top_1_rate": "13.01",
-      "battle": "16,131",
+      "champions": [
+        {
+          "id": "bel'veth",
+          "name": "Bel'Veth",
+          "image": "tft17_belveth.tft_set17.png"
+        },
+        {
+          "id": "akali",
+          "name": "Akali",
+          "image": "tft17_akali.tft_set17.png"
+        },
+        {
+          "id": "urgot",
+          "name": "Urgot",
+          "image": "tft17_urgot.tft_set17.png"
+        },
+        {
+          "id": "master_yi",
+          "name": "Master Yi",
+          "image": "tft17_masteryi.tft_set17.png"
+        },
+        {
+          "id": "fiora",
+          "name": "Fiora",
+          "image": "tft17_fiora.tft_set17.png"
+        }
+      ],
+      "average_position": "3.95",
+      "top_4_rate": "59.79",
+      "top_1_rate": "15.26",
+      "battle": "485",
       "trait": "Hệ",
       "kich_hoat": "4"
     },
     {
-      "stt": 47,
-      "id": "hac_tinh",
-      "name": "Hắc Tinh",
-      "image": "Trait_Icon_17_DarkStar.TFT_Set17.png",
+      "stt": 32,
+      "id": "tiec_tung",
+      "name": "Tiệc Tùng",
+      "image": "Trait_Icon_17_PartyAnimal.TFT_Set17.png",
       "description_icon": [
-        "Dark Star units create a black hole that devours enemies below 10% max Health. The higher the trait tier, the stronger the black hole becomes."
+        "Một lần mỗi giao tranh khi xuống dưới 45% Máu, trở nên không thể bị chọn mục tiêu và tự sửa chữa để hồi 15% Máu tối đa mỗi giây. Khi hồi đầy Máu, hoặc khi không còn đồng minh nào khác, quay trở lại giao tranh. Nếu được hồi đầy máu, trong phần còn lại của giao tranh, Blitzcrank sẽ ở trạng thái Space Groove và nội tại của Kẻ Phá Tiệc sẽ bắn tia nhanh gấp bốn lần."
+      ],
+      "description_detail": [],
+      "champions": [
+        {
+          "id": "blitzcrank",
+          "name": "Blitzcrank",
+          "image": "tft17_blitzcrank.tft_set17.png"
+        }
+      ],
+      "average_position": "3.98",
+      "top_4_rate": "59.42",
+      "top_1_rate": "18.35",
+      "battle": "1,597",
+      "trait": "Hệ",
+      "kich_hoat": "1"
+    },
+    {
+      "stt": 33,
+      "id": "thach_dau",
+      "name": "Thách Đấu",
+      "image": "Trait_Icon_17_Challenger.TFT_Set17.png",
+      "description_icon": [
+        "Đội của bạn nhận 10% Tốc Độ Đánh. Tướng Thách Đấu nhận Tốc Độ Đánh cộng thêm. Khi mục tiêu của họ bị hạ, tướng Thách Đấu lướt tới mục tiêu mới và tăng 50% lượng Tốc Độ Đánh cộng thêm trong 2.5 giây.",
+        "\n"
       ],
       "description_detail": [
         [
           "2",
-          "Tướng Hắc Tinh triệu hồi một hố đen nuốt chửng kẻ địch khi chúng còn dưới 8% máu tối đa."
+          "15%",
+          "AS.png"
+        ],
+        [
+          "3",
+          "22%",
+          "AS.png"
         ],
         [
           "4",
-          "VÀ họ nhận được 45%",
-          "AD.png",
-          "AP.png",
-          "."
+          "40%",
+          "AS.png"
         ],
         [
-          "6",
-          "VÀ tướng Hắc Tinh mạnh nhất hóa siêu khổng lồ",
-          "nhận thêm 85% hiệu ứng từ Hắc Tinh",
-          "đồng thời tạo ra 2 Hố Đen Vũ Trụ nhỏ."
-        ],
-        [
-          "9",
-          "Tất cả tướng Hắc Tinh sẽ hóa siêu khổng lồ. Ở cấp 10",
-          "NUỐT CHỬNG TẤT CẢ."
+          "5",
+          "55%",
+          "AS.png"
         ]
       ],
-      "champions": [],
-      "average_position": "4.03",
-      "top_4_rate": "58.66",
-      "top_1_rate": "16.95",
-      "battle": "231,477",
-      "trait": "Tộc",
+      "champions": [
+        {
+          "id": "bel'veth",
+          "name": "Bel'Veth",
+          "image": "tft17_belveth.tft_set17.png"
+        },
+        {
+          "id": "jinx",
+          "name": "Jinx",
+          "image": "tft17_jinx.tft_set17.png"
+        },
+        {
+          "id": "diana",
+          "name": "Diana",
+          "image": "tft17_diana_teamplanner_splash.tft_set17.png"
+        },
+        {
+          "id": "kindred",
+          "name": "Kindred",
+          "image": "tft17_kindred.tft_set17.png"
+        }
+      ],
+      "average_position": "4.11",
+      "top_4_rate": "59.13",
+      "top_1_rate": "13.80",
+      "battle": "964",
+      "trait": "Hệ",
       "kich_hoat": "2"
     },
     {
-      "stt": 48,
+      "stt": 34,
       "id": "chiem_tinh_(cu_xa)",
       "name": "Chiêm Tinh (Cự Xà)",
       "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
@@ -17234,259 +17312,217 @@
         ]
       ],
       "champions": [],
-      "average_position": "4.02",
-      "top_4_rate": "58.36",
-      "top_1_rate": "19.29",
-      "battle": "18,215",
+      "average_position": "4.13",
+      "top_4_rate": "59.02",
+      "top_1_rate": "17.56",
+      "battle": "205",
       "trait": "Tộc",
       "kich_hoat": "3"
     },
     {
-      "stt": 49,
-      "id": "hac_tinh",
-      "name": "Hắc Tinh",
-      "image": "Trait_Icon_17_DarkStar.TFT_Set17.png",
+      "stt": 35,
+      "id": "n.o.v.a.",
+      "name": "N.O.V.A.",
+      "image": "Trait_Icon_17_NOVA.TFT_Set17.png",
+      "description_icon": [],
+      "description_detail": [
+        [
+          "2",
+          "6 giây sau khi bắt đầu giao tranh",
+          "tướng N.O.V.A. trao đột phá sức mạnh cho đồng minh tùy theo tướng."
+        ],
+        [
+          "5",
+          "Nhận 1 bộ chọn Tiến Công. Tướng N.O.V.A. được chọn sẽ kích hoạt Tiến Công của họ trong khi đột phá sức mạnh."
+        ]
+      ],
+      "champions": [
+        {
+          "id": "aatrox",
+          "name": "Aatrox",
+          "image": "tft17_aatrox.tft_set17.png"
+        },
+        {
+          "id": "caitlyn",
+          "name": "Caitlyn",
+          "image": "tft17_caitlyn.tft_set17.png"
+        },
+        {
+          "id": "akali",
+          "name": "Akali",
+          "image": "tft17_akali.tft_set17.png"
+        },
+        {
+          "id": "maokai",
+          "name": "Maokai",
+          "image": "tft17_maokai.tft_set17.png"
+        },
+        {
+          "id": "kindred",
+          "name": "Kindred",
+          "image": "tft17_kindred.tft_set17.png"
+        }
+      ],
+      "average_position": "4.06",
+      "top_4_rate": "58.71",
+      "top_1_rate": "12.94",
+      "battle": "402",
+      "trait": "Tộc",
+      "kich_hoat": "5"
+    },
+    {
+      "stt": 36,
+      "id": "can_truong",
+      "name": "Can Trường",
+      "image": "Trait_Icon_9_Bastion.png",
       "description_icon": [
-        "Dark Star units create a black hole that devours enemies below 10% max Health. The higher the trait tier, the stronger the black hole becomes."
+        "Đội của bạn nhận 15 Giáp và Kháng Phép.",
+        "\n",
+        "\n",
+        "Tướng Can Trường nhận được nhiều hơn, và giá trị tăng gấp đôi trong 10 giây đầu của giao tranh.",
+        "\n"
       ],
       "description_detail": [
         [
           "2",
-          "Tướng Hắc Tinh triệu hồi một hố đen nuốt chửng kẻ địch khi chúng còn dưới 8% máu tối đa."
+          "16",
+          "Armor.png",
+          "MR.png"
         ],
         [
           "4",
-          "VÀ họ nhận được 45%",
-          "AD.png",
-          "AP.png",
+          "40",
+          "Armor.png",
+          "MR.png"
+        ],
+        [
+          "6",
+          "60",
+          "Armor.png",
+          "MR.png",
+          "; Tướng không phải Can Trường nhận thêm 20",
+          "Armor.png",
+          "MR.png",
           "."
-        ],
-        [
-          "6",
-          "VÀ tướng Hắc Tinh mạnh nhất hóa siêu khổng lồ",
-          "nhận thêm 85% hiệu ứng từ Hắc Tinh",
-          "đồng thời tạo ra 2 Hố Đen Vũ Trụ nhỏ."
-        ],
-        [
-          "9",
-          "Tất cả tướng Hắc Tinh sẽ hóa siêu khổng lồ. Ở cấp 10",
-          "NUỐT CHỬNG TẤT CẢ."
         ]
       ],
-      "champions": [],
-      "average_position": "4.07",
-      "top_4_rate": "57.6",
-      "top_1_rate": "15.82",
-      "battle": "16,879",
-      "trait": "Tộc",
-      "kich_hoat": "6"
-    },
-    {
-      "stt": 50,
-      "id": "chiem_tinh_(den_tho)",
-      "name": "Chiêm Tinh (Đền Thờ)",
-      "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
-      "description_icon": [
-        "Trận này, tướng Chiêm Tinh dệt nên chòm sao: Đền Thờ."
+      "champions": [
+        {
+          "id": "poppy",
+          "name": "Poppy",
+          "image": "tft17_poppy.tft_set17.png"
+        },
+        {
+          "id": "aatrox",
+          "name": "Aatrox",
+          "image": "tft17_aatrox.tft_set17.png"
+        },
+        {
+          "id": "jax",
+          "name": "Jax",
+          "image": "tft17_jax.tft_set17.png"
+        },
+        {
+          "id": "ornn",
+          "name": "Ornn",
+          "image": "tft17_ornn.tft_set17.png"
+        },
+        {
+          "id": "rammus",
+          "name": "Rammus",
+          "image": "tft17_rammus.tft_set17.png"
+        },
+        {
+          "id": "shen",
+          "name": "Shen",
+          "image": "tft17_shen.tft_set17.png"
+        }
       ],
-      "description_detail": [
-        [
-          "3",
-          "Khi BẤT KỲ tướng nào bị hạ gục",
-          "họ được hiến tế cho Đền Thờ. Đồng minh đứng trên ô cường hóa nhận thêm 8% Máu và 8% Tốc Độ Đánh.Sau 60 lần hiến tế",
-          "các tướng Chiêm Tinh ở ô cường hóa nhận thêm 20%",
-          "Health.png",
-          "và 18%",
-          "AS.png",
-          "Hiến tế: (? / 60)"
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.08",
-      "top_4_rate": "57.45",
-      "top_1_rate": "19.67",
-      "battle": "18,186",
-      "trait": "Tộc",
-      "kich_hoat": "3"
-    },
-    {
-      "stt": 51,
-      "id": "chiem_tinh_(heo_rung)",
-      "name": "Chiêm Tinh (Heo Rừng)",
-      "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
-      "description_icon": [
-        "Trận này, tướng Chiêm Tinh dệt nên chòm sao: Heo Rừng.",
-        "\n",
-        "Nhận vàng khi thắng giao tranh người chơi. Đồng minh trên ô cường hóa nhận thêm 8% Máu, Sức Mạnh Công Kích và Sức Mạnh Phép Thuật. Tướng Chiêm Tinh nhận nhiều hơn.",
-        "\n",
-        "(Vàng Kiếm Được: ?)"
-      ],
-      "description_detail": [
-        [
-          "3",
-          "1 vàng",
-          "2%",
-          "Health.png",
-          "",
-          "10%",
-          "AD.png",
-          "AP.png"
-        ],
-        [
-          "4",
-          "2 vàng",
-          "8%",
-          "Health.png",
-          "",
-          "15%",
-          "AD.png",
-          "AP.png"
-        ],
-        [
-          "5",
-          "4 vàng",
-          "15%",
-          "Health.png",
-          "",
-          "25%",
-          "AD.png",
-          "AP.png"
-        ],
-        [
-          "6",
-          "6 vàng",
-          "22%",
-          "Health.png",
-          "",
-          "30%",
-          "AD.png",
-          "AP.png"
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.13",
-      "top_4_rate": "56.56",
-      "top_1_rate": "15.21",
-      "battle": "1,814",
-      "trait": "Tộc",
+      "average_position": "4.04",
+      "top_4_rate": "58.33",
+      "top_1_rate": "12.88",
+      "battle": "132",
+      "trait": "Hệ",
       "kich_hoat": "4"
     },
     {
-      "stt": 52,
-      "id": "tinh_linh_chuong",
-      "name": "Tinh Linh Chuông",
-      "image": "Trait_Icon_17_Astronaut.TFT_Set17.png",
+      "stt": 37,
+      "id": "hanh_tinh",
+      "name": "Hành Tinh",
+      "image": "Trait_Icon_17_SpaceGroove.TFT_Set17.png",
       "description_icon": [
-        "Tướng Tinh Linh Chuông sẽ thu hút Meep đến gia hộ kỹ năng của họ theo cách riêng. Họ còn được nhận Máu cộng thêm."
+        "Space Groove units can enter the Groove state. While in Groove, their bonuses scale with the number of Space Groove allies and grow stronger at higher trait tiers."
       ],
       "description_detail": [
         [
+          "1",
+          "Khi các tướng Hành Tinh tiến vào trạng thái Space Groove",
+          "họ nhận Tốc Độ Đánh và hồi Máu tối đa",
+          "tăng theo mỗi tướng Hành Tinh trong đội."
+        ],
+        [
           "3",
-          "2",
-          "AMP.png",
-          "",
-          "100",
-          "Health.png"
+          "Tất cả tướng Hành Tinh bắt đầu giao tranh ở trạng thái Space Groove trong 3 giây."
         ],
         [
           "5",
-          "3",
-          "AMP.png",
-          "",
-          "400",
-          "Health.png"
+          "Mỗi giây trong trạng thái Space Groove trao 5% Sức Mạnh Công Kích và Sức Mạnh Phép Thuật cộng dồn."
         ],
         [
           "7",
-          "4",
-          "AMP.png",
-          "",
-          "400",
-          "Health.png",
-          ". Tạo ra một Ô Nhân Bản trên hàng dự bị của bạn. Nhận vàng và 1 bản sao 1 sao của vị tướng được đặt trên đó khi quá trình nhân bản hoàn tất."
+          "Tăng hiệu ứng thêm 10%!"
         ],
         [
           "10",
-          "6",
-          "AMP.png",
-          "",
-          "500",
-          "Health.png",
-          ". TRIỆU HỒI TỨ ĐẠI MEEP CHÚA!"
+          "{{TFT17_SpaceGroove_Groove}}"
         ]
       ],
-      "champions": [],
-      "average_position": "4.09",
-      "top_4_rate": "56.54",
-      "top_1_rate": "19.93",
-      "battle": "70,642",
+      "champions": [
+        {
+          "id": "teemo",
+          "name": "Teemo",
+          "image": "tft17_teemo.tft_set17.png"
+        },
+        {
+          "id": "nasus",
+          "name": "Nasus",
+          "image": "tft17_nasus.tft_set17.png"
+        },
+        {
+          "id": "gwen",
+          "name": "Gwen",
+          "image": "tft17_gwen.tft_set17.png"
+        },
+        {
+          "id": "samira",
+          "name": "Samira",
+          "image": "tft17_samira.tft_set17.png"
+        },
+        {
+          "id": "ornn",
+          "name": "Ornn",
+          "image": "tft17_ornn.tft_set17.png"
+        },
+        {
+          "id": "nami",
+          "name": "Nami",
+          "image": "tft17_nami.tft_set17.png"
+        },
+        {
+          "id": "blitzcrank",
+          "name": "Blitzcrank",
+          "image": "tft17_blitzcrank.tft_set17.png"
+        }
+      ],
+      "average_position": "4.27",
+      "top_4_rate": "57.58",
+      "top_1_rate": "9.09",
+      "battle": "33",
       "trait": "Tộc",
-      "kich_hoat": "3"
+      "kich_hoat": "7"
     },
     {
-      "stt": 53,
-      "id": "chiem_tinh_(heo_rung)",
-      "name": "Chiêm Tinh (Heo Rừng)",
-      "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
-      "description_icon": [
-        "Trận này, tướng Chiêm Tinh dệt nên chòm sao: Heo Rừng.",
-        "\n",
-        "Nhận vàng khi thắng giao tranh người chơi. Đồng minh trên ô cường hóa nhận thêm 8% Máu, Sức Mạnh Công Kích và Sức Mạnh Phép Thuật. Tướng Chiêm Tinh nhận nhiều hơn.",
-        "\n",
-        "(Vàng Kiếm Được: ?)"
-      ],
-      "description_detail": [
-        [
-          "3",
-          "1 vàng",
-          "2%",
-          "Health.png",
-          "",
-          "10%",
-          "AD.png",
-          "AP.png"
-        ],
-        [
-          "4",
-          "2 vàng",
-          "8%",
-          "Health.png",
-          "",
-          "15%",
-          "AD.png",
-          "AP.png"
-        ],
-        [
-          "5",
-          "4 vàng",
-          "15%",
-          "Health.png",
-          "",
-          "25%",
-          "AD.png",
-          "AP.png"
-        ],
-        [
-          "6",
-          "6 vàng",
-          "22%",
-          "Health.png",
-          "",
-          "30%",
-          "AD.png",
-          "AP.png"
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.12",
-      "top_4_rate": "56.41",
-      "top_1_rate": "19.58",
-      "battle": "16,062",
-      "trait": "Tộc",
-      "kich_hoat": "3"
-    },
-    {
-      "stt": 54,
+      "stt": 38,
       "id": "vo_phap",
       "name": "Vô Pháp",
       "image": "Trait_Icon_17_Rogue.TFT_Set17.png",
@@ -17520,158 +17556,47 @@
           "AP.png"
         ]
       ],
-      "champions": [],
-      "average_position": "4.22",
-      "top_4_rate": "55.81",
-      "top_1_rate": "13.27",
-      "battle": "107,084",
+      "champions": [
+        {
+          "id": "briar",
+          "name": "Briar",
+          "image": "tft17_briar.tft_set17.png"
+        },
+        {
+          "id": "talon",
+          "name": "Talon",
+          "image": "tft17_talon.tft_set17.png"
+        },
+        {
+          "id": "gwen",
+          "name": "Gwen",
+          "image": "tft17_gwen.tft_set17.png"
+        },
+        {
+          "id": "fizz",
+          "name": "Fizz",
+          "image": "tft17_fizz.tft_set17.png"
+        },
+        {
+          "id": "kai'sa",
+          "name": "Kai'Sa",
+          "image": "tft17_kaisa.tft_set17.png"
+        },
+        {
+          "id": "riven",
+          "name": "Riven",
+          "image": "tft17_riven.tft_set17.png"
+        }
+      ],
+      "average_position": "4.17",
+      "top_4_rate": "57.44",
+      "top_1_rate": "14.40",
+      "battle": "1,687",
       "trait": "Hệ",
       "kich_hoat": "2"
     },
     {
-      "stt": 55,
-      "id": "can_truong",
-      "name": "Can Trường",
-      "image": "Trait_Icon_9_Bastion.png",
-      "description_icon": [
-        "Đội của bạn nhận 15 Giáp và Kháng Phép.",
-        "\n",
-        "\n",
-        "Tướng Can Trường nhận được nhiều hơn, và giá trị tăng gấp đôi trong 10 giây đầu của giao tranh.",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "2",
-          "16",
-          "Armor.png",
-          "MR.png"
-        ],
-        [
-          "4",
-          "40",
-          "Armor.png",
-          "MR.png"
-        ],
-        [
-          "6",
-          "60",
-          "Armor.png",
-          "MR.png",
-          "; Tướng không phải Can Trường nhận thêm 20",
-          "Armor.png",
-          "MR.png",
-          "."
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.19",
-      "top_4_rate": "55.62",
-      "top_1_rate": "14.52",
-      "battle": "10,096",
-      "trait": "Hệ",
-      "kich_hoat": "4"
-    },
-    {
-      "stt": 56,
-      "id": "song_dau",
-      "name": "Song Đấu",
-      "image": "Trait_Icon_17_DivineDuelist.TFT_Set17.png",
-      "description_icon": [
-        "Linh Thú của bạn hồi máu bằng 15% sát thương người chơi bạn gây ra khi chiến thắng.",
-        "\n"
-      ],
-      "description_detail": [],
-      "champions": [],
-      "average_position": "4.19",
-      "top_4_rate": "55.48",
-      "top_1_rate": "19.27",
-      "battle": "73,470",
-      "trait": "Hệ",
-      "kich_hoat": "1"
-    },
-    {
-      "stt": 57,
-      "id": "can_truong",
-      "name": "Can Trường",
-      "image": "Trait_Icon_9_Bastion.png",
-      "description_icon": [
-        "Đội của bạn nhận 15 Giáp và Kháng Phép.",
-        "\n",
-        "\n",
-        "Tướng Can Trường nhận được nhiều hơn, và giá trị tăng gấp đôi trong 10 giây đầu của giao tranh.",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "2",
-          "16",
-          "Armor.png",
-          "MR.png"
-        ],
-        [
-          "4",
-          "40",
-          "Armor.png",
-          "MR.png"
-        ],
-        [
-          "6",
-          "60",
-          "Armor.png",
-          "MR.png",
-          "; Tướng không phải Can Trường nhận thêm 20",
-          "Armor.png",
-          "MR.png",
-          "."
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.27",
-      "top_4_rate": "55.42",
-      "top_1_rate": "9.02",
-      "battle": "1,209",
-      "trait": "Hệ",
-      "kich_hoat": "6"
-    },
-    {
-      "stt": 58,
-      "id": "tien_phong",
-      "name": "Tiên Phong",
-      "image": "Trait_Icon_12_Vanguard.TFT_Set12.png",
-      "description_icon": [
-        "Tướng Tiên Phong được tăng 5% Chống Chịu khi có Lá Chắn.",
-        "\n",
-        "\n",
-        "Bắt đầu giao tranh và khi còn 50% Máu: Nhận một Lá Chắn theo Máu tối đa trong 10 giây.",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "2",
-          "16% Máu tối đa"
-        ],
-        [
-          "4",
-          "30% Máu tối đa"
-        ],
-        [
-          "6",
-          "40% Máu tối đa;8%",
-          "DR.png",
-          "khi có Lá Chắn"
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.21",
-      "top_4_rate": "55.16",
-      "top_1_rate": "14.05",
-      "battle": "72,029",
-      "trait": "Hệ",
-      "kich_hoat": "4"
-    },
-    {
-      "stt": 59,
+      "stt": 39,
       "id": "thoi_khong",
       "name": "Thời Không",
       "image": "Trait_Icon_17_Timebreaker.TFT_Set17.png",
@@ -17692,284 +17617,254 @@
           "VÀ Tướng Thời Không nhận thêm 50% Tốc Độ Đánh"
         ]
       ],
-      "champions": [],
-      "average_position": "4.21",
-      "top_4_rate": "55.11",
-      "top_1_rate": "16.03",
-      "battle": "10,520",
+      "champions": [
+        {
+          "id": "ezreal",
+          "name": "Ezreal",
+          "image": "tft17_ezreal.tft_set17.png"
+        },
+        {
+          "id": "milio",
+          "name": "Milio",
+          "image": "tft17_milio.tft_set17.png"
+        },
+        {
+          "id": "pantheon",
+          "name": "Pantheon",
+          "image": "tft17_pantheon.tft_set17.png"
+        },
+        {
+          "id": "riven",
+          "name": "Riven",
+          "image": "tft17_riven.tft_set17.png"
+        }
+      ],
+      "average_position": "4.12",
+      "top_4_rate": "57.31",
+      "top_1_rate": "20.75",
+      "battle": "424",
       "trait": "Tộc",
-      "kich_hoat": "3"
+      "kich_hoat": "4"
     },
     {
-      "stt": 60,
-      "id": "can_truong",
-      "name": "Can Trường",
-      "image": "Trait_Icon_9_Bastion.png",
+      "stt": 40,
+      "id": "thach_dau",
+      "name": "Thách Đấu",
+      "image": "Trait_Icon_17_Challenger.TFT_Set17.png",
       "description_icon": [
-        "Đội của bạn nhận 15 Giáp và Kháng Phép.",
-        "\n",
-        "\n",
-        "Tướng Can Trường nhận được nhiều hơn, và giá trị tăng gấp đôi trong 10 giây đầu của giao tranh.",
+        "Đội của bạn nhận 10% Tốc Độ Đánh. Tướng Thách Đấu nhận Tốc Độ Đánh cộng thêm. Khi mục tiêu của họ bị hạ, tướng Thách Đấu lướt tới mục tiêu mới và tăng 50% lượng Tốc Độ Đánh cộng thêm trong 2.5 giây.",
         "\n"
       ],
       "description_detail": [
         [
           "2",
-          "16",
-          "Armor.png",
-          "MR.png"
+          "15%",
+          "AS.png"
+        ],
+        [
+          "3",
+          "22%",
+          "AS.png"
         ],
         [
           "4",
-          "40",
-          "Armor.png",
-          "MR.png"
+          "40%",
+          "AS.png"
         ],
         [
-          "6",
-          "60",
-          "Armor.png",
-          "MR.png",
-          "; Tướng không phải Can Trường nhận thêm 20",
-          "Armor.png",
-          "MR.png",
-          "."
+          "5",
+          "55%",
+          "AS.png"
         ]
       ],
-      "champions": [],
-      "average_position": "4.21",
-      "top_4_rate": "55",
-      "top_1_rate": "17.06",
-      "battle": "238,371",
+      "champions": [
+        {
+          "id": "bel'veth",
+          "name": "Bel'Veth",
+          "image": "tft17_belveth.tft_set17.png"
+        },
+        {
+          "id": "jinx",
+          "name": "Jinx",
+          "image": "tft17_jinx.tft_set17.png"
+        },
+        {
+          "id": "diana",
+          "name": "Diana",
+          "image": "tft17_diana_teamplanner_splash.tft_set17.png"
+        },
+        {
+          "id": "kindred",
+          "name": "Kindred",
+          "image": "tft17_kindred.tft_set17.png"
+        }
+      ],
+      "average_position": "4.28",
+      "top_4_rate": "57.14",
+      "top_1_rate": "9.18",
+      "battle": "98",
       "trait": "Hệ",
+      "kich_hoat": "3"
+    },
+    {
+      "stt": 41,
+      "id": "thoi_khong",
+      "name": "Thời Không",
+      "image": "Trait_Icon_17_Timebreaker.TFT_Set17.png",
+      "description_icon": [],
+      "description_detail": [
+        [
+          "2",
+          "Đồng minh tăng 15% Tốc Độ Đánh."
+        ],
+        [
+          "3",
+          "VÀ Khi bạn thua",
+          "nhận lượt làm mới miễn phí. Khi bạn thắng",
+          "tích trữ XP trong một Lõi Thời Không (tăng theo giai đoạn)."
+        ],
+        [
+          "4",
+          "VÀ Tướng Thời Không nhận thêm 50% Tốc Độ Đánh"
+        ]
+      ],
+      "champions": [
+        {
+          "id": "ezreal",
+          "name": "Ezreal",
+          "image": "tft17_ezreal.tft_set17.png"
+        },
+        {
+          "id": "milio",
+          "name": "Milio",
+          "image": "tft17_milio.tft_set17.png"
+        },
+        {
+          "id": "pantheon",
+          "name": "Pantheon",
+          "image": "tft17_pantheon.tft_set17.png"
+        },
+        {
+          "id": "riven",
+          "name": "Riven",
+          "image": "tft17_riven.tft_set17.png"
+        }
+      ],
+      "average_position": "4.15",
+      "top_4_rate": "57.11",
+      "top_1_rate": "14.12",
+      "battle": "921",
+      "trait": "Tộc",
       "kich_hoat": "2"
     },
     {
-      "stt": 61,
-      "id": "tho_san_vu_tru",
-      "name": "Thợ Săn Vũ Trụ",
-      "image": "Trait_Icon_17_GalaxyHunter.TFT_Set17.png",
+      "stt": 42,
+      "id": "chuoc_toi",
+      "name": "Chuộc Tội",
+      "image": "Trait_Icon_17_Redeemer.TFT_Set17.png",
+      "description_icon": [],
+      "description_detail": [
+        [
+          "1",
+          "Với mỗi tộc/hệ không phải duy nhất bạn đang kích hoạt",
+          "đội của bạn nhận được 2%/3%/3% Tốc Độ Đánh",
+          "2/2.5/3 Giáp và Kháng Phép."
+        ]
+      ],
+      "champions": [
+        {
+          "id": "rhaast",
+          "name": "Rhaast",
+          "image": "tft17_kayn_slay.tft_set17.png"
+        }
+      ],
+      "average_position": "4.16",
+      "top_4_rate": "56.84",
+      "top_1_rate": "13.91",
+      "battle": "1,805",
+      "trait": "Tộc",
+      "kich_hoat": "1"
+    },
+    {
+      "stt": 43,
+      "id": "song_dau",
+      "name": "Song Đấu",
+      "image": "Trait_Icon_17_DivineDuelist.TFT_Set17.png",
       "description_icon": [
-        "Zed được nhận từ nâng cấp Zed Kẻ Xâm Lăng.",
+        "Linh Thú của bạn hồi máu bằng 15% sát thương người chơi bạn gây ra khi chiến thắng.",
         "\n"
       ],
       "description_detail": [],
-      "champions": [],
-      "average_position": "4.19",
-      "top_4_rate": "54.83",
-      "top_1_rate": "20.53",
-      "battle": "6,920",
+      "champions": [
+        {
+          "id": "fiora",
+          "name": "Fiora",
+          "image": "tft17_fiora.tft_set17.png"
+        }
+      ],
+      "average_position": "4.09",
+      "top_4_rate": "56.61",
+      "top_1_rate": "18.09",
+      "battle": "1,150",
       "trait": "Hệ",
       "kich_hoat": "1"
     },
     {
-      "stt": 62,
-      "id": "toan_cuop",
-      "name": "Toán Cướp",
-      "image": "Trait_Icon_16_Slayer.png",
+      "stt": 44,
+      "id": "sieu_linh",
+      "name": "Siêu Linh",
+      "image": "Trait_Icon_17_PsyOps.TFT_Set17.png",
       "description_icon": [
-        "Đội của bạn nhận 5% Hút Máu Toàn Phần. Tướng Toán Cướp nhận thêm Hút Máu Toàn Phần, Sức Mạnh Công Kích và lượng máu hồi vượt trội từ Hút Máu Toàn Phần sẽ được chuyển hóa thành Lá Chắn (tối đa 25% Máu tối đa.)",
+        "Nhận trang bị Siêu Linh có thể lắp cho bất kỳ đồng minh nào.",
         "\n"
       ],
       "description_detail": [
         [
           "2",
-          "5%",
-          "SV.png",
-          "",
-          "20%",
-          "AD.png"
+          "Nhận ?"
         ],
         [
           "4",
-          "7%",
-          "SV.png",
-          "",
-          "40%",
-          "AD.png"
-        ],
-        [
-          "6",
-          "10%",
-          "SV.png",
-          "",
-          "60%",
-          "AD.png",
-          "."
+          "Nhận ?",
+          "trang bị Siêu Linh sẽ có thêm hiệu ứng trên các tướng Siêu Linh"
         ]
       ],
-      "champions": [],
-      "average_position": "4.26",
-      "top_4_rate": "54.69",
-      "top_1_rate": "14.75",
-      "battle": "140,691",
-      "trait": "Hệ",
-      "kich_hoat": "2"
-    },
-    {
-      "stt": 63,
-      "id": "than_phan",
-      "name": "Thần Phán",
-      "image": "Trait_Icon_17_Arbiter.TFT_Set17.png",
-      "description_icon": [
-        "Viết ra một luật lệ thần thánh độc nhất, cho phép bạn chọn một hệ quả để áp dụng lên tướng Thần Phán khi nguyên nhân được chọn xảy ra.",
-        "\n"
+      "champions": [
+        {
+          "id": "pyke",
+          "name": "Pyke",
+          "image": "tft17_pyke.tft_set17.png"
+        },
+        {
+          "id": "gragas",
+          "name": "Gragas",
+          "image": "tft17_gragas.tft_set17.png"
+        },
+        {
+          "id": "viktor",
+          "name": "Viktor",
+          "image": "tft17_viktor.tft_set17.png"
+        },
+        {
+          "id": "master_yi",
+          "name": "Master Yi",
+          "image": "tft17_masteryi.tft_set17.png"
+        },
+        {
+          "id": "sona",
+          "name": "Sona",
+          "image": "tft17_sona.tft_set17.png"
+        }
       ],
-      "description_detail": [
-        [
-          "2",
-          "Chọn một nguyên nhân và hệ quả cho luật lệ của bạn"
-        ],
-        [
-          "3",
-          "Hệ quả sẽ mạnh hơn."
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.31",
-      "top_4_rate": "54.61",
-      "top_1_rate": "10.20",
-      "battle": "34,369",
+      "average_position": "4.21",
+      "top_4_rate": "56.43",
+      "top_1_rate": "11.86",
+      "battle": "902",
       "trait": "Tộc",
       "kich_hoat": "2"
     },
     {
-      "stt": 64,
-      "id": "vien_chinh",
-      "name": "Viễn Chinh",
-      "image": "Trait_Icon_17_Voyager.TFT_Set17.png",
-      "description_icon": [
-        "Bắt đầu giao tranh: Tướng Đỡ Đòn của bạn nhận được Lá Chắn trong 15 giây. Các đồng minh khác của bạn nhận được Khuếch Đại Sát Thương.",
-        "\n",
-        "\n",
-        "Tướng Viễn Chinh nhận gấp đôi.",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "2",
-          "175 Lá Chắn; 9%",
-          "DA.png"
-        ],
-        [
-          "3",
-          "250 Lá Chắn; 15%",
-          "DA.png"
-        ],
-        [
-          "4",
-          "350 Lá Chắn; 18%",
-          "DA.png"
-        ],
-        [
-          "5",
-          "500 Lá Chắn; 22%",
-          "DA.png"
-        ],
-        [
-          "6",
-          "700 Lá Chắn; 27%",
-          "DA.png"
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.26",
-      "top_4_rate": "54.56",
-      "top_1_rate": "14.26",
-      "battle": "166,865",
-      "trait": "Hệ",
-      "kich_hoat": "2"
-    },
-    {
-      "stt": 65,
-      "id": "chiem_tinh_(be_da_co)",
-      "name": "Chiêm Tinh (Bệ Đá Cổ)",
-      "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
-      "description_icon": [
-        "Tướng Chiêm Tinh dệt nên chòm sao khác nhau trong mỗi trận đấu. Trận này: Bệ Đá Cổ.",
-        "\n",
-        "\n",
-        "Đồng minh đứng trên ô cường hóa nhận 1 Hồi Năng Lượng. Tướng Chiêm Tinh đứng trên ô cường hóa sẽ nhận được nhiều hơn và hồi máu cho đồng minh thấp Máu nhất bằng kỹ năng của họ.",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "3",
-          "1",
-          "manaregen.png",
-          "",
-          "18% hồi máu từ sát thương kỹ năng"
-        ],
-        [
-          "5",
-          "5",
-          "manaregen.png",
-          "",
-          "25% hồi máu từ sát thương kỹ năng"
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.33",
-      "top_4_rate": "54.56",
-      "top_1_rate": "10.22",
-      "battle": "724",
-      "trait": "Tộc",
-      "kich_hoat": "5"
-    },
-    {
-      "stt": 66,
-      "id": "tinh_linh_chuong",
-      "name": "Tinh Linh Chuông",
-      "image": "Trait_Icon_17_Astronaut.TFT_Set17.png",
-      "description_icon": [
-        "Tướng Tinh Linh Chuông sẽ thu hút Meep đến gia hộ kỹ năng của họ theo cách riêng. Họ còn được nhận Máu cộng thêm."
-      ],
-      "description_detail": [
-        [
-          "3",
-          "2",
-          "AMP.png",
-          "",
-          "100",
-          "Health.png"
-        ],
-        [
-          "5",
-          "3",
-          "AMP.png",
-          "",
-          "400",
-          "Health.png"
-        ],
-        [
-          "7",
-          "4",
-          "AMP.png",
-          "",
-          "400",
-          "Health.png",
-          ". Tạo ra một Ô Nhân Bản trên hàng dự bị của bạn. Nhận vàng và 1 bản sao 1 sao của vị tướng được đặt trên đó khi quá trình nhân bản hoàn tất."
-        ],
-        [
-          "10",
-          "6",
-          "AMP.png",
-          "",
-          "500",
-          "Health.png",
-          ". TRIỆU HỒI TỨ ĐẠI MEEP CHÚA!"
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.23",
-      "top_4_rate": "54.44",
-      "top_1_rate": "13.22",
-      "battle": "14,002",
-      "trait": "Tộc",
-      "kich_hoat": "5"
-    },
-    {
-      "stt": 67,
+      "stt": 45,
       "id": "dan_truyen",
       "name": "Dẫn Truyền",
       "image": "Trait_Icon_17_Channeler.TFT_Set17.png",
@@ -18010,134 +17905,42 @@
           "manaregen.png"
         ]
       ],
-      "champions": [],
-      "average_position": "4.33",
-      "top_4_rate": "54.31",
-      "top_1_rate": "8.62",
-      "battle": "116",
+      "champions": [
+        {
+          "id": "zoe",
+          "name": "Zoe",
+          "image": "tft17_zoe.tft_set17.png"
+        },
+        {
+          "id": "mordekaiser",
+          "name": "Mordekaiser",
+          "image": "tft17_mordekaiser.tft_set17.png"
+        },
+        {
+          "id": "viktor",
+          "name": "Viktor",
+          "image": "tft17_viktor.tft_set17.png"
+        },
+        {
+          "id": "aurelion_sol",
+          "name": "Aurelion Sol",
+          "image": "tft17_aurelionsol.tft_set17.png"
+        },
+        {
+          "id": "bard",
+          "name": "Bard",
+          "image": "tft17_bard.tft_set17.png"
+        }
+      ],
+      "average_position": "4.16",
+      "top_4_rate": "55.92",
+      "top_1_rate": "15.51",
+      "battle": "1,747",
       "trait": "Hệ",
-      "kich_hoat": "5"
-    },
-    {
-      "stt": 68,
-      "id": "thoi_khong",
-      "name": "Thời Không",
-      "image": "Trait_Icon_17_Timebreaker.TFT_Set17.png",
-      "description_icon": [],
-      "description_detail": [
-        [
-          "2",
-          "Đồng minh tăng 15% Tốc Độ Đánh."
-        ],
-        [
-          "3",
-          "VÀ Khi bạn thua",
-          "nhận lượt làm mới miễn phí. Khi bạn thắng",
-          "tích trữ XP trong một Lõi Thời Không (tăng theo giai đoạn)."
-        ],
-        [
-          "4",
-          "VÀ Tướng Thời Không nhận thêm 50% Tốc Độ Đánh"
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.31",
-      "top_4_rate": "54.26",
-      "top_1_rate": "13.97",
-      "battle": "62,373",
-      "trait": "Tộc",
       "kich_hoat": "2"
     },
     {
-      "stt": 69,
-      "id": "n.o.v.a.",
-      "name": "N.O.V.A.",
-      "image": "Trait_Icon_17_NOVA.TFT_Set17.png",
-      "description_icon": [],
-      "description_detail": [
-        [
-          "2",
-          "6 giây sau khi bắt đầu giao tranh",
-          "tướng N.O.V.A. trao đột phá sức mạnh cho đồng minh tùy theo tướng."
-        ],
-        [
-          "5",
-          "Nhận 1 bộ chọn Tiến Công. Tướng N.O.V.A. được chọn sẽ kích hoạt Tiến Công của họ trong khi đột phá sức mạnh."
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.3",
-      "top_4_rate": "54.17",
-      "top_1_rate": "12.78",
-      "battle": "157,798",
-      "trait": "Tộc",
-      "kich_hoat": "2"
-    },
-    {
-      "stt": 70,
-      "id": "hanh_tinh",
-      "name": "Hành Tinh",
-      "image": "Trait_Icon_17_SpaceGroove.TFT_Set17.png",
-      "description_icon": [
-        "Space Groove units can enter the Groove state. While in Groove, their bonuses scale with the number of Space Groove allies and grow stronger at higher trait tiers."
-      ],
-      "description_detail": [
-        [
-          "1",
-          "Khi các tướng Hành Tinh tiến vào trạng thái Space Groove",
-          "họ nhận Tốc Độ Đánh và hồi Máu tối đa",
-          "tăng theo mỗi tướng Hành Tinh trong đội."
-        ],
-        [
-          "3",
-          "Tất cả tướng Hành Tinh bắt đầu giao tranh ở trạng thái Space Groove trong 3 giây."
-        ],
-        [
-          "5",
-          "Mỗi giây trong trạng thái Space Groove trao 5% Sức Mạnh Công Kích và Sức Mạnh Phép Thuật cộng dồn."
-        ],
-        [
-          "7",
-          "Tăng hiệu ứng thêm 10%!"
-        ],
-        [
-          "10",
-          "{{TFT17_SpaceGroove_Groove}}"
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.28",
-      "top_4_rate": "54.13",
-      "top_1_rate": "14.29",
-      "battle": "198,487",
-      "trait": "Tộc",
-      "kich_hoat": "1"
-    },
-    {
-      "stt": 71,
-      "id": "chiem_tinh_(huy_chuong)",
-      "name": "Chiêm Tinh (Huy Chương)",
-      "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
-      "description_icon": [
-        "Trận này, tướng Chiêm Tinh dệt nên chòm sao: Huy Chương."
-      ],
-      "description_detail": [
-        [
-          "3",
-          "Đồng minh trên ô cường hóa nhận 12% Khuếch Đại Sát Thương",
-          "tăng thêm 5% với mỗi tướng 3 sao."
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.29",
-      "top_4_rate": "53.72",
-      "top_1_rate": "16.56",
-      "battle": "21,632",
-      "trait": "Tộc",
-      "kich_hoat": "3"
-    },
-    {
-      "stt": 72,
+      "stt": 46,
       "id": "tien_phong",
       "name": "Tiên Phong",
       "image": "Trait_Icon_12_Vanguard.TFT_Set12.png",
@@ -18164,516 +17967,256 @@
           "khi có Lá Chắn"
         ]
       ],
-      "champions": [],
-      "average_position": "4.29",
-      "top_4_rate": "53.7",
-      "top_1_rate": "16.69",
-      "battle": "223,955",
+      "champions": [
+        {
+          "id": "nasus",
+          "name": "Nasus",
+          "image": "tft17_nasus.tft_set17.png"
+        },
+        {
+          "id": "leona",
+          "name": "Leona",
+          "image": "tft17_leona.tft_set17.png"
+        },
+        {
+          "id": "mordekaiser",
+          "name": "Mordekaiser",
+          "image": "tft17_mordekaiser.tft_set17.png"
+        },
+        {
+          "id": "illaoi",
+          "name": "Illaoi",
+          "image": "tft17_illaoi.tft_set17.png"
+        },
+        {
+          "id": "nunu_&_willump",
+          "name": "Nunu & Willump",
+          "image": "tft17_nunu.tft_set17.png"
+        },
+        {
+          "id": "blitzcrank",
+          "name": "Blitzcrank",
+          "image": "tft17_blitzcrank.tft_set17.png"
+        }
+      ],
+      "average_position": "4.18",
+      "top_4_rate": "55.61",
+      "top_1_rate": "13.37",
+      "battle": "1,025",
       "trait": "Hệ",
-      "kich_hoat": "2"
+      "kich_hoat": "4"
     },
     {
-      "stt": 73,
-      "id": "may_moc",
-      "name": "Máy Móc",
-      "image": "Trait_Icon_17_Mecha.TFT_Set17.png",
+      "stt": 47,
+      "id": "vien_chinh",
+      "name": "Viễn Chinh",
+      "image": "Trait_Icon_17_Voyager.TFT_Set17.png",
       "description_icon": [
-        "Thiên Phú: Các tướng Máy Móc có thể biến đổi thành dạng Tối Thượng, nâng cấp kỹ năng và nhận thêm 40% Máu. Tướng Máy Móc sau khi biến đổi sẽ chiếm 2 vị trí trong đội hình và được tính gấp đôi cho tộc/hệ Máy Móc.",
+        "Bắt đầu giao tranh: Tướng Đỡ Đòn của bạn nhận được Lá Chắn trong 15 giây. Các đồng minh khác của bạn nhận được Khuếch Đại Sát Thương.",
+        "\n",
+        "\n",
+        "Tướng Viễn Chinh nhận gấp đôi.",
         "\n"
       ],
       "description_detail": [
         [
+          "2",
+          "175 Lá Chắn; 9%",
+          "DA.png"
+        ],
+        [
           "3",
-          "Lõi Năng Lượng: Tướng Máy Móc nhận 25%",
+          "250 Lá Chắn; 15%",
+          "DA.png"
+        ],
+        [
+          "4",
+          "350 Lá Chắn; 18%",
+          "DA.png"
+        ],
+        [
+          "5",
+          "500 Lá Chắn; 22%",
+          "DA.png"
+        ],
+        [
+          "6",
+          "700 Lá Chắn; 27%",
+          "DA.png"
+        ]
+      ],
+      "champions": [
+        {
+          "id": "pyke",
+          "name": "Pyke",
+          "image": "tft17_pyke.tft_set17.png"
+        },
+        {
+          "id": "meepsie",
+          "name": "Meepsie",
+          "image": "tft17_ivernminion.tft_set17.png"
+        },
+        {
+          "id": "aurora",
+          "name": "Aurora",
+          "image": "tft17_aurora.tft_set17.png"
+        },
+        {
+          "id": "karma",
+          "name": "Karma",
+          "image": "tft17_karma.tft_set17.png"
+        },
+        {
+          "id": "robot",
+          "name": "Robot",
+          "image": "tft17_galio.tft_set17.png"
+        }
+      ],
+      "average_position": "4.33",
+      "top_4_rate": "55.56",
+      "top_1_rate": "11.11",
+      "battle": "9",
+      "trait": "Hệ",
+      "kich_hoat": "6"
+    },
+    {
+      "stt": 48,
+      "id": "hac_tinh",
+      "name": "Hắc Tinh",
+      "image": "Trait_Icon_17_DarkStar.TFT_Set17.png",
+      "description_icon": [
+        "Dark Star units create a black hole that devours enemies below 10% max Health. The higher the trait tier, the stronger the black hole becomes."
+      ],
+      "description_detail": [
+        [
+          "2",
+          "Tướng Hắc Tinh triệu hồi một hố đen nuốt chửng kẻ địch khi chúng còn",
+          "?%",
+          "8%",
+          "máu tối đa."
+        ],
+        [
+          "4",
+          "VÀ họ nhận được 45%",
           "AD.png",
           "AP.png",
           "."
         ],
         [
-          "4",
-          "Lõi Ép Xung: Tăng thành 45%",
-          "AD.png",
-          "AP.png",
-          "."
+          "6",
+          "VÀ tướng Hắc Tinh mạnh nhất hóa siêu khổng lồ",
+          "nhận thêm 85% hiệu ứng từ Hắc Tinh",
+          "đồng thời tạo ra 2 Hố Đen Vũ Trụ nhỏ."
         ],
         [
-          "6",
-          "Cơ Khí Chuẩn Xác: +1 số lượng tướng tối đa"
+          "9",
+          "Tất cả tướng Hắc Tinh sẽ hóa siêu khổng lồ. Ở cấp 10",
+          "NUỐT CHỬNG TẤT CẢ."
         ]
       ],
-      "champions": [],
-      "average_position": "4.28",
-      "top_4_rate": "53.4",
-      "top_1_rate": "20.59",
-      "battle": "26,174",
+      "champions": [
+        {
+          "id": "cho'gath",
+          "name": "Cho'Gath",
+          "image": "tft17_chogath.tft_set17.png"
+        },
+        {
+          "id": "lissandra",
+          "name": "Lissandra",
+          "image": "tft17_lissandra.tft_set17.png"
+        },
+        {
+          "id": "mordekaiser",
+          "name": "Mordekaiser",
+          "image": "tft17_mordekaiser.tft_set17.png"
+        },
+        {
+          "id": "kai'sa",
+          "name": "Kai'Sa",
+          "image": "tft17_kaisa.tft_set17.png"
+        },
+        {
+          "id": "karma",
+          "name": "Karma",
+          "image": "tft17_karma.tft_set17.png"
+        },
+        {
+          "id": "jhin",
+          "name": "Jhin",
+          "image": "tft17_jhin.tft_set17.png"
+        }
+      ],
+      "average_position": "4.2",
+      "top_4_rate": "55.44",
+      "top_1_rate": "14.43",
+      "battle": "2,987",
       "trait": "Tộc",
-      "kich_hoat": "6"
-    },
-    {
-      "stt": 74,
-      "id": "dau_si",
-      "name": "Đấu Sĩ",
-      "image": "Trait_Icon_Brawler.png",
-      "description_icon": [
-        "Đội của bạn nhận 5% Máu. Tướng Đấu Sĩ nhận được nhiều hơn.",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "2",
-          "+25% Máu tối đa"
-        ],
-        [
-          "4",
-          "+45% Máu tối đa"
-        ],
-        [
-          "6",
-          "+65% Máu tối đa"
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.34",
-      "top_4_rate": "53.29",
-      "top_1_rate": "13.88",
-      "battle": "190,577",
-      "trait": "Hệ",
       "kich_hoat": "2"
     },
     {
-      "stt": 75,
-      "id": "u_sau",
-      "name": "U Sầu",
-      "image": "Trait_Icon_17_Doomer.TFT_Set17.png",
+      "stt": 49,
+      "id": "du_muc",
+      "name": "Du Mục",
+      "image": "Trait_Icon_17_Shepherd.TFT_Set17.png",
       "description_icon": [
-        "Bắt đầu giao tranh: Đánh dấu Buồn Bực lên tất cả kẻ địch.",
-        "\n"
-      ],
-      "description_detail": [],
-      "champions": [],
-      "average_position": "4.28",
-      "top_4_rate": "53.26",
-      "top_1_rate": "17.28",
-      "battle": "72,407",
-      "trait": "Tộc",
-      "kich_hoat": "1"
-    },
-    {
-      "stt": 76,
-      "id": "thoi_khong",
-      "name": "Thời Không",
-      "image": "Trait_Icon_17_Timebreaker.TFT_Set17.png",
-      "description_icon": [],
-      "description_detail": [
-        [
-          "2",
-          "Đồng minh tăng 15% Tốc Độ Đánh."
-        ],
-        [
-          "3",
-          "VÀ Khi bạn thua",
-          "nhận lượt làm mới miễn phí. Khi bạn thắng",
-          "tích trữ XP trong một Lõi Thời Không (tăng theo giai đoạn)."
-        ],
-        [
-          "4",
-          "VÀ Tướng Thời Không nhận thêm 50% Tốc Độ Đánh"
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.25",
-      "top_4_rate": "52.95",
-      "top_1_rate": "15.78",
-      "battle": "7,954",
-      "trait": "Tộc",
-      "kich_hoat": "4"
-    },
-    {
-      "stt": 77,
-      "id": "than_phan",
-      "name": "Thần Phán",
-      "image": "Trait_Icon_17_Arbiter.TFT_Set17.png",
-      "description_icon": [
-        "Viết ra một luật lệ thần thánh độc nhất, cho phép bạn chọn một hệ quả để áp dụng lên tướng Thần Phán khi nguyên nhân được chọn xảy ra.",
+        "Tướng Du Mục triệu hồi Liên Kết Tinh Tú để hỗ trợ họ trong giao tranh.",
         "\n"
       ],
       "description_detail": [
         [
-          "2",
-          "Chọn một nguyên nhân và hệ quả cho luật lệ của bạn"
-        ],
-        [
           "3",
-          "Hệ quả sẽ mạnh hơn."
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.36",
-      "top_4_rate": "52.71",
-      "top_1_rate": "11.70",
-      "battle": "20,165",
-      "trait": "Tộc",
-      "kich_hoat": "3"
-    },
-    {
-      "stt": 78,
-      "id": "hanh_tinh",
-      "name": "Hành Tinh",
-      "image": "Trait_Icon_17_SpaceGroove.TFT_Set17.png",
-      "description_icon": [
-        "Space Groove units can enter the Groove state. While in Groove, their bonuses scale with the number of Space Groove allies and grow stronger at higher trait tiers."
-      ],
-      "description_detail": [
-        [
-          "1",
-          "Khi các tướng Hành Tinh tiến vào trạng thái Space Groove",
-          "họ nhận Tốc Độ Đánh và hồi Máu tối đa",
-          "tăng theo mỗi tướng Hành Tinh trong đội."
-        ],
-        [
-          "3",
-          "Tất cả tướng Hành Tinh bắt đầu giao tranh ở trạng thái Space Groove trong 3 giây."
+          "Triệu hồi Bia"
         ],
         [
           "5",
-          "Mỗi giây trong trạng thái Space Groove trao 5% Sức Mạnh Công Kích và Sức Mạnh Phép Thuật cộng dồn."
+          "Triệu hồi Bayin"
         ],
         [
           "7",
-          "Tăng hiệu ứng thêm 10%!"
-        ],
-        [
-          "10",
-          "{{TFT17_SpaceGroove_Groove}}"
+          "Liên kết giữa Bia và Bayin trở nên sâu sắc hơn"
         ]
       ],
-      "champions": [],
-      "average_position": "4.37",
-      "top_4_rate": "51.98",
-      "top_1_rate": "15.00",
-      "battle": "25,927",
-      "trait": "Tộc",
-      "kich_hoat": "5"
-    },
-    {
-      "stt": 79,
-      "id": "chiem_tinh_(nu_tho_san)",
-      "name": "Chiêm Tinh (Nữ Thợ Săn)",
-      "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
-      "description_icon": [
-        "Trận này, tướng Chiêm Tinh dệt nên chòm sao: Nữ Thợ Săn.",
-        "\n",
-        "Bắt đầu giao tranh: Đánh dấu kẻ địch có lượng Máu cao nhất.",
-        "\n",
-        "Đồng minh trên ô cường hóa nhận thêm 15% Tốc Độ Đánh. Tướng Chiêm Tinh trên ô cường hóa nhận được nhiều hơn và hồi máu bằng 15% Máu tối đa của họ khi một kẻ địch bị đánh dấu tử trận."
+      "champions": [
+        {
+          "id": "teemo",
+          "name": "Teemo",
+          "image": "tft17_teemo.tft_set17.png"
+        },
+        {
+          "id": "lissandra",
+          "name": "Lissandra",
+          "image": "tft17_lissandra.tft_set17.png"
+        },
+        {
+          "id": "meepsie",
+          "name": "Meepsie",
+          "image": "tft17_ivernminion.tft_set17.png"
+        },
+        {
+          "id": "illaoi",
+          "name": "Illaoi",
+          "image": "tft17_illaoi.tft_set17.png"
+        },
+        {
+          "id": "leblanc",
+          "name": "LeBlanc",
+          "image": "tft17_leblanc.tft_set17.png"
+        },
+        {
+          "id": "sona",
+          "name": "Sona",
+          "image": "tft17_sona.tft_set17.png"
+        }
       ],
-      "description_detail": [
-        [
-          "3",
-          "12%",
-          "AS.png",
-          "",
-          "3 đánh dấu"
-        ],
-        [
-          "5",
-          "35%",
-          "AS.png",
-          "",
-          "5 đánh dấu"
-        ],
-        [
-          "7",
-          "55%",
-          "AS.png",
-          "",
-          "7 đánh dấu"
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.35",
-      "top_4_rate": "51.93",
-      "top_1_rate": "16.53",
-      "battle": "14,734",
-      "trait": "Tộc",
-      "kich_hoat": "3"
-    },
-    {
-      "stt": 80,
-      "id": "thach_dau",
-      "name": "Thách Đấu",
-      "image": "Trait_Icon_17_Challenger.TFT_Set17.png",
-      "description_icon": [
-        "Đội của bạn nhận 10% Tốc Độ Đánh. Tướng Thách Đấu nhận Tốc Độ Đánh cộng thêm. Khi mục tiêu của họ bị hạ, tướng Thách Đấu lướt tới mục tiêu mới và tăng 50% lượng Tốc Độ Đánh cộng thêm trong 2.5 giây.",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "2",
-          "15%",
-          "AS.png"
-        ],
-        [
-          "3",
-          "22%",
-          "AS.png"
-        ],
-        [
-          "4",
-          "40%",
-          "AS.png"
-        ],
-        [
-          "5",
-          "55%",
-          "AS.png"
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.48",
-      "top_4_rate": "51.54",
-      "top_1_rate": "9.19",
-      "battle": "3,894",
+      "average_position": "4.24",
+      "top_4_rate": "54.9",
+      "top_1_rate": "12.89",
+      "battle": "1,583",
       "trait": "Hệ",
       "kich_hoat": "3"
     },
     {
-      "stt": 81,
-      "id": "tien_tri",
-      "name": "Tiên Tri",
-      "image": "Trait_Icon_12_Arcana.TFT_Set12.png",
-      "description_icon": [
-        "Mỗi 3 vòng, Tahm Kench sẽ cho 1 phần thưởng!",
-        "\n",
-        "\n",
-        "Số Vòng Còn Lại: ?"
-      ],
-      "description_detail": [],
-      "champions": [],
-      "average_position": "4.48",
-      "top_4_rate": "50.09",
-      "top_1_rate": "15.55",
-      "battle": "124,812",
-      "trait": "Tộc",
-      "kich_hoat": "1"
-    },
-    {
-      "stt": 82,
-      "id": "chiem_tinh_(nu_tho_san)",
-      "name": "Chiêm Tinh (Nữ Thợ Săn)",
-      "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
-      "description_icon": [
-        "Trận này, tướng Chiêm Tinh dệt nên chòm sao: Nữ Thợ Săn.",
-        "\n",
-        "Bắt đầu giao tranh: Đánh dấu kẻ địch có lượng Máu cao nhất.",
-        "\n",
-        "Đồng minh trên ô cường hóa nhận thêm 15% Tốc Độ Đánh. Tướng Chiêm Tinh trên ô cường hóa nhận được nhiều hơn và hồi máu bằng 15% Máu tối đa của họ khi một kẻ địch bị đánh dấu tử trận."
-      ],
-      "description_detail": [
-        [
-          "3",
-          "12%",
-          "AS.png",
-          "",
-          "3 đánh dấu"
-        ],
-        [
-          "5",
-          "35%",
-          "AS.png",
-          "",
-          "5 đánh dấu"
-        ],
-        [
-          "7",
-          "55%",
-          "AS.png",
-          "",
-          "7 đánh dấu"
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.83",
-      "top_4_rate": "50",
-      "top_1_rate": "4.69",
-      "battle": "64",
-      "trait": "Tộc",
-      "kich_hoat": "7"
-    },
-    {
-      "stt": 83,
-      "id": "dau_si",
-      "name": "Đấu Sĩ",
-      "image": "Trait_Icon_Brawler.png",
-      "description_icon": [
-        "Đội của bạn nhận 5% Máu. Tướng Đấu Sĩ nhận được nhiều hơn.",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "2",
-          "+25% Máu tối đa"
-        ],
-        [
-          "4",
-          "+45% Máu tối đa"
-        ],
-        [
-          "6",
-          "+65% Máu tối đa"
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.46",
-      "top_4_rate": "49.94",
-      "top_1_rate": "12.70",
-      "battle": "16,254",
-      "trait": "Hệ",
-      "kich_hoat": "4"
-    },
-    {
-      "stt": 84,
-      "id": "chiem_tinh_(ngon_nui)",
-      "name": "Chiêm Tinh (Ngọn Núi)",
-      "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
-      "description_icon": [
-        "Trận này, tướng Chiêm Tinh dệt nên chòm sao: Ngọn Núi",
-        "\n",
-        "Mỗi 5 giao tranh người chơi, nhận 1 Ấn Chiêm Tinh. Tướng Chiêm Tinh trên ô cường hóa nhận thêm chỉ số.",
-        "\n",
-        "(Giao Tranh Còn Lại: ?)"
-      ],
-      "description_detail": [
-        [
-          "3",
-          "Nhận 15% Máu"
-        ],
-        [
-          "4",
-          "VÀ 15% Sức Mạnh Công Kích và Sức Mạnh Phép Thuật"
-        ],
-        [
-          "5",
-          "VÀ 10 Giáp & Kháng Phép"
-        ],
-        [
-          "6",
-          "VÀ 10% Tốc Độ Đánh"
-        ],
-        [
-          "7",
-          "VÀ 6% Chống Chịu"
-        ],
-        [
-          "8",
-          "VÀ các chỉ số thưởng khác +10%"
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.43",
-      "top_4_rate": "49.18",
-      "top_1_rate": "14.08",
-      "battle": "3,225",
-      "trait": "Tộc",
-      "kich_hoat": "6"
-    },
-    {
-      "stt": 85,
-      "id": "dau_si",
-      "name": "Đấu Sĩ",
-      "image": "Trait_Icon_Brawler.png",
-      "description_icon": [
-        "Đội của bạn nhận 5% Máu. Tướng Đấu Sĩ nhận được nhiều hơn.",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "2",
-          "+25% Máu tối đa"
-        ],
-        [
-          "4",
-          "+45% Máu tối đa"
-        ],
-        [
-          "6",
-          "+65% Máu tối đa"
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.46",
-      "top_4_rate": "49.07",
-      "top_1_rate": "12.57",
-      "battle": "1,567",
-      "trait": "Hệ",
-      "kich_hoat": "6"
-    },
-    {
-      "stt": 86,
-      "id": "sieu_linh",
-      "name": "Siêu Linh",
-      "image": "Trait_Icon_17_PsyOps.TFT_Set17.png",
-      "description_icon": [
-        "Nhận trang bị Siêu Linh có thể lắp cho bất kỳ đồng minh nào.",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "2",
-          "Nhận ?"
-        ],
-        [
-          "4",
-          "Nhận ?",
-          "trang bị Siêu Linh sẽ có thêm hiệu ứng trên các tướng Siêu Linh"
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.55",
-      "top_4_rate": "48.8",
-      "top_1_rate": "8.40",
-      "battle": "6,168",
-      "trait": "Tộc",
-      "kich_hoat": "4"
-    },
-    {
-      "stt": 87,
-      "id": "chiem_tinh_(be_da_co)",
-      "name": "Chiêm Tinh (Bệ Đá Cổ)",
-      "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
-      "description_icon": [
-        "Tướng Chiêm Tinh dệt nên chòm sao khác nhau trong mỗi trận đấu. Trận này: Bệ Đá Cổ.",
-        "\n",
-        "\n",
-        "Đồng minh đứng trên ô cường hóa nhận 1 Hồi Năng Lượng. Tướng Chiêm Tinh đứng trên ô cường hóa sẽ nhận được nhiều hơn và hồi máu cho đồng minh thấp Máu nhất bằng kỹ năng của họ.",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "3",
-          "1",
-          "manaregen.png",
-          "",
-          "18% hồi máu từ sát thương kỹ năng"
-        ],
-        [
-          "5",
-          "5",
-          "manaregen.png",
-          "",
-          "25% hồi máu từ sát thương kỹ năng"
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.6",
-      "top_4_rate": "47.55",
-      "top_1_rate": "13.85",
-      "battle": "13,502",
-      "trait": "Tộc",
-      "kich_hoat": "3"
-    },
-    {
-      "stt": 88,
+      "stt": 50,
       "id": "ban_tia",
       "name": "Bắn Tỉa",
       "image": "Trait_Icon_6_Sniper.png",
@@ -18707,107 +18250,278 @@
           "mỗi ô"
         ]
       ],
-      "champions": [],
-      "average_position": "4.61",
-      "top_4_rate": "47.07",
-      "top_1_rate": "15.55",
-      "battle": "55,540",
+      "champions": [
+        {
+          "id": "ezreal",
+          "name": "Ezreal",
+          "image": "tft17_ezreal.tft_set17.png"
+        },
+        {
+          "id": "gnar",
+          "name": "Gnar",
+          "image": "tft17_gnar.tft_set17.png"
+        },
+        {
+          "id": "samira",
+          "name": "Samira",
+          "image": "tft17_samira.tft_set17.png"
+        },
+        {
+          "id": "xayah",
+          "name": "Xayah",
+          "image": "tft17_xayah.tft_set17.png"
+        },
+        {
+          "id": "jhin",
+          "name": "Jhin",
+          "image": "tft17_jhin.tft_set17.png"
+        }
+      ],
+      "average_position": "4.2",
+      "top_4_rate": "54.87",
+      "top_1_rate": "18.68",
+      "battle": "862",
       "trait": "Hệ",
       "kich_hoat": "2"
     },
     {
-      "stt": 89,
-      "id": "toi_tan",
-      "name": "Tối Tân",
-      "image": "Trait_Icon_17_FactoryNew.TFT_Set17.png",
+      "stt": 51,
+      "id": "can_truong",
+      "name": "Can Trường",
+      "image": "Trait_Icon_9_Bastion.png",
       "description_icon": [
-        "Sau khi tham gia giao tranh, mở 1 kho vũ khí để mua 1 nâng cấp vĩnh viễn cho Graves mạnh nhất của bạn.",
+        "Đội của bạn nhận 15 Giáp và Kháng Phép.",
         "\n",
         "\n",
-        "Cứ mỗi 3 nâng cấp, các nâng cấp trong tương lai sẽ lâu hơn một vòng.",
-        "\n"
-      ],
-      "description_detail": [],
-      "champions": [],
-      "average_position": "4.62",
-      "top_4_rate": "46.82",
-      "top_1_rate": "15.88",
-      "battle": "46,083",
-      "trait": "Tộc",
-      "kich_hoat": "1"
-    },
-    {
-      "stt": 90,
-      "id": "thach_dau",
-      "name": "Thách Đấu",
-      "image": "Trait_Icon_17_Challenger.TFT_Set17.png",
-      "description_icon": [
-        "Đội của bạn nhận 10% Tốc Độ Đánh. Tướng Thách Đấu nhận Tốc Độ Đánh cộng thêm. Khi mục tiêu của họ bị hạ, tướng Thách Đấu lướt tới mục tiêu mới và tăng 50% lượng Tốc Độ Đánh cộng thêm trong 2.5 giây.",
+        "Tướng Can Trường nhận được nhiều hơn, và giá trị tăng gấp đôi trong 10 giây đầu của giao tranh.",
         "\n"
       ],
       "description_detail": [
         [
           "2",
-          "15%",
-          "AS.png"
-        ],
-        [
-          "3",
-          "22%",
-          "AS.png"
+          "16",
+          "Armor.png",
+          "MR.png"
         ],
         [
           "4",
-          "40%",
-          "AS.png"
+          "40",
+          "Armor.png",
+          "MR.png"
         ],
         [
-          "5",
-          "55%",
-          "AS.png"
+          "6",
+          "60",
+          "Armor.png",
+          "MR.png",
+          "; Tướng không phải Can Trường nhận thêm 20",
+          "Armor.png",
+          "MR.png",
+          "."
         ]
       ],
-      "champions": [],
-      "average_position": "4.68",
-      "top_4_rate": "46.78",
-      "top_1_rate": "8.19",
-      "battle": "684",
+      "champions": [
+        {
+          "id": "poppy",
+          "name": "Poppy",
+          "image": "tft17_poppy.tft_set17.png"
+        },
+        {
+          "id": "aatrox",
+          "name": "Aatrox",
+          "image": "tft17_aatrox.tft_set17.png"
+        },
+        {
+          "id": "jax",
+          "name": "Jax",
+          "image": "tft17_jax.tft_set17.png"
+        },
+        {
+          "id": "ornn",
+          "name": "Ornn",
+          "image": "tft17_ornn.tft_set17.png"
+        },
+        {
+          "id": "rammus",
+          "name": "Rammus",
+          "image": "tft17_rammus.tft_set17.png"
+        },
+        {
+          "id": "shen",
+          "name": "Shen",
+          "image": "tft17_shen.tft_set17.png"
+        }
+      ],
+      "average_position": "4.24",
+      "top_4_rate": "54.84",
+      "top_1_rate": "15.27",
+      "battle": "2,934",
+      "trait": "Hệ",
+      "kich_hoat": "2"
+    },
+    {
+      "stt": 52,
+      "id": "toc_thuong_co",
+      "name": "Tộc Thượng Cổ",
+      "image": "Trait_Icon_17_Primordian.TFT_Set17.png",
+      "description_icon": [],
+      "description_detail": [
+        [
+          "2",
+          "Gây sát thương sẽ sinh ra Bầy Đàn Hiểm Họa dựa trên cấp sao độc nhất của tướng Tộc Thượng Cổ."
+        ],
+        [
+          "3",
+          "Sinh ra thêm 45% Bầy Đàn! Sau mỗi giao tranh người chơi",
+          "nhận 1 tướng 1 vàng hoặc 2 vàng ngẫu nhiên."
+        ]
+      ],
+      "champions": [
+        {
+          "id": "briar",
+          "name": "Briar",
+          "image": "tft17_briar.tft_set17.png"
+        },
+        {
+          "id": "rek'sai",
+          "name": "Rek'Sai",
+          "image": "tft17_reksai.tft_set17.png"
+        },
+        {
+          "id": "bel'veth",
+          "name": "Bel'Veth",
+          "image": "tft17_belveth.tft_set17.png"
+        }
+      ],
+      "average_position": "4.39",
+      "top_4_rate": "54.78",
+      "top_1_rate": "10.15",
+      "battle": "670",
+      "trait": "Tộc",
+      "kich_hoat": "3"
+    },
+    {
+      "stt": 53,
+      "id": "may_moc",
+      "name": "Máy Móc",
+      "image": "Trait_Icon_17_Mecha.TFT_Set17.png",
+      "description_icon": [
+        "Thiên Phú: Các tướng Máy Móc có thể biến đổi thành dạng Tối Thượng, nâng cấp kỹ năng và nhận thêm 40% Máu. Tướng Máy Móc sau khi biến đổi sẽ chiếm 2 vị trí trong đội hình và được tính gấp đôi cho tộc/hệ Máy Móc.",
+        "\n"
+      ],
+      "description_detail": [
+        [
+          "3",
+          "Lõi Năng Lượng: Tướng Máy Móc nhận 25%",
+          "AD.png",
+          "AP.png",
+          "."
+        ],
+        [
+          "4",
+          "Lõi Ép Xung: Tăng thành 45%",
+          "AD.png",
+          "AP.png",
+          "."
+        ],
+        [
+          "6",
+          "Cơ Khí Chuẩn Xác: +1 số lượng tướng tối đa"
+        ]
+      ],
+      "champions": [
+        {
+          "id": "urgot",
+          "name": "Urgot",
+          "image": "tft17_urgot.tft_set17.png"
+        },
+        {
+          "id": "aurelion_sol",
+          "name": "Aurelion Sol",
+          "image": "tft17_aurelionsol.tft_set17.png"
+        },
+        {
+          "id": "robot",
+          "name": "Robot",
+          "image": "tft17_galio.tft_set17.png"
+        }
+      ],
+      "average_position": "4.25",
+      "top_4_rate": "54.73",
+      "top_1_rate": "17.70",
+      "battle": "243",
+      "trait": "Tộc",
+      "kich_hoat": "6"
+    },
+    {
+      "stt": 54,
+      "id": "dau_si",
+      "name": "Đấu Sĩ",
+      "image": "Trait_Icon_Brawler.png",
+      "description_icon": [
+        "Đội của bạn nhận 5% Máu. Tướng Đấu Sĩ nhận được nhiều hơn.",
+        "\n"
+      ],
+      "description_detail": [
+        [
+          "2",
+          "+25% Máu tối đa"
+        ],
+        [
+          "4",
+          "+45% Máu tối đa"
+        ],
+        [
+          "6",
+          "+65% Máu tối đa"
+        ]
+      ],
+      "champions": [
+        {
+          "id": "cho'gath",
+          "name": "Cho'Gath",
+          "image": "tft17_chogath.tft_set17.png"
+        },
+        {
+          "id": "rek'sai",
+          "name": "Rek'Sai",
+          "image": "tft17_reksai.tft_set17.png"
+        },
+        {
+          "id": "gragas",
+          "name": "Gragas",
+          "image": "tft17_gragas.tft_set17.png"
+        },
+        {
+          "id": "pantheon",
+          "name": "Pantheon",
+          "image": "tft17_pantheon.tft_set17.png"
+        },
+        {
+          "id": "maokai",
+          "name": "Maokai",
+          "image": "tft17_maokai.tft_set17.png"
+        },
+        {
+          "id": "urgot",
+          "name": "Urgot",
+          "image": "tft17_urgot.tft_set17.png"
+        },
+        {
+          "id": "tahm_kench",
+          "name": "Tahm Kench",
+          "image": "tft17_tahmkench.tft_set17.png"
+        }
+      ],
+      "average_position": "4.26",
+      "top_4_rate": "54.71",
+      "top_1_rate": "15.63",
+      "battle": "806",
       "trait": "Hệ",
       "kich_hoat": "4"
     },
     {
-      "stt": 91,
-      "id": "dinh_menh",
-      "name": "Định Mệnh",
-      "image": "Trait_Icon_17_Fateweaver.TFT_Set17.png",
-      "description_icon": [
-        "Thiên Phú: Tướng Định Mệnh sở hữu Chuẩn Xác.",
-        "\n"
-      ],
-      "description_detail": [
-        [
-          "2",
-          "Các hiệu ứng theo xác suất trên kỹ năng sẽ được hưởng",
-          "May Mắn",
-          "."
-        ],
-        [
-          "4",
-          "Nhận 20% Tỉ Lệ Chí Mạng và 20% Sát Thương Chí Mạng. Đòn chí mạng cũng trở nên",
-          "May Mắn",
-          "."
-        ]
-      ],
-      "champions": [],
-      "average_position": "4.67",
-      "top_4_rate": "46.05",
-      "top_1_rate": "9.97",
-      "battle": "32,979",
-      "trait": "Hệ",
-      "kich_hoat": "2"
-    },
-    {
-      "stt": 92,
+      "stt": 55,
       "id": "tinh_linh_chuong",
       "name": "Tinh Linh Chuông",
       "image": "Trait_Icon_17_Astronaut.TFT_Set17.png",
@@ -18850,72 +18564,456 @@
           ". TRIỆU HỒI TỨ ĐẠI MEEP CHÚA!"
         ]
       ],
-      "champions": [],
-      "average_position": "4.58",
-      "top_4_rate": "45.6",
-      "top_1_rate": "17.55",
-      "battle": "12,407",
-      "trait": "Tộc",
-      "kich_hoat": "7"
-    },
-    {
-      "stt": 93,
-      "id": "xa_than",
-      "name": "Xạ Thần",
-      "image": "Trait_Icon_17_GunGoddess.TFT_Set17.png",
-      "description_icon": [
-        "Khi bạn triển khai Miss Fortune, chọn giữa Chế Độ Dẫn Truyền, Chế Độ Thách Đấu và Chế Độ Nhân Bản. Miss Fortune sẽ có kỹ năng riêng biệt tùy theo chế độ và nhận được tộc/hệ tương ứng."
+      "champions": [
+        {
+          "id": "poppy",
+          "name": "Poppy",
+          "image": "tft17_poppy.tft_set17.png"
+        },
+        {
+          "id": "veigar",
+          "name": "Veigar",
+          "image": "tft17_veigar.tft_set17.png"
+        },
+        {
+          "id": "gnar",
+          "name": "Gnar",
+          "image": "tft17_gnar.tft_set17.png"
+        },
+        {
+          "id": "meepsie",
+          "name": "Meepsie",
+          "image": "tft17_ivernminion.tft_set17.png"
+        },
+        {
+          "id": "fizz",
+          "name": "Fizz",
+          "image": "tft17_fizz.tft_set17.png"
+        },
+        {
+          "id": "rammus",
+          "name": "Rammus",
+          "image": "tft17_rammus.tft_set17.png"
+        },
+        {
+          "id": "corki",
+          "name": "Corki",
+          "image": "tft17_corki.tft_set17.png"
+        },
+        {
+          "id": "bard",
+          "name": "Bard",
+          "image": "tft17_bard.tft_set17.png"
+        }
       ],
-      "description_detail": [],
-      "champions": [],
-      "average_position": "4.76",
-      "top_4_rate": "45.25",
-      "top_1_rate": "8.81",
-      "battle": "5,922",
-      "trait": "Hệ",
-      "kich_hoat": "1"
+      "average_position": "4.3",
+      "top_4_rate": "54.48",
+      "top_1_rate": "12.90",
+      "battle": "279",
+      "trait": "Tộc",
+      "kich_hoat": "5"
     },
     {
-      "stt": 94,
-      "id": "thach_dau",
-      "name": "Thách Đấu",
-      "image": "Trait_Icon_17_Challenger.TFT_Set17.png",
+      "stt": 56,
+      "id": "n.o.v.a.",
+      "name": "N.O.V.A.",
+      "image": "Trait_Icon_17_NOVA.TFT_Set17.png",
+      "description_icon": [],
+      "description_detail": [
+        [
+          "2",
+          "6 giây sau khi bắt đầu giao tranh",
+          "tướng N.O.V.A. trao đột phá sức mạnh cho đồng minh tùy theo tướng."
+        ],
+        [
+          "5",
+          "Nhận 1 bộ chọn Tiến Công. Tướng N.O.V.A. được chọn sẽ kích hoạt Tiến Công của họ trong khi đột phá sức mạnh."
+        ]
+      ],
+      "champions": [
+        {
+          "id": "aatrox",
+          "name": "Aatrox",
+          "image": "tft17_aatrox.tft_set17.png"
+        },
+        {
+          "id": "caitlyn",
+          "name": "Caitlyn",
+          "image": "tft17_caitlyn.tft_set17.png"
+        },
+        {
+          "id": "akali",
+          "name": "Akali",
+          "image": "tft17_akali.tft_set17.png"
+        },
+        {
+          "id": "maokai",
+          "name": "Maokai",
+          "image": "tft17_maokai.tft_set17.png"
+        },
+        {
+          "id": "kindred",
+          "name": "Kindred",
+          "image": "tft17_kindred.tft_set17.png"
+        }
+      ],
+      "average_position": "4.3",
+      "top_4_rate": "54.46",
+      "top_1_rate": "13.38",
+      "battle": "2,534",
+      "trait": "Tộc",
+      "kich_hoat": "2"
+    },
+    {
+      "stt": 57,
+      "id": "nhan_ban",
+      "name": "Nhân Bản",
+      "image": "Trait_Icon_17_Replicator.TFT_Set17.png",
       "description_icon": [
-        "Đội của bạn nhận 10% Tốc Độ Đánh. Tướng Thách Đấu nhận Tốc Độ Đánh cộng thêm. Khi mục tiêu của họ bị hạ, tướng Thách Đấu lướt tới mục tiêu mới và tăng 50% lượng Tốc Độ Đánh cộng thêm trong 2.5 giây.",
+        "Kỹ năng của tướng Nhân Bản kích hoạt lần hai với hiệu lực giảm bớt.",
         "\n"
       ],
       "description_detail": [
         [
           "2",
-          "15%",
-          "AS.png"
+          "22% sức mạnh"
+        ],
+        [
+          "4",
+          "45% sức mạnh"
+        ]
+      ],
+      "champions": [
+        {
+          "id": "veigar",
+          "name": "Veigar",
+          "image": "tft17_veigar.tft_set17.png"
+        },
+        {
+          "id": "lissandra",
+          "name": "Lissandra",
+          "image": "tft17_lissandra.tft_set17.png"
+        },
+        {
+          "id": "pantheon",
+          "name": "Pantheon",
+          "image": "tft17_pantheon.tft_set17.png"
+        },
+        {
+          "id": "lulu",
+          "name": "Lulu",
+          "image": "tft17_lulu.tft_set17.png"
+        },
+        {
+          "id": "nami",
+          "name": "Nami",
+          "image": "tft17_nami.tft_set17.png"
+        }
+      ],
+      "average_position": "4.3",
+      "top_4_rate": "54.34",
+      "top_1_rate": "12.21",
+      "battle": "1,220",
+      "trait": "Hệ",
+      "kich_hoat": "2"
+    },
+    {
+      "stt": 58,
+      "id": "can_truong",
+      "name": "Can Trường",
+      "image": "Trait_Icon_9_Bastion.png",
+      "description_icon": [
+        "Đội của bạn nhận 15 Giáp và Kháng Phép.",
+        "\n",
+        "\n",
+        "Tướng Can Trường nhận được nhiều hơn, và giá trị tăng gấp đôi trong 10 giây đầu của giao tranh.",
+        "\n"
+      ],
+      "description_detail": [
+        [
+          "2",
+          "16",
+          "Armor.png",
+          "MR.png"
+        ],
+        [
+          "4",
+          "40",
+          "Armor.png",
+          "MR.png"
+        ],
+        [
+          "6",
+          "60",
+          "Armor.png",
+          "MR.png",
+          "; Tướng không phải Can Trường nhận thêm 20",
+          "Armor.png",
+          "MR.png",
+          "."
+        ]
+      ],
+      "champions": [
+        {
+          "id": "poppy",
+          "name": "Poppy",
+          "image": "tft17_poppy.tft_set17.png"
+        },
+        {
+          "id": "aatrox",
+          "name": "Aatrox",
+          "image": "tft17_aatrox.tft_set17.png"
+        },
+        {
+          "id": "jax",
+          "name": "Jax",
+          "image": "tft17_jax.tft_set17.png"
+        },
+        {
+          "id": "ornn",
+          "name": "Ornn",
+          "image": "tft17_ornn.tft_set17.png"
+        },
+        {
+          "id": "rammus",
+          "name": "Rammus",
+          "image": "tft17_rammus.tft_set17.png"
+        },
+        {
+          "id": "shen",
+          "name": "Shen",
+          "image": "tft17_shen.tft_set17.png"
+        }
+      ],
+      "average_position": "3.92",
+      "top_4_rate": "53.85",
+      "top_1_rate": "15.38",
+      "battle": "13",
+      "trait": "Hệ",
+      "kich_hoat": "6"
+    },
+    {
+      "stt": 59,
+      "id": "chiem_tinh_(ngon_nui)",
+      "name": "Chiêm Tinh (Ngọn Núi)",
+      "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
+      "description_icon": [
+        "Trận này, tướng Chiêm Tinh dệt nên chòm sao: Ngọn Núi",
+        "\n",
+        "Mỗi 5 giao tranh người chơi, nhận 1 Ấn Chiêm Tinh. Tướng Chiêm Tinh trên ô cường hóa nhận thêm chỉ số.",
+        "\n",
+        "(Giao Tranh Còn Lại: ?)"
+      ],
+      "description_detail": [
+        [
+          "3",
+          "Nhận 15% Máu"
+        ],
+        [
+          "4",
+          "VÀ 15% Sức Mạnh Công Kích và Sức Mạnh Phép Thuật"
+        ],
+        [
+          "5",
+          "VÀ 10 Giáp & Kháng Phép"
+        ],
+        [
+          "6",
+          "VÀ 10% Tốc Độ Đánh"
+        ],
+        [
+          "7",
+          "VÀ 6% Chống Chịu"
+        ],
+        [
+          "8",
+          "VÀ các chỉ số thưởng khác +10%"
+        ]
+      ],
+      "champions": [],
+      "average_position": "4.09",
+      "top_4_rate": "53.49",
+      "top_1_rate": "16.28",
+      "battle": "43",
+      "trait": "Tộc",
+      "kich_hoat": "5"
+    },
+    {
+      "stt": 60,
+      "id": "vo_phap",
+      "name": "Vô Pháp",
+      "image": "Trait_Icon_17_Rogue.TFT_Set17.png",
+      "description_icon": [
+        "Tướng Vô Pháp nhận thêm Sức Mạnh Công Kích và Sức Mạnh Phép Thuật. Lần đầu tiên khi xuống dưới 50% máu, họ sẽ trốn vào trong bóng tối. Kẻ địch đang nhắm vào họ sẽ chuyển hướng sang một đơn vị ở gần, ưu tiên tướng Đỡ Đòn.",
+        "\n"
+      ],
+      "description_detail": [
+        [
+          "2",
+          "12%",
+          "AD.png",
+          "AP.png"
         ],
         [
           "3",
-          "22%",
-          "AS.png"
+          "25%",
+          "AD.png",
+          "AP.png"
         ],
         [
           "4",
           "40%",
-          "AS.png"
+          "AD.png",
+          "AP.png"
         ],
         [
           "5",
           "55%",
-          "AS.png"
+          "AD.png",
+          "AP.png"
+        ]
+      ],
+      "champions": [
+        {
+          "id": "briar",
+          "name": "Briar",
+          "image": "tft17_briar.tft_set17.png"
+        },
+        {
+          "id": "talon",
+          "name": "Talon",
+          "image": "tft17_talon.tft_set17.png"
+        },
+        {
+          "id": "gwen",
+          "name": "Gwen",
+          "image": "tft17_gwen.tft_set17.png"
+        },
+        {
+          "id": "fizz",
+          "name": "Fizz",
+          "image": "tft17_fizz.tft_set17.png"
+        },
+        {
+          "id": "kai'sa",
+          "name": "Kai'Sa",
+          "image": "tft17_kaisa.tft_set17.png"
+        },
+        {
+          "id": "riven",
+          "name": "Riven",
+          "image": "tft17_riven.tft_set17.png"
+        }
+      ],
+      "average_position": "4.35",
+      "top_4_rate": "53.43",
+      "top_1_rate": "12.25",
+      "battle": "204",
+      "trait": "Hệ",
+      "kich_hoat": "3"
+    },
+    {
+      "stt": 61,
+      "id": "chiem_tinh_(ngon_nui)",
+      "name": "Chiêm Tinh (Ngọn Núi)",
+      "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
+      "description_icon": [
+        "Trận này, tướng Chiêm Tinh dệt nên chòm sao: Ngọn Núi",
+        "\n",
+        "Mỗi 5 giao tranh người chơi, nhận 1 Ấn Chiêm Tinh. Tướng Chiêm Tinh trên ô cường hóa nhận thêm chỉ số.",
+        "\n",
+        "(Giao Tranh Còn Lại: ?)"
+      ],
+      "description_detail": [
+        [
+          "3",
+          "Nhận 15% Máu"
+        ],
+        [
+          "4",
+          "VÀ 15% Sức Mạnh Công Kích và Sức Mạnh Phép Thuật"
+        ],
+        [
+          "5",
+          "VÀ 10 Giáp & Kháng Phép"
+        ],
+        [
+          "6",
+          "VÀ 10% Tốc Độ Đánh"
+        ],
+        [
+          "7",
+          "VÀ 6% Chống Chịu"
+        ],
+        [
+          "8",
+          "VÀ các chỉ số thưởng khác +10%"
         ]
       ],
       "champions": [],
-      "average_position": "4.73",
-      "top_4_rate": "43.93",
-      "top_1_rate": "8.52",
-      "battle": "305",
-      "trait": "Hệ",
-      "kich_hoat": "5"
+      "average_position": "4.22",
+      "top_4_rate": "53.33",
+      "top_1_rate": "20.00",
+      "battle": "45",
+      "trait": "Tộc",
+      "kich_hoat": "7"
     },
     {
-      "stt": 95,
+      "stt": 62,
+      "id": "chiem_tinh_(den_tho)",
+      "name": "Chiêm Tinh (Đền Thờ)",
+      "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
+      "description_icon": [
+        "Trận này, tướng Chiêm Tinh dệt nên chòm sao: Đền Thờ."
+      ],
+      "description_detail": [
+        [
+          "3",
+          "Khi BẤT KỲ tướng nào bị hạ gục",
+          "họ được hiến tế cho Đền Thờ. Đồng minh đứng trên ô cường hóa nhận thêm 8% Máu và 8% Tốc Độ Đánh.Sau 60 lần hiến tế",
+          "các tướng Chiêm Tinh ở ô cường hóa nhận thêm 20%",
+          "Health.png",
+          "và 18%",
+          "AS.png",
+          "Hiến tế: (? / 60)"
+        ]
+      ],
+      "champions": [],
+      "average_position": "4.23",
+      "top_4_rate": "52.89",
+      "top_1_rate": "16.53",
+      "battle": "242",
+      "trait": "Tộc",
+      "kich_hoat": "3"
+    },
+    {
+      "stt": 63,
+      "id": "tien_tri",
+      "name": "Tiên Tri",
+      "image": "Trait_Icon_12_Arcana.TFT_Set12.png",
+      "description_icon": [
+        "Mỗi 3 vòng, Tahm Kench sẽ cho 1 phần thưởng!",
+        "\n",
+        "\n",
+        "Số Vòng Còn Lại: ?"
+      ],
+      "description_detail": [],
+      "champions": [
+        {
+          "id": "tahm_kench",
+          "name": "Tahm Kench",
+          "image": "tft17_tahmkench.tft_set17.png"
+        }
+      ],
+      "average_position": "4.35",
+      "top_4_rate": "52.72",
+      "top_1_rate": "15.16",
+      "battle": "2,170",
+      "trait": "Tộc",
+      "kich_hoat": "1"
+    },
+    {
+      "stt": 64,
       "id": "chiem_tinh_(nu_tho_san)",
       "name": "Chiêm Tinh (Nữ Thợ Săn)",
       "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
@@ -18950,67 +19048,1201 @@
         ]
       ],
       "champions": [],
-      "average_position": "4.87",
-      "top_4_rate": "42.91",
-      "top_1_rate": "3.69",
-      "battle": "515",
+      "average_position": "4.39",
+      "top_4_rate": "52.57",
+      "top_1_rate": "11.43",
+      "battle": "175",
       "trait": "Tộc",
-      "kich_hoat": "5"
+      "kich_hoat": "3"
     },
     {
-      "stt": 96,
-      "id": "toc_thuong_co",
-      "name": "Tộc Thượng Cổ",
-      "image": "Trait_Icon_17_Primordian.TFT_Set17.png",
-      "description_icon": [],
+      "stt": 65,
+      "id": "chiem_tinh_(huy_chuong)",
+      "name": "Chiêm Tinh (Huy Chương)",
+      "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
+      "description_icon": [
+        "Trận này, tướng Chiêm Tinh dệt nên chòm sao: Huy Chương."
+      ],
       "description_detail": [
         [
-          "2",
-          "Gây sát thương sẽ sinh ra Bầy Đàn Hiểm Họa dựa trên cấp sao độc nhất của tướng Tộc Thượng Cổ."
-        ],
-        [
           "3",
-          "Sinh ra thêm 45% Bầy Đàn! Sau mỗi giao tranh người chơi",
-          "nhận 1 tướng 1 vàng hoặc 2 vàng ngẫu nhiên."
+          "Đồng minh trên ô cường hóa nhận 12% Khuếch Đại Sát Thương",
+          "tăng thêm 5% với mỗi tướng 3 sao."
         ]
       ],
       "champions": [],
-      "average_position": "5.08",
-      "top_4_rate": "42.4",
-      "top_1_rate": "8.51",
-      "battle": "2,363",
+      "average_position": "4.47",
+      "top_4_rate": "52.56",
+      "top_1_rate": "12.63",
+      "battle": "293",
       "trait": "Tộc",
-      "kich_hoat": "2"
+      "kich_hoat": "3"
     },
     {
-      "stt": 97,
-      "id": "nhan_ban",
-      "name": "Nhân Bản",
-      "image": "Trait_Icon_17_Replicator.TFT_Set17.png",
+      "stt": 66,
+      "id": "hanh_tinh",
+      "name": "Hành Tinh",
+      "image": "Trait_Icon_17_SpaceGroove.TFT_Set17.png",
       "description_icon": [
-        "Kỹ năng của tướng Nhân Bản kích hoạt lần hai với hiệu lực giảm bớt.",
+        "Space Groove units can enter the Groove state. While in Groove, their bonuses scale with the number of Space Groove allies and grow stronger at higher trait tiers."
+      ],
+      "description_detail": [
+        [
+          "1",
+          "Khi các tướng Hành Tinh tiến vào trạng thái Space Groove",
+          "họ nhận Tốc Độ Đánh và hồi Máu tối đa",
+          "tăng theo mỗi tướng Hành Tinh trong đội."
+        ],
+        [
+          "3",
+          "Tất cả tướng Hành Tinh bắt đầu giao tranh ở trạng thái Space Groove trong 3 giây."
+        ],
+        [
+          "5",
+          "Mỗi giây trong trạng thái Space Groove trao 5% Sức Mạnh Công Kích và Sức Mạnh Phép Thuật cộng dồn."
+        ],
+        [
+          "7",
+          "Tăng hiệu ứng thêm 10%!"
+        ],
+        [
+          "10",
+          "{{TFT17_SpaceGroove_Groove}}"
+        ]
+      ],
+      "champions": [
+        {
+          "id": "teemo",
+          "name": "Teemo",
+          "image": "tft17_teemo.tft_set17.png"
+        },
+        {
+          "id": "nasus",
+          "name": "Nasus",
+          "image": "tft17_nasus.tft_set17.png"
+        },
+        {
+          "id": "gwen",
+          "name": "Gwen",
+          "image": "tft17_gwen.tft_set17.png"
+        },
+        {
+          "id": "samira",
+          "name": "Samira",
+          "image": "tft17_samira.tft_set17.png"
+        },
+        {
+          "id": "ornn",
+          "name": "Ornn",
+          "image": "tft17_ornn.tft_set17.png"
+        },
+        {
+          "id": "nami",
+          "name": "Nami",
+          "image": "tft17_nami.tft_set17.png"
+        },
+        {
+          "id": "blitzcrank",
+          "name": "Blitzcrank",
+          "image": "tft17_blitzcrank.tft_set17.png"
+        }
+      ],
+      "average_position": "4.35",
+      "top_4_rate": "52.55",
+      "top_1_rate": "13.40",
+      "battle": "2,493",
+      "trait": "Tộc",
+      "kich_hoat": "1"
+    },
+    {
+      "stt": 67,
+      "id": "than_phan",
+      "name": "Thần Phán",
+      "image": "Trait_Icon_17_Arbiter.TFT_Set17.png",
+      "description_icon": [
+        "Viết ra một luật lệ thần thánh độc nhất, cho phép bạn chọn một hệ quả để áp dụng lên tướng Thần Phán khi nguyên nhân được chọn xảy ra.",
         "\n"
       ],
       "description_detail": [
         [
           "2",
-          "22% sức mạnh"
+          "Chọn một nguyên nhân và hệ quả cho luật lệ của bạn"
+        ],
+        [
+          "3",
+          "Hệ quả sẽ mạnh hơn."
+        ]
+      ],
+      "champions": [
+        {
+          "id": "leona",
+          "name": "Leona",
+          "image": "tft17_leona.tft_set17.png"
+        },
+        {
+          "id": "zoe",
+          "name": "Zoe",
+          "image": "tft17_zoe.tft_set17.png"
+        },
+        {
+          "id": "diana",
+          "name": "Diana",
+          "image": "tft17_diana_teamplanner_splash.tft_set17.png"
+        },
+        {
+          "id": "leblanc",
+          "name": "LeBlanc",
+          "image": "tft17_leblanc.tft_set17.png"
+        }
+      ],
+      "average_position": "4.43",
+      "top_4_rate": "52.24",
+      "top_1_rate": "13.18",
+      "battle": "402",
+      "trait": "Tộc",
+      "kich_hoat": "3"
+    },
+    {
+      "stt": 68,
+      "id": "toan_cuop",
+      "name": "Toán Cướp",
+      "image": "Trait_Icon_16_Slayer.png",
+      "description_icon": [
+        "Đội của bạn nhận 5% Hút Máu Toàn Phần. Tướng Toán Cướp nhận thêm Hút Máu Toàn Phần, Sức Mạnh Công Kích và lượng máu hồi vượt trội từ Hút Máu Toàn Phần sẽ được chuyển hóa thành Lá Chắn (tối đa 25% Máu tối đa.)",
+        "\n"
+      ],
+      "description_detail": [
+        [
+          "2",
+          "5%",
+          "SV.png",
+          "",
+          "20%",
+          "AD.png"
         ],
         [
           "4",
-          "45% sức mạnh"
+          "7%",
+          "SV.png",
+          "",
+          "40%",
+          "AD.png"
+        ],
+        [
+          "6",
+          "10%",
+          "SV.png",
+          "",
+          "60%",
+          "AD.png",
+          "."
         ]
       ],
-      "champions": [],
-      "average_position": "4.89",
-      "top_4_rate": "40.99",
-      "top_1_rate": "9.75",
-      "battle": "749",
+      "champions": [
+        {
+          "id": "bel'veth",
+          "name": "Bel'Veth",
+          "image": "tft17_belveth.tft_set17.png"
+        },
+        {
+          "id": "akali",
+          "name": "Akali",
+          "image": "tft17_akali.tft_set17.png"
+        },
+        {
+          "id": "urgot",
+          "name": "Urgot",
+          "image": "tft17_urgot.tft_set17.png"
+        },
+        {
+          "id": "master_yi",
+          "name": "Master Yi",
+          "image": "tft17_masteryi.tft_set17.png"
+        },
+        {
+          "id": "fiora",
+          "name": "Fiora",
+          "image": "tft17_fiora.tft_set17.png"
+        }
+      ],
+      "average_position": "4.41",
+      "top_4_rate": "51.82",
+      "top_1_rate": "13.31",
+      "battle": "1,924",
+      "trait": "Hệ",
+      "kich_hoat": "2"
+    },
+    {
+      "stt": 69,
+      "id": "vien_chinh",
+      "name": "Viễn Chinh",
+      "image": "Trait_Icon_17_Voyager.TFT_Set17.png",
+      "description_icon": [
+        "Bắt đầu giao tranh: Tướng Đỡ Đòn của bạn nhận được Lá Chắn trong 15 giây. Các đồng minh khác của bạn nhận được Khuếch Đại Sát Thương.",
+        "\n",
+        "\n",
+        "Tướng Viễn Chinh nhận gấp đôi.",
+        "\n"
+      ],
+      "description_detail": [
+        [
+          "2",
+          "175 Lá Chắn; 9%",
+          "DA.png"
+        ],
+        [
+          "3",
+          "250 Lá Chắn; 15%",
+          "DA.png"
+        ],
+        [
+          "4",
+          "350 Lá Chắn; 18%",
+          "DA.png"
+        ],
+        [
+          "5",
+          "500 Lá Chắn; 22%",
+          "DA.png"
+        ],
+        [
+          "6",
+          "700 Lá Chắn; 27%",
+          "DA.png"
+        ]
+      ],
+      "champions": [
+        {
+          "id": "pyke",
+          "name": "Pyke",
+          "image": "tft17_pyke.tft_set17.png"
+        },
+        {
+          "id": "meepsie",
+          "name": "Meepsie",
+          "image": "tft17_ivernminion.tft_set17.png"
+        },
+        {
+          "id": "aurora",
+          "name": "Aurora",
+          "image": "tft17_aurora.tft_set17.png"
+        },
+        {
+          "id": "karma",
+          "name": "Karma",
+          "image": "tft17_karma.tft_set17.png"
+        },
+        {
+          "id": "robot",
+          "name": "Robot",
+          "image": "tft17_galio.tft_set17.png"
+        }
+      ],
+      "average_position": "4.38",
+      "top_4_rate": "51.68",
+      "top_1_rate": "13.35",
+      "battle": "2,022",
+      "trait": "Hệ",
+      "kich_hoat": "2"
+    },
+    {
+      "stt": 70,
+      "id": "tinh_linh_chuong",
+      "name": "Tinh Linh Chuông",
+      "image": "Trait_Icon_17_Astronaut.TFT_Set17.png",
+      "description_icon": [
+        "Tướng Tinh Linh Chuông sẽ thu hút Meep đến gia hộ kỹ năng của họ theo cách riêng. Họ còn được nhận Máu cộng thêm."
+      ],
+      "description_detail": [
+        [
+          "3",
+          "2",
+          "AMP.png",
+          "",
+          "100",
+          "Health.png"
+        ],
+        [
+          "5",
+          "3",
+          "AMP.png",
+          "",
+          "400",
+          "Health.png"
+        ],
+        [
+          "7",
+          "4",
+          "AMP.png",
+          "",
+          "400",
+          "Health.png",
+          ". Tạo ra một Ô Nhân Bản trên hàng dự bị của bạn. Nhận vàng và 1 bản sao 1 sao của vị tướng được đặt trên đó khi quá trình nhân bản hoàn tất."
+        ],
+        [
+          "10",
+          "6",
+          "AMP.png",
+          "",
+          "500",
+          "Health.png",
+          ". TRIỆU HỒI TỨ ĐẠI MEEP CHÚA!"
+        ]
+      ],
+      "champions": [
+        {
+          "id": "poppy",
+          "name": "Poppy",
+          "image": "tft17_poppy.tft_set17.png"
+        },
+        {
+          "id": "veigar",
+          "name": "Veigar",
+          "image": "tft17_veigar.tft_set17.png"
+        },
+        {
+          "id": "gnar",
+          "name": "Gnar",
+          "image": "tft17_gnar.tft_set17.png"
+        },
+        {
+          "id": "meepsie",
+          "name": "Meepsie",
+          "image": "tft17_ivernminion.tft_set17.png"
+        },
+        {
+          "id": "fizz",
+          "name": "Fizz",
+          "image": "tft17_fizz.tft_set17.png"
+        },
+        {
+          "id": "rammus",
+          "name": "Rammus",
+          "image": "tft17_rammus.tft_set17.png"
+        },
+        {
+          "id": "corki",
+          "name": "Corki",
+          "image": "tft17_corki.tft_set17.png"
+        },
+        {
+          "id": "bard",
+          "name": "Bard",
+          "image": "tft17_bard.tft_set17.png"
+        }
+      ],
+      "average_position": "4.21",
+      "top_4_rate": "51.57",
+      "top_1_rate": "20.18",
+      "battle": "223",
+      "trait": "Tộc",
+      "kich_hoat": "7"
+    },
+    {
+      "stt": 71,
+      "id": "dau_si",
+      "name": "Đấu Sĩ",
+      "image": "Trait_Icon_Brawler.png",
+      "description_icon": [
+        "Đội của bạn nhận 5% Máu. Tướng Đấu Sĩ nhận được nhiều hơn.",
+        "\n"
+      ],
+      "description_detail": [
+        [
+          "2",
+          "+25% Máu tối đa"
+        ],
+        [
+          "4",
+          "+45% Máu tối đa"
+        ],
+        [
+          "6",
+          "+65% Máu tối đa"
+        ]
+      ],
+      "champions": [
+        {
+          "id": "cho'gath",
+          "name": "Cho'Gath",
+          "image": "tft17_chogath.tft_set17.png"
+        },
+        {
+          "id": "rek'sai",
+          "name": "Rek'Sai",
+          "image": "tft17_reksai.tft_set17.png"
+        },
+        {
+          "id": "gragas",
+          "name": "Gragas",
+          "image": "tft17_gragas.tft_set17.png"
+        },
+        {
+          "id": "pantheon",
+          "name": "Pantheon",
+          "image": "tft17_pantheon.tft_set17.png"
+        },
+        {
+          "id": "maokai",
+          "name": "Maokai",
+          "image": "tft17_maokai.tft_set17.png"
+        },
+        {
+          "id": "urgot",
+          "name": "Urgot",
+          "image": "tft17_urgot.tft_set17.png"
+        },
+        {
+          "id": "tahm_kench",
+          "name": "Tahm Kench",
+          "image": "tft17_tahmkench.tft_set17.png"
+        }
+      ],
+      "average_position": "4.43",
+      "top_4_rate": "51.53",
+      "top_1_rate": "12.46",
+      "battle": "2,721",
+      "trait": "Hệ",
+      "kich_hoat": "2"
+    },
+    {
+      "stt": 72,
+      "id": "u_sau",
+      "name": "U Sầu",
+      "image": "Trait_Icon_17_Doomer.TFT_Set17.png",
+      "description_icon": [
+        "Bắt đầu giao tranh: Đánh dấu Buồn Bực lên tất cả kẻ địch.",
+        "\n"
+      ],
+      "description_detail": [],
+      "champions": [
+        {
+          "id": "vex",
+          "name": "Vex",
+          "image": "tft17_vex.tft_set17.png"
+        }
+      ],
+      "average_position": "4.37",
+      "top_4_rate": "50.42",
+      "top_1_rate": "17.41",
+      "battle": "827",
+      "trait": "Tộc",
+      "kich_hoat": "1"
+    },
+    {
+      "stt": 73,
+      "id": "tinh_linh_chuong",
+      "name": "Tinh Linh Chuông",
+      "image": "Trait_Icon_17_Astronaut.TFT_Set17.png",
+      "description_icon": [
+        "Tướng Tinh Linh Chuông sẽ thu hút Meep đến gia hộ kỹ năng của họ theo cách riêng. Họ còn được nhận Máu cộng thêm."
+      ],
+      "description_detail": [
+        [
+          "3",
+          "2",
+          "AMP.png",
+          "",
+          "100",
+          "Health.png"
+        ],
+        [
+          "5",
+          "3",
+          "AMP.png",
+          "",
+          "400",
+          "Health.png"
+        ],
+        [
+          "7",
+          "4",
+          "AMP.png",
+          "",
+          "400",
+          "Health.png",
+          ". Tạo ra một Ô Nhân Bản trên hàng dự bị của bạn. Nhận vàng và 1 bản sao 1 sao của vị tướng được đặt trên đó khi quá trình nhân bản hoàn tất."
+        ],
+        [
+          "10",
+          "6",
+          "AMP.png",
+          "",
+          "500",
+          "Health.png",
+          ". TRIỆU HỒI TỨ ĐẠI MEEP CHÚA!"
+        ]
+      ],
+      "champions": [
+        {
+          "id": "poppy",
+          "name": "Poppy",
+          "image": "tft17_poppy.tft_set17.png"
+        },
+        {
+          "id": "veigar",
+          "name": "Veigar",
+          "image": "tft17_veigar.tft_set17.png"
+        },
+        {
+          "id": "gnar",
+          "name": "Gnar",
+          "image": "tft17_gnar.tft_set17.png"
+        },
+        {
+          "id": "meepsie",
+          "name": "Meepsie",
+          "image": "tft17_ivernminion.tft_set17.png"
+        },
+        {
+          "id": "fizz",
+          "name": "Fizz",
+          "image": "tft17_fizz.tft_set17.png"
+        },
+        {
+          "id": "rammus",
+          "name": "Rammus",
+          "image": "tft17_rammus.tft_set17.png"
+        },
+        {
+          "id": "corki",
+          "name": "Corki",
+          "image": "tft17_corki.tft_set17.png"
+        },
+        {
+          "id": "bard",
+          "name": "Bard",
+          "image": "tft17_bard.tft_set17.png"
+        }
+      ],
+      "average_position": "4.43",
+      "top_4_rate": "50.35",
+      "top_1_rate": "11.99",
+      "battle": "717",
+      "trait": "Tộc",
+      "kich_hoat": "3"
+    },
+    {
+      "stt": 74,
+      "id": "than_phan",
+      "name": "Thần Phán",
+      "image": "Trait_Icon_17_Arbiter.TFT_Set17.png",
+      "description_icon": [
+        "Viết ra một luật lệ thần thánh độc nhất, cho phép bạn chọn một hệ quả để áp dụng lên tướng Thần Phán khi nguyên nhân được chọn xảy ra.",
+        "\n"
+      ],
+      "description_detail": [
+        [
+          "2",
+          "Chọn một nguyên nhân và hệ quả cho luật lệ của bạn"
+        ],
+        [
+          "3",
+          "Hệ quả sẽ mạnh hơn."
+        ]
+      ],
+      "champions": [
+        {
+          "id": "leona",
+          "name": "Leona",
+          "image": "tft17_leona.tft_set17.png"
+        },
+        {
+          "id": "zoe",
+          "name": "Zoe",
+          "image": "tft17_zoe.tft_set17.png"
+        },
+        {
+          "id": "diana",
+          "name": "Diana",
+          "image": "tft17_diana_teamplanner_splash.tft_set17.png"
+        },
+        {
+          "id": "leblanc",
+          "name": "LeBlanc",
+          "image": "tft17_leblanc.tft_set17.png"
+        }
+      ],
+      "average_position": "4.46",
+      "top_4_rate": "50.26",
+      "top_1_rate": "10.75",
+      "battle": "577",
+      "trait": "Tộc",
+      "kich_hoat": "2"
+    },
+    {
+      "stt": 75,
+      "id": "dinh_menh",
+      "name": "Định Mệnh",
+      "image": "Trait_Icon_17_Fateweaver.TFT_Set17.png",
+      "description_icon": [
+        "Thiên Phú: Tướng Định Mệnh sở hữu Chuẩn Xác.",
+        "\n"
+      ],
+      "description_detail": [
+        [
+          "2",
+          "Các hiệu ứng theo xác suất trên kỹ năng sẽ được hưởng",
+          "May Mắn",
+          "."
+        ],
+        [
+          "4",
+          "Nhận 20% Tỉ Lệ Chí Mạng và 20% Sát Thương Chí Mạng. Đòn chí mạng cũng trở nên",
+          "May Mắn",
+          "."
+        ]
+      ],
+      "champions": [
+        {
+          "id": "caitlyn",
+          "name": "Caitlyn",
+          "image": "tft17_caitlyn.tft_set17.png"
+        },
+        {
+          "id": "twisted_fate",
+          "name": "Twisted Fate",
+          "image": "tft17_twistedfate.tft_set17.png"
+        },
+        {
+          "id": "milio",
+          "name": "Milio",
+          "image": "tft17_milio.tft_set17.png"
+        },
+        {
+          "id": "corki",
+          "name": "Corki",
+          "image": "tft17_corki.tft_set17.png"
+        }
+      ],
+      "average_position": "4.47",
+      "top_4_rate": "50.16",
+      "top_1_rate": "14.75",
+      "battle": "610",
+      "trait": "Hệ",
+      "kich_hoat": "2"
+    },
+    {
+      "stt": 76,
+      "id": "thach_dau",
+      "name": "Thách Đấu",
+      "image": "Trait_Icon_17_Challenger.TFT_Set17.png",
+      "description_icon": [
+        "Đội của bạn nhận 10% Tốc Độ Đánh. Tướng Thách Đấu nhận Tốc Độ Đánh cộng thêm. Khi mục tiêu của họ bị hạ, tướng Thách Đấu lướt tới mục tiêu mới và tăng 50% lượng Tốc Độ Đánh cộng thêm trong 2.5 giây.",
+        "\n"
+      ],
+      "description_detail": [
+        [
+          "2",
+          "15%",
+          "AS.png"
+        ],
+        [
+          "3",
+          "22%",
+          "AS.png"
+        ],
+        [
+          "4",
+          "40%",
+          "AS.png"
+        ],
+        [
+          "5",
+          "55%",
+          "AS.png"
+        ]
+      ],
+      "champions": [
+        {
+          "id": "bel'veth",
+          "name": "Bel'Veth",
+          "image": "tft17_belveth.tft_set17.png"
+        },
+        {
+          "id": "jinx",
+          "name": "Jinx",
+          "image": "tft17_jinx.tft_set17.png"
+        },
+        {
+          "id": "diana",
+          "name": "Diana",
+          "image": "tft17_diana_teamplanner_splash.tft_set17.png"
+        },
+        {
+          "id": "kindred",
+          "name": "Kindred",
+          "image": "tft17_kindred.tft_set17.png"
+        }
+      ],
+      "average_position": "4.82",
+      "top_4_rate": "50",
+      "top_1_rate": "0.00",
+      "battle": "22",
       "trait": "Hệ",
       "kich_hoat": "4"
     },
     {
-      "stt": 98,
+      "stt": 77,
+      "id": "chiem_tinh_(cu_xa)",
+      "name": "Chiêm Tinh (Cự Xà)",
+      "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
+      "description_icon": [
+        "Trận này, tướng Chiêm Tinh dệt nên chòm sao: Cự Xà.",
+        "\n",
+        "Ô cường hóa cho thêm 5% Chống Chịu. Tướng Chiêm Tinh trên ô cường hóa nhận được nhiều hơn và áp dụng hiệu ứng độc lên kẻ địch, lặp lại một phần sát thương đã gây ra dưới dạng sát thương phép trong 3 giây."
+      ],
+      "description_detail": [
+        [
+          "3",
+          "5%",
+          "DR.png",
+          "",
+          "25% sát thương độc"
+        ],
+        [
+          "5",
+          "10%",
+          "DR.png",
+          "",
+          "40% sát thương độc"
+        ],
+        [
+          "7",
+          "15%",
+          "DR.png",
+          "",
+          "60% sát thương độc"
+        ]
+      ],
+      "champions": [],
+      "average_position": "4.25",
+      "top_4_rate": "50",
+      "top_1_rate": "25.00",
+      "battle": "8",
+      "trait": "Tộc",
+      "kich_hoat": "5"
+    },
+    {
+      "stt": 78,
+      "id": "toi_tan",
+      "name": "Tối Tân",
+      "image": "Trait_Icon_17_FactoryNew.TFT_Set17.png",
+      "description_icon": [
+        "Sau khi tham gia giao tranh, mở 1 kho vũ khí để mua 1 nâng cấp vĩnh viễn cho Graves mạnh nhất của bạn.",
+        "\n",
+        "\n",
+        "Cứ mỗi 3 nâng cấp, các nâng cấp trong tương lai sẽ lâu hơn một vòng.",
+        "\n"
+      ],
+      "description_detail": [],
+      "champions": [
+        {
+          "id": "graves",
+          "name": "Graves",
+          "image": "tft17_graves.tft_set17.png"
+        }
+      ],
+      "average_position": "4.48",
+      "top_4_rate": "49.92",
+      "top_1_rate": "17.60",
+      "battle": "591",
+      "trait": "Tộc",
+      "kich_hoat": "1"
+    },
+    {
+      "stt": 79,
+      "id": "chiem_tinh_(ngon_nui)",
+      "name": "Chiêm Tinh (Ngọn Núi)",
+      "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
+      "description_icon": [
+        "Trận này, tướng Chiêm Tinh dệt nên chòm sao: Ngọn Núi",
+        "\n",
+        "Mỗi 5 giao tranh người chơi, nhận 1 Ấn Chiêm Tinh. Tướng Chiêm Tinh trên ô cường hóa nhận thêm chỉ số.",
+        "\n",
+        "(Giao Tranh Còn Lại: ?)"
+      ],
+      "description_detail": [
+        [
+          "3",
+          "Nhận 15% Máu"
+        ],
+        [
+          "4",
+          "VÀ 15% Sức Mạnh Công Kích và Sức Mạnh Phép Thuật"
+        ],
+        [
+          "5",
+          "VÀ 10 Giáp & Kháng Phép"
+        ],
+        [
+          "6",
+          "VÀ 10% Tốc Độ Đánh"
+        ],
+        [
+          "7",
+          "VÀ 6% Chống Chịu"
+        ],
+        [
+          "8",
+          "VÀ các chỉ số thưởng khác +10%"
+        ]
+      ],
+      "champions": [],
+      "average_position": "4.44",
+      "top_4_rate": "49.15",
+      "top_1_rate": "13.56",
+      "battle": "59",
+      "trait": "Tộc",
+      "kich_hoat": "6"
+    },
+    {
+      "stt": 80,
+      "id": "tien_phong",
+      "name": "Tiên Phong",
+      "image": "Trait_Icon_12_Vanguard.TFT_Set12.png",
+      "description_icon": [
+        "Tướng Tiên Phong được tăng 5% Chống Chịu khi có Lá Chắn.",
+        "\n",
+        "\n",
+        "Bắt đầu giao tranh và khi còn 50% Máu: Nhận một Lá Chắn theo Máu tối đa trong 10 giây.",
+        "\n"
+      ],
+      "description_detail": [
+        [
+          "2",
+          "16% Máu tối đa"
+        ],
+        [
+          "4",
+          "30% Máu tối đa"
+        ],
+        [
+          "6",
+          "40% Máu tối đa;8%",
+          "DR.png",
+          "khi có Lá Chắn"
+        ]
+      ],
+      "champions": [
+        {
+          "id": "nasus",
+          "name": "Nasus",
+          "image": "tft17_nasus.tft_set17.png"
+        },
+        {
+          "id": "leona",
+          "name": "Leona",
+          "image": "tft17_leona.tft_set17.png"
+        },
+        {
+          "id": "mordekaiser",
+          "name": "Mordekaiser",
+          "image": "tft17_mordekaiser.tft_set17.png"
+        },
+        {
+          "id": "illaoi",
+          "name": "Illaoi",
+          "image": "tft17_illaoi.tft_set17.png"
+        },
+        {
+          "id": "nunu_&_willump",
+          "name": "Nunu & Willump",
+          "image": "tft17_nunu.tft_set17.png"
+        },
+        {
+          "id": "blitzcrank",
+          "name": "Blitzcrank",
+          "image": "tft17_blitzcrank.tft_set17.png"
+        }
+      ],
+      "average_position": "4.56",
+      "top_4_rate": "48.35",
+      "top_1_rate": "13.47",
+      "battle": "2,480",
+      "trait": "Hệ",
+      "kich_hoat": "2"
+    },
+    {
+      "stt": 81,
+      "id": "hanh_tinh",
+      "name": "Hành Tinh",
+      "image": "Trait_Icon_17_SpaceGroove.TFT_Set17.png",
+      "description_icon": [
+        "Space Groove units can enter the Groove state. While in Groove, their bonuses scale with the number of Space Groove allies and grow stronger at higher trait tiers."
+      ],
+      "description_detail": [
+        [
+          "1",
+          "Khi các tướng Hành Tinh tiến vào trạng thái Space Groove",
+          "họ nhận Tốc Độ Đánh và hồi Máu tối đa",
+          "tăng theo mỗi tướng Hành Tinh trong đội."
+        ],
+        [
+          "3",
+          "Tất cả tướng Hành Tinh bắt đầu giao tranh ở trạng thái Space Groove trong 3 giây."
+        ],
+        [
+          "5",
+          "Mỗi giây trong trạng thái Space Groove trao 5% Sức Mạnh Công Kích và Sức Mạnh Phép Thuật cộng dồn."
+        ],
+        [
+          "7",
+          "Tăng hiệu ứng thêm 10%!"
+        ],
+        [
+          "10",
+          "{{TFT17_SpaceGroove_Groove}}"
+        ]
+      ],
+      "champions": [
+        {
+          "id": "teemo",
+          "name": "Teemo",
+          "image": "tft17_teemo.tft_set17.png"
+        },
+        {
+          "id": "nasus",
+          "name": "Nasus",
+          "image": "tft17_nasus.tft_set17.png"
+        },
+        {
+          "id": "gwen",
+          "name": "Gwen",
+          "image": "tft17_gwen.tft_set17.png"
+        },
+        {
+          "id": "samira",
+          "name": "Samira",
+          "image": "tft17_samira.tft_set17.png"
+        },
+        {
+          "id": "ornn",
+          "name": "Ornn",
+          "image": "tft17_ornn.tft_set17.png"
+        },
+        {
+          "id": "nami",
+          "name": "Nami",
+          "image": "tft17_nami.tft_set17.png"
+        },
+        {
+          "id": "blitzcrank",
+          "name": "Blitzcrank",
+          "image": "tft17_blitzcrank.tft_set17.png"
+        }
+      ],
+      "average_position": "4.68",
+      "top_4_rate": "47.71",
+      "top_1_rate": "11.47",
+      "battle": "218",
+      "trait": "Tộc",
+      "kich_hoat": "5"
+    },
+    {
+      "stt": 82,
+      "id": "chiem_tinh_(heo_rung)",
+      "name": "Chiêm Tinh (Heo Rừng)",
+      "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
+      "description_icon": [
+        "Trận này, tướng Chiêm Tinh dệt nên chòm sao: Heo Rừng.",
+        "\n",
+        "Nhận vàng khi thắng giao tranh người chơi. Đồng minh trên ô cường hóa nhận thêm 8% Máu, Sức Mạnh Công Kích và Sức Mạnh Phép Thuật. Tướng Chiêm Tinh nhận nhiều hơn.",
+        "\n",
+        "(Vàng Kiếm Được: ?)"
+      ],
+      "description_detail": [
+        [
+          "3",
+          "1 vàng",
+          "2%",
+          "Health.png",
+          "",
+          "10%",
+          "AD.png",
+          "AP.png"
+        ],
+        [
+          "4",
+          "2 vàng",
+          "8%",
+          "Health.png",
+          "",
+          "15%",
+          "AD.png",
+          "AP.png"
+        ],
+        [
+          "5",
+          "4 vàng",
+          "15%",
+          "Health.png",
+          "",
+          "25%",
+          "AD.png",
+          "AP.png"
+        ],
+        [
+          "6",
+          "6 vàng",
+          "22%",
+          "Health.png",
+          "",
+          "30%",
+          "AD.png",
+          "AP.png"
+        ]
+      ],
+      "champions": [],
+      "average_position": "4.71",
+      "top_4_rate": "47.06",
+      "top_1_rate": "5.88",
+      "battle": "17",
+      "trait": "Tộc",
+      "kich_hoat": "4"
+    },
+    {
+      "stt": 83,
+      "id": "vien_chinh",
+      "name": "Viễn Chinh",
+      "image": "Trait_Icon_17_Voyager.TFT_Set17.png",
+      "description_icon": [
+        "Bắt đầu giao tranh: Tướng Đỡ Đòn của bạn nhận được Lá Chắn trong 15 giây. Các đồng minh khác của bạn nhận được Khuếch Đại Sát Thương.",
+        "\n",
+        "\n",
+        "Tướng Viễn Chinh nhận gấp đôi.",
+        "\n"
+      ],
+      "description_detail": [
+        [
+          "2",
+          "175 Lá Chắn; 9%",
+          "DA.png"
+        ],
+        [
+          "3",
+          "250 Lá Chắn; 15%",
+          "DA.png"
+        ],
+        [
+          "4",
+          "350 Lá Chắn; 18%",
+          "DA.png"
+        ],
+        [
+          "5",
+          "500 Lá Chắn; 22%",
+          "DA.png"
+        ],
+        [
+          "6",
+          "700 Lá Chắn; 27%",
+          "DA.png"
+        ]
+      ],
+      "champions": [
+        {
+          "id": "pyke",
+          "name": "Pyke",
+          "image": "tft17_pyke.tft_set17.png"
+        },
+        {
+          "id": "meepsie",
+          "name": "Meepsie",
+          "image": "tft17_ivernminion.tft_set17.png"
+        },
+        {
+          "id": "aurora",
+          "name": "Aurora",
+          "image": "tft17_aurora.tft_set17.png"
+        },
+        {
+          "id": "karma",
+          "name": "Karma",
+          "image": "tft17_karma.tft_set17.png"
+        },
+        {
+          "id": "robot",
+          "name": "Robot",
+          "image": "tft17_galio.tft_set17.png"
+        }
+      ],
+      "average_position": "4.59",
+      "top_4_rate": "46.88",
+      "top_1_rate": "6.25",
+      "battle": "32",
+      "trait": "Hệ",
+      "kich_hoat": "5"
+    },
+    {
+      "stt": 84,
+      "id": "dau_si",
+      "name": "Đấu Sĩ",
+      "image": "Trait_Icon_Brawler.png",
+      "description_icon": [
+        "Đội của bạn nhận 5% Máu. Tướng Đấu Sĩ nhận được nhiều hơn.",
+        "\n"
+      ],
+      "description_detail": [
+        [
+          "2",
+          "+25% Máu tối đa"
+        ],
+        [
+          "4",
+          "+45% Máu tối đa"
+        ],
+        [
+          "6",
+          "+65% Máu tối đa"
+        ]
+      ],
+      "champions": [
+        {
+          "id": "cho'gath",
+          "name": "Cho'Gath",
+          "image": "tft17_chogath.tft_set17.png"
+        },
+        {
+          "id": "rek'sai",
+          "name": "Rek'Sai",
+          "image": "tft17_reksai.tft_set17.png"
+        },
+        {
+          "id": "gragas",
+          "name": "Gragas",
+          "image": "tft17_gragas.tft_set17.png"
+        },
+        {
+          "id": "pantheon",
+          "name": "Pantheon",
+          "image": "tft17_pantheon.tft_set17.png"
+        },
+        {
+          "id": "maokai",
+          "name": "Maokai",
+          "image": "tft17_maokai.tft_set17.png"
+        },
+        {
+          "id": "urgot",
+          "name": "Urgot",
+          "image": "tft17_urgot.tft_set17.png"
+        },
+        {
+          "id": "tahm_kench",
+          "name": "Tahm Kench",
+          "image": "tft17_tahmkench.tft_set17.png"
+        }
+      ],
+      "average_position": "4.62",
+      "top_4_rate": "45.57",
+      "top_1_rate": "12.66",
+      "battle": "79",
+      "trait": "Hệ",
+      "kich_hoat": "6"
+    },
+    {
+      "stt": 85,
       "id": "hac_tinh",
       "name": "Hắc Tinh",
       "image": "Trait_Icon_17_DarkStar.TFT_Set17.png",
@@ -19020,7 +20252,10 @@
       "description_detail": [
         [
           "2",
-          "Tướng Hắc Tinh triệu hồi một hố đen nuốt chửng kẻ địch khi chúng còn dưới 8% máu tối đa."
+          "Tướng Hắc Tinh triệu hồi một hố đen nuốt chửng kẻ địch khi chúng còn",
+          "?%",
+          "8%",
+          "máu tối đa."
         ],
         [
           "4",
@@ -19041,16 +20276,386 @@
           "NUỐT CHỬNG TẤT CẢ."
         ]
       ],
-      "champions": [],
-      "average_position": "5.01",
-      "top_4_rate": "40.01",
-      "top_1_rate": "10.16",
-      "battle": "5,579",
+      "champions": [
+        {
+          "id": "cho'gath",
+          "name": "Cho'Gath",
+          "image": "tft17_chogath.tft_set17.png"
+        },
+        {
+          "id": "lissandra",
+          "name": "Lissandra",
+          "image": "tft17_lissandra.tft_set17.png"
+        },
+        {
+          "id": "mordekaiser",
+          "name": "Mordekaiser",
+          "image": "tft17_mordekaiser.tft_set17.png"
+        },
+        {
+          "id": "kai'sa",
+          "name": "Kai'Sa",
+          "image": "tft17_kaisa.tft_set17.png"
+        },
+        {
+          "id": "karma",
+          "name": "Karma",
+          "image": "tft17_karma.tft_set17.png"
+        },
+        {
+          "id": "jhin",
+          "name": "Jhin",
+          "image": "tft17_jhin.tft_set17.png"
+        }
+      ],
+      "average_position": "4.88",
+      "top_4_rate": "44.44",
+      "top_1_rate": "8.89",
+      "battle": "180",
       "trait": "Tộc",
       "kich_hoat": "4"
     },
     {
-      "stt": 99,
+      "stt": 86,
+      "id": "sieu_linh",
+      "name": "Siêu Linh",
+      "image": "Trait_Icon_17_PsyOps.TFT_Set17.png",
+      "description_icon": [
+        "Nhận trang bị Siêu Linh có thể lắp cho bất kỳ đồng minh nào.",
+        "\n"
+      ],
+      "description_detail": [
+        [
+          "2",
+          "Nhận ?"
+        ],
+        [
+          "4",
+          "Nhận ?",
+          "trang bị Siêu Linh sẽ có thêm hiệu ứng trên các tướng Siêu Linh"
+        ]
+      ],
+      "champions": [
+        {
+          "id": "pyke",
+          "name": "Pyke",
+          "image": "tft17_pyke.tft_set17.png"
+        },
+        {
+          "id": "gragas",
+          "name": "Gragas",
+          "image": "tft17_gragas.tft_set17.png"
+        },
+        {
+          "id": "viktor",
+          "name": "Viktor",
+          "image": "tft17_viktor.tft_set17.png"
+        },
+        {
+          "id": "master_yi",
+          "name": "Master Yi",
+          "image": "tft17_masteryi.tft_set17.png"
+        },
+        {
+          "id": "sona",
+          "name": "Sona",
+          "image": "tft17_sona.tft_set17.png"
+        }
+      ],
+      "average_position": "4.68",
+      "top_4_rate": "44.32",
+      "top_1_rate": "9.66",
+      "battle": "176",
+      "trait": "Tộc",
+      "kich_hoat": "4"
+    },
+    {
+      "stt": 87,
+      "id": "xa_than",
+      "name": "Xạ Thần",
+      "image": "Trait_Icon_17_GunGoddess.TFT_Set17.png",
+      "description_icon": [
+        "Khi bạn triển khai Miss Fortune, chọn giữa Chế Độ Dẫn Truyền, Chế Độ Thách Đấu và Chế Độ Nhân Bản. Miss Fortune sẽ có kỹ năng riêng biệt tùy theo chế độ và nhận được tộc/hệ tương ứng."
+      ],
+      "description_detail": [],
+      "champions": [
+        {
+          "id": "miss_fortune",
+          "name": "Miss Fortune",
+          "image": "tft17_missfortune.tft_set17.png"
+        }
+      ],
+      "average_position": "4.8",
+      "top_4_rate": "44.3",
+      "top_1_rate": "6.75",
+      "battle": "237",
+      "trait": "Hệ",
+      "kich_hoat": "1"
+    },
+    {
+      "stt": 88,
+      "id": "thoi_khong",
+      "name": "Thời Không",
+      "image": "Trait_Icon_17_Timebreaker.TFT_Set17.png",
+      "description_icon": [],
+      "description_detail": [
+        [
+          "2",
+          "Đồng minh tăng 15% Tốc Độ Đánh."
+        ],
+        [
+          "3",
+          "VÀ Khi bạn thua",
+          "nhận lượt làm mới miễn phí. Khi bạn thắng",
+          "tích trữ XP trong một Lõi Thời Không (tăng theo giai đoạn)."
+        ],
+        [
+          "4",
+          "VÀ Tướng Thời Không nhận thêm 50% Tốc Độ Đánh"
+        ]
+      ],
+      "champions": [
+        {
+          "id": "ezreal",
+          "name": "Ezreal",
+          "image": "tft17_ezreal.tft_set17.png"
+        },
+        {
+          "id": "milio",
+          "name": "Milio",
+          "image": "tft17_milio.tft_set17.png"
+        },
+        {
+          "id": "pantheon",
+          "name": "Pantheon",
+          "image": "tft17_pantheon.tft_set17.png"
+        },
+        {
+          "id": "riven",
+          "name": "Riven",
+          "image": "tft17_riven.tft_set17.png"
+        }
+      ],
+      "average_position": "4.98",
+      "top_4_rate": "42.59",
+      "top_1_rate": "9.72",
+      "battle": "216",
+      "trait": "Tộc",
+      "kich_hoat": "3"
+    },
+    {
+      "stt": 89,
+      "id": "toc_thuong_co",
+      "name": "Tộc Thượng Cổ",
+      "image": "Trait_Icon_17_Primordian.TFT_Set17.png",
+      "description_icon": [],
+      "description_detail": [
+        [
+          "2",
+          "Gây sát thương sẽ sinh ra Bầy Đàn Hiểm Họa dựa trên cấp sao độc nhất của tướng Tộc Thượng Cổ."
+        ],
+        [
+          "3",
+          "Sinh ra thêm 45% Bầy Đàn! Sau mỗi giao tranh người chơi",
+          "nhận 1 tướng 1 vàng hoặc 2 vàng ngẫu nhiên."
+        ]
+      ],
+      "champions": [
+        {
+          "id": "briar",
+          "name": "Briar",
+          "image": "tft17_briar.tft_set17.png"
+        },
+        {
+          "id": "rek'sai",
+          "name": "Rek'Sai",
+          "image": "tft17_reksai.tft_set17.png"
+        },
+        {
+          "id": "bel'veth",
+          "name": "Bel'Veth",
+          "image": "tft17_belveth.tft_set17.png"
+        }
+      ],
+      "average_position": "4.96",
+      "top_4_rate": "39.22",
+      "top_1_rate": "3.92",
+      "battle": "51",
+      "trait": "Tộc",
+      "kich_hoat": "2"
+    },
+    {
+      "stt": 90,
+      "id": "nhan_ban",
+      "name": "Nhân Bản",
+      "image": "Trait_Icon_17_Replicator.TFT_Set17.png",
+      "description_icon": [
+        "Kỹ năng của tướng Nhân Bản kích hoạt lần hai với hiệu lực giảm bớt.",
+        "\n"
+      ],
+      "description_detail": [
+        [
+          "2",
+          "22% sức mạnh"
+        ],
+        [
+          "4",
+          "45% sức mạnh"
+        ]
+      ],
+      "champions": [
+        {
+          "id": "veigar",
+          "name": "Veigar",
+          "image": "tft17_veigar.tft_set17.png"
+        },
+        {
+          "id": "lissandra",
+          "name": "Lissandra",
+          "image": "tft17_lissandra.tft_set17.png"
+        },
+        {
+          "id": "pantheon",
+          "name": "Pantheon",
+          "image": "tft17_pantheon.tft_set17.png"
+        },
+        {
+          "id": "lulu",
+          "name": "Lulu",
+          "image": "tft17_lulu.tft_set17.png"
+        },
+        {
+          "id": "nami",
+          "name": "Nami",
+          "image": "tft17_nami.tft_set17.png"
+        }
+      ],
+      "average_position": "4.89",
+      "top_4_rate": "38.89",
+      "top_1_rate": "11.11",
+      "battle": "36",
+      "trait": "Hệ",
+      "kich_hoat": "4"
+    },
+    {
+      "stt": 91,
+      "id": "thach_dau",
+      "name": "Thách Đấu",
+      "image": "Trait_Icon_17_Challenger.TFT_Set17.png",
+      "description_icon": [
+        "Đội của bạn nhận 10% Tốc Độ Đánh. Tướng Thách Đấu nhận Tốc Độ Đánh cộng thêm. Khi mục tiêu của họ bị hạ, tướng Thách Đấu lướt tới mục tiêu mới và tăng 50% lượng Tốc Độ Đánh cộng thêm trong 2.5 giây.",
+        "\n"
+      ],
+      "description_detail": [
+        [
+          "2",
+          "15%",
+          "AS.png"
+        ],
+        [
+          "3",
+          "22%",
+          "AS.png"
+        ],
+        [
+          "4",
+          "40%",
+          "AS.png"
+        ],
+        [
+          "5",
+          "55%",
+          "AS.png"
+        ]
+      ],
+      "champions": [
+        {
+          "id": "bel'veth",
+          "name": "Bel'Veth",
+          "image": "tft17_belveth.tft_set17.png"
+        },
+        {
+          "id": "jinx",
+          "name": "Jinx",
+          "image": "tft17_jinx.tft_set17.png"
+        },
+        {
+          "id": "diana",
+          "name": "Diana",
+          "image": "tft17_diana_teamplanner_splash.tft_set17.png"
+        },
+        {
+          "id": "kindred",
+          "name": "Kindred",
+          "image": "tft17_kindred.tft_set17.png"
+        }
+      ],
+      "average_position": "4.81",
+      "top_4_rate": "38.1",
+      "top_1_rate": "4.76",
+      "battle": "21",
+      "trait": "Hệ",
+      "kich_hoat": "5"
+    },
+    {
+      "stt": 92,
+      "id": "sieu_thu",
+      "name": "Siêu Thú",
+      "image": "Trait_Icon_17_AnimaTech.TFT_Set17.png",
+      "description_icon": [
+        "Sau khi thua một giao tranh người chơi, nhận 20 Linh Kiện, cộng thêm số Linh Kiện bằng 5 lần độ dài chuỗi thua của bạn. Ngoài ra, nhận thêm 2 Linh Kiện mỗi khi tướng Siêu Thú tham gia hạ gục.",
+        "\n",
+        "\n",
+        "Mỗi khi tướng Siêu Thú tích đủ 100 Linh Kiện, họ sẽ thử nghiệm các Vũ Khí Siêu Thú mới. Bạn có thể nhận chúng ngay hoặc tích thêm Linh Kiện để nhận được những vũ khí mạnh mẽ hơn ở lần sau.",
+        "\n"
+      ],
+      "description_detail": [
+        [
+          "3",
+          "Bắt Đầu Nghiên Cứu!"
+        ],
+        [
+          "6",
+          "Sau khi thắng 1 vòng giao tranh người chơi",
+          "nhận được báu vật!"
+        ]
+      ],
+      "champions": [
+        {
+          "id": "briar",
+          "name": "Briar",
+          "image": "tft17_briar.tft_set17.png"
+        },
+        {
+          "id": "jinx",
+          "name": "Jinx",
+          "image": "tft17_jinx.tft_set17.png"
+        },
+        {
+          "id": "illaoi",
+          "name": "Illaoi",
+          "image": "tft17_illaoi.tft_set17.png"
+        },
+        {
+          "id": "aurora",
+          "name": "Aurora",
+          "image": "tft17_aurora.tft_set17.png"
+        },
+        {
+          "id": "fiora",
+          "name": "Fiora",
+          "image": "tft17_fiora.tft_set17.png"
+        }
+      ],
+      "average_position": "5.5",
+      "top_4_rate": "32.47",
+      "top_1_rate": "12.99",
+      "battle": "154",
+      "trait": "Tộc",
+      "kich_hoat": "3"
+    },
+    {
+      "stt": 93,
       "id": "may_moc",
       "name": "Máy Móc",
       "image": "Trait_Icon_17_Mecha.TFT_Set17.png",
@@ -19078,16 +20683,32 @@
           "Cơ Khí Chuẩn Xác: +1 số lượng tướng tối đa"
         ]
       ],
-      "champions": [],
-      "average_position": "5.18",
-      "top_4_rate": "36.05",
-      "top_1_rate": "6.18",
-      "battle": "21,577",
+      "champions": [
+        {
+          "id": "urgot",
+          "name": "Urgot",
+          "image": "tft17_urgot.tft_set17.png"
+        },
+        {
+          "id": "aurelion_sol",
+          "name": "Aurelion Sol",
+          "image": "tft17_aurelionsol.tft_set17.png"
+        },
+        {
+          "id": "robot",
+          "name": "Robot",
+          "image": "tft17_galio.tft_set17.png"
+        }
+      ],
+      "average_position": "5.48",
+      "top_4_rate": "27.92",
+      "top_1_rate": "4.15",
+      "battle": "265",
       "trait": "Tộc",
       "kich_hoat": "3"
     },
     {
-      "stt": 100,
+      "stt": 94,
       "id": "chiem_tinh_(ngon_nui)",
       "name": "Chiêm Tinh (Ngọn Núi)",
       "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
@@ -19125,15 +20746,15 @@
         ]
       ],
       "champions": [],
-      "average_position": "5.14",
-      "top_4_rate": "35.15",
-      "top_1_rate": "9.32",
-      "battle": "2,984",
+      "average_position": "5.66",
+      "top_4_rate": "27.66",
+      "top_1_rate": "4.26",
+      "battle": "47",
       "trait": "Tộc",
       "kich_hoat": "4"
     },
     {
-      "stt": 101,
+      "stt": 95,
       "id": "sieu_thu",
       "name": "Siêu Thú",
       "image": "Trait_Icon_17_AnimaTech.TFT_Set17.png",
@@ -19155,47 +20776,42 @@
           "nhận được báu vật!"
         ]
       ],
-      "champions": [],
-      "average_position": "6.05",
-      "top_4_rate": "26.14",
-      "top_1_rate": "10.54",
-      "battle": "7,486",
-      "trait": "Tộc",
-      "kich_hoat": "3"
-    },
-    {
-      "stt": 102,
-      "id": "sieu_thu",
-      "name": "Siêu Thú",
-      "image": "Trait_Icon_17_AnimaTech.TFT_Set17.png",
-      "description_icon": [
-        "Sau khi thua một giao tranh người chơi, nhận 20 Linh Kiện, cộng thêm số Linh Kiện bằng 5 lần độ dài chuỗi thua của bạn. Ngoài ra, nhận thêm 2 Linh Kiện mỗi khi tướng Siêu Thú tham gia hạ gục.",
-        "\n",
-        "\n",
-        "Mỗi khi tướng Siêu Thú tích đủ 100 Linh Kiện, họ sẽ thử nghiệm các Vũ Khí Siêu Thú mới. Bạn có thể nhận chúng ngay hoặc tích thêm Linh Kiện để nhận được những vũ khí mạnh mẽ hơn ở lần sau.",
-        "\n"
+      "champions": [
+        {
+          "id": "briar",
+          "name": "Briar",
+          "image": "tft17_briar.tft_set17.png"
+        },
+        {
+          "id": "jinx",
+          "name": "Jinx",
+          "image": "tft17_jinx.tft_set17.png"
+        },
+        {
+          "id": "illaoi",
+          "name": "Illaoi",
+          "image": "tft17_illaoi.tft_set17.png"
+        },
+        {
+          "id": "aurora",
+          "name": "Aurora",
+          "image": "tft17_aurora.tft_set17.png"
+        },
+        {
+          "id": "fiora",
+          "name": "Fiora",
+          "image": "tft17_fiora.tft_set17.png"
+        }
       ],
-      "description_detail": [
-        [
-          "3",
-          "Bắt Đầu Nghiên Cứu!"
-        ],
-        [
-          "6",
-          "Sau khi thắng 1 vòng giao tranh người chơi",
-          "nhận được báu vật!"
-        ]
-      ],
-      "champions": [],
-      "average_position": "5.89",
-      "top_4_rate": "25.4",
-      "top_1_rate": "12.41",
-      "battle": "693",
+      "average_position": "6.21",
+      "top_4_rate": "21.43",
+      "top_1_rate": "0.00",
+      "battle": "14",
       "trait": "Tộc",
       "kich_hoat": "6"
     },
     {
-      "stt": 103,
+      "stt": 96,
       "id": "chiem_tinh_(ngon_nui)",
       "name": "Chiêm Tinh (Ngọn Núi)",
       "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
@@ -19233,12 +20849,98 @@
         ]
       ],
       "champions": [],
-      "average_position": "6.51",
-      "top_4_rate": "14.87",
-      "top_1_rate": "3.27",
-      "battle": "2,448",
+      "average_position": "6.4",
+      "top_4_rate": "10",
+      "top_1_rate": "3.33",
+      "battle": "30",
       "trait": "Tộc",
       "kich_hoat": "3"
+    },
+    {
+      "stt": 97,
+      "id": "chiem_tinh_(nu_tho_san)",
+      "name": "Chiêm Tinh (Nữ Thợ Săn)",
+      "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
+      "description_icon": [
+        "Trận này, tướng Chiêm Tinh dệt nên chòm sao: Nữ Thợ Săn.",
+        "\n",
+        "Bắt đầu giao tranh: Đánh dấu kẻ địch có lượng Máu cao nhất.",
+        "\n",
+        "Đồng minh trên ô cường hóa nhận thêm 15% Tốc Độ Đánh. Tướng Chiêm Tinh trên ô cường hóa nhận được nhiều hơn và hồi máu bằng 15% Máu tối đa của họ khi một kẻ địch bị đánh dấu tử trận."
+      ],
+      "description_detail": [
+        [
+          "3",
+          "12%",
+          "AS.png",
+          "",
+          "3 đánh dấu"
+        ],
+        [
+          "5",
+          "35%",
+          "AS.png",
+          "",
+          "5 đánh dấu"
+        ],
+        [
+          "7",
+          "55%",
+          "AS.png",
+          "",
+          "7 đánh dấu"
+        ]
+      ],
+      "champions": [],
+      "average_position": "6.56",
+      "top_4_rate": "0",
+      "top_1_rate": "0.00",
+      "battle": "9",
+      "trait": "Tộc",
+      "kich_hoat": "5"
+    },
+    {
+      "stt": 98,
+      "id": "chiem_tinh_(nu_tho_san)",
+      "name": "Chiêm Tinh (Nữ Thợ Săn)",
+      "image": "Trait_Icon_17_Stargazer.TFT_Set17.png",
+      "description_icon": [
+        "Trận này, tướng Chiêm Tinh dệt nên chòm sao: Nữ Thợ Săn.",
+        "\n",
+        "Bắt đầu giao tranh: Đánh dấu kẻ địch có lượng Máu cao nhất.",
+        "\n",
+        "Đồng minh trên ô cường hóa nhận thêm 15% Tốc Độ Đánh. Tướng Chiêm Tinh trên ô cường hóa nhận được nhiều hơn và hồi máu bằng 15% Máu tối đa của họ khi một kẻ địch bị đánh dấu tử trận."
+      ],
+      "description_detail": [
+        [
+          "3",
+          "12%",
+          "AS.png",
+          "",
+          "3 đánh dấu"
+        ],
+        [
+          "5",
+          "35%",
+          "AS.png",
+          "",
+          "5 đánh dấu"
+        ],
+        [
+          "7",
+          "55%",
+          "AS.png",
+          "",
+          "7 đánh dấu"
+        ]
+      ],
+      "champions": [],
+      "average_position": "5.5",
+      "top_4_rate": "0",
+      "top_1_rate": "0.00",
+      "battle": "2",
+      "trait": "Tộc",
+      "kich_hoat": "7"
     }
   ],
   "technologies": {
