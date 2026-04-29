@@ -22732,258 +22732,7 @@
     ]
   },
   "instruct": {
-    "vong_ky_ngo": [
-      {
-        "title": "テクノロジーコア",
-        "items": [
-          {
-            "name": "至高の序曲",
-            "description": "この試合で受け取った最初のアップグレードはダイヤモンド レベルになります。"
-          },
-          {
-            "name": "ゴールデンガラ",
-            "description": "この戦闘で受け取ったすべてのアップグレードはゴールドレベルになります。"
-          },
-          {
-            "name": "プリズムチーム",
-            "description": "この戦闘で受け取ったすべてのアップグレードはダイヤモンド層になります。"
-          },
-          {
-            "name": "究極の結末",
-            "description": "この試合で受け取れる最終アップグレードはダイヤモンド レベルになります。"
-          },
-          {
-            "name": "ゴールデンプロムナード",
-            "description": "この試合で受け取った最初のアップグレードはゴールドレベルになります。"
-          },
-          {
-            "name": "ゴールデンエンド",
-            "description": "この戦闘で受け取れる最終アップグレードはゴールド層になります。"
-          },
-          {
-            "name": "昇華アップグレード",
-            "description": "この試合でのアップグレードは、シルバー、ゴールド、ダイヤモンドのレベルになります。"
-          },
-          {
-            "name": "7度1シルバー",
-            "description": "この試合のすべてのアップグレードはシルバー層になります。"
-          }
-        ]
-      },
-      {
-        "title": "一般的な",
-        "items": [
-          {
-            "name": "3 ゴールドチャンピオンから始めましょう",
-            "description": "ランダムな 3 ゴールド チャンピオンから始めます。"
-          },
-          {
-            "name": "一般的なアップグレード",
-            "description": "ランダムな 2 つ星 1 ゴールドの将軍から始めます。"
-          },
-          {
-            "name": "2 ゴールドチャンピオンからスタート",
-            "description": "ランダムな 2 ゴールド チャンピオンから始めます。"
-          },
-          {
-            "name": "クローン作成マシン",
-            "description": "レプリケーター 1 体で試合を開始します。"
-          },
-          {
-            "name": "3 将軍",
-            "description": "ランダムな 1 金の将軍 3 人から始めます。"
-          },
-          {
-            "name": "一般配布",
-            "description": "ステージごとに 2 回、高価なチャンピオンを 1 つ無料で入手できます。ゲームの終わりに近づくほど、値は高くなります。"
-          },
-          {
-            "name": "総会カンファレンス",
-            "description": "各ステージで、チームに適したチャンピオンを 1 人受け取ります。"
-          }
-        ]
-      },
-      {
-        "title": "装置",
-        "items": [
-          {
-            "name": "アーティファクト装備パック",
-            "description": "アーティファクト装備パック 1 つから開始します (強力な装備を 1 つ選択します)。"
-          },
-          {
-            "name": "コンポーネント機器パッケージ",
-            "description": "2 つのコンポーネント機器パッケージから始めます。"
-          },
-          {
-            "name": "完全な機器パッケージ",
-            "description": "まずは完全な機器パッケージから始めましょう。"
-          },
-          {
-            "name": "照明器具",
-            "description": "ゲーム後半の 5 つのライト アイテム (フル アイテムのより強力なバージョン) から 1 つを選択します。"
-          },
-          {
-            "name": "サポート機器パッケージ",
-            "description": "1 つのサポート機器パッケージから始めます。"
-          },
-          {
-            "name": "タクティカルクラウン",
-            "description": "タクティカル クラウン 1 つから開始します (チャンピオンの最大数が +1 増加します)。"
-          },
-          {
-            "name": "装備パッケージパーティー",
-            "description": "すべての装備はコンポーネント装備パックとしてドロップされます。"
-          },
-          {
-            "name": "元気を出していきましょう",
-            "description": "ゴールデンシャベル1個とゴールデンパン1個から始めます。鍛造ハンマーは落ちません。"
-          }
-        ]
-      },
-      {
-        "title": "黄色",
-        "items": [
-          {
-            "name": "ゴールド サブスクリプション パッケージ",
-            "description": "各ステージでは、ランダムな量のゴールドを受け取ります。すべてのプレイヤーは同量のゴールドを受け取ります。"
-          },
-          {
-            "name": "ゴールデンポット",
-            "description": "ラウンド 6-1 では、まだ試合に参加しているすべてのプレイヤーが 250 ゴールドが入ったポットを共有します。"
-          },
-          {
-            "name": "装備ボーナス",
-            "description": "装備を組み合わせるとゴールドを獲得できます。"
-          },
-          {
-            "name": "スターティングゴールド",
-            "description": "7 ボーナスゴールドから始めます。"
-          }
-        ]
-      },
-      {
-        "title": "個性的",
-        "items": [
-          {
-            "name": "ダム・クア",
-            "description": "モンスターはスカトラーズに置き換えられ、倒すと追加の報酬が得られます。"
-          },
-          {
-            "name": "キッカートレーニング",
-            "description": "3つのシールが永続的に取り付けられたストーンマン1体から開始します。"
-          },
-          {
-            "name": "トレジャーに登録する",
-            "description": "各ステージでは、さまざまな装備プールからランダムな宝物を 1 つ受け取ります。"
-          },
-          {
-            "name": "ダンシングクラブ",
-            "description": "モンスターはスカトラーズに置き換えられ、倒すと追加の報酬が得られます。巨大なカニは非常に危険です。"
-          },
-          {
-            "name": "アップグレードリング交換",
-            "description": "アップグレードはこの戦闘の早い段階で授与されます。"
-          },
-          {
-            "name": "早起き",
-            "description": "2つ目の覚醒の実は、ラウンド3～6ではなくラウンド2～6に出現します。"
-          },
-          {
-            "name": "ビーチバレーボール",
-            "description": "ビーチバレーボール！霊獣がジャグリングできるビーチボールを手に入れよう！"
-          },
-          {
-            "name": "勝利協会",
-            "description": "トップ 4 の後、生き残ったプレイヤーは 10 ゴールドと 2 つのコンポーネント装備パックを受け取ります。"
-          },
-          {
-            "name": "キング・オブ・ノイズ",
-            "description": "ショッピング ラウンドに新たな競争相手が登場しました。"
-          },
-          {
-            "name": "グランドファイナル",
-            "description": "これがグランドファイナルだ！勇者よ、自分の力で進んでください。"
-          },
-          {
-            "name": "インディアンコレクション",
-            "description": "まずはランダムに3回押します。"
-          },
-          {
-            "name": "対決マスターズ",
-            "description": "最後まで生き残ったプレイヤー 2 名は、死ぬまで決戦を行うために 70 ゴールドを受け取ります。"
-          },
-          {
-            "name": "偵察部隊",
-            "description": "この戦闘でアップグレードと引き換えに +1 ターンを獲得します。"
-          },
-          {
-            "name": "ハウリングアビス",
-            "description": "ランダムな 5 つの 1 金の将軍で試合を開始します。"
-          },
-          {
-            "name": "ウォリアーアリーナ",
-            "description": "プレイヤーが排除されるたびに、生き残ったプレイヤーは排除されたプレイヤーごとに 3 ゴールドを受け取ります。"
-          },
-          {
-            "name": "コズミック・ジャーニー",
-            "description": "各期間の開始時に無料引き換えを獲得してください。"
-          },
-          {
-            "name": "グウェンからの贈り物",
-            "description": "最初の 3 ラウンドの買い物の後、グウェンはプレーヤーにコンポーネント機器 1 つと、機器を切り分けることができるハサミ 1 組を与えます。"
-          },
-          {
-            "name": "ゴールデンシャベル",
-            "description": "ゴールドシャベル1個から始めます。"
-          },
-          {
-            "name": "メルの祝福",
-            "description": "プレイヤーの体力が 40 残っている場合、メルは強力な宝物をくれます。"
-          },
-          {
-            "name": "フルショッピングサークル",
-            "description": "ショッピング ラウンドの将軍には追加の装備コンポーネントが 1 つあります。"
-          },
-          {
-            "name": "トレジャーストーンマン",
-            "description": "1 つの不安定な宝箱を永続的に装備した 1 人のストーンマンから開始します。ゲームの終わりに、ストーンマンは 2 つ目の不安定な宝箱を装備します。"
-          },
-          {
-            "name": "宝物",
-            "description": "ステージ 4 ～ 7 では、強力な宝物が 5 つ入ったパックを選択します。"
-          },
-          {
-            "name": "ゴールデンパン",
-            "description": "ゴールドパン1個から始めます。"
-          },
-          {
-            "name": "超宝神竜",
-            "description": "超宝神竜"
-          },
-          {
-            "name": "神竜の使者",
-            "description": "神竜の使者"
-          },
-          {
-            "name": "ハック: 宝物",
-            "description": "ステージ 4 の NPC リングは引き換え可能な宝物に置き換えられます。"
-          },
-          {
-            "name": "ドラゴン族パッケージ",
-            "description": "ドラゴン族パッケージ"
-          }
-        ]
-      },
-      {
-        "title": "デフォルト",
-        "items": [
-          {
-            "name": "出会いのサイクルはない。",
-            "description": "この試合では再会はありません。"
-          }
-        ]
-      }
-    ],
+    "vong_ky_ngo": [],
     "roll": [
       [
         "最大30人の将軍",
@@ -23581,242 +23330,172 @@
   "champions_by_gold": [
     [
       {
-        "id": "aatrox",
-        "name": "Aatrox",
-        "img_url": "TFT17_Aatrox_Square.TFT_Set17.png"
-      },
-      {
-        "id": "caitlyn",
-        "name": "Caitlyn",
-        "img_url": "TFT17_Caitlyn_Square.TFT_Set17.png"
+        "id": "briar",
+        "name": "Briar",
+        "img_url": "tft17_briar.tft_set17.png"
       },
       {
         "id": "cho'gath",
         "name": "Cho'Gath",
-        "img_url": "TFT17_Chogath_Square.TFT_Set17.png"
+        "img_url": "tft17_chogath.tft_set17.png"
       },
       {
         "id": "ezreal",
         "name": "Ezreal",
-        "img_url": "TFT17_Ezreal_Square.TFT_Set17.png"
+        "img_url": "tft17_ezreal.tft_set17.png"
       },
       {
         "id": "leona",
         "name": "Leona",
-        "img_url": "TFT17_Leona_Square.TFT_Set17.png"
+        "img_url": "tft17_leona.tft_set17.png"
       },
       {
         "id": "lissandra",
         "name": "Lissandra",
-        "img_url": "TFT17_Lissandra_Square.TFT_Set17.png"
-      },
-      {
-        "id": "poppy",
-        "name": "Poppy",
-        "img_url": "TFT17_Poppy_Square.TFT_Set17.png"
+        "img_url": "tft17_lissandra.tft_set17.png"
       },
       {
         "id": "talon",
         "name": "Talon",
-        "img_url": "TFT17_Talon_Square.TFT_Set17.png"
+        "img_url": "tft17_talon.tft_set17.png"
       },
       {
         "id": "teemo",
         "name": "Teemo",
-        "img_url": "TFT17_Teemo_Square.TFT_Set17.png"
+        "img_url": "tft17_teemo.tft_set17.png"
       },
       {
         "id": "twisted_fate",
         "name": "Twisted Fate",
-        "img_url": "TFT17_TwistedFate_Square.TFT_Set17.png"
-      },
-      {
-        "id": "veigar",
-        "name": "Veigar",
-        "img_url": "TFT17_Veigar_Square.TFT_Set17.png"
+        "img_url": "tft17_twistedfate.tft_set17.png"
       }
     ],
     [
       {
         "id": "akali",
         "name": "Akali",
-        "img_url": "TFT17_Akali_Square.TFT_Set17.png"
+        "img_url": "tft17_akali.tft_set17.png"
       },
       {
         "id": "bel'veth",
         "name": "Bel'Veth",
-        "img_url": "TFT17_Belveth_Square.TFT_Set17.png"
-      },
-      {
-        "id": "gwen",
-        "name": "Gwen",
-        "img_url": "TFT17_Gwen_Square.TFT_Set17.png"
+        "img_url": "tft17_belveth.tft_set17.png"
       },
       {
         "id": "jax",
         "name": "Jax",
-        "img_url": "TFT17_Jax_Square.TFT_Set17.png"
-      },
-      {
-        "id": "meepsie",
-        "name": "Meepsie",
-        "img_url": "TFT17_IvernMinion_Square.TFT_Set17.png"
-      },
-      {
-        "id": "milio",
-        "name": "Milio",
-        "img_url": "TFT17_Milio_Square.TFT_Set17.png"
-      },
-      {
-        "id": "pantheon",
-        "name": "Pantheon",
-        "img_url": "TFT17_Pantheon_Square.TFT_Set17.png"
-      },
-      {
-        "id": "pyke",
-        "name": "Pyke",
-        "img_url": "TFT17_Pyke_Square.TFT_Set17.png"
+        "img_url": "tft17_jax.tft_set17.png"
       }
     ],
     [
       {
-        "id": "aurora",
-        "name": "Aurora",
-        "img_url": "TFT17_Aurora_Square.TFT_Set17.png"
-      },
-      {
-        "id": "diana",
-        "name": "Diana",
-        "img_url": "TFT17_Diana_Teamplanner_Splash.TFT_Set17.png"
-      },
-      {
         "id": "fizz",
         "name": "Fizz",
-        "img_url": "TFT17_Fizz_Square.TFT_Set17.png"
+        "img_url": "tft17_fizz.tft_set17.png"
       },
       {
         "id": "illaoi",
         "name": "Illaoi",
-        "img_url": "TFT17_Illaoi_Square.TFT_Set17.png"
+        "img_url": "tft17_illaoi.tft_set17.png"
       },
       {
         "id": "kai'sa",
         "name": "Kai'Sa",
-        "img_url": "TFT17_Kaisa_Square.TFT_Set17.png"
-      },
-      {
-        "id": "lulu",
-        "name": "Lulu",
-        "img_url": "TFT17_Lulu_Square.TFT_Set17.png"
-      },
-      {
-        "id": "maokai",
-        "name": "Maokai",
-        "img_url": "TFT17_Maokai_Square.TFT_Set17.png"
+        "img_url": "tft17_kaisa.tft_set17.png"
       },
       {
         "id": "ornn",
         "name": "Ornn",
-        "img_url": "TFT17_Ornn_Square.TFT_Set17.png"
+        "img_url": "tft17_ornn.tft_set17.png"
       },
       {
         "id": "viktor",
         "name": "Viktor",
-        "img_url": "TFT17_Viktor_Square.TFT_Set17.png"
+        "img_url": "tft17_viktor.tft_set17.png"
       }
     ],
     [
       {
-        "id": "aurelion_sol",
-        "name": "Aurelion Sol",
-        "img_url": "TFT17_AurelionSol_Square.TFT_Set17.png"
-      },
-      {
         "id": "corki",
         "name": "Corki",
-        "img_url": "TFT17_Corki_Square.TFT_Set17.png"
+        "img_url": "tft17_corki.tft_set17.png"
       },
       {
         "id": "karma",
         "name": "Karma",
-        "img_url": "TFT17_Karma_Square.TFT_Set17.png"
+        "img_url": "tft17_karma.tft_set17.png"
       },
       {
         "id": "kindred",
         "name": "Kindred",
-        "img_url": "TFT17_Kindred_Square.TFT_Set17.png"
+        "img_url": "tft17_kindred.tft_set17.png"
       },
       {
         "id": "leblanc",
         "name": "LeBlanc",
-        "img_url": "TFT17_Leblanc_Square.TFT_Set17.png"
+        "img_url": "tft17_leblanc.tft_set17.png"
       },
       {
         "id": "master_yi",
         "name": "Master Yi",
-        "img_url": "TFT17_MasterYi_Square.TFT_Set17.png"
+        "img_url": "tft17_masteryi.tft_set17.png"
       },
       {
         "id": "nami",
         "name": "Nami",
-        "img_url": "TFT17_Nami_Square.TFT_Set17.png"
+        "img_url": "tft17_nami.tft_set17.png"
       },
       {
         "id": "nunu_&_willump",
         "name": "Nunu & Willump",
-        "img_url": "TFT17_Nunu_Square.TFT_Set17.png"
+        "img_url": "tft17_nunu.tft_set17.png"
       },
       {
         "id": "rammus",
         "name": "Rammus",
-        "img_url": "TFT17_Rammus_Square.TFT_Set17.png"
+        "img_url": "tft17_rammus.tft_set17.png"
       },
       {
         "id": "riven",
         "name": "Riven",
-        "img_url": "TFT17_Riven_Square.TFT_Set17.png"
+        "img_url": "tft17_riven.tft_set17.png"
       },
       {
         "id": "tahm_kench",
         "name": "Tahm Kench",
-        "img_url": "TFT17_TahmKench_Square.TFT_Set17.png"
-      },
-      {
-        "id": "the_mighty_mech",
-        "name": "The Mighty Mech",
-        "img_url": "TFT17_Galio_Square.TFT_Set17.png"
+        "img_url": "tft17_tahmkench.tft_set17.png"
       },
       {
         "id": "xayah",
         "name": "Xayah",
-        "img_url": "TFT17_Xayah_Square.TFT_Set17.png"
+        "img_url": "tft17_xayah.tft_set17.png"
       }
     ],
     [
       {
         "id": "bard",
         "name": "Bard",
-        "img_url": "TFT17_Bard_Square.TFT_Set17.png"
+        "img_url": "tft17_bard.tft_set17.png"
       },
       {
         "id": "fiora",
         "name": "Fiora",
-        "img_url": "TFT17_Fiora_Square.TFT_Set17.png"
+        "img_url": "tft17_fiora.tft_set17.png"
       },
       {
         "id": "graves",
         "name": "Graves",
-        "img_url": "TFT17_Graves_Square.TFT_Set17.png"
+        "img_url": "tft17_graves.tft_set17.png"
       },
       {
         "id": "jhin",
         "name": "Jhin",
-        "img_url": "TFT17_Jhin_Square.TFT_Set17.png"
+        "img_url": "tft17_jhin.tft_set17.png"
       },
       {
         "id": "vex",
         "name": "Vex",
-        "img_url": "TFT17_Vex_Square.TFT_Set17.png"
+        "img_url": "tft17_vex.tft_set17.png"
       }
     ]
   ]
