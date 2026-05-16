@@ -1,0 +1,596 @@
+{
+  "vong_ky_ngo": [],
+  "roll": [
+    [
+      "Maximum 30 generals",
+      "Maximum 25 generals",
+      "Maximum 18 generals",
+      "Maximum 10 generals",
+      "Maximum 9 generals"
+    ],
+    [
+      "100%",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    [
+      "100%",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    [
+      "75%",
+      "25%",
+      "0",
+      "0",
+      "0"
+    ],
+    [
+      "55%",
+      "30%",
+      "15%",
+      "0",
+      "0"
+    ],
+    [
+      "45%",
+      "33%",
+      "20%",
+      "2%",
+      "0"
+    ],
+    [
+      "30%",
+      "40%",
+      "25%",
+      "5%",
+      "0"
+    ],
+    [
+      "19%",
+      "30%",
+      "40%",
+      "10%",
+      "1%"
+    ],
+    [
+      "17%",
+      "24%",
+      "32%",
+      "24%",
+      "3%"
+    ],
+    [
+      "15%",
+      "18%",
+      "25%",
+      "30%",
+      "12%"
+    ],
+    [
+      "5%",
+      "10%",
+      "20%",
+      "40%",
+      "25%"
+    ],
+    [
+      "1%",
+      "2%",
+      "12%",
+      "50%",
+      "35%"
+    ]
+  ],
+  "vang_kinh_nghiem": {
+    "thuong_vong": [
+      {
+        "col_one": "Ring",
+        "col_tow": "Bonus"
+      },
+      {
+        "icon": "round",
+        "name": "Round 1-2",
+        "value": "+2 Gold"
+      },
+      {
+        "icon": "round",
+        "name": "Rounds 1-3",
+        "value": "+2 Gold"
+      },
+      {
+        "icon": "round",
+        "name": "Rounds 1-4",
+        "value": "+3 Gold"
+      },
+      {
+        "icon": "round",
+        "name": "Round 2-1",
+        "value": "+4 Gold"
+      },
+      {
+        "icon": "round",
+        "name": "Round 2-2+",
+        "value": "+5 Gold"
+      }
+    ],
+    "thuong_vong_pvp": [
+      {
+        "col_one": "Win/Loss",
+        "col_tow": "Bonus"
+      },
+      {
+        "icon": "imperial",
+        "name": "Win Round",
+        "value": "+1 Gold"
+      },
+      {
+        "icon": "death",
+        "name": "Lose Round",
+        "value": "0 Gold"
+      }
+    ],
+    "win": [
+      {
+        "col_one": "Winning Chain",
+        "col_tow": "Bonus"
+      },
+      {
+        "icon": "fire",
+        "name": "6 Win",
+        "value": "+3 Gold"
+      },
+      {
+        "icon": "fire",
+        "name": "5 Win",
+        "value": "+2 Gold"
+      },
+      {
+        "icon": "fire",
+        "name": "4 Win",
+        "value": "+1 Gold"
+      },
+      {
+        "icon": "fire",
+        "name": "3 Win",
+        "value": "+1 Gold"
+      },
+      {
+        "icon": "fire",
+        "name": "2 Win",
+        "value": "+1 Gold"
+      }
+    ],
+    "lose": [
+      {
+        "col_one": "Losing Streak",
+        "col_tow": "Bonus"
+      },
+      {
+        "icon": "death",
+        "name": "2 Lose",
+        "value": "+1 Gold"
+      },
+      {
+        "icon": "death",
+        "name": "3 Lose",
+        "value": "+1 Gold"
+      },
+      {
+        "icon": "death",
+        "name": "4 Lose",
+        "value": "+1 Gold"
+      },
+      {
+        "icon": "death",
+        "name": "5 Lose",
+        "value": "+2 Gold"
+      },
+      {
+        "icon": "death",
+        "name": "6 Lose",
+        "value": "+3 Gold"
+      }
+    ],
+    "loi_tuc": [
+      {
+        "col_one": "Yellow",
+        "col_tow": "Bonus"
+      },
+      {
+        "icon": "gold",
+        "name": "0~9 Gold",
+        "value": "0 Gold"
+      },
+      {
+        "icon": "gold",
+        "name": "10~19 Gold",
+        "value": "+1 Gold"
+      },
+      {
+        "icon": "gold",
+        "name": "20~29 Gold",
+        "value": "+2 Gold"
+      },
+      {
+        "icon": "gold",
+        "name": "30~39 Gold",
+        "value": "+3 Gold"
+      },
+      {
+        "icon": "gold",
+        "name": "40~49 Gold",
+        "value": "+4 Gold"
+      },
+      {
+        "icon": "gold",
+        "name": "+5 Gold",
+        "value": "50 Gold"
+      }
+    ],
+    "bang_xp": [
+      {
+        "col_one": "Grant",
+        "col_tow": "Number of XP needed"
+      },
+      {
+        "icon": "level",
+        "name": "Level 1",
+        "value": "0 Gold"
+      },
+      {
+        "icon": "level",
+        "name": "Level 1",
+        "value": "0 XP"
+      },
+      {
+        "icon": "level",
+        "name": "Level 2",
+        "value": "0 XP"
+      },
+      {
+        "icon": "level",
+        "name": "Level 3",
+        "value": "2 XP"
+      },
+      {
+        "icon": "level",
+        "name": "Level 4",
+        "value": "6 XP"
+      },
+      {
+        "icon": "level",
+        "name": "Level 5",
+        "value": "10 XP"
+      },
+      {
+        "icon": "level",
+        "name": "Level 6",
+        "value": "20 XP"
+      },
+      {
+        "icon": "level",
+        "name": "Level 7",
+        "value": "36 XP"
+      },
+      {
+        "icon": "level",
+        "name": "Level 8",
+        "value": "60 XP"
+      },
+      {
+        "icon": "level",
+        "name": "Level 9",
+        "value": "68 XP"
+      },
+      {
+        "icon": "level",
+        "name": "Level 10",
+        "value": "68 XP"
+      }
+    ]
+  },
+  "cong_thuc_sat_thuong": {
+    "sat_thuong_vong": [
+      {
+        "col_one": "Total number of generals",
+        "col_tow": "Damage"
+      },
+      {
+        "icon": "champion",
+        "name": "1 General",
+        "value": "1 Damage"
+      },
+      {
+        "icon": "champion",
+        "name": "2 Generals",
+        "value": "2 Damage"
+      },
+      {
+        "icon": "champion",
+        "name": "3 Generals",
+        "value": "3 Damage"
+      },
+      {
+        "icon": "champion",
+        "name": "4 Generals",
+        "value": "4 Damage"
+      },
+      {
+        "icon": "champion",
+        "name": "5 Generals",
+        "value": "5 Damage"
+      },
+      {
+        "icon": "champion",
+        "name": "6 Generals",
+        "value": "6 Damage"
+      },
+      {
+        "icon": "champion",
+        "name": "7 Generals",
+        "value": "7 Damage"
+      },
+      {
+        "icon": "champion",
+        "name": "8 Generals",
+        "value": "8 Damage"
+      },
+      {
+        "icon": "champion",
+        "name": "9 Generals",
+        "value": "9 Damage"
+      },
+      {
+        "icon": "champion",
+        "name": "10 Generals",
+        "value": "10 Damage"
+      }
+    ],
+    "sat_thuong_tuong": [
+      {
+        "col_one": "Round",
+        "col_tow": "Damage"
+      },
+      {
+        "icon": "round",
+        "name": "Round 1",
+        "value": "+0 Damage"
+      },
+      {
+        "icon": "round",
+        "name": "Round 2",
+        "value": "+2 Damage"
+      },
+      {
+        "icon": "round",
+        "name": "Round 3",
+        "value": "+5 Damage"
+      },
+      {
+        "icon": "round",
+        "name": "Round 4",
+        "value": "+8 Damage"
+      },
+      {
+        "icon": "round",
+        "name": "Round 5",
+        "value": "+10 Damage"
+      },
+      {
+        "icon": "round",
+        "name": "Round 6",
+        "value": "+12 Damage"
+      },
+      {
+        "icon": "round",
+        "name": "Round 7+",
+        "value": "+17 Damage"
+      }
+    ]
+  },
+  "vong": [
+    [
+      {
+        "image": "round-select-portal.webp",
+        "title": "Select the teleportation portal"
+      },
+      {
+        "image": "round-minions.webp",
+        "title": "Soldier"
+      },
+      {
+        "image": "round-minions.webp",
+        "title": "Soldier"
+      },
+      {
+        "image": "round-minions.webp",
+        "title": "Soldier"
+      }
+    ],
+    [
+      {
+        "image": "round-box.webp",
+        "title": "Player"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Player"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Player"
+      },
+      {
+        "image": "round-select-item.webp",
+        "title": "Choose equipment"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Player"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Player"
+      },
+      {
+        "image": "round-krugs.webp",
+        "title": "Fuck rock"
+      }
+    ],
+    [
+      {
+        "image": "round-weapon.webp",
+        "title": "Player"
+      },
+      {
+        "image": "round-box.webp",
+        "title": "Player"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Player"
+      },
+      {
+        "image": "round-select-item.webp",
+        "title": "Choose equipment"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Player"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Player"
+      },
+      {
+        "image": "round-murk-wolves.webp",
+        "title": "Dark Wolf"
+      }
+    ],
+    [
+      {
+        "image": "round-weapon.webp",
+        "title": "Player"
+      },
+      {
+        "image": "round-box.webp",
+        "title": "Player"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Player"
+      },
+      {
+        "image": "round-select-item.webp",
+        "title": "Choose equipment"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Player"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Player"
+      },
+      {
+        "image": "round-raptor.webp",
+        "title": "Mutant Bird"
+      }
+    ],
+    [
+      {
+        "image": "round-weapon.webp",
+        "title": "Player"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Player"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Player"
+      },
+      {
+        "image": "round-select-item.webp",
+        "title": "Choose equipment"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Player"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Player"
+      },
+      {
+        "image": "round-elder-dragon.webp",
+        "title": "Elder Dragon"
+      }
+    ],
+    [
+      {
+        "image": "round-weapon.webp",
+        "title": "Player"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Player"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Player"
+      },
+      {
+        "image": "round-select-item.webp",
+        "title": "Choose equipment"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Player"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Player"
+      },
+      {
+        "image": "round-elder-dragon.webp",
+        "title": "Elder Dragon"
+      }
+    ],
+    [
+      {
+        "image": "round-weapon.webp",
+        "title": "Player"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Player"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Player"
+      },
+      {
+        "image": "round-select-item.webp",
+        "title": "Choose equipment"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Player"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Player"
+      },
+      {
+        "image": "round-elder-dragon.webp",
+        "title": "Elder Dragon"
+      }
+    ]
+  ]
+}
