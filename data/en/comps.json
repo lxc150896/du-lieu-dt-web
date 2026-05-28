@@ -11,10 +11,10 @@
             "Normal",
             "Popular"
         ],
-        "average_position": "4.04",
-        "top_1_rate": "15.31",
-        "top_4_rate": "60.00",
-        "pick_rate": "3.86",
+        "average_position": "4.16",
+        "top_1_rate": "15.39",
+        "top_4_rate": "56.51",
+        "pick_rate": "4.99",
         "synergys": [
             {
                 "trait_name": "Party Animal",
@@ -150,12 +150,12 @@
                 "champ_main_geleral_level": null,
                 "items": [
                     {
-                        "item_img": "TFT_Item_GargoyleStoneplate.png",
-                        "item_name": "Gargoyle Stoneplate"
+                        "item_img": "TFT_Item_BrambleVest.png",
+                        "item_name": "Bramble Vest"
                     },
                     {
-                        "item_img": "TFT_Item_Redemption.png",
-                        "item_name": "Spirit Visage"
+                        "item_img": "TFT_Item_Crownguard.png",
+                        "item_name": "Crownguard"
                     },
                     {
                         "item_img": "TFT_Item_WarmogsArmor.png",
@@ -238,16 +238,16 @@
                 "img_name_build_do_thanh_phan_two": "TFT_Item_ChainVest.png"
             },
             {
-                "name_build_do": "Gargoyle Stoneplate",
-                "img_name_build_do": "TFT_Item_GargoyleStoneplate.png",
+                "name_build_do": "Bramble Vest",
+                "img_name_build_do": "TFT_Item_BrambleVest.png",
                 "img_name_build_do_thanh_phan_one": "TFT_Item_ChainVest.png",
-                "img_name_build_do_thanh_phan_two": "TFT_Item_NegatronCloak.png"
+                "img_name_build_do_thanh_phan_two": "TFT_Item_ChainVest.png"
             },
             {
-                "name_build_do": "Spirit Visage",
-                "img_name_build_do": "TFT_Item_Redemption.png",
-                "img_name_build_do_thanh_phan_one": "TFT_Item_TearOfTheGoddess.png",
-                "img_name_build_do_thanh_phan_two": "TFT_Item_GiantsBelt.png"
+                "name_build_do": "Crownguard",
+                "img_name_build_do": "TFT_Item_Crownguard.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_NeedlesslyLargeRod.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_ChainVest.png"
             },
             {
                 "name_build_do": "Warmog's Armor",
@@ -544,22 +544,22 @@
         ],
         "ti_le_thang_for_levels": [
             {
-                "ti_le_thang": "47.10%"
+                "ti_le_thang": "47.19%"
             },
             {
-                "ti_le_thang": "59.07%"
+                "ti_le_thang": "59.11%"
             },
             {
-                "ti_le_thang": "36.31%"
+                "ti_le_thang": "36.35%"
             },
             {
-                "ti_le_thang": "44.56%"
+                "ti_le_thang": "44.27%"
             },
             {
-                "ti_le_thang": "52.47%"
+                "ti_le_thang": "52.44%"
             },
             {
-                "ti_le_thang": "57.25%"
+                "ti_le_thang": "57.30%"
             },
             {
                 "ti_le_thang": "66.67%"
@@ -638,584 +638,31 @@
         ],
         "tang_cuongs": [
             [],
-            [],
-            []
-        ]
-    },
-    {
-        "stt": 2,
-        "id": "stargazer_lulu",
-        "copy_hex": "0201d02b02c03d02503001e021000000TFTSet17",
-        "tier_img": "icon-tier-OP.png",
-        "comp_name": "Stargazer Lulu",
-        "comp_price": "51",
-        "tags": [
-            "Lv 7",
-            "Normal",
-            "Popular"
-        ],
-        "average_position": "3.26",
-        "top_1_rate": "16.34",
-        "top_4_rate": "77.45",
-        "pick_rate": "1.32",
-        "synergys": [
-            {
-                "trait_name": "Redeemer",
-                "trait_id": "redeemer",
-                "trait_img": "Trait_Icon_17_Redeemer.TFT_Set17.png",
-                "trait_count": "1"
-            },
-            {
-                "trait_name": "N.O.V.A.",
-                "trait_id": "n.o.v.a.",
-                "trait_img": "Trait_Icon_17_NOVA.TFT_Set17.png",
-                "trait_count": "2"
-            },
-            {
-                "trait_name": "Bastion",
-                "trait_id": "bastion",
-                "trait_img": "Trait_Icon_9_Bastion.png",
-                "trait_count": "2"
-            },
-            {
-                "trait_name": "Replicator",
-                "trait_id": "replicator",
-                "trait_img": "Trait_Icon_17_Replicator.TFT_Set17.png",
-                "trait_count": "2"
-            },
-            {
-                "trait_name": "Brawler",
-                "trait_id": "brawler",
-                "trait_img": "Trait_Icon_Brawler.png",
-                "trait_count": "2"
-            },
-            {
-                "trait_name": "Timebreaker",
-                "trait_id": "timebreaker",
-                "trait_img": "Trait_Icon_17_Timebreaker.TFT_Set17.png",
-                "trait_count": "2"
-            },
-            {
-                "trait_name": "Fateweaver",
-                "trait_id": "fateweaver",
-                "trait_img": "Trait_Icon_17_Fateweaver.TFT_Set17.png",
-                "trait_count": "2"
-            },
-            {
-                "trait_name": "Stargazer",
-                "trait_id": "stargazer",
-                "trait_img": "Trait_Icon_17_Stargazer.TFT_Set17.png",
-                "trait_count": "3"
-            }
-        ],
-        "champs": [
-            {
-                "champions_id": "aatrox",
-                "champions_name": "Aatrox",
-                "champ_img": "tft17_aatrox.tft_set17.png",
-                "star": 0,
-                "champ_main_geleral_level": null,
-                "items": [],
-                "khoa_tuong": false
-            },
-            {
-                "champions_id": "twisted_fate",
-                "champions_name": "Twisted Fate",
-                "champ_img": "tft17_twistedfate.tft_set17.png",
-                "star": 0,
-                "champ_main_geleral_level": null,
-                "items": [],
-                "khoa_tuong": false
-            },
-            {
-                "champions_id": "jax",
-                "champions_name": "Jax",
-                "champ_img": "tft17_jax.tft_set17.png",
-                "star": 3,
-                "champ_main_geleral_level": "2nd",
-                "items": [
-                    {
-                        "item_img": "TFT_Item_Crownguard.png",
-                        "item_name": "Crownguard"
-                    },
-                    {
-                        "item_img": "TFT_Item_GargoyleStoneplate.png",
-                        "item_name": "Gargoyle Stoneplate"
-                    },
-                    {
-                        "item_img": "TFT_Item_GargoyleStoneplate.png",
-                        "item_name": "Gargoyle Stoneplate"
-                    }
-                ],
-                "khoa_tuong": false
-            },
-            {
-                "champions_id": "milio",
-                "champions_name": "Milio",
-                "champ_img": "tft17_milio.tft_set17.png",
-                "star": 3,
-                "champ_main_geleral_level": "3rd",
-                "items": [
-                    {
-                        "item_img": "TFT_Item_Morellonomicon.png",
-                        "item_name": "Morellonomicon"
-                    },
-                    {
-                        "item_img": "TFT_Item_RabadonsDeathcap.png",
-                        "item_name": "Rabadon's Deathcap"
-                    },
-                    {
-                        "item_img": "TFT_Item_SpearOfShojin.png",
-                        "item_name": "Spear of Shojin"
-                    }
-                ],
-                "khoa_tuong": false
-            },
-            {
-                "champions_id": "pantheon",
-                "champions_name": "Pantheon",
-                "champ_img": "tft17_pantheon.tft_set17.png",
-                "star": 3,
-                "champ_main_geleral_level": null,
-                "items": [],
-                "khoa_tuong": false
-            },
-            {
-                "champions_id": "lulu",
-                "champions_name": "Lulu",
-                "champ_img": "tft17_lulu.tft_set17.png",
-                "star": 3,
-                "champ_main_geleral_level": "1st",
-                "items": [
-                    {
-                        "item_img": "TFT_Item_JeweledGauntlet.png",
-                        "item_name": "Jeweled Gauntlet"
-                    },
-                    {
-                        "item_img": "TFT_Item_Leviathan.png",
-                        "item_name": "Nashor's Tooth"
-                    },
-                    {
-                        "item_img": "TFT_Item_Leviathan.png",
-                        "item_name": "Nashor's Tooth"
-                    }
-                ],
-                "khoa_tuong": false
-            },
-            {
-                "champions_id": "maokai",
-                "champions_name": "Maokai",
-                "champ_img": "tft17_maokai.tft_set17.png",
-                "star": 3,
-                "champ_main_geleral_level": null,
-                "items": [
-                    {
-                        "item_img": "TFT_Item_GargoyleStoneplate.png",
-                        "item_name": "Gargoyle Stoneplate"
-                    },
-                    {
-                        "item_img": "TFT_Item_Redemption.png",
-                        "item_name": "Spirit Visage"
-                    },
-                    {
-                        "item_img": "TFT_Item_WarmogsArmor.png",
-                        "item_name": "Warmog's Armor"
-                    }
-                ],
-                "khoa_tuong": false
-            },
-            {
-                "champions_id": "rhaast",
-                "champions_name": "Rhaast",
-                "champ_img": "tft17_kayn_slay.tft_set17.png",
-                "star": 0,
-                "champ_main_geleral_level": null,
-                "items": [],
-                "khoa_tuong": false
-            }
-        ],
-        "items": [
-            {
-                "name_build_do": "Crownguard",
-                "img_name_build_do": "TFT_Item_Crownguard.png",
-                "img_name_build_do_thanh_phan_one": "TFT_Item_NeedlesslyLargeRod.png",
-                "img_name_build_do_thanh_phan_two": "TFT_Item_ChainVest.png"
-            },
-            {
-                "name_build_do": "Gargoyle Stoneplate",
-                "img_name_build_do": "TFT_Item_GargoyleStoneplate.png",
-                "img_name_build_do_thanh_phan_one": "TFT_Item_ChainVest.png",
-                "img_name_build_do_thanh_phan_two": "TFT_Item_NegatronCloak.png"
-            },
-            {
-                "name_build_do": "Gargoyle Stoneplate",
-                "img_name_build_do": "TFT_Item_GargoyleStoneplate.png",
-                "img_name_build_do_thanh_phan_one": "TFT_Item_ChainVest.png",
-                "img_name_build_do_thanh_phan_two": "TFT_Item_NegatronCloak.png"
-            },
-            {
-                "name_build_do": "Morellonomicon",
-                "img_name_build_do": "TFT_Item_Morellonomicon.png",
-                "img_name_build_do_thanh_phan_one": "TFT_Item_NeedlesslyLargeRod.png",
-                "img_name_build_do_thanh_phan_two": "TFT_Item_GiantsBelt.png"
-            },
-            {
-                "name_build_do": "Rabadon's Deathcap",
-                "img_name_build_do": "TFT_Item_RabadonsDeathcap.png",
-                "img_name_build_do_thanh_phan_one": "TFT_Item_NeedlesslyLargeRod.png",
-                "img_name_build_do_thanh_phan_two": "TFT_Item_NeedlesslyLargeRod.png"
-            },
-            {
-                "name_build_do": "Spear of Shojin",
-                "img_name_build_do": "TFT_Item_SpearOfShojin.png",
-                "img_name_build_do_thanh_phan_one": "TFT_Item_BFSword.png",
-                "img_name_build_do_thanh_phan_two": "TFT_Item_TearOfTheGoddess.png"
-            },
-            {
-                "name_build_do": "Jeweled Gauntlet",
-                "img_name_build_do": "TFT_Item_JeweledGauntlet.png",
-                "img_name_build_do_thanh_phan_one": "TFT_Item_NeedlesslyLargeRod.png",
-                "img_name_build_do_thanh_phan_two": "TFT_Item_SparringGloves.png"
-            },
-            {
-                "name_build_do": "Nashor's Tooth",
-                "img_name_build_do": "TFT_Item_Leviathan.png",
-                "img_name_build_do_thanh_phan_one": "TFT_Item_RecurveBow.png",
-                "img_name_build_do_thanh_phan_two": "TFT_Item_GiantsBelt.png"
-            },
-            {
-                "name_build_do": "Nashor's Tooth",
-                "img_name_build_do": "TFT_Item_Leviathan.png",
-                "img_name_build_do_thanh_phan_one": "TFT_Item_RecurveBow.png",
-                "img_name_build_do_thanh_phan_two": "TFT_Item_GiantsBelt.png"
-            },
-            {
-                "name_build_do": "Gargoyle Stoneplate",
-                "img_name_build_do": "TFT_Item_GargoyleStoneplate.png",
-                "img_name_build_do_thanh_phan_one": "TFT_Item_ChainVest.png",
-                "img_name_build_do_thanh_phan_two": "TFT_Item_NegatronCloak.png"
-            },
-            {
-                "name_build_do": "Spirit Visage",
-                "img_name_build_do": "TFT_Item_Redemption.png",
-                "img_name_build_do_thanh_phan_one": "TFT_Item_TearOfTheGoddess.png",
-                "img_name_build_do_thanh_phan_two": "TFT_Item_GiantsBelt.png"
-            },
-            {
-                "name_build_do": "Warmog's Armor",
-                "img_name_build_do": "TFT_Item_WarmogsArmor.png",
-                "img_name_build_do_thanh_phan_one": "TFT_Item_GiantsBelt.png",
-                "img_name_build_do_thanh_phan_two": "TFT_Item_GiantsBelt.png"
-            }
-        ],
-        "img_url_huong_dan_dau_game": "huong_dan_dau_game_1.png",
-        "img_url_huong_dan_giua_game": "huong_dan_giua_game_1.png",
-        "img_url_huong_dan_cuoi_game": "huong_dan_cuoi_game_1.png",
-        "img_huong_dan_tuong_tung_level": [
-            {
-                "img_name_huong_dan_tuong_tung_level": "tft17_aatrox.tft_set17.png",
-                "img_name": "Aatrox",
-                "champ_id": "aatrox"
-            },
-            {
-                "img_name_huong_dan_tuong_tung_level": "tft17_talon.tft_set17.png",
-                "img_name": "Talon",
-                "champ_id": "talon"
-            },
-            {
-                "img_name_huong_dan_tuong_tung_level": "tft17_twistedfate.tft_set17.png",
-                "img_name": "Twisted Fate",
-                "champ_id": "twisted_fate"
-            },
-            {
-                "img_name_huong_dan_tuong_tung_level": "tft17_jax.tft_set17.png",
-                "img_name": "Jax",
-                "champ_id": "jax"
-            },
-            {
-                "img_name_huong_dan_tuong_tung_level": "tft17_aatrox.tft_set17.png",
-                "img_name": "Aatrox",
-                "champ_id": "aatrox"
-            },
-            {
-                "img_name_huong_dan_tuong_tung_level": "tft17_caitlyn.tft_set17.png",
-                "img_name": "Caitlyn",
-                "champ_id": "caitlyn"
-            },
-            {
-                "img_name_huong_dan_tuong_tung_level": "tft17_talon.tft_set17.png",
-                "img_name": "Talon",
-                "champ_id": "talon"
-            },
-            {
-                "img_name_huong_dan_tuong_tung_level": "tft17_twistedfate.tft_set17.png",
-                "img_name": "Twisted Fate",
-                "champ_id": "twisted_fate"
-            },
-            {
-                "img_name_huong_dan_tuong_tung_level": "tft17_jax.tft_set17.png",
-                "img_name": "Jax",
-                "champ_id": "jax"
-            },
-            {
-                "img_name_huong_dan_tuong_tung_level": "tft17_aatrox.tft_set17.png",
-                "img_name": "Aatrox",
-                "champ_id": "aatrox"
-            },
-            {
-                "img_name_huong_dan_tuong_tung_level": "tft17_twistedfate.tft_set17.png",
-                "img_name": "Twisted Fate",
-                "champ_id": "twisted_fate"
-            },
-            {
-                "img_name_huong_dan_tuong_tung_level": "tft17_jax.tft_set17.png",
-                "img_name": "Jax",
-                "champ_id": "jax"
-            },
-            {
-                "img_name_huong_dan_tuong_tung_level": "tft17_milio.tft_set17.png",
-                "img_name": "Milio",
-                "champ_id": "milio"
-            },
-            {
-                "img_name_huong_dan_tuong_tung_level": "tft17_pantheon.tft_set17.png",
-                "img_name": "Pantheon",
-                "champ_id": "pantheon"
-            },
-            {
-                "img_name_huong_dan_tuong_tung_level": "tft17_lulu.tft_set17.png",
-                "img_name": "Lulu",
-                "champ_id": "lulu"
-            },
-            {
-                "img_name_huong_dan_tuong_tung_level": "tft17_aatrox.tft_set17.png",
-                "img_name": "Aatrox",
-                "champ_id": "aatrox"
-            },
-            {
-                "img_name_huong_dan_tuong_tung_level": "tft17_twistedfate.tft_set17.png",
-                "img_name": "Twisted Fate",
-                "champ_id": "twisted_fate"
-            },
-            {
-                "img_name_huong_dan_tuong_tung_level": "tft17_jax.tft_set17.png",
-                "img_name": "Jax",
-                "champ_id": "jax"
-            },
-            {
-                "img_name_huong_dan_tuong_tung_level": "tft17_milio.tft_set17.png",
-                "img_name": "Milio",
-                "champ_id": "milio"
-            },
-            {
-                "img_name_huong_dan_tuong_tung_level": "tft17_pantheon.tft_set17.png",
-                "img_name": "Pantheon",
-                "champ_id": "pantheon"
-            },
-            {
-                "img_name_huong_dan_tuong_tung_level": "tft17_lulu.tft_set17.png",
-                "img_name": "Lulu",
-                "champ_id": "lulu"
-            },
-            {
-                "img_name_huong_dan_tuong_tung_level": "tft17_maokai.tft_set17.png",
-                "img_name": "Maokai",
-                "champ_id": "maokai"
-            },
-            {
-                "img_name_huong_dan_tuong_tung_level": "tft17_aatrox.tft_set17.png",
-                "img_name": "Aatrox",
-                "champ_id": "aatrox"
-            },
-            {
-                "img_name_huong_dan_tuong_tung_level": "tft17_twistedfate.tft_set17.png",
-                "img_name": "Twisted Fate",
-                "champ_id": "twisted_fate"
-            },
-            {
-                "img_name_huong_dan_tuong_tung_level": "tft17_jax.tft_set17.png",
-                "img_name": "Jax",
-                "champ_id": "jax"
-            },
-            {
-                "img_name_huong_dan_tuong_tung_level": "tft17_milio.tft_set17.png",
-                "img_name": "Milio",
-                "champ_id": "milio"
-            },
-            {
-                "img_name_huong_dan_tuong_tung_level": "tft17_pantheon.tft_set17.png",
-                "img_name": "Pantheon",
-                "champ_id": "pantheon"
-            },
-            {
-                "img_name_huong_dan_tuong_tung_level": "tft17_lulu.tft_set17.png",
-                "img_name": "Lulu",
-                "champ_id": "lulu"
-            },
-            {
-                "img_name_huong_dan_tuong_tung_level": "tft17_maokai.tft_set17.png",
-                "img_name": "Maokai",
-                "champ_id": "maokai"
-            },
-            {
-                "img_name_huong_dan_tuong_tung_level": "tft17_kayn_slay.tft_set17.png",
-                "img_name": "Rhaast",
-                "champ_id": "rhaast"
-            },
-            {
-                "img_name_huong_dan_tuong_tung_level": "tft17_aatrox.tft_set17.png",
-                "img_name": "Aatrox",
-                "champ_id": "aatrox"
-            },
-            {
-                "img_name_huong_dan_tuong_tung_level": "tft17_twistedfate.tft_set17.png",
-                "img_name": "Twisted Fate",
-                "champ_id": "twisted_fate"
-            },
-            {
-                "img_name_huong_dan_tuong_tung_level": "tft17_jax.tft_set17.png",
-                "img_name": "Jax",
-                "champ_id": "jax"
-            },
-            {
-                "img_name_huong_dan_tuong_tung_level": "tft17_milio.tft_set17.png",
-                "img_name": "Milio",
-                "champ_id": "milio"
-            },
-            {
-                "img_name_huong_dan_tuong_tung_level": "tft17_pantheon.tft_set17.png",
-                "img_name": "Pantheon",
-                "champ_id": "pantheon"
-            },
-            {
-                "img_name_huong_dan_tuong_tung_level": "tft17_lulu.tft_set17.png",
-                "img_name": "Lulu",
-                "champ_id": "lulu"
-            },
-            {
-                "img_name_huong_dan_tuong_tung_level": "tft17_maokai.tft_set17.png",
-                "img_name": "Maokai",
-                "champ_id": "maokai"
-            },
-            {
-                "img_name_huong_dan_tuong_tung_level": "tft17_kayn_slay.tft_set17.png",
-                "img_name": "Rhaast",
-                "champ_id": "rhaast"
-            },
-            {
-                "img_name_huong_dan_tuong_tung_level": "tft17_morgana.tft_set17.png",
-                "img_name": "Morgana",
-                "champ_id": "morgana"
-            }
-        ],
-        "ti_le_thang_for_levels": [
-            {
-                "ti_le_thang": "49.94%"
-            },
-            {
-                "ti_le_thang": "59.53%"
-            },
-            {
-                "ti_le_thang": "49.72%"
-            },
-            {
-                "ti_le_thang": "52.64%"
-            },
-            {
-                "ti_le_thang": "53.00%"
-            },
-            {
-                "ti_le_thang": "47.56%"
-            }
-        ],
-        "tuong_chu_lucs": [
-            {
-                "champions_id": "jax",
-                "items_do_tuong_chu_luc": [
-                    {
-                        "name_do_tuong_chu_luc": "Crownguard",
-                        "img_url_do_tuong_chu_luc": "TFT_Item_Crownguard.png",
-                        "so_tran_do_tuong_chu_luc": "",
-                        "id": "crownguard"
-                    },
-                    {
-                        "name_do_tuong_chu_luc": "Gargoyle Stoneplate",
-                        "img_url_do_tuong_chu_luc": "TFT_Item_GargoyleStoneplate.png",
-                        "so_tran_do_tuong_chu_luc": "",
-                        "id": "gargoyle_stoneplate"
-                    },
-                    {
-                        "name_do_tuong_chu_luc": "Gargoyle Stoneplate",
-                        "img_url_do_tuong_chu_luc": "TFT_Item_GargoyleStoneplate.png",
-                        "so_tran_do_tuong_chu_luc": "",
-                        "id": "gargoyle_stoneplate"
-                    }
-                ]
-            },
-            {
-                "champions_id": "milio",
-                "items_do_tuong_chu_luc": [
-                    {
-                        "name_do_tuong_chu_luc": "Morellonomicon",
-                        "img_url_do_tuong_chu_luc": "TFT_Item_Morellonomicon.png",
-                        "so_tran_do_tuong_chu_luc": "",
-                        "id": "morellonomicon"
-                    },
-                    {
-                        "name_do_tuong_chu_luc": "Rabadon's Deathcap",
-                        "img_url_do_tuong_chu_luc": "TFT_Item_RabadonsDeathcap.png",
-                        "so_tran_do_tuong_chu_luc": "",
-                        "id": "rabadon's_deathcap"
-                    },
-                    {
-                        "name_do_tuong_chu_luc": "Spear of Shojin",
-                        "img_url_do_tuong_chu_luc": "TFT_Item_SpearOfShojin.png",
-                        "so_tran_do_tuong_chu_luc": "",
-                        "id": "spear_of_shojin"
-                    }
-                ]
-            },
-            {
-                "champions_id": "lulu",
-                "items_do_tuong_chu_luc": [
-                    {
-                        "name_do_tuong_chu_luc": "Jeweled Gauntlet",
-                        "img_url_do_tuong_chu_luc": "TFT_Item_JeweledGauntlet.png",
-                        "so_tran_do_tuong_chu_luc": "",
-                        "id": "jeweled_gauntlet"
-                    },
-                    {
-                        "name_do_tuong_chu_luc": "Nashor's Tooth",
-                        "img_url_do_tuong_chu_luc": "TFT_Item_Leviathan.png",
-                        "so_tran_do_tuong_chu_luc": "",
-                        "id": "nashor's_tooth"
-                    },
-                    {
-                        "name_do_tuong_chu_luc": "Nashor's Tooth",
-                        "img_url_do_tuong_chu_luc": "TFT_Item_Leviathan.png",
-                        "so_tran_do_tuong_chu_luc": "",
-                        "id": "nashor's_tooth"
-                    }
-                ]
-            }
-        ],
-        "tang_cuongs": [
-            [],
             [
                 {
-                    "img": "Grab-Bag-II.png",
-                    "name": "Big Grab Bag",
-                    "id": "big_grab_bag"
+                    "img": "Pandora2.png",
+                    "name": "Pandora's Items II",
+                    "id": "pandora's_items_ii"
+                },
+                {
+                    "img": "PortableForge2.png",
+                    "name": "Portable Forge",
+                    "id": "portable_forge"
+                },
+                {
+                    "img": "ExclusiveCustomization_II.TFT_Set15.png",
+                    "name": "Exclusive Customization",
+                    "id": "exclusive_customization"
                 }
             ],
             []
         ]
     },
     {
-        "stt": 3,
+        "stt": 2,
         "id": "vanguard_vex",
         "copy_hex": "0201404e01102203901c03802903a000TFTSet17",
-        "tier_img": "icon-tier-S.png",
+        "tier_img": "icon-tier-OP.png",
         "comp_name": "Vanguard Vex",
         "comp_price": "105",
         "tags": [
@@ -1223,10 +670,10 @@
             "Hard",
             "Popular"
         ],
-        "average_position": "3.72",
-        "top_1_rate": "16.71",
-        "top_4_rate": "65.22",
-        "pick_rate": "4.46",
+        "average_position": "3.47",
+        "top_1_rate": "23.42",
+        "top_4_rate": "68.80",
+        "pick_rate": "5.90",
         "synergys": [
             {
                 "trait_name": "Party Animal",
@@ -1492,9 +939,9 @@
                 "img_name_build_do_thanh_phan_two": "TFT_Item_RecurveBow.png"
             }
         ],
-        "img_url_huong_dan_dau_game": "huong_dan_dau_game_2.png",
-        "img_url_huong_dan_giua_game": "huong_dan_giua_game_2.png",
-        "img_url_huong_dan_cuoi_game": "huong_dan_cuoi_game_2.png",
+        "img_url_huong_dan_dau_game": "huong_dan_dau_game_1.png",
+        "img_url_huong_dan_giua_game": "huong_dan_giua_game_1.png",
+        "img_url_huong_dan_cuoi_game": "huong_dan_cuoi_game_1.png",
         "img_huong_dan_tuong_tung_level": [
             {
                 "img_name_huong_dan_tuong_tung_level": "tft17_briar.tft_set17.png",
@@ -1764,22 +1211,22 @@
         ],
         "ti_le_thang_for_levels": [
             {
-                "ti_le_thang": "47.10%"
+                "ti_le_thang": "47.19%"
             },
             {
-                "ti_le_thang": "51.07%"
+                "ti_le_thang": "51.12%"
             },
             {
-                "ti_le_thang": "36.31%"
+                "ti_le_thang": "36.35%"
             },
             {
                 "ti_le_thang": "46.46%"
             },
             {
-                "ti_le_thang": "43.52%"
+                "ti_le_thang": "43.49%"
             },
             {
-                "ti_le_thang": "57.38%"
+                "ti_le_thang": "57.43%"
             },
             {
                 "ti_le_thang": "55.83%"
@@ -1857,12 +1304,622 @@
             }
         ],
         "tang_cuongs": [
-            [],
+            [
+                {
+                    "img": "ItemGrabBag1.png",
+                    "name": "Item Grab Bag",
+                    "id": "item_grab_bag"
+                }
+            ],
             [
                 {
                     "img": "PortableForge2.png",
                     "name": "Portable Forge",
                     "id": "portable_forge"
+                },
+                {
+                    "img": "Jeweled-Lotus-II.png",
+                    "name": "Jeweled Lotus I",
+                    "id": "jeweled_lotus_i"
+                },
+                {
+                    "img": "AuraFarming_II.TFT_Set15.png",
+                    "name": "Aura Farming",
+                    "id": "aura_farming"
+                },
+                {
+                    "img": "BoosterPack1_II.TFT_Set17.png",
+                    "name": "Booster Pack+",
+                    "id": "booster_pack+"
+                },
+                {
+                    "img": "ExplosiveGrowth_II.TFT_Set12.png",
+                    "name": "Explosive Growth+",
+                    "id": "explosive_growth+"
+                }
+            ],
+            []
+        ]
+    },
+    {
+        "stt": 3,
+        "id": "stargazer_lulu",
+        "copy_hex": "0201d02b02c03d02503001e021000000TFTSet17",
+        "tier_img": "icon-tier-OP.png",
+        "comp_name": "Stargazer Lulu",
+        "comp_price": "51",
+        "tags": [
+            "Lv 7",
+            "Normal",
+            "Popular"
+        ],
+        "average_position": "3.21",
+        "top_1_rate": "17.93",
+        "top_4_rate": "79.03",
+        "pick_rate": "1.39",
+        "synergys": [
+            {
+                "trait_name": "Redeemer",
+                "trait_id": "redeemer",
+                "trait_img": "Trait_Icon_17_Redeemer.TFT_Set17.png",
+                "trait_count": "1"
+            },
+            {
+                "trait_name": "N.O.V.A.",
+                "trait_id": "n.o.v.a.",
+                "trait_img": "Trait_Icon_17_NOVA.TFT_Set17.png",
+                "trait_count": "2"
+            },
+            {
+                "trait_name": "Bastion",
+                "trait_id": "bastion",
+                "trait_img": "Trait_Icon_9_Bastion.png",
+                "trait_count": "2"
+            },
+            {
+                "trait_name": "Replicator",
+                "trait_id": "replicator",
+                "trait_img": "Trait_Icon_17_Replicator.TFT_Set17.png",
+                "trait_count": "2"
+            },
+            {
+                "trait_name": "Brawler",
+                "trait_id": "brawler",
+                "trait_img": "Trait_Icon_Brawler.png",
+                "trait_count": "2"
+            },
+            {
+                "trait_name": "Timebreaker",
+                "trait_id": "timebreaker",
+                "trait_img": "Trait_Icon_17_Timebreaker.TFT_Set17.png",
+                "trait_count": "2"
+            },
+            {
+                "trait_name": "Fateweaver",
+                "trait_id": "fateweaver",
+                "trait_img": "Trait_Icon_17_Fateweaver.TFT_Set17.png",
+                "trait_count": "2"
+            },
+            {
+                "trait_name": "Stargazer",
+                "trait_id": "stargazer",
+                "trait_img": "Trait_Icon_17_Stargazer.TFT_Set17.png",
+                "trait_count": "3"
+            }
+        ],
+        "champs": [
+            {
+                "champions_id": "aatrox",
+                "champions_name": "Aatrox",
+                "champ_img": "tft17_aatrox.tft_set17.png",
+                "star": 0,
+                "champ_main_geleral_level": null,
+                "items": [],
+                "khoa_tuong": false
+            },
+            {
+                "champions_id": "twisted_fate",
+                "champions_name": "Twisted Fate",
+                "champ_img": "tft17_twistedfate.tft_set17.png",
+                "star": 0,
+                "champ_main_geleral_level": null,
+                "items": [],
+                "khoa_tuong": false
+            },
+            {
+                "champions_id": "jax",
+                "champions_name": "Jax",
+                "champ_img": "tft17_jax.tft_set17.png",
+                "star": 3,
+                "champ_main_geleral_level": "2nd",
+                "items": [
+                    {
+                        "item_img": "TFT_Item_Crownguard.png",
+                        "item_name": "Crownguard"
+                    },
+                    {
+                        "item_img": "TFT_Item_GargoyleStoneplate.png",
+                        "item_name": "Gargoyle Stoneplate"
+                    },
+                    {
+                        "item_img": "TFT_Item_GargoyleStoneplate.png",
+                        "item_name": "Gargoyle Stoneplate"
+                    }
+                ],
+                "khoa_tuong": false
+            },
+            {
+                "champions_id": "milio",
+                "champions_name": "Milio",
+                "champ_img": "tft17_milio.tft_set17.png",
+                "star": 3,
+                "champ_main_geleral_level": "3rd",
+                "items": [
+                    {
+                        "item_img": "TFT_Item_Morellonomicon.png",
+                        "item_name": "Morellonomicon"
+                    },
+                    {
+                        "item_img": "TFT_Item_RabadonsDeathcap.png",
+                        "item_name": "Rabadon's Deathcap"
+                    },
+                    {
+                        "item_img": "TFT_Item_SpearOfShojin.png",
+                        "item_name": "Spear of Shojin"
+                    }
+                ],
+                "khoa_tuong": false
+            },
+            {
+                "champions_id": "pantheon",
+                "champions_name": "Pantheon",
+                "champ_img": "tft17_pantheon.tft_set17.png",
+                "star": 3,
+                "champ_main_geleral_level": null,
+                "items": [],
+                "khoa_tuong": false
+            },
+            {
+                "champions_id": "lulu",
+                "champions_name": "Lulu",
+                "champ_img": "tft17_lulu.tft_set17.png",
+                "star": 3,
+                "champ_main_geleral_level": "1st",
+                "items": [
+                    {
+                        "item_img": "TFT_Item_JeweledGauntlet.png",
+                        "item_name": "Jeweled Gauntlet"
+                    },
+                    {
+                        "item_img": "TFT_Item_Leviathan.png",
+                        "item_name": "Nashor's Tooth"
+                    },
+                    {
+                        "item_img": "TFT_Item_Leviathan.png",
+                        "item_name": "Nashor's Tooth"
+                    }
+                ],
+                "khoa_tuong": false
+            },
+            {
+                "champions_id": "maokai",
+                "champions_name": "Maokai",
+                "champ_img": "tft17_maokai.tft_set17.png",
+                "star": 3,
+                "champ_main_geleral_level": null,
+                "items": [
+                    {
+                        "item_img": "TFT_Item_GargoyleStoneplate.png",
+                        "item_name": "Gargoyle Stoneplate"
+                    },
+                    {
+                        "item_img": "TFT_Item_Redemption.png",
+                        "item_name": "Spirit Visage"
+                    },
+                    {
+                        "item_img": "TFT_Item_WarmogsArmor.png",
+                        "item_name": "Warmog's Armor"
+                    }
+                ],
+                "khoa_tuong": false
+            },
+            {
+                "champions_id": "rhaast",
+                "champions_name": "Rhaast",
+                "champ_img": "tft17_kayn_slay.tft_set17.png",
+                "star": 0,
+                "champ_main_geleral_level": null,
+                "items": [],
+                "khoa_tuong": false
+            }
+        ],
+        "items": [
+            {
+                "name_build_do": "Crownguard",
+                "img_name_build_do": "TFT_Item_Crownguard.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_NeedlesslyLargeRod.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_ChainVest.png"
+            },
+            {
+                "name_build_do": "Gargoyle Stoneplate",
+                "img_name_build_do": "TFT_Item_GargoyleStoneplate.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_ChainVest.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_NegatronCloak.png"
+            },
+            {
+                "name_build_do": "Gargoyle Stoneplate",
+                "img_name_build_do": "TFT_Item_GargoyleStoneplate.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_ChainVest.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_NegatronCloak.png"
+            },
+            {
+                "name_build_do": "Morellonomicon",
+                "img_name_build_do": "TFT_Item_Morellonomicon.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_NeedlesslyLargeRod.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_GiantsBelt.png"
+            },
+            {
+                "name_build_do": "Rabadon's Deathcap",
+                "img_name_build_do": "TFT_Item_RabadonsDeathcap.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_NeedlesslyLargeRod.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_NeedlesslyLargeRod.png"
+            },
+            {
+                "name_build_do": "Spear of Shojin",
+                "img_name_build_do": "TFT_Item_SpearOfShojin.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_BFSword.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_TearOfTheGoddess.png"
+            },
+            {
+                "name_build_do": "Jeweled Gauntlet",
+                "img_name_build_do": "TFT_Item_JeweledGauntlet.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_NeedlesslyLargeRod.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_SparringGloves.png"
+            },
+            {
+                "name_build_do": "Nashor's Tooth",
+                "img_name_build_do": "TFT_Item_Leviathan.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_RecurveBow.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_GiantsBelt.png"
+            },
+            {
+                "name_build_do": "Nashor's Tooth",
+                "img_name_build_do": "TFT_Item_Leviathan.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_RecurveBow.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_GiantsBelt.png"
+            },
+            {
+                "name_build_do": "Gargoyle Stoneplate",
+                "img_name_build_do": "TFT_Item_GargoyleStoneplate.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_ChainVest.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_NegatronCloak.png"
+            },
+            {
+                "name_build_do": "Spirit Visage",
+                "img_name_build_do": "TFT_Item_Redemption.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_TearOfTheGoddess.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_GiantsBelt.png"
+            },
+            {
+                "name_build_do": "Warmog's Armor",
+                "img_name_build_do": "TFT_Item_WarmogsArmor.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_GiantsBelt.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_GiantsBelt.png"
+            }
+        ],
+        "img_url_huong_dan_dau_game": "huong_dan_dau_game_2.png",
+        "img_url_huong_dan_giua_game": "huong_dan_giua_game_2.png",
+        "img_url_huong_dan_cuoi_game": "huong_dan_cuoi_game_2.png",
+        "img_huong_dan_tuong_tung_level": [
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_aatrox.tft_set17.png",
+                "img_name": "Aatrox",
+                "champ_id": "aatrox"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_talon.tft_set17.png",
+                "img_name": "Talon",
+                "champ_id": "talon"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_twistedfate.tft_set17.png",
+                "img_name": "Twisted Fate",
+                "champ_id": "twisted_fate"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_jax.tft_set17.png",
+                "img_name": "Jax",
+                "champ_id": "jax"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_aatrox.tft_set17.png",
+                "img_name": "Aatrox",
+                "champ_id": "aatrox"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_caitlyn.tft_set17.png",
+                "img_name": "Caitlyn",
+                "champ_id": "caitlyn"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_talon.tft_set17.png",
+                "img_name": "Talon",
+                "champ_id": "talon"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_twistedfate.tft_set17.png",
+                "img_name": "Twisted Fate",
+                "champ_id": "twisted_fate"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_jax.tft_set17.png",
+                "img_name": "Jax",
+                "champ_id": "jax"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_aatrox.tft_set17.png",
+                "img_name": "Aatrox",
+                "champ_id": "aatrox"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_twistedfate.tft_set17.png",
+                "img_name": "Twisted Fate",
+                "champ_id": "twisted_fate"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_jax.tft_set17.png",
+                "img_name": "Jax",
+                "champ_id": "jax"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_milio.tft_set17.png",
+                "img_name": "Milio",
+                "champ_id": "milio"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_pantheon.tft_set17.png",
+                "img_name": "Pantheon",
+                "champ_id": "pantheon"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_lulu.tft_set17.png",
+                "img_name": "Lulu",
+                "champ_id": "lulu"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_aatrox.tft_set17.png",
+                "img_name": "Aatrox",
+                "champ_id": "aatrox"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_twistedfate.tft_set17.png",
+                "img_name": "Twisted Fate",
+                "champ_id": "twisted_fate"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_jax.tft_set17.png",
+                "img_name": "Jax",
+                "champ_id": "jax"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_milio.tft_set17.png",
+                "img_name": "Milio",
+                "champ_id": "milio"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_pantheon.tft_set17.png",
+                "img_name": "Pantheon",
+                "champ_id": "pantheon"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_lulu.tft_set17.png",
+                "img_name": "Lulu",
+                "champ_id": "lulu"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_maokai.tft_set17.png",
+                "img_name": "Maokai",
+                "champ_id": "maokai"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_aatrox.tft_set17.png",
+                "img_name": "Aatrox",
+                "champ_id": "aatrox"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_twistedfate.tft_set17.png",
+                "img_name": "Twisted Fate",
+                "champ_id": "twisted_fate"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_jax.tft_set17.png",
+                "img_name": "Jax",
+                "champ_id": "jax"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_milio.tft_set17.png",
+                "img_name": "Milio",
+                "champ_id": "milio"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_pantheon.tft_set17.png",
+                "img_name": "Pantheon",
+                "champ_id": "pantheon"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_lulu.tft_set17.png",
+                "img_name": "Lulu",
+                "champ_id": "lulu"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_maokai.tft_set17.png",
+                "img_name": "Maokai",
+                "champ_id": "maokai"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_kayn_slay.tft_set17.png",
+                "img_name": "Rhaast",
+                "champ_id": "rhaast"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_aatrox.tft_set17.png",
+                "img_name": "Aatrox",
+                "champ_id": "aatrox"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_twistedfate.tft_set17.png",
+                "img_name": "Twisted Fate",
+                "champ_id": "twisted_fate"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_jax.tft_set17.png",
+                "img_name": "Jax",
+                "champ_id": "jax"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_milio.tft_set17.png",
+                "img_name": "Milio",
+                "champ_id": "milio"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_pantheon.tft_set17.png",
+                "img_name": "Pantheon",
+                "champ_id": "pantheon"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_lulu.tft_set17.png",
+                "img_name": "Lulu",
+                "champ_id": "lulu"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_maokai.tft_set17.png",
+                "img_name": "Maokai",
+                "champ_id": "maokai"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_kayn_slay.tft_set17.png",
+                "img_name": "Rhaast",
+                "champ_id": "rhaast"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_morgana.tft_set17.png",
+                "img_name": "Morgana",
+                "champ_id": "morgana"
+            }
+        ],
+        "ti_le_thang_for_levels": [
+            {
+                "ti_le_thang": "50.00%"
+            },
+            {
+                "ti_le_thang": "59.55%"
+            },
+            {
+                "ti_le_thang": "49.67%"
+            },
+            {
+                "ti_le_thang": "52.62%"
+            },
+            {
+                "ti_le_thang": "52.99%"
+            },
+            {
+                "ti_le_thang": "47.58%"
+            }
+        ],
+        "tuong_chu_lucs": [
+            {
+                "champions_id": "jax",
+                "items_do_tuong_chu_luc": [
+                    {
+                        "name_do_tuong_chu_luc": "Crownguard",
+                        "img_url_do_tuong_chu_luc": "TFT_Item_Crownguard.png",
+                        "so_tran_do_tuong_chu_luc": "",
+                        "id": "crownguard"
+                    },
+                    {
+                        "name_do_tuong_chu_luc": "Gargoyle Stoneplate",
+                        "img_url_do_tuong_chu_luc": "TFT_Item_GargoyleStoneplate.png",
+                        "so_tran_do_tuong_chu_luc": "",
+                        "id": "gargoyle_stoneplate"
+                    },
+                    {
+                        "name_do_tuong_chu_luc": "Gargoyle Stoneplate",
+                        "img_url_do_tuong_chu_luc": "TFT_Item_GargoyleStoneplate.png",
+                        "so_tran_do_tuong_chu_luc": "",
+                        "id": "gargoyle_stoneplate"
+                    }
+                ]
+            },
+            {
+                "champions_id": "milio",
+                "items_do_tuong_chu_luc": [
+                    {
+                        "name_do_tuong_chu_luc": "Morellonomicon",
+                        "img_url_do_tuong_chu_luc": "TFT_Item_Morellonomicon.png",
+                        "so_tran_do_tuong_chu_luc": "",
+                        "id": "morellonomicon"
+                    },
+                    {
+                        "name_do_tuong_chu_luc": "Rabadon's Deathcap",
+                        "img_url_do_tuong_chu_luc": "TFT_Item_RabadonsDeathcap.png",
+                        "so_tran_do_tuong_chu_luc": "",
+                        "id": "rabadon's_deathcap"
+                    },
+                    {
+                        "name_do_tuong_chu_luc": "Spear of Shojin",
+                        "img_url_do_tuong_chu_luc": "TFT_Item_SpearOfShojin.png",
+                        "so_tran_do_tuong_chu_luc": "",
+                        "id": "spear_of_shojin"
+                    }
+                ]
+            },
+            {
+                "champions_id": "lulu",
+                "items_do_tuong_chu_luc": [
+                    {
+                        "name_do_tuong_chu_luc": "Jeweled Gauntlet",
+                        "img_url_do_tuong_chu_luc": "TFT_Item_JeweledGauntlet.png",
+                        "so_tran_do_tuong_chu_luc": "",
+                        "id": "jeweled_gauntlet"
+                    },
+                    {
+                        "name_do_tuong_chu_luc": "Nashor's Tooth",
+                        "img_url_do_tuong_chu_luc": "TFT_Item_Leviathan.png",
+                        "so_tran_do_tuong_chu_luc": "",
+                        "id": "nashor's_tooth"
+                    },
+                    {
+                        "name_do_tuong_chu_luc": "Nashor's Tooth",
+                        "img_url_do_tuong_chu_luc": "TFT_Item_Leviathan.png",
+                        "so_tran_do_tuong_chu_luc": "",
+                        "id": "nashor's_tooth"
+                    }
+                ]
+            }
+        ],
+        "tang_cuongs": [
+            [],
+            [
+                {
+                    "img": "Grab-Bag-II.png",
+                    "name": "Big Grab Bag",
+                    "id": "big_grab_bag"
+                },
+                {
+                    "img": "PortableForge2.png",
+                    "name": "Portable Forge",
+                    "id": "portable_forge"
+                },
+                {
+                    "img": "Pandora2.png",
+                    "name": "Pandora's Items II",
+                    "id": "pandora's_items_ii"
+                },
+                {
+                    "img": "ReachForTheStars_II.TFT_Set17.png",
+                    "name": "Reach for the Stars",
+                    "id": "reach_for_the_stars"
                 }
             ],
             []
@@ -1879,10 +1936,10 @@
             "Hard",
             "Popular"
         ],
-        "average_position": "3.75",
-        "top_1_rate": "24.47",
-        "top_4_rate": "61.84",
-        "pick_rate": "3.24",
+        "average_position": "3.53",
+        "top_1_rate": "29.53",
+        "top_4_rate": "66.06",
+        "pick_rate": "3.50",
         "synergys": [
             {
                 "trait_name": "Party Animal",
@@ -2244,6 +2301,1075 @@
     },
     {
         "stt": 5,
+        "id": "n.o.v.a._miss_fortune",
+        "copy_hex": "0201d00f01e00103602102401f000000TFTSet17",
+        "tier_img": "icon-tier-S.png",
+        "comp_name": "N.O.V.A. Miss Fortune",
+        "comp_price": "66",
+        "tags": [
+            "Lv 7",
+            "Normal",
+            "Popular"
+        ],
+        "average_position": "3.05",
+        "top_1_rate": "15.21",
+        "top_4_rate": "83.41",
+        "pick_rate": "0.46",
+        "synergys": [
+            {
+                "trait_name": "Gun Goddess",
+                "trait_id": "gun_goddess",
+                "trait_img": "Trait_Icon_17_GunGoddess.TFT_Set17.png",
+                "trait_count": "1"
+            },
+            {
+                "trait_name": "Redeemer",
+                "trait_id": "redeemer",
+                "trait_img": "Trait_Icon_17_Redeemer.TFT_Set17.png",
+                "trait_count": "1"
+            },
+            {
+                "trait_name": "Space Groove",
+                "trait_id": "space_groove",
+                "trait_img": "Trait_Icon_17_SpaceGroove.TFT_Set17.png",
+                "trait_count": "1"
+            },
+            {
+                "trait_name": "Bastion",
+                "trait_id": "bastion",
+                "trait_img": "Trait_Icon_9_Bastion.png",
+                "trait_count": "2"
+            },
+            {
+                "trait_name": "Challenger",
+                "trait_id": "challenger",
+                "trait_img": "Trait_Icon_17_Challenger.TFT_Set17.png",
+                "trait_count": "2"
+            },
+            {
+                "trait_name": "Marauder",
+                "trait_id": "marauder",
+                "trait_img": "Trait_Icon_16_Slayer.png",
+                "trait_count": "2"
+            },
+            {
+                "trait_name": "Brawler",
+                "trait_id": "brawler",
+                "trait_img": "Trait_Icon_Brawler.png",
+                "trait_count": "2"
+            },
+            {
+                "trait_name": "N.O.V.A.",
+                "trait_id": "n.o.v.a.",
+                "trait_img": "Trait_Icon_17_NOVA.TFT_Set17.png",
+                "trait_count": "3"
+            }
+        ],
+        "champs": [
+            {
+                "champions_id": "aatrox",
+                "champions_name": "Aatrox",
+                "champ_img": "tft17_aatrox.tft_set17.png",
+                "star": 0,
+                "champ_main_geleral_level": null,
+                "items": [],
+                "khoa_tuong": false
+            },
+            {
+                "champions_id": "bel'veth",
+                "champions_name": "Bel'Veth",
+                "champ_img": "tft17_belveth.tft_set17.png",
+                "star": 0,
+                "champ_main_geleral_level": null,
+                "items": [],
+                "khoa_tuong": false
+            },
+            {
+                "champions_id": "maokai",
+                "champions_name": "Maokai",
+                "champ_img": "tft17_maokai.tft_set17.png",
+                "star": 3,
+                "champ_main_geleral_level": null,
+                "items": [
+                    {
+                        "item_img": "TFT_Item_Crownguard.png",
+                        "item_name": "Crownguard"
+                    },
+                    {
+                        "item_img": "TFT_Item_GargoyleStoneplate.png",
+                        "item_name": "Gargoyle Stoneplate"
+                    },
+                    {
+                        "item_img": "TFT_Item_WarmogsArmor.png",
+                        "item_name": "Warmog's Armor"
+                    }
+                ],
+                "khoa_tuong": false
+            },
+            {
+                "champions_id": "miss_fortune",
+                "champions_name": "Miss Fortune",
+                "champ_img": "tft17_missfortune.tft_set17.png",
+                "star": 3,
+                "champ_main_geleral_level": "1st",
+                "items": [
+                    {
+                        "item_img": "TFT_Item_Deathblade.png",
+                        "item_name": "Deathblade"
+                    },
+                    {
+                        "item_img": "TFT_Item_GuinsoosRageblade.png",
+                        "item_name": "Guinsoo's Rageblade"
+                    },
+                    {
+                        "item_img": "TFT_Item_InfinityEdge.png",
+                        "item_name": "Infinity Edge"
+                    }
+                ],
+                "khoa_tuong": false
+            },
+            {
+                "champions_id": "ornn",
+                "champions_name": "Ornn",
+                "champ_img": "tft17_ornn.tft_set17.png",
+                "star": 3,
+                "champ_main_geleral_level": "3rd",
+                "items": [
+                    {
+                        "item_img": "TFT_Item_NightHarvester.png",
+                        "item_name": "Steadfast Heart"
+                    },
+                    {
+                        "item_img": "TFT_Item_RedBuff.png",
+                        "item_name": "Sunfire Cape"
+                    },
+                    {
+                        "item_img": "TFT_Item_WarmogsArmor.png",
+                        "item_name": "Warmog's Armor"
+                    }
+                ],
+                "khoa_tuong": false
+            },
+            {
+                "champions_id": "rhaast",
+                "champions_name": "Rhaast",
+                "champ_img": "tft17_kayn_slay.tft_set17.png",
+                "star": 3,
+                "champ_main_geleral_level": null,
+                "items": [],
+                "khoa_tuong": false
+            },
+            {
+                "champions_id": "urgot",
+                "champions_name": "Urgot",
+                "champ_img": "tft17_urgot.tft_set17.png",
+                "star": 3,
+                "champ_main_geleral_level": "2nd",
+                "items": [
+                    {
+                        "item_img": "TFT_Item_Deathblade.png",
+                        "item_name": "Deathblade"
+                    },
+                    {
+                        "item_img": "TFT_Item_Quicksilver.png",
+                        "item_name": "Quicksilver"
+                    },
+                    {
+                        "item_img": "TFT_Item_SteraksGage.png",
+                        "item_name": "Sterak's Gage"
+                    }
+                ],
+                "khoa_tuong": false
+            },
+            {
+                "champions_id": "kindred",
+                "champions_name": "Kindred",
+                "champ_img": "tft17_kindred.tft_set17.png",
+                "star": 0,
+                "champ_main_geleral_level": null,
+                "items": [],
+                "khoa_tuong": false
+            }
+        ],
+        "items": [
+            {
+                "name_build_do": "Crownguard",
+                "img_name_build_do": "TFT_Item_Crownguard.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_NeedlesslyLargeRod.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_ChainVest.png"
+            },
+            {
+                "name_build_do": "Gargoyle Stoneplate",
+                "img_name_build_do": "TFT_Item_GargoyleStoneplate.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_ChainVest.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_NegatronCloak.png"
+            },
+            {
+                "name_build_do": "Warmog's Armor",
+                "img_name_build_do": "TFT_Item_WarmogsArmor.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_GiantsBelt.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_GiantsBelt.png"
+            },
+            {
+                "name_build_do": "Deathblade",
+                "img_name_build_do": "TFT_Item_Deathblade.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_BFSword.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_BFSword.png"
+            },
+            {
+                "name_build_do": "Guinsoo's Rageblade",
+                "img_name_build_do": "TFT_Item_GuinsoosRageblade.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_RecurveBow.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_NeedlesslyLargeRod.png"
+            },
+            {
+                "name_build_do": "Infinity Edge",
+                "img_name_build_do": "TFT_Item_InfinityEdge.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_BFSword.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_SparringGloves.png"
+            },
+            {
+                "name_build_do": "Steadfast Heart",
+                "img_name_build_do": "TFT_Item_NightHarvester.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_ChainVest.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_SparringGloves.png"
+            },
+            {
+                "name_build_do": "Sunfire Cape",
+                "img_name_build_do": "TFT_Item_RedBuff.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_ChainVest.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_GiantsBelt.png"
+            },
+            {
+                "name_build_do": "Warmog's Armor",
+                "img_name_build_do": "TFT_Item_WarmogsArmor.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_GiantsBelt.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_GiantsBelt.png"
+            },
+            {
+                "name_build_do": "Deathblade",
+                "img_name_build_do": "TFT_Item_Deathblade.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_BFSword.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_BFSword.png"
+            },
+            {
+                "name_build_do": "Quicksilver",
+                "img_name_build_do": "TFT_Item_Quicksilver.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_SparringGloves.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_NegatronCloak.png"
+            },
+            {
+                "name_build_do": "Sterak's Gage",
+                "img_name_build_do": "TFT_Item_SteraksGage.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_BFSword.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_GiantsBelt.png"
+            }
+        ],
+        "img_url_huong_dan_dau_game": "huong_dan_dau_game_4.png",
+        "img_url_huong_dan_giua_game": "huong_dan_giua_game_4.png",
+        "img_url_huong_dan_cuoi_game": "huong_dan_cuoi_game_4.png",
+        "img_huong_dan_tuong_tung_level": [
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_briar.tft_set17.png",
+                "img_name": "Briar",
+                "champ_id": "briar"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_chogath.tft_set17.png",
+                "img_name": "Cho'Gath",
+                "champ_id": "cho'gath"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_reksai.tft_set17.png",
+                "img_name": "Rek'Sai",
+                "champ_id": "rek'sai"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_belveth.tft_set17.png",
+                "img_name": "Bel'Veth",
+                "champ_id": "bel'veth"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_aatrox.tft_set17.png",
+                "img_name": "Aatrox",
+                "champ_id": "aatrox"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_maokai.tft_set17.png",
+                "img_name": "Maokai",
+                "champ_id": "maokai"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_missfortune.tft_set17.png",
+                "img_name": "Miss Fortune",
+                "champ_id": "miss_fortune"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_ornn.tft_set17.png",
+                "img_name": "Ornn",
+                "champ_id": "ornn"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_urgot.tft_set17.png",
+                "img_name": "Urgot",
+                "champ_id": "urgot"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_aatrox.tft_set17.png",
+                "img_name": "Aatrox",
+                "champ_id": "aatrox"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_belveth.tft_set17.png",
+                "img_name": "Bel'Veth",
+                "champ_id": "bel'veth"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_maokai.tft_set17.png",
+                "img_name": "Maokai",
+                "champ_id": "maokai"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_missfortune.tft_set17.png",
+                "img_name": "Miss Fortune",
+                "champ_id": "miss_fortune"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_ornn.tft_set17.png",
+                "img_name": "Ornn",
+                "champ_id": "ornn"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_urgot.tft_set17.png",
+                "img_name": "Urgot",
+                "champ_id": "urgot"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_aatrox.tft_set17.png",
+                "img_name": "Aatrox",
+                "champ_id": "aatrox"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_belveth.tft_set17.png",
+                "img_name": "Bel'Veth",
+                "champ_id": "bel'veth"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_maokai.tft_set17.png",
+                "img_name": "Maokai",
+                "champ_id": "maokai"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_missfortune.tft_set17.png",
+                "img_name": "Miss Fortune",
+                "champ_id": "miss_fortune"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_ornn.tft_set17.png",
+                "img_name": "Ornn",
+                "champ_id": "ornn"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_kayn_slay.tft_set17.png",
+                "img_name": "Rhaast",
+                "champ_id": "rhaast"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_urgot.tft_set17.png",
+                "img_name": "Urgot",
+                "champ_id": "urgot"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_aatrox.tft_set17.png",
+                "img_name": "Aatrox",
+                "champ_id": "aatrox"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_belveth.tft_set17.png",
+                "img_name": "Bel'Veth",
+                "champ_id": "bel'veth"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_maokai.tft_set17.png",
+                "img_name": "Maokai",
+                "champ_id": "maokai"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_missfortune.tft_set17.png",
+                "img_name": "Miss Fortune",
+                "champ_id": "miss_fortune"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_ornn.tft_set17.png",
+                "img_name": "Ornn",
+                "champ_id": "ornn"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_kayn_slay.tft_set17.png",
+                "img_name": "Rhaast",
+                "champ_id": "rhaast"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_urgot.tft_set17.png",
+                "img_name": "Urgot",
+                "champ_id": "urgot"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_kindred.tft_set17.png",
+                "img_name": "Kindred",
+                "champ_id": "kindred"
+            }
+        ],
+        "ti_le_thang_for_levels": [
+            {
+                "ti_le_thang": "47.19%"
+            },
+            {
+                "ti_le_thang": "58.18%"
+            },
+            {
+                "ti_le_thang": "43.62%"
+            },
+            {
+                "ti_le_thang": "50.99%"
+            },
+            {
+                "ti_le_thang": "42.60%"
+            }
+        ],
+        "tuong_chu_lucs": [
+            {
+                "champions_id": "miss_fortune",
+                "items_do_tuong_chu_luc": [
+                    {
+                        "name_do_tuong_chu_luc": "Deathblade",
+                        "img_url_do_tuong_chu_luc": "TFT_Item_Deathblade.png",
+                        "so_tran_do_tuong_chu_luc": "",
+                        "id": "deathblade"
+                    },
+                    {
+                        "name_do_tuong_chu_luc": "Guinsoo's Rageblade",
+                        "img_url_do_tuong_chu_luc": "TFT_Item_GuinsoosRageblade.png",
+                        "so_tran_do_tuong_chu_luc": "",
+                        "id": "guinsoo's_rageblade"
+                    },
+                    {
+                        "name_do_tuong_chu_luc": "Infinity Edge",
+                        "img_url_do_tuong_chu_luc": "TFT_Item_InfinityEdge.png",
+                        "so_tran_do_tuong_chu_luc": "",
+                        "id": "infinity_edge"
+                    }
+                ]
+            },
+            {
+                "champions_id": "ornn",
+                "items_do_tuong_chu_luc": [
+                    {
+                        "name_do_tuong_chu_luc": "Steadfast Heart",
+                        "img_url_do_tuong_chu_luc": "TFT_Item_NightHarvester.png",
+                        "so_tran_do_tuong_chu_luc": "",
+                        "id": "steadfast_heart"
+                    },
+                    {
+                        "name_do_tuong_chu_luc": "Sunfire Cape",
+                        "img_url_do_tuong_chu_luc": "TFT_Item_RedBuff.png",
+                        "so_tran_do_tuong_chu_luc": "",
+                        "id": "sunfire_cape"
+                    },
+                    {
+                        "name_do_tuong_chu_luc": "Warmog's Armor",
+                        "img_url_do_tuong_chu_luc": "TFT_Item_WarmogsArmor.png",
+                        "so_tran_do_tuong_chu_luc": "",
+                        "id": "warmog's_armor"
+                    }
+                ]
+            },
+            {
+                "champions_id": "urgot",
+                "items_do_tuong_chu_luc": [
+                    {
+                        "name_do_tuong_chu_luc": "Deathblade",
+                        "img_url_do_tuong_chu_luc": "TFT_Item_Deathblade.png",
+                        "so_tran_do_tuong_chu_luc": "",
+                        "id": "deathblade"
+                    },
+                    {
+                        "name_do_tuong_chu_luc": "Quicksilver",
+                        "img_url_do_tuong_chu_luc": "TFT_Item_Quicksilver.png",
+                        "so_tran_do_tuong_chu_luc": "",
+                        "id": "quicksilver"
+                    },
+                    {
+                        "name_do_tuong_chu_luc": "Sterak's Gage",
+                        "img_url_do_tuong_chu_luc": "TFT_Item_SteraksGage.png",
+                        "so_tran_do_tuong_chu_luc": "",
+                        "id": "sterak's_gage"
+                    }
+                ]
+            }
+        ],
+        "tang_cuongs": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "stt": 6,
+        "id": "anima_diana",
+        "copy_hex": "02042014012010043011021044000000TFTSet17",
+        "tier_img": "icon-tier-A.png",
+        "comp_name": "Anima Diana",
+        "comp_price": "63",
+        "tags": [
+            "Lv 7",
+            "Normal"
+        ],
+        "average_position": "3.16",
+        "top_1_rate": "25.32",
+        "top_4_rate": "77.27",
+        "pick_rate": "0.33",
+        "synergys": [
+            {
+                "trait_name": "Redeemer",
+                "trait_id": "redeemer",
+                "trait_img": "Trait_Icon_17_Redeemer.TFT_Set17.png",
+                "trait_count": "1"
+            },
+            {
+                "trait_name": "Arbiter",
+                "trait_id": "arbiter",
+                "trait_img": "Trait_Icon_17_Arbiter.TFT_Set17.png",
+                "trait_count": "3"
+            },
+            {
+                "trait_name": "Voyager",
+                "trait_id": "voyager",
+                "trait_img": "Trait_Icon_17_Voyager.TFT_Set17.png",
+                "trait_count": "2"
+            },
+            {
+                "trait_name": "Challenger",
+                "trait_id": "challenger",
+                "trait_img": "Trait_Icon_17_Challenger.TFT_Set17.png",
+                "trait_count": "2"
+            },
+            {
+                "trait_name": "Vanguard",
+                "trait_id": "vanguard",
+                "trait_img": "Trait_Icon_12_Vanguard.TFT_Set12.png",
+                "trait_count": "2"
+            },
+            {
+                "trait_name": "Anima",
+                "trait_id": "anima",
+                "trait_img": "Trait_Icon_17_AnimaTech.TFT_Set17.png",
+                "trait_count": "3"
+            },
+            {
+                "trait_name": "Shepherd",
+                "trait_id": "shepherd",
+                "trait_img": "Trait_Icon_17_Shepherd.TFT_Set17.png",
+                "trait_count": "3"
+            }
+        ],
+        "champs": [
+            {
+                "champions_id": "leona",
+                "champions_name": "Leona",
+                "champ_img": "tft17_leona.tft_set17.png",
+                "star": 0,
+                "champ_main_geleral_level": null,
+                "items": [],
+                "khoa_tuong": false
+            },
+            {
+                "champions_id": "jinx",
+                "champions_name": "Jinx",
+                "champ_img": "tft17_jinx.tft_set17.png",
+                "star": 3,
+                "champ_main_geleral_level": "3rd",
+                "items": [
+                    {
+                        "item_img": "TFT17_AnimaSquadItem_Tier2_BattleBunnyCrossbow.png",
+                        "item_name": "Battle Bunny Crossbow"
+                    },
+                    {
+                        "item_img": "TFT_Item_GuinsoosRageblade.png",
+                        "item_name": "Guinsoo's Rageblade"
+                    },
+                    {
+                        "item_img": "TFT_Item_InfinityEdge.png",
+                        "item_name": "Infinity Edge"
+                    }
+                ],
+                "khoa_tuong": false
+            },
+            {
+                "champions_id": "meepsie",
+                "champions_name": "Meepsie",
+                "champ_img": "tft17_ivernminion.tft_set17.png",
+                "star": 0,
+                "champ_main_geleral_level": null,
+                "items": [],
+                "khoa_tuong": false
+            },
+            {
+                "champions_id": "aurora",
+                "champions_name": "Aurora",
+                "champ_img": "tft17_aurora.tft_set17.png",
+                "star": 3,
+                "champ_main_geleral_level": "2nd",
+                "items": [
+                    {
+                        "item_img": "TFT_Item_JeweledGauntlet.png",
+                        "item_name": "Jeweled Gauntlet"
+                    },
+                    {
+                        "item_img": "TFT_Item_Leviathan.png",
+                        "item_name": "Nashor's Tooth"
+                    },
+                    {
+                        "item_img": "TFT_Item_SpearOfShojin.png",
+                        "item_name": "Spear of Shojin"
+                    }
+                ],
+                "khoa_tuong": false
+            },
+            {
+                "champions_id": "diana",
+                "champions_name": "Diana",
+                "champ_img": "tft17_diana_teamplanner_splash.tft_set17.png",
+                "star": 3,
+                "champ_main_geleral_level": "1st",
+                "items": [
+                    {
+                        "item_img": "TFT_Item_Bloodthirster.png",
+                        "item_name": "Bloodthirster"
+                    },
+                    {
+                        "item_img": "TFT_Item_GuinsoosRageblade.png",
+                        "item_name": "Guinsoo's Rageblade"
+                    },
+                    {
+                        "item_img": "TFT_Item_TitansResolve.png",
+                        "item_name": "Titan's Resolve"
+                    }
+                ],
+                "khoa_tuong": false
+            },
+            {
+                "champions_id": "illaoi",
+                "champions_name": "Illaoi",
+                "champ_img": "tft17_illaoi.tft_set17.png",
+                "star": 3,
+                "champ_main_geleral_level": null,
+                "items": [
+                    {
+                        "item_img": "TFT17_AnimaSquadItem_Tier1_TentacleSlam.png",
+                        "item_name": "Tentacle Slam"
+                    },
+                    {
+                        "item_img": "TFT_Item_GargoyleStoneplate.png",
+                        "item_name": "Gargoyle Stoneplate"
+                    },
+                    {
+                        "item_img": "TFT_Item_WarmogsArmor.png",
+                        "item_name": "Warmog's Armor"
+                    }
+                ],
+                "khoa_tuong": false
+            },
+            {
+                "champions_id": "rhaast",
+                "champions_name": "Rhaast",
+                "champ_img": "tft17_kayn_slay.tft_set17.png",
+                "star": 0,
+                "champ_main_geleral_level": null,
+                "items": [],
+                "khoa_tuong": false
+            },
+            {
+                "champions_id": "leblanc",
+                "champions_name": "LeBlanc",
+                "champ_img": "tft17_leblanc.tft_set17.png",
+                "star": 0,
+                "champ_main_geleral_level": null,
+                "items": [],
+                "khoa_tuong": false
+            }
+        ],
+        "items": [
+            {
+                "name_build_do": "Guinsoo's Rageblade",
+                "img_name_build_do": "TFT_Item_GuinsoosRageblade.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_RecurveBow.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_NeedlesslyLargeRod.png"
+            },
+            {
+                "name_build_do": "Infinity Edge",
+                "img_name_build_do": "TFT_Item_InfinityEdge.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_BFSword.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_SparringGloves.png"
+            },
+            {
+                "name_build_do": "Jeweled Gauntlet",
+                "img_name_build_do": "TFT_Item_JeweledGauntlet.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_NeedlesslyLargeRod.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_SparringGloves.png"
+            },
+            {
+                "name_build_do": "Nashor's Tooth",
+                "img_name_build_do": "TFT_Item_Leviathan.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_RecurveBow.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_GiantsBelt.png"
+            },
+            {
+                "name_build_do": "Spear of Shojin",
+                "img_name_build_do": "TFT_Item_SpearOfShojin.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_BFSword.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_TearOfTheGoddess.png"
+            },
+            {
+                "name_build_do": "Bloodthirster",
+                "img_name_build_do": "TFT_Item_Bloodthirster.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_BFSword.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_NegatronCloak.png"
+            },
+            {
+                "name_build_do": "Guinsoo's Rageblade",
+                "img_name_build_do": "TFT_Item_GuinsoosRageblade.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_RecurveBow.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_NeedlesslyLargeRod.png"
+            },
+            {
+                "name_build_do": "Titan's Resolve",
+                "img_name_build_do": "TFT_Item_TitansResolve.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_ChainVest.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_RecurveBow.png"
+            },
+            {
+                "name_build_do": "Gargoyle Stoneplate",
+                "img_name_build_do": "TFT_Item_GargoyleStoneplate.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_ChainVest.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_NegatronCloak.png"
+            },
+            {
+                "name_build_do": "Warmog's Armor",
+                "img_name_build_do": "TFT_Item_WarmogsArmor.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_GiantsBelt.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_GiantsBelt.png"
+            }
+        ],
+        "img_url_huong_dan_dau_game": "huong_dan_dau_game_5.png",
+        "img_url_huong_dan_giua_game": "huong_dan_giua_game_5.png",
+        "img_url_huong_dan_cuoi_game": "huong_dan_cuoi_game_5.png",
+        "img_huong_dan_tuong_tung_level": [
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_briar.tft_set17.png",
+                "img_name": "Briar",
+                "champ_id": "briar"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_jinx.tft_set17.png",
+                "img_name": "Jinx",
+                "champ_id": "jinx"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_illaoi.tft_set17.png",
+                "img_name": "Illaoi",
+                "champ_id": "illaoi"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_leona.tft_set17.png",
+                "img_name": "Leona",
+                "champ_id": "leona"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_jinx.tft_set17.png",
+                "img_name": "Jinx",
+                "champ_id": "jinx"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_aurora.tft_set17.png",
+                "img_name": "Aurora",
+                "champ_id": "aurora"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_diana_teamplanner_splash.tft_set17.png",
+                "img_name": "Diana",
+                "champ_id": "diana"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_illaoi.tft_set17.png",
+                "img_name": "Illaoi",
+                "champ_id": "illaoi"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_leona.tft_set17.png",
+                "img_name": "Leona",
+                "champ_id": "leona"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_ivernminion.tft_set17.png",
+                "img_name": "Meepsie",
+                "champ_id": "meepsie"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_jinx.tft_set17.png",
+                "img_name": "Jinx",
+                "champ_id": "jinx"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_aurora.tft_set17.png",
+                "img_name": "Aurora",
+                "champ_id": "aurora"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_diana_teamplanner_splash.tft_set17.png",
+                "img_name": "Diana",
+                "champ_id": "diana"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_illaoi.tft_set17.png",
+                "img_name": "Illaoi",
+                "champ_id": "illaoi"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_leona.tft_set17.png",
+                "img_name": "Leona",
+                "champ_id": "leona"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_ivernminion.tft_set17.png",
+                "img_name": "Meepsie",
+                "champ_id": "meepsie"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_jinx.tft_set17.png",
+                "img_name": "Jinx",
+                "champ_id": "jinx"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_aurora.tft_set17.png",
+                "img_name": "Aurora",
+                "champ_id": "aurora"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_diana_teamplanner_splash.tft_set17.png",
+                "img_name": "Diana",
+                "champ_id": "diana"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_illaoi.tft_set17.png",
+                "img_name": "Illaoi",
+                "champ_id": "illaoi"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_leblanc.tft_set17.png",
+                "img_name": "LeBlanc",
+                "champ_id": "leblanc"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_summon.tft_set17.png",
+                "img_name": "Bia & Bayin",
+                "champ_id": "bia_&_bayin"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_leona.tft_set17.png",
+                "img_name": "Leona",
+                "champ_id": "leona"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_ivernminion.tft_set17.png",
+                "img_name": "Meepsie",
+                "champ_id": "meepsie"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_jinx.tft_set17.png",
+                "img_name": "Jinx",
+                "champ_id": "jinx"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_aurora.tft_set17.png",
+                "img_name": "Aurora",
+                "champ_id": "aurora"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_diana_teamplanner_splash.tft_set17.png",
+                "img_name": "Diana",
+                "champ_id": "diana"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_illaoi.tft_set17.png",
+                "img_name": "Illaoi",
+                "champ_id": "illaoi"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_kayn_slay.tft_set17.png",
+                "img_name": "Rhaast",
+                "champ_id": "rhaast"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_leblanc.tft_set17.png",
+                "img_name": "LeBlanc",
+                "champ_id": "leblanc"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_summon.tft_set17.png",
+                "img_name": "Bia & Bayin",
+                "champ_id": "bia_&_bayin"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_leona.tft_set17.png",
+                "img_name": "Leona",
+                "champ_id": "leona"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_ivernminion.tft_set17.png",
+                "img_name": "Meepsie",
+                "champ_id": "meepsie"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_jinx.tft_set17.png",
+                "img_name": "Jinx",
+                "champ_id": "jinx"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_aurora.tft_set17.png",
+                "img_name": "Aurora",
+                "champ_id": "aurora"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_diana_teamplanner_splash.tft_set17.png",
+                "img_name": "Diana",
+                "champ_id": "diana"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_illaoi.tft_set17.png",
+                "img_name": "Illaoi",
+                "champ_id": "illaoi"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_galio.tft_set17.png",
+                "img_name": "The Mighty Mech",
+                "champ_id": "the_mighty_mech"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_leblanc.tft_set17.png",
+                "img_name": "LeBlanc",
+                "champ_id": "leblanc"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_morgana.tft_set17.png",
+                "img_name": "Morgana",
+                "champ_id": "morgana"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_summon.tft_set17.png",
+                "img_name": "Bia & Bayin",
+                "champ_id": "bia_&_bayin"
+            }
+        ],
+        "ti_le_thang_for_levels": [
+            {
+                "ti_le_thang": "11.68%"
+            },
+            {
+                "ti_le_thang": "38.01%"
+            },
+            {
+                "ti_le_thang": "42.02%"
+            },
+            {
+                "ti_le_thang": "53.67%"
+            },
+            {
+                "ti_le_thang": "59.90%"
+            },
+            {
+                "ti_le_thang": "64.71%"
+            }
+        ],
+        "tuong_chu_lucs": [
+            {
+                "champions_id": "jinx",
+                "items_do_tuong_chu_luc": [
+                    {
+                        "name_do_tuong_chu_luc": "Battle Bunny Crossbow",
+                        "img_url_do_tuong_chu_luc": "TFT17_AnimaSquadItem_Tier2_BattleBunnyCrossbow.png",
+                        "so_tran_do_tuong_chu_luc": "",
+                        "id": "battle_bunny_crossbow"
+                    },
+                    {
+                        "name_do_tuong_chu_luc": "Guinsoo's Rageblade",
+                        "img_url_do_tuong_chu_luc": "TFT_Item_GuinsoosRageblade.png",
+                        "so_tran_do_tuong_chu_luc": "",
+                        "id": "guinsoo's_rageblade"
+                    },
+                    {
+                        "name_do_tuong_chu_luc": "Infinity Edge",
+                        "img_url_do_tuong_chu_luc": "TFT_Item_InfinityEdge.png",
+                        "so_tran_do_tuong_chu_luc": "",
+                        "id": "infinity_edge"
+                    }
+                ]
+            },
+            {
+                "champions_id": "aurora",
+                "items_do_tuong_chu_luc": [
+                    {
+                        "name_do_tuong_chu_luc": "Jeweled Gauntlet",
+                        "img_url_do_tuong_chu_luc": "TFT_Item_JeweledGauntlet.png",
+                        "so_tran_do_tuong_chu_luc": "",
+                        "id": "jeweled_gauntlet"
+                    },
+                    {
+                        "name_do_tuong_chu_luc": "Nashor's Tooth",
+                        "img_url_do_tuong_chu_luc": "TFT_Item_Leviathan.png",
+                        "so_tran_do_tuong_chu_luc": "",
+                        "id": "nashor's_tooth"
+                    },
+                    {
+                        "name_do_tuong_chu_luc": "Spear of Shojin",
+                        "img_url_do_tuong_chu_luc": "TFT_Item_SpearOfShojin.png",
+                        "so_tran_do_tuong_chu_luc": "",
+                        "id": "spear_of_shojin"
+                    }
+                ]
+            },
+            {
+                "champions_id": "diana",
+                "items_do_tuong_chu_luc": [
+                    {
+                        "name_do_tuong_chu_luc": "Bloodthirster",
+                        "img_url_do_tuong_chu_luc": "TFT_Item_Bloodthirster.png",
+                        "so_tran_do_tuong_chu_luc": "",
+                        "id": "bloodthirster"
+                    },
+                    {
+                        "name_do_tuong_chu_luc": "Guinsoo's Rageblade",
+                        "img_url_do_tuong_chu_luc": "TFT_Item_GuinsoosRageblade.png",
+                        "so_tran_do_tuong_chu_luc": "",
+                        "id": "guinsoo's_rageblade"
+                    },
+                    {
+                        "name_do_tuong_chu_luc": "Titan's Resolve",
+                        "img_url_do_tuong_chu_luc": "TFT_Item_TitansResolve.png",
+                        "so_tran_do_tuong_chu_luc": "",
+                        "id": "titan's_resolve"
+                    }
+                ]
+            }
+        ],
+        "tang_cuongs": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "stt": 7,
         "id": "fateweaver_twisted_fate",
         "copy_hex": "0201d01b02a02b02c03d01903c000000TFTSet17",
         "tier_img": "icon-tier-A.png",
@@ -2254,10 +3380,10 @@
             "Easy",
             "Popular"
         ],
-        "average_position": "3.90",
-        "top_1_rate": "3.70",
-        "top_4_rate": "68.52",
-        "pick_rate": "0.47",
+        "average_position": "3.82",
+        "top_1_rate": "6.07",
+        "top_4_rate": "67.76",
+        "pick_rate": "0.45",
         "synergys": [
             {
                 "trait_name": "Fateweaver",
@@ -2496,9 +3622,9 @@
                 "img_name_build_do_thanh_phan_two": "TFT_Item_NegatronCloak.png"
             }
         ],
-        "img_url_huong_dan_dau_game": "huong_dan_dau_game_4.png",
-        "img_url_huong_dan_giua_game": "huong_dan_giua_game_4.png",
-        "img_url_huong_dan_cuoi_game": "huong_dan_cuoi_game_4.png",
+        "img_url_huong_dan_dau_game": "huong_dan_dau_game_6.png",
+        "img_url_huong_dan_giua_game": "huong_dan_giua_game_6.png",
+        "img_url_huong_dan_cuoi_game": "huong_dan_cuoi_game_6.png",
         "img_huong_dan_tuong_tung_level": [
             {
                 "img_name_huong_dan_tuong_tung_level": "tft17_aatrox.tft_set17.png",
@@ -2698,19 +3824,19 @@
         ],
         "ti_le_thang_for_levels": [
             {
-                "ti_le_thang": "47.33%"
+                "ti_le_thang": "47.38%"
             },
             {
-                "ti_le_thang": "59.07%"
+                "ti_le_thang": "59.11%"
             },
             {
-                "ti_le_thang": "55.04%"
+                "ti_le_thang": "55.01%"
             },
             {
-                "ti_le_thang": "44.64%"
+                "ti_le_thang": "44.74%"
             },
             {
-                "ti_le_thang": "39.77%"
+                "ti_le_thang": "39.69%"
             },
             {
                 "ti_le_thang": "35.19%"
@@ -2794,20 +3920,1121 @@
         ]
     },
     {
-        "stt": 6,
+        "stt": 8,
+        "id": "meeple_xayah",
+        "copy_hex": "0201702c04e02103901803f01c023000TFTSet17",
+        "tier_img": "icon-tier-A.png",
+        "comp_name": "Meeple Xayah",
+        "comp_price": "93",
+        "tags": [
+            "Lv 8",
+            "Normal"
+        ],
+        "average_position": "3.50",
+        "top_1_rate": "17.14",
+        "top_4_rate": "68.57",
+        "pick_rate": "0.22",
+        "synergys": [
+            {
+                "trait_name": "Eradicator",
+                "trait_id": "eradicator",
+                "trait_img": "Trait_Icon_17_Singularity.TFT_Set17.png",
+                "trait_count": "1"
+            },
+            {
+                "trait_name": "Redeemer",
+                "trait_id": "redeemer",
+                "trait_img": "Trait_Icon_17_Redeemer.TFT_Set17.png",
+                "trait_count": "1"
+            },
+            {
+                "trait_name": "Sniper",
+                "trait_id": "sniper",
+                "trait_img": "Trait_Icon_6_Sniper.png",
+                "trait_count": "3"
+            },
+            {
+                "trait_name": "Conduit",
+                "trait_id": "conduit",
+                "trait_img": "Trait_Icon_17_Channeler.TFT_Set17.png",
+                "trait_count": "2"
+            },
+            {
+                "trait_name": "Bastion",
+                "trait_id": "bastion",
+                "trait_img": "Trait_Icon_9_Bastion.png",
+                "trait_count": "2"
+            },
+            {
+                "trait_name": "Dark Star",
+                "trait_id": "dark_star",
+                "trait_img": "Trait_Icon_17_DarkStar.TFT_Set17.png",
+                "trait_count": "2"
+            },
+            {
+                "trait_name": "Vanguard",
+                "trait_id": "vanguard",
+                "trait_img": "Trait_Icon_12_Vanguard.TFT_Set12.png",
+                "trait_count": "2"
+            },
+            {
+                "trait_name": "Meeple",
+                "trait_id": "meeple",
+                "trait_img": "Trait_Icon_17_Astronaut.TFT_Set17.png",
+                "trait_count": "3"
+            },
+            {
+                "trait_name": "Stargazer",
+                "trait_id": "stargazer",
+                "trait_img": "Trait_Icon_17_Stargazer.TFT_Set17.png",
+                "trait_count": "3"
+            }
+        ],
+        "champs": [
+            {
+                "champions_id": "gnar",
+                "champions_name": "Gnar",
+                "champ_img": "tft17_gnar.tft_set17.png",
+                "star": 0,
+                "champ_main_geleral_level": null,
+                "items": [],
+                "khoa_tuong": false
+            },
+            {
+                "champions_id": "jax",
+                "champions_name": "Jax",
+                "champ_img": "tft17_jax.tft_set17.png",
+                "star": 0,
+                "champ_main_geleral_level": null,
+                "items": [],
+                "khoa_tuong": false
+            },
+            {
+                "champions_id": "mordekaiser",
+                "champions_name": "Mordekaiser",
+                "champ_img": "tft17_mordekaiser.tft_set17.png",
+                "star": 0,
+                "champ_main_geleral_level": null,
+                "items": [],
+                "khoa_tuong": false
+            },
+            {
+                "champions_id": "rhaast",
+                "champions_name": "Rhaast",
+                "champ_img": "tft17_kayn_slay.tft_set17.png",
+                "star": 0,
+                "champ_main_geleral_level": null,
+                "items": [],
+                "khoa_tuong": false
+            },
+            {
+                "champions_id": "nunu_&_willump",
+                "champions_name": "Nunu & Willump",
+                "champ_img": "tft17_nunu.tft_set17.png",
+                "star": 0,
+                "champ_main_geleral_level": "2nd",
+                "items": [
+                    {
+                        "item_img": "TFT_Item_AdaptiveHelm.png",
+                        "item_name": "Adaptive Helm"
+                    },
+                    {
+                        "item_img": "TFT_Item_FrozenHeart.png",
+                        "item_name": "Protector's Vow"
+                    },
+                    {
+                        "item_img": "TFT_Item_FrozenHeart.png",
+                        "item_name": "Protector's Vow"
+                    }
+                ],
+                "khoa_tuong": false
+            },
+            {
+                "champions_id": "rammus",
+                "champions_name": "Rammus",
+                "champ_img": "tft17_rammus.tft_set17.png",
+                "star": 0,
+                "champ_main_geleral_level": null,
+                "items": [
+                    {
+                        "item_img": "TFT_Item_Crownguard.png",
+                        "item_name": "Crownguard"
+                    },
+                    {
+                        "item_img": "TFT_Item_GargoyleStoneplate.png",
+                        "item_name": "Gargoyle Stoneplate"
+                    },
+                    {
+                        "item_img": "TFT_Item_WarmogsArmor.png",
+                        "item_name": "Warmog's Armor"
+                    }
+                ],
+                "khoa_tuong": false
+            },
+            {
+                "champions_id": "xayah",
+                "champions_name": "Xayah",
+                "champ_img": "tft17_xayah.tft_set17.png",
+                "star": 0,
+                "champ_main_geleral_level": "1st",
+                "items": [
+                    {
+                        "item_img": "TFT_Item_RapidFireCannon.png",
+                        "item_name": "Red Buff"
+                    },
+                    {
+                        "item_img": "TFT_Item_RunaansHurricane.png",
+                        "item_name": "Kraken's Fury"
+                    },
+                    {
+                        "item_img": "TFT_Item_RunaansHurricane.png",
+                        "item_name": "Kraken's Fury"
+                    }
+                ],
+                "khoa_tuong": false
+            },
+            {
+                "champions_id": "bard",
+                "champions_name": "Bard",
+                "champ_img": "tft17_bard.tft_set17.png",
+                "star": 0,
+                "champ_main_geleral_level": null,
+                "items": [],
+                "khoa_tuong": false
+            },
+            {
+                "champions_id": "jhin",
+                "champions_name": "Jhin",
+                "champ_img": "tft17_jhin.tft_set17.png",
+                "star": 0,
+                "champ_main_geleral_level": "3rd",
+                "items": [
+                    {
+                        "item_img": "TFT_Item_Deathblade.png",
+                        "item_name": "Deathblade"
+                    },
+                    {
+                        "item_img": "TFT_Item_InfinityEdge.png",
+                        "item_name": "Infinity Edge"
+                    },
+                    {
+                        "item_img": "TFT_Item_MadredsBloodrazor.png",
+                        "item_name": "Giant Slayer"
+                    }
+                ],
+                "khoa_tuong": false
+            }
+        ],
+        "items": [
+            {
+                "name_build_do": "Adaptive Helm",
+                "img_name_build_do": "TFT_Item_AdaptiveHelm.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_NegatronCloak.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_TearOfTheGoddess.png"
+            },
+            {
+                "name_build_do": "Protector's Vow",
+                "img_name_build_do": "TFT_Item_FrozenHeart.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_TearOfTheGoddess.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_ChainVest.png"
+            },
+            {
+                "name_build_do": "Protector's Vow",
+                "img_name_build_do": "TFT_Item_FrozenHeart.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_TearOfTheGoddess.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_ChainVest.png"
+            },
+            {
+                "name_build_do": "Crownguard",
+                "img_name_build_do": "TFT_Item_Crownguard.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_NeedlesslyLargeRod.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_ChainVest.png"
+            },
+            {
+                "name_build_do": "Gargoyle Stoneplate",
+                "img_name_build_do": "TFT_Item_GargoyleStoneplate.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_ChainVest.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_NegatronCloak.png"
+            },
+            {
+                "name_build_do": "Warmog's Armor",
+                "img_name_build_do": "TFT_Item_WarmogsArmor.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_GiantsBelt.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_GiantsBelt.png"
+            },
+            {
+                "name_build_do": "Red Buff",
+                "img_name_build_do": "TFT_Item_RapidFireCannon.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_RecurveBow.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_RecurveBow.png"
+            },
+            {
+                "name_build_do": "Kraken's Fury",
+                "img_name_build_do": "TFT_Item_RunaansHurricane.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_NegatronCloak.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_RecurveBow.png"
+            },
+            {
+                "name_build_do": "Kraken's Fury",
+                "img_name_build_do": "TFT_Item_RunaansHurricane.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_NegatronCloak.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_RecurveBow.png"
+            },
+            {
+                "name_build_do": "Deathblade",
+                "img_name_build_do": "TFT_Item_Deathblade.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_BFSword.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_BFSword.png"
+            },
+            {
+                "name_build_do": "Infinity Edge",
+                "img_name_build_do": "TFT_Item_InfinityEdge.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_BFSword.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_SparringGloves.png"
+            },
+            {
+                "name_build_do": "Giant Slayer",
+                "img_name_build_do": "TFT_Item_MadredsBloodrazor.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_BFSword.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_RecurveBow.png"
+            }
+        ],
+        "img_url_huong_dan_dau_game": "huong_dan_dau_game_7.png",
+        "img_url_huong_dan_giua_game": "huong_dan_giua_game_7.png",
+        "img_url_huong_dan_cuoi_game": "huong_dan_cuoi_game_7.png",
+        "img_huong_dan_tuong_tung_level": [
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_briar.tft_set17.png",
+                "img_name": "Briar",
+                "champ_id": "briar"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_reksai.tft_set17.png",
+                "img_name": "Rek'Sai",
+                "champ_id": "rek'sai"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_belveth.tft_set17.png",
+                "img_name": "Bel'Veth",
+                "champ_id": "bel'veth"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_aatrox.tft_set17.png",
+                "img_name": "Aatrox",
+                "champ_id": "aatrox"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_caitlyn.tft_set17.png",
+                "img_name": "Caitlyn",
+                "champ_id": "caitlyn"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_talon.tft_set17.png",
+                "img_name": "Talon",
+                "champ_id": "talon"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_twistedfate.tft_set17.png",
+                "img_name": "Twisted Fate",
+                "champ_id": "twisted_fate"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_jax.tft_set17.png",
+                "img_name": "Jax",
+                "champ_id": "jax"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_briar.tft_set17.png",
+                "img_name": "Briar",
+                "champ_id": "briar"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_ezreal.tft_set17.png",
+                "img_name": "Ezreal",
+                "champ_id": "ezreal"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_reksai.tft_set17.png",
+                "img_name": "Rek'Sai",
+                "champ_id": "rek'sai"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_belveth.tft_set17.png",
+                "img_name": "Bel'Veth",
+                "champ_id": "bel'veth"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_milio.tft_set17.png",
+                "img_name": "Milio",
+                "champ_id": "milio"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_pantheon.tft_set17.png",
+                "img_name": "Pantheon",
+                "champ_id": "pantheon"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_aatrox.tft_set17.png",
+                "img_name": "Aatrox",
+                "champ_id": "aatrox"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_caitlyn.tft_set17.png",
+                "img_name": "Caitlyn",
+                "champ_id": "caitlyn"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_talon.tft_set17.png",
+                "img_name": "Talon",
+                "champ_id": "talon"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_twistedfate.tft_set17.png",
+                "img_name": "Twisted Fate",
+                "champ_id": "twisted_fate"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_jax.tft_set17.png",
+                "img_name": "Jax",
+                "champ_id": "jax"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_maokai.tft_set17.png",
+                "img_name": "Maokai",
+                "champ_id": "maokai"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_kayn_slay.tft_set17.png",
+                "img_name": "Rhaast",
+                "champ_id": "rhaast"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_gnar.tft_set17.png",
+                "img_name": "Gnar",
+                "champ_id": "gnar"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_jax.tft_set17.png",
+                "img_name": "Jax",
+                "champ_id": "jax"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_mordekaiser.tft_set17.png",
+                "img_name": "Mordekaiser",
+                "champ_id": "mordekaiser"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_kayn_slay.tft_set17.png",
+                "img_name": "Rhaast",
+                "champ_id": "rhaast"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_nunu.tft_set17.png",
+                "img_name": "Nunu & Willump",
+                "champ_id": "nunu_&_willump"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_rammus.tft_set17.png",
+                "img_name": "Rammus",
+                "champ_id": "rammus"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_xayah.tft_set17.png",
+                "img_name": "Xayah",
+                "champ_id": "xayah"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_jhin.tft_set17.png",
+                "img_name": "Jhin",
+                "champ_id": "jhin"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_gnar.tft_set17.png",
+                "img_name": "Gnar",
+                "champ_id": "gnar"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_jax.tft_set17.png",
+                "img_name": "Jax",
+                "champ_id": "jax"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_mordekaiser.tft_set17.png",
+                "img_name": "Mordekaiser",
+                "champ_id": "mordekaiser"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_kayn_slay.tft_set17.png",
+                "img_name": "Rhaast",
+                "champ_id": "rhaast"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_nunu.tft_set17.png",
+                "img_name": "Nunu & Willump",
+                "champ_id": "nunu_&_willump"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_rammus.tft_set17.png",
+                "img_name": "Rammus",
+                "champ_id": "rammus"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_xayah.tft_set17.png",
+                "img_name": "Xayah",
+                "champ_id": "xayah"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_bard.tft_set17.png",
+                "img_name": "Bard",
+                "champ_id": "bard"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_jhin.tft_set17.png",
+                "img_name": "Jhin",
+                "champ_id": "jhin"
+            }
+        ],
+        "ti_le_thang_for_levels": [
+            {
+                "ti_le_thang": "29.57%"
+            },
+            {
+                "ti_le_thang": "59.55%"
+            },
+            {
+                "ti_le_thang": "36.35%"
+            },
+            {
+                "ti_le_thang": "30.22%"
+            },
+            {
+                "ti_le_thang": "47.86%"
+            },
+            {
+                "ti_le_thang": "58.55%"
+            }
+        ],
+        "tuong_chu_lucs": [
+            {
+                "champions_id": "nunu_&_willump",
+                "items_do_tuong_chu_luc": [
+                    {
+                        "name_do_tuong_chu_luc": "Adaptive Helm",
+                        "img_url_do_tuong_chu_luc": "TFT_Item_AdaptiveHelm.png",
+                        "so_tran_do_tuong_chu_luc": "",
+                        "id": "adaptive_helm"
+                    },
+                    {
+                        "name_do_tuong_chu_luc": "Protector's Vow",
+                        "img_url_do_tuong_chu_luc": "TFT_Item_FrozenHeart.png",
+                        "so_tran_do_tuong_chu_luc": "",
+                        "id": "protector's_vow"
+                    },
+                    {
+                        "name_do_tuong_chu_luc": "Protector's Vow",
+                        "img_url_do_tuong_chu_luc": "TFT_Item_FrozenHeart.png",
+                        "so_tran_do_tuong_chu_luc": "",
+                        "id": "protector's_vow"
+                    }
+                ]
+            },
+            {
+                "champions_id": "xayah",
+                "items_do_tuong_chu_luc": [
+                    {
+                        "name_do_tuong_chu_luc": "Red Buff",
+                        "img_url_do_tuong_chu_luc": "TFT_Item_RapidFireCannon.png",
+                        "so_tran_do_tuong_chu_luc": "",
+                        "id": "red_buff"
+                    },
+                    {
+                        "name_do_tuong_chu_luc": "Kraken's Fury",
+                        "img_url_do_tuong_chu_luc": "TFT_Item_RunaansHurricane.png",
+                        "so_tran_do_tuong_chu_luc": "",
+                        "id": "kraken's_fury"
+                    },
+                    {
+                        "name_do_tuong_chu_luc": "Kraken's Fury",
+                        "img_url_do_tuong_chu_luc": "TFT_Item_RunaansHurricane.png",
+                        "so_tran_do_tuong_chu_luc": "",
+                        "id": "kraken's_fury"
+                    }
+                ]
+            },
+            {
+                "champions_id": "jhin",
+                "items_do_tuong_chu_luc": [
+                    {
+                        "name_do_tuong_chu_luc": "Deathblade",
+                        "img_url_do_tuong_chu_luc": "TFT_Item_Deathblade.png",
+                        "so_tran_do_tuong_chu_luc": "",
+                        "id": "deathblade"
+                    },
+                    {
+                        "name_do_tuong_chu_luc": "Infinity Edge",
+                        "img_url_do_tuong_chu_luc": "TFT_Item_InfinityEdge.png",
+                        "so_tran_do_tuong_chu_luc": "",
+                        "id": "infinity_edge"
+                    },
+                    {
+                        "name_do_tuong_chu_luc": "Giant Slayer",
+                        "img_url_do_tuong_chu_luc": "TFT_Item_MadredsBloodrazor.png",
+                        "so_tran_do_tuong_chu_luc": "",
+                        "id": "giant_slayer"
+                    }
+                ]
+            }
+        ],
+        "tang_cuongs": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "stt": 9,
+        "id": "shepherd_viktor",
+        "copy_hex": "0204601404e02d01102102e037000000TFTSet17",
+        "tier_img": "icon-tier-A.png",
+        "comp_name": "Shepherd Viktor",
+        "comp_price": "60",
+        "tags": [
+            "Lv 7",
+            "Normal"
+        ],
+        "average_position": "3.84",
+        "top_1_rate": "7.46",
+        "top_4_rate": "66.42",
+        "pick_rate": "0.28",
+        "synergys": [
+            {
+                "trait_name": "Redeemer",
+                "trait_id": "redeemer",
+                "trait_img": "Trait_Icon_17_Redeemer.TFT_Set17.png",
+                "trait_count": "1"
+            },
+            {
+                "trait_name": "Space Groove",
+                "trait_id": "space_groove",
+                "trait_img": "Trait_Icon_17_SpaceGroove.TFT_Set17.png",
+                "trait_count": "1"
+            },
+            {
+                "trait_name": "Vanguard",
+                "trait_id": "vanguard",
+                "trait_img": "Trait_Icon_12_Vanguard.TFT_Set12.png",
+                "trait_count": "2"
+            },
+            {
+                "trait_name": "Voyager",
+                "trait_id": "voyager",
+                "trait_img": "Trait_Icon_17_Voyager.TFT_Set17.png",
+                "trait_count": "2"
+            },
+            {
+                "trait_name": "Dark Star",
+                "trait_id": "dark_star",
+                "trait_img": "Trait_Icon_17_DarkStar.TFT_Set17.png",
+                "trait_count": "2"
+            },
+            {
+                "trait_name": "Replicator",
+                "trait_id": "replicator",
+                "trait_img": "Trait_Icon_17_Replicator.TFT_Set17.png",
+                "trait_count": "2"
+            },
+            {
+                "trait_name": "Conduit",
+                "trait_id": "conduit",
+                "trait_img": "Trait_Icon_17_Channeler.TFT_Set17.png",
+                "trait_count": "2"
+            },
+            {
+                "trait_name": "Psionic",
+                "trait_id": "psionic",
+                "trait_img": "Trait_Icon_17_PsyOps.TFT_Set17.png",
+                "trait_count": "2"
+            },
+            {
+                "trait_name": "Shepherd",
+                "trait_id": "shepherd",
+                "trait_img": "Trait_Icon_17_Shepherd.TFT_Set17.png",
+                "trait_count": "3"
+            }
+        ],
+        "champs": [
+            {
+                "champions_id": "lissandra",
+                "champions_name": "Lissandra",
+                "champ_img": "tft17_lissandra.tft_set17.png",
+                "star": 0,
+                "champ_main_geleral_level": null,
+                "items": [],
+                "khoa_tuong": false
+            },
+            {
+                "champions_id": "meepsie",
+                "champions_name": "Meepsie",
+                "champ_img": "tft17_ivernminion.tft_set17.png",
+                "star": 0,
+                "champ_main_geleral_level": null,
+                "items": [],
+                "khoa_tuong": false
+            },
+            {
+                "champions_id": "mordekaiser",
+                "champions_name": "Mordekaiser",
+                "champ_img": "tft17_mordekaiser.tft_set17.png",
+                "star": 0,
+                "champ_main_geleral_level": null,
+                "items": [],
+                "khoa_tuong": false
+            },
+            {
+                "champions_id": "pyke",
+                "champions_name": "Pyke",
+                "champ_img": "tft17_pyke.tft_set17.png",
+                "star": 3,
+                "champ_main_geleral_level": null,
+                "items": [
+                    {
+                        "item_img": "TFT_Item_GuardianAngel.png",
+                        "item_name": "Edge of Night"
+                    },
+                    {
+                        "item_img": "TFT_Item_InfinityEdge.png",
+                        "item_name": "Infinity Edge"
+                    },
+                    {
+                        "item_img": "TFT_Item_UnstableConcoction.png",
+                        "item_name": "Hand Of Justice"
+                    }
+                ],
+                "khoa_tuong": false
+            },
+            {
+                "champions_id": "illaoi",
+                "champions_name": "Illaoi",
+                "champ_img": "tft17_illaoi.tft_set17.png",
+                "star": 3,
+                "champ_main_geleral_level": "2nd",
+                "items": [
+                    {
+                        "item_img": "TFT_Item_Crownguard.png",
+                        "item_name": "Crownguard"
+                    },
+                    {
+                        "item_img": "TFT_Item_GargoyleStoneplate.png",
+                        "item_name": "Gargoyle Stoneplate"
+                    },
+                    {
+                        "item_img": "TFT_Item_WarmogsArmor.png",
+                        "item_name": "Warmog's Armor"
+                    }
+                ],
+                "khoa_tuong": false
+            },
+            {
+                "champions_id": "rhaast",
+                "champions_name": "Rhaast",
+                "champ_img": "tft17_kayn_slay.tft_set17.png",
+                "star": 0,
+                "champ_main_geleral_level": null,
+                "items": [],
+                "khoa_tuong": false
+            },
+            {
+                "champions_id": "viktor",
+                "champions_name": "Viktor",
+                "champ_img": "tft17_viktor.tft_set17.png",
+                "star": 3,
+                "champ_main_geleral_level": "1st",
+                "items": [
+                    {
+                        "item_img": "TFT17_Item_PsyOps_DroneMod.png",
+                        "item_name": "Drone Uplink"
+                    },
+                    {
+                        "item_img": "TFT_Item_JeweledGauntlet.png",
+                        "item_name": "Jeweled Gauntlet"
+                    },
+                    {
+                        "item_img": "TFT_Item_RabadonsDeathcap.png",
+                        "item_name": "Rabadon's Deathcap"
+                    }
+                ],
+                "khoa_tuong": false
+            },
+            {
+                "champions_id": "nami",
+                "champions_name": "Nami",
+                "champ_img": "tft17_nami.tft_set17.png",
+                "star": 0,
+                "champ_main_geleral_level": "3rd",
+                "items": [
+                    {
+                        "item_img": "TFT_Item_Morellonomicon.png",
+                        "item_name": "Morellonomicon"
+                    },
+                    {
+                        "item_img": "TFT_Item_SpearOfShojin.png",
+                        "item_name": "Spear of Shojin"
+                    },
+                    {
+                        "item_img": "TFT_Item_StatikkShiv.png",
+                        "item_name": "Void Staff"
+                    }
+                ],
+                "khoa_tuong": false
+            }
+        ],
+        "items": [
+            {
+                "name_build_do": "Edge of Night",
+                "img_name_build_do": "TFT_Item_GuardianAngel.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_BFSword.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_ChainVest.png"
+            },
+            {
+                "name_build_do": "Infinity Edge",
+                "img_name_build_do": "TFT_Item_InfinityEdge.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_BFSword.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_SparringGloves.png"
+            },
+            {
+                "name_build_do": "Hand Of Justice",
+                "img_name_build_do": "TFT_Item_UnstableConcoction.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_TearOfTheGoddess.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_SparringGloves.png"
+            },
+            {
+                "name_build_do": "Crownguard",
+                "img_name_build_do": "TFT_Item_Crownguard.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_NeedlesslyLargeRod.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_ChainVest.png"
+            },
+            {
+                "name_build_do": "Gargoyle Stoneplate",
+                "img_name_build_do": "TFT_Item_GargoyleStoneplate.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_ChainVest.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_NegatronCloak.png"
+            },
+            {
+                "name_build_do": "Warmog's Armor",
+                "img_name_build_do": "TFT_Item_WarmogsArmor.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_GiantsBelt.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_GiantsBelt.png"
+            },
+            {
+                "name_build_do": "Jeweled Gauntlet",
+                "img_name_build_do": "TFT_Item_JeweledGauntlet.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_NeedlesslyLargeRod.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_SparringGloves.png"
+            },
+            {
+                "name_build_do": "Rabadon's Deathcap",
+                "img_name_build_do": "TFT_Item_RabadonsDeathcap.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_NeedlesslyLargeRod.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_NeedlesslyLargeRod.png"
+            },
+            {
+                "name_build_do": "Morellonomicon",
+                "img_name_build_do": "TFT_Item_Morellonomicon.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_NeedlesslyLargeRod.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_GiantsBelt.png"
+            },
+            {
+                "name_build_do": "Spear of Shojin",
+                "img_name_build_do": "TFT_Item_SpearOfShojin.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_BFSword.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_TearOfTheGoddess.png"
+            },
+            {
+                "name_build_do": "Void Staff",
+                "img_name_build_do": "TFT_Item_StatikkShiv.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_RecurveBow.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_TearOfTheGoddess.png"
+            }
+        ],
+        "img_url_huong_dan_dau_game": "huong_dan_dau_game_8.png",
+        "img_url_huong_dan_giua_game": "huong_dan_giua_game_8.png",
+        "img_url_huong_dan_cuoi_game": "huong_dan_cuoi_game_8.png",
+        "img_huong_dan_tuong_tung_level": [
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_chogath.tft_set17.png",
+                "img_name": "Cho'Gath",
+                "champ_id": "cho'gath"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_lissandra.tft_set17.png",
+                "img_name": "Lissandra",
+                "champ_id": "lissandra"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_gragas.tft_set17.png",
+                "img_name": "Gragas",
+                "champ_id": "gragas"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_pyke.tft_set17.png",
+                "img_name": "Pyke",
+                "champ_id": "pyke"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_lissandra.tft_set17.png",
+                "img_name": "Lissandra",
+                "champ_id": "lissandra"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_ivernminion.tft_set17.png",
+                "img_name": "Meepsie",
+                "champ_id": "meepsie"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_mordekaiser.tft_set17.png",
+                "img_name": "Mordekaiser",
+                "champ_id": "mordekaiser"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_pyke.tft_set17.png",
+                "img_name": "Pyke",
+                "champ_id": "pyke"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_viktor.tft_set17.png",
+                "img_name": "Viktor",
+                "champ_id": "viktor"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_lissandra.tft_set17.png",
+                "img_name": "Lissandra",
+                "champ_id": "lissandra"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_ivernminion.tft_set17.png",
+                "img_name": "Meepsie",
+                "champ_id": "meepsie"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_mordekaiser.tft_set17.png",
+                "img_name": "Mordekaiser",
+                "champ_id": "mordekaiser"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_pyke.tft_set17.png",
+                "img_name": "Pyke",
+                "champ_id": "pyke"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_illaoi.tft_set17.png",
+                "img_name": "Illaoi",
+                "champ_id": "illaoi"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_viktor.tft_set17.png",
+                "img_name": "Viktor",
+                "champ_id": "viktor"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_summon.tft_set17.png",
+                "img_name": "Bia & Bayin",
+                "champ_id": "bia_&_bayin"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_lissandra.tft_set17.png",
+                "img_name": "Lissandra",
+                "champ_id": "lissandra"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_ivernminion.tft_set17.png",
+                "img_name": "Meepsie",
+                "champ_id": "meepsie"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_mordekaiser.tft_set17.png",
+                "img_name": "Mordekaiser",
+                "champ_id": "mordekaiser"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_pyke.tft_set17.png",
+                "img_name": "Pyke",
+                "champ_id": "pyke"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_illaoi.tft_set17.png",
+                "img_name": "Illaoi",
+                "champ_id": "illaoi"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_kayn_slay.tft_set17.png",
+                "img_name": "Rhaast",
+                "champ_id": "rhaast"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_viktor.tft_set17.png",
+                "img_name": "Viktor",
+                "champ_id": "viktor"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_summon.tft_set17.png",
+                "img_name": "Bia & Bayin",
+                "champ_id": "bia_&_bayin"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_lissandra.tft_set17.png",
+                "img_name": "Lissandra",
+                "champ_id": "lissandra"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_ivernminion.tft_set17.png",
+                "img_name": "Meepsie",
+                "champ_id": "meepsie"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_mordekaiser.tft_set17.png",
+                "img_name": "Mordekaiser",
+                "champ_id": "mordekaiser"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_pyke.tft_set17.png",
+                "img_name": "Pyke",
+                "champ_id": "pyke"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_illaoi.tft_set17.png",
+                "img_name": "Illaoi",
+                "champ_id": "illaoi"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_kayn_slay.tft_set17.png",
+                "img_name": "Rhaast",
+                "champ_id": "rhaast"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_viktor.tft_set17.png",
+                "img_name": "Viktor",
+                "champ_id": "viktor"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_nami.tft_set17.png",
+                "img_name": "Nami",
+                "champ_id": "nami"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_summon.tft_set17.png",
+                "img_name": "Bia & Bayin",
+                "champ_id": "bia_&_bayin"
+            }
+        ],
+        "ti_le_thang_for_levels": [
+            {
+                "ti_le_thang": "60.24%"
+            },
+            {
+                "ti_le_thang": "53.55%"
+            },
+            {
+                "ti_le_thang": "61.45%"
+            },
+            {
+                "ti_le_thang": "53.13%"
+            },
+            {
+                "ti_le_thang": "47.05%"
+            }
+        ],
+        "tuong_chu_lucs": [
+            {
+                "champions_id": "illaoi",
+                "items_do_tuong_chu_luc": [
+                    {
+                        "name_do_tuong_chu_luc": "Crownguard",
+                        "img_url_do_tuong_chu_luc": "TFT_Item_Crownguard.png",
+                        "so_tran_do_tuong_chu_luc": "",
+                        "id": "crownguard"
+                    },
+                    {
+                        "name_do_tuong_chu_luc": "Gargoyle Stoneplate",
+                        "img_url_do_tuong_chu_luc": "TFT_Item_GargoyleStoneplate.png",
+                        "so_tran_do_tuong_chu_luc": "",
+                        "id": "gargoyle_stoneplate"
+                    },
+                    {
+                        "name_do_tuong_chu_luc": "Warmog's Armor",
+                        "img_url_do_tuong_chu_luc": "TFT_Item_WarmogsArmor.png",
+                        "so_tran_do_tuong_chu_luc": "",
+                        "id": "warmog's_armor"
+                    }
+                ]
+            },
+            {
+                "champions_id": "viktor",
+                "items_do_tuong_chu_luc": [
+                    {
+                        "name_do_tuong_chu_luc": "Drone Uplink",
+                        "img_url_do_tuong_chu_luc": "TFT17_Item_PsyOps_DroneMod.png",
+                        "so_tran_do_tuong_chu_luc": "",
+                        "id": "drone_uplink"
+                    },
+                    {
+                        "name_do_tuong_chu_luc": "Jeweled Gauntlet",
+                        "img_url_do_tuong_chu_luc": "TFT_Item_JeweledGauntlet.png",
+                        "so_tran_do_tuong_chu_luc": "",
+                        "id": "jeweled_gauntlet"
+                    },
+                    {
+                        "name_do_tuong_chu_luc": "Rabadon's Deathcap",
+                        "img_url_do_tuong_chu_luc": "TFT_Item_RabadonsDeathcap.png",
+                        "so_tran_do_tuong_chu_luc": "",
+                        "id": "rabadon's_deathcap"
+                    }
+                ]
+            },
+            {
+                "champions_id": "nami",
+                "items_do_tuong_chu_luc": [
+                    {
+                        "name_do_tuong_chu_luc": "Morellonomicon",
+                        "img_url_do_tuong_chu_luc": "TFT_Item_Morellonomicon.png",
+                        "so_tran_do_tuong_chu_luc": "",
+                        "id": "morellonomicon"
+                    },
+                    {
+                        "name_do_tuong_chu_luc": "Spear of Shojin",
+                        "img_url_do_tuong_chu_luc": "TFT_Item_SpearOfShojin.png",
+                        "so_tran_do_tuong_chu_luc": "",
+                        "id": "spear_of_shojin"
+                    },
+                    {
+                        "name_do_tuong_chu_luc": "Void Staff",
+                        "img_url_do_tuong_chu_luc": "TFT_Item_StatikkShiv.png",
+                        "so_tran_do_tuong_chu_luc": "",
+                        "id": "void_staff"
+                    }
+                ]
+            }
+        ],
+        "tang_cuongs": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "stt": 10,
         "id": "dark_star_jhin",
         "copy_hex": "0204504604e02002702203904f023000TFTSet17",
-        "tier_img": "icon-tier-B.png",
+        "tier_img": "icon-tier-D.png",
         "comp_name": "Dark Star Jhin",
         "comp_price": "84",
         "tags": [
             "Normal",
             "Popular"
         ],
-        "average_position": "4.26",
-        "top_1_rate": "5.22",
-        "top_4_rate": "57.39",
-        "pick_rate": "0.50",
+        "average_position": "3.94",
+        "top_1_rate": "7.33",
+        "top_4_rate": "64.89",
+        "pick_rate": "0.95",
         "synergys": [
             {
                 "trait_name": "Eradicator",
@@ -2888,7 +5115,7 @@
                 "champions_name": "Karma",
                 "champ_img": "tft17_karma.tft_set17.png",
                 "star": 0,
-                "champ_main_geleral_level": "2nd",
+                "champ_main_geleral_level": "3rd",
                 "items": [
                     {
                         "item_img": "TFT_Item_BlueBuff.png",
@@ -2932,7 +5159,7 @@
                 "champions_name": "Tahm Kench",
                 "champ_img": "tft17_tahmkench.tft_set17.png",
                 "star": 0,
-                "champ_main_geleral_level": "3rd",
+                "champ_main_geleral_level": "2nd",
                 "items": [
                     {
                         "item_img": "TFT_Item_GargoyleStoneplate.png",
@@ -3055,9 +5282,9 @@
                 "img_name_build_do_thanh_phan_two": "TFT_Item_SparringGloves.png"
             }
         ],
-        "img_url_huong_dan_dau_game": "huong_dan_dau_game_5.png",
-        "img_url_huong_dan_giua_game": "huong_dan_giua_game_5.png",
-        "img_url_huong_dan_cuoi_game": "huong_dan_cuoi_game_5.png",
+        "img_url_huong_dan_dau_game": "huong_dan_dau_game_9.png",
+        "img_url_huong_dan_giua_game": "huong_dan_giua_game_9.png",
+        "img_url_huong_dan_cuoi_game": "huong_dan_cuoi_game_9.png",
         "img_huong_dan_tuong_tung_level": [
             {
                 "img_name_huong_dan_tuong_tung_level": "tft17_briar.tft_set17.png",
@@ -3250,9 +5477,9 @@
                 "champ_id": "tahm_kench"
             },
             {
-                "img_name_huong_dan_tuong_tung_level": "tft17_bard.tft_set17.png",
-                "img_name": "Bard",
-                "champ_id": "bard"
+                "img_name_huong_dan_tuong_tung_level": "tft17_blitzcrank.tft_set17.png",
+                "img_name": "Blitzcrank",
+                "champ_id": "blitzcrank"
             },
             {
                 "img_name_huong_dan_tuong_tung_level": "tft17_chogath.tft_set17.png",
@@ -3297,22 +5524,22 @@
         ],
         "ti_le_thang_for_levels": [
             {
-                "ti_le_thang": "47.10%"
+                "ti_le_thang": "47.19%"
             },
             {
-                "ti_le_thang": "63.17%"
+                "ti_le_thang": "63.05%"
             },
             {
-                "ti_le_thang": "43.84%"
+                "ti_le_thang": "43.92%"
             },
             {
-                "ti_le_thang": "44.90%"
+                "ti_le_thang": "44.89%"
             },
             {
-                "ti_le_thang": "35.84%"
+                "ti_le_thang": "35.82%"
             },
             {
-                "ti_le_thang": "30.00%"
+                "ti_le_thang": "31.71%"
             },
             {
                 "ti_le_thang": "0.00%"
@@ -3396,7 +5623,7 @@
         ]
     },
     {
-        "stt": 7,
+        "stt": 11,
         "id": "vanguard_leona",
         "copy_hex": "0204201404e041011022044039000000TFTSet17",
         "tier_img": "icon-tier-D.png",
@@ -3407,10 +5634,10 @@
             "Normal",
             "Popular"
         ],
-        "average_position": "4.64",
-        "top_1_rate": "4.80",
-        "top_4_rate": "48.80",
-        "pick_rate": "0.54",
+        "average_position": "4.71",
+        "top_1_rate": "4.72",
+        "top_4_rate": "48.50",
+        "pick_rate": "0.49",
         "synergys": [
             {
                 "trait_name": "Arbiter",
@@ -3649,9 +5876,9 @@
                 "img_name_build_do_thanh_phan_two": "TFT_Item_ChainVest.png"
             }
         ],
-        "img_url_huong_dan_dau_game": "huong_dan_dau_game_6.png",
-        "img_url_huong_dan_giua_game": "huong_dan_giua_game_6.png",
-        "img_url_huong_dan_cuoi_game": "huong_dan_cuoi_game_6.png",
+        "img_url_huong_dan_dau_game": "huong_dan_dau_game_10.png",
+        "img_url_huong_dan_giua_game": "huong_dan_giua_game_10.png",
+        "img_url_huong_dan_cuoi_game": "huong_dan_cuoi_game_10.png",
         "img_huong_dan_tuong_tung_level": [
             {
                 "img_name_huong_dan_tuong_tung_level": "tft17_leona.tft_set17.png",
@@ -3829,11 +6056,6 @@
                 "champ_id": "mordekaiser"
             },
             {
-                "img_name_huong_dan_tuong_tung_level": "tft17_pantheon.tft_set17.png",
-                "img_name": "Pantheon",
-                "champ_id": "pantheon"
-            },
-            {
                 "img_name_huong_dan_tuong_tung_level": "tft17_zoe.tft_set17.png",
                 "img_name": "Zoe",
                 "champ_id": "zoe"
@@ -3859,6 +6081,11 @@
                 "champ_id": "nunu_&_willump"
             },
             {
+                "img_name_huong_dan_tuong_tung_level": "tft17_bard.tft_set17.png",
+                "img_name": "Bard",
+                "champ_id": "bard"
+            },
+            {
                 "img_name_huong_dan_tuong_tung_level": "tft17_summon.tft_set17.png",
                 "img_name": "Bia & Bayin",
                 "champ_id": "bia_&_bayin"
@@ -3866,22 +6093,22 @@
         ],
         "ti_le_thang_for_levels": [
             {
-                "ti_le_thang": "46.87%"
+                "ti_le_thang": "46.98%"
             },
             {
-                "ti_le_thang": "54.89%"
+                "ti_le_thang": "54.94%"
             },
             {
-                "ti_le_thang": "53.95%"
+                "ti_le_thang": "54.01%"
             },
             {
-                "ti_le_thang": "46.27%"
+                "ti_le_thang": "46.35%"
             },
             {
-                "ti_le_thang": "43.53%"
+                "ti_le_thang": "43.50%"
             },
             {
-                "ti_le_thang": "33.33%"
+                "ti_le_thang": "34.32%"
             }
         ],
         "tuong_chu_lucs": [
@@ -3956,13 +6183,515 @@
             }
         ],
         "tang_cuongs": [
+            [
+                {
+                    "img": "LeonaHero_I.TFT_Set17_PostLaunchAugments.png",
+                    "name": "Shieldmaiden",
+                    "id": "shieldmaiden"
+                }
+            ],
+            [],
+            []
+        ]
+    },
+    {
+        "stt": 12,
+        "id": "n.o.v.a._bel'veth",
+        "copy_hex": "0201d00e01b06800d00f01e01f000000TFTSet17",
+        "tier_img": "icon-tier-D.png",
+        "comp_name": "N.O.V.A. Bel'Veth",
+        "comp_price": "45",
+        "tags": [
+            "Lv 6",
+            "Easy"
+        ],
+        "average_position": "4.97",
+        "top_1_rate": "1.69",
+        "top_4_rate": "38.98",
+        "pick_rate": "0.25",
+        "synergys": [
+            {
+                "trait_name": "Primordian",
+                "trait_id": "primordian",
+                "trait_img": "Trait_Icon_17_Primordian.TFT_Set17.png",
+                "trait_count": "3"
+            },
+            {
+                "trait_name": "N.O.V.A.",
+                "trait_id": "n.o.v.a.",
+                "trait_img": "Trait_Icon_17_NOVA.TFT_Set17.png",
+                "trait_count": "5"
+            },
+            {
+                "trait_name": "Marauder",
+                "trait_id": "marauder",
+                "trait_img": "Trait_Icon_16_Slayer.png",
+                "trait_count": "2"
+            },
+            {
+                "trait_name": "Challenger",
+                "trait_id": "challenger",
+                "trait_img": "Trait_Icon_17_Challenger.TFT_Set17.png",
+                "trait_count": "2"
+            },
+            {
+                "trait_name": "Brawler",
+                "trait_id": "brawler",
+                "trait_img": "Trait_Icon_Brawler.png",
+                "trait_count": "2"
+            }
+        ],
+        "champs": [
+            {
+                "champions_id": "aatrox",
+                "champions_name": "Aatrox",
+                "champ_img": "tft17_aatrox.tft_set17.png",
+                "star": 3,
+                "champ_main_geleral_level": null,
+                "items": [],
+                "khoa_tuong": false
+            },
+            {
+                "champions_id": "briar",
+                "champions_name": "Briar",
+                "champ_img": "tft17_briar.tft_set17.png",
+                "star": 3,
+                "champ_main_geleral_level": null,
+                "items": [],
+                "khoa_tuong": false
+            },
+            {
+                "champions_id": "caitlyn",
+                "champions_name": "Caitlyn",
+                "champ_img": "tft17_caitlyn.tft_set17.png",
+                "star": 0,
+                "champ_main_geleral_level": null,
+                "items": [],
+                "khoa_tuong": false
+            },
+            {
+                "champions_id": "rek'sai",
+                "champions_name": "Rek'Sai",
+                "champ_img": "tft17_reksai.tft_set17.png",
+                "star": 3,
+                "champ_main_geleral_level": null,
+                "items": [
+                    {
+                        "item_img": "TFT_Item_FrozenHeart.png",
+                        "item_name": "Protector's Vow"
+                    },
+                    {
+                        "item_img": "TFT_Item_RedBuff.png",
+                        "item_name": "Sunfire Cape"
+                    },
+                    {
+                        "item_img": "TFT_Item_WarmogsArmor.png",
+                        "item_name": "Warmog's Armor"
+                    }
+                ],
+                "khoa_tuong": false
+            },
+            {
+                "champions_id": "akali",
+                "champions_name": "Akali",
+                "champ_img": "tft17_akali.tft_set17.png",
+                "star": 3,
+                "champ_main_geleral_level": "2nd",
+                "items": [
+                    {
+                        "item_img": "TFT_Item_GuardianAngel.png",
+                        "item_name": "Edge of Night"
+                    },
+                    {
+                        "item_img": "TFT_Item_PowerGauntlet.png",
+                        "item_name": "Striker's Flail"
+                    },
+                    {
+                        "item_img": "TFT_Item_UnstableConcoction.png",
+                        "item_name": "Hand Of Justice"
+                    }
+                ],
+                "khoa_tuong": false
+            },
+            {
+                "champions_id": "bel'veth",
+                "champions_name": "Bel'Veth",
+                "champ_img": "tft17_belveth.tft_set17.png",
+                "star": 3,
+                "champ_main_geleral_level": "1st",
+                "items": [
+                    {
+                        "item_img": "TFT_Item_MadredsBloodrazor.png",
+                        "item_name": "Giant Slayer"
+                    },
+                    {
+                        "item_img": "TFT_Item_Quicksilver.png",
+                        "item_name": "Quicksilver"
+                    },
+                    {
+                        "item_img": "TFT_Item_RunaansHurricane.png",
+                        "item_name": "Kraken's Fury"
+                    }
+                ],
+                "khoa_tuong": false
+            },
+            {
+                "champions_id": "maokai",
+                "champions_name": "Maokai",
+                "champ_img": "tft17_maokai.tft_set17.png",
+                "star": 0,
+                "champ_main_geleral_level": null,
+                "items": [],
+                "khoa_tuong": false
+            },
+            {
+                "champions_id": "kindred",
+                "champions_name": "Kindred",
+                "champ_img": "tft17_kindred.tft_set17.png",
+                "star": 0,
+                "champ_main_geleral_level": "3rd",
+                "items": [
+                    {
+                        "item_img": "TFT_Item_GuinsoosRageblade.png",
+                        "item_name": "Guinsoo's Rageblade"
+                    },
+                    {
+                        "item_img": "TFT_Item_MadredsBloodrazor.png",
+                        "item_name": "Giant Slayer"
+                    },
+                    {
+                        "item_img": "TFT_Item_RunaansHurricane.png",
+                        "item_name": "Kraken's Fury"
+                    }
+                ],
+                "khoa_tuong": false
+            }
+        ],
+        "items": [
+            {
+                "name_build_do": "Protector's Vow",
+                "img_name_build_do": "TFT_Item_FrozenHeart.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_TearOfTheGoddess.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_ChainVest.png"
+            },
+            {
+                "name_build_do": "Sunfire Cape",
+                "img_name_build_do": "TFT_Item_RedBuff.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_ChainVest.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_GiantsBelt.png"
+            },
+            {
+                "name_build_do": "Warmog's Armor",
+                "img_name_build_do": "TFT_Item_WarmogsArmor.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_GiantsBelt.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_GiantsBelt.png"
+            },
+            {
+                "name_build_do": "Edge of Night",
+                "img_name_build_do": "TFT_Item_GuardianAngel.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_BFSword.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_ChainVest.png"
+            },
+            {
+                "name_build_do": "Striker's Flail",
+                "img_name_build_do": "TFT_Item_PowerGauntlet.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_GiantsBelt.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_SparringGloves.png"
+            },
+            {
+                "name_build_do": "Hand Of Justice",
+                "img_name_build_do": "TFT_Item_UnstableConcoction.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_TearOfTheGoddess.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_SparringGloves.png"
+            },
+            {
+                "name_build_do": "Giant Slayer",
+                "img_name_build_do": "TFT_Item_MadredsBloodrazor.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_BFSword.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_RecurveBow.png"
+            },
+            {
+                "name_build_do": "Quicksilver",
+                "img_name_build_do": "TFT_Item_Quicksilver.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_SparringGloves.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_NegatronCloak.png"
+            },
+            {
+                "name_build_do": "Kraken's Fury",
+                "img_name_build_do": "TFT_Item_RunaansHurricane.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_NegatronCloak.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_RecurveBow.png"
+            },
+            {
+                "name_build_do": "Guinsoo's Rageblade",
+                "img_name_build_do": "TFT_Item_GuinsoosRageblade.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_RecurveBow.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_NeedlesslyLargeRod.png"
+            },
+            {
+                "name_build_do": "Giant Slayer",
+                "img_name_build_do": "TFT_Item_MadredsBloodrazor.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_BFSword.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_RecurveBow.png"
+            },
+            {
+                "name_build_do": "Kraken's Fury",
+                "img_name_build_do": "TFT_Item_RunaansHurricane.png",
+                "img_name_build_do_thanh_phan_one": "TFT_Item_NegatronCloak.png",
+                "img_name_build_do_thanh_phan_two": "TFT_Item_RecurveBow.png"
+            }
+        ],
+        "img_url_huong_dan_dau_game": "huong_dan_dau_game_11.png",
+        "img_url_huong_dan_giua_game": "huong_dan_giua_game_11.png",
+        "img_url_huong_dan_cuoi_game": "huong_dan_cuoi_game_11.png",
+        "img_huong_dan_tuong_tung_level": [
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_briar.tft_set17.png",
+                "img_name": "Briar",
+                "champ_id": "briar"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_chogath.tft_set17.png",
+                "img_name": "Cho'Gath",
+                "champ_id": "cho'gath"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_reksai.tft_set17.png",
+                "img_name": "Rek'Sai",
+                "champ_id": "rek'sai"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_belveth.tft_set17.png",
+                "img_name": "Bel'Veth",
+                "champ_id": "bel'veth"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_aatrox.tft_set17.png",
+                "img_name": "Aatrox",
+                "champ_id": "aatrox"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_briar.tft_set17.png",
+                "img_name": "Briar",
+                "champ_id": "briar"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_reksai.tft_set17.png",
+                "img_name": "Rek'Sai",
+                "champ_id": "rek'sai"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_akali.tft_set17.png",
+                "img_name": "Akali",
+                "champ_id": "akali"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_belveth.tft_set17.png",
+                "img_name": "Bel'Veth",
+                "champ_id": "bel'veth"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_aatrox.tft_set17.png",
+                "img_name": "Aatrox",
+                "champ_id": "aatrox"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_briar.tft_set17.png",
+                "img_name": "Briar",
+                "champ_id": "briar"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_caitlyn.tft_set17.png",
+                "img_name": "Caitlyn",
+                "champ_id": "caitlyn"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_reksai.tft_set17.png",
+                "img_name": "Rek'Sai",
+                "champ_id": "rek'sai"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_akali.tft_set17.png",
+                "img_name": "Akali",
+                "champ_id": "akali"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_belveth.tft_set17.png",
+                "img_name": "Bel'Veth",
+                "champ_id": "bel'veth"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_aatrox.tft_set17.png",
+                "img_name": "Aatrox",
+                "champ_id": "aatrox"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_briar.tft_set17.png",
+                "img_name": "Briar",
+                "champ_id": "briar"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_caitlyn.tft_set17.png",
+                "img_name": "Caitlyn",
+                "champ_id": "caitlyn"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_reksai.tft_set17.png",
+                "img_name": "Rek'Sai",
+                "champ_id": "rek'sai"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_akali.tft_set17.png",
+                "img_name": "Akali",
+                "champ_id": "akali"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_belveth.tft_set17.png",
+                "img_name": "Bel'Veth",
+                "champ_id": "bel'veth"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_maokai.tft_set17.png",
+                "img_name": "Maokai",
+                "champ_id": "maokai"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_aatrox.tft_set17.png",
+                "img_name": "Aatrox",
+                "champ_id": "aatrox"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_briar.tft_set17.png",
+                "img_name": "Briar",
+                "champ_id": "briar"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_caitlyn.tft_set17.png",
+                "img_name": "Caitlyn",
+                "champ_id": "caitlyn"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_reksai.tft_set17.png",
+                "img_name": "Rek'Sai",
+                "champ_id": "rek'sai"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_akali.tft_set17.png",
+                "img_name": "Akali",
+                "champ_id": "akali"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_belveth.tft_set17.png",
+                "img_name": "Bel'Veth",
+                "champ_id": "bel'veth"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_maokai.tft_set17.png",
+                "img_name": "Maokai",
+                "champ_id": "maokai"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_kindred.tft_set17.png",
+                "img_name": "Kindred",
+                "champ_id": "kindred"
+            }
+        ],
+        "ti_le_thang_for_levels": [
+            {
+                "ti_le_thang": "47.19%"
+            },
+            {
+                "ti_le_thang": "48.72%"
+            },
+            {
+                "ti_le_thang": "39.75%"
+            },
+            {
+                "ti_le_thang": "35.99%"
+            },
+            {
+                "ti_le_thang": "34.44%"
+            }
+        ],
+        "tuong_chu_lucs": [
+            {
+                "champions_id": "akali",
+                "items_do_tuong_chu_luc": [
+                    {
+                        "name_do_tuong_chu_luc": "Edge of Night",
+                        "img_url_do_tuong_chu_luc": "TFT_Item_GuardianAngel.png",
+                        "so_tran_do_tuong_chu_luc": "",
+                        "id": "edge_of_night"
+                    },
+                    {
+                        "name_do_tuong_chu_luc": "Striker's Flail",
+                        "img_url_do_tuong_chu_luc": "TFT_Item_PowerGauntlet.png",
+                        "so_tran_do_tuong_chu_luc": "",
+                        "id": "striker's_flail"
+                    },
+                    {
+                        "name_do_tuong_chu_luc": "Hand Of Justice",
+                        "img_url_do_tuong_chu_luc": "TFT_Item_UnstableConcoction.png",
+                        "so_tran_do_tuong_chu_luc": "",
+                        "id": "hand_of_justice"
+                    }
+                ]
+            },
+            {
+                "champions_id": "bel'veth",
+                "items_do_tuong_chu_luc": [
+                    {
+                        "name_do_tuong_chu_luc": "Giant Slayer",
+                        "img_url_do_tuong_chu_luc": "TFT_Item_MadredsBloodrazor.png",
+                        "so_tran_do_tuong_chu_luc": "",
+                        "id": "giant_slayer"
+                    },
+                    {
+                        "name_do_tuong_chu_luc": "Quicksilver",
+                        "img_url_do_tuong_chu_luc": "TFT_Item_Quicksilver.png",
+                        "so_tran_do_tuong_chu_luc": "",
+                        "id": "quicksilver"
+                    },
+                    {
+                        "name_do_tuong_chu_luc": "Kraken's Fury",
+                        "img_url_do_tuong_chu_luc": "TFT_Item_RunaansHurricane.png",
+                        "so_tran_do_tuong_chu_luc": "",
+                        "id": "kraken's_fury"
+                    }
+                ]
+            },
+            {
+                "champions_id": "kindred",
+                "items_do_tuong_chu_luc": [
+                    {
+                        "name_do_tuong_chu_luc": "Guinsoo's Rageblade",
+                        "img_url_do_tuong_chu_luc": "TFT_Item_GuinsoosRageblade.png",
+                        "so_tran_do_tuong_chu_luc": "",
+                        "id": "guinsoo's_rageblade"
+                    },
+                    {
+                        "name_do_tuong_chu_luc": "Giant Slayer",
+                        "img_url_do_tuong_chu_luc": "TFT_Item_MadredsBloodrazor.png",
+                        "so_tran_do_tuong_chu_luc": "",
+                        "id": "giant_slayer"
+                    },
+                    {
+                        "name_do_tuong_chu_luc": "Kraken's Fury",
+                        "img_url_do_tuong_chu_luc": "TFT_Item_RunaansHurricane.png",
+                        "so_tran_do_tuong_chu_luc": "",
+                        "id": "kraken's_fury"
+                    }
+                ]
+            }
+        ],
+        "tang_cuongs": [
             [],
             [],
             []
         ]
     },
     {
-        "stt": 8,
+        "stt": 13,
         "id": "marauder_master_yi",
         "copy_hex": "0200f03101e02401f02f04f013000000TFTSet17",
         "tier_img": "icon-tier-D.png",
@@ -3973,10 +6702,10 @@
             "Normal",
             "Popular"
         ],
-        "average_position": "4.60",
-        "top_1_rate": "9.12",
-        "top_4_rate": "47.64",
-        "pick_rate": "2.74",
+        "average_position": "4.39",
+        "top_1_rate": "8.95",
+        "top_4_rate": "52.89",
+        "pick_rate": "3.33",
         "synergys": [
             {
                 "trait_name": "Divine Duelist",
@@ -4215,9 +6944,9 @@
                 "img_name_build_do_thanh_phan_two": "TFT_Item_GiantsBelt.png"
             }
         ],
-        "img_url_huong_dan_dau_game": "huong_dan_dau_game_7.png",
-        "img_url_huong_dan_giua_game": "huong_dan_giua_game_7.png",
-        "img_url_huong_dan_cuoi_game": "huong_dan_cuoi_game_7.png",
+        "img_url_huong_dan_dau_game": "huong_dan_dau_game_12.png",
+        "img_url_huong_dan_giua_game": "huong_dan_giua_game_12.png",
+        "img_url_huong_dan_cuoi_game": "huong_dan_cuoi_game_12.png",
         "img_huong_dan_tuong_tung_level": [
             {
                 "img_name_huong_dan_tuong_tung_level": "tft17_briar.tft_set17.png",
@@ -4450,6 +7179,11 @@
                 "champ_id": "master_yi"
             },
             {
+                "img_name_huong_dan_tuong_tung_level": "tft17_morgana.tft_set17.png",
+                "img_name": "Morgana",
+                "champ_id": "morgana"
+            },
+            {
                 "img_name_huong_dan_tuong_tung_level": "tft17_tahmkench.tft_set17.png",
                 "img_name": "Tahm Kench",
                 "champ_id": "tahm_kench"
@@ -4458,34 +7192,29 @@
                 "img_name_huong_dan_tuong_tung_level": "tft17_fiora.tft_set17.png",
                 "img_name": "Fiora",
                 "champ_id": "fiora"
-            },
-            {
-                "img_name_huong_dan_tuong_tung_level": "tft17_sona.tft_set17.png",
-                "img_name": "Sona",
-                "champ_id": "sona"
             }
         ],
         "ti_le_thang_for_levels": [
             {
-                "ti_le_thang": "47.10%"
+                "ti_le_thang": "47.19%"
             },
             {
-                "ti_le_thang": "57.25%"
+                "ti_le_thang": "57.21%"
             },
             {
-                "ti_le_thang": "36.31%"
+                "ti_le_thang": "36.35%"
             },
             {
-                "ti_le_thang": "42.93%"
+                "ti_le_thang": "42.63%"
             },
             {
-                "ti_le_thang": "45.62%"
+                "ti_le_thang": "45.67%"
             },
             {
-                "ti_le_thang": "37.94%"
+                "ti_le_thang": "37.99%"
             },
             {
-                "ti_le_thang": "50.00%"
+                "ti_le_thang": "45.45%"
             }
         ],
         "tuong_chu_lucs": [
@@ -4566,7 +7295,7 @@
         ]
     },
     {
-        "stt": 9,
+        "stt": 14,
         "id": "meeple_corki",
         "copy_hex": "0201a01403d01501902701803c000000TFTSet17",
         "tier_img": "icon-tier-D.png",
@@ -4577,10 +7306,10 @@
             "Normal",
             "Popular"
         ],
-        "average_position": "4.31",
-        "top_1_rate": "7.60",
-        "top_4_rate": "54.94",
-        "pick_rate": "4.14",
+        "average_position": "4.29",
+        "top_1_rate": "7.20",
+        "top_4_rate": "55.45",
+        "pick_rate": "5.55",
         "synergys": [
             {
                 "trait_name": "Meeple",
@@ -4809,9 +7538,9 @@
                 "img_name_build_do_thanh_phan_two": "TFT_Item_SparringGloves.png"
             }
         ],
-        "img_url_huong_dan_dau_game": "huong_dan_dau_game_8.png",
-        "img_url_huong_dan_giua_game": "huong_dan_giua_game_8.png",
-        "img_url_huong_dan_cuoi_game": "huong_dan_cuoi_game_8.png",
+        "img_url_huong_dan_dau_game": "huong_dan_dau_game_13.png",
+        "img_url_huong_dan_giua_game": "huong_dan_giua_game_13.png",
+        "img_url_huong_dan_cuoi_game": "huong_dan_cuoi_game_13.png",
         "img_huong_dan_tuong_tung_level": [
             {
                 "img_name_huong_dan_tuong_tung_level": "tft17_briar.tft_set17.png",
@@ -5007,26 +7736,79 @@
                 "img_name_huong_dan_tuong_tung_level": "tft17_bard.tft_set17.png",
                 "img_name": "Bard",
                 "champ_id": "bard"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_poppy.tft_set17.png",
+                "img_name": "Poppy",
+                "champ_id": "poppy"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_gnar.tft_set17.png",
+                "img_name": "Gnar",
+                "champ_id": "gnar"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_ivernminion.tft_set17.png",
+                "img_name": "Meepsie",
+                "champ_id": "meepsie"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_milio.tft_set17.png",
+                "img_name": "Milio",
+                "champ_id": "milio"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_fizz.tft_set17.png",
+                "img_name": "Fizz",
+                "champ_id": "fizz"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_corki.tft_set17.png",
+                "img_name": "Corki",
+                "champ_id": "corki"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_rammus.tft_set17.png",
+                "img_name": "Rammus",
+                "champ_id": "rammus"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_riven.tft_set17.png",
+                "img_name": "Riven",
+                "champ_id": "riven"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_riven.tft_set17.png",
+                "img_name": "Riven",
+                "champ_id": "riven"
+            },
+            {
+                "img_name_huong_dan_tuong_tung_level": "tft17_bard.tft_set17.png",
+                "img_name": "Bard",
+                "champ_id": "bard"
             }
         ],
         "ti_le_thang_for_levels": [
             {
-                "ti_le_thang": "47.10%"
+                "ti_le_thang": "47.19%"
             },
             {
-                "ti_le_thang": "57.28%"
+                "ti_le_thang": "57.21%"
             },
             {
-                "ti_le_thang": "36.34%"
+                "ti_le_thang": "36.35%"
             },
             {
-                "ti_le_thang": "54.25%"
+                "ti_le_thang": "54.02%"
             },
             {
-                "ti_le_thang": "58.54%"
+                "ti_le_thang": "58.51%"
             },
             {
-                "ti_le_thang": "48.78%"
+                "ti_le_thang": "48.73%"
+            },
+            {
+                "ti_le_thang": "0.00%"
             }
         ],
         "tuong_chu_lucs": [
@@ -5103,9 +7885,19 @@
         "tang_cuongs": [
             [
                 {
+                    "img": "Pandora1.png",
+                    "name": "Pandora's Items",
+                    "id": "pandora's_items"
+                },
+                {
                     "img": "Rolling-For-Days-I.png",
                     "name": "Rolling For Days I",
                     "id": "rolling_for_days_i"
+                },
+                {
+                    "img": "Branching-Out-I.png",
+                    "name": "Branching Out",
+                    "id": "branching_out"
                 }
             ],
             [
@@ -5115,9 +7907,29 @@
                     "id": "portable_forge"
                 },
                 {
+                    "img": "Pandora2.png",
+                    "name": "Pandora's Items II",
+                    "id": "pandora's_items_ii"
+                },
+                {
                     "img": "Reinfourcement_II.png",
                     "name": "ReinFOURcement",
                     "id": "reinfourcement"
+                },
+                {
+                    "img": "ExclusiveCustomization_II.TFT_Set15.png",
+                    "name": "Exclusive Customization",
+                    "id": "exclusive_customization"
+                },
+                {
+                    "img": "SoloPlate_II.TFT_Set16.png",
+                    "name": "Solo Plate",
+                    "id": "solo_plate"
+                },
+                {
+                    "img": "Grab-Bag-II.png",
+                    "name": "Big Grab Bag",
+                    "id": "big_grab_bag"
                 }
             ],
             []
