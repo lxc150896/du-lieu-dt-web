@@ -1,327 +1,114 @@
 [
   {
-    "id": "psionic",
-    "name": "Psionic",
-    "icon": "trait-psionic.svg",
-    "count": "5 items",
-    "description": "Tâm Linh",
-    "items": [
-      {
-        "stt": "1-1",
-        "id": "drone_uplink",
-        "name": "Drone Uplink",
-        "image": "psionic-drone-uplink.jpg",
-        "texts": [
-          "Một máy bay không người lái lặp lại 25% sát thương từ các đòn đánh và Kỹ năng của người sở hữu lên cùng một mục tiêu mỗi 3 giây.",
-          "Tại (4): Nếu người sở hữu là Tâm Linh, nhận thêm một máy bay mini lặp lại 20% sát thương.",
-          "Set.17.items.recommended Sona, Viktor"
-        ]
-      },
-      {
-        "stt": "1-2",
-        "id": "malware_matrix",
-        "name": "Malware Matrix",
-        "image": "psionic-malware-matrix.jpg",
-        "texts": [
-          "Gây sát thương vật lý lên kẻ địch sẽ giảm Giáp của mục tiêu đi 2.",
-          "Tại (4): Nếu người sở hữu là Tâm Linh, mỗi đòn tấn công thứ 3 sẽ đánh lan, gây 75 sát thương vật lý lên kẻ địch xung quanh.",
-          "Set.17.items.recommended Master Yi, Pyke"
-        ]
-      },
-      {
-        "stt": "1-3",
-        "id": "biomatter_preserver",
-        "name": "Biomatter Preserver",
-        "image": "psionic-biomatter-preserver.jpg",
-        "texts": [
-          "Nhận 5% Máu tối đa và triển khai 3 Quả Cầu Sinh Mệnh. Mỗi 5 giây giao tranh, một quả cầu sẽ rơi ra hồi 18% Máu đã mất của người sở hữu.",
-          "Tại (4): Nếu người sở hữu là Tâm Linh, họ nhận thêm 22% hiệu quả hồi máu từ mọi nguồn.",
-          "Set.17.items.recommended Gragas"
-        ]
-      },
-      {
-        "stt": "1-4",
-        "id": "sympathetic_implant",
-        "name": "Sympathetic Implant",
-        "image": "psionic-sympathetic-implant.jpg",
-        "texts": [
-          "Mỗi 5 giây, nhận thêm 1 Năng lượng mỗi giây.",
-          "Tại (4): Nếu người sở hữu là Tâm Linh, kỹ năng của họ sẽ gây 20% sát thương kỹ năng thành sát thương chuẩn.",
-          "Set.17.items.recommended Sona, Viktor"
-        ]
-      },
-      {
-        "stt": "1-5",
-        "id": "target-lock_optics",
-        "name": "Target-Lock Optics",
-        "image": "psionic-target-lock-optics.jpg",
-        "texts": [
-          "Đòn đánh đầu tiên của người sở hữu lên mỗi kẻ địch gây thêm 150 sát thương.",
-          "Tại (4): Nếu người sở hữu là Tâm Linh, họ hồi 12% Máu tối đa bất cứ khi nào mục tiêu của họ chết.",
-          "Set.17.items.recommended Pyke, Master Yi"
-        ]
-      }
-    ]
+    "stt": 1,
+    "id": "bieu_tuong_fae",
+    "name": "Biểu tượng Fae",
+    "image": "Trait_Icon_18_Fae_Large_Black.png",
+    "description": "Chủ sở hữu nhận Tộc Hệ Fae."
   },
   {
-    "id": "commander",
-    "name": "Commander",
-    "icon": "trait-commander.svg",
-    "count": "8 items",
-    "description": "Chỉ Huy",
-    "items": [
-      {
-        "stt": "2-1",
-        "id": "command_mod:_exhaust",
-        "name": "Command Mod: Exhaust",
-        "image": "command-mod-exhaust.jpg",
-        "texts": [
-          "Chỉ thị đòn đánh của một đơn vị gây Thiêu đốt, Vết thương sâu và Tê tái."
-        ]
-      },
-      {
-        "stt": "2-2",
-        "id": "command_mod:_doublestrike",
-        "name": "Command Mod: Doublestrike",
-        "image": "command-mod-doublestrike.jpg",
-        "texts": [
-          "Chỉ thị một đơn vị có 25% tỷ lệ tấn công hai lần khi tấn công."
-        ]
-      },
-      {
-        "stt": "2-3",
-        "id": "command_mod:_analyze",
-        "name": "Command Mod: Analyze",
-        "image": "command-mod-analyze.jpg",
-        "texts": [
-          "Chỉ thị một đơn vị ban cho bạn 1 XP mỗi 3 giây nó còn sống trong giao tranh với người chơi."
-        ]
-      },
-      {
-        "stt": "2-4",
-        "id": "command_mod:_brace",
-        "name": "Command Mod: Brace",
-        "image": "command-mod-brace.jpg",
-        "texts": [
-          "Chỉ thị một đơn vị nhận lá chắn bằng 20% Máu trong 8 giây khi bắt đầu giao tranh."
-        ]
-      },
-      {
-        "stt": "2-5",
-        "id": "command_mod:_transmute",
-        "name": "Command Mod: Transmute",
-        "image": "command-mod-transmute.jpg",
-        "texts": [
-          "Chỉ thị một đơn vị rơi ra 2 vàng mỗi khi hạ gục một kẻ địch trong giao tranh với người chơi."
-        ]
-      },
-      {
-        "stt": "2-6",
-        "id": "command_mod:_disrupt",
-        "name": "Command Mod: Disrupt",
-        "image": "command-mod-disrupt.jpg",
-        "texts": [
-          "Chỉ thị một đơn vị làm choáng kẻ địch trong phạm vi 3 ô trong 1 giây khi đơn vị đó hy sinh."
-        ]
-      },
-      {
-        "stt": "2-7",
-        "id": "command_mod:_optimize",
-        "name": "Command Mod: Optimize",
-        "image": "command-mod-optimize.jpg",
-        "texts": [
-          "Chỉ thị một đơn vị giảm 15% năng lượng tiêu hao của họ."
-        ]
-      },
-      {
-        "stt": "2-8",
-        "id": "command_mod:_fabricate",
-        "name": "Command Mod: Fabricate",
-        "image": "command-mod-fabricate.jpg",
-        "texts": [
-          "Chỉ thị một đơn vị nhận một trang bị đề xuất tạm thời khi bắt đầu giao tranh."
-        ]
-      }
-    ]
+    "stt": 2,
+    "id": "bieu_tuong_tho_san",
+    "name": "Biểu tượng thợ săn",
+    "image": "Trait_Icon_18_Hunter_Large_Black.png",
+    "description": "Chủ sở hữu nhận Tộc Hệ Thợ Săn."
   },
   {
-    "id": "emblem",
-    "name": "Emblem",
-    "icon": "trait-emblem.svg",
-    "count": "19 items",
-    "description": "Vật phẩm ban cho một đơn vị thêm một tộc hệ. Được chế tạo bằng Xẻng Vàng và một mảnh trang bị thành phần.",
-    "items": [
-      {
-        "stt": "3-1",
-        "id": "dark_star_emblem",
-        "name": "Dark Star Emblem",
-        "image": "emblem-dark-star.png",
-        "texts": [
-          "Người sở hữu nhận tộc hệ Hắc Tinh."
-        ]
-      },
-      {
-        "stt": "3-2",
-        "id": "timebreaker_emblem",
-        "name": "Timebreaker Emblem",
-        "image": "emblem-timebreaker.png",
-        "texts": [
-          "Người sở hữu nhận tộc hệ Phá Thời Gian."
-        ]
-      },
-      {
-        "stt": "3-3",
-        "id": "stargazer_emblem",
-        "name": "Stargazer Emblem",
-        "image": "emblem-stargazer.png",
-        "texts": [
-          "Người sở hữu nhận tộc hệ Chiêm Tinh Gia."
-        ]
-      },
-      {
-        "stt": "3-4",
-        "id": "space_groove_emblem",
-        "name": "Space Groove Emblem",
-        "image": "emblem-space-groove.png",
-        "texts": [
-          "Người sở hữu nhận tộc hệ Nhịp Điệu Không Gian."
-        ]
-      },
-      {
-        "stt": "3-5",
-        "id": "meeple_emblem",
-        "name": "Meeple Emblem",
-        "image": "emblem-meeple.png",
-        "texts": [
-          "Người sở hữu nhận tộc hệ Meeple."
-        ]
-      },
-      {
-        "stt": "3-6",
-        "id": "arbiter_emblem",
-        "name": "Arbiter Emblem",
-        "image": "emblem-arbiter.png",
-        "texts": [
-          "Người sở hữu nhận tộc hệ Chấp Pháp."
-        ]
-      },
-      {
-        "stt": "3-7",
-        "id": "primordian_emblem",
-        "name": "Primordian Emblem",
-        "image": "emblem-primordian.png",
-        "texts": [
-          "Người sở hữu nhận tộc hệ Nguyên Thủy."
-        ]
-      },
-      {
-        "stt": "3-8",
-        "id": "n.o.v.a._emblem",
-        "name": "N.O.V.A. Emblem",
-        "image": "emblem-nova.png",
-        "texts": [
-          "Người sở hữu nhận tộc hệ N.O.V.A."
-        ]
-      },
-      {
-        "stt": "3-9",
-        "id": "marauder_emblem",
-        "name": "Marauder Emblem",
-        "image": "emblem-marauder.png",
-        "texts": [
-          "Người sở hữu nhận tộc hệ Cướp Bóc."
-        ]
-      },
-      {
-        "stt": "3-10",
-        "id": "challenger_emblem",
-        "name": "Challenger Emblem",
-        "image": "emblem-challenger.png",
-        "texts": [
-          "Người sở hữu nhận tộc hệ Thách Đấu."
-        ]
-      },
-      {
-        "stt": "3-11",
-        "id": "voyager_emblem",
-        "name": "Voyager Emblem",
-        "image": "emblem-voyager.png",
-        "texts": [
-          "Người sở hữu nhận tộc hệ Du Hành."
-        ]
-      },
-      {
-        "stt": "3-12",
-        "id": "shepherd_emblem",
-        "name": "Shepherd Emblem",
-        "image": "emblem-shepherd.png",
-        "texts": [
-          "Người sở hữu nhận tộc hệ Người Chăn Dắt."
-        ]
-      },
-      {
-        "stt": "3-13",
-        "id": "bastion_emblem",
-        "name": "Bastion Emblem",
-        "image": "emblem-bastion.png",
-        "texts": [
-          "Người sở hữu nhận tộc hệ Can Trường."
-        ]
-      },
-      {
-        "stt": "3-14",
-        "id": "vanguard_emblem",
-        "name": "Vanguard Emblem",
-        "image": "emblem-vanguard.png",
-        "texts": [
-          "Người sở hữu nhận tộc hệ Tiên Phong."
-        ]
-      },
-      {
-        "stt": "3-15",
-        "id": "brawler_emblem",
-        "name": "Brawler Emblem",
-        "image": "emblem-brawler.png",
-        "texts": [
-          "Người sở hữu nhận tộc hệ Đấu Sĩ."
-        ]
-      },
-      {
-        "stt": "3-16",
-        "id": "rogue_emblem",
-        "name": "Rogue Emblem",
-        "image": "emblem-rogue.png",
-        "texts": [
-          "Người sở hữu nhận tộc hệ Sát Thủ."
-        ]
-      },
-      {
-        "stt": "3-17",
-        "id": "anima_emblem",
-        "name": "Anima Emblem",
-        "image": "emblem-anima-tech.png",
-        "texts": [
-          "Người sở hữu nhận tộc hệ Anima."
-        ]
-      },
-      {
-        "stt": "3-18",
-        "id": "psionic_emblem",
-        "name": "Psionic Emblem",
-        "image": "emblem-psyonic.png",
-        "texts": [
-          "Người sở hữu nhận tộc hệ Tâm Linh."
-        ]
-      },
-      {
-        "stt": "3-19",
-        "id": "sniper_emblem",
-        "name": "Sniper Emblem",
-        "image": "emblem-sniper.png",
-        "texts": [
-          "Người sở hữu nhận tộc hệ Xạ Thủ."
-        ]
-      }
-    ]
+    "stt": 3,
+    "id": "bieu_tuong_dia_nguc",
+    "name": "Biểu tượng địa ngục",
+    "image": "Trait_Icon_18_Inferno_Large_Black.png",
+    "description": "Chủ sở hữu nhận Tộc Hệ Inferno."
+  },
+  {
+    "stt": 4,
+    "id": "bieu_tuong_rapidfire",
+    "name": "Biểu tượng Rapidfire",
+    "image": "Trait_Icon_18_Rapidfire_Large_Black.png",
+    "description": "Chủ sở hữu nhận Tộc Hệ Rapidfire."
+  },
+  {
+    "stt": 5,
+    "id": "bieu_tuong_elderwood",
+    "name": "Biểu tượng Elderwood",
+    "image": "Trait_Icon_18_Elderwood_Large_Black.png",
+    "description": "Chủ sở hữu nhận Tộc Hệ Elderwood."
+  },
+  {
+    "stt": 6,
+    "id": "bieu_tuong_ravager",
+    "name": "Biểu tượng Ravager",
+    "image": "Trait_Icon_18_Ravager_Large_Black.png",
+    "description": "Chủ sở hữu nhận Tộc Hệ Ravager."
+  },
+  {
+    "stt": 7,
+    "id": "bieu_tuong_sprykin",
+    "name": "Biểu tượng Sprykin",
+    "image": "Trait_Icon_18_Sprykin_Large_Black.png",
+    "description": "Chủ sở hữu nhận Tộc Hệ Sprykin."
+  },
+  {
+    "stt": 8,
+    "id": "bieu_tuong_tien_phong",
+    "name": "Biểu tượng tiên phong",
+    "image": "Trait_Icon_18_Vanguard_Large_Black.png",
+    "description": "Chủ sở hữu nhận Tộc Hệ Vanguard."
+  },
+  {
+    "stt": 9,
+    "id": "bieu_tuong_hoa",
+    "name": "Biểu tượng hoa",
+    "image": "Trait_Icon_18_Blossom_Large_Black.png",
+    "description": "Chủ sở hữu nhận Tộc Hệ Blossom."
+  },
+  {
+    "stt": 10,
+    "id": "bieu_tuong_bua_phep",
+    "name": "Biểu tượng bùa phép",
+    "image": "Trait_Icon_18_Spellweaver_Large_Black.png",
+    "description": "Chủ sở hữu nhận Tộc Hệ Spellweaver."
+  },
+  {
+    "stt": 11,
+    "id": "bieu_tuong_invoker",
+    "name": "Biểu tượng Invoker",
+    "image": "Trait_Icon_18_Invoker_Large_Black.png",
+    "description": "Chủ sở hữu nhận Tộc Hệ Invoker."
+  },
+  {
+    "stt": 12,
+    "id": "bieu_tuong_mat_trang",
+    "name": "Biểu tượng mặt trăng",
+    "image": "Trait_Icon_18_Lunar_Large_Black.png",
+    "description": "Chủ sở hữu nhận Tộc Hệ Mặt Trăng."
+  },
+  {
+    "stt": 13,
+    "id": "bieu_tuong_brawler",
+    "name": "Biểu tượng Brawler",
+    "image": "Trait_Icon_18_Brawler_Large_Black.png",
+    "description": "Chủ sở hữu nhận Tộc Hệ Brawler."
+  },
+  {
+    "stt": 14,
+    "id": "bieu_tuong_eldritch",
+    "name": "Biểu tượng Eldritch",
+    "image": "Trait_Icon_18_Eldritch_Large_Black.png",
+    "description": "Chủ sở hữu nhận Tộc Hệ Eldritch."
+  },
+  {
+    "stt": 15,
+    "id": "bieu_tuong_dao_phu",
+    "name": "Biểu tượng đao phủ",
+    "image": "Trait_Icon_18_Executioner_Large_Black.png",
+    "description": "Chủ sở hữu nhận Tộc Hệ Đao Phủ."
+  },
+  {
+    "stt": 16,
+    "id": "bieu_tuong_nguyen_thuy",
+    "name": "Biểu tượng nguyên thủy",
+    "image": "Trait_Icon_18_Primal_Large_Black.png",
+    "description": "Chủ sở hữu nhận Tộc Hệ Nguyên Thủy."
   }
 ]

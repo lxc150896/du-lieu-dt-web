@@ -1,327 +1,114 @@
 [
   {
-    "id": "psionic",
-    "name": "Psionic",
-    "icon": "trait-psionic.svg",
-    "count": "5 items",
-    "description": "サイオニック",
-    "items": [
-      {
-        "stt": "1-1",
-        "id": "drone_uplink",
-        "name": "Drone Uplink",
-        "image": "psionic-drone-uplink.jpg",
-        "texts": [
-          "ドローンが、3秒ごとに装備者の通常攻撃およびスキルによるダメージの25%を同じターゲットに繰り返す。",
-          "(4): 装備者がサイオニックの場合、ダメージの20%を繰り返す追加のミニドローンを獲得する。",
-          "Set.17.items.recommended Sona, Viktor"
-        ]
-      },
-      {
-        "stt": "1-2",
-        "id": "malware_matrix",
-        "name": "Malware Matrix",
-        "image": "psionic-malware-matrix.jpg",
-        "texts": [
-          "敵に物理ダメージを与えると、ターゲットの物理防御を2減少させる。",
-          "(4): 装備者がサイオニックの場合、3回目の攻撃ごとになぎ払いを行い、周囲の敵に75の物理ダメージを与える。",
-          "Set.17.items.recommended Master Yi, Pyke"
-        ]
-      },
-      {
-        "stt": "1-3",
-        "id": "biomatter_preserver",
-        "name": "Biomatter Preserver",
-        "image": "psionic-biomatter-preserver.jpg",
-        "texts": [
-          "最大体力が5%増加し、3つのライフオーブを展開する。戦闘中5秒ごとに1つがドロップし、装備者の欠損体力の18%を回復する。",
-          "(4): 装備者がサイオニックの場合、あらゆるソースからの回復効果が22%増加する。",
-          "Set.17.items.recommended Gragas"
-        ]
-      },
-      {
-        "stt": "1-4",
-        "id": "sympathetic_implant",
-        "name": "Sympathetic Implant",
-        "image": "psionic-sympathetic-implant.jpg",
-        "texts": [
-          "5秒ごとに、秒間マナ回復が1増加する。",
-          "(4): 装備者がサイオニックの場合、スキルのダメージの20%を代わりに確定ダメージとして与える。",
-          "Set.17.items.recommended Sona, Viktor"
-        ]
-      },
-      {
-        "stt": "1-5",
-        "id": "target-lock_optics",
-        "name": "Target-Lock Optics",
-        "image": "psionic-target-lock-optics.jpg",
-        "texts": [
-          "各敵に対する装備者の最初の攻撃は、150の追加ダメージを与える。",
-          "(4): 装備者がサイオニックの場合、ターゲットが死亡するたびに最大体力の12%を回復する。",
-          "Set.17.items.recommended Pyke, Master Yi"
-        ]
-      }
-    ]
+    "stt": 1,
+    "id": "hueinoenburemu",
+    "name": "フェイのエンブレム",
+    "image": "Trait_Icon_18_Fae_Large_Black.png",
+    "description": "装備者はフェイ特性を獲得する。"
   },
   {
-    "id": "commander",
-    "name": "Commander",
-    "icon": "trait-commander.svg",
-    "count": "8 items",
-    "description": "コマンダー",
-    "items": [
-      {
-        "stt": "2-1",
-        "id": "command_mod:_exhaust",
-        "name": "Command Mod: Exhaust",
-        "image": "command-mod-exhaust.jpg",
-        "texts": [
-          "ユニットの攻撃に燃焼、負傷、冷気の効果を付与するよう命令する。"
-        ]
-      },
-      {
-        "stt": "2-2",
-        "id": "command_mod:_doublestrike",
-        "name": "Command Mod: Doublestrike",
-        "image": "command-mod-doublestrike.jpg",
-        "texts": [
-          "ユニットが攻撃時に25%の確率で2回攻撃するよう命令する。"
-        ]
-      },
-      {
-        "stt": "2-3",
-        "id": "command_mod:_analyze",
-        "name": "Command Mod: Analyze",
-        "image": "command-mod-analyze.jpg",
-        "texts": [
-          "対人戦闘中、そのユニットが生存している間、3秒ごとに1 XPを獲得するよう命令する。"
-        ]
-      },
-      {
-        "stt": "2-4",
-        "id": "command_mod:_brace",
-        "name": "Command Mod: Brace",
-        "image": "command-mod-brace.jpg",
-        "texts": [
-          "戦闘開始時、ユニットが8秒間、体力の20%のシールドを獲得するよう命令する。"
-        ]
-      },
-      {
-        "stt": "2-5",
-        "id": "command_mod:_transmute",
-        "name": "Command Mod: Transmute",
-        "image": "command-mod-transmute.jpg",
-        "texts": [
-          "対人戦闘中、ユニットが敵を倒すたびに2ゴールドをドロップするよう命令する。"
-        ]
-      },
-      {
-        "stt": "2-6",
-        "id": "command_mod:_disrupt",
-        "name": "Command Mod: Disrupt",
-        "image": "command-mod-disrupt.jpg",
-        "texts": [
-          "ユニットが死亡した際、3マス以内の敵を1秒間スタンさせるよう命令する。"
-        ]
-      },
-      {
-        "stt": "2-7",
-        "id": "command_mod:_optimize",
-        "name": "Command Mod: Optimize",
-        "image": "command-mod-optimize.jpg",
-        "texts": [
-          "ユニットのマナコストを15%削減するよう命令する。"
-        ]
-      },
-      {
-        "stt": "2-8",
-        "id": "command_mod:_fabricate",
-        "name": "Command Mod: Fabricate",
-        "image": "command-mod-fabricate.jpg",
-        "texts": [
-          "戦闘開始時、ユニットが一時的な推奨アイテムを獲得するよう命令する。"
-        ]
-      }
-    ]
+    "stt": 2,
+    "id": "hanta-enburemu",
+    "name": "ハンターエンブレム",
+    "image": "Trait_Icon_18_Hunter_Large_Black.png",
+    "description": "装備者はハンター特性を獲得する。"
   },
   {
-    "id": "emblem",
-    "name": "Emblem",
-    "icon": "trait-emblem.svg",
-    "count": "19 items",
-    "description": "ユニットに追加の特性を付与するアイテム。へらと素材アイテムを使用して作成される。",
-    "items": [
-      {
-        "stt": "3-1",
-        "id": "dark_star_emblem",
-        "name": "Dark Star Emblem",
-        "image": "emblem-dark-star.png",
-        "texts": [
-          "装備者はダークスターの特性を獲得する。"
-        ]
-      },
-      {
-        "stt": "3-2",
-        "id": "timebreaker_emblem",
-        "name": "Timebreaker Emblem",
-        "image": "emblem-timebreaker.png",
-        "texts": [
-          "装備者はタイムブレイカーの特性を獲得する。"
-        ]
-      },
-      {
-        "stt": "3-3",
-        "id": "stargazer_emblem",
-        "name": "Stargazer Emblem",
-        "image": "emblem-stargazer.png",
-        "texts": [
-          "装備者はスターゲイザーの特性を獲得する。"
-        ]
-      },
-      {
-        "stt": "3-4",
-        "id": "space_groove_emblem",
-        "name": "Space Groove Emblem",
-        "image": "emblem-space-groove.png",
-        "texts": [
-          "装備者はスペースグルーヴの特性を獲得する。"
-        ]
-      },
-      {
-        "stt": "3-5",
-        "id": "meeple_emblem",
-        "name": "Meeple Emblem",
-        "image": "emblem-meeple.png",
-        "texts": [
-          "装備者はミープルの特性を獲得する。"
-        ]
-      },
-      {
-        "stt": "3-6",
-        "id": "arbiter_emblem",
-        "name": "Arbiter Emblem",
-        "image": "emblem-arbiter.png",
-        "texts": [
-          "装備者はアービターの特性を獲得する。"
-        ]
-      },
-      {
-        "stt": "3-7",
-        "id": "primordian_emblem",
-        "name": "Primordian Emblem",
-        "image": "emblem-primordian.png",
-        "texts": [
-          "装備者はプリモーディアンの特性を獲得する。"
-        ]
-      },
-      {
-        "stt": "3-8",
-        "id": "n.o.v.a._emblem",
-        "name": "N.O.V.A. Emblem",
-        "image": "emblem-nova.png",
-        "texts": [
-          "装備者はN.O.V.A.の特性を獲得する。"
-        ]
-      },
-      {
-        "stt": "3-9",
-        "id": "marauder_emblem",
-        "name": "Marauder Emblem",
-        "image": "emblem-marauder.png",
-        "texts": [
-          "装備者はマローダーの特性を獲得する。"
-        ]
-      },
-      {
-        "stt": "3-10",
-        "id": "challenger_emblem",
-        "name": "Challenger Emblem",
-        "image": "emblem-challenger.png",
-        "texts": [
-          "装備者はチャレンジャーの特性を獲得する。"
-        ]
-      },
-      {
-        "stt": "3-11",
-        "id": "voyager_emblem",
-        "name": "Voyager Emblem",
-        "image": "emblem-voyager.png",
-        "texts": [
-          "装備者はヴォイジャーの特性を獲得する。"
-        ]
-      },
-      {
-        "stt": "3-12",
-        "id": "shepherd_emblem",
-        "name": "Shepherd Emblem",
-        "image": "emblem-shepherd.png",
-        "texts": [
-          "装備者はシェパードの特性を獲得する。"
-        ]
-      },
-      {
-        "stt": "3-13",
-        "id": "bastion_emblem",
-        "name": "Bastion Emblem",
-        "image": "emblem-bastion.png",
-        "texts": [
-          "装備者はバスティオンの特性を獲得する。"
-        ]
-      },
-      {
-        "stt": "3-14",
-        "id": "vanguard_emblem",
-        "name": "Vanguard Emblem",
-        "image": "emblem-vanguard.png",
-        "texts": [
-          "装備者はヴァンガードの特性を獲得する。"
-        ]
-      },
-      {
-        "stt": "3-15",
-        "id": "brawler_emblem",
-        "name": "Brawler Emblem",
-        "image": "emblem-brawler.png",
-        "texts": [
-          "装備者はブロウラーの特性を獲得する。"
-        ]
-      },
-      {
-        "stt": "3-16",
-        "id": "rogue_emblem",
-        "name": "Rogue Emblem",
-        "image": "emblem-rogue.png",
-        "texts": [
-          "装備者はローグの特性を獲得する。"
-        ]
-      },
-      {
-        "stt": "3-17",
-        "id": "anima_emblem",
-        "name": "Anima Emblem",
-        "image": "emblem-anima-tech.png",
-        "texts": [
-          "装備者はアニマの特性を獲得する。"
-        ]
-      },
-      {
-        "stt": "3-18",
-        "id": "psionic_emblem",
-        "name": "Psionic Emblem",
-        "image": "emblem-psyonic.png",
-        "texts": [
-          "装備者はサイオニックの特性を獲得する。"
-        ]
-      },
-      {
-        "stt": "3-19",
-        "id": "sniper_emblem",
-        "name": "Sniper Emblem",
-        "image": "emblem-sniper.png",
-        "texts": [
-          "装備者はスナイパーの特性を獲得する。"
-        ]
-      }
-    ]
+    "stt": 3,
+    "id": "inhuerunoenburemu",
+    "name": "インフェルノエンブレム",
+    "image": "Trait_Icon_18_Inferno_Large_Black.png",
+    "description": "装備者はインフェルノ特性を獲得する。"
+  },
+  {
+    "stt": 4,
+    "id": "rapitsudohuaiaenburemu",
+    "name": "ラピッドファイアエンブレム",
+    "image": "Trait_Icon_18_Rapidfire_Large_Black.png",
+    "description": "装備者はラピッドファイア特性を獲得する。"
+  },
+  {
+    "stt": 5,
+    "id": "niwatokonoWen_Zhang_",
+    "name": "ニワトコの紋章",
+    "image": "Trait_Icon_18_Elderwood_Large_Black.png",
+    "description": "装備者はエルダーウッド特性を獲得する。"
+  },
+  {
+    "stt": 6,
+    "id": "ravueziya-enburemu",
+    "name": "ラヴェジャーエンブレム",
+    "image": "Trait_Icon_18_Ravager_Large_Black.png",
+    "description": "装備者はラヴェジャー特性を獲得する。"
+  },
+  {
+    "stt": 7,
+    "id": "supuri-kinnoenburemu",
+    "name": "スプリーキンのエンブレム",
+    "image": "Trait_Icon_18_Sprykin_Large_Black.png",
+    "description": "装備者はスプリキン特性を獲得する。"
+  },
+  {
+    "stt": 8,
+    "id": "vuanga-doenburemu",
+    "name": "ヴァンガードエンブレム",
+    "image": "Trait_Icon_18_Vanguard_Large_Black.png",
+    "description": "装備者はヴァンガード特性を獲得する。"
+  },
+  {
+    "stt": 9,
+    "id": "burotsusamuenburemu",
+    "name": "ブロッサムエンブレム",
+    "image": "Trait_Icon_18_Blossom_Large_Black.png",
+    "description": "装備者はブロッサム特性を獲得する。"
+  },
+  {
+    "stt": 10,
+    "id": "superuui-ba-noenburemu",
+    "name": "スペルウィーバーのエンブレム",
+    "image": "Trait_Icon_18_Spellweaver_Large_Black.png",
+    "description": "装備者はスペルウィーバー特性を獲得する。"
+  },
+  {
+    "stt": 11,
+    "id": "Fa_Dong_Zhe_enburemu",
+    "name": "発動者エンブレム",
+    "image": "Trait_Icon_18_Invoker_Large_Black.png",
+    "description": "装備者はインヴォーカー特性を獲得する。"
+  },
+  {
+    "stt": 12,
+    "id": "Yue_noWen_Zhang_",
+    "name": "月の紋章",
+    "image": "Trait_Icon_18_Lunar_Large_Black.png",
+    "description": "装備者はルナ特性を獲得する。"
+  },
+  {
+    "stt": 13,
+    "id": "buroura-enburemu",
+    "name": "ブロウラーエンブレム",
+    "image": "Trait_Icon_18_Brawler_Large_Black.png",
+    "description": "装備者はブローラー特性を獲得する。"
+  },
+  {
+    "stt": 14,
+    "id": "Yi_Jie_noWen_Zhang_",
+    "name": "異界の紋章",
+    "image": "Trait_Icon_18_Eldritch_Large_Black.png",
+    "description": "装備者はエルドリッチ特性を獲得する。"
+  },
+  {
+    "stt": 15,
+    "id": "Chu_Xing_Ren_noWen_Zhang_",
+    "name": "処刑人の紋章",
+    "image": "Trait_Icon_18_Executioner_Large_Black.png",
+    "description": "装備者はエグゼキューショナー特性を獲得する。"
+  },
+  {
+    "stt": 16,
+    "id": "Man_noWen_Zhang_",
+    "name": "蛮の紋章",
+    "image": "Trait_Icon_18_Primal_Large_Black.png",
+    "description": "装備者はプライマル特性を獲得する。"
   }
 ]

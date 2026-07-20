@@ -1,0 +1,888 @@
+[
+  {
+    "stt": 1,
+    "id": "pebbles",
+    "name": "Pebbles",
+    "image": "Pebbles.jpg",
+    "splash": "T_18_Sentry_PCHighres.jpg",
+    "cost": "1",
+    "traits": [
+      "협곡야수",
+      "기원자"
+    ]
+  },
+  {
+    "stt": 2,
+    "id": "deonggul_myomog",
+    "name": "덩굴 묘목",
+    "image": "Cinderling.jpg",
+    "splash": "T_18_Cinderling_PCHighres.jpg",
+    "cost": "1",
+    "traits": [
+      "협곡야수",
+      "사냥꾼"
+    ]
+  },
+  {
+    "stt": 3,
+    "id": "rakan",
+    "name": "라칸",
+    "image": "Rakan.jpg",
+    "splash": "T_18_Rakan_PCHighres.jpg",
+    "cost": "1",
+    "traits": [
+      "요정",
+      "전쟁기계",
+      "선봉대"
+    ]
+  },
+  {
+    "stt": 4,
+    "id": "reona",
+    "name": "레오나",
+    "image": "Leona.jpg",
+    "splash": "T_18_Leona_PCHighres.jpg",
+    "cost": "1",
+    "traits": [
+      "태양",
+      "엄호대"
+    ]
+  },
+  {
+    "stt": 5,
+    "id": "regsai",
+    "name": "렉사이",
+    "image": "RekSai.jpg",
+    "splash": "T_18_Reksai_PCHighres.jpg",
+    "cost": "1",
+    "traits": [
+      "섬뜩한 힘",
+      "싸움꾼"
+    ]
+  },
+  {
+    "stt": 6,
+    "id": "baruseu",
+    "name": "바루스",
+    "image": "Varus.jpg",
+    "splash": "T_18_Varus_PCHighres.jpg",
+    "cost": "1",
+    "traits": [
+      "지옥불",
+      "속사포"
+    ]
+  },
+  {
+    "stt": 7,
+    "id": "beiga",
+    "name": "베이가",
+    "image": "Veigar.jpg",
+    "splash": "T_18_Veigar_PCHighres.jpg",
+    "cost": "1",
+    "traits": [
+      "섬뜩한 힘",
+      "날렵이",
+      "주문술사"
+    ]
+  },
+  {
+    "stt": 8,
+    "id": "akalri",
+    "name": "아칼리",
+    "image": "Akali.jpg",
+    "splash": "T_18_Akali_PCHighres.jpg",
+    "cost": "1",
+    "traits": [
+      "지옥불",
+      "적응가",
+      "약탈자"
+    ]
+  },
+  {
+    "stt": 9,
+    "id": "oreun",
+    "name": "오른",
+    "image": "Ornn.jpg",
+    "splash": "T_18_Ornn_PCHighres.jpg",
+    "cost": "1",
+    "traits": [
+      "나무정령",
+      "엄호대"
+    ]
+  },
+  {
+    "stt": 10,
+    "id": "yorig",
+    "name": "요릭",
+    "image": "Yorick.jpg",
+    "splash": "T_18_Yorick_PCHighres.jpg",
+    "cost": "1",
+    "traits": [
+      "개화",
+      "전쟁기계",
+      "소환사"
+    ]
+  },
+  {
+    "stt": 11,
+    "id": "jaya",
+    "name": "자야",
+    "image": "Xayah.jpg",
+    "splash": "T_18_Xayah_PCHighres.jpg",
+    "cost": "1",
+    "traits": [
+      "나무정령",
+      "요정",
+      "속사포"
+    ]
+  },
+  {
+    "stt": 12,
+    "id": "kareuma",
+    "name": "카르마",
+    "image": "Karma.jpg",
+    "splash": "T_18_Karma_PCHighres.jpg",
+    "cost": "1",
+    "traits": [
+      "개화",
+      "주문술사"
+    ]
+  },
+  {
+    "stt": 13,
+    "id": "kamil",
+    "name": "카밀",
+    "image": "Camille.jpg",
+    "splash": "T_18_Camille_PCHighres.jpg",
+    "cost": "1",
+    "traits": [
+      "악의 여단",
+      "약탈자"
+    ]
+  },
+  {
+    "stt": 14,
+    "id": "kobuko",
+    "name": "코부코",
+    "image": "Kobuko.jpg",
+    "splash": "T_18_Kobuko_PCHighres.jpg",
+    "cost": "1",
+    "traits": [
+      "날렵이",
+      "싸움꾼"
+    ]
+  },
+  {
+    "stt": 15,
+    "id": "reubeulrang",
+    "name": "르블랑",
+    "image": "LeBlanc.jpg",
+    "splash": "T_18_Leblanc_PCHighres.jpg",
+    "cost": "2",
+    "traits": [
+      "나무정령",
+      "주문술사"
+    ]
+  },
+  {
+    "stt": 16,
+    "id": "bawi_ge",
+    "name": "바위 게",
+    "image": "Scuttlecrab.jpg",
+    "splash": "T_18_Scuttlecrab_PCHighres.jpg",
+    "cost": "2",
+    "traits": [
+      "협곡야수",
+      "전쟁기계"
+    ]
+  },
+  {
+    "stt": 17,
+    "id": "sejuani",
+    "name": "세주아니",
+    "image": "Sejuani.jpg",
+    "splash": "T_18_Sejuani_PCHighres.jpg",
+    "cost": "2",
+    "traits": [
+      "태양",
+      "전쟁기계"
+    ]
+  },
+  {
+    "stt": 18,
+    "id": "swen",
+    "name": "쉔",
+    "image": "Shen.jpg",
+    "splash": "T_18_Shen_PCHighres.jpg",
+    "cost": "2",
+    "traits": [
+      "지옥불",
+      "엄호대"
+    ]
+  },
+  {
+    "stt": 19,
+    "id": "simsulduggeobi",
+    "name": "심술두꺼비",
+    "image": "Gromp.jpg",
+    "splash": "T_18_Gromp_PCHighres.jpg",
+    "cost": "2",
+    "traits": [
+      "협곡야수",
+      "적응가"
+    ]
+  },
+  {
+    "stt": 20,
+    "id": "alriseuta",
+    "name": "알리스타",
+    "image": "Alistar.jpg",
+    "splash": "T_18_Alistar_PCHighres.jpg",
+    "cost": "2",
+    "traits": [
+      "나무정령",
+      "싸움꾼"
+    ]
+  },
+  {
+    "stt": 21,
+    "id": "eoseureum_neugdae",
+    "name": "어스름 늑대",
+    "image": "Murkwolf.jpg",
+    "splash": "T_18_MurkWolf_PCHighres.jpg",
+    "cost": "2",
+    "traits": [
+      "협곡야수",
+      "약탈자"
+    ]
+  },
+  {
+    "stt": 22,
+    "id": "elriseu",
+    "name": "엘리스",
+    "image": "Elise.jpg",
+    "splash": "T_18_Elise_PCHighres.jpg",
+    "cost": "2",
+    "traits": [
+      "악의 여단",
+      "선봉대"
+    ]
+  },
+  {
+    "stt": 23,
+    "id": "weowig",
+    "name": "워윅",
+    "image": "Warwick.jpg",
+    "splash": "T_18_Warwick_PCHighres.jpg",
+    "cost": "2",
+    "traits": [
+      "섬뜩한 힘",
+      "약탈자"
+    ]
+  },
+  {
+    "stt": 24,
+    "id": "yunara",
+    "name": "유나라",
+    "image": "Yunara.jpg",
+    "splash": "T_18_Yunara_PCHighres.jpg",
+    "cost": "2",
+    "traits": [
+      "개화",
+      "처형자"
+    ]
+  },
+  {
+    "stt": 25,
+    "id": "keiteulrin",
+    "name": "케이틀린",
+    "image": "Caitlyn.jpg",
+    "splash": "T_18_Caitlyn_PCHighres.jpg",
+    "cost": "2",
+    "traits": [
+      "악의 여단",
+      "사냥꾼"
+    ]
+  },
+  {
+    "stt": 26,
+    "id": "keil",
+    "name": "케일",
+    "image": "Kayle.jpg",
+    "splash": "T_18_Kayle_PCHighres.jpg",
+    "cost": "2",
+    "traits": [
+      "태양",
+      "속사포"
+    ]
+  },
+  {
+    "stt": 27,
+    "id": "timo",
+    "name": "티모",
+    "image": "Teemo.jpg",
+    "splash": "T_18_Teemo_PCHighres.jpg",
+    "cost": "2",
+    "traits": [
+      "날렵이",
+      "기원자"
+    ]
+  },
+  {
+    "stt": 28,
+    "id": "daiaena",
+    "name": "다이애나",
+    "image": "Diana.jpg",
+    "splash": "T_18_Diana_PCHighres.jpg",
+    "cost": "3",
+    "traits": [
+      "달",
+      "약탈자",
+      "선봉대"
+    ]
+  },
+  {
+    "stt": 29,
+    "id": "dolgeobug",
+    "name": "돌거북",
+    "image": "Krug.jpg",
+    "splash": "T_18_Krug_PCHighres.jpg",
+    "cost": "3",
+    "traits": [
+      "협곡야수",
+      "싸움꾼"
+    ]
+  },
+  {
+    "stt": 30,
+    "id": "rammeoseu",
+    "name": "람머스",
+    "image": "Rammus.jpg",
+    "splash": "T_18_Rammus_PCHighres.jpg",
+    "cost": "3",
+    "traits": [
+      "날렵이",
+      "엄호대"
+    ]
+  },
+  {
+    "stt": 31,
+    "id": "rengga",
+    "name": "렝가",
+    "image": "Rengar.jpg",
+    "splash": "T_18_Rengar_PCHighres.jpg",
+    "cost": "3",
+    "traits": [
+      "경쟁자"
+    ]
+  },
+  {
+    "stt": 32,
+    "id": "maseuteo_i",
+    "name": "마스터 이",
+    "image": "MasterYi.jpg",
+    "splash": "T_18_MasterYi_Highres.jpg",
+    "cost": "3",
+    "traits": [
+      "개화",
+      "적응가"
+    ]
+  },
+  {
+    "stt": 33,
+    "id": "bai",
+    "name": "바이",
+    "image": "Vi.jpg",
+    "splash": "T_18_VI_PCHighres.jpg",
+    "cost": "3",
+    "traits": [
+      "태고",
+      "전쟁기계"
+    ]
+  },
+  {
+    "stt": 34,
+    "id": "ajireu",
+    "name": "아지르",
+    "image": "Azir.jpg",
+    "splash": "T_18_Azir_PCHighres.jpg",
+    "cost": "3",
+    "traits": [
+      "섬뜩한 힘",
+      "처형자",
+      "소환사"
+    ]
+  },
+  {
+    "stt": 35,
+    "id": "kasiopea",
+    "name": "카시오페아",
+    "image": "Cassiopeia.jpg",
+    "splash": "T_18_Cassiopeia_PCHighres.jpg",
+    "cost": "3",
+    "traits": [
+      "악의 여단",
+      "주문술사"
+    ]
+  },
+  {
+    "stt": 36,
+    "id": "kajigseu",
+    "name": "카직스",
+    "image": "KhaZix.jpg",
+    "splash": "T_18_Khazix_PCHighres.jpg",
+    "cost": "3",
+    "traits": [
+      "경쟁자"
+    ]
+  },
+  {
+    "stt": 37,
+    "id": "kalnalburi",
+    "name": "칼날부리",
+    "image": "Raptor.jpg",
+    "splash": "T_18_CrimsonRaptor_PCHighres.jpg",
+    "cost": "3",
+    "traits": [
+      "협곡야수",
+      "소환사",
+      "속사포"
+    ]
+  },
+  {
+    "stt": 38,
+    "id": "kogeumo",
+    "name": "코그모",
+    "image": "KogMaw.jpg",
+    "splash": "T_18_KogMaw_PCHighres.jpg",
+    "cost": "3",
+    "traits": [
+      "부식",
+      "기원자",
+      "적응가"
+    ]
+  },
+  {
+    "stt": 39,
+    "id": "teuriseutana",
+    "name": "트리스타나",
+    "image": "Tristana.jpg",
+    "splash": "T_18_Tristana_PCHighres.jpg",
+    "cost": "3",
+    "traits": [
+      "요정",
+      "날렵이",
+      "사냥꾼"
+    ]
+  },
+  {
+    "stt": 40,
+    "id": "pideulseutig",
+    "name": "피들스틱",
+    "image": "Fiddlesticks.jpg",
+    "splash": "T_18_Fiddlesticks_PCHighres.jpg",
+    "cost": "3",
+    "traits": [
+      "치명적인 꽃",
+      "엄호대",
+      "주문술사"
+    ]
+  },
+  {
+    "stt": 41,
+    "id": "hekarim",
+    "name": "헤카림",
+    "image": "Hecarim.jpg",
+    "splash": "T_18_Hecarim_PCHighres.jpg",
+    "cost": "3",
+    "traits": [
+      "나무정령",
+      "선봉대"
+    ]
+  },
+  {
+    "stt": 42,
+    "id": "godae_pasuggun",
+    "name": "고대 파수꾼",
+    "image": "AncientSentinel.jpg",
+    "splash": "T_18_Sentinel_PCHighres.jpg",
+    "cost": "4",
+    "traits": [
+      "협곡야수",
+      "선봉대",
+      "기원자"
+    ]
+  },
+  {
+    "stt": 43,
+    "id": "nidalri",
+    "name": "니달리",
+    "image": "Nidalee.jpg",
+    "splash": "T_18_Nidalee_PCHighres.jpg",
+    "cost": "4",
+    "traits": [
+      "태고",
+      "적응가"
+    ]
+  },
+  {
+    "stt": 44,
+    "id": "deongguljeongryeong",
+    "name": "덩굴정령",
+    "image": "Brambleback.jpg",
+    "splash": "T_18_Brambleback_PCHighres.jpg",
+    "cost": "4",
+    "traits": [
+      "협곡야수",
+      "약탈자"
+    ]
+  },
+  {
+    "stt": 45,
+    "id": "rilria",
+    "name": "릴리아",
+    "image": "Lillia.jpg",
+    "splash": "T_18_Lillia_PCHighres.jpg",
+    "cost": "4",
+    "traits": [
+      "요정",
+      "엄호대"
+    ]
+  },
+  {
+    "stt": 46,
+    "id": "malpaiteu",
+    "name": "말파이트",
+    "image": "Malphite.jpg",
+    "splash": "T_18_Malphite_PCHighres.jpg",
+    "cost": "4",
+    "traits": [
+      "섬뜩한 힘",
+      "거석"
+    ]
+  },
+  {
+    "stt": 47,
+    "id": "moreugana",
+    "name": "모르가나",
+    "image": "Morgana.jpg",
+    "splash": "T_18_Morgana_PCHighres.jpg",
+    "cost": "4",
+    "traits": [
+      "악의 여단",
+      "기원자"
+    ]
+  },
+  {
+    "stt": 48,
+    "id": "seteu",
+    "name": "세트",
+    "image": "Sett.jpg",
+    "splash": "T_18_Sett_PCHighres.jpg",
+    "cost": "4",
+    "traits": [
+      "개화",
+      "싸움꾼"
+    ]
+  },
+  {
+    "stt": 49,
+    "id": "soraka",
+    "name": "소라카",
+    "image": "Soraka.jpg",
+    "splash": "T_18_Soraka_PCHighres.jpg",
+    "cost": "4",
+    "traits": [
+      "치명적인 꽃",
+      "처형자"
+    ]
+  },
+  {
+    "stt": 50,
+    "id": "sibireu",
+    "name": "시비르",
+    "image": "Sivir.jpg",
+    "splash": "T_18_Sivir_PCHIghres.jpg",
+    "cost": "4",
+    "traits": [
+      "태고",
+      "사냥꾼"
+    ]
+  },
+  {
+    "stt": 51,
+    "id": "ari",
+    "name": "아리",
+    "image": "Ahri.jpg",
+    "splash": "T_18_Ahri_PCHighres.jpg",
+    "cost": "4",
+    "traits": [
+      "개화",
+      "주문술사"
+    ]
+  },
+  {
+    "stt": 52,
+    "id": "amumu",
+    "name": "아무무",
+    "image": "Amumu.jpg",
+    "splash": "T_18_Amumu_PCHighres.jpg",
+    "cost": "4",
+    "traits": [
+      "지옥불",
+      "전쟁기계"
+    ]
+  },
+  {
+    "stt": 53,
+    "id": "apelrioseu",
+    "name": "아펠리오스",
+    "image": "Aphelios.jpg",
+    "splash": "T_18_Aphelios_PChighres.jpg",
+    "cost": "4",
+    "traits": [
+      "달",
+      "속사포"
+    ]
+  },
+  {
+    "stt": 54,
+    "id": "ijeurieol",
+    "name": "이즈리얼",
+    "image": "Ezreal.jpg",
+    "splash": "T_18_Ezreal_PCHighres.jpg",
+    "cost": "4",
+    "traits": [
+      "나무정령",
+      "처형자"
+    ]
+  },
+  {
+    "stt": 55,
+    "id": "jaira",
+    "name": "자이라",
+    "image": "Zyra.jpg",
+    "splash": "T_18_Zyra_PCHighres.jpg",
+    "cost": "4",
+    "traits": [
+      "가시 여인",
+      "소환사"
+    ]
+  },
+  {
+    "stt": 56,
+    "id": "nareu",
+    "name": "나르",
+    "image": "Gnar.jpg",
+    "splash": "T_18_Gnar_PCHighres.jpg",
+    "cost": "5",
+    "traits": [
+      "나무정령",
+      "날렵이",
+      "싸움꾼"
+    ]
+  },
+  {
+    "stt": 57,
+    "id": "deureibeun",
+    "name": "드레이븐",
+    "image": "Draven.jpg",
+    "splash": "T_18_Draven_PCHighres.jpg",
+    "cost": "5",
+    "traits": [
+      "현상금 사냥꾼"
+    ]
+  },
+  {
+    "stt": 58,
+    "id": "reogseu_(gaehwa)",
+    "name": "럭스 (개화)",
+    "image": "LuxBlossom.jpg",
+    "splash": "T_18_Lux_Blossom_PCHighres.jpg",
+    "cost": "5",
+    "traits": [
+      "개화",
+      "아바타"
+    ]
+  },
+  {
+    "stt": 59,
+    "id": "reogseu_(namujeongryeong)",
+    "name": "럭스 (나무정령)",
+    "image": "LuxElderwood.jpg",
+    "splash": "T_18_Lux_Elderwood_PCHighres.jpg",
+    "cost": "5",
+    "traits": [
+      "나무정령",
+      "아바타"
+    ]
+  },
+  {
+    "stt": 60,
+    "id": "reogseu_(dal)",
+    "name": "럭스 (달)",
+    "image": "LuxLunar.jpg",
+    "splash": "T_18_Lux_Moonbeam_PCHighres.jpg",
+    "cost": "5",
+    "traits": [
+      "달",
+      "아바타"
+    ]
+  },
+  {
+    "stt": 61,
+    "id": "reogseu_(seomddeughan_him)",
+    "name": "럭스 (섬뜩한 힘)",
+    "image": "LuxEldritch.jpg",
+    "splash": "T_18_Lux_Blacktorn_PCHighres.jpg",
+    "cost": "5",
+    "traits": [
+      "섬뜩한 힘",
+      "아바타"
+    ]
+  },
+  {
+    "stt": 62,
+    "id": "reogseu_(agyi_yeodan)",
+    "name": "럭스 (악의 여단)",
+    "image": "LuxCoven.jpg",
+    "splash": "T_18_Lux_Coven_PCHighres.jpg",
+    "cost": "5",
+    "traits": [
+      "악의 여단",
+      "아바타"
+    ]
+  },
+  {
+    "stt": 63,
+    "id": "reogseu_(yojeong)",
+    "name": "럭스 (요정)",
+    "image": "LuxFae.jpg",
+    "splash": "T_18_Lux_Fae_PCHighres.jpg",
+    "cost": "5",
+    "traits": [
+      "요정",
+      "아바타"
+    ]
+  },
+  {
+    "stt": 64,
+    "id": "reogseu_(jiogbul)",
+    "name": "럭스 (지옥불)",
+    "image": "LuxInferno.jpg",
+    "splash": "T_18_Lux_Inferno_PCHighres.jpg",
+    "cost": "5",
+    "traits": [
+      "지옥불",
+      "아바타"
+    ]
+  },
+  {
+    "stt": 65,
+    "id": "reogseu_(taego)",
+    "name": "럭스 (태고)",
+    "image": "LuxPrimal.jpg",
+    "splash": "T_18_Lux_Primal_PCHighres.jpg",
+    "cost": "5",
+    "traits": [
+      "태고",
+      "아바타"
+    ]
+  },
+  {
+    "stt": 66,
+    "id": "reogseu_(taeyang)",
+    "name": "럭스 (태양)",
+    "image": "LuxSolar.jpg",
+    "splash": "T_18_Lux_Sunbeam_PCHighres.jpg",
+    "cost": "5",
+    "traits": [
+      "태양",
+      "아바타"
+    ]
+  },
+  {
+    "stt": 67,
+    "id": "maokai",
+    "name": "마오카이",
+    "image": "Maokai.jpg",
+    "splash": "T_18_Maokai_PCHighres.jpg",
+    "cost": "5",
+    "traits": [
+      "고목",
+      "전쟁기계"
+    ]
+  },
+  {
+    "stt": 68,
+    "id": "aibeon",
+    "name": "아이번",
+    "image": "Ivern.jpg",
+    "splash": "T_18_Ivern_PCHighres.jpg",
+    "cost": "5",
+    "traits": [
+      "자연의 아버지"
+    ]
+  },
+  {
+    "stt": 69,
+    "id": "alrun",
+    "name": "알룬",
+    "image": "Alune.jpg",
+    "splash": "T_18_Alune_PCHighres.jpg",
+    "cost": "5",
+    "traits": [
+      "교감",
+      "달",
+      "주문술사"
+    ]
+  },
+  {
+    "stt": 70,
+    "id": "aeswi",
+    "name": "애쉬",
+    "image": "Ashe.jpg",
+    "splash": "T_18_Ashe_PCHighres.jpg",
+    "cost": "5",
+    "traits": [
+      "개화",
+      "사냥꾼"
+    ]
+  },
+  {
+    "stt": 71,
+    "id": "jangro_deuraegon",
+    "name": "장로 드래곤",
+    "image": "TheElderDragon.jpg",
+    "splash": "T_18_Elder_Dragon_PCHighres.jpg",
+    "cost": "5",
+    "traits": [
+      "협곡야수",
+      "최상위 포식자"
+    ]
+  },
+  {
+    "stt": 72,
+    "id": "kenen",
+    "name": "케넨",
+    "image": "Kennen.jpg",
+    "splash": "T_18_Kennen_PCHighres.jpg",
+    "cost": "5",
+    "traits": [
+      "지옥불",
+      "처형자"
+    ]
+  },
+  {
+    "stt": 73,
+    "id": "tarig",
+    "name": "타릭",
+    "image": "Taric.jpg",
+    "splash": "T_18_Taric_PCHighres.jpg",
+    "cost": "5",
+    "traits": [
+      "에메랄드 위상",
+      "선봉대"
+    ]
+  }
+]

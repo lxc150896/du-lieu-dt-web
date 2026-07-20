@@ -1,0 +1,1460 @@
+{
+  "title": "Wisps",
+  "description": "Wisps are one-time shop effects inspired by Charms, redesigned for Enchanted Wilds.",
+  "info": [
+    {
+      "title": "Shop timing",
+      "description": "Wisps appear in the rightmost shop slot every other round and can only be purchased during the planning phase."
+    },
+    {
+      "title": "One per round",
+      "description": "You can buy up to one Wisp each round. If you skip it, the unit hidden behind the Wisp is revealed after planning."
+    },
+    {
+      "title": "Seven categories",
+      "description": "Wisps are grouped into Champion, Combat, Misc, Shop, Gold/XP, Risky, and Item categories, with colors that make them easier to scan."
+    },
+    {
+      "title": "Late-game combat",
+      "description": "As the game progresses, Wisps become stronger and more expensive. After Stage 5, every other Wisp offer is a Combat Wisp."
+    }
+  ],
+  "all_wisps_title": "All Wisps",
+  "all_wisps_description": "Explore all 200 Wisps coming in Set 18 by category.",
+  "categories": [
+    {
+      "name": "All",
+      "count": 200
+    },
+    {
+      "name": "Champion",
+      "count": 16
+    },
+    {
+      "name": "Combat",
+      "count": 94
+    },
+    {
+      "name": "Shop",
+      "count": 19
+    },
+    {
+      "name": "Gold/XP",
+      "count": 14
+    },
+    {
+      "name": "Risky",
+      "count": 21
+    },
+    {
+      "name": "Item",
+      "count": 6
+    },
+    {
+      "name": "Misc",
+      "count": 30
+    }
+  ],
+  "wisps": [
+    {
+      "name": "Grandmaster",
+      "image": "creatures.png",
+      "category": "Champion",
+      "cost": "18",
+      "description": "Gain a random 2-star 5-cost champion."
+    },
+    {
+      "name": "Lost Travelers",
+      "image": "creatures.png",
+      "category": "Champion",
+      "cost": "3",
+      "description": "Gain 3 gold worth of random champions."
+    },
+    {
+      "name": "Field of Mice",
+      "image": "creatures.png",
+      "category": "Champion",
+      "cost": "5",
+      "description": "Gain a Tiny Duplicator for each unique 1-cost champion you field."
+    },
+    {
+      "name": "Big Guns",
+      "image": "creatures.png",
+      "category": "Champion",
+      "cost": "8",
+      "description": "Gain 2 random 1-star 4-cost champions."
+    },
+    {
+      "name": "Three Me",
+      "image": "creatures.png",
+      "category": "Champion",
+      "cost": "9",
+      "description": "Gain a random 2-star 3-cost champion."
+    },
+    {
+      "name": "Mitosis",
+      "image": "creatures.png",
+      "category": "Champion",
+      "cost": "1",
+      "description": "Gain a Tiny Duplicator."
+    },
+    {
+      "name": "Apprentice",
+      "image": "creatures.png",
+      "category": "Champion",
+      "cost": "3",
+      "description": "Gain a random 2-star 1-cost champion."
+    },
+    {
+      "name": "Journeyman",
+      "image": "creatures.png",
+      "category": "Champion",
+      "cost": "6",
+      "description": "Gain a random 2-star 2-cost champion."
+    },
+    {
+      "name": "Forest Twins",
+      "image": "creatures.png",
+      "category": "Champion",
+      "cost": "4",
+      "description": "Gain 2 copies of a 2-cost champion you don't have."
+    },
+    {
+      "name": "Forest Guide",
+      "image": "creatures.png",
+      "category": "Champion",
+      "cost": "5",
+      "description": "Gain a random 4-cost champion."
+    },
+    {
+      "name": "Hero of Prophecy",
+      "image": "creatures.png",
+      "category": "Champion",
+      "cost": "35",
+      "description": "Permanently gain a copy of the same random 5-cost every round."
+    },
+    {
+      "name": "Circle of Elders",
+      "image": "creatures.png",
+      "category": "Champion",
+      "cost": "45",
+      "description": "Gain one of each 5-cost champion."
+    },
+    {
+      "name": "Propagate",
+      "image": "creatures.png",
+      "category": "Champion",
+      "cost": "1",
+      "description": "Gain a copy of the first allied champion to die."
+    },
+    {
+      "name": "Heated Rivalry",
+      "image": "creatures.png",
+      "category": "Champion",
+      "cost": "3",
+      "description": "Gain a Rengar or a Kha'Zix. They gain 3 takedowns."
+    },
+    {
+      "name": "Solar Gift",
+      "image": "creatures.png",
+      "category": "Champion",
+      "cost": "5",
+      "description": "Gain a Leona, Sejuani, and Kayle."
+    },
+    {
+      "name": "Smurfing",
+      "image": "creatures.png",
+      "category": "Champion",
+      "cost": "8",
+      "description": "Gain a random 5-cost champion."
+    },
+    {
+      "name": "Quicken",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "2",
+      "description": "On cast, your champions gain 25% Attack Speed for 3 seconds."
+    },
+    {
+      "name": "Wrapped in Thorns",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "2",
+      "description": "Your tanks reflect 12% of damage taken to adjacent enemies every 4 seconds."
+    },
+    {
+      "name": "Snacktime!",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "4",
+      "description": "The BFF eats enemies he damages under 10% Max Health."
+    },
+    {
+      "name": "Iron Core",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "2",
+      "description": "Your front center champion gains 4% Max Health per front-row unit."
+    },
+    {
+      "name": "Giant Growth",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "4",
+      "description": "Your highest health champion gains 600 health and grows in size."
+    },
+    {
+      "name": "Hugify",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "1",
+      "description": "Your highest Health unit bulks up, gaining 350 [HP]."
+    },
+    {
+      "name": "Turtle's Visit",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "3",
+      "description": "Gain the Turtle Primal buff for this combat."
+    },
+    {
+      "name": "Giant's Aura",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "4",
+      "description": "Your highest Health ally deals 2% max Health damage per second in an area."
+    },
+    {
+      "name": "Solitude's Cloak",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "3",
+      "description": "Champions with no adjacent allies gain 10% Max HP and Damage Amp."
+    },
+    {
+      "name": "Scrappy",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "3",
+      "description": "2 champions without items gain a temporary recommended item."
+    },
+    {
+      "name": "Killing Frenzy",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "3",
+      "description": "Fighters execute targets under 10% Health. They gain 15% Attack Speed on kill."
+    },
+    {
+      "name": "Ultra Ascension",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "0",
+      "description": "After 25 seconds, allies gain 300% [DA]."
+    },
+    {
+      "name": "Treetop Archers",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "5",
+      "description": "Archers fire from the trees, dealing 500 physical damage every 3 seconds."
+    },
+    {
+      "name": "Bark Armor",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "1",
+      "description": "Your champions gain 150 shield for 10 seconds."
+    },
+    {
+      "name": "Hand of Baron",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "10",
+      "description": "Your team gains Baron Buff, increasing their stats."
+    },
+    {
+      "name": "Prolific Power",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "0",
+      "description": "Your champions gain 8% Attack Damage and Ability Power."
+    },
+    {
+      "name": "Melting Resists",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "4",
+      "description": "Burning enemies lose 3 Armor and Magic Resist per second."
+    },
+    {
+      "name": "Late Bloomer",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "5",
+      "description": "A temporary 3 star 1-cost with 1 recommended item joins your team."
+    },
+    {
+      "name": "Better Bestie",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "1",
+      "description": "The BFF rider gains 15% Attack Speed and 150 Health."
+    },
+    {
+      "name": "Guild of Thieves",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "6",
+      "description": "Gain 2 temporary Thief's Gloves."
+    },
+    {
+      "name": "Clone Companion",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "5",
+      "description": "Clone your highest damage champion. The clone deals 20% damage."
+    },
+    {
+      "name": "Fellowship",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "4",
+      "description": "Champions gain 4% Max Health Shield and 4% Damage Amp per adjacent ally."
+    },
+    {
+      "name": "Mana-Rich Soil",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "3",
+      "description": "Your casters have 15% less max mana."
+    },
+    {
+      "name": "Horse's Visit",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "3",
+      "description": "Gain the Horse Primal buff for this combat."
+    },
+    {
+      "name": "Marksmen's Gale",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "2",
+      "description": "Your Marksmen's attacks grant 3% stacking AS."
+    },
+    {
+      "name": "Marksmen's Marks",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "3",
+      "description": "Your marksmen have a 25% chance to double attack."
+    },
+    {
+      "name": "Ironwood",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "3",
+      "description": "Enemies attacking your highest health champion deal 10% less damage."
+    },
+    {
+      "name": "Tattered Armor",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "2",
+      "description": "30% Shred and Sunder enemies for 10 seconds."
+    },
+    {
+      "name": "Minion Horde",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "4",
+      "description": "Spawn 4 minions."
+    },
+    {
+      "name": "Barrier",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "2",
+      "description": "Allies gain 1000 Shield, decaying over 5 seconds."
+    },
+    {
+      "name": "Lightning Storm",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "5",
+      "description": "Every 1 second deal 7% max health true damage to an enemy."
+    },
+    {
+      "name": "Hummingbird",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "1",
+      "description": "Your highest [AS] unit shrinks, gaining 20% [AS]."
+    },
+    {
+      "name": "Lightning Strike",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "2",
+      "description": "Deal 10% max [HP] true damage to enemies."
+    },
+    {
+      "name": "Star Power",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "3",
+      "description": "Your team gains 10% AD and AP, your 3-star units gain 25% AD and AP."
+    },
+    {
+      "name": "Bulwark",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "3",
+      "description": "Your tanks gain a 20% Max Health shield upon falling below 50% Health."
+    },
+    {
+      "name": "Revenge",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "3",
+      "description": "Whenever an ally dies, your champions gain 4% stacking Damage Amp."
+    },
+    {
+      "name": "Booster Shot",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "4",
+      "description": "Up to 2 1-star champions temporarily star up during combat."
+    },
+    {
+      "name": "Diversified",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "2",
+      "description": "Your team gains 30 Health for each active trait."
+    },
+    {
+      "name": "Blaze",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "5",
+      "description": "Fire spreads across the board, dealing ramping true damage to enemies."
+    },
+    {
+      "name": "Rain",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "1",
+      "description": "Your team gains 1 mana regen."
+    },
+    {
+      "name": "Borrowed Gear",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "1",
+      "description": "A champion gains a temporary recommended item."
+    },
+    {
+      "name": "Preppers",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "2",
+      "description": "Your stacking items will start off partially stacked."
+    },
+    {
+      "name": "Breeze",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "1",
+      "description": "Your team gains 12% Attack Speed."
+    },
+    {
+      "name": "Living Soil",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "2",
+      "description": "Every 4 seconds, roots stun an enemy for 1 second."
+    },
+    {
+      "name": "Killer's Regret",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "5",
+      "description": "Your first 3 champions to die stun their killer for 1 second."
+    },
+    {
+      "name": "Petrify Shields",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "2",
+      "description": "10% Slow enemies and reduce their shields by 20% for 10 seconds."
+    },
+    {
+      "name": "Petrified Dummy",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "2",
+      "description": "Your first champion to die turns into a 1000 Health target dummy with their defenses."
+    },
+    {
+      "name": "Crystal Ball",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "1",
+      "description": "Reveal your next opponent. Your team gains 12% Attack Speed."
+    },
+    {
+      "name": "Verdant Vitality",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "0",
+      "description": "Your champions gain 125 Health."
+    },
+    {
+      "name": "Aftershock",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "2",
+      "description": "After 10 seconds, stun all enemies for 1.5 seconds."
+    },
+    {
+      "name": "Combust",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "5",
+      "description": "Your champions explode on death, dealing 20% max health magic damage."
+    },
+    {
+      "name": "Heroic Sacrifice",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "3",
+      "description": "Champions with 3 items gain HEROIC POWER, but other allies are sacrificed."
+    },
+    {
+      "name": "Hero's Entrance",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "4",
+      "description": "After 8 seconds, the leftmost benched champion joins combat with 2 items."
+    },
+    {
+      "name": "Yordle Spirit",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "3",
+      "description": "Allies have a 99% chance to dodge attacks for 4 seconds."
+    },
+    {
+      "name": "Fae Federation",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "4",
+      "description": "ALL your units gain 2 Fae pixies this round."
+    },
+    {
+      "name": "Hireling",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "6",
+      "description": "A temporary 1-star 5-cost with 1 recommended item joins your team."
+    },
+    {
+      "name": "Mercenary Force",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "3",
+      "description": "Gain 3% damage amp for every 10 gold you have."
+    },
+    {
+      "name": "Moonlight Ritual",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "2",
+      "description": "Your lowest star-level 1 or 2-cost champion stars up in combat."
+    },
+    {
+      "name": "Moonrise",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "2",
+      "description": "After 10 seconds, increase Lunar's effects by 100%."
+    },
+    {
+      "name": "Homing Fireflies",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "3",
+      "description": "Casters spawn a firefly per 20 mana spent. Each deals 150 magic damage."
+    },
+    {
+      "name": "Phantom Armor",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "2",
+      "description": "Gain 1 temporary Warmog's Armor."
+    },
+    {
+      "name": "Phantom Emblem",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "6",
+      "description": "Gain a temporary emblem of your most active trait."
+    },
+    {
+      "name": "Phantom Gloves",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "3",
+      "description": "Gain a temporary Thief’s Gloves."
+    },
+    {
+      "name": "Phantom Vest",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "2",
+      "description": "Gain 1 temporary Bramble Vest."
+    },
+    {
+      "name": "Phantom Splash",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "4",
+      "description": "At combat start up to 2 inactive traits activate at the lowest level."
+    },
+    {
+      "name": "Stealthy",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "1",
+      "description": "Your 2 strongest Fighters or Assassins are untargetable for 6 seconds."
+    },
+    {
+      "name": "Nature's Wrath",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "15",
+      "description": "Kill EVERYONE without items after 10 seconds."
+    },
+    {
+      "name": "Nature's Ally",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "2",
+      "description": "Every 3 ally deaths, summon a random Riftbeast."
+    },
+    {
+      "name": "Regeneration",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "3",
+      "description": "Your team heals 1% Max Health per second."
+    },
+    {
+      "name": "Resistant",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "2",
+      "description": "Tanks reduce each instance of incoming damage by 15."
+    },
+    {
+      "name": "Escalation",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "3",
+      "description": "After 15 seconds of combat, your team gains 30% Damage Amp."
+    },
+    {
+      "name": "Counterspell",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "3",
+      "description": "Increase all enemies' Max Mana by 15 until their next cast."
+    },
+    {
+      "name": "Tremors",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "6",
+      "description": "Every 8 seconds, stun enemies for 1 second."
+    },
+    {
+      "name": "Radiantize",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "6",
+      "description": "After 12 seconds, 1 random equipped item temporarily becomes Radiant."
+    },
+    {
+      "name": "Supercritical",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "3",
+      "description": "Your units with Precision gain 25% Critical Strike Damage."
+    },
+    {
+      "name": "Memorial Dummy",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "3",
+      "description": "Your first itemized tank spawns a Dummy with their items on death."
+    },
+    {
+      "name": "Found Friend",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "1",
+      "description": "Gain a Training Dummy with a Giant's Belt."
+    },
+    {
+      "name": "Friendly Flora",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "2",
+      "description": "All allies gain the Flora Fatalis bonus at 50% effectiveness."
+    },
+    {
+      "name": "Big Boom",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "2",
+      "description": "The first ally to die explodes, dealing 20% Max Health magic damage."
+    },
+    {
+      "name": "Sunfire Sorcery",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "2",
+      "description": "Burn and Wound enemies for 10 seconds."
+    },
+    {
+      "name": "Plated Shields",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "2",
+      "description": "Shields are 15% stronger. Allies gain 150 shield for 10 seconds."
+    },
+    {
+      "name": "Downpour",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "2",
+      "description": "Your team gains 2 mana regen."
+    },
+    {
+      "name": "Blood Hunt",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "2",
+      "description": "Rivals dash on takedown and deal 150 physical damage to their target."
+    },
+    {
+      "name": "Improved Reach",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "3",
+      "description": "Fighters gain 1 range."
+    },
+    {
+      "name": "Bunch O' Belts",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "2",
+      "description": "Your champions gain 7 temporary, non-removable Giant's Belts."
+    },
+    {
+      "name": "Infliction",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "6",
+      "description": "Slow, Burn, Shred, and Sunder enemies for 8 seconds."
+    },
+    {
+      "name": "Tiger's Visit",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "3",
+      "description": "Gain the Tiger Primal buff for this combat."
+    },
+    {
+      "name": "Stand Alone",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "3",
+      "description": "Champions alone in their row gain 15% Health and 15% Damage Amp."
+    },
+    {
+      "name": "Potted Stonebark",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "2",
+      "description": "Gain a temporary Stonebark Tree."
+    },
+    {
+      "name": "Potted Lifebloom",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "3",
+      "description": "Gain a temporary Lifeblossom."
+    },
+    {
+      "name": "Tornado",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "10",
+      "description": "Summon a tornado that deals 5% Max Health magic damage to enemies."
+    },
+    {
+      "name": "Backrow Star",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "4",
+      "description": "A random back row champion gains 75% AS for 7 seconds."
+    },
+    {
+      "name": "Training Yard",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "3",
+      "description": "Gain 2 Training Dummies each with a random tank item."
+    },
+    {
+      "name": "Flow",
+      "image": "creatures.png",
+      "category": "Combat",
+      "cost": "2",
+      "description": "Your champions are Unstoppable and gain 15% Attack Speed for 10 seconds."
+    },
+    {
+      "name": "All Ones",
+      "image": "creatures.png",
+      "category": "Shop",
+      "cost": "0",
+      "description": "Reroll your shop with all 1-cost units."
+    },
+    {
+      "name": "All Twos",
+      "image": "creatures.png",
+      "category": "Shop",
+      "cost": "1",
+      "description": "Reroll your shop with all 2-cost champions."
+    },
+    {
+      "name": "All Threes",
+      "image": "creatures.png",
+      "category": "Shop",
+      "cost": "2",
+      "description": "Reroll your shop with all 3-cost champions."
+    },
+    {
+      "name": "All Fours",
+      "image": "creatures.png",
+      "category": "Shop",
+      "cost": "4",
+      "description": "Reroll your shop with all 4-cost champions."
+    },
+    {
+      "name": "All Fives",
+      "image": "creatures.png",
+      "category": "Shop",
+      "cost": "10",
+      "description": "Reroll your shop with all 5-cost champions."
+    },
+    {
+      "name": "Middle Path",
+      "image": "creatures.png",
+      "category": "Shop",
+      "cost": "7",
+      "description": "Reroll your shop with all 2-star 3-cost champions."
+    },
+    {
+      "name": "Border Village",
+      "image": "creatures.png",
+      "category": "Shop",
+      "cost": "6",
+      "description": "Reroll your shop with all 2-star 2-cost champions."
+    },
+    {
+      "name": "Roly-Polys",
+      "image": "creatures.png",
+      "category": "Shop",
+      "cost": "3",
+      "description": "For each ally champion alive at 18 seconds, gain a reroll."
+    },
+    {
+      "name": "Starfall",
+      "image": "creatures.png",
+      "category": "Shop",
+      "cost": "1",
+      "description": "When you reroll the shop, the lowest cost champion becomes 2-star."
+    },
+    {
+      "name": "Refreshing Light",
+      "image": "creatures.png",
+      "category": "Shop",
+      "cost": "6",
+      "description": "Gain a free reroll per star level of each unique Sunbeam champion."
+    },
+    {
+      "name": "Rolling Bones",
+      "image": "creatures.png",
+      "category": "Shop",
+      "cost": "3",
+      "description": "You have a 60% chance to get a free reroll with each kill."
+    },
+    {
+      "name": "Flash Fire",
+      "image": "creatures.png",
+      "category": "Shop",
+      "cost": "3",
+      "description": "Reroll your shop. Inferno lights 2 shop slots on fire, upgrading them."
+    },
+    {
+      "name": "Search Party",
+      "image": "creatures.png",
+      "category": "Shop",
+      "cost": "3",
+      "description": "Each of your shops has a 4-cost in it this round until you buy one."
+    },
+    {
+      "name": "Starting Town",
+      "image": "creatures.png",
+      "category": "Shop",
+      "cost": "4",
+      "description": "Reroll your shop with all 2-star 1-cost champions."
+    },
+    {
+      "name": "Animate Shop",
+      "image": "creatures.png",
+      "category": "Shop",
+      "cost": "8",
+      "description": "For 20 seconds, your shop refreshes for free every 2 seconds."
+    },
+    {
+      "name": "Freeroller",
+      "image": "creatures.png",
+      "category": "Shop",
+      "cost": "2",
+      "description": "Gain 2 rerolls."
+    },
+    {
+      "name": "Jungling",
+      "image": "creatures.png",
+      "category": "Shop",
+      "cost": "4",
+      "description": "Overrun the shop with Riftbeasts."
+    },
+    {
+      "name": "Ride the Wave",
+      "image": "creatures.png",
+      "category": "Shop",
+      "cost": "3",
+      "description": "The next 2 rerolls this round will have 2+ champions fielded last combat."
+    },
+    {
+      "name": "Lucky 7",
+      "image": "creatures.png",
+      "category": "Shop",
+      "cost": "7",
+      "description": "Gain 7 shop rerolls."
+    },
+    {
+      "name": "Experienced",
+      "image": "creatures.png",
+      "category": "Gold/XP",
+      "cost": "1",
+      "description": "Gain 2 XP."
+    },
+    {
+      "name": "Slow Study",
+      "image": "creatures.png",
+      "category": "Gold/XP",
+      "cost": "3",
+      "description": "For each ally champion alive at 15 seconds, gain 2 XP."
+    },
+    {
+      "name": "Bronze Spoon",
+      "image": "creatures.png",
+      "category": "Gold/XP",
+      "cost": "3",
+      "description": "Gain 6 XP."
+    },
+    {
+      "name": "Coin Flip",
+      "image": "creatures.png",
+      "category": "Gold/XP",
+      "cost": "0",
+      "description": "Flip a coin, gain 1 gold if it's heads."
+    },
+    {
+      "name": "Blood Money",
+      "image": "creatures.png",
+      "category": "Gold/XP",
+      "cost": "1",
+      "description": "Gain 1 gold for every champion you kill."
+    },
+    {
+      "name": "Barter",
+      "image": "creatures.png",
+      "category": "Gold/XP",
+      "cost": "1",
+      "description": "The next champion sold sells for 200% gold."
+    },
+    {
+      "name": "Life Debt",
+      "image": "creatures.png",
+      "category": "Gold/XP",
+      "cost": "0",
+      "description": "Gain 1 gold for every 10 missing Player Health."
+    },
+    {
+      "name": "Grow Up",
+      "image": "creatures.png",
+      "category": "Gold/XP",
+      "cost": "10",
+      "description": "Gain 16 XP."
+    },
+    {
+      "name": "Pocket Change",
+      "image": "creatures.png",
+      "category": "Gold/XP",
+      "cost": "1",
+      "description": "Your 1-star champions drop 1 gold on death."
+    },
+    {
+      "name": "The Chariot",
+      "image": "creatures.png",
+      "category": "Gold/XP",
+      "cost": "10",
+      "description": "Rerolls and XP are half price."
+    },
+    {
+      "name": "Die Roll",
+      "image": "creatures.png",
+      "category": "Gold/XP",
+      "cost": "2",
+      "description": "Roll a six-sided die. Gain gold equal to the result."
+    },
+    {
+      "name": "Golden Goose",
+      "image": "creatures.png",
+      "category": "Gold/XP",
+      "cost": "2",
+      "description": "Gain 1 gold for every 1000 damage your highest damage champion deals."
+    },
+    {
+      "name": "Golden Altar",
+      "image": "creatures.png",
+      "category": "Gold/XP",
+      "cost": "0",
+      "description": "Gain gold based on the Eldritch sacrifice's cost and star level."
+    },
+    {
+      "name": "Truce",
+      "image": "creatures.png",
+      "category": "Gold/XP",
+      "cost": "0",
+      "description": "Gain 1 gold. Your opponent gains 1 gold."
+    },
+    {
+      "name": "Drought",
+      "image": "creatures.png",
+      "category": "Risky",
+      "cost": "1",
+      "description": "Add 2 to your loss streak."
+    },
+    {
+      "name": "Good Loss",
+      "image": "creatures.png",
+      "category": "Risky",
+      "cost": "5",
+      "description": "For the next 3 player combats, gain 6 XP if you lose."
+    },
+    {
+      "name": "Golden Road",
+      "image": "creatures.png",
+      "category": "Risky",
+      "cost": "3",
+      "description": "After 3 Player Combats, gain 3 gold per fight won."
+    },
+    {
+      "name": "Flip Frenzy",
+      "image": "creatures.png",
+      "category": "Risky",
+      "cost": "1",
+      "description": "Flip a coin, gain 1 gold if it's heads. Continue until you flip tails."
+    },
+    {
+      "name": "Flood",
+      "image": "creatures.png",
+      "category": "Risky",
+      "cost": "1",
+      "description": "Add 2 to your win streak."
+    },
+    {
+      "name": "Polymorph",
+      "image": "creatures.png",
+      "category": "Risky",
+      "cost": "1",
+      "description": "A 2-cost you have permanently transforms into a 3-cost."
+    },
+    {
+      "name": "Fertilize",
+      "image": "creatures.png",
+      "category": "Risky",
+      "cost": "1",
+      "description": "Gain 1 XP for each enemy that dies."
+    },
+    {
+      "name": "Major Gambit",
+      "image": "creatures.png",
+      "category": "Risky",
+      "cost": "2",
+      "description": "If you win the next player combat, get 10 gold."
+    },
+    {
+      "name": "Major Polymorph",
+      "image": "creatures.png",
+      "category": "Risky",
+      "cost": "1",
+      "description": "A 4-cost you have permanently transforms into a 5-cost."
+    },
+    {
+      "name": "Cutpurse",
+      "image": "creatures.png",
+      "category": "Risky",
+      "cost": "3",
+      "description": "Every 5 seconds, your champions have a 20% chance to drop 1 gold."
+    },
+    {
+      "name": "Payday",
+      "image": "creatures.png",
+      "category": "Risky",
+      "cost": "3",
+      "description": "For each ally champion that survives combat, gain 2 gold."
+    },
+    {
+      "name": "All In",
+      "image": "creatures.png",
+      "category": "Risky",
+      "cost": "5",
+      "description": "If you win your next 3 combats, level up."
+    },
+    {
+      "name": "Ritual Complete",
+      "image": "creatures.png",
+      "category": "Risky",
+      "cost": "3",
+      "description": "If you win combat, complete the current Coven ritual."
+    },
+    {
+      "name": "Take One With Ya",
+      "image": "creatures.png",
+      "category": "Risky",
+      "cost": "1",
+      "description": "If you lose and kill at least 1 unit, gain 4 XP."
+    },
+    {
+      "name": "Trophy Hunter",
+      "image": "creatures.png",
+      "category": "Risky",
+      "cost": "2",
+      "description": "Gain 100% more takedowns on Rivals."
+    },
+    {
+      "name": "Essence Theft",
+      "image": "creatures.png",
+      "category": "Risky",
+      "cost": "1",
+      "description": "Gain 50% bonus Coven Essence this combat."
+    },
+    {
+      "name": "Component Bounty",
+      "image": "creatures.png",
+      "category": "Risky",
+      "cost": "4",
+      "description": "If you win the next player combat, gain a component anvil."
+    },
+    {
+      "name": "Comfort Food",
+      "image": "creatures.png",
+      "category": "Risky",
+      "cost": "2",
+      "description": "Gain 2 HP. If you lose the next player combat, gain 4 more."
+    },
+    {
+      "name": "Minor Gambit",
+      "image": "creatures.png",
+      "category": "Risky",
+      "cost": "1",
+      "description": "If you win the next player combat, gain 2 gold."
+    },
+    {
+      "name": "Minor Polymorph",
+      "image": "creatures.png",
+      "category": "Risky",
+      "cost": "1",
+      "description": "A 1-cost you have permanently transforms into a 2-cost."
+    },
+    {
+      "name": "Abandon Ship",
+      "image": "creatures.png",
+      "category": "Risky",
+      "cost": "0",
+      "description": "Sell your board and bench, gain 10 gold, 10 XP, and 5 rerolls."
+    },
+    {
+      "name": "Idle Craftsman",
+      "image": "creatures.png",
+      "category": "Item",
+      "cost": "4",
+      "description": "A component on your bench turns into a completed item it builds."
+    },
+    {
+      "name": "Artifactinate",
+      "image": "creatures.png",
+      "category": "Item",
+      "cost": "0",
+      "description": "Lose 3 components, including ones built into items. Gain an artifact anvil."
+    },
+    {
+      "name": "Brutal Bargain",
+      "image": "creatures.png",
+      "category": "Item",
+      "cost": "0",
+      "description": "Lose 8 player health and gain a component anvil."
+    },
+    {
+      "name": "Peddler",
+      "image": "creatures.png",
+      "category": "Item",
+      "cost": "6",
+      "description": "Open a store where you can buy an item. They cost 0 to 10 gold."
+    },
+    {
+      "name": "Premium Swap Meet",
+      "image": "creatures.png",
+      "category": "Item",
+      "cost": "0",
+      "description": "Sell a 3 star champion to get 3 rerolls and a Lucky Item Chest."
+    },
+    {
+      "name": "Blood and Iron",
+      "image": "creatures.png",
+      "category": "Item",
+      "cost": "3",
+      "description": "After 20 champion deaths, gain a component anvil."
+    },
+    {
+      "name": "Fake Level",
+      "image": "creatures.png",
+      "category": "Misc",
+      "cost": "10",
+      "description": "You are temporarily level 10."
+    },
+    {
+      "name": "Greater Chaos",
+      "image": "creatures.png",
+      "category": "Misc",
+      "cost": "2",
+      "description": "Cast 2 random Wisps."
+    },
+    {
+      "name": "Double Up",
+      "image": "creatures.png",
+      "category": "Misc",
+      "cost": "2",
+      "description": "The next Wisp bought activates twice and costs double."
+    },
+    {
+      "name": "Mana Potion",
+      "image": "creatures.png",
+      "category": "Misc",
+      "cost": "1",
+      "description": "Gain an equippable one-time use Mana Potion."
+    },
+    {
+      "name": "Potioncraft",
+      "image": "creatures.png",
+      "category": "Misc",
+      "cost": "3",
+      "description": "Gain three equippable one-time use Potions."
+    },
+    {
+      "name": "Touch Grass",
+      "image": "creatures.png",
+      "category": "Misc",
+      "cost": "0",
+      "description": "Gain 5 Gold and disable all actions. After 15 seconds, gain 2 instead."
+    },
+    {
+      "name": "Protective Ritual",
+      "image": "creatures.png",
+      "category": "Misc",
+      "cost": "1",
+      "description": "Reduce any player damage taken by 3 this round."
+    },
+    {
+      "name": "Sinister Deal",
+      "image": "creatures.png",
+      "category": "Misc",
+      "cost": "0",
+      "description": "Lose 3 player health. Gain 2 gold."
+    },
+    {
+      "name": "New and Improved",
+      "image": "creatures.png",
+      "category": "Misc",
+      "cost": "3",
+      "description": "Gain a pocket recombobulator."
+    },
+    {
+      "name": "Minor Blood Ritual",
+      "image": "creatures.png",
+      "category": "Misc",
+      "cost": "4",
+      "description": "Lose 3 Player Health. Gain a lesser champion duplicator."
+    },
+    {
+      "name": "Consumable",
+      "image": "creatures.png",
+      "category": "Misc",
+      "cost": "1",
+      "description": "Open a store where you can spend gold to buy a consumable."
+    },
+    {
+      "name": "Forest Mage",
+      "image": "creatures.png",
+      "category": "Misc",
+      "cost": "0",
+      "description": "Fill your shop with 5 Wisps. You can cast 1 of them."
+    },
+    {
+      "name": "Doodad Bag",
+      "image": "creatures.png",
+      "category": "Misc",
+      "cost": "3",
+      "description": "Gain 3 random consumables that give Armor, Magic Resist, or Health."
+    },
+    {
+      "name": "Doodad Sack",
+      "image": "creatures.png",
+      "category": "Misc",
+      "cost": "5",
+      "description": "Gain 5 random consumables that give Armor, Magic Resist, or Health."
+    },
+    {
+      "name": "Doodad Jar",
+      "image": "creatures.png",
+      "category": "Misc",
+      "cost": "0",
+      "description": "Gain 1 random consumable that gives Armor, Magic Resist, or Health."
+    },
+    {
+      "name": "Faerie Flight",
+      "image": "creatures.png",
+      "category": "Misc",
+      "cost": "1",
+      "description": "Attract 100% more Fae pixies this combat."
+    },
+    {
+      "name": "Thingamjig Bag",
+      "image": "creatures.png",
+      "category": "Misc",
+      "cost": "3",
+      "description": "Gain 3 random consumable that gives AP or Mana Regen."
+    },
+    {
+      "name": "Thingamjig Sack",
+      "image": "creatures.png",
+      "category": "Misc",
+      "cost": "5",
+      "description": "Gain 5 random consumable that gives AP or Mana Regen."
+    },
+    {
+      "name": "Thingamjig Jar",
+      "image": "creatures.png",
+      "category": "Misc",
+      "cost": "0",
+      "description": "Gain 1 random consumable that gives AP or Mana Regen."
+    },
+    {
+      "name": "Knick-Knack Bag",
+      "image": "creatures.png",
+      "category": "Misc",
+      "cost": "1",
+      "description": "Gain 2 random consumables that give Attack Damage or Attack Speed."
+    },
+    {
+      "name": "Knick-Knack Sack",
+      "image": "creatures.png",
+      "category": "Misc",
+      "cost": "5",
+      "description": "Gain 4 random consumables that give Attack Damage or Attack Speed."
+    },
+    {
+      "name": "Knick-Knack Jar",
+      "image": "creatures.png",
+      "category": "Misc",
+      "cost": "0",
+      "description": "Gain 1 random consumable that give Attack Damage or Attack Speed."
+    },
+    {
+      "name": "Salvager",
+      "image": "creatures.png",
+      "category": "Misc",
+      "cost": "0",
+      "description": "Any units you bench have items removed and broken apart."
+    },
+    {
+      "name": "Early Fix",
+      "image": "creatures.png",
+      "category": "Misc",
+      "cost": "0",
+      "description": "Gain 1 reforger."
+    },
+    {
+      "name": "Health Potion",
+      "image": "creatures.png",
+      "category": "Misc",
+      "cost": "1",
+      "description": "Gain an equippable one-time use Health Potion."
+    },
+    {
+      "name": "Terraforming",
+      "image": "creatures.png",
+      "category": "Misc",
+      "cost": "2",
+      "description": "Gain 5 Greenfather seeds at the start of combat."
+    },
+    {
+      "name": "Blast Potion",
+      "image": "creatures.png",
+      "category": "Misc",
+      "cost": "1",
+      "description": "Gain an equippable one-time use Blast Potion."
+    },
+    {
+      "name": "Blood Ritual",
+      "image": "creatures.png",
+      "category": "Misc",
+      "cost": "5",
+      "description": "Lose 9 Player Health. Gain a champion duplicator."
+    },
+    {
+      "name": "Lesser Chaos",
+      "image": "creatures.png",
+      "category": "Misc",
+      "cost": "1",
+      "description": "Cast a random Wisp."
+    },
+    {
+      "name": "Healing Pool",
+      "image": "creatures.png",
+      "category": "Misc",
+      "cost": "2",
+      "description": "Gain 5 Player Health."
+    }
+  ]
+}

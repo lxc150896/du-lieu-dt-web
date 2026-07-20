@@ -1,314 +1,386 @@
 [
   {
-    "stt": "1-1",
-    "id": "poppy_hero",
-    "name": "Poppy Hero",
+    "stt": 1,
+    "id": "rolling_for_days",
+    "name": "Rolling For Days",
     "image": "tier-silver.png",
-    "tier": "2-1",
-    "description": "Gain a Poppy. Poppy becomes a ranged Marksman and her attacks Meeps at her target."
+    "tier": "silver",
+    "description": "Gain free Shop rerolls."
   },
   {
-    "stt": "1-2",
-    "id": "aatrox_hero",
-    "name": "Aatrox Hero",
+    "stt": 2,
+    "id": "capital_gains_i",
+    "name": "Capital Gains I",
     "image": "tier-silver.png",
-    "tier": "2-1",
-    "description": "Aatrox's spell is now a low-mana three-hit combo that heals him for a portion of the damage dealt. When his NOVA move happens, he gains maximum health and size."
+    "tier": "silver",
+    "description": "Store gold equal to of the interest you earn. On -, gain all the stored gold. Gain gold now."
   },
   {
-    "stt": "1-3",
-    "id": "bonk!",
-    "name": "Bonk!",
+    "stt": 3,
+    "id": "champ_delivery",
+    "name": "Champ Delivery",
     "image": "tier-silver.png",
-    "tier": "2-1",
-    "description": "Gain a Nasus. Your strongest Nasus becomes an Attack Fighter with a single target ability that gets stronger with each kill."
+    "tier": "silver",
+    "description": "Gain -cost champions. After rounds, gain more."
   },
   {
-    "stt": "1-4",
-    "id": "charge_transfer_i",
-    "name": "Charge Transfer I",
+    "stt": 4,
+    "id": "champ_delivery_+",
+    "name": "Champ Delivery +",
     "image": "tier-silver.png",
-    "tier": "3-2",
-    "description": "Your team gains 5% Damage Amp. 50% of overkill damage is dealt to the nearest enemy."
+    "tier": "silver",
+    "description": "Gain -cost champions. After rounds, gain more."
   },
   {
-    "stt": "1-5",
-    "id": "the_tower",
-    "name": "The Tower",
+    "stt": 5,
+    "id": "champ_delivery_++",
+    "name": "Champ Delivery ++",
     "image": "tier-silver.png",
-    "tier": "2-1",
-    "description": "Gain a massive Training Dummy that zaps nearby enemies"
+    "tier": "silver",
+    "description": "Gain -cost champions. After rounds, gain more."
   },
   {
-    "stt": "1-6",
-    "id": "group_hug_i",
-    "name": "Group Hug I",
+    "stt": 6,
+    "id": "flame_on",
+    "name": "Flame On",
     "image": "tier-silver.png",
-    "tier": "3-2",
-    "description": "Combat start: Allies grant other adjacent allies 6 Armor and Magic Resist. This effect stacks."
+    "tier": "silver",
+    "description": "The Inferno champion that dealt the most damage last combat is On Fire, gaining Attack Speed. Gain a Varus and an Akali."
   },
   {
-    "stt": "1-7",
-    "id": "expedition",
-    "name": "Expedition",
+    "stt": 7,
+    "id": "future_focused",
+    "name": "Future Focused",
     "image": "tier-silver.png",
-    "tier": "2-1",
-    "description": "At the start of planning phase, lose the right-most champion on your bench. After losing 33 gold of units this way, gain a powerful reward."
+    "tier": "silver",
+    "description": "Your Tactician loses Health, but after player combats, gain 4-cost champions and gold."
   },
   {
-    "stt": "1-8",
-    "id": "forge_a_friend",
-    "name": "Forge a Friend",
+    "stt": 8,
+    "id": "loaded_dice",
+    "name": "Loaded Dice",
     "image": "tier-silver.png",
-    "tier": "4-2",
-    "description": "The next 1-cost champion you purchase is 3-star."
+    "tier": "silver",
+    "description": "Your dice always roll 6 and your coins always flip heads. Roll a die and gain gold equal to the number rolled. Then flip a coin and gain gold if you flip heads."
   },
   {
-    "stt": "1-9",
-    "id": "size_matters",
-    "name": "Size Matters",
+    "stt": 9,
+    "id": "quick_streaks",
+    "name": "Quick Streaks",
     "image": "tier-silver.png",
-    "tier": "3-2",
-    "description": "Gain a Giant's Belt. After a champion begins combat with more than 3800 max Health, gain another."
+    "tier": "silver",
+    "description": "You gain twice as much progress towards win and loss streaks. Gain gold."
   },
   {
-    "stt": "1-10",
-    "id": "feeling_lucky",
-    "name": "Feeling Lucky",
+    "stt": 10,
+    "id": "residual_magic",
+    "name": "Residual Magic",
     "image": "tier-silver.png",
-    "tier": "3-2",
-    "description": "Gain 12 gold, then flip a coin. If heads, gain 3 more gold."
+    "tier": "silver",
+    "description": "Your team gains Health. Each time you purchase a Wisp, increase this by."
   },
   {
-    "stt": "1-11",
-    "id": "cognitive_tax",
-    "name": "Cognitive Tax",
+    "stt": 11,
+    "id": "residual_magic_+",
+    "name": "Residual Magic +",
     "image": "tier-silver.png",
-    "tier": "2-1",
-    "description": "Gain 8 gold and 1 XP."
+    "tier": "silver",
+    "description": "Your team gains Health. Each time you purchase a Wisp, increase this by."
   },
   {
-    "stt": "1-12",
-    "id": "cognitive_tax+",
-    "name": "Cognitive Tax+",
+    "stt": 12,
+    "id": "residual_magic_++",
+    "name": "Residual Magic ++",
     "image": "tier-silver.png",
-    "tier": "3-2",
-    "description": "Gain 12 gold and 3 XP."
+    "tier": "silver",
+    "description": "Your team gains Health. Each time you purchase a Wisp, increase this by."
   },
   {
-    "stt": "1-13",
-    "id": "kick_start",
-    "name": "Kick Start",
+    "stt": 13,
+    "id": "verticality_i",
+    "name": "Verticality I",
     "image": "tier-silver.png",
-    "tier": "2-1",
-    "description": "Gain a random 2-star 2-cost champion and 1 gold."
+    "tier": "silver",
+    "description": "Champions gain Attack Damage, Ability Power, Armor, and Magic Resist for each ally that shares a trait with them."
   },
   {
-    "stt": "2-1",
-    "id": "anima_commander",
-    "name": "Anima Commander",
+    "stt": 14,
+    "id": "weight_the_worth",
+    "name": "Weight The Worth",
+    "image": "tier-silver.png",
+    "tier": "silver",
+    "description": "Whenever you 3-star a champion, gain a copy of them each round for the rest of the game. Gain a Lesser Champion Duplicator."
+  },
+  {
+    "stt": 15,
+    "id": "wisp_rebate",
+    "name": "Wisp Rebate",
+    "image": "tier-silver.png",
+    "tier": "silver",
+    "description": "Each time you purchase a Wisp, gain gold. Gain gold now."
+  },
+  {
+    "stt": 16,
+    "id": "wisp_rebate_+",
+    "name": "Wisp Rebate +",
+    "image": "tier-silver.png",
+    "tier": "silver",
+    "description": "Each time you purchase a Wisp, gain gold. Gain gold now."
+  },
+  {
+    "stt": 17,
+    "id": "cybernetic_implants_ii",
+    "name": "Cybernetic Implants II",
     "image": "tier-gold.png",
-    "tier": "2-1",
-    "description": "Gain a Briar, a Jinx, and an Illaoi. Increase your current and max player Health by 10."
+    "tier": "gold",
+    "description": "Your champions holding an item gain Health and Attack Damage."
   },
   {
-    "stt": "2-2",
-    "id": "sniper's_nest",
-    "name": "Sniper's Nest",
+    "stt": 18,
+    "id": "cybernetic_uplink_ii",
+    "name": "Cybernetic Uplink II",
     "image": "tier-gold.png",
-    "tier": "2-1",
-    "description": "Snipers gain 8% Damage Amp for each combat fought from the same starting hex, up to 32%. Gain an Ezreal and a Gnar."
+    "tier": "gold",
+    "description": "Your champions holding an item gain Health and Mana Regen. Gain a Tear of the Goddess."
   },
   {
-    "stt": "2-3",
-    "id": "may_the_fours_be_with_you",
-    "name": "May the Fours Be With You",
+    "stt": 19,
+    "id": "beast_within",
+    "name": "Beast Within",
     "image": "tier-gold.png",
-    "tier": "4-2",
-    "description": "Your 4 cost champions and Jhin gain 204 Health and 14% Attack Speed. Gain a Jhin."
+    "tier": "gold",
+    "description": "Primal grants an additional Blessing. Gain a Vi."
   },
   {
-    "stt": "2-4",
-    "id": "invader_zed",
-    "name": "Invader Zed",
+    "stt": 20,
+    "id": "blossom's_call",
+    "name": "Blossom's Call",
     "image": "tier-gold.png",
-    "tier": "3-2",
-    "description": "Gain a Bloodthirster. On Stage 4-1, gain a Zed. After receiving Zed, he can then appear in your shops. Zed is a 5-cost Attack Fighter that creates clones of himself."
+    "tier": "gold",
+    "description": "When you buy a Wisp, gain a random Blossom champion based on the Wisp's cost. Gain 3 Blossom champions."
   },
   {
-    "stt": "2-5",
-    "id": "reach_for_the_stars",
-    "name": "Reach For the Stars",
+    "stt": 21,
+    "id": "bonus_gift",
+    "name": "Bonus Gift",
     "image": "tier-gold.png",
-    "tier": "2-1",
-    "description": "Jax gains stacking attack speed with every attack. On cast, jump to a nearby enemy, dealing damage and adding stacking on-hit damage for the rest of combat."
+    "tier": "gold",
+    "description": "Whenever you open a loot orb, you have a chance to gain a gray loot orb. Gain gray loot orbs."
   },
   {
-    "stt": "2-6",
-    "id": "meep_space_9",
-    "name": "Meep Space 9",
+    "stt": 22,
+    "id": "bonus_gift_+",
+    "name": "Bonus Gift +",
     "image": "tier-gold.png",
-    "tier": "2-1",
-    "description": "Meepsie gains a weaker version of Brock's spell and heavy attack damage."
+    "tier": "gold",
+    "description": "Whenever you open a loot orb, you have a chance to gain a gray loot orb. Gain gray loot orbs."
   },
   {
-    "stt": "2-7",
-    "id": "star_conqueror",
-    "name": "Star Conqueror",
+    "stt": 23,
+    "id": "capital_gains_ii",
+    "name": "Capital Gains II",
     "image": "tier-gold.png",
-    "tier": "2-1",
-    "description": "Mordekaiser becomes an auto-attack based AP carry, whose channel is a burst of attack speed for as long as he has mana to spend. At combat start and on kill, he gains a non-mana-locking shield."
+    "tier": "gold",
+    "description": "Store gold equal to of the interest you earn. On -, gain all the stored gold. Gain gold now."
   },
   {
-    "stt": "2-8",
-    "id": "self_destruct",
-    "name": "Self Destruct",
+    "stt": 24,
+    "id": "chosen_of_the_sun",
+    "name": "Chosen of the Sun",
     "image": "tier-gold.png",
-    "tier": "2-1",
-    "description": "Gain a Gragas. Gragas now self detonates, sacrificing 20% of max Health to deal XXX (AP) plus the sacrificed Health as magic damage in a four hex radius, reduced by 20% per hex from the epicenter."
+    "tier": "gold",
+    "description": "Gain a Leona, a Kayle, and a Sejuani. Leona gains permanent max Health each round, increased by for each unique 3-star champion fielded."
   },
   {
-    "stt": "2-9",
-    "id": "contract_killer",
-    "name": "Contract Killer",
+    "stt": 25,
+    "id": "consuming_flora",
+    "name": "Consuming Flora",
     "image": "tier-gold.png",
-    "tier": "2-1",
-    "description": "Gain a Pyke. Your strongest Pyke gains a resetting ability and generates gold on takedown."
+    "tier": "gold",
+    "description": "Gain a Flora Fatalis emblem. The champion holding the emblem gains double benefits from the Flora Fatalis trait and gains Mana Regen."
   },
   {
-    "stt": "2-10",
-    "id": "side_effects",
-    "name": "Side Effects",
+    "stt": 26,
+    "id": "coven_acolyte",
+    "name": "Coven Acolyte",
     "image": "tier-gold.png",
-    "tier": "3-2",
-    "description": "When an ally is healed, they deal 50% of the healing to their target as magic damage. Every 5 seconds, allies heal for 5% of their max Health."
+    "tier": "gold",
+    "description": "When you choose to continue gathering Coven essence, heal Tactician health. Gain a Camille, an Elise, and a Caitlyn."
   },
   {
-    "stt": "2-11",
-    "id": "misfits",
-    "name": "Misfits",
+    "stt": 27,
+    "id": "dark_ritual",
+    "name": "Dark Ritual",
     "image": "tier-gold.png",
-    "tier": "2-1",
-    "description": "Your team gains 75 Health for each active Unique trait. Gain a Miss Fortune and a Rhaast."
+    "tier": "gold",
+    "description": "Converting Coven Essence to rewards grants Coven champions Ability Power instead of loot. Gain a Camille, an Elise, and a Caitlyn."
   },
   {
-    "stt": "2-12",
-    "id": "booster_pack",
-    "name": "Booster Pack",
+    "stt": 28,
+    "id": "embiggen",
+    "name": "Embiggen",
     "image": "tier-gold.png",
-    "tier": "2-1",
-    "description": "Gain 11 gold worth of random champions. (At least one 3-Cost guaranteed!)"
+    "tier": "gold",
+    "description": "Your Fae pixies are larger and grant more Attack Damage and Ability Power. Gain a Xayah and a Rakan."
   },
   {
-    "stt": "2-13",
-    "id": "booster_pack+",
-    "name": "Booster Pack+",
+    "stt": 29,
+    "id": "fourcing",
+    "name": "FOURcing",
     "image": "tier-gold.png",
-    "tier": "3-2",
-    "description": "Gain 18 gold worth of random champions. (At least one 4-Cost guaranteed!)"
+    "tier": "gold",
+    "description": "Gain a random 4-cost champion. For each item equipped to that champion, your team gains health."
   },
   {
-    "stt": "2-14",
-    "id": "booster_pack++",
-    "name": "Booster Pack++",
+    "stt": 30,
+    "id": "item_extraction",
+    "name": "Item Extraction",
     "image": "tier-gold.png",
-    "tier": "4-2",
-    "description": "Gain 30 gold worth of random champions. (At least one 5-Cost guaranteed!)"
+    "tier": "gold",
+    "description": "The first times you sacrifice a champion in the Eldritch hex, gain a copy of a random component they're holding. Gain a Veigar, a Rek'Sai, and item removers."
   },
   {
-    "stt": "2-15",
-    "id": "charge_transfer_ii",
-    "name": "Charge Transfer II",
+    "stt": 31,
+    "id": "jungle_pathing",
+    "name": "Jungle Pathing",
     "image": "tier-gold.png",
-    "tier": "3-2",
-    "description": "Your team gains 8% Damage Amp. 80% of overkill damage is dealt to the nearest enemy."
+    "tier": "gold",
+    "description": "Gain a Pebbles, a Cinderling, a Scuttle Crab, and a Murkwolf. Each time you level up, gain a new Riftbeast and gold."
   },
   {
-    "stt": "2-16",
-    "id": "group_hug_ii",
-    "name": "Group Hug II",
+    "stt": 32,
+    "id": "money_hungry+",
+    "name": "Money Hungry+",
     "image": "tier-gold.png",
-    "tier": "3-2",
-    "description": "Combat start: Allies grant other adjacent allies 9 Armor and Magic Resist. This effect stacks."
+    "tier": "gold",
+    "description": "Gain gold now, then gold at the start of every stage. Picking up gold makes your Tactician larger."
   },
   {
-    "stt": "2-17",
-    "id": "frontline_foundation",
-    "name": "Frontline Foundation",
+    "stt": 33,
+    "id": "nature's_shelter",
+    "name": "Nature's Shelter",
     "image": "tier-gold.png",
-    "tier": "2-1",
-    "description": "Gain a 2-star 1-cost Tank champion and an emblem for their last-listed trait."
+    "tier": "gold",
+    "description": "Champions that start combat adjacent to an Elderwood plant gain Attack Speed and heal of their maximum Health every seconds. Gain 3 Elderwood champions."
   },
   {
-    "stt": "2-18",
-    "id": "kahunahuna",
-    "name": "Kahunahuna",
+    "stt": 34,
+    "id": "omega_riftbeast",
+    "name": "Omega Riftbeast",
     "image": "tier-gold.png",
-    "tier": "2-1",
-    "description": "Every 5th attack deals bonus true damage equal to 200% Basic Attack Damage."
+    "tier": "gold",
+    "description": "You can now choose a second Alpha Riftbeast. Gain 3 Riftbeasts."
   },
   {
-    "stt": "2-19",
-    "id": "cosmic_restart",
-    "name": "Cosmic Restart",
+    "stt": 35,
+    "id": "razor's_edge",
+    "name": "Razor's Edge",
     "image": "tier-gold.png",
-    "tier": "3-2",
-    "description": "Call upon the Gods to sell all units on your board and bench. Gain 2 random Emblems and 10 free Shop rerolls."
+    "tier": "gold",
+    "description": "Gain a 2-star 2-cost champion and Item Removers. After winning a player combat, gain gold per item component on your item bench."
   },
   {
-    "stt": "2-20",
-    "id": "cognitive_overload",
-    "name": "Cognitive Overload",
+    "stt": 36,
+    "id": "small_furry_friend",
+    "name": "Small Furry Friend",
     "image": "tier-gold.png",
-    "tier": "3-2",
-    "description": "Gain 7 Gold, 1 2-star 1-cost champion, 1 2-cost champion, 2 3-cost champions, 1 XP, and 1 Shop reroll."
+    "tier": "gold",
+    "description": "While Sprykin is active, gain a second BFF summon that is as powerful. Gain 3 Sprykin champions."
   },
   {
-    "stt": "2-21",
-    "id": "backline_blueprint",
-    "name": "Backline Blueprint",
+    "stt": 37,
+    "id": "sun_and_moon",
+    "name": "Sun and Moon",
     "image": "tier-gold.png",
-    "tier": "2-1",
-    "description": "Gain a 3-cost non-Tank champion and an emblem for their last-listed trait."
+    "tier": "gold",
+    "description": "Your Lunar champions gain Health and Damage Amp for each unique Solar champion fielded. Gain a 2-star Leona, a Kayle, and an Aphelios."
   },
   {
-    "stt": "2-22",
-    "id": "money_hungry",
-    "name": "Money Hungry",
+    "stt": 38,
+    "id": "verticality_ii",
+    "name": "Verticality II",
     "image": "tier-gold.png",
-    "tier": "2-1",
-    "description": "Gain 10 gold now, then 7 gold at the start of every stage. Picking up gold makes your Tactician larger."
+    "tier": "gold",
+    "description": "Champions gain Attack Damage, Ability Power, Armor, and Magic Resist for each ally that shares a trait with them."
   },
   {
-    "stt": "3-1",
-    "id": "five-pointed_star",
-    "name": "Five-Pointed Star",
+    "stt": 39,
+    "id": "buried_treasures_iii",
+    "name": "Buried Treasures III",
     "image": "tier-prism.png",
-    "tier": "4-2",
-    "description": "At the start of each stage, the first champion you buy from a specific tier is 2-star. Gain a 2-star 1-cost champion and 2 gold now. Stage 2: 2-cost Stage 3: 3-cost Stage 4: 4-cost Stage 5: 5-cost"
+    "tier": "prism",
+    "description": "Gain a random item component now and at the start of the next rounds."
   },
   {
-    "stt": "3-2",
-    "id": "just_hit",
-    "name": "Just Hit",
+    "stt": 40,
+    "id": "component_quest",
+    "name": "Component Quest",
     "image": "tier-prism.png",
-    "tier": "4-2",
-    "description": "Gain a Champion Duplicator, 18 Shop rerolls, and 10 gold."
+    "tier": "prism",
+    "description": "Gain a random component and gold. The next 7 times you win a player combat, gain a different random component. Afterwards, gain a Spatula."
   },
   {
-    "stt": "3-3",
-    "id": "golden_gamble",
-    "name": "Golden Gamble",
+    "stt": 41,
+    "id": "nesting_anvils",
+    "name": "Nesting Anvils",
     "image": "tier-prism.png",
-    "tier": "2-1",
-    "description": "Flip a coin. If heads, gain a Radiant Lucky Item Chest. If tails, gain a random Radiant item and a Reforger."
+    "tier": "prism",
+    "description": "Gain an Artifact Anvil. After you open it, gain a Completed Item Anvil. After you open that, gain a Component Anvil. After you open that, gain gold."
   },
   {
-    "stt": "3-4",
-    "id": "baron's_lair",
-    "name": "Baron's Lair",
+    "stt": 42,
+    "id": "nesting_anvils_+",
+    "name": "Nesting Anvils +",
     "image": "tier-prism.png",
-    "tier": "2-1",
-    "description": "Gain a Tank item. After 8 seconds of combat, your team gains 5% Attack Damage and Ability Power every second for the rest of combat."
+    "tier": "prism",
+    "description": "Gain an Artifact Anvil. After you open it, gain a Completed Item Anvil. After you open that, gain a Component Anvil. After you open that, gain gold."
+  },
+  {
+    "stt": 43,
+    "id": "nesting_dolls",
+    "name": "Nesting Dolls",
+    "image": "tier-prism.png",
+    "tier": "prism",
+    "description": "After a champion dies in combat, spawn a copy of them one star level lower with health. Gain free rerolls"
+  },
+  {
+    "stt": 44,
+    "id": "starring_up",
+    "name": "Starring Up",
+    "image": "tier-prism.png",
+    "tier": "prism",
+    "description": "After 3-starring champions, set your level to. Gain rerolls now and at the start of every round."
+  },
+  {
+    "stt": 45,
+    "id": "trait_ladder",
+    "name": "Trait Ladder",
+    "image": "tier-prism.png",
+    "tier": "prism",
+    "description": "Gain a random emblem. After fielding non-unique traits in a player combat, gain a reward. Then increase the number of traits needed and the size of the reward."
+  },
+  {
+    "stt": 46,
+    "id": "verticality_iii",
+    "name": "Verticality III",
+    "image": "tier-prism.png",
+    "tier": "prism",
+    "description": "Champions gain Attack Damage, Ability Power, Armor, and Magic Resist for each ally that shares a trait with them."
+  },
+  {
+    "stt": 47,
+    "id": "deadeye",
+    "name": "Deadeye",
+    "image": "Deadeye.png",
+    "tier": "",
+    "description": ""
+  },
+  {
+    "stt": 48,
+    "id": "world_runes",
+    "name": "World Runes",
+    "image": "World-Runes.png",
+    "tier": "",
+    "description": ""
   }
 ]

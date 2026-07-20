@@ -1,0 +1,4227 @@
+{
+  "season": {
+    "season": "TFT 18: 신비의 숲 업데이트"
+  },
+  "feature": {
+    "title": "TFT 18 핵심 변경점",
+    "features": [
+      {
+        "name": "언리얼 엔진",
+        "image": "feature-1.png",
+        "description": "TFT가 언리얼 엔진으로 전환되는 장기 프로젝트를 시작합니다. 전략가, 결투장, 폭죽 등 꾸미기 콘텐츠는 순차적으로 이전되며, 전용 PC 클라이언트는 10월 출시 예정입니다."
+      },
+      {
+        "name": "수호령",
+        "image": "feature-wisps.png",
+        "description": "수호령은 준비 단계에 격 라운드마다 상점 오른쪽 슬롯에 등장합니다. 라운드마다 1개까지 구매해 전투, 상점, 골드/XP, 아이템 등 다양한 효과를 얻을 수 있습니다."
+      },
+      {
+        "name": "유연한 시너지 유닛",
+        "image": "feature-3.png",
+        "description": "개화, 협곡 야수, 나무정령, 날렵이, 악의 여단 등 새로운 특성이 덱 전환과 고점 플레이를 더 유연하게 만들어 줍니다."
+      }
+    ]
+  },
+  "wisps": {
+    "title": "수호령",
+    "description": "수호령은 주술에서 얻은 교훈을 바탕으로 신비의 숲에 맞게 새롭게 다듬어진 일회성 상점 효과입니다.",
+    "info": [
+      {
+        "title": "등장 타이밍",
+        "description": "수호령은 준비 단계에 격 라운드마다 상점 가장 오른쪽 슬롯에 등장하며, 준비 단계에서만 구매할 수 있습니다."
+      },
+      {
+        "title": "라운드당 1개",
+        "description": "라운드마다 최대 1개까지 구매할 수 있습니다. 구매하지 않으면 준비 단계가 끝난 뒤 수호령 뒤에 가려진 유닛이 공개됩니다."
+      },
+      {
+        "title": "7가지 유형",
+        "description": "수호령은 챔피언, 전투, 기타, 상점, 골드/XP, 위험, 아이템 유형으로 나뉘며 색상으로 빠르게 구분할 수 있습니다."
+      },
+      {
+        "title": "후반 전투 수호령",
+        "description": "게임이 진행될수록 수호령은 더 강력해지고 비싸집니다. 스테이지 5 이후에는 격번마다 전투 수호령이 등장합니다."
+      }
+    ],
+    "all_wisps_title": "",
+    "all_wisps_description": "",
+    "categories": [
+      {
+        "name": "전체",
+        "count": 200
+      },
+      {
+        "name": "챔피언",
+        "count": 16
+      },
+      {
+        "name": "전투",
+        "count": 94
+      },
+      {
+        "name": "상점",
+        "count": 19
+      },
+      {
+        "name": "골드/XP",
+        "count": 14
+      },
+      {
+        "name": "리스크",
+        "count": 21
+      },
+      {
+        "name": "아이템",
+        "count": 6
+      },
+      {
+        "name": "기타",
+        "count": 30
+      }
+    ],
+    "wisps": [
+      {
+        "name": "그랜드마스터",
+        "image": "creatures.png",
+        "category": "챔피언",
+        "cost": "",
+        "description": "무작위 5단계 2성 챔피언 1명을 획득합니다."
+      },
+      {
+        "name": "길 잃은 여행자들",
+        "image": "creatures.png",
+        "category": "챔피언",
+        "cost": "",
+        "description": "총 3골드 가치의 무작위 챔피언을 획득합니다."
+      },
+      {
+        "name": "꼬마 출전",
+        "image": "creatures.png",
+        "category": "챔피언",
+        "cost": "",
+        "description": "전장에 배치한 서로 다른 1단계 챔피언 하나당 소형 챔피언 복제기를 획득합니다."
+      },
+      {
+        "name": "대형 화기",
+        "image": "creatures.png",
+        "category": "챔피언",
+        "cost": "",
+        "description": "무작위 4단계 1성 챔피언 2명을 획득합니다."
+      },
+      {
+        "name": "세 명의 나",
+        "image": "creatures.png",
+        "category": "챔피언",
+        "cost": "",
+        "description": "무작위 3단계 2성 챔피언 1명을 획득합니다."
+      },
+      {
+        "name": "세포 분열",
+        "image": "creatures.png",
+        "category": "챔피언",
+        "cost": "",
+        "description": "소형 챔피언 복제기를 획득합니다."
+      },
+      {
+        "name": "수습생",
+        "image": "creatures.png",
+        "category": "챔피언",
+        "cost": "",
+        "description": "무작위 1단계 2성 챔피언 1명을 획득합니다."
+      },
+      {
+        "name": "숙련공",
+        "image": "creatures.png",
+        "category": "챔피언",
+        "cost": "",
+        "description": "무작위 2단계 2성 챔피언 1명을 획득합니다."
+      },
+      {
+        "name": "숲의 쌍둥이",
+        "image": "creatures.png",
+        "category": "챔피언",
+        "cost": "",
+        "description": "보유하지 않은 2단계 챔피언 2명을 획득합니다."
+      },
+      {
+        "name": "숲의 인도자",
+        "image": "creatures.png",
+        "category": "챔피언",
+        "cost": "",
+        "description": "무작위 4단계 챔피언 1명을 획득합니다."
+      },
+      {
+        "name": "예언의 영웅",
+        "image": "creatures.png",
+        "category": "챔피언",
+        "cost": "",
+        "description": "매 라운드 동일한 무작위 5단계 챔피언의 복사본을 1명 획득합니다."
+      },
+      {
+        "name": "장로 회의",
+        "image": "creatures.png",
+        "category": "챔피언",
+        "cost": "",
+        "description": "모든 5단계 챔피언을 1명씩 획득합니다."
+      },
+      {
+        "name": "증식",
+        "image": "creatures.png",
+        "category": "챔피언",
+        "cost": "",
+        "description": "처음으로 사망하는 아군 챔피언의 복사본 1명을 획득합니다."
+      },
+      {
+        "name": "치열한 경쟁",
+        "image": "creatures.png",
+        "category": "챔피언",
+        "cost": "",
+        "description": "렝가 또는 카직스를 획득합니다. 해당 챔피언이 처치 관여 3회를 얻습니다."
+      },
+      {
+        "name": "태양의 선물",
+        "image": "creatures.png",
+        "category": "챔피언",
+        "cost": "",
+        "description": "레오나, 세주아니, 케일을 획득합니다."
+      },
+      {
+        "name": "Smurfing",
+        "image": "creatures.png",
+        "category": "챔피언",
+        "cost": "",
+        "description": "무작위 5단계 챔피언 1명을 획득합니다."
+      },
+      {
+        "name": "가속",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "스킬 사용 시 아군 챔피언이 3초 동안 공격 속도를 25% 얻습니다."
+      },
+      {
+        "name": "가시 감싸기",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "아군 탱커가 4초마다 받은 피해의 12%만큼 인접한 적에게 반사합니다."
+      },
+      {
+        "name": "간식 시간!",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "커다란 털복숭이 친구는 자신이 피해를 입힌 최대 체력 10% 아래의 적을 잡아먹습니다."
+      },
+      {
+        "name": "강철 코어",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "전방 가로 1열 중앙에 있는 아군 챔피언이 전방 가로 1열에 배치된 유닛 하나당 최대 체력을 4% 얻습니다."
+      },
+      {
+        "name": "거대한 성장",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "체력이 가장 높은 아군 챔피언이 체력을 600 얻고 크기가 커집니다."
+      },
+      {
+        "name": "거대화",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "체력이 가장 높은 아군 유닛의 몸집이 커져 체력을 350 얻습니다."
+      },
+      {
+        "name": "거북이의 방문",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "이번 전투 동안 거북이의 태고 버프를 획득합니다."
+      },
+      {
+        "name": "거인의 오라",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "체력이 가장 높은 아군이 초당 최대 체력의 2%에 해당하는 피해를 주변 적에 입힙니다."
+      },
+      {
+        "name": "고독의 망토",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "인접한 아군이 없는 챔피언이 최대 체력을 10%, 피해 증폭을 10% 얻습니다."
+      },
+      {
+        "name": "고물 모으기",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "아이템을 장착하지 않은 챔피언 2명이 임시 추천 아이템을 획득합니다."
+      },
+      {
+        "name": "광란의 살육",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "전사가 체력이 10% 아래인 대상을 처형합니다. 적을 처치하면 공격 속도를 15% 얻습니다."
+      },
+      {
+        "name": "극한의 초월",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "25초 후, 아군이 피해 증폭을 300% 얻습니다."
+      },
+      {
+        "name": "나무 위의 궁수",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "궁수들이 나무 위에서 화살을 발사해 3초마다 500의 물리 피해를 입힙니다."
+      },
+      {
+        "name": "나무껍질 갑옷",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "아군 챔피언이 10초 동안 150의 보호막을 얻습니다."
+      },
+      {
+        "name": "남작의 손길",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "아군이 남작의 축복을 얻어 능력치가 증가합니다."
+      },
+      {
+        "name": "넘치는 힘",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "아군 챔피언이 공격력 및 주문력을 8% 얻습니다."
+      },
+      {
+        "name": "녹아내리는 저항력",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "불태우기 상태의 적은 방어력 및 마법 저항력이 매초 3 감소합니다."
+      },
+      {
+        "name": "대기만성",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "추천 아이템 1개를 장착한 임시 1단계 3성 챔피언이 아군에 합류합니다."
+      },
+      {
+        "name": "더 나은 단짝",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "커다란 털복숭이 친구의 기수가 공격 속도를 15%, 체력을 150 얻습니다."
+      },
+      {
+        "name": "도적단",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "임시 도적의 장갑 2개를 획득합니다."
+      },
+      {
+        "name": "동료 복제",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "피해량이 가장 높은 아군 챔피언의 분신을 생성합니다. 분신은 20%의 피해를 입힙니다."
+      },
+      {
+        "name": "동료애",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "챔피언이 인접한 아군 한 명당 최대 체력의 4%에 해당하는 보호막과 피해 증폭 4%를 얻습니다."
+      },
+      {
+        "name": "마나가 풍부한 토양",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "아군 마법사 유닛의 최대 마나가 15% 감소합니다."
+      },
+      {
+        "name": "말의 방문",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "이번 전투 동안 말의 태고 버프를 획득합니다."
+      },
+      {
+        "name": "명사수의 돌풍",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "원거리 딜러가 기본 공격 시 중첩되는 공격 속도를 3% 얻습니다."
+      },
+      {
+        "name": "명사수의 표식",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "아군 원거리 딜러가 기본 공격 시 25% 확률로 추가 공격합니다."
+      },
+      {
+        "name": "무쇠나무",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "가장 체력이 높은 아군 챔피언을 공격하는 적의 피해량이 10% 감소합니다."
+      },
+      {
+        "name": "무장 해제",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "10초 동안 모든 적에게 파쇄 및 파열을 30% 적용합니다."
+      },
+      {
+        "name": "미니언 무리",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "미니언 4마리를 소환합니다."
+      },
+      {
+        "name": "방어막",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "아군이 보호막을 1000 얻습니다. 보호막은 5초에 걸쳐 점차 사라집니다."
+      },
+      {
+        "name": "번개 폭풍",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "매초 적 하나에게 최대 체력의 7%에 해당하는 고정 피해를 입힙니다."
+      },
+      {
+        "name": "벌새",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "가장 공격 속도가 높은 아군 유닛의 크기가 작아져 공격 속도를 20% 얻습니다."
+      },
+      {
+        "name": "벼락",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "모든 적에게 최대 체력의 10%를 고정 피해로 입힙니다."
+      },
+      {
+        "name": "별의 힘",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "아군이 공격력 및 주문력을 10% 얻습니다. 3성 유닛은 공격력 및 주문력을 25% 얻습니다."
+      },
+      {
+        "name": "보루",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "아군 탱커의 체력이 50% 아래로 떨어지면 최대 체력의 20%에 해당하는 보호막을 얻습니다."
+      },
+      {
+        "name": "복수",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "아군이 사망할 때마다 아군 챔피언이 중첩되는 피해 증폭을 4% 얻습니다."
+      },
+      {
+        "name": "부스터 샷",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "전투 중 최대 2명의 1성 챔피언의 별 레벨이 일시적으로 상승합니다."
+      },
+      {
+        "name": "분산 투자",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "아군이 활성화된 특성 하나당 체력을 30 얻습니다."
+      },
+      {
+        "name": "불길",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "불길이 전장 전체로 번지며 적에게 점점 증가하는 고정 피해를 입힙니다."
+      },
+      {
+        "name": "비",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "아군이 마나 재생을 1 얻습니다."
+      },
+      {
+        "name": "빌린 장비",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "챔피언이 임시 추천 아이템 1개를 획득합니다."
+      },
+      {
+        "name": "사전 준비",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "보유한 중첩형 아이템이 일부 중첩된 상태로 시작합니다."
+      },
+      {
+        "name": "산들바람",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "아군이 공격 속도를 12% 얻습니다."
+      },
+      {
+        "name": "살아있는 토양",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "4초마다 뿌리가 적 하나를 1초 동안 기절시킵니다."
+      },
+      {
+        "name": "살인자의 후회",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "처음으로 사망하는 아군 챔피언 3명이 자신을 처치한 적을 1초 동안 기절시킵니다."
+      },
+      {
+        "name": "석화 보호막",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "10초 동안 적을 10% 둔화시키고 보호막을 20% 감소시킵니다."
+      },
+      {
+        "name": "석화된 훈련 봇",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "처음으로 사망하는 아군 챔피언이 자신의 방어 능력치를 지닌 체력 1000의 훈련 봇으로 변합니다."
+      },
+      {
+        "name": "수정 구슬",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "다음 상대를 공개합니다. 아군이 공격 속도를 12% 얻습니다."
+      },
+      {
+        "name": "신록의 활력",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "아군 챔피언이 체력을 125 얻습니다."
+      },
+      {
+        "name": "여진",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "10초 후 모든 적을 1.5초 동안 기절시킵니다."
+      },
+      {
+        "name": "연소",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "아군 챔피언이 사망 시 폭발하여 최대 체력의 20%에 해당하는 마법 피해를 입힙니다."
+      },
+      {
+        "name": "영웅적 희생",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "아이템을 3개 장착한 챔피언이 영웅의 힘을 얻지만, 다른 아군은 제물이 됩니다."
+      },
+      {
+        "name": "영웅출현",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "8초 후 대기석의 가장 왼쪽에 있는 챔피언이 아이템 2개를 장착한 상태로 전투에 참가합니다."
+      },
+      {
+        "name": "요들 영혼",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "아군이 4초 동안 99% 확률로 기본 공격을 회피합니다."
+      },
+      {
+        "name": "요정 연합",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "이번 라운드에 모든 아군 유닛이 요정 픽시 2마리를 얻습니다."
+      },
+      {
+        "name": "용병",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "추천 아이템 1개를 장착한 임시 5단계 1성 챔피언이 팀에 합류합니다."
+      },
+      {
+        "name": "용병 부대",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "보유한 골드 10당 피해 증폭을 3% 얻습니다."
+      },
+      {
+        "name": "월광 의식",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "별 레벨이 가장 낮은 1단계 또는 2단계 아군 챔피언의 별 레벨이 전투 중 한 단계 상승합니다."
+      },
+      {
+        "name": "월출",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "10초 후 달 효과가 100% 증가합니다."
+      },
+      {
+        "name": "유도 반딧불이",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "마법사 유닛은 마나를 20 소모할 때마다 반딧불이를 1마리 소환합니다. 반딧불이는 각각 150의 마법 피해를 입힙니다."
+      },
+      {
+        "name": "유령 갑옷",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "임시 워모그의 갑옷 1개를 획득합니다."
+      },
+      {
+        "name": "유령 상징",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "가장 많이 활성화된 아군 특성의 임시 상징을 획득합니다."
+      },
+      {
+        "name": "유령 장갑",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "임시 도적의 장갑을 획득합니다."
+      },
+      {
+        "name": "유령 조끼",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "임시 덤불 조끼 1개를 획득합니다."
+      },
+      {
+        "name": "유령 특성",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "전투 시작 시 비활성화된 특성 최대 2개가 가장 낮은 단계로 활성화됩니다."
+      },
+      {
+        "name": "은신",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "가장 강한 아군 전사 또는 암살자 2명이 6초 동안 대상으로 지정할 수 없는 상태가 됩니다."
+      },
+      {
+        "name": "자연의 분노",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "10초 후 아이템을 장착하지 않은 모든 유닛을 처치합니다."
+      },
+      {
+        "name": "자연의 아군",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "아군이 3명 사망할 때마다 무작위 협곡야수를 소환합니다."
+      },
+      {
+        "name": "재생",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "아군이 매초 최대 체력의 1%만큼 체력을 회복합니다."
+      },
+      {
+        "name": "저항력",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "탱커가 받는 모든 피해량이 15 감소합니다."
+      },
+      {
+        "name": "전투 격화",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "전투 시작 15초 후, 아군이 피해 증폭을 30% 얻습니다."
+      },
+      {
+        "name": "주문 방해",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "모든 적의 최대 마나를 다음 스킬 사용 전까지 15 증가시킵니다."
+      },
+      {
+        "name": "진동",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "8초마다 모든 적을 1초 동안 기절시킵니다."
+      },
+      {
+        "name": "찬란함",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "전투 시작 12초 후 장착한 무작위 아이템 1개가 일시적으로 찬란한 아이템이 됩니다."
+      },
+      {
+        "name": "초강력 치명타",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "정밀을 보유한 아군 유닛이 치명타 피해량 25%를 얻습니다."
+      },
+      {
+        "name": "추모 훈련 봇",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "아이템을 장착한 첫 번째 탱커가 사망 시 해당 아이템을 장착한 훈련 봇을 소환합니다."
+      },
+      {
+        "name": "친구 발견",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "거인의 허리띠를 장착한 훈련 봇을 획득합니다."
+      },
+      {
+        "name": "친절한 꽃",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "모든 아군이 치명적인 꽃 추가 효과를 50% 얻습니다."
+      },
+      {
+        "name": "큰 폭발",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "처음 사망한 아군이 폭발하여 최대 체력의 20%에 해당하는 마법 피해를 입힙니다."
+      },
+      {
+        "name": "태양불꽃 마법",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "적에게 10초 동안 불태우기 및 상처를 적용합니다."
+      },
+      {
+        "name": "판금 보호막",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "보호막 효과가 15% 증가합니다. 아군이 10초 동안 150의 보호막을 얻습니다."
+      },
+      {
+        "name": "폭우",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "아군이 마나 재생을 2 얻습니다."
+      },
+      {
+        "name": "피의 사냥",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "경쟁자는 처치 관여 시 돌진해 대상에게 150의 물리 피해를 입힙니다."
+      },
+      {
+        "name": "향상된 사거리",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "전사의 사거리가 1 증가합니다."
+      },
+      {
+        "name": "허리띠 뭉치",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "아군이 장착 해제할 수 없는 임시 거인의 허리띠 7개를 획득합니다."
+      },
+      {
+        "name": "형벌",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "적에게 8초 동안 둔화, 불태우기, 파쇄 및 파열 효과를 적용합니다."
+      },
+      {
+        "name": "호랑이의 방문",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "이번 전투 동안 호랑이의 태고 버프를 획득합니다."
+      },
+      {
+        "name": "홀로서기",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "가로 열에 혼자 있는 챔피언이 체력 15% 및 피해 증폭을 15% 얻습니다."
+      },
+      {
+        "name": "화분 속 돌껍질",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "임시 돌껍질 나무를 획득합니다."
+      },
+      {
+        "name": "화분 속 생명꽃",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "임시 생명꽃을 획득합니다."
+      },
+      {
+        "name": "회오리바람",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "회오리바람을 소환해 적에게 최대 체력의 5%에 해당하는 마법 피해를 입힙니다."
+      },
+      {
+        "name": "후방의 핵심",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "후방의 무작위 챔피언 1명이 7초 동안 공격 속도를 75% 얻습니다."
+      },
+      {
+        "name": "훈련장",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "각각 무작위 탱커 아이템을 장착한 훈련 봇 2개를 획득합니다."
+      },
+      {
+        "name": "흐름",
+        "image": "creatures.png",
+        "category": "전투",
+        "cost": "",
+        "description": "아군 챔피언이 10초 동안 저지 불가 상태가 되고 공격 속도를 15% 얻습니다."
+      },
+      {
+        "name": "1단계 집결",
+        "image": "creatures.png",
+        "category": "상점",
+        "cost": "",
+        "description": "상점을 새로고침해 모두 1단계 유닛으로 채웁니다."
+      },
+      {
+        "name": "2단계 집결",
+        "image": "creatures.png",
+        "category": "상점",
+        "cost": "",
+        "description": "상점을 새로고침해 모두 2단계 챔피언으로 채웁니다."
+      },
+      {
+        "name": "3단계 집결",
+        "image": "creatures.png",
+        "category": "상점",
+        "cost": "",
+        "description": "상점을 새로고침해 모두 3단계 챔피언으로 채웁니다."
+      },
+      {
+        "name": "4단계 집결",
+        "image": "creatures.png",
+        "category": "상점",
+        "cost": "",
+        "description": "상점을 새로고침해 모두 4단계 챔피언으로 채웁니다."
+      },
+      {
+        "name": "5단계 집결",
+        "image": "creatures.png",
+        "category": "상점",
+        "cost": "",
+        "description": "상점을 새로고침해 모두 5단계 챔피언으로 채웁니다."
+      },
+      {
+        "name": "가운데 길",
+        "image": "creatures.png",
+        "category": "상점",
+        "cost": "",
+        "description": "상점을 새로고침해 모두 3단계 2성 챔피언으로 채웁니다."
+      },
+      {
+        "name": "국경 마을",
+        "image": "creatures.png",
+        "category": "상점",
+        "cost": "",
+        "description": "상점을 새로고침해 모두 2단계 2성 챔피언으로 채웁니다."
+      },
+      {
+        "name": "데굴데굴",
+        "image": "creatures.png",
+        "category": "상점",
+        "cost": "",
+        "description": "전투 시작 후 18초에 생존한 아군 챔피언 하나당 새로고침을 1회 얻습니다."
+      },
+      {
+        "name": "별똥별",
+        "image": "creatures.png",
+        "category": "상점",
+        "cost": "",
+        "description": "상점을 새로고침하면 비용이 가장 낮은 챔피언이 2성이 됩니다."
+      },
+      {
+        "name": "빛나는 새로고침",
+        "image": "creatures.png",
+        "category": "상점",
+        "cost": "",
+        "description": "서로 다른 태양 챔피언의 별 레벨당 무료 새로고침을 1회 얻습니다."
+      },
+      {
+        "name": "뼈 주사위",
+        "image": "creatures.png",
+        "category": "상점",
+        "cost": "",
+        "description": "적을 처치할 때마다 60% 확률로 무료 새로고침을 얻습니다."
+      },
+      {
+        "name": "섬광탄",
+        "image": "creatures.png",
+        "category": "상점",
+        "cost": "",
+        "description": "상점을 새로고침합니다. 지옥불이 상점 칸 2개에 불을 붙여 업그레이드합니다."
+      },
+      {
+        "name": "수색대",
+        "image": "creatures.png",
+        "category": "상점",
+        "cost": "",
+        "description": "이번 라운드에 4단계 챔피언을 구매할 때까지 각 상점에 4단계 챔피언이 1명씩 등장합니다."
+      },
+      {
+        "name": "시작 마을",
+        "image": "creatures.png",
+        "category": "상점",
+        "cost": "",
+        "description": "상점을 새로고침해 모두 1단계 2성 챔피언으로 채웁니다."
+      },
+      {
+        "name": "움직이는 상점",
+        "image": "creatures.png",
+        "category": "상점",
+        "cost": "",
+        "description": "20초 동안, 상점이 2초마다 무료로 새로고침됩니다."
+      },
+      {
+        "name": "자유로운 새로고침",
+        "image": "creatures.png",
+        "category": "상점",
+        "cost": "",
+        "description": "상점 새로고침을 2회 얻습니다."
+      },
+      {
+        "name": "정글링",
+        "image": "creatures.png",
+        "category": "상점",
+        "cost": "",
+        "description": "상점을 협곡야수로 가득 채웁니다."
+      },
+      {
+        "name": "파도 타기",
+        "image": "creatures.png",
+        "category": "상점",
+        "cost": "",
+        "description": "이번 라운드의 다음 새로고침 2회는 지난 전투에 배치한 챔피언이 2명 이상 등장합니다."
+      },
+      {
+        "name": "행운의 7",
+        "image": "creatures.png",
+        "category": "상점",
+        "cost": "",
+        "description": "상점 새로고침을 7회 얻습니다."
+      },
+      {
+        "name": "노련함",
+        "image": "creatures.png",
+        "category": "골드/XP",
+        "cost": "",
+        "description": "경험치를 2 얻습니다."
+      },
+      {
+        "name": "느긋한 연구",
+        "image": "creatures.png",
+        "category": "골드/XP",
+        "cost": "",
+        "description": "전투 시작 15초 후 생존한 아군 챔피언 하나당 경험치를 2 얻습니다."
+      },
+      {
+        "name": "동수저",
+        "image": "creatures.png",
+        "category": "골드/XP",
+        "cost": "",
+        "description": "경험치를 6 얻습니다."
+      },
+      {
+        "name": "동전 던지기",
+        "image": "creatures.png",
+        "category": "골드/XP",
+        "cost": "",
+        "description": "동전을 던집니다. 앞면이 나오면 1골드를 획득합니다."
+      },
+      {
+        "name": "목숨값",
+        "image": "creatures.png",
+        "category": "골드/XP",
+        "cost": "",
+        "description": "챔피언을 처치할 때마다 1골드를 획득합니다."
+      },
+      {
+        "name": "물물교환",
+        "image": "creatures.png",
+        "category": "골드/XP",
+        "cost": "",
+        "description": "다음에 판매하는 챔피언이 200%의 골드에 판매됩니다."
+      },
+      {
+        "name": "생명의 빚",
+        "image": "creatures.png",
+        "category": "골드/XP",
+        "cost": "",
+        "description": "플레이어가 잃은 체력 10당 1골드를 획득합니다."
+      },
+      {
+        "name": "성장",
+        "image": "creatures.png",
+        "category": "골드/XP",
+        "cost": "",
+        "description": "경험치를 16 얻습니다."
+      },
+      {
+        "name": "쌈짓돈",
+        "image": "creatures.png",
+        "category": "골드/XP",
+        "cost": "",
+        "description": "아군 1성 챔피언이 사망하면 1골드를 떨어뜨립니다."
+      },
+      {
+        "name": "전차",
+        "image": "creatures.png",
+        "category": "골드/XP",
+        "cost": "",
+        "description": "상점 새로고침 및 경험치 구매 비용이 절반이 됩니다."
+      },
+      {
+        "name": "주사위 굴리기",
+        "image": "creatures.png",
+        "category": "골드/XP",
+        "cost": "",
+        "description": "6면체 주사위를 굴립니다. 나온 수만큼 골드를 획득합니다."
+      },
+      {
+        "name": "황금 거위",
+        "image": "creatures.png",
+        "category": "골드/XP",
+        "cost": "",
+        "description": "피해량이 가장 높은 챔피언이 입힌 피해량 1000마다 1골드를 획득합니다."
+      },
+      {
+        "name": "황금 제단",
+        "image": "creatures.png",
+        "category": "골드/XP",
+        "cost": "",
+        "description": "섬뜩한 힘 제물의 단계 및 별 레벨에 따라 골드를 획득합니다."
+      },
+      {
+        "name": "휴전",
+        "image": "creatures.png",
+        "category": "골드/XP",
+        "cost": "",
+        "description": "자신과 상대방이 1골드를 획득합니다."
+      },
+      {
+        "name": "가뭄",
+        "image": "creatures.png",
+        "category": "리스크",
+        "cost": "",
+        "description": "연패 횟수를 2 증가시킵니다."
+      },
+      {
+        "name": "값진 패배",
+        "image": "creatures.png",
+        "category": "리스크",
+        "cost": "",
+        "description": "다음 플레이어 대상 전투 3회 동안 패배 시 경험치를 6 얻습니다."
+      },
+      {
+        "name": "골든 로드",
+        "image": "creatures.png",
+        "category": "리스크",
+        "cost": "",
+        "description": "플레이어 대상 전투를 3번 치른 후, 승리한 전투마다 3골드를 획득합니다."
+      },
+      {
+        "name": "광란의 동전 던지기",
+        "image": "creatures.png",
+        "category": "리스크",
+        "cost": "",
+        "description": "동전을 던져 앞면이 나오면 1골드를 획득합니다. 뒷면이 나올 때까지 계속 던집니다."
+      },
+      {
+        "name": "범람",
+        "image": "creatures.png",
+        "category": "리스크",
+        "cost": "",
+        "description": "연승 횟수가 2 증가합니다."
+      },
+      {
+        "name": "변이",
+        "image": "creatures.png",
+        "category": "리스크",
+        "cost": "",
+        "description": "보유한 2단계 챔피언 1명이 3단계 챔피언으로 영구히 바뀝니다."
+      },
+      {
+        "name": "비료 주기",
+        "image": "creatures.png",
+        "category": "리스크",
+        "cost": "",
+        "description": "적이 사망할 때마다 경험치를 1 얻습니다."
+      },
+      {
+        "name": "상급 갬빗",
+        "image": "creatures.png",
+        "category": "리스크",
+        "cost": "",
+        "description": "다음 플레이어 대상 전투에서 승리하면 10골드를 획득합니다."
+      },
+      {
+        "name": "상급 변이",
+        "image": "creatures.png",
+        "category": "리스크",
+        "cost": "",
+        "description": "보유한 4단계 챔피언 1명이 5단계 챔피언으로 영구히 바뀝니다."
+      },
+      {
+        "name": "소매치기",
+        "image": "creatures.png",
+        "category": "리스크",
+        "cost": "",
+        "description": "5초마다 아군 챔피언이 20% 확률로 1골드를 떨어뜨립니다."
+      },
+      {
+        "name": "수금",
+        "image": "creatures.png",
+        "category": "리스크",
+        "cost": "",
+        "description": "전투에서 생존한 아군 챔피언 하나당 2골드를 획득합니다."
+      },
+      {
+        "name": "올인",
+        "image": "creatures.png",
+        "category": "리스크",
+        "cost": "",
+        "description": "다음 전투 3회에서 모두 승리하면 레벨 업합니다."
+      },
+      {
+        "name": "의식 완료",
+        "image": "creatures.png",
+        "category": "리스크",
+        "cost": "",
+        "description": "전투에서 승리하면 현재 진행 중인 악의 여단 의식을 완료합니다."
+      },
+      {
+        "name": "저승길 동무",
+        "image": "creatures.png",
+        "category": "리스크",
+        "cost": "",
+        "description": "패배하고 유닛을 1명 이상 처치했다면 경험치를 4 얻습니다."
+      },
+      {
+        "name": "전리품 사냥꾼",
+        "image": "creatures.png",
+        "category": "리스크",
+        "cost": "",
+        "description": "경쟁자를 상대로 처치 관여를 100% 더 얻습니다."
+      },
+      {
+        "name": "정기 흡수",
+        "image": "creatures.png",
+        "category": "리스크",
+        "cost": "",
+        "description": "이번 전투에서 악의 여단 정수를 50% 추가로 획득합니다."
+      },
+      {
+        "name": "조합 아이템 현상금",
+        "image": "creatures.png",
+        "category": "리스크",
+        "cost": "",
+        "description": "다음 플레이어 대상 전투에서 승리하면 조합 아이템 모루를 획득합니다."
+      },
+      {
+        "name": "추억의 음식",
+        "image": "creatures.png",
+        "category": "리스크",
+        "cost": "",
+        "description": "플레이어 체력을 2 얻습니다. 다음 플레이어 대상 전투 패배 시 4 더 얻습니다."
+      },
+      {
+        "name": "하급 갬빗",
+        "image": "creatures.png",
+        "category": "리스크",
+        "cost": "",
+        "description": "다음 플레이어 대상 전투에서 승리하면 2골드를 획득합니다."
+      },
+      {
+        "name": "하급 변이",
+        "image": "creatures.png",
+        "category": "리스크",
+        "cost": "",
+        "description": "보유한 1단계 챔피언 1명이 2단계 챔피언으로 영구히 바뀝니다."
+      },
+      {
+        "name": "함선 탈출",
+        "image": "creatures.png",
+        "category": "리스크",
+        "cost": "",
+        "description": "전장 및 대기석에 있는 챔피언을 판매합니다. 10골드, 10의 경험치, 새로고침 5회를 획득합니다."
+      },
+      {
+        "name": "게으른 기술자",
+        "image": "creatures.png",
+        "category": "아이템",
+        "cost": "",
+        "description": "대기석에 있는 조합 아이템 1개가 해당 조합 아이템으로 만들 수 있는 완성 아이템으로 변합니다."
+      },
+      {
+        "name": "유물화",
+        "image": "creatures.png",
+        "category": "아이템",
+        "cost": "",
+        "description": "완성 아이템에 사용된 조합 아이템을 포함해 조합 아이템 3개를 잃습니다. 유물 모루 1개를 획득합니다."
+      },
+      {
+        "name": "잔혹한 거래",
+        "image": "creatures.png",
+        "category": "아이템",
+        "cost": "",
+        "description": "플레이어 체력을 8 잃고 조합 아이템 모루를 획득합니다."
+      },
+      {
+        "name": "판매상",
+        "image": "creatures.png",
+        "category": "아이템",
+        "cost": "",
+        "description": "아이템을 구매할 수 있는 상점을 엽니다. 아이템의 가격은 0골드에서 10골드입니다."
+      },
+      {
+        "name": "프리미엄 교환 시장",
+        "image": "creatures.png",
+        "category": "아이템",
+        "cost": "",
+        "description": "3성 챔피언을 판매하면 새로고침 3회와 행운의 아이템 상자를 획득합니다."
+      },
+      {
+        "name": "피와 강철",
+        "image": "creatures.png",
+        "category": "아이템",
+        "cost": "",
+        "description": "챔피언이 20번 사망하면 조합 아이템 모루를 획득합니다."
+      },
+      {
+        "name": "가짜 레벨",
+        "image": "creatures.png",
+        "category": "기타",
+        "cost": "",
+        "description": "일시적으로 10레벨이 됩니다."
+      },
+      {
+        "name": "거대한 혼돈",
+        "image": "creatures.png",
+        "category": "기타",
+        "cost": "",
+        "description": "무작위 수호령 2개를 사용합니다."
+      },
+      {
+        "name": "더블 업",
+        "image": "creatures.png",
+        "category": "기타",
+        "cost": "",
+        "description": "다음으로 구매하는 수호령은 두 번 발동하며 비용이 두 배가 됩니다."
+      },
+      {
+        "name": "마나 물약",
+        "image": "creatures.png",
+        "category": "기타",
+        "cost": "",
+        "description": "장착 가능한 일회용 마나 물약을 획득합니다."
+      },
+      {
+        "name": "물약 제조",
+        "image": "creatures.png",
+        "category": "기타",
+        "cost": "",
+        "description": "장착 가능한 일회용 물약 3개를 획득합니다."
+      },
+      {
+        "name": "바람 좀 쐬고 와",
+        "image": "creatures.png",
+        "category": "기타",
+        "cost": "",
+        "description": "5골드를 획득하고 아무 행동을 취할 수 없습니다. 15초 후, 대신 2골드를 획득합니다."
+      },
+      {
+        "name": "보호의 의식",
+        "image": "creatures.png",
+        "category": "기타",
+        "cost": "",
+        "description": "이번 라운드에 받는 플레이어 피해량이 3 감소합니다."
+      },
+      {
+        "name": "불길한 거래",
+        "image": "creatures.png",
+        "category": "기타",
+        "cost": "",
+        "description": "플레이어 체력을 3 잃습니다. 2골드를 획득합니다."
+      },
+      {
+        "name": "새롭고 개선된 성능",
+        "image": "creatures.png",
+        "category": "기타",
+        "cost": "",
+        "description": "휴대용 대격변 생성기를 획득합니다."
+      },
+      {
+        "name": "소규모 피의 의식",
+        "image": "creatures.png",
+        "category": "기타",
+        "cost": "",
+        "description": "플레이어 체력을 3 잃습니다. 하급 챔피언 복제기를 획득합니다."
+      },
+      {
+        "name": "소모품 상점",
+        "image": "creatures.png",
+        "category": "기타",
+        "cost": "",
+        "description": "골드를 사용해 소모품을 구매할 수 있는 상점을 엽니다."
+      },
+      {
+        "name": "숲의 마법사",
+        "image": "creatures.png",
+        "category": "기타",
+        "cost": "",
+        "description": "상점을 수호령 5개로 채웁니다. 그중 1개를 사용할 수 있습니다."
+      },
+      {
+        "name": "요상한 꾸러미",
+        "image": "creatures.png",
+        "category": "기타",
+        "cost": "",
+        "description": "방어력, 마법 저항력, 또는 체력을 부여하는 무작위 소모품 3개를 획득합니다."
+      },
+      {
+        "name": "요상한 자루",
+        "image": "creatures.png",
+        "category": "기타",
+        "cost": "",
+        "description": "방어력, 마법 저항력 또는 체력을 부여하는 무작위 소모품 5개를 획득합니다."
+      },
+      {
+        "name": "요상한 항아리",
+        "image": "creatures.png",
+        "category": "기타",
+        "cost": "",
+        "description": "방어력, 마법 저항력 또는 체력을 부여하는 무작위 소모품 1개를 획득합니다."
+      },
+      {
+        "name": "요정의 비행",
+        "image": "creatures.png",
+        "category": "기타",
+        "cost": "",
+        "description": "이번 전투에서 요정 픽시를 100% 더 많이 끌어들입니다."
+      },
+      {
+        "name": "이름 모를 꾸러미",
+        "image": "creatures.png",
+        "category": "기타",
+        "cost": "",
+        "description": "주문력 또는 마나 재생을 부여하는 무작위 소모품 3개를 획득합니다."
+      },
+      {
+        "name": "이름 모를 자루",
+        "image": "creatures.png",
+        "category": "기타",
+        "cost": "",
+        "description": "주문력 또는 마나 재생을 부여하는 무작위 소모품 5개를 획득합니다."
+      },
+      {
+        "name": "이름 모를 항아리",
+        "image": "creatures.png",
+        "category": "기타",
+        "cost": "",
+        "description": "주문력 또는 마나 재생을 부여하는 무작위 소모품 1개를 획득합니다."
+      },
+      {
+        "name": "잡동사니 꾸러미",
+        "image": "creatures.png",
+        "category": "기타",
+        "cost": "",
+        "description": "공격력이나 공격 속도를 부여하는 무작위 소모품을 2개 획득합니다."
+      },
+      {
+        "name": "잡동사니 자루",
+        "image": "creatures.png",
+        "category": "기타",
+        "cost": "",
+        "description": "공격력 또는 공격 속도를 부여하는 무작위 소모품 4개를 획득합니다."
+      },
+      {
+        "name": "잡동사니 항아리",
+        "image": "creatures.png",
+        "category": "기타",
+        "cost": "",
+        "description": "공격력이나 공격 속도를 부여하는 무작위 소모품 1개를 획득합니다."
+      },
+      {
+        "name": "재활용 전문가",
+        "image": "creatures.png",
+        "category": "기타",
+        "cost": "",
+        "description": "대기석에 배치한 유닛의 아이템이 제거되고 조합 아이템으로 분해됩니다."
+      },
+      {
+        "name": "조기 수리",
+        "image": "creatures.png",
+        "category": "기타",
+        "cost": "",
+        "description": "재조합기를 획득합니다."
+      },
+      {
+        "name": "체력 물약",
+        "image": "creatures.png",
+        "category": "기타",
+        "cost": "",
+        "description": "장착 가능한 일회용 체력 물약을 획득합니다."
+      },
+      {
+        "name": "테라포밍",
+        "image": "creatures.png",
+        "category": "기타",
+        "cost": "",
+        "description": "전투 시작 시 자연의 아버지 씨앗 5개를 획득합니다."
+      },
+      {
+        "name": "폭발 물약",
+        "image": "creatures.png",
+        "category": "기타",
+        "cost": "",
+        "description": "장착 가능한 일회용 폭발 물약을 획득합니다."
+      },
+      {
+        "name": "피의 의식",
+        "image": "creatures.png",
+        "category": "기타",
+        "cost": "",
+        "description": "플레이어 체력을 9 잃습니다. 챔피언 복제기를 획득합니다."
+      },
+      {
+        "name": "하급 혼돈",
+        "image": "creatures.png",
+        "category": "기타",
+        "cost": "",
+        "description": "무작위 수호령을 사용합니다."
+      },
+      {
+        "name": "회복 웅덩이",
+        "image": "creatures.png",
+        "category": "기타",
+        "cost": "",
+        "description": "플레이어 체력을 5 얻습니다."
+      }
+    ]
+  },
+  "synergys": [
+    {
+      "section": "origin-synergy",
+      "name": "가시 여인",
+      "icon": "Trait_Icon_18_Thornmaiden_Large_White.png",
+      "champions": [
+        {
+          "name": "자이라",
+          "image": "Zyra.jpg"
+        }
+      ],
+      "description": "아군이 내구력을 ?% 얻으며, 자이라의 식물이 ?개 이상 살아 있으면 ?%로 증가합니다.",
+      "effects": []
+    },
+    {
+      "section": "origin-synergy",
+      "name": "거석",
+      "icon": "Trait_Icon_18_Monolith_Large_White.png",
+      "champions": [
+        {
+          "name": "말파이트",
+          "image": "Malphite.jpg"
+        }
+      ],
+      "description": "거석은 자신을 대상으로 지정한 적 하나당 방어력 및 마법 저항력을 ? 얻습니다.",
+      "effects": []
+    },
+    {
+      "section": "origin-synergy",
+      "name": "고목",
+      "icon": "Trait_Icon_18_OldGrowth_Large_White.png",
+      "champions": [
+        {
+          "name": "마오카이",
+          "image": "Maokai.jpg"
+        }
+      ],
+      "description": "?칸 내의 적이 사망할 때마다 영구적으로 최대 체력을 ? 얻습니다.\n\n현재: ?",
+      "effects": []
+    },
+    {
+      "section": "origin-synergy",
+      "name": "교감",
+      "icon": "Trait_Icon_18_Attuned_Large_White.png",
+      "champions": [
+        {
+          "name": "알룬",
+          "image": "Alune.jpg"
+        }
+      ],
+      "description": "가장 강한 아군 알룬이 스킬을 사용할 때마다 달의 위상이 바뀝니다. 달이 반달 이하일 때 아군이 내구력을 ?% 얻습니다. 반달을 넘으면 아군이 피해 증폭을 ?% 얻습니다.",
+      "effects": []
+    },
+    {
+      "section": "origin-synergy",
+      "name": "부식",
+      "icon": "Trait_Icon_18_Caustic_Large_White.png",
+      "champions": [
+        {
+          "name": "코그모",
+          "image": "KogMaw.jpg"
+        }
+      ],
+      "description": "부식 유닛이 피해를 입힐 경우 ?초 동안 적에게 파쇄 및 파열을 ?% 적용합니다.",
+      "effects": []
+    },
+    {
+      "section": "origin-synergy",
+      "name": "아바타",
+      "icon": "Trait_Icon_18_Avatar_Large_White.png",
+      "champions": [
+        {
+          "name": "럭스 (개화)",
+          "image": "LuxBlossom.jpg"
+        }
+      ],
+      "description": "대기석 또는 전장에 아바타가 있으면 상점 내 모든 아바타의 특성이 해당 아바타의 특성으로 바뀝니다. 특정 특성의 아바타는 한 명만 보유할 수 있습니다.\n\n특성 추가 효과에 대하여 아바타의 선택된 특성은 두 번 적용됩니다.",
+      "effects": []
+    },
+    {
+      "section": "origin-synergy",
+      "name": "에메랄드 위상",
+      "icon": "Trait_Icon_18_EmeraldAspect_Large_White.png",
+      "champions": [
+        {
+          "name": "타릭",
+          "image": "Taric.jpg"
+        }
+      ],
+      "description": "아군을 가장 강한 아군 타릭에게 끌어다 놓으면 짝을 이루어, 해당 아군이 타릭의 스킬로부터 강력한 추가 효과를 얻습니다.",
+      "effects": []
+    },
+    {
+      "section": "origin-synergy",
+      "name": "자연의 아버지",
+      "icon": "Trait_Icon_18_Greenfather_Large_White.png",
+      "champions": [
+        {
+          "name": "아이번",
+          "image": "Ivern.jpg"
+        }
+      ],
+      "description": "가장 강한 아군 아이번이 스킬을 사용할 때마다 씨앗 ?개를 얻고, 전투마다 추가로 ?개를 더 얻습니다. 아이번은 씨앗을 ?개 사용하여 전장의 칸을 성장시키며, 해당 칸에 배치된 유닛에게 추가 효과를 부여합니다.\n\n씨앗: ? | ?\n\n현재 생태계:",
+      "effects": []
+    },
+    {
+      "section": "origin-synergy",
+      "name": "최상위 포식자",
+      "icon": "Trait_Icon_18_ApexPredator_Large_White.png",
+      "champions": [
+        {
+          "name": "장로 드래곤",
+          "image": "TheElderDragon.jpg"
+        }
+      ],
+      "description": "장로 드래곤은 2개의 팀 슬롯을 차지하며 협곡야수 특성을 +2 추가합니다.",
+      "effects": []
+    },
+    {
+      "section": "origin-synergy",
+      "name": "현상금 사냥꾼",
+      "icon": "Trait_Icon_18_BountySeeker_Large_White.png",
+      "champions": [
+        {
+          "name": "드레이븐",
+          "image": "Draven.jpg"
+        }
+      ],
+      "description": "현상금 임무를 선택합니다. 가장 강한 아군 드레이븐이 선택한 임무를 수행하여 보상을 획득할 수 있습니다. 임무를 완료하면 다른 임무를 선택합니다.",
+      "effects": []
+    },
+    {
+      "section": "origin-synergy",
+      "name": "개화",
+      "icon": "Trait_Icon_18_Blossom_Large_White.png",
+      "champions": [
+        {
+          "name": "카르마",
+          "image": "Karma.jpg"
+        },
+        {
+          "name": "요릭",
+          "image": "Yorick.jpg"
+        },
+        {
+          "name": "유나라",
+          "image": "Yunara.jpg"
+        },
+        {
+          "name": "마스터 이",
+          "image": "MasterYi.jpg"
+        },
+        {
+          "name": "아리",
+          "image": "Ahri.jpg"
+        },
+        {
+          "name": "세트",
+          "image": "Sett.jpg"
+        },
+        {
+          "name": "애쉬",
+          "image": "Ashe.jpg"
+        },
+        {
+          "name": "럭스 (개화)",
+          "image": "LuxBlossom.jpg"
+        }
+      ],
+      "description": "전투 후 수호령이 강화됩니다.\n\n개화 챔피언은 공격력, 주문력 및 최대 체력 ?%를 얻습니다.",
+      "effects": [
+        {
+          "count": "(3)\n수호령 업그레이드, 공격력/주문력 ?%",
+          "text": "(5)\n모든 상점에 수호령 등장, 공격력/주문력 ?%"
+        },
+        {
+          "count": "(3)",
+          "text": "수호령 업그레이드, 공격력/주문력 ?%"
+        },
+        {
+          "count": "(5)",
+          "text": "모든 상점에 수호령 등장, 공격력/주문력 ?%"
+        },
+        {
+          "count": "(7)",
+          "text": "수호령 구매 시 ?골드 획득, 공격력/주문력 ?%"
+        },
+        {
+          "count": "(9)",
+          "text": "라운드마다 수호령 2개 구매 가능, 공격력/주문력 ?%"
+        },
+        {
+          "count": "(11)",
+          "text": "수호령의 힘이 넘쳐흐릅니다. 공격력/주문력 ?%"
+        }
+      ]
+    },
+    {
+      "section": "origin-synergy",
+      "name": "경쟁자",
+      "icon": "Trait_Icon_18_Rival_Large_White.png",
+      "champions": [
+        {
+          "name": "카직스",
+          "image": "KhaZix.jpg"
+        },
+        {
+          "name": "렝가",
+          "image": "Rengar.jpg"
+        }
+      ],
+      "description": "가장 강한 아군 경쟁자에게만 적용됩니다.",
+      "effects": [
+        {
+          "count": "(1)\n경쟁자를 1명만 배치했을 때 활성화됩니다. 경쟁자는 처치 관여를 수집하며, 다른 경쟁자를 처치하는 데 관여하면 3회를 추가로 수집합니다.",
+          "text": "(2)\n경쟁자를 함께 전장에 배치할 수 있습니다."
+        },
+        {
+          "count": "(1)",
+          "text": "경쟁자를 1명만 배치했을 때 활성화됩니다. 경쟁자는 처치 관여를 수집하며, 다른 경쟁자를 처치하는 데 관여하면 3회를 추가로 수집합니다."
+        },
+        {
+          "count": "(2)",
+          "text": "경쟁자를 함께 전장에 배치할 수 있습니다."
+        }
+      ]
+    },
+    {
+      "section": "origin-synergy",
+      "name": "나무정령",
+      "icon": "Trait_Icon_18_Elderwood_Large_White.png",
+      "champions": [
+        {
+          "name": "오른",
+          "image": "Ornn.jpg"
+        },
+        {
+          "name": "자야",
+          "image": "Xayah.jpg"
+        },
+        {
+          "name": "알리스타",
+          "image": "Alistar.jpg"
+        },
+        {
+          "name": "르블랑",
+          "image": "LeBlanc.jpg"
+        },
+        {
+          "name": "헤카림",
+          "image": "Hecarim.jpg"
+        },
+        {
+          "name": "이즈리얼",
+          "image": "Ezreal.jpg"
+        },
+        {
+          "name": "나르",
+          "image": "Gnar.jpg"
+        },
+        {
+          "name": "럭스 (나무정령)",
+          "image": "LuxElderwood.jpg"
+        }
+      ],
+      "description": "배치할 수 있는 나무정령 식물을 획득합니다.\n\n나무정령의 별 레벨에 따라 식물이 ?% 최대 체력과 ?% 주문력을 얻습니다.",
+      "effects": [
+        {
+          "count": "(3)\n돌껍질 나무와 생명꽃",
+          "text": "(5)\n두 번째 돌껍질 나무"
+        },
+        {
+          "count": "(3)",
+          "text": "돌껍질 나무와 생명꽃"
+        },
+        {
+          "count": "(5)",
+          "text": "두 번째 돌껍질 나무"
+        },
+        {
+          "count": "(7)",
+          "text": "그리고 깊은숲 수호자"
+        },
+        {
+          "count": "(9)",
+          "text": "식물의 별 레벨이 2성까지 성장"
+        },
+        {
+          "count": "(11)",
+          "text": "식물의 별 레벨이 3성까지 성장"
+        }
+      ]
+    },
+    {
+      "section": "origin-synergy",
+      "name": "날렵이",
+      "icon": "Trait_Icon_18_Sprykin_Large_White.png",
+      "champions": [
+        {
+          "name": "코부코",
+          "image": "Kobuko.jpg"
+        },
+        {
+          "name": "베이가",
+          "image": "Veigar.jpg"
+        },
+        {
+          "name": "티모",
+          "image": "Teemo.jpg"
+        },
+        {
+          "name": "람머스",
+          "image": "Rammus.jpg"
+        },
+        {
+          "name": "트리스타나",
+          "image": "Tristana.jpg"
+        },
+        {
+          "name": "나르",
+          "image": "Gnar.jpg"
+        }
+      ],
+      "description": "커다란 털복숭이 친구를 획득합니다. 날렵이를 커다란 털복숭이 친구 위에 놓아 기수로 정합니다.\n\n기수의 역할군이 근거리 또는 원거리인지에 따라 커다란 털복숭이 친구의 기본 공격과 스킬이 변경됩니다.",
+      "effects": [
+        {
+          "count": "(3)\n기수가 체력 ?% 및 공격 속도 ?%를 얻습니다.",
+          "text": "(5)\n체력 ?% 및 공격 속도 ?%, 그리고 커다란 털복숭이 친구 스킬 효과의 ?%가 아군 전체에게 적용됩니다."
+        },
+        {
+          "count": "(3)",
+          "text": "기수가 체력 ?% 및 공격 속도 ?%를 얻습니다."
+        },
+        {
+          "count": "(5)",
+          "text": "체력 ?% 및 공격 속도 ?%, 그리고 커다란 털복숭이 친구 스킬 효과의 ?%가 아군 전체에게 적용됩니다."
+        },
+        {
+          "count": "(7)",
+          "text": "체력 ?% 및 공격 속도 ?%, 그리고 커다란 털복숭이 친구 스킬 효과의 ?%가 아군 날렵이에게 적용됩니다."
+        }
+      ]
+    },
+    {
+      "section": "origin-synergy",
+      "name": "달",
+      "icon": "Trait_Icon_18_Lunar_Large_White.png",
+      "champions": [
+        {
+          "name": "다이애나",
+          "image": "Diana.jpg"
+        },
+        {
+          "name": "아펠리오스",
+          "image": "Aphelios.jpg"
+        },
+        {
+          "name": "알룬",
+          "image": "Alune.jpg"
+        },
+        {
+          "name": "럭스 (달)",
+          "image": "LuxLunar.jpg"
+        }
+      ],
+      "description": "달 챔피언과 인접한 아군이 공격 속도와 주문력을 얻습니다. 달 챔피언은 능력치를 ?% 더 얻습니다.\n\n...달이 죽음과 삭망을 불러옵니다.",
+      "effects": [
+        {
+          "count": "(2)\n공격 속도 ?%, 주문력 ?%",
+          "text": "(3)\n공격 속도 ?%, 주문력 ?%"
+        },
+        {
+          "count": "(2)",
+          "text": "공격 속도 ?%, 주문력 ?%"
+        },
+        {
+          "count": "(3)",
+          "text": "공격 속도 ?%, 주문력 ?%"
+        },
+        {
+          "count": "(4)",
+          "text": "공격 속도 ?%, 주문력 ?%"
+        },
+        {
+          "count": "(5)",
+          "text": "공격 속도 ?%, 주문력 ?%"
+        }
+      ]
+    },
+    {
+      "section": "origin-synergy",
+      "name": "섬뜩한 힘",
+      "icon": "Trait_Icon_18_Eldritch_Large_White.png",
+      "champions": [
+        {
+          "name": "렉사이",
+          "image": "RekSai.jpg"
+        },
+        {
+          "name": "베이가",
+          "image": "Veigar.jpg"
+        },
+        {
+          "name": "워윅",
+          "image": "Warwick.jpg"
+        },
+        {
+          "name": "아지르",
+          "image": "Azir.jpg"
+        },
+        {
+          "name": "말파이트",
+          "image": "Malphite.jpg"
+        },
+        {
+          "name": "럭스 (섬뜩한 힘)",
+          "image": "LuxEldritch.jpg"
+        }
+      ],
+      "description": "섬뜩한 힘 칸에 있는 아군이 전투 시작 시 제물로 바쳐져 아군에게 체력을 부여합니다.\n\n섬뜩한 힘 챔피언은 제물의 역할군, 별 레벨, 비용에 따라 추가 능력치를 얻습니다.",
+      "effects": [
+        {
+          "count": "(2)\n체력 ?",
+          "text": "(4)\n체력 ?, 추가 효과 ?% 강화"
+        },
+        {
+          "count": "(2)",
+          "text": "체력 ?"
+        },
+        {
+          "count": "(4)",
+          "text": "체력 ?, 추가 효과 ?% 강화"
+        },
+        {
+          "count": "(6)",
+          "text": "체력 ?, 제물이 죽지 않습니다. 또한 다음 효과를 얻습니다: 공격력 및 주문력 ?%, 공격 속도 ?%, 방어력 및 마법 저항력 ?, 추가 체력 ?, 모든 피해 흡혈 ?%"
+        }
+      ]
+    },
+    {
+      "section": "origin-synergy",
+      "name": "악의 여단",
+      "icon": "Trait_Icon_18_Coven_Large_White.png",
+      "champions": [
+        {
+          "name": "카밀",
+          "image": "Camille.jpg"
+        },
+        {
+          "name": "케이틀린",
+          "image": "Caitlyn.jpg"
+        },
+        {
+          "name": "엘리스",
+          "image": "Elise.jpg"
+        },
+        {
+          "name": "카시오페아",
+          "image": "Cassiopeia.jpg"
+        },
+        {
+          "name": "모르가나",
+          "image": "Morgana.jpg"
+        },
+        {
+          "name": "럭스 (악의 여단)",
+          "image": "LuxCoven.jpg"
+        }
+      ],
+      "description": "적을 처치하면 정수를 획득하며, 플레이어 대상 전투에서 패배하면 더 많이 얻습니다.\n\n정수가 ? 에 도달하면, 정수를 보상으로 전환하거나 계속해서 정수를 모을 수 있습니다. 각 보상마다 더 많은 정수량이 필요합니다.",
+      "effects": [
+        {
+          "count": "(3)\n처치당 정수 ?, 패배당 정수 ?",
+          "text": "(4)\n처치당 ?, 패배당 ?"
+        },
+        {
+          "count": "(3)",
+          "text": "처치당 정수 ?, 패배당 정수 ?"
+        },
+        {
+          "count": "(4)",
+          "text": "처치당 ?, 패배당 ?"
+        },
+        {
+          "count": "(5)",
+          "text": "처치당 ?, 패배당 ?"
+        },
+        {
+          "count": "(7)",
+          "text": "처치당 ?, 패배당 ?"
+        }
+      ]
+    },
+    {
+      "section": "origin-synergy",
+      "name": "요정",
+      "icon": "Trait_Icon_18_Fae_Large_White.png",
+      "champions": [
+        {
+          "name": "라칸",
+          "image": "Rakan.jpg"
+        },
+        {
+          "name": "자야",
+          "image": "Xayah.jpg"
+        },
+        {
+          "name": "트리스타나",
+          "image": "Tristana.jpg"
+        },
+        {
+          "name": "릴리아",
+          "image": "Lillia.jpg"
+        },
+        {
+          "name": "럭스 (요정)",
+          "image": "LuxFae.jpg"
+        }
+      ],
+      "description": "아군의 피해, 체력 회복, 보호막이 픽시를 끌어들입니다.\n\n픽시 하나당 요정 챔피언이 공격력과 주문력을 얻으며, 체력이 ?% 아래로 떨어지면 픽시 하나당 체력을 회복합니다.\n\n현재 픽시: ? | 7\n다음 픽시: ? | ?",
+      "effects": [
+        {
+          "count": "(2)\n공격력 및 주문력 ?%, 회복 ?%",
+          "text": "(4)\n공격력 및 주문력 ?%, 회복 ?%, 픽시를 7마리 끌어들이면 대신 골드를 제공하는 황금 픽시를 끌어들입니다."
+        },
+        {
+          "count": "(2)",
+          "text": "공격력 및 주문력 ?%, 회복 ?%"
+        },
+        {
+          "count": "(4)",
+          "text": "공격력 및 주문력 ?%, 회복 ?%, 픽시를 7마리 끌어들이면 대신 골드를 제공하는 황금 픽시를 끌어들입니다."
+        }
+      ]
+    },
+    {
+      "section": "origin-synergy",
+      "name": "일월식",
+      "icon": "Trait_Icon_18_Eclipse_Large_White.png",
+      "champions": [],
+      "description": "전투 시작 ?초 후, 일월식이 체력이 가장 낮은 적을 처치하며, 이후 ?초마다 반복됩니다.",
+      "effects": []
+    },
+    {
+      "section": "origin-synergy",
+      "name": "지옥불",
+      "icon": "Trait_Icon_18_Inferno_Large_White.png",
+      "champions": [
+        {
+          "name": "아칼리",
+          "image": "Akali.jpg"
+        },
+        {
+          "name": "바루스",
+          "image": "Varus.jpg"
+        },
+        {
+          "name": "쉔",
+          "image": "Shen.jpg"
+        },
+        {
+          "name": "아무무",
+          "image": "Amumu.jpg"
+        },
+        {
+          "name": "케넨",
+          "image": "Kennen.jpg"
+        },
+        {
+          "name": "럭스 (지옥불)",
+          "image": "LuxInferno.jpg"
+        }
+      ],
+      "description": "지옥불 피해가 적에게 ?초 동안 불태우기 및 ?% 상처를 적용합니다. 지옥불 불태우기는 다른 불태우기 효과와 중첩됩니다.\n\n불태우기: 매초 대상 최대 체력의 일정 비율만큼 고정 피해\n상처: 체력 회복량 감소",
+      "effects": [
+        {
+          "count": "(2)\n불태우기 ?%",
+          "text": "(3)\n전투 후, 지옥불 챔피언이 없는 상점 슬롯 ?개가 점화되어 한 단계 높은 챔피언이 등장합니다"
+        },
+        {
+          "count": "(2)",
+          "text": "불태우기 ?%"
+        },
+        {
+          "count": "(3)",
+          "text": "전투 후, 지옥불 챔피언이 없는 상점 슬롯 ?개가 점화되어 한 단계 높은 챔피언이 등장합니다"
+        },
+        {
+          "count": "(5)",
+          "text": "상점 슬롯 ?개 점화, 불태우기 ?%"
+        },
+        {
+          "count": "(7)",
+          "text": "상점 슬롯 ?개 점화, 불태우기 ?%"
+        }
+      ]
+    },
+    {
+      "section": "origin-synergy",
+      "name": "치명적인 꽃",
+      "icon": "Trait_Icon_18_FloraFatalis_Large_White.png",
+      "champions": [
+        {
+          "name": "피들스틱",
+          "image": "Fiddlesticks.jpg"
+        },
+        {
+          "name": "소라카",
+          "image": "Soraka.jpg"
+        }
+      ],
+      "description": "치명적인 꽃 챔피언이 적 처치 관여 시 적을 수확하여 다음 효과를 얻습니다:",
+      "effects": [
+        {
+          "count": "(1)\n마나 ?",
+          "text": "(2)\n그리고 체력이 가장 낮은 아군에게 최대 체력의 ?%만큼 체력을 회복합니다."
+        },
+        {
+          "count": "(1)",
+          "text": "마나 ?"
+        },
+        {
+          "count": "(2)",
+          "text": "그리고 체력이 가장 낮은 아군에게 최대 체력의 ?%만큼 체력을 회복합니다."
+        }
+      ]
+    },
+    {
+      "section": "origin-synergy",
+      "name": "태고",
+      "icon": "Trait_Icon_18_Primal_Large_White.png",
+      "champions": [
+        {
+          "name": "바이",
+          "image": "Vi.jpg"
+        },
+        {
+          "name": "니달리",
+          "image": "Nidalee.jpg"
+        },
+        {
+          "name": "시비르",
+          "image": "Sivir.jpg"
+        },
+        {
+          "name": "럭스 (태고)",
+          "image": "LuxPrimal.jpg"
+        }
+      ],
+      "description": "태고의 축복 네 가지 중 하나를 선택합니다.",
+      "effects": [
+        {
+          "count": "(2)\n?",
+          "text": "(4)\n?"
+        },
+        {
+          "count": "(2)",
+          "text": "?"
+        },
+        {
+          "count": "(4)",
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "section": "origin-synergy",
+      "name": "태양",
+      "icon": "Trait_Icon_18_Solar_Large_White.png",
+      "champions": [
+        {
+          "name": "레오나",
+          "image": "Leona.jpg"
+        },
+        {
+          "name": "케일",
+          "image": "Kayle.jpg"
+        },
+        {
+          "name": "세주아니",
+          "image": "Sejuani.jpg"
+        },
+        {
+          "name": "럭스 (태양)",
+          "image": "LuxSolar.jpg"
+        }
+      ],
+      "description": "단계별 효과는 아래에서 확인할 수 있습니다.",
+      "effects": [
+        {
+          "count": "(3)",
+          "text": "아군 챔피언이 최대 체력의 ?%만큼 보호막을 얻고 추가 마법 피해를 ?% 입힙니다. 서로 다른 3성 챔피언마다 추가 효과를 얻습니다:\n\n1+: 3성 챔피언 하나당 보호막과 마법 피해가 ?% 증가합니다.\n?: 공격 속도 ?%, 방어력 및 마법 저항력 ?\n?: 추가 마법 피해의 ?%가 고정 피해로 전환됩니다.\n?: 3성 챔피언이 전투 중 4성으로 초월합니다.\n\n태양이 세 명, 그리고 또 세 명의 영웅을 비출 때..."
+        }
+      ]
+    },
+    {
+      "section": "origin-synergy",
+      "name": "협곡야수",
+      "icon": "Trait_Icon_18_Riftbeast_Large_White.png",
+      "champions": [
+        {
+          "name": "덩굴 묘목",
+          "image": "Cinderling.jpg"
+        },
+        {
+          "name": "Pebbles",
+          "image": "Pebbles.jpg"
+        },
+        {
+          "name": "심술두꺼비",
+          "image": "Gromp.jpg"
+        },
+        {
+          "name": "어스름 늑대",
+          "image": "Murkwolf.jpg"
+        },
+        {
+          "name": "바위 게",
+          "image": "Scuttlecrab.jpg"
+        },
+        {
+          "name": "돌거북",
+          "image": "Krug.jpg"
+        },
+        {
+          "name": "칼날부리",
+          "image": "Raptor.jpg"
+        },
+        {
+          "name": "고대 파수꾼",
+          "image": "AncientSentinel.jpg"
+        },
+        {
+          "name": "덩굴정령",
+          "image": "Brambleback.jpg"
+        },
+        {
+          "name": "장로 드래곤",
+          "image": "TheElderDragon.jpg"
+        }
+      ],
+      "description": "단계별 효과는 아래에서 확인할 수 있습니다.",
+      "effects": [
+        {
+          "count": "(3)\n우두머리 표식을 사용하여 협곡야수 하나에게 고유 강화 효과를 부여합니다",
+          "text": "(5)\n플레이어 대상 전투 ?회마다 다음 상점이 협곡야수로 가득 찹니다"
+        },
+        {
+          "count": "(3)",
+          "text": "우두머리 표식을 사용하여 협곡야수 하나에게 고유 강화 효과를 부여합니다"
+        },
+        {
+          "count": "(5)",
+          "text": "플레이어 대상 전투 ?회마다 다음 상점이 협곡야수로 가득 찹니다"
+        },
+        {
+          "count": "(7)",
+          "text": "전투 시작 시 및 5초마다 협곡야수가 성장하여 다음 효과를 얻습니다: 공격력 ?%, 주문력 ?%, 공격 속도 ?%, 방어력 ?, 마법 저항력 ?, 체력 ?, 마나 재생 ?"
+        },
+        {
+          "count": "(10)",
+          "text": "최대 팀 규모 +?"
+        }
+      ]
+    },
+    {
+      "section": "class-synergy",
+      "name": "기원자",
+      "icon": "Trait_Icon_18_Invoker_Large_White.png",
+      "champions": [
+        {
+          "name": "Pebbles",
+          "image": "Pebbles.jpg"
+        },
+        {
+          "name": "티모",
+          "image": "Teemo.jpg"
+        },
+        {
+          "name": "코그모",
+          "image": "KogMaw.jpg"
+        },
+        {
+          "name": "고대 파수꾼",
+          "image": "AncientSentinel.jpg"
+        },
+        {
+          "name": "모르가나",
+          "image": "Morgana.jpg"
+        }
+      ],
+      "description": "아군이 마나 재생을 얻습니다. 기원자는 마나 재생을 더 얻습니다.",
+      "effects": [
+        {
+          "count": "(2)\n마나 재생 ? | 마나 재생 ?",
+          "text": "(3)\n마나 재생 ? | 마나 재생 ?"
+        },
+        {
+          "count": "(2)",
+          "text": "마나 재생 ? | 마나 재생 ?"
+        },
+        {
+          "count": "(3)",
+          "text": "마나 재생 ? | 마나 재생 ?"
+        },
+        {
+          "count": "(4)",
+          "text": "마나 재생 ? | 마나 재생 ?"
+        },
+        {
+          "count": "(5)",
+          "text": "마나 재생 ? | 마나 재생 ?"
+        }
+      ]
+    },
+    {
+      "section": "class-synergy",
+      "name": "사냥꾼",
+      "icon": "Trait_Icon_18_Hunter_Large_White.png",
+      "champions": [
+        {
+          "name": "덩굴 묘목",
+          "image": "Cinderling.jpg"
+        },
+        {
+          "name": "케이틀린",
+          "image": "Caitlyn.jpg"
+        },
+        {
+          "name": "트리스타나",
+          "image": "Tristana.jpg"
+        },
+        {
+          "name": "시비르",
+          "image": "Sivir.jpg"
+        },
+        {
+          "name": "애쉬",
+          "image": "Ashe.jpg"
+        }
+      ],
+      "description": "사냥꾼이 공격력을 얻습니다. 사냥꾼이 ?초 동안 대상을 변경하지 않으면 피해 증폭을 ?% 얻습니다.",
+      "effects": [
+        {
+          "count": "(2)\n공격력 ?%",
+          "text": "(3)\n공격력 ?%"
+        },
+        {
+          "count": "(2)",
+          "text": "공격력 ?%"
+        },
+        {
+          "count": "(3)",
+          "text": "공격력 ?%"
+        },
+        {
+          "count": "(4)",
+          "text": "공격력 ?%"
+        },
+        {
+          "count": "(5)",
+          "text": "공격력 ?%"
+        }
+      ]
+    },
+    {
+      "section": "class-synergy",
+      "name": "선봉대",
+      "icon": "Trait_Icon_18_Vanguard_Large_White.png",
+      "champions": [
+        {
+          "name": "라칸",
+          "image": "Rakan.jpg"
+        },
+        {
+          "name": "엘리스",
+          "image": "Elise.jpg"
+        },
+        {
+          "name": "다이애나",
+          "image": "Diana.jpg"
+        },
+        {
+          "name": "헤카림",
+          "image": "Hecarim.jpg"
+        },
+        {
+          "name": "고대 파수꾼",
+          "image": "AncientSentinel.jpg"
+        },
+        {
+          "name": "타릭",
+          "image": "Taric.jpg"
+        }
+      ],
+      "description": "전투 시작 시 및 체력 ?% 아래로 떨어지면, 선봉대가 ?초 동안 최대 체력 비례 보호막을 얻습니다.",
+      "effects": [
+        {
+          "count": "(2)\n최대 체력의 ?%",
+          "text": "(4)\n최대 체력의 ?%"
+        },
+        {
+          "count": "(2)",
+          "text": "최대 체력의 ?%"
+        },
+        {
+          "count": "(4)",
+          "text": "최대 체력의 ?%"
+        },
+        {
+          "count": "(6)",
+          "text": "최대 체력의 ?%, 보호막이 씌워진 동안 내구력 ?%"
+        }
+      ]
+    },
+    {
+      "section": "class-synergy",
+      "name": "소환사",
+      "icon": "Trait_Icon_18_Summoner_Large_White.png",
+      "champions": [
+        {
+          "name": "요릭",
+          "image": "Yorick.jpg"
+        },
+        {
+          "name": "아지르",
+          "image": "Azir.jpg"
+        },
+        {
+          "name": "칼날부리",
+          "image": "Raptor.jpg"
+        },
+        {
+          "name": "자이라",
+          "image": "Zyra.jpg"
+        }
+      ],
+      "description": "소환사는 각기 다른 방식으로 자신의 소환수를 강화합니다.\n\n요릭: 체력 ?% 증가\n아지르: 피해량 ?% 증가\n랩터: 피해량 ?% 증가\n자이라: 식물 공격 횟수 ? 증가",
+      "effects": [
+        {
+          "count": "(2)\n소환수 강화",
+          "text": "(3)\n각 효과 50% 증가"
+        },
+        {
+          "count": "(2)",
+          "text": "소환수 강화"
+        },
+        {
+          "count": "(3)",
+          "text": "각 효과 50% 증가"
+        }
+      ]
+    },
+    {
+      "section": "class-synergy",
+      "name": "속사포",
+      "icon": "Trait_Icon_18_Rapidfire_Large_White.png",
+      "champions": [
+        {
+          "name": "바루스",
+          "image": "Varus.jpg"
+        },
+        {
+          "name": "자야",
+          "image": "Xayah.jpg"
+        },
+        {
+          "name": "케일",
+          "image": "Kayle.jpg"
+        },
+        {
+          "name": "칼날부리",
+          "image": "Raptor.jpg"
+        },
+        {
+          "name": "아펠리오스",
+          "image": "Aphelios.jpg"
+        }
+      ],
+      "description": "아군이 공격 속도를 ?% 얻습니다. 속사포 챔피언은 기본 공격마다 공격 속도를 더 얻습니다. (최대 ?회 중첩)",
+      "effects": [
+        {
+          "count": "(2)\n기본 공격당 공격 속도 ?%",
+          "text": "(3)\n기본 공격당 공격 속도 ?%"
+        },
+        {
+          "count": "(2)",
+          "text": "기본 공격당 공격 속도 ?%"
+        },
+        {
+          "count": "(3)",
+          "text": "기본 공격당 공격 속도 ?%"
+        },
+        {
+          "count": "(4)",
+          "text": "기본 공격당 공격 속도 ?%"
+        },
+        {
+          "count": "(5)",
+          "text": "기본 공격당 공격 속도 ?%"
+        }
+      ]
+    },
+    {
+      "section": "class-synergy",
+      "name": "싸움꾼",
+      "icon": "Trait_Icon_18_Brawler_Large_White.png",
+      "champions": [
+        {
+          "name": "코부코",
+          "image": "Kobuko.jpg"
+        },
+        {
+          "name": "렉사이",
+          "image": "RekSai.jpg"
+        },
+        {
+          "name": "알리스타",
+          "image": "Alistar.jpg"
+        },
+        {
+          "name": "돌거북",
+          "image": "Krug.jpg"
+        },
+        {
+          "name": "세트",
+          "image": "Sett.jpg"
+        },
+        {
+          "name": "나르",
+          "image": "Gnar.jpg"
+        }
+      ],
+      "description": "아군이 최대 체력을 ?% 얻습니다. 싸움꾼은 능력치를 더 얻습니다.",
+      "effects": [
+        {
+          "count": "(2)\n최대 체력 ?%",
+          "text": "(4)\n최대 체력 ?%"
+        },
+        {
+          "count": "(2)",
+          "text": "최대 체력 ?%"
+        },
+        {
+          "count": "(4)",
+          "text": "최대 체력 ?%"
+        },
+        {
+          "count": "(6)",
+          "text": "최대 체력 ?%"
+        }
+      ]
+    },
+    {
+      "section": "class-synergy",
+      "name": "약탈자",
+      "icon": "Trait_Icon_18_Ravager_Large_White.png",
+      "champions": [
+        {
+          "name": "아칼리",
+          "image": "Akali.jpg"
+        },
+        {
+          "name": "카밀",
+          "image": "Camille.jpg"
+        },
+        {
+          "name": "어스름 늑대",
+          "image": "Murkwolf.jpg"
+        },
+        {
+          "name": "워윅",
+          "image": "Warwick.jpg"
+        },
+        {
+          "name": "다이애나",
+          "image": "Diana.jpg"
+        },
+        {
+          "name": "덩굴정령",
+          "image": "Brambleback.jpg"
+        }
+      ],
+      "description": "약탈자가 모든 피해 흡혈을 ?% 얻습니다. 추가로 약탈자는 추가 피해를 입히며, 체력이 ?% 아래인 유닛에게는 두 배로 증가합니다.",
+      "effects": [
+        {
+          "count": "(2)\n추가 피해 ?%",
+          "text": "(4)\n추가 피해 ?%"
+        },
+        {
+          "count": "(2)",
+          "text": "추가 피해 ?%"
+        },
+        {
+          "count": "(4)",
+          "text": "추가 피해 ?%"
+        },
+        {
+          "count": "(6)",
+          "text": "추가 피해 ?%"
+        }
+      ]
+    },
+    {
+      "section": "class-synergy",
+      "name": "엄호대",
+      "icon": "Trait_Icon_18_Defender_Large_White.png",
+      "champions": [
+        {
+          "name": "레오나",
+          "image": "Leona.jpg"
+        },
+        {
+          "name": "오른",
+          "image": "Ornn.jpg"
+        },
+        {
+          "name": "쉔",
+          "image": "Shen.jpg"
+        },
+        {
+          "name": "피들스틱",
+          "image": "Fiddlesticks.jpg"
+        },
+        {
+          "name": "람머스",
+          "image": "Rammus.jpg"
+        },
+        {
+          "name": "릴리아",
+          "image": "Lillia.jpg"
+        }
+      ],
+      "description": "아군이 방어력 및 마법 저항력을 ? 얻습니다. 엄호대는 능력치를 더 얻습니다.",
+      "effects": [
+        {
+          "count": "(2)\n방어력 및 마법 저항력 ?",
+          "text": "(4)\n방어력 및 마법 저항력 ?"
+        },
+        {
+          "count": "(2)",
+          "text": "방어력 및 마법 저항력 ?"
+        },
+        {
+          "count": "(4)",
+          "text": "방어력 및 마법 저항력 ?"
+        },
+        {
+          "count": "(6)",
+          "text": "방어력 및 마법 저항력 ?"
+        }
+      ]
+    },
+    {
+      "section": "class-synergy",
+      "name": "적응가",
+      "icon": "Trait_Icon_18_Adaptor_Large_White.png",
+      "champions": [
+        {
+          "name": "아칼리",
+          "image": "Akali.jpg"
+        },
+        {
+          "name": "심술두꺼비",
+          "image": "Gromp.jpg"
+        },
+        {
+          "name": "코그모",
+          "image": "KogMaw.jpg"
+        },
+        {
+          "name": "마스터 이",
+          "image": "MasterYi.jpg"
+        },
+        {
+          "name": "니달리",
+          "image": "Nidalee.jpg"
+        }
+      ],
+      "description": "고유: 적응가의 스킬은 공격력과 주문력 중 더 높은 능력치에 따라 바뀝니다.\n\n적응가는 공격력과 주문력 중 더 높은 쪽의 능력치를 얻습니다.",
+      "effects": [
+        {
+          "count": "(2)\n공격력 또는 주문력 ?%",
+          "text": "(3)\n공격력 또는 주문력 ?%"
+        },
+        {
+          "count": "(2)",
+          "text": "공격력 또는 주문력 ?%"
+        },
+        {
+          "count": "(3)",
+          "text": "공격력 또는 주문력 ?%"
+        },
+        {
+          "count": "(4)",
+          "text": "공격력 또는 주문력 ?%"
+        }
+      ]
+    },
+    {
+      "section": "class-synergy",
+      "name": "전쟁기계",
+      "icon": "Trait_Icon_18_Juggernaut_Large_White.png",
+      "champions": [
+        {
+          "name": "라칸",
+          "image": "Rakan.jpg"
+        },
+        {
+          "name": "요릭",
+          "image": "Yorick.jpg"
+        },
+        {
+          "name": "바위 게",
+          "image": "Scuttlecrab.jpg"
+        },
+        {
+          "name": "세주아니",
+          "image": "Sejuani.jpg"
+        },
+        {
+          "name": "바이",
+          "image": "Vi.jpg"
+        },
+        {
+          "name": "아무무",
+          "image": "Amumu.jpg"
+        },
+        {
+          "name": "마오카이",
+          "image": "Maokai.jpg"
+        }
+      ],
+      "description": "아군이 내구력을 얻습니다. 전쟁기계는 능력치를 더 얻습니다.",
+      "effects": [
+        {
+          "count": "(2)\n내구력 ?% | 내구력 ?%",
+          "text": "(4)\n내구력 ?% | 내구력 ?%"
+        },
+        {
+          "count": "(2)",
+          "text": "내구력 ?% | 내구력 ?%"
+        },
+        {
+          "count": "(4)",
+          "text": "내구력 ?% | 내구력 ?%"
+        },
+        {
+          "count": "(6)",
+          "text": "내구력 ?% | 내구력 ?%"
+        }
+      ]
+    },
+    {
+      "section": "class-synergy",
+      "name": "주문술사",
+      "icon": "Trait_Icon_18_Spellweaver_Large_White.png",
+      "champions": [
+        {
+          "name": "카르마",
+          "image": "Karma.jpg"
+        },
+        {
+          "name": "베이가",
+          "image": "Veigar.jpg"
+        },
+        {
+          "name": "르블랑",
+          "image": "LeBlanc.jpg"
+        },
+        {
+          "name": "카시오페아",
+          "image": "Cassiopeia.jpg"
+        },
+        {
+          "name": "피들스틱",
+          "image": "Fiddlesticks.jpg"
+        },
+        {
+          "name": "아리",
+          "image": "Ahri.jpg"
+        },
+        {
+          "name": "알룬",
+          "image": "Alune.jpg"
+        }
+      ],
+      "description": "아군이 주문력을 ?% 얻습니다. 주문술사는 효과가 증가합니다. 주문술사가 스킬을 사용하면 모든 주문술사가 추가 주문력을 얻습니다.",
+      "effects": [
+        {
+          "count": "(2)\n주문력 ?%, 스킬 사용당 주문력 +?%",
+          "text": "(4)\n주문력 ?%, 스킬 사용당 주문력 +?%"
+        },
+        {
+          "count": "(2)",
+          "text": "주문력 ?%, 스킬 사용당 주문력 +?%"
+        },
+        {
+          "count": "(4)",
+          "text": "주문력 ?%, 스킬 사용당 주문력 +?%"
+        },
+        {
+          "count": "(6)",
+          "text": "주문력 ?%, 스킬 사용당 주문력 +?%"
+        }
+      ]
+    },
+    {
+      "section": "class-synergy",
+      "name": "처형자",
+      "icon": "Trait_Icon_18_Executioner_Large_White.png",
+      "champions": [
+        {
+          "name": "유나라",
+          "image": "Yunara.jpg"
+        },
+        {
+          "name": "아지르",
+          "image": "Azir.jpg"
+        },
+        {
+          "name": "이즈리얼",
+          "image": "Ezreal.jpg"
+        },
+        {
+          "name": "소라카",
+          "image": "Soraka.jpg"
+        },
+        {
+          "name": "케넨",
+          "image": "Kennen.jpg"
+        }
+      ],
+      "description": "정밀: 스킬 피해에 치명타가 적용될 수 있습니다. 추가 정밀 획득 시 치명타 피해량이 10% 증가합니다.",
+      "effects": [
+        {
+          "count": "(2)\n처형자가 치명타 확률 ?% 및 정밀을 얻습니다.",
+          "text": "(3)\n추가로 적에게 출혈을 일으켜 ?초 동안 ?%의 추가 고정 피해를 입힙니다."
+        },
+        {
+          "count": "(2)",
+          "text": "처형자가 치명타 확률 ?% 및 정밀을 얻습니다."
+        },
+        {
+          "count": "(3)",
+          "text": "추가로 적에게 출혈을 일으켜 ?초 동안 ?%의 추가 고정 피해를 입힙니다."
+        },
+        {
+          "count": "(4)",
+          "text": "출혈 피해가 ?% 증가합니다."
+        }
+      ]
+    }
+  ],
+  "champions": [
+    {
+      "stt": 1,
+      "id": "pebbles",
+      "name": "Pebbles",
+      "image": "Pebbles.jpg",
+      "splash": "T_18_Sentry_PCHighres.jpg",
+      "cost": "1",
+      "traits": [
+        "협곡야수",
+        "기원자"
+      ]
+    },
+    {
+      "stt": 2,
+      "id": "deonggul_myomog",
+      "name": "덩굴 묘목",
+      "image": "Cinderling.jpg",
+      "splash": "T_18_Cinderling_PCHighres.jpg",
+      "cost": "1",
+      "traits": [
+        "협곡야수",
+        "사냥꾼"
+      ]
+    },
+    {
+      "stt": 3,
+      "id": "rakan",
+      "name": "라칸",
+      "image": "Rakan.jpg",
+      "splash": "T_18_Rakan_PCHighres.jpg",
+      "cost": "1",
+      "traits": [
+        "요정",
+        "전쟁기계",
+        "선봉대"
+      ]
+    },
+    {
+      "stt": 4,
+      "id": "reona",
+      "name": "레오나",
+      "image": "Leona.jpg",
+      "splash": "T_18_Leona_PCHighres.jpg",
+      "cost": "1",
+      "traits": [
+        "태양",
+        "엄호대"
+      ]
+    },
+    {
+      "stt": 5,
+      "id": "regsai",
+      "name": "렉사이",
+      "image": "RekSai.jpg",
+      "splash": "T_18_Reksai_PCHighres.jpg",
+      "cost": "1",
+      "traits": [
+        "섬뜩한 힘",
+        "싸움꾼"
+      ]
+    },
+    {
+      "stt": 6,
+      "id": "baruseu",
+      "name": "바루스",
+      "image": "Varus.jpg",
+      "splash": "T_18_Varus_PCHighres.jpg",
+      "cost": "1",
+      "traits": [
+        "지옥불",
+        "속사포"
+      ]
+    },
+    {
+      "stt": 7,
+      "id": "beiga",
+      "name": "베이가",
+      "image": "Veigar.jpg",
+      "splash": "T_18_Veigar_PCHighres.jpg",
+      "cost": "1",
+      "traits": [
+        "섬뜩한 힘",
+        "날렵이",
+        "주문술사"
+      ]
+    },
+    {
+      "stt": 8,
+      "id": "akalri",
+      "name": "아칼리",
+      "image": "Akali.jpg",
+      "splash": "T_18_Akali_PCHighres.jpg",
+      "cost": "1",
+      "traits": [
+        "지옥불",
+        "적응가",
+        "약탈자"
+      ]
+    },
+    {
+      "stt": 9,
+      "id": "oreun",
+      "name": "오른",
+      "image": "Ornn.jpg",
+      "splash": "T_18_Ornn_PCHighres.jpg",
+      "cost": "1",
+      "traits": [
+        "나무정령",
+        "엄호대"
+      ]
+    },
+    {
+      "stt": 10,
+      "id": "yorig",
+      "name": "요릭",
+      "image": "Yorick.jpg",
+      "splash": "T_18_Yorick_PCHighres.jpg",
+      "cost": "1",
+      "traits": [
+        "개화",
+        "전쟁기계",
+        "소환사"
+      ]
+    },
+    {
+      "stt": 11,
+      "id": "jaya",
+      "name": "자야",
+      "image": "Xayah.jpg",
+      "splash": "T_18_Xayah_PCHighres.jpg",
+      "cost": "1",
+      "traits": [
+        "나무정령",
+        "요정",
+        "속사포"
+      ]
+    },
+    {
+      "stt": 12,
+      "id": "kareuma",
+      "name": "카르마",
+      "image": "Karma.jpg",
+      "splash": "T_18_Karma_PCHighres.jpg",
+      "cost": "1",
+      "traits": [
+        "개화",
+        "주문술사"
+      ]
+    },
+    {
+      "stt": 13,
+      "id": "kamil",
+      "name": "카밀",
+      "image": "Camille.jpg",
+      "splash": "T_18_Camille_PCHighres.jpg",
+      "cost": "1",
+      "traits": [
+        "악의 여단",
+        "약탈자"
+      ]
+    },
+    {
+      "stt": 14,
+      "id": "kobuko",
+      "name": "코부코",
+      "image": "Kobuko.jpg",
+      "splash": "T_18_Kobuko_PCHighres.jpg",
+      "cost": "1",
+      "traits": [
+        "날렵이",
+        "싸움꾼"
+      ]
+    },
+    {
+      "stt": 15,
+      "id": "reubeulrang",
+      "name": "르블랑",
+      "image": "LeBlanc.jpg",
+      "splash": "T_18_Leblanc_PCHighres.jpg",
+      "cost": "2",
+      "traits": [
+        "나무정령",
+        "주문술사"
+      ]
+    },
+    {
+      "stt": 16,
+      "id": "bawi_ge",
+      "name": "바위 게",
+      "image": "Scuttlecrab.jpg",
+      "splash": "T_18_Scuttlecrab_PCHighres.jpg",
+      "cost": "2",
+      "traits": [
+        "협곡야수",
+        "전쟁기계"
+      ]
+    },
+    {
+      "stt": 17,
+      "id": "sejuani",
+      "name": "세주아니",
+      "image": "Sejuani.jpg",
+      "splash": "T_18_Sejuani_PCHighres.jpg",
+      "cost": "2",
+      "traits": [
+        "태양",
+        "전쟁기계"
+      ]
+    },
+    {
+      "stt": 18,
+      "id": "swen",
+      "name": "쉔",
+      "image": "Shen.jpg",
+      "splash": "T_18_Shen_PCHighres.jpg",
+      "cost": "2",
+      "traits": [
+        "지옥불",
+        "엄호대"
+      ]
+    },
+    {
+      "stt": 19,
+      "id": "simsulduggeobi",
+      "name": "심술두꺼비",
+      "image": "Gromp.jpg",
+      "splash": "T_18_Gromp_PCHighres.jpg",
+      "cost": "2",
+      "traits": [
+        "협곡야수",
+        "적응가"
+      ]
+    },
+    {
+      "stt": 20,
+      "id": "alriseuta",
+      "name": "알리스타",
+      "image": "Alistar.jpg",
+      "splash": "T_18_Alistar_PCHighres.jpg",
+      "cost": "2",
+      "traits": [
+        "나무정령",
+        "싸움꾼"
+      ]
+    },
+    {
+      "stt": 21,
+      "id": "eoseureum_neugdae",
+      "name": "어스름 늑대",
+      "image": "Murkwolf.jpg",
+      "splash": "T_18_MurkWolf_PCHighres.jpg",
+      "cost": "2",
+      "traits": [
+        "협곡야수",
+        "약탈자"
+      ]
+    },
+    {
+      "stt": 22,
+      "id": "elriseu",
+      "name": "엘리스",
+      "image": "Elise.jpg",
+      "splash": "T_18_Elise_PCHighres.jpg",
+      "cost": "2",
+      "traits": [
+        "악의 여단",
+        "선봉대"
+      ]
+    },
+    {
+      "stt": 23,
+      "id": "weowig",
+      "name": "워윅",
+      "image": "Warwick.jpg",
+      "splash": "T_18_Warwick_PCHighres.jpg",
+      "cost": "2",
+      "traits": [
+        "섬뜩한 힘",
+        "약탈자"
+      ]
+    },
+    {
+      "stt": 24,
+      "id": "yunara",
+      "name": "유나라",
+      "image": "Yunara.jpg",
+      "splash": "T_18_Yunara_PCHighres.jpg",
+      "cost": "2",
+      "traits": [
+        "개화",
+        "처형자"
+      ]
+    },
+    {
+      "stt": 25,
+      "id": "keiteulrin",
+      "name": "케이틀린",
+      "image": "Caitlyn.jpg",
+      "splash": "T_18_Caitlyn_PCHighres.jpg",
+      "cost": "2",
+      "traits": [
+        "악의 여단",
+        "사냥꾼"
+      ]
+    },
+    {
+      "stt": 26,
+      "id": "keil",
+      "name": "케일",
+      "image": "Kayle.jpg",
+      "splash": "T_18_Kayle_PCHighres.jpg",
+      "cost": "2",
+      "traits": [
+        "태양",
+        "속사포"
+      ]
+    },
+    {
+      "stt": 27,
+      "id": "timo",
+      "name": "티모",
+      "image": "Teemo.jpg",
+      "splash": "T_18_Teemo_PCHighres.jpg",
+      "cost": "2",
+      "traits": [
+        "날렵이",
+        "기원자"
+      ]
+    },
+    {
+      "stt": 28,
+      "id": "daiaena",
+      "name": "다이애나",
+      "image": "Diana.jpg",
+      "splash": "T_18_Diana_PCHighres.jpg",
+      "cost": "3",
+      "traits": [
+        "달",
+        "약탈자",
+        "선봉대"
+      ]
+    },
+    {
+      "stt": 29,
+      "id": "dolgeobug",
+      "name": "돌거북",
+      "image": "Krug.jpg",
+      "splash": "T_18_Krug_PCHighres.jpg",
+      "cost": "3",
+      "traits": [
+        "협곡야수",
+        "싸움꾼"
+      ]
+    },
+    {
+      "stt": 30,
+      "id": "rammeoseu",
+      "name": "람머스",
+      "image": "Rammus.jpg",
+      "splash": "T_18_Rammus_PCHighres.jpg",
+      "cost": "3",
+      "traits": [
+        "날렵이",
+        "엄호대"
+      ]
+    },
+    {
+      "stt": 31,
+      "id": "rengga",
+      "name": "렝가",
+      "image": "Rengar.jpg",
+      "splash": "T_18_Rengar_PCHighres.jpg",
+      "cost": "3",
+      "traits": [
+        "경쟁자"
+      ]
+    },
+    {
+      "stt": 32,
+      "id": "maseuteo_i",
+      "name": "마스터 이",
+      "image": "MasterYi.jpg",
+      "splash": "T_18_MasterYi_Highres.jpg",
+      "cost": "3",
+      "traits": [
+        "개화",
+        "적응가"
+      ]
+    },
+    {
+      "stt": 33,
+      "id": "bai",
+      "name": "바이",
+      "image": "Vi.jpg",
+      "splash": "T_18_VI_PCHighres.jpg",
+      "cost": "3",
+      "traits": [
+        "태고",
+        "전쟁기계"
+      ]
+    },
+    {
+      "stt": 34,
+      "id": "ajireu",
+      "name": "아지르",
+      "image": "Azir.jpg",
+      "splash": "T_18_Azir_PCHighres.jpg",
+      "cost": "3",
+      "traits": [
+        "섬뜩한 힘",
+        "처형자",
+        "소환사"
+      ]
+    },
+    {
+      "stt": 35,
+      "id": "kasiopea",
+      "name": "카시오페아",
+      "image": "Cassiopeia.jpg",
+      "splash": "T_18_Cassiopeia_PCHighres.jpg",
+      "cost": "3",
+      "traits": [
+        "악의 여단",
+        "주문술사"
+      ]
+    },
+    {
+      "stt": 36,
+      "id": "kajigseu",
+      "name": "카직스",
+      "image": "KhaZix.jpg",
+      "splash": "T_18_Khazix_PCHighres.jpg",
+      "cost": "3",
+      "traits": [
+        "경쟁자"
+      ]
+    },
+    {
+      "stt": 37,
+      "id": "kalnalburi",
+      "name": "칼날부리",
+      "image": "Raptor.jpg",
+      "splash": "T_18_CrimsonRaptor_PCHighres.jpg",
+      "cost": "3",
+      "traits": [
+        "협곡야수",
+        "소환사",
+        "속사포"
+      ]
+    },
+    {
+      "stt": 38,
+      "id": "kogeumo",
+      "name": "코그모",
+      "image": "KogMaw.jpg",
+      "splash": "T_18_KogMaw_PCHighres.jpg",
+      "cost": "3",
+      "traits": [
+        "부식",
+        "기원자",
+        "적응가"
+      ]
+    },
+    {
+      "stt": 39,
+      "id": "teuriseutana",
+      "name": "트리스타나",
+      "image": "Tristana.jpg",
+      "splash": "T_18_Tristana_PCHighres.jpg",
+      "cost": "3",
+      "traits": [
+        "요정",
+        "날렵이",
+        "사냥꾼"
+      ]
+    },
+    {
+      "stt": 40,
+      "id": "pideulseutig",
+      "name": "피들스틱",
+      "image": "Fiddlesticks.jpg",
+      "splash": "T_18_Fiddlesticks_PCHighres.jpg",
+      "cost": "3",
+      "traits": [
+        "치명적인 꽃",
+        "엄호대",
+        "주문술사"
+      ]
+    },
+    {
+      "stt": 41,
+      "id": "hekarim",
+      "name": "헤카림",
+      "image": "Hecarim.jpg",
+      "splash": "T_18_Hecarim_PCHighres.jpg",
+      "cost": "3",
+      "traits": [
+        "나무정령",
+        "선봉대"
+      ]
+    },
+    {
+      "stt": 42,
+      "id": "godae_pasuggun",
+      "name": "고대 파수꾼",
+      "image": "AncientSentinel.jpg",
+      "splash": "T_18_Sentinel_PCHighres.jpg",
+      "cost": "4",
+      "traits": [
+        "협곡야수",
+        "선봉대",
+        "기원자"
+      ]
+    },
+    {
+      "stt": 43,
+      "id": "nidalri",
+      "name": "니달리",
+      "image": "Nidalee.jpg",
+      "splash": "T_18_Nidalee_PCHighres.jpg",
+      "cost": "4",
+      "traits": [
+        "태고",
+        "적응가"
+      ]
+    },
+    {
+      "stt": 44,
+      "id": "deongguljeongryeong",
+      "name": "덩굴정령",
+      "image": "Brambleback.jpg",
+      "splash": "T_18_Brambleback_PCHighres.jpg",
+      "cost": "4",
+      "traits": [
+        "협곡야수",
+        "약탈자"
+      ]
+    },
+    {
+      "stt": 45,
+      "id": "rilria",
+      "name": "릴리아",
+      "image": "Lillia.jpg",
+      "splash": "T_18_Lillia_PCHighres.jpg",
+      "cost": "4",
+      "traits": [
+        "요정",
+        "엄호대"
+      ]
+    },
+    {
+      "stt": 46,
+      "id": "malpaiteu",
+      "name": "말파이트",
+      "image": "Malphite.jpg",
+      "splash": "T_18_Malphite_PCHighres.jpg",
+      "cost": "4",
+      "traits": [
+        "섬뜩한 힘",
+        "거석"
+      ]
+    },
+    {
+      "stt": 47,
+      "id": "moreugana",
+      "name": "모르가나",
+      "image": "Morgana.jpg",
+      "splash": "T_18_Morgana_PCHighres.jpg",
+      "cost": "4",
+      "traits": [
+        "악의 여단",
+        "기원자"
+      ]
+    },
+    {
+      "stt": 48,
+      "id": "seteu",
+      "name": "세트",
+      "image": "Sett.jpg",
+      "splash": "T_18_Sett_PCHighres.jpg",
+      "cost": "4",
+      "traits": [
+        "개화",
+        "싸움꾼"
+      ]
+    },
+    {
+      "stt": 49,
+      "id": "soraka",
+      "name": "소라카",
+      "image": "Soraka.jpg",
+      "splash": "T_18_Soraka_PCHighres.jpg",
+      "cost": "4",
+      "traits": [
+        "치명적인 꽃",
+        "처형자"
+      ]
+    },
+    {
+      "stt": 50,
+      "id": "sibireu",
+      "name": "시비르",
+      "image": "Sivir.jpg",
+      "splash": "T_18_Sivir_PCHIghres.jpg",
+      "cost": "4",
+      "traits": [
+        "태고",
+        "사냥꾼"
+      ]
+    },
+    {
+      "stt": 51,
+      "id": "ari",
+      "name": "아리",
+      "image": "Ahri.jpg",
+      "splash": "T_18_Ahri_PCHighres.jpg",
+      "cost": "4",
+      "traits": [
+        "개화",
+        "주문술사"
+      ]
+    },
+    {
+      "stt": 52,
+      "id": "amumu",
+      "name": "아무무",
+      "image": "Amumu.jpg",
+      "splash": "T_18_Amumu_PCHighres.jpg",
+      "cost": "4",
+      "traits": [
+        "지옥불",
+        "전쟁기계"
+      ]
+    },
+    {
+      "stt": 53,
+      "id": "apelrioseu",
+      "name": "아펠리오스",
+      "image": "Aphelios.jpg",
+      "splash": "T_18_Aphelios_PChighres.jpg",
+      "cost": "4",
+      "traits": [
+        "달",
+        "속사포"
+      ]
+    },
+    {
+      "stt": 54,
+      "id": "ijeurieol",
+      "name": "이즈리얼",
+      "image": "Ezreal.jpg",
+      "splash": "T_18_Ezreal_PCHighres.jpg",
+      "cost": "4",
+      "traits": [
+        "나무정령",
+        "처형자"
+      ]
+    },
+    {
+      "stt": 55,
+      "id": "jaira",
+      "name": "자이라",
+      "image": "Zyra.jpg",
+      "splash": "T_18_Zyra_PCHighres.jpg",
+      "cost": "4",
+      "traits": [
+        "가시 여인",
+        "소환사"
+      ]
+    },
+    {
+      "stt": 56,
+      "id": "nareu",
+      "name": "나르",
+      "image": "Gnar.jpg",
+      "splash": "T_18_Gnar_PCHighres.jpg",
+      "cost": "5",
+      "traits": [
+        "나무정령",
+        "날렵이",
+        "싸움꾼"
+      ]
+    },
+    {
+      "stt": 57,
+      "id": "deureibeun",
+      "name": "드레이븐",
+      "image": "Draven.jpg",
+      "splash": "T_18_Draven_PCHighres.jpg",
+      "cost": "5",
+      "traits": [
+        "현상금 사냥꾼"
+      ]
+    },
+    {
+      "stt": 58,
+      "id": "reogseu_(gaehwa)",
+      "name": "럭스 (개화)",
+      "image": "LuxBlossom.jpg",
+      "splash": "T_18_Lux_Blossom_PCHighres.jpg",
+      "cost": "5",
+      "traits": [
+        "개화",
+        "아바타"
+      ]
+    },
+    {
+      "stt": 59,
+      "id": "reogseu_(namujeongryeong)",
+      "name": "럭스 (나무정령)",
+      "image": "LuxElderwood.jpg",
+      "splash": "T_18_Lux_Elderwood_PCHighres.jpg",
+      "cost": "5",
+      "traits": [
+        "나무정령",
+        "아바타"
+      ]
+    },
+    {
+      "stt": 60,
+      "id": "reogseu_(dal)",
+      "name": "럭스 (달)",
+      "image": "LuxLunar.jpg",
+      "splash": "T_18_Lux_Moonbeam_PCHighres.jpg",
+      "cost": "5",
+      "traits": [
+        "달",
+        "아바타"
+      ]
+    },
+    {
+      "stt": 61,
+      "id": "reogseu_(seomddeughan_him)",
+      "name": "럭스 (섬뜩한 힘)",
+      "image": "LuxEldritch.jpg",
+      "splash": "T_18_Lux_Blacktorn_PCHighres.jpg",
+      "cost": "5",
+      "traits": [
+        "섬뜩한 힘",
+        "아바타"
+      ]
+    },
+    {
+      "stt": 62,
+      "id": "reogseu_(agyi_yeodan)",
+      "name": "럭스 (악의 여단)",
+      "image": "LuxCoven.jpg",
+      "splash": "T_18_Lux_Coven_PCHighres.jpg",
+      "cost": "5",
+      "traits": [
+        "악의 여단",
+        "아바타"
+      ]
+    },
+    {
+      "stt": 63,
+      "id": "reogseu_(yojeong)",
+      "name": "럭스 (요정)",
+      "image": "LuxFae.jpg",
+      "splash": "T_18_Lux_Fae_PCHighres.jpg",
+      "cost": "5",
+      "traits": [
+        "요정",
+        "아바타"
+      ]
+    },
+    {
+      "stt": 64,
+      "id": "reogseu_(jiogbul)",
+      "name": "럭스 (지옥불)",
+      "image": "LuxInferno.jpg",
+      "splash": "T_18_Lux_Inferno_PCHighres.jpg",
+      "cost": "5",
+      "traits": [
+        "지옥불",
+        "아바타"
+      ]
+    },
+    {
+      "stt": 65,
+      "id": "reogseu_(taego)",
+      "name": "럭스 (태고)",
+      "image": "LuxPrimal.jpg",
+      "splash": "T_18_Lux_Primal_PCHighres.jpg",
+      "cost": "5",
+      "traits": [
+        "태고",
+        "아바타"
+      ]
+    },
+    {
+      "stt": 66,
+      "id": "reogseu_(taeyang)",
+      "name": "럭스 (태양)",
+      "image": "LuxSolar.jpg",
+      "splash": "T_18_Lux_Sunbeam_PCHighres.jpg",
+      "cost": "5",
+      "traits": [
+        "태양",
+        "아바타"
+      ]
+    },
+    {
+      "stt": 67,
+      "id": "maokai",
+      "name": "마오카이",
+      "image": "Maokai.jpg",
+      "splash": "T_18_Maokai_PCHighres.jpg",
+      "cost": "5",
+      "traits": [
+        "고목",
+        "전쟁기계"
+      ]
+    },
+    {
+      "stt": 68,
+      "id": "aibeon",
+      "name": "아이번",
+      "image": "Ivern.jpg",
+      "splash": "T_18_Ivern_PCHighres.jpg",
+      "cost": "5",
+      "traits": [
+        "자연의 아버지"
+      ]
+    },
+    {
+      "stt": 69,
+      "id": "alrun",
+      "name": "알룬",
+      "image": "Alune.jpg",
+      "splash": "T_18_Alune_PCHighres.jpg",
+      "cost": "5",
+      "traits": [
+        "교감",
+        "달",
+        "주문술사"
+      ]
+    },
+    {
+      "stt": 70,
+      "id": "aeswi",
+      "name": "애쉬",
+      "image": "Ashe.jpg",
+      "splash": "T_18_Ashe_PCHighres.jpg",
+      "cost": "5",
+      "traits": [
+        "개화",
+        "사냥꾼"
+      ]
+    },
+    {
+      "stt": 71,
+      "id": "jangro_deuraegon",
+      "name": "장로 드래곤",
+      "image": "TheElderDragon.jpg",
+      "splash": "T_18_Elder_Dragon_PCHighres.jpg",
+      "cost": "5",
+      "traits": [
+        "협곡야수",
+        "최상위 포식자"
+      ]
+    },
+    {
+      "stt": 72,
+      "id": "kenen",
+      "name": "케넨",
+      "image": "Kennen.jpg",
+      "splash": "T_18_Kennen_PCHighres.jpg",
+      "cost": "5",
+      "traits": [
+        "지옥불",
+        "처형자"
+      ]
+    },
+    {
+      "stt": 73,
+      "id": "tarig",
+      "name": "타릭",
+      "image": "Taric.jpg",
+      "splash": "T_18_Taric_PCHighres.jpg",
+      "cost": "5",
+      "traits": [
+        "에메랄드 위상",
+        "선봉대"
+      ]
+    }
+  ],
+  "augments": [
+    {
+      "stt": 1,
+      "id": "saerogocimyi_nal",
+      "name": "새로고침의 날",
+      "image": "tier-silver.png",
+      "tier": "silver",
+      "description": "무료 상점 새로고침을 ?회 얻습니다."
+    },
+    {
+      "stt": 2,
+      "id": "jabon_ideug_i",
+      "name": "자본 이득 I",
+      "image": "tier-silver.png",
+      "tier": "silver",
+      "description": "획득하는 이자의 ?%에 해당하는 골드를 저장합니다. ?-? 라운드에 도달하면 저장된 골드를 모두 획득합니다. 즉시 ? 골드를 획득합니다."
+    },
+    {
+      "stt": 3,
+      "id": "caempieon_baedal",
+      "name": "챔피언 배달",
+      "image": "tier-silver.png",
+      "tier": "silver",
+      "description": "?명의 ?단계 챔피언을 획득합니다. ? 라운드 후 추가로 ?명 더 획득합니다."
+    },
+    {
+      "stt": 4,
+      "id": "caempieon_baedal_+",
+      "name": "챔피언 배달 +",
+      "image": "tier-silver.png",
+      "tier": "silver",
+      "description": "?명의 ?단계 챔피언을 획득합니다. ? 라운드 후 추가로 ?명 더 획득합니다."
+    },
+    {
+      "stt": 5,
+      "id": "caempieon_baedal_++",
+      "name": "챔피언 배달 ++",
+      "image": "tier-silver.png",
+      "tier": "silver",
+      "description": "?명의 ?단계 챔피언을 획득합니다. ? 라운드 후 추가로 ?명 더 획득합니다."
+    },
+    {
+      "stt": 6,
+      "id": "bulggoc_jeomhwa",
+      "name": "불꽃 점화",
+      "image": "tier-silver.png",
+      "tier": "silver",
+      "description": "지난 전투에서 가장 많은 피해를 입힌 지옥불 챔피언이 불타올라 공격 속도를 ?% 만큼 얻습니다. 바루스와 아칼리를 획득합니다."
+    },
+    {
+      "stt": 7,
+      "id": "mirae_jihyang",
+      "name": "미래 지향",
+      "image": "tier-silver.png",
+      "tier": "silver",
+      "description": "아군 전략가가 체력을 ?만큼 잃지만, 플레이어 대상 전투를 ?회 치른 후 ?명의 4단계 챔피언과 ? 골드를 획득합니다."
+    },
+    {
+      "stt": 8,
+      "id": "sagi_jusawi",
+      "name": "사기 주사위",
+      "image": "tier-silver.png",
+      "tier": "silver",
+      "description": "주사위를 굴리면 항상 6이 나오고 동전을 던지면 항상 앞면이 나옵니다.\n\n주사위를 굴려 나온 숫자만큼 골드를 획득합니다. 이후 동전을 던져 앞면이 나오면 ? 골드를 획득합니다."
+    },
+    {
+      "stt": 9,
+      "id": "bbareun_yeonseung/yeonpae",
+      "name": "빠른 연승/연패",
+      "image": "tier-silver.png",
+      "tier": "silver",
+      "description": "연승 및 연패 횟수를 두 배로 얻습니다. ? 골드를 획득합니다."
+    },
+    {
+      "stt": 10,
+      "id": "janryu_mabeob",
+      "name": "잔류 마법",
+      "image": "tier-silver.png",
+      "tier": "silver",
+      "description": "아군이 체력을 ?만큼 얻습니다. 수호령을 구매할 때마다 이 효과가 ? 만큼 증가합니다."
+    },
+    {
+      "stt": 11,
+      "id": "janryu_mabeob_+",
+      "name": "잔류 마법 +",
+      "image": "tier-silver.png",
+      "tier": "silver",
+      "description": "아군이 체력을 ?만큼 얻습니다. 수호령을 구매할 때마다 이 효과가 ? 만큼 증가합니다."
+    },
+    {
+      "stt": 12,
+      "id": "janryu_mabeob_++",
+      "name": "잔류 마법 ++",
+      "image": "tier-silver.png",
+      "tier": "silver",
+      "description": "아군이 체력을 ?만큼 얻습니다. 수호령을 구매할 때마다 이 효과가 ? 만큼 증가합니다."
+    },
+    {
+      "stt": 13,
+      "id": "sujig_sangseung_i",
+      "name": "수직 상승 I",
+      "image": "tier-silver.png",
+      "tier": "silver",
+      "description": "챔피언이 자신과 특성을 공유하는 아군 한 명당 ?% 공격력, ?% 주문력, ? 방어력, ? 마법 저항력을 얻습니다."
+    },
+    {
+      "stt": 14,
+      "id": "gaciyi_muge",
+      "name": "가치의 무게",
+      "image": "tier-silver.png",
+      "tier": "silver",
+      "description": "챔피언을 3성으로 업그레이드할 때마다, 게임이 끝날 때까지 라운드마다 해당 유닛의 복사본을 획득합니다. 하급 챔피언 복제기를 획득합니다."
+    },
+    {
+      "stt": 15,
+      "id": "suhoryeong_hwangeub",
+      "name": "수호령 환급",
+      "image": "tier-silver.png",
+      "tier": "silver",
+      "description": "수호령을 구매할 때마다 ? 골드를 획득합니다. 즉시 ? 골드를 획득합니다."
+    },
+    {
+      "stt": 16,
+      "id": "suhoryeong_hwangeub_+",
+      "name": "수호령 환급 +",
+      "image": "tier-silver.png",
+      "tier": "silver",
+      "description": "수호령을 구매할 때마다 ? 골드를 획득합니다. 즉시 ? 골드를 획득합니다."
+    },
+    {
+      "stt": 17,
+      "id": "saibeonetig_isigsul_ii",
+      "name": "사이버네틱 이식술 II",
+      "image": "tier-gold.png",
+      "tier": "gold",
+      "description": "아이템을 장착한 아군 챔피언이 ? 체력과 ?% 공격력을 얻습니다."
+    },
+    {
+      "stt": 18,
+      "id": "saibeonetig_tongsin_ii",
+      "name": "사이버네틱 통신 II",
+      "image": "tier-gold.png",
+      "tier": "gold",
+      "description": "아이템을 장착한 아군 챔피언이 ? 체력과 ? 마나 재생을 얻습니다. 여신의 눈물을 획득합니다."
+    },
+    {
+      "stt": 19,
+      "id": "naemyeonyi_yasu",
+      "name": "내면의 야수",
+      "image": "tier-gold.png",
+      "tier": "gold",
+      "description": "태고 특성이 축복을 1개 추가로 부여합니다. 바이를 획득합니다."
+    },
+    {
+      "stt": 20,
+      "id": "ggocyi_bureum",
+      "name": "꽃의 부름",
+      "image": "tier-gold.png",
+      "tier": "gold",
+      "description": "수호령을 구매하면, 수호령의 비용에 따라 무작위 개화 챔피언을 획득합니다. 개화 챔피언 3명을 획득합니다."
+    },
+    {
+      "stt": 21,
+      "id": "cuga_seonmul",
+      "name": "추가 선물",
+      "image": "tier-gold.png",
+      "tier": "gold",
+      "description": "전리품 구를 열 때마다 ?% 확률로 회색 전리품 구를 획득합니다. ?개의 회색 전리품 구를 획득합니다."
+    },
+    {
+      "stt": 22,
+      "id": "cuga_seonmul_+",
+      "name": "추가 선물 +",
+      "image": "tier-gold.png",
+      "tier": "gold",
+      "description": "전리품 구를 열 때마다 ?% 확률로 회색 전리품 구를 획득합니다. ?개의 회색 전리품 구를 획득합니다."
+    },
+    {
+      "stt": 23,
+      "id": "jabon_ideug_ii",
+      "name": "자본 이득 II",
+      "image": "tier-gold.png",
+      "tier": "gold",
+      "description": "획득하는 이자의 ?%에 해당하는 골드를 저장합니다. ?-? 라운드에 도달하면 저장된 골드를 모두 획득합니다. 즉시 ? 골드를 획득합니다."
+    },
+    {
+      "stt": 24,
+      "id": "taeyangege_seontaegbadeun_ja",
+      "name": "태양에게 선택받은 자",
+      "image": "tier-gold.png",
+      "tier": "gold",
+      "description": "레오나, 케일, 세주아니를 획득합니다. 라운드마다 레오나가 영구적으로 최대 체력을 ?만큼 얻으며, 배치한 고유 3성 챔피언 한 명당 ?만큼 증가합니다."
+    },
+    {
+      "stt": 25,
+      "id": "jibeosamkineun_ggoc",
+      "name": "집어삼키는 꽃",
+      "image": "tier-gold.png",
+      "tier": "gold",
+      "description": "치명적인 꽃 상징 1개를 획득합니다. 상징을 장착한 챔피언은 치명적인 꽃 특성 효과를 두 배로 얻고 ? 마나 재생을 얻습니다."
+    },
+    {
+      "stt": 26,
+      "id": "agyi_yeodan_sindo",
+      "name": "악의 여단 신도",
+      "image": "tier-gold.png",
+      "tier": "gold",
+      "description": "악의 여단 정수를 계속 모으기로 선택하면 플레이어 체력을 ?만큼 회복합니다. 카밀, 엘리스, 케이틀린을 획득합니다."
+    },
+    {
+      "stt": 27,
+      "id": "eodumyi_yisig",
+      "name": "어둠의 의식",
+      "image": "tier-gold.png",
+      "tier": "gold",
+      "description": "악의 여단 정수를 보상으로 전환할 때 전리품 대신 악의 여단 챔피언에게 주문력을 부여합니다. 카밀, 엘리스, 케이틀린을 획득합니다."
+    },
+    {
+      "stt": 28,
+      "id": "geodaehwa",
+      "name": "거대화",
+      "image": "tier-gold.png",
+      "tier": "gold",
+      "description": "아군 요정 픽시가 더 커지고 공격력과 주문력을 ?% 만큼 더 많이 부여합니다. 자야와 라칸을 획득합니다."
+    },
+    {
+      "stt": 29,
+      "id": "fourcing",
+      "name": "FOURcing",
+      "image": "tier-gold.png",
+      "tier": "gold",
+      "description": "무작위 4단계 챔피언 1명을 획득합니다. 해당 챔피언이 장착한 아이템 하나당 아군이 체력을 ?만큼 얻습니다."
+    },
+    {
+      "stt": 30,
+      "id": "aitem_cucul",
+      "name": "아이템 추출",
+      "image": "tier-gold.png",
+      "tier": "gold",
+      "description": "처음으로 섬뜩한 힘 칸에서 챔피언을 ?회 제물로 바치면 해당 챔피언이 장착 중인 무작위 조합 아이템의 복사본을 획득합니다. 베이가, 렉사이, ?개의 아이템 제거기를 획득합니다."
+    },
+    {
+      "stt": 31,
+      "id": "jeonggeul_dongseon",
+      "name": "정글 동선",
+      "image": "tier-gold.png",
+      "tier": "gold",
+      "description": "Pebbles, 잿불 정령, 바위게, 어스름 늑대를 획득합니다. 레벨 업할 때마다 새로운 협곡야수와 ? 골드를 획득합니다."
+    },
+    {
+      "stt": 32,
+      "id": "dondog+",
+      "name": "돈독+",
+      "image": "tier-gold.png",
+      "tier": "gold",
+      "description": "즉시 ? 골드를 획득하고, 이후 매 스테이지 시작 시 ? 골드를 획득합니다. 골드를 획득하면 전략가 크기가 커집니다."
+    },
+    {
+      "stt": 33,
+      "id": "jayeonyi_ansigceo",
+      "name": "자연의 안식처",
+      "image": "tier-gold.png",
+      "tier": "gold",
+      "description": "나무정령 식물에 인접한 상태로 전투를 시작하는 챔피언이 ?% 공격 속도를 얻고 ? 초마다 최대 체력의 ?%를 회복합니다. 나무정령 챔피언 3명을 획득합니다."
+    },
+    {
+      "stt": 34,
+      "id": "omega_hyeobgogyasu",
+      "name": "오메가 협곡야수",
+      "image": "tier-gold.png",
+      "tier": "gold",
+      "description": "이제 두 번째 우두머리 협곡야수를 선택할 수 있습니다. 협곡야수 3마리를 획득합니다."
+    },
+    {
+      "stt": 35,
+      "id": "myeondokalyi_nal",
+      "name": "면도칼의 날",
+      "image": "tier-gold.png",
+      "tier": "gold",
+      "description": "2단계 2성 챔피언 1명과 아이템 제거기 ?개를 획득합니다. 플레이어 대상 전투에서 승리한 후 아이템 대기석에 있는 조합 아이템 1개당 ? 골드를 획득합니다."
+    },
+    {
+      "stt": 36,
+      "id": "jageun_teolbugsungi_cingu",
+      "name": "작은 털북숭이 친구",
+      "image": "tier-gold.png",
+      "tier": "gold",
+      "description": "날렵이 특성이 활성화되어 있는 동안 ?%의 위력을 지닌 두 번째 커다란 털복숭이 친구 소환수를 얻습니다. 날렵이 챔피언 3명을 획득합니다."
+    },
+    {
+      "stt": 37,
+      "id": "taeyanggwa_dal",
+      "name": "태양과 달",
+      "image": "tier-gold.png",
+      "tier": "gold",
+      "description": "아군 달 챔피언이 배치한 고유 태양 챔피언 1명당 ? 체력 및 ?% 피해 증폭을 얻습니다. 2성 레오나, 케일, 아펠리오스를 획득합니다."
+    },
+    {
+      "stt": 38,
+      "id": "sujig_sangseung_ii",
+      "name": "수직 상승 II",
+      "image": "tier-gold.png",
+      "tier": "gold",
+      "description": "챔피언이 자신과 특성을 공유하는 아군 한 명당 ?% 공격력, ?% 주문력, ? 방어력, ? 마법 저항력을 얻습니다."
+    },
+    {
+      "stt": 39,
+      "id": "pamudhin_bomul_iii",
+      "name": "파묻힌 보물 III",
+      "image": "tier-prism.png",
+      "tier": "prism",
+      "description": "즉시 및 다음 ? 라운드 시작 시 무작위 조합 아이템 1개를 획득합니다."
+    },
+    {
+      "stt": 40,
+      "id": "johab_aitem_immu",
+      "name": "조합 아이템 임무",
+      "image": "tier-prism.png",
+      "tier": "prism",
+      "description": "무작위 조합 아이템과 ? 골드를 획득합니다. 다음 7번의 플레이어 대상 전투 승리 시마다 매번 다른 무작위 조합 아이템을 획득합니다. 이후 뒤집개를 획득합니다."
+    },
+    {
+      "stt": 41,
+      "id": "moru_sog_moru",
+      "name": "모루 속 모루",
+      "image": "tier-prism.png",
+      "tier": "prism",
+      "description": "유물 모루를 획득합니다. 해당 모루를 열면 완성 아이템 모루를 획득합니다. 해당 모루를 열면 조합 아이템 모루를 획득합니다. 해당 모루를 열면 ? 골드를 획득합니다."
+    },
+    {
+      "stt": 42,
+      "id": "moru_sog_moru_+",
+      "name": "모루 속 모루 +",
+      "image": "tier-prism.png",
+      "tier": "prism",
+      "description": "유물 모루를 획득합니다. 해당 모루를 열면 완성 아이템 모루를 획득합니다. 해당 모루를 열면 조합 아이템 모루를 획득합니다. 해당 모루를 열면 ? 골드를 획득합니다."
+    },
+    {
+      "stt": 43,
+      "id": "mateuryosika",
+      "name": "마트료시카",
+      "image": "tier-prism.png",
+      "tier": "prism",
+      "description": "전투에서 챔피언이 사망하면 별 레벨이 하나 낮고 ?%의 체력을 지닌 해당 챔피언의 복사본을 소환합니다. 무료 새로고침을 ?회 얻습니다"
+    },
+    {
+      "stt": 44,
+      "id": "byeol_rebel_olrigi",
+      "name": "별 레벨 올리기",
+      "image": "tier-prism.png",
+      "tier": "prism",
+      "description": "?명의 챔피언을 3성으로 만들면 ? 레벨이 됩니다. 즉시 및 매 라운드 시작 시 ?회의 새로고침을 얻습니다."
+    },
+    {
+      "stt": 45,
+      "id": "teugseong_dangye",
+      "name": "특성 단계",
+      "image": "tier-prism.png",
+      "tier": "prism",
+      "description": "무작위 상징 1개를 획득합니다. 플레이어 대상 전투에서 고유 특성이 아닌 특성을 ?개 배치하면 보상을 획득합니다. 이후 필요한 특성 수와 보상의 크기가 증가합니다."
+    },
+    {
+      "stt": 46,
+      "id": "sujig_sangseung_iii",
+      "name": "수직 상승 III",
+      "image": "tier-prism.png",
+      "tier": "prism",
+      "description": "챔피언이 자신과 특성을 공유하는 아군 한 명당 ?% 공격력, ?% 주문력, ? 방어력, ? 마법 저항력을 얻습니다."
+    },
+    {
+      "stt": 47,
+      "id": "myeongsasu",
+      "name": "명사수",
+      "image": "Deadeye.png",
+      "tier": "",
+      "description": ""
+    },
+    {
+      "stt": 48,
+      "id": "segye_run",
+      "name": "세계 룬",
+      "image": "World-Runes.png",
+      "tier": "",
+      "description": ""
+    }
+  ],
+  "items": [
+    {
+      "stt": 1,
+      "id": "yojeong_sangjing",
+      "name": "요정 상징",
+      "image": "Trait_Icon_18_Fae_Large_Black.png",
+      "description": "요정 특성을 획득합니다."
+    },
+    {
+      "stt": 2,
+      "id": "sanyangggun_sangjing",
+      "name": "사냥꾼 상징",
+      "image": "Trait_Icon_18_Hunter_Large_Black.png",
+      "description": "사냥꾼 특성을 획득합니다."
+    },
+    {
+      "stt": 3,
+      "id": "jiogbul_sangjing",
+      "name": "지옥불 상징",
+      "image": "Trait_Icon_18_Inferno_Large_Black.png",
+      "description": "지옥불 특성을 획득합니다."
+    },
+    {
+      "stt": 4,
+      "id": "sogsapo_sangjing",
+      "name": "속사포 상징",
+      "image": "Trait_Icon_18_Rapidfire_Large_Black.png",
+      "description": "속사포 특성을 획득합니다."
+    },
+    {
+      "stt": 5,
+      "id": "namujeongryeong_sangjing",
+      "name": "나무정령 상징",
+      "image": "Trait_Icon_18_Elderwood_Large_Black.png",
+      "description": "나무정령 특성을 획득합니다."
+    },
+    {
+      "stt": 6,
+      "id": "yagtalja_sangjing",
+      "name": "약탈자 상징",
+      "image": "Trait_Icon_18_Ravager_Large_Black.png",
+      "description": "약탈자 특성을 획득합니다."
+    },
+    {
+      "stt": 7,
+      "id": "nalryeobi_sangjing",
+      "name": "날렵이 상징",
+      "image": "Trait_Icon_18_Sprykin_Large_Black.png",
+      "description": "날렵이 특성을 획득합니다."
+    },
+    {
+      "stt": 8,
+      "id": "seonbongdae_sangjing",
+      "name": "선봉대 상징",
+      "image": "Trait_Icon_18_Vanguard_Large_Black.png",
+      "description": "선봉대 특성을 획득합니다."
+    },
+    {
+      "stt": 9,
+      "id": "gaehwa_sangjing",
+      "name": "개화 상징",
+      "image": "Trait_Icon_18_Blossom_Large_Black.png",
+      "description": "개화 특성을 획득합니다."
+    },
+    {
+      "stt": 10,
+      "id": "jumunsulsa_sangjing",
+      "name": "주문술사 상징",
+      "image": "Trait_Icon_18_Spellweaver_Large_Black.png",
+      "description": "주문술사 특성을 획득합니다."
+    },
+    {
+      "stt": 11,
+      "id": "giweonja_sangjing",
+      "name": "기원자 상징",
+      "image": "Trait_Icon_18_Invoker_Large_Black.png",
+      "description": "기원자 특성을 획득합니다."
+    },
+    {
+      "stt": 12,
+      "id": "dal_sangjing",
+      "name": "달 상징",
+      "image": "Trait_Icon_18_Lunar_Large_Black.png",
+      "description": "달 특성을 획득합니다."
+    },
+    {
+      "stt": 13,
+      "id": "ssaumggun_sangjing",
+      "name": "싸움꾼 상징",
+      "image": "Trait_Icon_18_Brawler_Large_Black.png",
+      "description": "싸움꾼 특성을 획득합니다."
+    },
+    {
+      "stt": 14,
+      "id": "seomddeughan_him_sangjing",
+      "name": "섬뜩한 힘 상징",
+      "image": "Trait_Icon_18_Eldritch_Large_Black.png",
+      "description": "섬뜩한 힘 특성을 획득합니다."
+    },
+    {
+      "stt": 15,
+      "id": "ceohyeongja_sangjing",
+      "name": "처형자 상징",
+      "image": "Trait_Icon_18_Executioner_Large_Black.png",
+      "description": "처형자 특성을 획득합니다."
+    },
+    {
+      "stt": 16,
+      "id": "taego_sangjing",
+      "name": "태고 상징",
+      "image": "Trait_Icon_18_Primal_Large_Black.png",
+      "description": "태고 특성을 획득합니다."
+    }
+  ]
+}

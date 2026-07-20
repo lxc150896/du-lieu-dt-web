@@ -1,0 +1,1460 @@
+{
+  "title": "수호령",
+  "description": "수호령은 주술에서 얻은 교훈을 바탕으로 신비의 숲에 맞게 새롭게 다듬어진 일회성 상점 효과입니다.",
+  "info": [
+    {
+      "title": "등장 타이밍",
+      "description": "수호령은 준비 단계에 격 라운드마다 상점 가장 오른쪽 슬롯에 등장하며, 준비 단계에서만 구매할 수 있습니다."
+    },
+    {
+      "title": "라운드당 1개",
+      "description": "라운드마다 최대 1개까지 구매할 수 있습니다. 구매하지 않으면 준비 단계가 끝난 뒤 수호령 뒤에 가려진 유닛이 공개됩니다."
+    },
+    {
+      "title": "7가지 유형",
+      "description": "수호령은 챔피언, 전투, 기타, 상점, 골드/XP, 위험, 아이템 유형으로 나뉘며 색상으로 빠르게 구분할 수 있습니다."
+    },
+    {
+      "title": "후반 전투 수호령",
+      "description": "게임이 진행될수록 수호령은 더 강력해지고 비싸집니다. 스테이지 5 이후에는 격번마다 전투 수호령이 등장합니다."
+    }
+  ],
+  "all_wisps_title": "",
+  "all_wisps_description": "",
+  "categories": [
+    {
+      "name": "전체",
+      "count": 200
+    },
+    {
+      "name": "챔피언",
+      "count": 16
+    },
+    {
+      "name": "전투",
+      "count": 94
+    },
+    {
+      "name": "상점",
+      "count": 19
+    },
+    {
+      "name": "골드/XP",
+      "count": 14
+    },
+    {
+      "name": "리스크",
+      "count": 21
+    },
+    {
+      "name": "아이템",
+      "count": 6
+    },
+    {
+      "name": "기타",
+      "count": 30
+    }
+  ],
+  "wisps": [
+    {
+      "name": "그랜드마스터",
+      "image": "creatures.png",
+      "category": "챔피언",
+      "cost": "",
+      "description": "무작위 5단계 2성 챔피언 1명을 획득합니다."
+    },
+    {
+      "name": "길 잃은 여행자들",
+      "image": "creatures.png",
+      "category": "챔피언",
+      "cost": "",
+      "description": "총 3골드 가치의 무작위 챔피언을 획득합니다."
+    },
+    {
+      "name": "꼬마 출전",
+      "image": "creatures.png",
+      "category": "챔피언",
+      "cost": "",
+      "description": "전장에 배치한 서로 다른 1단계 챔피언 하나당 소형 챔피언 복제기를 획득합니다."
+    },
+    {
+      "name": "대형 화기",
+      "image": "creatures.png",
+      "category": "챔피언",
+      "cost": "",
+      "description": "무작위 4단계 1성 챔피언 2명을 획득합니다."
+    },
+    {
+      "name": "세 명의 나",
+      "image": "creatures.png",
+      "category": "챔피언",
+      "cost": "",
+      "description": "무작위 3단계 2성 챔피언 1명을 획득합니다."
+    },
+    {
+      "name": "세포 분열",
+      "image": "creatures.png",
+      "category": "챔피언",
+      "cost": "",
+      "description": "소형 챔피언 복제기를 획득합니다."
+    },
+    {
+      "name": "수습생",
+      "image": "creatures.png",
+      "category": "챔피언",
+      "cost": "",
+      "description": "무작위 1단계 2성 챔피언 1명을 획득합니다."
+    },
+    {
+      "name": "숙련공",
+      "image": "creatures.png",
+      "category": "챔피언",
+      "cost": "",
+      "description": "무작위 2단계 2성 챔피언 1명을 획득합니다."
+    },
+    {
+      "name": "숲의 쌍둥이",
+      "image": "creatures.png",
+      "category": "챔피언",
+      "cost": "",
+      "description": "보유하지 않은 2단계 챔피언 2명을 획득합니다."
+    },
+    {
+      "name": "숲의 인도자",
+      "image": "creatures.png",
+      "category": "챔피언",
+      "cost": "",
+      "description": "무작위 4단계 챔피언 1명을 획득합니다."
+    },
+    {
+      "name": "예언의 영웅",
+      "image": "creatures.png",
+      "category": "챔피언",
+      "cost": "",
+      "description": "매 라운드 동일한 무작위 5단계 챔피언의 복사본을 1명 획득합니다."
+    },
+    {
+      "name": "장로 회의",
+      "image": "creatures.png",
+      "category": "챔피언",
+      "cost": "",
+      "description": "모든 5단계 챔피언을 1명씩 획득합니다."
+    },
+    {
+      "name": "증식",
+      "image": "creatures.png",
+      "category": "챔피언",
+      "cost": "",
+      "description": "처음으로 사망하는 아군 챔피언의 복사본 1명을 획득합니다."
+    },
+    {
+      "name": "치열한 경쟁",
+      "image": "creatures.png",
+      "category": "챔피언",
+      "cost": "",
+      "description": "렝가 또는 카직스를 획득합니다. 해당 챔피언이 처치 관여 3회를 얻습니다."
+    },
+    {
+      "name": "태양의 선물",
+      "image": "creatures.png",
+      "category": "챔피언",
+      "cost": "",
+      "description": "레오나, 세주아니, 케일을 획득합니다."
+    },
+    {
+      "name": "Smurfing",
+      "image": "creatures.png",
+      "category": "챔피언",
+      "cost": "",
+      "description": "무작위 5단계 챔피언 1명을 획득합니다."
+    },
+    {
+      "name": "가속",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "스킬 사용 시 아군 챔피언이 3초 동안 공격 속도를 25% 얻습니다."
+    },
+    {
+      "name": "가시 감싸기",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "아군 탱커가 4초마다 받은 피해의 12%만큼 인접한 적에게 반사합니다."
+    },
+    {
+      "name": "간식 시간!",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "커다란 털복숭이 친구는 자신이 피해를 입힌 최대 체력 10% 아래의 적을 잡아먹습니다."
+    },
+    {
+      "name": "강철 코어",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "전방 가로 1열 중앙에 있는 아군 챔피언이 전방 가로 1열에 배치된 유닛 하나당 최대 체력을 4% 얻습니다."
+    },
+    {
+      "name": "거대한 성장",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "체력이 가장 높은 아군 챔피언이 체력을 600 얻고 크기가 커집니다."
+    },
+    {
+      "name": "거대화",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "체력이 가장 높은 아군 유닛의 몸집이 커져 체력을 350 얻습니다."
+    },
+    {
+      "name": "거북이의 방문",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "이번 전투 동안 거북이의 태고 버프를 획득합니다."
+    },
+    {
+      "name": "거인의 오라",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "체력이 가장 높은 아군이 초당 최대 체력의 2%에 해당하는 피해를 주변 적에 입힙니다."
+    },
+    {
+      "name": "고독의 망토",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "인접한 아군이 없는 챔피언이 최대 체력을 10%, 피해 증폭을 10% 얻습니다."
+    },
+    {
+      "name": "고물 모으기",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "아이템을 장착하지 않은 챔피언 2명이 임시 추천 아이템을 획득합니다."
+    },
+    {
+      "name": "광란의 살육",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "전사가 체력이 10% 아래인 대상을 처형합니다. 적을 처치하면 공격 속도를 15% 얻습니다."
+    },
+    {
+      "name": "극한의 초월",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "25초 후, 아군이 피해 증폭을 300% 얻습니다."
+    },
+    {
+      "name": "나무 위의 궁수",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "궁수들이 나무 위에서 화살을 발사해 3초마다 500의 물리 피해를 입힙니다."
+    },
+    {
+      "name": "나무껍질 갑옷",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "아군 챔피언이 10초 동안 150의 보호막을 얻습니다."
+    },
+    {
+      "name": "남작의 손길",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "아군이 남작의 축복을 얻어 능력치가 증가합니다."
+    },
+    {
+      "name": "넘치는 힘",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "아군 챔피언이 공격력 및 주문력을 8% 얻습니다."
+    },
+    {
+      "name": "녹아내리는 저항력",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "불태우기 상태의 적은 방어력 및 마법 저항력이 매초 3 감소합니다."
+    },
+    {
+      "name": "대기만성",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "추천 아이템 1개를 장착한 임시 1단계 3성 챔피언이 아군에 합류합니다."
+    },
+    {
+      "name": "더 나은 단짝",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "커다란 털복숭이 친구의 기수가 공격 속도를 15%, 체력을 150 얻습니다."
+    },
+    {
+      "name": "도적단",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "임시 도적의 장갑 2개를 획득합니다."
+    },
+    {
+      "name": "동료 복제",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "피해량이 가장 높은 아군 챔피언의 분신을 생성합니다. 분신은 20%의 피해를 입힙니다."
+    },
+    {
+      "name": "동료애",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "챔피언이 인접한 아군 한 명당 최대 체력의 4%에 해당하는 보호막과 피해 증폭 4%를 얻습니다."
+    },
+    {
+      "name": "마나가 풍부한 토양",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "아군 마법사 유닛의 최대 마나가 15% 감소합니다."
+    },
+    {
+      "name": "말의 방문",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "이번 전투 동안 말의 태고 버프를 획득합니다."
+    },
+    {
+      "name": "명사수의 돌풍",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "원거리 딜러가 기본 공격 시 중첩되는 공격 속도를 3% 얻습니다."
+    },
+    {
+      "name": "명사수의 표식",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "아군 원거리 딜러가 기본 공격 시 25% 확률로 추가 공격합니다."
+    },
+    {
+      "name": "무쇠나무",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "가장 체력이 높은 아군 챔피언을 공격하는 적의 피해량이 10% 감소합니다."
+    },
+    {
+      "name": "무장 해제",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "10초 동안 모든 적에게 파쇄 및 파열을 30% 적용합니다."
+    },
+    {
+      "name": "미니언 무리",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "미니언 4마리를 소환합니다."
+    },
+    {
+      "name": "방어막",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "아군이 보호막을 1000 얻습니다. 보호막은 5초에 걸쳐 점차 사라집니다."
+    },
+    {
+      "name": "번개 폭풍",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "매초 적 하나에게 최대 체력의 7%에 해당하는 고정 피해를 입힙니다."
+    },
+    {
+      "name": "벌새",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "가장 공격 속도가 높은 아군 유닛의 크기가 작아져 공격 속도를 20% 얻습니다."
+    },
+    {
+      "name": "벼락",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "모든 적에게 최대 체력의 10%를 고정 피해로 입힙니다."
+    },
+    {
+      "name": "별의 힘",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "아군이 공격력 및 주문력을 10% 얻습니다. 3성 유닛은 공격력 및 주문력을 25% 얻습니다."
+    },
+    {
+      "name": "보루",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "아군 탱커의 체력이 50% 아래로 떨어지면 최대 체력의 20%에 해당하는 보호막을 얻습니다."
+    },
+    {
+      "name": "복수",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "아군이 사망할 때마다 아군 챔피언이 중첩되는 피해 증폭을 4% 얻습니다."
+    },
+    {
+      "name": "부스터 샷",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "전투 중 최대 2명의 1성 챔피언의 별 레벨이 일시적으로 상승합니다."
+    },
+    {
+      "name": "분산 투자",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "아군이 활성화된 특성 하나당 체력을 30 얻습니다."
+    },
+    {
+      "name": "불길",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "불길이 전장 전체로 번지며 적에게 점점 증가하는 고정 피해를 입힙니다."
+    },
+    {
+      "name": "비",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "아군이 마나 재생을 1 얻습니다."
+    },
+    {
+      "name": "빌린 장비",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "챔피언이 임시 추천 아이템 1개를 획득합니다."
+    },
+    {
+      "name": "사전 준비",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "보유한 중첩형 아이템이 일부 중첩된 상태로 시작합니다."
+    },
+    {
+      "name": "산들바람",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "아군이 공격 속도를 12% 얻습니다."
+    },
+    {
+      "name": "살아있는 토양",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "4초마다 뿌리가 적 하나를 1초 동안 기절시킵니다."
+    },
+    {
+      "name": "살인자의 후회",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "처음으로 사망하는 아군 챔피언 3명이 자신을 처치한 적을 1초 동안 기절시킵니다."
+    },
+    {
+      "name": "석화 보호막",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "10초 동안 적을 10% 둔화시키고 보호막을 20% 감소시킵니다."
+    },
+    {
+      "name": "석화된 훈련 봇",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "처음으로 사망하는 아군 챔피언이 자신의 방어 능력치를 지닌 체력 1000의 훈련 봇으로 변합니다."
+    },
+    {
+      "name": "수정 구슬",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "다음 상대를 공개합니다. 아군이 공격 속도를 12% 얻습니다."
+    },
+    {
+      "name": "신록의 활력",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "아군 챔피언이 체력을 125 얻습니다."
+    },
+    {
+      "name": "여진",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "10초 후 모든 적을 1.5초 동안 기절시킵니다."
+    },
+    {
+      "name": "연소",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "아군 챔피언이 사망 시 폭발하여 최대 체력의 20%에 해당하는 마법 피해를 입힙니다."
+    },
+    {
+      "name": "영웅적 희생",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "아이템을 3개 장착한 챔피언이 영웅의 힘을 얻지만, 다른 아군은 제물이 됩니다."
+    },
+    {
+      "name": "영웅출현",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "8초 후 대기석의 가장 왼쪽에 있는 챔피언이 아이템 2개를 장착한 상태로 전투에 참가합니다."
+    },
+    {
+      "name": "요들 영혼",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "아군이 4초 동안 99% 확률로 기본 공격을 회피합니다."
+    },
+    {
+      "name": "요정 연합",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "이번 라운드에 모든 아군 유닛이 요정 픽시 2마리를 얻습니다."
+    },
+    {
+      "name": "용병",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "추천 아이템 1개를 장착한 임시 5단계 1성 챔피언이 팀에 합류합니다."
+    },
+    {
+      "name": "용병 부대",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "보유한 골드 10당 피해 증폭을 3% 얻습니다."
+    },
+    {
+      "name": "월광 의식",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "별 레벨이 가장 낮은 1단계 또는 2단계 아군 챔피언의 별 레벨이 전투 중 한 단계 상승합니다."
+    },
+    {
+      "name": "월출",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "10초 후 달 효과가 100% 증가합니다."
+    },
+    {
+      "name": "유도 반딧불이",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "마법사 유닛은 마나를 20 소모할 때마다 반딧불이를 1마리 소환합니다. 반딧불이는 각각 150의 마법 피해를 입힙니다."
+    },
+    {
+      "name": "유령 갑옷",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "임시 워모그의 갑옷 1개를 획득합니다."
+    },
+    {
+      "name": "유령 상징",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "가장 많이 활성화된 아군 특성의 임시 상징을 획득합니다."
+    },
+    {
+      "name": "유령 장갑",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "임시 도적의 장갑을 획득합니다."
+    },
+    {
+      "name": "유령 조끼",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "임시 덤불 조끼 1개를 획득합니다."
+    },
+    {
+      "name": "유령 특성",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "전투 시작 시 비활성화된 특성 최대 2개가 가장 낮은 단계로 활성화됩니다."
+    },
+    {
+      "name": "은신",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "가장 강한 아군 전사 또는 암살자 2명이 6초 동안 대상으로 지정할 수 없는 상태가 됩니다."
+    },
+    {
+      "name": "자연의 분노",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "10초 후 아이템을 장착하지 않은 모든 유닛을 처치합니다."
+    },
+    {
+      "name": "자연의 아군",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "아군이 3명 사망할 때마다 무작위 협곡야수를 소환합니다."
+    },
+    {
+      "name": "재생",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "아군이 매초 최대 체력의 1%만큼 체력을 회복합니다."
+    },
+    {
+      "name": "저항력",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "탱커가 받는 모든 피해량이 15 감소합니다."
+    },
+    {
+      "name": "전투 격화",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "전투 시작 15초 후, 아군이 피해 증폭을 30% 얻습니다."
+    },
+    {
+      "name": "주문 방해",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "모든 적의 최대 마나를 다음 스킬 사용 전까지 15 증가시킵니다."
+    },
+    {
+      "name": "진동",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "8초마다 모든 적을 1초 동안 기절시킵니다."
+    },
+    {
+      "name": "찬란함",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "전투 시작 12초 후 장착한 무작위 아이템 1개가 일시적으로 찬란한 아이템이 됩니다."
+    },
+    {
+      "name": "초강력 치명타",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "정밀을 보유한 아군 유닛이 치명타 피해량 25%를 얻습니다."
+    },
+    {
+      "name": "추모 훈련 봇",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "아이템을 장착한 첫 번째 탱커가 사망 시 해당 아이템을 장착한 훈련 봇을 소환합니다."
+    },
+    {
+      "name": "친구 발견",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "거인의 허리띠를 장착한 훈련 봇을 획득합니다."
+    },
+    {
+      "name": "친절한 꽃",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "모든 아군이 치명적인 꽃 추가 효과를 50% 얻습니다."
+    },
+    {
+      "name": "큰 폭발",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "처음 사망한 아군이 폭발하여 최대 체력의 20%에 해당하는 마법 피해를 입힙니다."
+    },
+    {
+      "name": "태양불꽃 마법",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "적에게 10초 동안 불태우기 및 상처를 적용합니다."
+    },
+    {
+      "name": "판금 보호막",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "보호막 효과가 15% 증가합니다. 아군이 10초 동안 150의 보호막을 얻습니다."
+    },
+    {
+      "name": "폭우",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "아군이 마나 재생을 2 얻습니다."
+    },
+    {
+      "name": "피의 사냥",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "경쟁자는 처치 관여 시 돌진해 대상에게 150의 물리 피해를 입힙니다."
+    },
+    {
+      "name": "향상된 사거리",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "전사의 사거리가 1 증가합니다."
+    },
+    {
+      "name": "허리띠 뭉치",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "아군이 장착 해제할 수 없는 임시 거인의 허리띠 7개를 획득합니다."
+    },
+    {
+      "name": "형벌",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "적에게 8초 동안 둔화, 불태우기, 파쇄 및 파열 효과를 적용합니다."
+    },
+    {
+      "name": "호랑이의 방문",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "이번 전투 동안 호랑이의 태고 버프를 획득합니다."
+    },
+    {
+      "name": "홀로서기",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "가로 열에 혼자 있는 챔피언이 체력 15% 및 피해 증폭을 15% 얻습니다."
+    },
+    {
+      "name": "화분 속 돌껍질",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "임시 돌껍질 나무를 획득합니다."
+    },
+    {
+      "name": "화분 속 생명꽃",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "임시 생명꽃을 획득합니다."
+    },
+    {
+      "name": "회오리바람",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "회오리바람을 소환해 적에게 최대 체력의 5%에 해당하는 마법 피해를 입힙니다."
+    },
+    {
+      "name": "후방의 핵심",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "후방의 무작위 챔피언 1명이 7초 동안 공격 속도를 75% 얻습니다."
+    },
+    {
+      "name": "훈련장",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "각각 무작위 탱커 아이템을 장착한 훈련 봇 2개를 획득합니다."
+    },
+    {
+      "name": "흐름",
+      "image": "creatures.png",
+      "category": "전투",
+      "cost": "",
+      "description": "아군 챔피언이 10초 동안 저지 불가 상태가 되고 공격 속도를 15% 얻습니다."
+    },
+    {
+      "name": "1단계 집결",
+      "image": "creatures.png",
+      "category": "상점",
+      "cost": "",
+      "description": "상점을 새로고침해 모두 1단계 유닛으로 채웁니다."
+    },
+    {
+      "name": "2단계 집결",
+      "image": "creatures.png",
+      "category": "상점",
+      "cost": "",
+      "description": "상점을 새로고침해 모두 2단계 챔피언으로 채웁니다."
+    },
+    {
+      "name": "3단계 집결",
+      "image": "creatures.png",
+      "category": "상점",
+      "cost": "",
+      "description": "상점을 새로고침해 모두 3단계 챔피언으로 채웁니다."
+    },
+    {
+      "name": "4단계 집결",
+      "image": "creatures.png",
+      "category": "상점",
+      "cost": "",
+      "description": "상점을 새로고침해 모두 4단계 챔피언으로 채웁니다."
+    },
+    {
+      "name": "5단계 집결",
+      "image": "creatures.png",
+      "category": "상점",
+      "cost": "",
+      "description": "상점을 새로고침해 모두 5단계 챔피언으로 채웁니다."
+    },
+    {
+      "name": "가운데 길",
+      "image": "creatures.png",
+      "category": "상점",
+      "cost": "",
+      "description": "상점을 새로고침해 모두 3단계 2성 챔피언으로 채웁니다."
+    },
+    {
+      "name": "국경 마을",
+      "image": "creatures.png",
+      "category": "상점",
+      "cost": "",
+      "description": "상점을 새로고침해 모두 2단계 2성 챔피언으로 채웁니다."
+    },
+    {
+      "name": "데굴데굴",
+      "image": "creatures.png",
+      "category": "상점",
+      "cost": "",
+      "description": "전투 시작 후 18초에 생존한 아군 챔피언 하나당 새로고침을 1회 얻습니다."
+    },
+    {
+      "name": "별똥별",
+      "image": "creatures.png",
+      "category": "상점",
+      "cost": "",
+      "description": "상점을 새로고침하면 비용이 가장 낮은 챔피언이 2성이 됩니다."
+    },
+    {
+      "name": "빛나는 새로고침",
+      "image": "creatures.png",
+      "category": "상점",
+      "cost": "",
+      "description": "서로 다른 태양 챔피언의 별 레벨당 무료 새로고침을 1회 얻습니다."
+    },
+    {
+      "name": "뼈 주사위",
+      "image": "creatures.png",
+      "category": "상점",
+      "cost": "",
+      "description": "적을 처치할 때마다 60% 확률로 무료 새로고침을 얻습니다."
+    },
+    {
+      "name": "섬광탄",
+      "image": "creatures.png",
+      "category": "상점",
+      "cost": "",
+      "description": "상점을 새로고침합니다. 지옥불이 상점 칸 2개에 불을 붙여 업그레이드합니다."
+    },
+    {
+      "name": "수색대",
+      "image": "creatures.png",
+      "category": "상점",
+      "cost": "",
+      "description": "이번 라운드에 4단계 챔피언을 구매할 때까지 각 상점에 4단계 챔피언이 1명씩 등장합니다."
+    },
+    {
+      "name": "시작 마을",
+      "image": "creatures.png",
+      "category": "상점",
+      "cost": "",
+      "description": "상점을 새로고침해 모두 1단계 2성 챔피언으로 채웁니다."
+    },
+    {
+      "name": "움직이는 상점",
+      "image": "creatures.png",
+      "category": "상점",
+      "cost": "",
+      "description": "20초 동안, 상점이 2초마다 무료로 새로고침됩니다."
+    },
+    {
+      "name": "자유로운 새로고침",
+      "image": "creatures.png",
+      "category": "상점",
+      "cost": "",
+      "description": "상점 새로고침을 2회 얻습니다."
+    },
+    {
+      "name": "정글링",
+      "image": "creatures.png",
+      "category": "상점",
+      "cost": "",
+      "description": "상점을 협곡야수로 가득 채웁니다."
+    },
+    {
+      "name": "파도 타기",
+      "image": "creatures.png",
+      "category": "상점",
+      "cost": "",
+      "description": "이번 라운드의 다음 새로고침 2회는 지난 전투에 배치한 챔피언이 2명 이상 등장합니다."
+    },
+    {
+      "name": "행운의 7",
+      "image": "creatures.png",
+      "category": "상점",
+      "cost": "",
+      "description": "상점 새로고침을 7회 얻습니다."
+    },
+    {
+      "name": "노련함",
+      "image": "creatures.png",
+      "category": "골드/XP",
+      "cost": "",
+      "description": "경험치를 2 얻습니다."
+    },
+    {
+      "name": "느긋한 연구",
+      "image": "creatures.png",
+      "category": "골드/XP",
+      "cost": "",
+      "description": "전투 시작 15초 후 생존한 아군 챔피언 하나당 경험치를 2 얻습니다."
+    },
+    {
+      "name": "동수저",
+      "image": "creatures.png",
+      "category": "골드/XP",
+      "cost": "",
+      "description": "경험치를 6 얻습니다."
+    },
+    {
+      "name": "동전 던지기",
+      "image": "creatures.png",
+      "category": "골드/XP",
+      "cost": "",
+      "description": "동전을 던집니다. 앞면이 나오면 1골드를 획득합니다."
+    },
+    {
+      "name": "목숨값",
+      "image": "creatures.png",
+      "category": "골드/XP",
+      "cost": "",
+      "description": "챔피언을 처치할 때마다 1골드를 획득합니다."
+    },
+    {
+      "name": "물물교환",
+      "image": "creatures.png",
+      "category": "골드/XP",
+      "cost": "",
+      "description": "다음에 판매하는 챔피언이 200%의 골드에 판매됩니다."
+    },
+    {
+      "name": "생명의 빚",
+      "image": "creatures.png",
+      "category": "골드/XP",
+      "cost": "",
+      "description": "플레이어가 잃은 체력 10당 1골드를 획득합니다."
+    },
+    {
+      "name": "성장",
+      "image": "creatures.png",
+      "category": "골드/XP",
+      "cost": "",
+      "description": "경험치를 16 얻습니다."
+    },
+    {
+      "name": "쌈짓돈",
+      "image": "creatures.png",
+      "category": "골드/XP",
+      "cost": "",
+      "description": "아군 1성 챔피언이 사망하면 1골드를 떨어뜨립니다."
+    },
+    {
+      "name": "전차",
+      "image": "creatures.png",
+      "category": "골드/XP",
+      "cost": "",
+      "description": "상점 새로고침 및 경험치 구매 비용이 절반이 됩니다."
+    },
+    {
+      "name": "주사위 굴리기",
+      "image": "creatures.png",
+      "category": "골드/XP",
+      "cost": "",
+      "description": "6면체 주사위를 굴립니다. 나온 수만큼 골드를 획득합니다."
+    },
+    {
+      "name": "황금 거위",
+      "image": "creatures.png",
+      "category": "골드/XP",
+      "cost": "",
+      "description": "피해량이 가장 높은 챔피언이 입힌 피해량 1000마다 1골드를 획득합니다."
+    },
+    {
+      "name": "황금 제단",
+      "image": "creatures.png",
+      "category": "골드/XP",
+      "cost": "",
+      "description": "섬뜩한 힘 제물의 단계 및 별 레벨에 따라 골드를 획득합니다."
+    },
+    {
+      "name": "휴전",
+      "image": "creatures.png",
+      "category": "골드/XP",
+      "cost": "",
+      "description": "자신과 상대방이 1골드를 획득합니다."
+    },
+    {
+      "name": "가뭄",
+      "image": "creatures.png",
+      "category": "리스크",
+      "cost": "",
+      "description": "연패 횟수를 2 증가시킵니다."
+    },
+    {
+      "name": "값진 패배",
+      "image": "creatures.png",
+      "category": "리스크",
+      "cost": "",
+      "description": "다음 플레이어 대상 전투 3회 동안 패배 시 경험치를 6 얻습니다."
+    },
+    {
+      "name": "골든 로드",
+      "image": "creatures.png",
+      "category": "리스크",
+      "cost": "",
+      "description": "플레이어 대상 전투를 3번 치른 후, 승리한 전투마다 3골드를 획득합니다."
+    },
+    {
+      "name": "광란의 동전 던지기",
+      "image": "creatures.png",
+      "category": "리스크",
+      "cost": "",
+      "description": "동전을 던져 앞면이 나오면 1골드를 획득합니다. 뒷면이 나올 때까지 계속 던집니다."
+    },
+    {
+      "name": "범람",
+      "image": "creatures.png",
+      "category": "리스크",
+      "cost": "",
+      "description": "연승 횟수가 2 증가합니다."
+    },
+    {
+      "name": "변이",
+      "image": "creatures.png",
+      "category": "리스크",
+      "cost": "",
+      "description": "보유한 2단계 챔피언 1명이 3단계 챔피언으로 영구히 바뀝니다."
+    },
+    {
+      "name": "비료 주기",
+      "image": "creatures.png",
+      "category": "리스크",
+      "cost": "",
+      "description": "적이 사망할 때마다 경험치를 1 얻습니다."
+    },
+    {
+      "name": "상급 갬빗",
+      "image": "creatures.png",
+      "category": "리스크",
+      "cost": "",
+      "description": "다음 플레이어 대상 전투에서 승리하면 10골드를 획득합니다."
+    },
+    {
+      "name": "상급 변이",
+      "image": "creatures.png",
+      "category": "리스크",
+      "cost": "",
+      "description": "보유한 4단계 챔피언 1명이 5단계 챔피언으로 영구히 바뀝니다."
+    },
+    {
+      "name": "소매치기",
+      "image": "creatures.png",
+      "category": "리스크",
+      "cost": "",
+      "description": "5초마다 아군 챔피언이 20% 확률로 1골드를 떨어뜨립니다."
+    },
+    {
+      "name": "수금",
+      "image": "creatures.png",
+      "category": "리스크",
+      "cost": "",
+      "description": "전투에서 생존한 아군 챔피언 하나당 2골드를 획득합니다."
+    },
+    {
+      "name": "올인",
+      "image": "creatures.png",
+      "category": "리스크",
+      "cost": "",
+      "description": "다음 전투 3회에서 모두 승리하면 레벨 업합니다."
+    },
+    {
+      "name": "의식 완료",
+      "image": "creatures.png",
+      "category": "리스크",
+      "cost": "",
+      "description": "전투에서 승리하면 현재 진행 중인 악의 여단 의식을 완료합니다."
+    },
+    {
+      "name": "저승길 동무",
+      "image": "creatures.png",
+      "category": "리스크",
+      "cost": "",
+      "description": "패배하고 유닛을 1명 이상 처치했다면 경험치를 4 얻습니다."
+    },
+    {
+      "name": "전리품 사냥꾼",
+      "image": "creatures.png",
+      "category": "리스크",
+      "cost": "",
+      "description": "경쟁자를 상대로 처치 관여를 100% 더 얻습니다."
+    },
+    {
+      "name": "정기 흡수",
+      "image": "creatures.png",
+      "category": "리스크",
+      "cost": "",
+      "description": "이번 전투에서 악의 여단 정수를 50% 추가로 획득합니다."
+    },
+    {
+      "name": "조합 아이템 현상금",
+      "image": "creatures.png",
+      "category": "리스크",
+      "cost": "",
+      "description": "다음 플레이어 대상 전투에서 승리하면 조합 아이템 모루를 획득합니다."
+    },
+    {
+      "name": "추억의 음식",
+      "image": "creatures.png",
+      "category": "리스크",
+      "cost": "",
+      "description": "플레이어 체력을 2 얻습니다. 다음 플레이어 대상 전투 패배 시 4 더 얻습니다."
+    },
+    {
+      "name": "하급 갬빗",
+      "image": "creatures.png",
+      "category": "리스크",
+      "cost": "",
+      "description": "다음 플레이어 대상 전투에서 승리하면 2골드를 획득합니다."
+    },
+    {
+      "name": "하급 변이",
+      "image": "creatures.png",
+      "category": "리스크",
+      "cost": "",
+      "description": "보유한 1단계 챔피언 1명이 2단계 챔피언으로 영구히 바뀝니다."
+    },
+    {
+      "name": "함선 탈출",
+      "image": "creatures.png",
+      "category": "리스크",
+      "cost": "",
+      "description": "전장 및 대기석에 있는 챔피언을 판매합니다. 10골드, 10의 경험치, 새로고침 5회를 획득합니다."
+    },
+    {
+      "name": "게으른 기술자",
+      "image": "creatures.png",
+      "category": "아이템",
+      "cost": "",
+      "description": "대기석에 있는 조합 아이템 1개가 해당 조합 아이템으로 만들 수 있는 완성 아이템으로 변합니다."
+    },
+    {
+      "name": "유물화",
+      "image": "creatures.png",
+      "category": "아이템",
+      "cost": "",
+      "description": "완성 아이템에 사용된 조합 아이템을 포함해 조합 아이템 3개를 잃습니다. 유물 모루 1개를 획득합니다."
+    },
+    {
+      "name": "잔혹한 거래",
+      "image": "creatures.png",
+      "category": "아이템",
+      "cost": "",
+      "description": "플레이어 체력을 8 잃고 조합 아이템 모루를 획득합니다."
+    },
+    {
+      "name": "판매상",
+      "image": "creatures.png",
+      "category": "아이템",
+      "cost": "",
+      "description": "아이템을 구매할 수 있는 상점을 엽니다. 아이템의 가격은 0골드에서 10골드입니다."
+    },
+    {
+      "name": "프리미엄 교환 시장",
+      "image": "creatures.png",
+      "category": "아이템",
+      "cost": "",
+      "description": "3성 챔피언을 판매하면 새로고침 3회와 행운의 아이템 상자를 획득합니다."
+    },
+    {
+      "name": "피와 강철",
+      "image": "creatures.png",
+      "category": "아이템",
+      "cost": "",
+      "description": "챔피언이 20번 사망하면 조합 아이템 모루를 획득합니다."
+    },
+    {
+      "name": "가짜 레벨",
+      "image": "creatures.png",
+      "category": "기타",
+      "cost": "",
+      "description": "일시적으로 10레벨이 됩니다."
+    },
+    {
+      "name": "거대한 혼돈",
+      "image": "creatures.png",
+      "category": "기타",
+      "cost": "",
+      "description": "무작위 수호령 2개를 사용합니다."
+    },
+    {
+      "name": "더블 업",
+      "image": "creatures.png",
+      "category": "기타",
+      "cost": "",
+      "description": "다음으로 구매하는 수호령은 두 번 발동하며 비용이 두 배가 됩니다."
+    },
+    {
+      "name": "마나 물약",
+      "image": "creatures.png",
+      "category": "기타",
+      "cost": "",
+      "description": "장착 가능한 일회용 마나 물약을 획득합니다."
+    },
+    {
+      "name": "물약 제조",
+      "image": "creatures.png",
+      "category": "기타",
+      "cost": "",
+      "description": "장착 가능한 일회용 물약 3개를 획득합니다."
+    },
+    {
+      "name": "바람 좀 쐬고 와",
+      "image": "creatures.png",
+      "category": "기타",
+      "cost": "",
+      "description": "5골드를 획득하고 아무 행동을 취할 수 없습니다. 15초 후, 대신 2골드를 획득합니다."
+    },
+    {
+      "name": "보호의 의식",
+      "image": "creatures.png",
+      "category": "기타",
+      "cost": "",
+      "description": "이번 라운드에 받는 플레이어 피해량이 3 감소합니다."
+    },
+    {
+      "name": "불길한 거래",
+      "image": "creatures.png",
+      "category": "기타",
+      "cost": "",
+      "description": "플레이어 체력을 3 잃습니다. 2골드를 획득합니다."
+    },
+    {
+      "name": "새롭고 개선된 성능",
+      "image": "creatures.png",
+      "category": "기타",
+      "cost": "",
+      "description": "휴대용 대격변 생성기를 획득합니다."
+    },
+    {
+      "name": "소규모 피의 의식",
+      "image": "creatures.png",
+      "category": "기타",
+      "cost": "",
+      "description": "플레이어 체력을 3 잃습니다. 하급 챔피언 복제기를 획득합니다."
+    },
+    {
+      "name": "소모품 상점",
+      "image": "creatures.png",
+      "category": "기타",
+      "cost": "",
+      "description": "골드를 사용해 소모품을 구매할 수 있는 상점을 엽니다."
+    },
+    {
+      "name": "숲의 마법사",
+      "image": "creatures.png",
+      "category": "기타",
+      "cost": "",
+      "description": "상점을 수호령 5개로 채웁니다. 그중 1개를 사용할 수 있습니다."
+    },
+    {
+      "name": "요상한 꾸러미",
+      "image": "creatures.png",
+      "category": "기타",
+      "cost": "",
+      "description": "방어력, 마법 저항력, 또는 체력을 부여하는 무작위 소모품 3개를 획득합니다."
+    },
+    {
+      "name": "요상한 자루",
+      "image": "creatures.png",
+      "category": "기타",
+      "cost": "",
+      "description": "방어력, 마법 저항력 또는 체력을 부여하는 무작위 소모품 5개를 획득합니다."
+    },
+    {
+      "name": "요상한 항아리",
+      "image": "creatures.png",
+      "category": "기타",
+      "cost": "",
+      "description": "방어력, 마법 저항력 또는 체력을 부여하는 무작위 소모품 1개를 획득합니다."
+    },
+    {
+      "name": "요정의 비행",
+      "image": "creatures.png",
+      "category": "기타",
+      "cost": "",
+      "description": "이번 전투에서 요정 픽시를 100% 더 많이 끌어들입니다."
+    },
+    {
+      "name": "이름 모를 꾸러미",
+      "image": "creatures.png",
+      "category": "기타",
+      "cost": "",
+      "description": "주문력 또는 마나 재생을 부여하는 무작위 소모품 3개를 획득합니다."
+    },
+    {
+      "name": "이름 모를 자루",
+      "image": "creatures.png",
+      "category": "기타",
+      "cost": "",
+      "description": "주문력 또는 마나 재생을 부여하는 무작위 소모품 5개를 획득합니다."
+    },
+    {
+      "name": "이름 모를 항아리",
+      "image": "creatures.png",
+      "category": "기타",
+      "cost": "",
+      "description": "주문력 또는 마나 재생을 부여하는 무작위 소모품 1개를 획득합니다."
+    },
+    {
+      "name": "잡동사니 꾸러미",
+      "image": "creatures.png",
+      "category": "기타",
+      "cost": "",
+      "description": "공격력이나 공격 속도를 부여하는 무작위 소모품을 2개 획득합니다."
+    },
+    {
+      "name": "잡동사니 자루",
+      "image": "creatures.png",
+      "category": "기타",
+      "cost": "",
+      "description": "공격력 또는 공격 속도를 부여하는 무작위 소모품 4개를 획득합니다."
+    },
+    {
+      "name": "잡동사니 항아리",
+      "image": "creatures.png",
+      "category": "기타",
+      "cost": "",
+      "description": "공격력이나 공격 속도를 부여하는 무작위 소모품 1개를 획득합니다."
+    },
+    {
+      "name": "재활용 전문가",
+      "image": "creatures.png",
+      "category": "기타",
+      "cost": "",
+      "description": "대기석에 배치한 유닛의 아이템이 제거되고 조합 아이템으로 분해됩니다."
+    },
+    {
+      "name": "조기 수리",
+      "image": "creatures.png",
+      "category": "기타",
+      "cost": "",
+      "description": "재조합기를 획득합니다."
+    },
+    {
+      "name": "체력 물약",
+      "image": "creatures.png",
+      "category": "기타",
+      "cost": "",
+      "description": "장착 가능한 일회용 체력 물약을 획득합니다."
+    },
+    {
+      "name": "테라포밍",
+      "image": "creatures.png",
+      "category": "기타",
+      "cost": "",
+      "description": "전투 시작 시 자연의 아버지 씨앗 5개를 획득합니다."
+    },
+    {
+      "name": "폭발 물약",
+      "image": "creatures.png",
+      "category": "기타",
+      "cost": "",
+      "description": "장착 가능한 일회용 폭발 물약을 획득합니다."
+    },
+    {
+      "name": "피의 의식",
+      "image": "creatures.png",
+      "category": "기타",
+      "cost": "",
+      "description": "플레이어 체력을 9 잃습니다. 챔피언 복제기를 획득합니다."
+    },
+    {
+      "name": "하급 혼돈",
+      "image": "creatures.png",
+      "category": "기타",
+      "cost": "",
+      "description": "무작위 수호령을 사용합니다."
+    },
+    {
+      "name": "회복 웅덩이",
+      "image": "creatures.png",
+      "category": "기타",
+      "cost": "",
+      "description": "플레이어 체력을 5 얻습니다."
+    }
+  ]
+}

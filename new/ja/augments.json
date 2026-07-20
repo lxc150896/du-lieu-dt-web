@@ -1,314 +1,386 @@
 [
   {
-    "stt": "1-1",
-    "id": "poppy_hero",
-    "name": "Poppy Hero",
+    "stt": 1,
+    "id": "He_Ri_moSok_ku",
+    "name": "何日も続く",
     "image": "tier-silver.png",
-    "tier": "2-1",
-    "description": "ポッピーを1体獲得する。ポッピーは遠距離攻撃のマークスマンとなり、ターゲットにミープを投げつけて攻撃する。"
+    "tier": "silver",
+    "description": "無料のショップリロールを?回獲得する。"
   },
   {
-    "stt": "1-2",
-    "id": "aatrox_hero",
-    "name": "Aatrox Hero",
+    "stt": 2,
+    "id": "kiyapitarugein_i",
+    "name": "キャピタルゲイン I",
     "image": "tier-silver.png",
-    "tier": "2-1",
-    "description": "エイトロックスのスキルが低マナの3連コンボになり、与えたダメージの一部を回復する。NOVAを発動すると、最大体力とサイズが増加する。"
+    "tier": "silver",
+    "description": "獲得する利息の?%にあたるゴールドを貯める。?-?ラウンドに、貯めたゴールドをすべて獲得する。即座に?ゴールドを獲得する。"
   },
   {
-    "stt": "1-3",
-    "id": "bonk!",
-    "name": "Bonk!",
+    "stt": 3,
+    "id": "chiyanpionPei_Xin_",
+    "name": "チャンピオン配信",
     "image": "tier-silver.png",
-    "tier": "2-1",
-    "description": "ナサスを1体獲得する。最も強いナサスはアタックファイターとなり、敵を倒すごとに強化される単体対象スキルを持つようになる。"
+    "tier": "silver",
+    "description": "?体の?コストチャンピオンを獲得する。?ラウンド後、さらに?体獲得する。"
   },
   {
-    "stt": "1-4",
-    "id": "charge_transfer_i",
-    "name": "Charge Transfer I",
+    "stt": 4,
+    "id": "chiyanpionPei_Xin__+",
+    "name": "チャンピオン配信 +",
     "image": "tier-silver.png",
-    "tier": "3-2",
-    "description": "チームのダメージ増幅が5%上昇する。オーバーキルダメージの50%を最も近い敵に与える。"
+    "tier": "silver",
+    "description": "?体の?コストチャンピオンを獲得する。?ラウンド後、さらに?体獲得する。"
   },
   {
-    "stt": "1-5",
-    "id": "the_tower",
-    "name": "The Tower",
+    "stt": 5,
+    "id": "chiyanpionPei_Xin_++",
+    "name": "チャンピオン配信++",
     "image": "tier-silver.png",
-    "tier": "2-1",
-    "description": "近くの敵を感電させる巨大なトレーニングドールを獲得する。"
+    "tier": "silver",
+    "description": "?体の?コストチャンピオンを獲得する。?ラウンド後、さらに?体獲得する。"
   },
   {
-    "stt": "1-6",
-    "id": "group_hug_i",
-    "name": "Group Hug I",
+    "stt": 6,
+    "id": "Yan_gaRan_eShang_garu",
+    "name": "炎が燃え上がる",
     "image": "tier-silver.png",
-    "tier": "3-2",
-    "description": "戦闘開始時：味方が隣接する他の味方に物理防御と魔法防御を6付与する。この効果はスタックする。"
+    "tier": "silver",
+    "description": "前回の戦闘で最も多くのダメージを与えたインフェルノチャンピオンが炎上し、攻撃速度を?%獲得する。ヴァルスとアカリを獲得する。"
   },
   {
-    "stt": "1-7",
-    "id": "expedition",
-    "name": "Expedition",
+    "stt": 7,
+    "id": "Wei_Lai_woJian_Ju_eta",
+    "name": "未来を見据えた",
     "image": "tier-silver.png",
-    "tier": "2-1",
-    "description": "計画フェーズの開始時、ベンチの右端にいるチャンピオンを失う。この方法で合計33ゴールド分のユニットを失うと、強力な報酬を獲得する。"
+    "tier": "silver",
+    "description": "タクティシャンが体力を?失う代わりに、対プレイヤー戦を?回行った後、4コストチャンピオンを?体と?ゴールドを獲得する。"
   },
   {
-    "stt": "1-8",
-    "id": "forge_a_friend",
-    "name": "Forge a Friend",
+    "stt": 8,
+    "id": "ro-dosaretadaisu",
+    "name": "ロードされたダイス",
     "image": "tier-silver.png",
-    "tier": "4-2",
-    "description": "次に購入する1コストチャンピオンが星3になる。"
+    "tier": "silver",
+    "description": "サイコロは必ず6が出て、コインは必ず表が出る。サイコロを振り、出た目と同じゴールドを獲得する。その後コインを投げ、表なら?ゴールドを獲得する。"
   },
   {
-    "stt": "1-9",
-    "id": "size_matters",
-    "name": "Size Matters",
+    "stt": 9,
+    "id": "kuitsukusutori-ku",
+    "name": "クイックストリーク",
     "image": "tier-silver.png",
-    "tier": "3-2",
-    "description": "ジャイアントベルトを1つ獲得する。チャンピオンが最大体力3800以上で戦闘を開始した後、もう1つ獲得する。"
+    "tier": "silver",
+    "description": "連勝と連敗のカウントが2倍進む。?ゴールドを獲得する。"
   },
   {
-    "stt": "1-10",
-    "id": "feeling_lucky",
-    "name": "Feeling Lucky",
+    "stt": 10,
+    "id": "Can_Liu_Mo_Li_",
+    "name": "残留魔力",
     "image": "tier-silver.png",
-    "tier": "3-2",
-    "description": "12ゴールドを獲得し、コインを投げる。表が出ればさらに3ゴールド獲得する。"
+    "tier": "silver",
+    "description": "チームが体力を?獲得する。ウィスプを購入するたび、この効果が?増加する。"
   },
   {
-    "stt": "1-11",
-    "id": "cognitive_tax",
-    "name": "Cognitive Tax",
+    "stt": 11,
+    "id": "Can_Liu_Mo_Li_+",
+    "name": "残留魔力+",
     "image": "tier-silver.png",
-    "tier": "2-1",
-    "description": "8ゴールドと1 XPを獲得する。"
+    "tier": "silver",
+    "description": "チームが体力を?獲得する。ウィスプを購入するたび、この効果が?増加する。"
   },
   {
-    "stt": "1-12",
-    "id": "cognitive_tax+",
-    "name": "Cognitive Tax+",
+    "stt": 12,
+    "id": "Can_Liu_Mo_Li_++",
+    "name": "残留魔力++",
     "image": "tier-silver.png",
-    "tier": "3-2",
-    "description": "12ゴールドと3 XPを獲得する。"
+    "tier": "silver",
+    "description": "チームが体力を?獲得する。ウィスプを購入するたび、この効果が?増加する。"
   },
   {
-    "stt": "1-13",
-    "id": "kick_start",
-    "name": "Kick Start",
+    "stt": 13,
+    "id": "Chui_Zhi_Xing__i",
+    "name": "垂直性 I",
     "image": "tier-silver.png",
-    "tier": "2-1",
-    "description": "ランダムな星2の2コストチャンピオン1体と1ゴールドを獲得する。"
+    "tier": "silver",
+    "description": "チャンピオンは自身と特性を共有する味方1体につき、攻撃力?%、スキルパワー?%、物理防御?、魔法防御?を獲得する。"
   },
   {
-    "stt": "2-1",
-    "id": "anima_commander",
-    "name": "Anima Commander",
+    "stt": 14,
+    "id": "ueito*za*wa-su",
+    "name": "ウェイト・ザ・ワース",
+    "image": "tier-silver.png",
+    "tier": "silver",
+    "description": "チャンピオンを3つ星にするたび、ゲーム終了まで毎ラウンドそのチャンピオンのコピーを1体獲得する。下級チャンピオン複製装置を獲得する。"
+  },
+  {
+    "stt": 15,
+    "id": "uisupu_ribe-to",
+    "name": "ウィスプ リベート",
+    "image": "tier-silver.png",
+    "tier": "silver",
+    "description": "ウィスプを購入するたびに?ゴールドを獲得する。即座に?ゴールドを獲得する。"
+  },
+  {
+    "stt": 16,
+    "id": "uisupu_ribe-to_+",
+    "name": "ウィスプ リベート +",
+    "image": "tier-silver.png",
+    "tier": "silver",
+    "description": "ウィスプを購入するたびに?ゴールドを獲得する。即座に?ゴールドを獲得する。"
+  },
+  {
+    "stt": 17,
+    "id": "saibaneteitsuku_inpuranto_ii",
+    "name": "サイバネティック インプラント II",
     "image": "tier-gold.png",
-    "tier": "2-1",
-    "description": "ブライアー、ジンクス、イラオイを獲得する。プレイヤーの現在体力と最大体力を10増加させる。"
+    "tier": "gold",
+    "description": "アイテムを装備した味方チャンピオンが体力を?、攻撃力を?%獲得する。"
   },
   {
-    "stt": "2-2",
-    "id": "sniper's_nest",
-    "name": "Sniper's Nest",
+    "stt": 18,
+    "id": "saibaneteitsuku_atsupurinku_ii",
+    "name": "サイバネティック アップリンク II",
     "image": "tier-gold.png",
-    "tier": "2-1",
-    "description": "スナイパーは同じ開始マスから戦闘を行うたびにダメージ増幅が8%上昇し、最大32%まで増加する。エズリアルとナーを獲得する。"
+    "tier": "gold",
+    "description": "アイテムを装備した味方チャンピオンが体力を?、マナ自動回復を?獲得する。女神の涙を獲得する。"
   },
   {
-    "stt": "2-3",
-    "id": "may_the_fours_be_with_you",
-    "name": "May the Fours Be With You",
+    "stt": 19,
+    "id": "Nei_naruYe_Swu_",
+    "name": "内なる野獣",
     "image": "tier-gold.png",
-    "tier": "4-2",
-    "description": "自分の4コストチャンピオンとジンは体力が204、攻撃速度が14%増加する。ジンを1体獲得する。"
+    "tier": "gold",
+    "description": "プライマルから追加の祝福を1つ獲得する。ヴァイを獲得する。"
   },
   {
-    "stt": "2-4",
-    "id": "invader_zed",
-    "name": "Invader Zed",
+    "stt": 20,
+    "id": "burotsusamunoHu_bikake",
+    "name": "ブロッサムの呼びかけ",
     "image": "tier-gold.png",
-    "tier": "3-2",
-    "description": "ブラッドサースターを獲得する。ステージ4-1でゼドを獲得する。ゼド獲得後、ショップにゼドが出現するようになる。ゼドは自身の分身を作る5コストのアタックファイター。"
+    "tier": "gold",
+    "description": "ウィスプを購入すると、そのコストに応じたランダムなブロッサムのチャンピオンを獲得する。ブロッサムのチャンピオンを3体獲得する。"
   },
   {
-    "stt": "2-5",
-    "id": "reach_for_the_stars",
-    "name": "Reach For the Stars",
+    "stt": 21,
+    "id": "bo-nasugihuto",
+    "name": "ボーナスギフト",
     "image": "tier-gold.png",
-    "tier": "2-1",
-    "description": "ジャックスは攻撃するたびに攻撃速度がスタックする。スキル使用時、近くの敵に飛び込みダメージを与え、戦闘終了までスタックする追加ダメージを付与する。"
+    "tier": "gold",
+    "description": "戦利品オーブを開くたび、?%の確率で灰色の戦利品オーブを獲得する。灰色の戦利品オーブを?個獲得する。"
   },
   {
-    "stt": "2-6",
-    "id": "meep_space_9",
-    "name": "Meep Space 9",
+    "stt": 22,
+    "id": "bo-nasugihuto_+",
+    "name": "ボーナスギフト +",
     "image": "tier-gold.png",
-    "tier": "2-1",
-    "description": "ミープシーはブロックのスキルの弱体化バージョンと強力な攻撃力を獲得する。"
+    "tier": "gold",
+    "description": "戦利品オーブを開くたび、?%の確率で灰色の戦利品オーブを獲得する。灰色の戦利品オーブを?個獲得する。"
   },
   {
-    "stt": "2-7",
-    "id": "star_conqueror",
-    "name": "Star Conqueror",
+    "stt": 23,
+    "id": "kiyapitarugein_ii",
+    "name": "キャピタルゲイン II",
     "image": "tier-gold.png",
-    "tier": "2-1",
-    "description": "モルデカイザーは通常攻撃ベースのAPキャリーとなる。チャネリング中、マナがある限り攻撃速度が大幅に上昇する。戦闘開始時とキル時にマナロックされないシールドを獲得する。"
+    "tier": "gold",
+    "description": "獲得する利息の?%にあたるゴールドを貯める。?-?ラウンドに、貯めたゴールドをすべて獲得する。即座に?ゴールドを獲得する。"
   },
   {
-    "stt": "2-8",
-    "id": "self_destruct",
-    "name": "Self Destruct",
+    "stt": 24,
+    "id": "Tai_Yang_niXuan_bareshiZhe_",
+    "name": "太陽に選ばれし者",
     "image": "tier-gold.png",
-    "tier": "2-1",
-    "description": "グラガスを獲得する。グラガスは自爆するようになり、最大体力の20%を犠牲にしてXXX(AP)＋犠牲にした体力を魔法ダメージとして周囲4マスに与える。中心から離れるほどダメージは20%ずつ減少する。"
+    "tier": "gold",
+    "description": "レオナ、ケイル、セジュアニを獲得する。毎ラウンド、レオナの最大体力が恒久的に?増加し、配置した異なる3つ星チャンピオン1体につき増加量が?上昇する。"
   },
   {
-    "stt": "2-9",
-    "id": "contract_killer",
-    "name": "Contract Killer",
+    "stt": 25,
+    "id": "huro-ranoXiao_Fei_",
+    "name": "フローラの消費",
     "image": "tier-gold.png",
-    "tier": "2-1",
-    "description": "パイクを獲得する。最も強いパイクはスキルがリセットされるようになり、キル時にゴールドを生成する。"
+    "tier": "gold",
+    "description": "フローラ・ファタリスの紋章を1個獲得する。装備したチャンピオンはフローラ・ファタリス特性の効果を2倍獲得し、マナ自動回復を?獲得する。"
   },
   {
-    "stt": "2-10",
-    "id": "side_effects",
-    "name": "Side Effects",
+    "stt": 26,
+    "id": "Sheng_Yue_noakoraito",
+    "name": "聖約のアコライト",
     "image": "tier-gold.png",
-    "tier": "3-2",
-    "description": "味方が回復したとき、回復量の50%を魔法ダメージとしてターゲットに与える。5秒ごとに味方は最大体力の5%を回復する。"
+    "tier": "gold",
+    "description": "カヴン・エッセンスを集め続けることを選ぶと、プレイヤー体力を?回復する。カミール、エリス、ケイトリンを獲得する。"
   },
   {
-    "stt": "2-11",
-    "id": "misfits",
-    "name": "Misfits",
+    "stt": 27,
+    "id": "da-kurichiyuaru",
+    "name": "ダークリチュアル",
     "image": "tier-gold.png",
-    "tier": "2-1",
-    "description": "有効なユニーク特性1つにつき、チームの体力が75増加する。ミス・フォーチュンとラーストを獲得する。"
+    "tier": "gold",
+    "description": "カヴン・エッセンスを報酬に変換すると、戦利品の代わりにカヴンのチャンピオンがスキルパワーを獲得する。カミール、エリス、ケイトリンを獲得する。"
   },
   {
-    "stt": "2-12",
-    "id": "booster_pack",
-    "name": "Booster Pack",
+    "stt": 28,
+    "id": "enbigen",
+    "name": "エンビゲン",
     "image": "tier-gold.png",
-    "tier": "2-1",
-    "description": "11ゴールド相当のランダムなチャンピオンを獲得する（少なくとも1体の3コスト確定）。"
+    "tier": "gold",
+    "description": "味方のフェイ・ピクシーが大きくなり、攻撃力とスキルパワーを?%多く付与する。ザヤとラカンを獲得する。"
   },
   {
-    "stt": "2-13",
-    "id": "booster_pack+",
-    "name": "Booster Pack+",
+    "stt": 29,
+    "id": "huo-shingu",
+    "name": "フォーシング",
     "image": "tier-gold.png",
-    "tier": "3-2",
-    "description": "18ゴールド相当のランダムなチャンピオンを獲得する（少なくとも1体の4コスト確定）。"
+    "tier": "gold",
+    "description": "ランダムな4コストチャンピオンを1体獲得する。そのチャンピオンが装備したアイテム1個につき、味方が体力を?獲得する。"
   },
   {
-    "stt": "2-14",
-    "id": "booster_pack++",
-    "name": "Booster Pack++",
+    "stt": 30,
+    "id": "aitemunoChou_Chu_",
+    "name": "アイテムの抽出",
     "image": "tier-gold.png",
-    "tier": "4-2",
-    "description": "30ゴールド相当のランダムなチャンピオンを獲得する（少なくとも1体の5コスト確定）。"
+    "tier": "gold",
+    "description": "最初の?回、エルドリッチのマスでチャンピオンを生け贄にすると、そのチャンピオンが装備していたランダムな素材アイテムのコピーを獲得する。ベイガー、レク＝サイ、アイテムリムーバーを?個獲得する。"
   },
   {
-    "stt": "2-15",
-    "id": "charge_transfer_ii",
-    "name": "Charge Transfer II",
+    "stt": 31,
+    "id": "ziyangurunoXiao_Dao_",
+    "name": "ジャングルの小道",
     "image": "tier-gold.png",
-    "tier": "3-2",
-    "description": "チームのダメージ増幅が8%上昇する。オーバーキルダメージの80%を最も近い敵に与える。"
+    "tier": "gold",
+    "description": "Pebbles、Cinderling、Scuttle Crab、Murkwolfを獲得する。レベルアップするたび、新しいリフトビーストと?ゴールドを獲得する。"
   },
   {
-    "stt": "2-16",
-    "id": "group_hug_ii",
-    "name": "Group Hug II",
+    "stt": 32,
+    "id": "oJin_niJi_eta+",
+    "name": "お金に飢えた+",
     "image": "tier-gold.png",
-    "tier": "3-2",
-    "description": "戦闘開始時：味方が隣接する他の味方に物理防御と魔法防御を9付与する。この効果はスタックする。"
+    "tier": "gold",
+    "description": "即座に?ゴールドを獲得し、以降は各ステージ開始時に?ゴールドを獲得する。ゴールドを拾うとタクティシャンが大きくなる。"
   },
   {
-    "stt": "2-17",
-    "id": "frontline_foundation",
-    "name": "Frontline Foundation",
+    "stt": 33,
+    "id": "Zi_Ran_noBi_Nan_Suo_",
+    "name": "自然の避難所",
     "image": "tier-gold.png",
-    "tier": "2-1",
-    "description": "星2の1コストタンクチャンピオンと、その一番最後に記載されている特性の紋章を獲得する。"
+    "tier": "gold",
+    "description": "エルダーウッドの植物に隣接して戦闘を始めたチャンピオンは攻撃速度を?%獲得し、?秒ごとに最大体力の?%を回復する。エルダーウッドチャンピオンを3体獲得する。"
   },
   {
-    "stt": "2-18",
-    "id": "kahunahuna",
-    "name": "Kahunahuna",
+    "stt": 34,
+    "id": "omegarihutobi-suto",
+    "name": "オメガリフトビースト",
     "image": "tier-gold.png",
-    "tier": "2-1",
-    "description": "5回目ごとの攻撃で、基礎攻撃力の200%に等しい追加確定ダメージを与える。"
+    "tier": "gold",
+    "description": "2体目のアルファ・リフトビーストを選べるようになる。リフトビーストを3体獲得する。"
   },
   {
-    "stt": "2-19",
-    "id": "cosmic_restart",
-    "name": "Cosmic Restart",
+    "stt": 35,
+    "id": "reiza-zuetsuzi",
+    "name": "レイザーズエッジ",
     "image": "tier-gold.png",
-    "tier": "3-2",
-    "description": "神々を呼び、ボードとベンチの全ユニットを売却する。ランダムな紋章2つと無料ショップリロール10回を獲得する。"
+    "tier": "gold",
+    "description": "2コストの2つ星チャンピオン1体とアイテムリムーバーを?個獲得する。対プレイヤー戦に勝利すると、アイテムベンチにある素材アイテム1個につき?ゴールドを獲得する。"
   },
   {
-    "stt": "2-20",
-    "id": "cognitive_overload",
-    "name": "Cognitive Overload",
+    "stt": 36,
+    "id": "Xiao_sanaMao_mukuziyaranoYou_Da_",
+    "name": "小さな毛むくじゃらの友達",
     "image": "tier-gold.png",
-    "tier": "3-2",
-    "description": "7ゴールド、星2の1コスト1体、2コスト1体、3コスト2体、1 XP、ショップリロール1回を獲得する。"
+    "tier": "gold",
+    "description": "スプリキン特性の発動中、?%の強さを持つ2体目の大きな毛むくじゃらの友達（BFF）を召喚する。スプリキンのチャンピオンを3体獲得する。"
   },
   {
-    "stt": "2-21",
-    "id": "backline_blueprint",
-    "name": "Backline Blueprint",
+    "stt": 37,
+    "id": "santomu-n",
+    "name": "サンとムーン",
     "image": "tier-gold.png",
-    "tier": "2-1",
-    "description": "タンク以外の3コストチャンピオンと、その一番最後に記載されている特性の紋章を獲得する。"
+    "tier": "gold",
+    "description": "味方のルナのチャンピオンは、配置した異なるソーラーのチャンピオン1体につき体力を?、ダメージ増幅を?%獲得する。2つ星のレオナ、ケイル、アフェリオスを獲得する。"
   },
   {
-    "stt": "2-22",
-    "id": "money_hungry",
-    "name": "Money Hungry",
+    "stt": 38,
+    "id": "Chui_Zhi_Xing__ii",
+    "name": "垂直性 II",
     "image": "tier-gold.png",
-    "tier": "2-1",
-    "description": "今すぐ10ゴールド獲得し、各ステージ開始時に7ゴールド獲得する。ゴールドを拾うとプレイヤーのサイズが大きくなる。"
+    "tier": "gold",
+    "description": "チャンピオンは自身と特性を共有する味方1体につき、攻撃力?%、スキルパワー?%、物理防御?、魔法防御?を獲得する。"
   },
   {
-    "stt": "3-1",
-    "id": "five-pointed_star",
-    "name": "Five-Pointed Star",
+    "stt": 39,
+    "id": "Mai_Zang_Jin_iii",
+    "name": "埋蔵金III",
     "image": "tier-prism.png",
-    "tier": "4-2",
-    "description": "各ステージ開始時、特定のコストから最初に購入するチャンピオンが星2になる。今すぐ星2の1コスト1体と2ゴールドを獲得。ステージ2：2コスト、ステージ3：3コスト、ステージ4：4コスト、ステージ5：5コスト。"
+    "tier": "prism",
+    "description": "即座に、さらに次の?ラウンドの開始時にランダムな素材アイテムを1個獲得する。"
   },
   {
-    "stt": "3-2",
-    "id": "just_hit",
-    "name": "Just Hit",
+    "stt": 40,
+    "id": "konpo-nentokuesuto",
+    "name": "コンポーネントクエスト",
     "image": "tier-prism.png",
-    "tier": "4-2",
-    "description": "チャンピオン複製器1つ、ショップリロール18回、10ゴールドを獲得する。"
+    "tier": "prism",
+    "description": "ランダムな素材アイテム1個と?ゴールドを獲得する。次の対プレイヤー戦で7回勝利するまで、勝利するたびに前回とは異なるランダムな素材アイテムを獲得する。その後、へらを獲得する。"
   },
   {
-    "stt": "3-3",
-    "id": "golden_gamble",
-    "name": "Golden Gamble",
+    "stt": 41,
+    "id": "nesuteinguanbiru",
+    "name": "ネスティングアンビル",
     "image": "tier-prism.png",
-    "tier": "2-1",
-    "description": "コインを投げる。表ならレディアントラッキーアイテムチェスト、裏ならランダムなレディアントアイテムと磁気除去装置を獲得する。"
+    "tier": "prism",
+    "description": "アーティファクトの金床を獲得する。開くと完成アイテムの金床を獲得し、それを開くと素材アイテムの金床を獲得する。最後の金床を開くと?ゴールドを獲得する。"
   },
   {
-    "stt": "3-4",
-    "id": "baron's_lair",
-    "name": "Baron's Lair",
+    "stt": 42,
+    "id": "nesuteinguanbiru_+",
+    "name": "ネスティングアンビル +",
     "image": "tier-prism.png",
-    "tier": "2-1",
-    "description": "タンクアイテムを獲得する。戦闘が8秒経過した後、残りの戦闘中、チームは毎秒5%の攻撃力と魔力を獲得する。"
+    "tier": "prism",
+    "description": "アーティファクトの金床を獲得する。開くと完成アイテムの金床を獲得し、それを開くと素材アイテムの金床を獲得する。最後の金床を開くと?ゴールドを獲得する。"
+  },
+  {
+    "stt": 43,
+    "id": "Ru_reZi_Ren_Xing_",
+    "name": "入れ子人形",
+    "image": "tier-prism.png",
+    "tier": "prism",
+    "description": "戦闘でチャンピオンが倒されると、スター段階が1つ低く、体力が?%のコピーを召喚する。無料リロールを?回獲得する"
+  },
+  {
+    "stt": 44,
+    "id": "Chu_Yan_",
+    "name": "出演",
+    "image": "tier-prism.png",
+    "tier": "prism",
+    "description": "チャンピオンを?体3つ星にすると、レベルが?になる。即座に、さらに各ラウンド開始時にリロールを?回獲得する。"
+  },
+  {
+    "stt": 45,
+    "id": "Te_Xing_rada-",
+    "name": "特性ラダー",
+    "image": "tier-prism.png",
+    "tier": "prism",
+    "description": "ランダムな紋章を1個獲得する。対プレイヤー戦で固有でない特性を?個発動させると報酬を獲得する。その後、必要な特性数と報酬の規模が増加する。"
+  },
+  {
+    "stt": 46,
+    "id": "Chui_Zhi_Xing__iii",
+    "name": "垂直性 III",
+    "image": "tier-prism.png",
+    "tier": "prism",
+    "description": "チャンピオンは自身と特性を共有する味方1体につき、攻撃力?%、スキルパワー?%、物理防御?、魔法防御?を獲得する。"
+  },
+  {
+    "stt": 47,
+    "id": "deadeye",
+    "name": "Deadeye",
+    "image": "Deadeye.png",
+    "tier": "",
+    "description": ""
+  },
+  {
+    "stt": 48,
+    "id": "world_runes",
+    "name": "World Runes",
+    "image": "World-Runes.png",
+    "tier": "",
+    "description": ""
   }
 ]

@@ -1,0 +1,1354 @@
+[
+  {
+    "section": "origin-synergy",
+    "name": "가시 여인",
+    "icon": "Trait_Icon_18_Thornmaiden_Large_White.png",
+    "champions": [
+      {
+        "name": "자이라",
+        "image": "Zyra.jpg"
+      }
+    ],
+    "description": "아군이 내구력을 ?% 얻으며, 자이라의 식물이 ?개 이상 살아 있으면 ?%로 증가합니다.",
+    "effects": []
+  },
+  {
+    "section": "origin-synergy",
+    "name": "거석",
+    "icon": "Trait_Icon_18_Monolith_Large_White.png",
+    "champions": [
+      {
+        "name": "말파이트",
+        "image": "Malphite.jpg"
+      }
+    ],
+    "description": "거석은 자신을 대상으로 지정한 적 하나당 방어력 및 마법 저항력을 ? 얻습니다.",
+    "effects": []
+  },
+  {
+    "section": "origin-synergy",
+    "name": "고목",
+    "icon": "Trait_Icon_18_OldGrowth_Large_White.png",
+    "champions": [
+      {
+        "name": "마오카이",
+        "image": "Maokai.jpg"
+      }
+    ],
+    "description": "?칸 내의 적이 사망할 때마다 영구적으로 최대 체력을 ? 얻습니다.\n\n현재: ?",
+    "effects": []
+  },
+  {
+    "section": "origin-synergy",
+    "name": "교감",
+    "icon": "Trait_Icon_18_Attuned_Large_White.png",
+    "champions": [
+      {
+        "name": "알룬",
+        "image": "Alune.jpg"
+      }
+    ],
+    "description": "가장 강한 아군 알룬이 스킬을 사용할 때마다 달의 위상이 바뀝니다. 달이 반달 이하일 때 아군이 내구력을 ?% 얻습니다. 반달을 넘으면 아군이 피해 증폭을 ?% 얻습니다.",
+    "effects": []
+  },
+  {
+    "section": "origin-synergy",
+    "name": "부식",
+    "icon": "Trait_Icon_18_Caustic_Large_White.png",
+    "champions": [
+      {
+        "name": "코그모",
+        "image": "KogMaw.jpg"
+      }
+    ],
+    "description": "부식 유닛이 피해를 입힐 경우 ?초 동안 적에게 파쇄 및 파열을 ?% 적용합니다.",
+    "effects": []
+  },
+  {
+    "section": "origin-synergy",
+    "name": "아바타",
+    "icon": "Trait_Icon_18_Avatar_Large_White.png",
+    "champions": [
+      {
+        "name": "럭스 (개화)",
+        "image": "LuxBlossom.jpg"
+      }
+    ],
+    "description": "대기석 또는 전장에 아바타가 있으면 상점 내 모든 아바타의 특성이 해당 아바타의 특성으로 바뀝니다. 특정 특성의 아바타는 한 명만 보유할 수 있습니다.\n\n특성 추가 효과에 대하여 아바타의 선택된 특성은 두 번 적용됩니다.",
+    "effects": []
+  },
+  {
+    "section": "origin-synergy",
+    "name": "에메랄드 위상",
+    "icon": "Trait_Icon_18_EmeraldAspect_Large_White.png",
+    "champions": [
+      {
+        "name": "타릭",
+        "image": "Taric.jpg"
+      }
+    ],
+    "description": "아군을 가장 강한 아군 타릭에게 끌어다 놓으면 짝을 이루어, 해당 아군이 타릭의 스킬로부터 강력한 추가 효과를 얻습니다.",
+    "effects": []
+  },
+  {
+    "section": "origin-synergy",
+    "name": "자연의 아버지",
+    "icon": "Trait_Icon_18_Greenfather_Large_White.png",
+    "champions": [
+      {
+        "name": "아이번",
+        "image": "Ivern.jpg"
+      }
+    ],
+    "description": "가장 강한 아군 아이번이 스킬을 사용할 때마다 씨앗 ?개를 얻고, 전투마다 추가로 ?개를 더 얻습니다. 아이번은 씨앗을 ?개 사용하여 전장의 칸을 성장시키며, 해당 칸에 배치된 유닛에게 추가 효과를 부여합니다.\n\n씨앗: ? | ?\n\n현재 생태계:",
+    "effects": []
+  },
+  {
+    "section": "origin-synergy",
+    "name": "최상위 포식자",
+    "icon": "Trait_Icon_18_ApexPredator_Large_White.png",
+    "champions": [
+      {
+        "name": "장로 드래곤",
+        "image": "TheElderDragon.jpg"
+      }
+    ],
+    "description": "장로 드래곤은 2개의 팀 슬롯을 차지하며 협곡야수 특성을 +2 추가합니다.",
+    "effects": []
+  },
+  {
+    "section": "origin-synergy",
+    "name": "현상금 사냥꾼",
+    "icon": "Trait_Icon_18_BountySeeker_Large_White.png",
+    "champions": [
+      {
+        "name": "드레이븐",
+        "image": "Draven.jpg"
+      }
+    ],
+    "description": "현상금 임무를 선택합니다. 가장 강한 아군 드레이븐이 선택한 임무를 수행하여 보상을 획득할 수 있습니다. 임무를 완료하면 다른 임무를 선택합니다.",
+    "effects": []
+  },
+  {
+    "section": "origin-synergy",
+    "name": "개화",
+    "icon": "Trait_Icon_18_Blossom_Large_White.png",
+    "champions": [
+      {
+        "name": "카르마",
+        "image": "Karma.jpg"
+      },
+      {
+        "name": "요릭",
+        "image": "Yorick.jpg"
+      },
+      {
+        "name": "유나라",
+        "image": "Yunara.jpg"
+      },
+      {
+        "name": "마스터 이",
+        "image": "MasterYi.jpg"
+      },
+      {
+        "name": "아리",
+        "image": "Ahri.jpg"
+      },
+      {
+        "name": "세트",
+        "image": "Sett.jpg"
+      },
+      {
+        "name": "애쉬",
+        "image": "Ashe.jpg"
+      },
+      {
+        "name": "럭스 (개화)",
+        "image": "LuxBlossom.jpg"
+      }
+    ],
+    "description": "전투 후 수호령이 강화됩니다.\n\n개화 챔피언은 공격력, 주문력 및 최대 체력 ?%를 얻습니다.",
+    "effects": [
+      {
+        "count": "(3)\n수호령 업그레이드, 공격력/주문력 ?%",
+        "text": "(5)\n모든 상점에 수호령 등장, 공격력/주문력 ?%"
+      },
+      {
+        "count": "(3)",
+        "text": "수호령 업그레이드, 공격력/주문력 ?%"
+      },
+      {
+        "count": "(5)",
+        "text": "모든 상점에 수호령 등장, 공격력/주문력 ?%"
+      },
+      {
+        "count": "(7)",
+        "text": "수호령 구매 시 ?골드 획득, 공격력/주문력 ?%"
+      },
+      {
+        "count": "(9)",
+        "text": "라운드마다 수호령 2개 구매 가능, 공격력/주문력 ?%"
+      },
+      {
+        "count": "(11)",
+        "text": "수호령의 힘이 넘쳐흐릅니다. 공격력/주문력 ?%"
+      }
+    ]
+  },
+  {
+    "section": "origin-synergy",
+    "name": "경쟁자",
+    "icon": "Trait_Icon_18_Rival_Large_White.png",
+    "champions": [
+      {
+        "name": "카직스",
+        "image": "KhaZix.jpg"
+      },
+      {
+        "name": "렝가",
+        "image": "Rengar.jpg"
+      }
+    ],
+    "description": "가장 강한 아군 경쟁자에게만 적용됩니다.",
+    "effects": [
+      {
+        "count": "(1)\n경쟁자를 1명만 배치했을 때 활성화됩니다. 경쟁자는 처치 관여를 수집하며, 다른 경쟁자를 처치하는 데 관여하면 3회를 추가로 수집합니다.",
+        "text": "(2)\n경쟁자를 함께 전장에 배치할 수 있습니다."
+      },
+      {
+        "count": "(1)",
+        "text": "경쟁자를 1명만 배치했을 때 활성화됩니다. 경쟁자는 처치 관여를 수집하며, 다른 경쟁자를 처치하는 데 관여하면 3회를 추가로 수집합니다."
+      },
+      {
+        "count": "(2)",
+        "text": "경쟁자를 함께 전장에 배치할 수 있습니다."
+      }
+    ]
+  },
+  {
+    "section": "origin-synergy",
+    "name": "나무정령",
+    "icon": "Trait_Icon_18_Elderwood_Large_White.png",
+    "champions": [
+      {
+        "name": "오른",
+        "image": "Ornn.jpg"
+      },
+      {
+        "name": "자야",
+        "image": "Xayah.jpg"
+      },
+      {
+        "name": "알리스타",
+        "image": "Alistar.jpg"
+      },
+      {
+        "name": "르블랑",
+        "image": "LeBlanc.jpg"
+      },
+      {
+        "name": "헤카림",
+        "image": "Hecarim.jpg"
+      },
+      {
+        "name": "이즈리얼",
+        "image": "Ezreal.jpg"
+      },
+      {
+        "name": "나르",
+        "image": "Gnar.jpg"
+      },
+      {
+        "name": "럭스 (나무정령)",
+        "image": "LuxElderwood.jpg"
+      }
+    ],
+    "description": "배치할 수 있는 나무정령 식물을 획득합니다.\n\n나무정령의 별 레벨에 따라 식물이 ?% 최대 체력과 ?% 주문력을 얻습니다.",
+    "effects": [
+      {
+        "count": "(3)\n돌껍질 나무와 생명꽃",
+        "text": "(5)\n두 번째 돌껍질 나무"
+      },
+      {
+        "count": "(3)",
+        "text": "돌껍질 나무와 생명꽃"
+      },
+      {
+        "count": "(5)",
+        "text": "두 번째 돌껍질 나무"
+      },
+      {
+        "count": "(7)",
+        "text": "그리고 깊은숲 수호자"
+      },
+      {
+        "count": "(9)",
+        "text": "식물의 별 레벨이 2성까지 성장"
+      },
+      {
+        "count": "(11)",
+        "text": "식물의 별 레벨이 3성까지 성장"
+      }
+    ]
+  },
+  {
+    "section": "origin-synergy",
+    "name": "날렵이",
+    "icon": "Trait_Icon_18_Sprykin_Large_White.png",
+    "champions": [
+      {
+        "name": "코부코",
+        "image": "Kobuko.jpg"
+      },
+      {
+        "name": "베이가",
+        "image": "Veigar.jpg"
+      },
+      {
+        "name": "티모",
+        "image": "Teemo.jpg"
+      },
+      {
+        "name": "람머스",
+        "image": "Rammus.jpg"
+      },
+      {
+        "name": "트리스타나",
+        "image": "Tristana.jpg"
+      },
+      {
+        "name": "나르",
+        "image": "Gnar.jpg"
+      }
+    ],
+    "description": "커다란 털복숭이 친구를 획득합니다. 날렵이를 커다란 털복숭이 친구 위에 놓아 기수로 정합니다.\n\n기수의 역할군이 근거리 또는 원거리인지에 따라 커다란 털복숭이 친구의 기본 공격과 스킬이 변경됩니다.",
+    "effects": [
+      {
+        "count": "(3)\n기수가 체력 ?% 및 공격 속도 ?%를 얻습니다.",
+        "text": "(5)\n체력 ?% 및 공격 속도 ?%, 그리고 커다란 털복숭이 친구 스킬 효과의 ?%가 아군 전체에게 적용됩니다."
+      },
+      {
+        "count": "(3)",
+        "text": "기수가 체력 ?% 및 공격 속도 ?%를 얻습니다."
+      },
+      {
+        "count": "(5)",
+        "text": "체력 ?% 및 공격 속도 ?%, 그리고 커다란 털복숭이 친구 스킬 효과의 ?%가 아군 전체에게 적용됩니다."
+      },
+      {
+        "count": "(7)",
+        "text": "체력 ?% 및 공격 속도 ?%, 그리고 커다란 털복숭이 친구 스킬 효과의 ?%가 아군 날렵이에게 적용됩니다."
+      }
+    ]
+  },
+  {
+    "section": "origin-synergy",
+    "name": "달",
+    "icon": "Trait_Icon_18_Lunar_Large_White.png",
+    "champions": [
+      {
+        "name": "다이애나",
+        "image": "Diana.jpg"
+      },
+      {
+        "name": "아펠리오스",
+        "image": "Aphelios.jpg"
+      },
+      {
+        "name": "알룬",
+        "image": "Alune.jpg"
+      },
+      {
+        "name": "럭스 (달)",
+        "image": "LuxLunar.jpg"
+      }
+    ],
+    "description": "달 챔피언과 인접한 아군이 공격 속도와 주문력을 얻습니다. 달 챔피언은 능력치를 ?% 더 얻습니다.\n\n...달이 죽음과 삭망을 불러옵니다.",
+    "effects": [
+      {
+        "count": "(2)\n공격 속도 ?%, 주문력 ?%",
+        "text": "(3)\n공격 속도 ?%, 주문력 ?%"
+      },
+      {
+        "count": "(2)",
+        "text": "공격 속도 ?%, 주문력 ?%"
+      },
+      {
+        "count": "(3)",
+        "text": "공격 속도 ?%, 주문력 ?%"
+      },
+      {
+        "count": "(4)",
+        "text": "공격 속도 ?%, 주문력 ?%"
+      },
+      {
+        "count": "(5)",
+        "text": "공격 속도 ?%, 주문력 ?%"
+      }
+    ]
+  },
+  {
+    "section": "origin-synergy",
+    "name": "섬뜩한 힘",
+    "icon": "Trait_Icon_18_Eldritch_Large_White.png",
+    "champions": [
+      {
+        "name": "렉사이",
+        "image": "RekSai.jpg"
+      },
+      {
+        "name": "베이가",
+        "image": "Veigar.jpg"
+      },
+      {
+        "name": "워윅",
+        "image": "Warwick.jpg"
+      },
+      {
+        "name": "아지르",
+        "image": "Azir.jpg"
+      },
+      {
+        "name": "말파이트",
+        "image": "Malphite.jpg"
+      },
+      {
+        "name": "럭스 (섬뜩한 힘)",
+        "image": "LuxEldritch.jpg"
+      }
+    ],
+    "description": "섬뜩한 힘 칸에 있는 아군이 전투 시작 시 제물로 바쳐져 아군에게 체력을 부여합니다.\n\n섬뜩한 힘 챔피언은 제물의 역할군, 별 레벨, 비용에 따라 추가 능력치를 얻습니다.",
+    "effects": [
+      {
+        "count": "(2)\n체력 ?",
+        "text": "(4)\n체력 ?, 추가 효과 ?% 강화"
+      },
+      {
+        "count": "(2)",
+        "text": "체력 ?"
+      },
+      {
+        "count": "(4)",
+        "text": "체력 ?, 추가 효과 ?% 강화"
+      },
+      {
+        "count": "(6)",
+        "text": "체력 ?, 제물이 죽지 않습니다. 또한 다음 효과를 얻습니다: 공격력 및 주문력 ?%, 공격 속도 ?%, 방어력 및 마법 저항력 ?, 추가 체력 ?, 모든 피해 흡혈 ?%"
+      }
+    ]
+  },
+  {
+    "section": "origin-synergy",
+    "name": "악의 여단",
+    "icon": "Trait_Icon_18_Coven_Large_White.png",
+    "champions": [
+      {
+        "name": "카밀",
+        "image": "Camille.jpg"
+      },
+      {
+        "name": "케이틀린",
+        "image": "Caitlyn.jpg"
+      },
+      {
+        "name": "엘리스",
+        "image": "Elise.jpg"
+      },
+      {
+        "name": "카시오페아",
+        "image": "Cassiopeia.jpg"
+      },
+      {
+        "name": "모르가나",
+        "image": "Morgana.jpg"
+      },
+      {
+        "name": "럭스 (악의 여단)",
+        "image": "LuxCoven.jpg"
+      }
+    ],
+    "description": "적을 처치하면 정수를 획득하며, 플레이어 대상 전투에서 패배하면 더 많이 얻습니다.\n\n정수가 ? 에 도달하면, 정수를 보상으로 전환하거나 계속해서 정수를 모을 수 있습니다. 각 보상마다 더 많은 정수량이 필요합니다.",
+    "effects": [
+      {
+        "count": "(3)\n처치당 정수 ?, 패배당 정수 ?",
+        "text": "(4)\n처치당 ?, 패배당 ?"
+      },
+      {
+        "count": "(3)",
+        "text": "처치당 정수 ?, 패배당 정수 ?"
+      },
+      {
+        "count": "(4)",
+        "text": "처치당 ?, 패배당 ?"
+      },
+      {
+        "count": "(5)",
+        "text": "처치당 ?, 패배당 ?"
+      },
+      {
+        "count": "(7)",
+        "text": "처치당 ?, 패배당 ?"
+      }
+    ]
+  },
+  {
+    "section": "origin-synergy",
+    "name": "요정",
+    "icon": "Trait_Icon_18_Fae_Large_White.png",
+    "champions": [
+      {
+        "name": "라칸",
+        "image": "Rakan.jpg"
+      },
+      {
+        "name": "자야",
+        "image": "Xayah.jpg"
+      },
+      {
+        "name": "트리스타나",
+        "image": "Tristana.jpg"
+      },
+      {
+        "name": "릴리아",
+        "image": "Lillia.jpg"
+      },
+      {
+        "name": "럭스 (요정)",
+        "image": "LuxFae.jpg"
+      }
+    ],
+    "description": "아군의 피해, 체력 회복, 보호막이 픽시를 끌어들입니다.\n\n픽시 하나당 요정 챔피언이 공격력과 주문력을 얻으며, 체력이 ?% 아래로 떨어지면 픽시 하나당 체력을 회복합니다.\n\n현재 픽시: ? | 7\n다음 픽시: ? | ?",
+    "effects": [
+      {
+        "count": "(2)\n공격력 및 주문력 ?%, 회복 ?%",
+        "text": "(4)\n공격력 및 주문력 ?%, 회복 ?%, 픽시를 7마리 끌어들이면 대신 골드를 제공하는 황금 픽시를 끌어들입니다."
+      },
+      {
+        "count": "(2)",
+        "text": "공격력 및 주문력 ?%, 회복 ?%"
+      },
+      {
+        "count": "(4)",
+        "text": "공격력 및 주문력 ?%, 회복 ?%, 픽시를 7마리 끌어들이면 대신 골드를 제공하는 황금 픽시를 끌어들입니다."
+      }
+    ]
+  },
+  {
+    "section": "origin-synergy",
+    "name": "일월식",
+    "icon": "Trait_Icon_18_Eclipse_Large_White.png",
+    "champions": [],
+    "description": "전투 시작 ?초 후, 일월식이 체력이 가장 낮은 적을 처치하며, 이후 ?초마다 반복됩니다.",
+    "effects": []
+  },
+  {
+    "section": "origin-synergy",
+    "name": "지옥불",
+    "icon": "Trait_Icon_18_Inferno_Large_White.png",
+    "champions": [
+      {
+        "name": "아칼리",
+        "image": "Akali.jpg"
+      },
+      {
+        "name": "바루스",
+        "image": "Varus.jpg"
+      },
+      {
+        "name": "쉔",
+        "image": "Shen.jpg"
+      },
+      {
+        "name": "아무무",
+        "image": "Amumu.jpg"
+      },
+      {
+        "name": "케넨",
+        "image": "Kennen.jpg"
+      },
+      {
+        "name": "럭스 (지옥불)",
+        "image": "LuxInferno.jpg"
+      }
+    ],
+    "description": "지옥불 피해가 적에게 ?초 동안 불태우기 및 ?% 상처를 적용합니다. 지옥불 불태우기는 다른 불태우기 효과와 중첩됩니다.\n\n불태우기: 매초 대상 최대 체력의 일정 비율만큼 고정 피해\n상처: 체력 회복량 감소",
+    "effects": [
+      {
+        "count": "(2)\n불태우기 ?%",
+        "text": "(3)\n전투 후, 지옥불 챔피언이 없는 상점 슬롯 ?개가 점화되어 한 단계 높은 챔피언이 등장합니다"
+      },
+      {
+        "count": "(2)",
+        "text": "불태우기 ?%"
+      },
+      {
+        "count": "(3)",
+        "text": "전투 후, 지옥불 챔피언이 없는 상점 슬롯 ?개가 점화되어 한 단계 높은 챔피언이 등장합니다"
+      },
+      {
+        "count": "(5)",
+        "text": "상점 슬롯 ?개 점화, 불태우기 ?%"
+      },
+      {
+        "count": "(7)",
+        "text": "상점 슬롯 ?개 점화, 불태우기 ?%"
+      }
+    ]
+  },
+  {
+    "section": "origin-synergy",
+    "name": "치명적인 꽃",
+    "icon": "Trait_Icon_18_FloraFatalis_Large_White.png",
+    "champions": [
+      {
+        "name": "피들스틱",
+        "image": "Fiddlesticks.jpg"
+      },
+      {
+        "name": "소라카",
+        "image": "Soraka.jpg"
+      }
+    ],
+    "description": "치명적인 꽃 챔피언이 적 처치 관여 시 적을 수확하여 다음 효과를 얻습니다:",
+    "effects": [
+      {
+        "count": "(1)\n마나 ?",
+        "text": "(2)\n그리고 체력이 가장 낮은 아군에게 최대 체력의 ?%만큼 체력을 회복합니다."
+      },
+      {
+        "count": "(1)",
+        "text": "마나 ?"
+      },
+      {
+        "count": "(2)",
+        "text": "그리고 체력이 가장 낮은 아군에게 최대 체력의 ?%만큼 체력을 회복합니다."
+      }
+    ]
+  },
+  {
+    "section": "origin-synergy",
+    "name": "태고",
+    "icon": "Trait_Icon_18_Primal_Large_White.png",
+    "champions": [
+      {
+        "name": "바이",
+        "image": "Vi.jpg"
+      },
+      {
+        "name": "니달리",
+        "image": "Nidalee.jpg"
+      },
+      {
+        "name": "시비르",
+        "image": "Sivir.jpg"
+      },
+      {
+        "name": "럭스 (태고)",
+        "image": "LuxPrimal.jpg"
+      }
+    ],
+    "description": "태고의 축복 네 가지 중 하나를 선택합니다.",
+    "effects": [
+      {
+        "count": "(2)\n?",
+        "text": "(4)\n?"
+      },
+      {
+        "count": "(2)",
+        "text": "?"
+      },
+      {
+        "count": "(4)",
+        "text": "?"
+      }
+    ]
+  },
+  {
+    "section": "origin-synergy",
+    "name": "태양",
+    "icon": "Trait_Icon_18_Solar_Large_White.png",
+    "champions": [
+      {
+        "name": "레오나",
+        "image": "Leona.jpg"
+      },
+      {
+        "name": "케일",
+        "image": "Kayle.jpg"
+      },
+      {
+        "name": "세주아니",
+        "image": "Sejuani.jpg"
+      },
+      {
+        "name": "럭스 (태양)",
+        "image": "LuxSolar.jpg"
+      }
+    ],
+    "description": "단계별 효과는 아래에서 확인할 수 있습니다.",
+    "effects": [
+      {
+        "count": "(3)",
+        "text": "아군 챔피언이 최대 체력의 ?%만큼 보호막을 얻고 추가 마법 피해를 ?% 입힙니다. 서로 다른 3성 챔피언마다 추가 효과를 얻습니다:\n\n1+: 3성 챔피언 하나당 보호막과 마법 피해가 ?% 증가합니다.\n?: 공격 속도 ?%, 방어력 및 마법 저항력 ?\n?: 추가 마법 피해의 ?%가 고정 피해로 전환됩니다.\n?: 3성 챔피언이 전투 중 4성으로 초월합니다.\n\n태양이 세 명, 그리고 또 세 명의 영웅을 비출 때..."
+      }
+    ]
+  },
+  {
+    "section": "origin-synergy",
+    "name": "협곡야수",
+    "icon": "Trait_Icon_18_Riftbeast_Large_White.png",
+    "champions": [
+      {
+        "name": "덩굴 묘목",
+        "image": "Cinderling.jpg"
+      },
+      {
+        "name": "Pebbles",
+        "image": "Pebbles.jpg"
+      },
+      {
+        "name": "심술두꺼비",
+        "image": "Gromp.jpg"
+      },
+      {
+        "name": "어스름 늑대",
+        "image": "Murkwolf.jpg"
+      },
+      {
+        "name": "바위 게",
+        "image": "Scuttlecrab.jpg"
+      },
+      {
+        "name": "돌거북",
+        "image": "Krug.jpg"
+      },
+      {
+        "name": "칼날부리",
+        "image": "Raptor.jpg"
+      },
+      {
+        "name": "고대 파수꾼",
+        "image": "AncientSentinel.jpg"
+      },
+      {
+        "name": "덩굴정령",
+        "image": "Brambleback.jpg"
+      },
+      {
+        "name": "장로 드래곤",
+        "image": "TheElderDragon.jpg"
+      }
+    ],
+    "description": "단계별 효과는 아래에서 확인할 수 있습니다.",
+    "effects": [
+      {
+        "count": "(3)\n우두머리 표식을 사용하여 협곡야수 하나에게 고유 강화 효과를 부여합니다",
+        "text": "(5)\n플레이어 대상 전투 ?회마다 다음 상점이 협곡야수로 가득 찹니다"
+      },
+      {
+        "count": "(3)",
+        "text": "우두머리 표식을 사용하여 협곡야수 하나에게 고유 강화 효과를 부여합니다"
+      },
+      {
+        "count": "(5)",
+        "text": "플레이어 대상 전투 ?회마다 다음 상점이 협곡야수로 가득 찹니다"
+      },
+      {
+        "count": "(7)",
+        "text": "전투 시작 시 및 5초마다 협곡야수가 성장하여 다음 효과를 얻습니다: 공격력 ?%, 주문력 ?%, 공격 속도 ?%, 방어력 ?, 마법 저항력 ?, 체력 ?, 마나 재생 ?"
+      },
+      {
+        "count": "(10)",
+        "text": "최대 팀 규모 +?"
+      }
+    ]
+  },
+  {
+    "section": "class-synergy",
+    "name": "기원자",
+    "icon": "Trait_Icon_18_Invoker_Large_White.png",
+    "champions": [
+      {
+        "name": "Pebbles",
+        "image": "Pebbles.jpg"
+      },
+      {
+        "name": "티모",
+        "image": "Teemo.jpg"
+      },
+      {
+        "name": "코그모",
+        "image": "KogMaw.jpg"
+      },
+      {
+        "name": "고대 파수꾼",
+        "image": "AncientSentinel.jpg"
+      },
+      {
+        "name": "모르가나",
+        "image": "Morgana.jpg"
+      }
+    ],
+    "description": "아군이 마나 재생을 얻습니다. 기원자는 마나 재생을 더 얻습니다.",
+    "effects": [
+      {
+        "count": "(2)\n마나 재생 ? | 마나 재생 ?",
+        "text": "(3)\n마나 재생 ? | 마나 재생 ?"
+      },
+      {
+        "count": "(2)",
+        "text": "마나 재생 ? | 마나 재생 ?"
+      },
+      {
+        "count": "(3)",
+        "text": "마나 재생 ? | 마나 재생 ?"
+      },
+      {
+        "count": "(4)",
+        "text": "마나 재생 ? | 마나 재생 ?"
+      },
+      {
+        "count": "(5)",
+        "text": "마나 재생 ? | 마나 재생 ?"
+      }
+    ]
+  },
+  {
+    "section": "class-synergy",
+    "name": "사냥꾼",
+    "icon": "Trait_Icon_18_Hunter_Large_White.png",
+    "champions": [
+      {
+        "name": "덩굴 묘목",
+        "image": "Cinderling.jpg"
+      },
+      {
+        "name": "케이틀린",
+        "image": "Caitlyn.jpg"
+      },
+      {
+        "name": "트리스타나",
+        "image": "Tristana.jpg"
+      },
+      {
+        "name": "시비르",
+        "image": "Sivir.jpg"
+      },
+      {
+        "name": "애쉬",
+        "image": "Ashe.jpg"
+      }
+    ],
+    "description": "사냥꾼이 공격력을 얻습니다. 사냥꾼이 ?초 동안 대상을 변경하지 않으면 피해 증폭을 ?% 얻습니다.",
+    "effects": [
+      {
+        "count": "(2)\n공격력 ?%",
+        "text": "(3)\n공격력 ?%"
+      },
+      {
+        "count": "(2)",
+        "text": "공격력 ?%"
+      },
+      {
+        "count": "(3)",
+        "text": "공격력 ?%"
+      },
+      {
+        "count": "(4)",
+        "text": "공격력 ?%"
+      },
+      {
+        "count": "(5)",
+        "text": "공격력 ?%"
+      }
+    ]
+  },
+  {
+    "section": "class-synergy",
+    "name": "선봉대",
+    "icon": "Trait_Icon_18_Vanguard_Large_White.png",
+    "champions": [
+      {
+        "name": "라칸",
+        "image": "Rakan.jpg"
+      },
+      {
+        "name": "엘리스",
+        "image": "Elise.jpg"
+      },
+      {
+        "name": "다이애나",
+        "image": "Diana.jpg"
+      },
+      {
+        "name": "헤카림",
+        "image": "Hecarim.jpg"
+      },
+      {
+        "name": "고대 파수꾼",
+        "image": "AncientSentinel.jpg"
+      },
+      {
+        "name": "타릭",
+        "image": "Taric.jpg"
+      }
+    ],
+    "description": "전투 시작 시 및 체력 ?% 아래로 떨어지면, 선봉대가 ?초 동안 최대 체력 비례 보호막을 얻습니다.",
+    "effects": [
+      {
+        "count": "(2)\n최대 체력의 ?%",
+        "text": "(4)\n최대 체력의 ?%"
+      },
+      {
+        "count": "(2)",
+        "text": "최대 체력의 ?%"
+      },
+      {
+        "count": "(4)",
+        "text": "최대 체력의 ?%"
+      },
+      {
+        "count": "(6)",
+        "text": "최대 체력의 ?%, 보호막이 씌워진 동안 내구력 ?%"
+      }
+    ]
+  },
+  {
+    "section": "class-synergy",
+    "name": "소환사",
+    "icon": "Trait_Icon_18_Summoner_Large_White.png",
+    "champions": [
+      {
+        "name": "요릭",
+        "image": "Yorick.jpg"
+      },
+      {
+        "name": "아지르",
+        "image": "Azir.jpg"
+      },
+      {
+        "name": "칼날부리",
+        "image": "Raptor.jpg"
+      },
+      {
+        "name": "자이라",
+        "image": "Zyra.jpg"
+      }
+    ],
+    "description": "소환사는 각기 다른 방식으로 자신의 소환수를 강화합니다.\n\n요릭: 체력 ?% 증가\n아지르: 피해량 ?% 증가\n랩터: 피해량 ?% 증가\n자이라: 식물 공격 횟수 ? 증가",
+    "effects": [
+      {
+        "count": "(2)\n소환수 강화",
+        "text": "(3)\n각 효과 50% 증가"
+      },
+      {
+        "count": "(2)",
+        "text": "소환수 강화"
+      },
+      {
+        "count": "(3)",
+        "text": "각 효과 50% 증가"
+      }
+    ]
+  },
+  {
+    "section": "class-synergy",
+    "name": "속사포",
+    "icon": "Trait_Icon_18_Rapidfire_Large_White.png",
+    "champions": [
+      {
+        "name": "바루스",
+        "image": "Varus.jpg"
+      },
+      {
+        "name": "자야",
+        "image": "Xayah.jpg"
+      },
+      {
+        "name": "케일",
+        "image": "Kayle.jpg"
+      },
+      {
+        "name": "칼날부리",
+        "image": "Raptor.jpg"
+      },
+      {
+        "name": "아펠리오스",
+        "image": "Aphelios.jpg"
+      }
+    ],
+    "description": "아군이 공격 속도를 ?% 얻습니다. 속사포 챔피언은 기본 공격마다 공격 속도를 더 얻습니다. (최대 ?회 중첩)",
+    "effects": [
+      {
+        "count": "(2)\n기본 공격당 공격 속도 ?%",
+        "text": "(3)\n기본 공격당 공격 속도 ?%"
+      },
+      {
+        "count": "(2)",
+        "text": "기본 공격당 공격 속도 ?%"
+      },
+      {
+        "count": "(3)",
+        "text": "기본 공격당 공격 속도 ?%"
+      },
+      {
+        "count": "(4)",
+        "text": "기본 공격당 공격 속도 ?%"
+      },
+      {
+        "count": "(5)",
+        "text": "기본 공격당 공격 속도 ?%"
+      }
+    ]
+  },
+  {
+    "section": "class-synergy",
+    "name": "싸움꾼",
+    "icon": "Trait_Icon_18_Brawler_Large_White.png",
+    "champions": [
+      {
+        "name": "코부코",
+        "image": "Kobuko.jpg"
+      },
+      {
+        "name": "렉사이",
+        "image": "RekSai.jpg"
+      },
+      {
+        "name": "알리스타",
+        "image": "Alistar.jpg"
+      },
+      {
+        "name": "돌거북",
+        "image": "Krug.jpg"
+      },
+      {
+        "name": "세트",
+        "image": "Sett.jpg"
+      },
+      {
+        "name": "나르",
+        "image": "Gnar.jpg"
+      }
+    ],
+    "description": "아군이 최대 체력을 ?% 얻습니다. 싸움꾼은 능력치를 더 얻습니다.",
+    "effects": [
+      {
+        "count": "(2)\n최대 체력 ?%",
+        "text": "(4)\n최대 체력 ?%"
+      },
+      {
+        "count": "(2)",
+        "text": "최대 체력 ?%"
+      },
+      {
+        "count": "(4)",
+        "text": "최대 체력 ?%"
+      },
+      {
+        "count": "(6)",
+        "text": "최대 체력 ?%"
+      }
+    ]
+  },
+  {
+    "section": "class-synergy",
+    "name": "약탈자",
+    "icon": "Trait_Icon_18_Ravager_Large_White.png",
+    "champions": [
+      {
+        "name": "아칼리",
+        "image": "Akali.jpg"
+      },
+      {
+        "name": "카밀",
+        "image": "Camille.jpg"
+      },
+      {
+        "name": "어스름 늑대",
+        "image": "Murkwolf.jpg"
+      },
+      {
+        "name": "워윅",
+        "image": "Warwick.jpg"
+      },
+      {
+        "name": "다이애나",
+        "image": "Diana.jpg"
+      },
+      {
+        "name": "덩굴정령",
+        "image": "Brambleback.jpg"
+      }
+    ],
+    "description": "약탈자가 모든 피해 흡혈을 ?% 얻습니다. 추가로 약탈자는 추가 피해를 입히며, 체력이 ?% 아래인 유닛에게는 두 배로 증가합니다.",
+    "effects": [
+      {
+        "count": "(2)\n추가 피해 ?%",
+        "text": "(4)\n추가 피해 ?%"
+      },
+      {
+        "count": "(2)",
+        "text": "추가 피해 ?%"
+      },
+      {
+        "count": "(4)",
+        "text": "추가 피해 ?%"
+      },
+      {
+        "count": "(6)",
+        "text": "추가 피해 ?%"
+      }
+    ]
+  },
+  {
+    "section": "class-synergy",
+    "name": "엄호대",
+    "icon": "Trait_Icon_18_Defender_Large_White.png",
+    "champions": [
+      {
+        "name": "레오나",
+        "image": "Leona.jpg"
+      },
+      {
+        "name": "오른",
+        "image": "Ornn.jpg"
+      },
+      {
+        "name": "쉔",
+        "image": "Shen.jpg"
+      },
+      {
+        "name": "피들스틱",
+        "image": "Fiddlesticks.jpg"
+      },
+      {
+        "name": "람머스",
+        "image": "Rammus.jpg"
+      },
+      {
+        "name": "릴리아",
+        "image": "Lillia.jpg"
+      }
+    ],
+    "description": "아군이 방어력 및 마법 저항력을 ? 얻습니다. 엄호대는 능력치를 더 얻습니다.",
+    "effects": [
+      {
+        "count": "(2)\n방어력 및 마법 저항력 ?",
+        "text": "(4)\n방어력 및 마법 저항력 ?"
+      },
+      {
+        "count": "(2)",
+        "text": "방어력 및 마법 저항력 ?"
+      },
+      {
+        "count": "(4)",
+        "text": "방어력 및 마법 저항력 ?"
+      },
+      {
+        "count": "(6)",
+        "text": "방어력 및 마법 저항력 ?"
+      }
+    ]
+  },
+  {
+    "section": "class-synergy",
+    "name": "적응가",
+    "icon": "Trait_Icon_18_Adaptor_Large_White.png",
+    "champions": [
+      {
+        "name": "아칼리",
+        "image": "Akali.jpg"
+      },
+      {
+        "name": "심술두꺼비",
+        "image": "Gromp.jpg"
+      },
+      {
+        "name": "코그모",
+        "image": "KogMaw.jpg"
+      },
+      {
+        "name": "마스터 이",
+        "image": "MasterYi.jpg"
+      },
+      {
+        "name": "니달리",
+        "image": "Nidalee.jpg"
+      }
+    ],
+    "description": "고유: 적응가의 스킬은 공격력과 주문력 중 더 높은 능력치에 따라 바뀝니다.\n\n적응가는 공격력과 주문력 중 더 높은 쪽의 능력치를 얻습니다.",
+    "effects": [
+      {
+        "count": "(2)\n공격력 또는 주문력 ?%",
+        "text": "(3)\n공격력 또는 주문력 ?%"
+      },
+      {
+        "count": "(2)",
+        "text": "공격력 또는 주문력 ?%"
+      },
+      {
+        "count": "(3)",
+        "text": "공격력 또는 주문력 ?%"
+      },
+      {
+        "count": "(4)",
+        "text": "공격력 또는 주문력 ?%"
+      }
+    ]
+  },
+  {
+    "section": "class-synergy",
+    "name": "전쟁기계",
+    "icon": "Trait_Icon_18_Juggernaut_Large_White.png",
+    "champions": [
+      {
+        "name": "라칸",
+        "image": "Rakan.jpg"
+      },
+      {
+        "name": "요릭",
+        "image": "Yorick.jpg"
+      },
+      {
+        "name": "바위 게",
+        "image": "Scuttlecrab.jpg"
+      },
+      {
+        "name": "세주아니",
+        "image": "Sejuani.jpg"
+      },
+      {
+        "name": "바이",
+        "image": "Vi.jpg"
+      },
+      {
+        "name": "아무무",
+        "image": "Amumu.jpg"
+      },
+      {
+        "name": "마오카이",
+        "image": "Maokai.jpg"
+      }
+    ],
+    "description": "아군이 내구력을 얻습니다. 전쟁기계는 능력치를 더 얻습니다.",
+    "effects": [
+      {
+        "count": "(2)\n내구력 ?% | 내구력 ?%",
+        "text": "(4)\n내구력 ?% | 내구력 ?%"
+      },
+      {
+        "count": "(2)",
+        "text": "내구력 ?% | 내구력 ?%"
+      },
+      {
+        "count": "(4)",
+        "text": "내구력 ?% | 내구력 ?%"
+      },
+      {
+        "count": "(6)",
+        "text": "내구력 ?% | 내구력 ?%"
+      }
+    ]
+  },
+  {
+    "section": "class-synergy",
+    "name": "주문술사",
+    "icon": "Trait_Icon_18_Spellweaver_Large_White.png",
+    "champions": [
+      {
+        "name": "카르마",
+        "image": "Karma.jpg"
+      },
+      {
+        "name": "베이가",
+        "image": "Veigar.jpg"
+      },
+      {
+        "name": "르블랑",
+        "image": "LeBlanc.jpg"
+      },
+      {
+        "name": "카시오페아",
+        "image": "Cassiopeia.jpg"
+      },
+      {
+        "name": "피들스틱",
+        "image": "Fiddlesticks.jpg"
+      },
+      {
+        "name": "아리",
+        "image": "Ahri.jpg"
+      },
+      {
+        "name": "알룬",
+        "image": "Alune.jpg"
+      }
+    ],
+    "description": "아군이 주문력을 ?% 얻습니다. 주문술사는 효과가 증가합니다. 주문술사가 스킬을 사용하면 모든 주문술사가 추가 주문력을 얻습니다.",
+    "effects": [
+      {
+        "count": "(2)\n주문력 ?%, 스킬 사용당 주문력 +?%",
+        "text": "(4)\n주문력 ?%, 스킬 사용당 주문력 +?%"
+      },
+      {
+        "count": "(2)",
+        "text": "주문력 ?%, 스킬 사용당 주문력 +?%"
+      },
+      {
+        "count": "(4)",
+        "text": "주문력 ?%, 스킬 사용당 주문력 +?%"
+      },
+      {
+        "count": "(6)",
+        "text": "주문력 ?%, 스킬 사용당 주문력 +?%"
+      }
+    ]
+  },
+  {
+    "section": "class-synergy",
+    "name": "처형자",
+    "icon": "Trait_Icon_18_Executioner_Large_White.png",
+    "champions": [
+      {
+        "name": "유나라",
+        "image": "Yunara.jpg"
+      },
+      {
+        "name": "아지르",
+        "image": "Azir.jpg"
+      },
+      {
+        "name": "이즈리얼",
+        "image": "Ezreal.jpg"
+      },
+      {
+        "name": "소라카",
+        "image": "Soraka.jpg"
+      },
+      {
+        "name": "케넨",
+        "image": "Kennen.jpg"
+      }
+    ],
+    "description": "정밀: 스킬 피해에 치명타가 적용될 수 있습니다. 추가 정밀 획득 시 치명타 피해량이 10% 증가합니다.",
+    "effects": [
+      {
+        "count": "(2)\n처형자가 치명타 확률 ?% 및 정밀을 얻습니다.",
+        "text": "(3)\n추가로 적에게 출혈을 일으켜 ?초 동안 ?%의 추가 고정 피해를 입힙니다."
+      },
+      {
+        "count": "(2)",
+        "text": "처형자가 치명타 확률 ?% 및 정밀을 얻습니다."
+      },
+      {
+        "count": "(3)",
+        "text": "추가로 적에게 출혈을 일으켜 ?초 동안 ?%의 추가 고정 피해를 입힙니다."
+      },
+      {
+        "count": "(4)",
+        "text": "출혈 피해가 ?% 증가합니다."
+      }
+    ]
+  }
+]

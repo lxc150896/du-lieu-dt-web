@@ -1,829 +1,888 @@
 [
   {
     "stt": 1,
-    "id": "aatrox",
-    "name": "Aatrox",
-    "image": "Aatrox.png",
+    "id": "pebbles",
+    "name": "Pebbles",
+    "image": "Pebbles.jpg",
+    "splash": "T_18_Sentry_PCHighres.jpg",
+    "cost": "1",
     "traits": [
-      "N.O.V.A.",
-      "Bastion"
-    ],
-    "status": "Aatrox",
-    "mana": "30 / 90",
-    "description": "? ?、その後現在のターゲットに ? ? の物理ダメージを与える。?。?: ? 戦場を、すべての敵をわずかにノックアップし、? ? の物理ダメージを与える。"
+      "リフトビースト",
+      "呼び出し者"
+    ]
   },
   {
     "stt": 2,
-    "id": "briar",
-    "name": "Briar",
-    "image": "Briar.png",
+    "id": "kobuko",
+    "name": "こぶこ",
+    "image": "Kobuko.jpg",
+    "splash": "T_18_Kobuko_PCHighres.jpg",
+    "cost": "1",
     "traits": [
-      "Anima",
-      "Primordian",
-      "Rogue"
-    ],
-    "status": "Briar",
-    "mana": "0 / 40",
-    "description": "?: ? 欠損 ?% ごとに、?% ? ? を獲得する。?: ターゲットに ? ? の物理ダメージを与え、相手がタンクの場合は ? ? する。"
+      "スプリキン",
+      "喧嘩屋"
+    ]
   },
   {
     "stt": 3,
-    "id": "caitlyn",
-    "name": "Caitlyn",
-    "image": "Caitlyn.png",
+    "id": "akari",
+    "name": "アカリ",
+    "image": "Akali.jpg",
+    "splash": "T_18_Akali_PCHighres.jpg",
+    "cost": "1",
     "traits": [
-      "N.O.V.A.",
-      "Fateweaver"
-    ],
-    "status": "Caitlyn",
-    "mana": "",
-    "description": "?: ? ?% の確率で強化された ? を放ち、? ? の物理ダメージを与える。?。?: すべての敵をマークし、受けるダメージを ?% 増加させる。マークされたターゲットが初めて ?% ? を下回ったとき、? それらに ? ? の物理ダメージを与える。?: ? 2回実行し、より良い結果を選択する。"
+      "インフェルノ",
+      "アダプター",
+      "ラヴェジャー"
+    ]
   },
   {
     "stt": 4,
-    "id": "cho'gath",
-    "name": "Cho'Gath",
-    "image": "ChoGath.png",
+    "id": "o-n",
+    "name": "オーン",
+    "image": "Ornn.jpg",
+    "splash": "T_18_Ornn_PCHighres.jpg",
+    "cost": "1",
     "traits": [
-      "Dark Star",
-      "Brawler"
-    ],
-    "status": "Cho'Gath",
-    "mana": "30 / 70",
-    "description": "範囲内で最も ? が低い敵に ? ? の魔法ダメージを与え、永続的に ? ? 最大体力を獲得する。? このスキルで敵を倒した場合、それらを捕食し、代わりに永続的に ? ? 最大体力を獲得する。(?: +?)"
+      "ニワトコウッド",
+      "ディフェンダー"
+    ]
   },
   {
     "stt": 5,
-    "id": "ezreal",
-    "name": "Ezreal",
-    "image": "Ezreal.png",
+    "id": "kami-ru",
+    "name": "カミール",
+    "image": "Camille.jpg",
+    "splash": "T_18_Camille_PCHighres.jpg",
+    "cost": "1",
     "traits": [
-      "Timebreaker",
-      "Sniper"
-    ],
-    "status": "Ezreal",
-    "mana": "0 / 30",
-    "description": "?: 現在のターゲットにエネルギーを放ち、? ? の物理ダメージを与える。? キルに関与したとき、ドローンを獲得し、スキルを使用するたびに現在のターゲットに ? ? の物理ダメージを与える。(?: ?)"
+      "団",
+      "ラヴェジャー"
+    ]
   },
   {
     "stt": 6,
-    "id": "leona",
-    "name": "Leona",
-    "image": "Leona.png",
+    "id": "karuma",
+    "name": "カルマ",
+    "image": "Karma.jpg",
+    "splash": "T_18_Karma_PCHighres.jpg",
+    "cost": "1",
     "traits": [
-      "Arbiter",
-      "Vanguard"
-    ],
-    "status": "Leona",
-    "mana": "40 / 100",
-    "description": "4秒間 ? ? ? する。現在のターゲットを ? し、? ? の魔法ダメージを与え、? 秒間スタンさせる。"
+      "ブロッサム",
+      "スペルウィーバー"
+    ]
   },
   {
     "stt": 7,
-    "id": "lissandra",
-    "name": "Lissandra",
-    "image": "Lissandra.png",
+    "id": "zaya",
+    "name": "ザヤ",
+    "image": "Xayah.jpg",
+    "splash": "T_18_Xayah_PCHighres.jpg",
+    "cost": "1",
     "traits": [
-      "Dark Star",
-      "Shepherd",
-      "Replicator"
-    ],
-    "status": "Lissandra",
-    "mana": "0 / 30",
-    "description": "現在のターゲットに向かって短剣を ? し、最初に命中したターゲットに ? ? の魔法ダメージを与える。? 最初のターゲットに命中した後、または射程の終端で爆発し、周囲の敵に ? ? の魔法ダメージを与える。"
+      "ニワトコウッド",
+      "フェイ",
+      "ラピッドファイア"
+    ]
   },
   {
     "stt": 8,
-    "id": "nasus",
-    "name": "Nasus",
-    "image": "Nasus.png",
+    "id": "shinda-ringu",
+    "name": "シンダーリング",
+    "image": "Cinderling.jpg",
+    "splash": "T_18_Cinderling_PCHighres.jpg",
+    "cost": "1",
     "traits": [
-      "Space Groove",
-      "Vanguard"
-    ],
-    "status": "Nasus",
-    "mana": "60 / 120",
-    "description": "? 秒間 ? し、一時的に ? ? の最大体力を獲得し、周囲の敵に毎秒 ? ? の魔法ダメージを与える。? 変身中、? は ? の状態になる。"
+      "リフトビースト",
+      "ハンター"
+    ]
   },
   {
     "stt": 9,
-    "id": "poppy",
-    "name": "Poppy",
-    "image": "Poppy.png",
+    "id": "beiga-",
+    "name": "ベイガー",
+    "image": "Veigar.jpg",
+    "splash": "T_18_Veigar_PCHighres.jpg",
+    "cost": "1",
     "traits": [
-      "Meeple",
-      "Bastion"
-    ],
-    "status": "Poppy",
-    "mana": "30 / 100",
-    "description": "? 秒間 ? ? ? する。? 効果時間中、2マス以内の味方は ? ? ? と ? を獲得する。?: ? 秒間、最も近い ? 人の味方に ? ? ? を付与する。"
+      "異空間",
+      "スプリキン",
+      "スペルウィーバー"
+    ]
   },
   {
     "stt": 10,
-    "id": "rek'sai",
-    "name": "Rek'Sai",
-    "image": "RekSai.png",
+    "id": "yoritsuku",
+    "name": "ヨリック",
+    "image": "Yorick.jpg",
+    "splash": "T_18_Yorick_PCHighres.jpg",
+    "cost": "1",
     "traits": [
-      "Primordian",
-      "Brawler"
-    ],
-    "status": "Rek'Sai",
-    "mana": "50 / 110",
-    "description": "? ?、その後周囲の敵をノックアップし、? ? の魔法ダメージを与える。"
+      "ブロッサム",
+      "ジャガーノート",
+      "サモナー"
+    ]
   },
   {
     "stt": 11,
-    "id": "talon",
-    "name": "Talon",
-    "image": "Talon.png",
+    "id": "rakan",
+    "name": "ラカン",
+    "image": "Rakan.jpg",
+    "splash": "T_18_Rakan_PCHighres.jpg",
+    "cost": "1",
     "traits": [
-      "Stargazer",
-      "Rogue"
-    ],
-    "status": "Talon",
-    "mana": "0 / 30",
-    "description": "ターゲットを ? し、? 秒間 ? ? の物理ダメージを与える出血状態にする。? 攻撃後、? マス以内にいる最も ? の割合が高い敵の元へ跳ぶ。"
+      "フェイ",
+      "ジャガーノート",
+      "ヴァンガード"
+    ]
   },
   {
     "stt": 12,
-    "id": "teemo",
-    "name": "Teemo",
-    "image": "Teemo.png",
+    "id": "reona",
+    "name": "レオナ",
+    "image": "Leona.jpg",
+    "splash": "T_18_Leona_PCHighres.jpg",
+    "cost": "1",
     "traits": [
-      "Space Groove",
-      "Shepherd"
-    ],
-    "status": "Teemo",
-    "mana": "0 / 50",
-    "description": "?: ? が ? ? の追加魔法ダメージを与え、? 秒間 ? ? の魔法ダメージをスタックさせる。? 敵のスタックが ? 以上になったとき、? は ? の状態になる。?: ? 回の攻撃の間、?% ? する。"
+      "ソーラー",
+      "ディフェンダー"
+    ]
   },
   {
     "stt": 13,
-    "id": "twisted_fate",
-    "name": "Twisted Fate",
-    "image": "TwistedFate.png",
+    "id": "reku=sai",
+    "name": "レク＝サイ",
+    "image": "RekSai.jpg",
+    "splash": "T_18_Reksai_PCHighres.jpg",
+    "cost": "1",
     "traits": [
-      "Stargazer",
-      "Fateweaver"
-    ],
-    "status": "Twisted Fate",
-    "mana": "0 / 50",
-    "description": "1から9までのランダムな数値を持つカードを ? し、ターゲットに投げる。? 引いたカードに応じて、? ? から ? ? の魔法ダメージを与える。? ダメージは最も近い敵に跳ね返る。?: ? 2回実行し、より良い結果を選択する。"
+      "異空間",
+      "喧嘩屋"
+    ]
   },
   {
     "stt": 14,
-    "id": "veigar",
-    "name": "Veigar",
-    "image": "Veigar.png",
+    "id": "vuarusu",
+    "name": "ヴァルス",
+    "image": "Varus.jpg",
+    "splash": "T_18_Varus_PCHighres.jpg",
+    "cost": "1",
     "traits": [
-      "Meeple",
-      "Replicator"
-    ],
-    "status": "Veigar",
-    "mana": "10 / 50",
-    "description": "ターゲットに ? を落とし、? ? の魔法ダメージを与える。?: 周囲のターゲットに追加で ? 個の小さな ? を落とし、それぞれ ? ? の魔法ダメージを与える。"
+      "インフェルノ",
+      "ラピッドファイア"
+    ]
   },
   {
     "stt": 15,
-    "id": "akali",
-    "name": "Akali",
-    "image": "Akali.png",
+    "id": "arisuta-",
+    "name": "アリスター",
+    "image": "Alistar.jpg",
+    "splash": "T_18_Alistar_PCHighres.jpg",
+    "cost": "2",
     "traits": [
-      "N.O.V.A.",
-      "Marauder"
-    ],
-    "status": "Akali",
-    "mana": "0 / 30",
-    "description": "最も多くの敵を攻撃できるよう、ターゲットの隣に ? する。? 本のクナイを投げ、最初に命中した敵に ? ? の物理ダメージを与え、後続のターゲットには ? ? に減少する。? ? を取り除き、クリティカルの場合は ? に増加する。?。?: すべての敵をマークし、? と、試合終了まで毎秒 ? ? の物理ダメージを与える出血効果を適用する。? 出血ダメージを ?% 増加させる。"
+      "ニワトコウッド",
+      "喧嘩屋"
+    ]
   },
   {
     "stt": 16,
-    "id": "bel'veth",
-    "name": "Bel'Veth",
-    "image": "BelVeth.png",
+    "id": "erisu",
+    "name": "エリス",
+    "image": "Elise.jpg",
+    "splash": "T_18_Elise_PCHighres.jpg",
+    "cost": "2",
     "traits": [
-      "Primordian",
-      "Challenger",
-      "Marauder"
-    ],
-    "status": "Bel'Veth",
-    "mana": "0 / 50",
-    "description": "? 秒間、現在のターゲットに ? ? 回の連続攻撃を繰り出し、一撃ごとに ? ? の物理ダメージを与える。"
+      "団",
+      "ヴァンガード"
+    ]
   },
   {
     "stt": 17,
-    "id": "gnar",
-    "name": "Gnar",
-    "image": "Gnar.png",
+    "id": "guronpu",
+    "name": "グロンプ",
+    "image": "Gromp.jpg",
+    "splash": "T_18_Gromp_PCHighres.jpg",
+    "cost": "2",
     "traits": [
-      "Meeple",
-      "Sniper"
-    ],
-    "status": "Gnar",
-    "mana": "0 / 5",
-    "description": "?: ? 5回目の攻撃ごとに、現在のターゲットに向かってブーメランを投げ、最初の敵を貫通してさらに2マス飛ぶ。? ? ? の物理ダメージを与え、貫通するたびに ?% 減少する。?: ? と一緒に攻撃し、毎秒 ? ? の物理ダメージを与える。"
+      "リフトビースト",
+      "アダプター"
+    ]
   },
   {
     "stt": 18,
-    "id": "gragas",
-    "name": "Gragas",
-    "image": "Gragas.png",
+    "id": "keitorin",
+    "name": "ケイトリン",
+    "image": "Caitlyn.jpg",
+    "splash": "T_18_Caitlyn_PCHighres.jpg",
+    "cost": "2",
     "traits": [
-      "Psionic",
-      "Brawler"
-    ],
-    "status": "Gragas",
-    "mana": "30 / 80",
-    "description": "? 秒間 ? ? する。? 周囲の敵に ? ? の魔法ダメージを与え、? 秒間 ? する。?: ? ? がさらに30%増加する。"
+      "団",
+      "ハンター"
+    ]
   },
   {
     "stt": 19,
-    "id": "gwen",
-    "name": "Gwen",
-    "image": "Gwen.png",
+    "id": "keiru",
+    "name": "ケイル",
+    "image": "Kayle.jpg",
+    "splash": "T_18_Kayle_PCHighres.jpg",
+    "cost": "2",
     "traits": [
-      "Space Groove",
-      "Rogue"
-    ],
-    "status": "Gwen",
-    "mana": "0 / 30",
-    "description": "?: ? 魔法ダメージを与える。?% ? 以下の敵を狙うとき、? は ? の状態になる。?: 近くのマスへ ? し、最も ? の割合が低い敵を切り刻み、ターゲットに ? ? の魔法ダメージを与え、扇状の範囲内の敵に ? ? の魔法ダメージを与える。? 敵を倒した場合、ダッシュして再度 ?% のダメージで切り刻む！"
+      "ソーラー",
+      "ラピッドファイア"
+    ]
   },
   {
     "stt": 20,
-    "id": "jax",
-    "name": "Jax",
-    "image": "Jax.png",
+    "id": "shien",
+    "name": "シェン",
+    "image": "Shen.jpg",
+    "splash": "T_18_Shen_PCHighres.jpg",
+    "cost": "2",
     "traits": [
-      "Stargazer",
-      "Bastion"
-    ],
-    "status": "Jax",
-    "mana": "10 / 70",
-    "description": "? 秒間防御態勢に入り、受けるダメージを ? ? 軽減し、? ? ? を獲得する。? 防御態勢が終了したとき、周囲のすべての敵を攻撃し、? ? の魔法ダメージを与え、? 秒間 ? させる。"
+      "インフェルノ",
+      "ディフェンダー"
+    ]
   },
   {
     "stt": 21,
-    "id": "jinx",
-    "name": "Jinx",
-    "image": "Jinx.png",
+    "id": "sukatorukurabu",
+    "name": "スカトルクラブ",
+    "image": "Scuttlecrab.jpg",
+    "splash": "T_18_Scuttlecrab_PCHighres.jpg",
+    "cost": "2",
     "traits": [
-      "Anima",
-      "Challenger"
-    ],
-    "status": "Jinx",
-    "mana": "20 / 80",
-    "description": "扇状の範囲に ? ? 発の弾丸を連射し、それぞれの弾丸が最初に命中したターゲットに ? ? の物理ダメージを与える。"
+      "リフトビースト",
+      "ジャガーノート"
+    ]
   },
   {
     "stt": 22,
-    "id": "meepsie",
-    "name": "Meepsie",
-    "image": "Meepsie.png",
+    "id": "seziyuani",
+    "name": "セジュアニ",
+    "image": "Sejuani.jpg",
+    "splash": "T_18_Sejuani_PCHighres.jpg",
+    "cost": "2",
     "traits": [
-      "Meeple",
-      "Shepherd",
-      "Voyager"
-    ],
-    "status": "Meepsie",
-    "mana": "50 / 100",
-    "description": "? 秒間 ? ? ? する。ターゲットを ? し、? ? の魔法ダメージを与え、? 秒間ノックアップさせる。? 衝撃によりミープの波が発生し、ターゲットと同じ列にいる敵にこの効果の ?% を与える。?: ? の ? 水を ? し、すべての ? と受ける ? を ? 増加させる。"
+      "ソーラー",
+      "ジャガーノート"
+    ]
   },
   {
     "stt": 23,
-    "id": "milio",
-    "name": "Milio",
-    "image": "Milio.png",
+    "id": "tei-mo",
+    "name": "ティーモ",
+    "image": "Teemo.jpg",
+    "splash": "T_18_Teemo_PCHighres.jpg",
+    "cost": "2",
     "traits": [
-      "Timebreaker",
-      "Fateweaver"
-    ],
-    "status": "Milio",
-    "mana": "0 / 30",
-    "description": "敵にボールを ? し、? ? の魔法ダメージを与える。? 命中時、ボールは100%の確率で新しいターゲットに跳ね返り、? ? の魔法ダメージを与える。? 跳ね返りはさらに連鎖する可能性があるが、跳ね返るたびに確率は半分に減少する。?: ? 2回実行し、より良い結果を選択する。"
+      "スプリキン",
+      "呼び出し者"
+    ]
   },
   {
     "stt": 24,
-    "id": "mordekaiser",
-    "name": "Mordekaiser",
-    "image": "Mordekaiser.png",
+    "id": "ma-kuuruhu",
+    "name": "マークウルフ",
+    "image": "Murkwolf.jpg",
+    "splash": "T_18_MurkWolf_PCHighres.jpg",
+    "cost": "2",
     "traits": [
-      "Dark Star",
-      "Channeler",
-      "Vanguard"
-    ],
-    "status": "Mordekaiser",
-    "mana": "20 / 80",
-    "description": "? ? シールドを獲得する。? 次の ? 秒間、毎秒追加の ? ? シールドを獲得し、周囲の敵に ? ? の魔法ダメージを与える。? スキル終了時、残っている ? を消費し、その値の ?% 分体力を回復する。"
+      "リフトビースト",
+      "ラヴェジャー"
+    ]
   },
   {
     "stt": 25,
-    "id": "pantheon",
-    "name": "Pantheon",
-    "image": "Pantheon.png",
+    "id": "yunara",
+    "name": "ユナラ",
+    "image": "Yunara.jpg",
+    "splash": "T_18_Yunara_PCHighres.jpg",
+    "cost": "2",
     "traits": [
-      "Timebreaker",
-      "Brawler",
-      "Replicator"
-    ],
-    "status": "Pantheon",
-    "mana": "20 / 80",
-    "description": "? 秒間 ? ? ? と ?% ? を獲得する。? 効果時間中、扇状の範囲内の敵に毎秒 ? ? の物理ダメージを与える。"
+      "ブロッサム",
+      "死刑執行人"
+    ]
   },
   {
     "stt": 26,
-    "id": "pyke",
-    "name": "Pyke",
-    "image": "Pyke.png",
+    "id": "ruburan",
+    "name": "ルブラン",
+    "image": "LeBlanc.jpg",
+    "splash": "T_18_Leblanc_PCHighres.jpg",
+    "cost": "2",
     "traits": [
-      "Psionic",
-      "Voyager"
-    ],
-    "status": "Pyke",
-    "mana": "0 / 40",
-    "description": "最も遠い敵にハープーンを投げるため、最大1マスまで ? する。? ハープーンは最初に命中した敵を1マス引き寄せ、? ? の物理ダメージを与える。? その後、敵の背後にテレポートして切り裂き、その敵に ? ? 、周囲の敵に ? ? の物理ダメージを与える。"
+      "ニワトコウッド",
+      "スペルウィーバー"
+    ]
   },
   {
     "stt": 27,
-    "id": "zoe",
-    "name": "Zoe",
-    "image": "Zoe.png",
+    "id": "wa-uitsuku",
+    "name": "ワーウィック",
+    "image": "Warwick.jpg",
+    "splash": "T_18_Warwick_PCHighres.jpg",
+    "cost": "2",
     "traits": [
-      "Arbiter",
-      "Channeler"
-    ],
-    "status": "Zoe",
-    "mana": "0 / 50",
-    "description": "現在のターゲットにパドルスターを ? し、最初に命中したターゲットに ? ? 、貫通した他の敵に ? ? の魔法ダメージを与える。? 星が終端に達したとき、遠くの敵に向かって方向転換し、速度を上げてダメージを繰り返す。? 方向転換は ? 回まで発生する可能性がある。"
+      "異空間",
+      "ラヴェジャー"
+    ]
   },
   {
     "stt": 28,
-    "id": "aurora",
-    "name": "Aurora",
-    "image": "Aurora.png",
+    "id": "azi-ru",
+    "name": "アジール",
+    "image": "Azir.jpg",
+    "splash": "T_18_Azir_PCHighres.jpg",
+    "cost": "3",
     "traits": [
-      "Anima",
-      "Voyager"
-    ],
-    "status": "Aurora",
-    "mana": "20 / 80",
-    "description": "ターゲットの周囲に六角形の亀裂を ? し、? 秒間中の敵を ? させ、それぞれに ? ? の魔法ダメージを与え、命中したすべての敵に均等に分配される ? ? の追加魔法ダメージを与える。? 敵は受けるすべてのダメージの ?% を蓄積する。? 亀裂の ? が終了したとき、蓄積されたダメージに等しい確定ダメージを受ける。? このダメージでターゲットを倒せる場合、早期に終了する。"
+      "異空間",
+      "死刑執行人",
+      "サモナー"
+    ]
   },
   {
     "stt": 29,
-    "id": "diana",
-    "name": "Diana",
-    "image": "Diana.png",
+    "id": "kashiopea",
+    "name": "カシオペア",
+    "image": "Cassiopeia.jpg",
+    "splash": "T_18_Cassiopeia_PCHighres.jpg",
+    "cost": "3",
     "traits": [
-      "Arbiter",
-      "Challenger"
-    ],
-    "status": "Diana",
-    "mana": "0 / 50",
-    "description": "?: ? 追加で ? ? の魔法ダメージを与える。?: ? ? ? し、? 秒間周囲を回る3つのオーブを召喚する。? 通過した敵に ? ? の魔法ダメージを与え、? に応じて回転が速くなる。"
+      "団",
+      "スペルウィーバー"
+    ]
   },
   {
     "stt": 30,
-    "id": "fizz",
-    "name": "Fizz",
-    "image": "Fizz.png",
+    "id": "ka=zitsukusu",
+    "name": "カ＝ジックス",
+    "image": "KhaZix.jpg",
+    "splash": "T_18_Khazix_PCHighres.jpg",
+    "cost": "3",
     "traits": [
-      "Meeple",
-      "Rogue"
-    ],
-    "status": "Fizz",
-    "mana": "0 / 20",
-    "description": "現在のターゲットを貫通して ? し、? ? の魔法ダメージを与える。? 3回目のスキル使用ごとに、一定時間後に ? を召喚し、ターゲットをわずかにノックアップさせ、1マス以内の敵に ? ? の魔法ダメージを与える（中心から離れるほど ?% 減少）。?: ? デコイに ? し、? のダメージを ? に増加させる。"
+      "ライバル"
+    ]
   },
   {
     "stt": 31,
-    "id": "illaoi",
-    "name": "Illaoi",
-    "image": "Illaoi.png",
+    "id": "kuriyutsugu",
+    "name": "クリュッグ",
+    "image": "Krug.jpg",
+    "splash": "T_18_Krug_PCHighres.jpg",
+    "cost": "3",
     "traits": [
-      "Anima",
-      "Vanguard",
-      "Shepherd"
-    ],
-    "status": "Illaoi",
-    "mana": "40 / 100",
-    "description": "? 秒間 ? ? ? する。? 効果時間中、最も近い ? 人の敵から ? ? ? を吸収する。? 地面を叩きつけ、2マス以内のすべての敵に ? ? の魔法ダメージを与える。"
+      "リフトビースト",
+      "喧嘩屋"
+    ]
   },
   {
     "stt": 32,
-    "id": "kai'sa",
-    "name": "Kai'Sa",
-    "image": "KaiSa.png",
+    "id": "kogu=mau",
+    "name": "コグ＝マウ",
+    "image": "KogMaw.jpg",
+    "splash": "T_18_KogMaw_PCHighres.jpg",
+    "cost": "3",
     "traits": [
-      "Dark Star",
-      "Rogue"
-    ],
-    "status": "Kai'Sa",
-    "mana": "0 / 50",
-    "description": "?: ? キルに関与したとき、? マナを獲得する。?: 現在のターゲットから ? マス以内の範囲にミサイルを連射し、1発ごとに ? ? の物理ダメージを与える。"
+      "コースティック",
+      "呼び出し者",
+      "アダプター"
+    ]
   },
   {
     "stt": 33,
-    "id": "lulu",
-    "name": "Lulu",
-    "image": "Lulu.png",
+    "id": "daiana",
+    "name": "ダイアナ",
+    "image": "Diana.jpg",
+    "splash": "T_18_Diana_PCHighres.jpg",
+    "cost": "3",
     "traits": [
-      "Stargazer",
-      "Replicator"
-    ],
-    "status": "Lulu",
-    "mana": "0 / 60",
-    "description": "?: ? のスキルの ? は、試合ごとに異なる副次効果を持つ。?: 空から何かを ? し、近くの ? 人の敵に ? ? の魔法ダメージを与え、現在の試合の ? に基づいた特別な効果を発生させる。"
+      "ルナ",
+      "ラヴェジャー",
+      "ヴァンガード"
+    ]
   },
   {
     "stt": 34,
-    "id": "maokai",
-    "name": "Maokai",
-    "image": "Maokai.png",
+    "id": "torisuta-na",
+    "name": "トリスターナ",
+    "image": "Tristana.jpg",
+    "splash": "T_18_Tristana_PCHighres.jpg",
+    "cost": "3",
     "traits": [
-      "N.O.V.A.",
-      "Brawler"
-    ],
-    "status": "Maokai",
-    "mana": "30 / 100",
-    "description": "?: あらゆるソースからの最大 ?% 体力を追加で ? する。?: ターゲットに ? 状の蔓の範囲を ? し、命中した敵に ? ? の魔法ダメージを与え、? 秒間 ? させる。?。?: すべての敵を ? 秒間スタンさせるドラゴンの波を放つ。? 試合の残りの間、? の攻撃は追加で ? ? の物理ダメージを与える。"
+      "フェイ",
+      "スプリキン",
+      "ハンター"
+    ]
   },
   {
     "stt": 35,
-    "id": "miss_fortune",
-    "name": "Miss Fortune",
-    "image": "MissFortune.png",
+    "id": "huidorusuteitsukusu",
+    "name": "フィドルスティックス",
+    "image": "Fiddlesticks.jpg",
+    "splash": "T_18_Fiddlesticks_PCHighres.jpg",
+    "cost": "3",
     "traits": [
-      "Channeler",
-      "Challenger",
-      "Replicator"
-    ],
-    "status": "Miss Fortune",
-    "mana": "0 / 100",
-    "description": "?"
+      "フローラ・ファタリス",
+      "ディフェンダー",
+      "スペルウィーバー"
+    ]
   },
   {
     "stt": 36,
-    "id": "ornn",
-    "name": "Ornn",
-    "image": "Ornn.png",
+    "id": "hekarimu",
+    "name": "ヘカリム",
+    "image": "Hecarim.jpg",
+    "splash": "T_18_Hecarim_PCHighres.jpg",
+    "cost": "3",
     "traits": [
-      "Space Groove",
-      "Bastion"
-    ],
-    "status": "Ornn",
-    "mana": "40 / 100",
-    "description": "?: ? 戦闘開始時、一時的な完成アイテムを鍛造する。? すでに3つの装備がある場合、ランダムな完成アイテムがその戦闘の間 ? になる。?: ? 秒間 ? ? ? する。? 扇状に炎を吹き、? ? の魔法ダメージを与える。? いずれかの ? が ? 切れたとき、? 秒間 ? 状態にする。"
+      "ニワトコウッド",
+      "ヴァンガード"
+    ]
   },
   {
     "stt": 37,
-    "id": "rhaast",
-    "name": "Rhaast",
-    "image": "Rhaast.png",
+    "id": "masuta-*i-",
+    "name": "マスター・イー",
+    "image": "MasterYi.jpg",
+    "splash": "T_18_MasterYi_Highres.jpg",
+    "cost": "3",
     "traits": [
-      "Redeemer"
-    ],
-    "status": "Rhaast",
-    "mana": "30 / 90",
-    "description": "? 秒間 ?% ? し、効果時間中に ? ? 回復する。? その後、前方へ直線状に切り裂き、命中した敵に ? ? の物理ダメージを与え、? 秒間ノックアップさせる。"
+      "ブロッサム",
+      "アダプター"
+    ]
   },
   {
     "stt": 38,
-    "id": "samira",
-    "name": "Samira",
-    "image": "Samira.png",
+    "id": "raputa-",
+    "name": "ラプター",
+    "image": "Raptor.jpg",
+    "splash": "T_18_CrimsonRaptor_PCHighres.jpg",
+    "cost": "3",
     "traits": [
-      "Space Groove",
-      "Sniper"
-    ],
-    "status": "Samira",
-    "mana": "0 / 60",
-    "description": "?: ? 敵がノックアップされたとき、それらを撃ち、? ? の物理ダメージと ? 秒間の ? 状態を与える。?: ターゲットに弾丸を連射し、? ? の物理ダメージを与え、? 秒間ノックアップさせる。"
+      "リフトビースト",
+      "サモナー",
+      "ラピッドファイア"
+    ]
   },
   {
     "stt": 39,
-    "id": "urgot",
-    "name": "Urgot",
-    "image": "Urgot.png",
+    "id": "ramusu",
+    "name": "ラムス",
+    "image": "Rammus.jpg",
+    "splash": "T_18_Rammus_PCHighres.jpg",
+    "cost": "3",
     "traits": [
-      "Mecha",
-      "Brawler",
-      "Marauder"
-    ],
-    "status": "Urgot",
-    "mana": "0 / 50",
-    "description": "? - ?: ? 敵が ? ? マスの射程内に入ったとき、最も近い隣接するマスに向かって扇状にエネルギーを放ち、1マスごとに ?% 減衰する ? ? の物理ダメージを与える。? 隣接するマスには ? 秒のクールダウンがある。?: ? 秒間 ? ? ? を獲得し、現在のターゲットの背後へダッシュする。? ? のすべてのスキルをリセットする。"
+      "スプリキン",
+      "ディフェンダー"
+    ]
   },
   {
     "stt": 40,
-    "id": "viktor",
-    "name": "Viktor",
-    "image": "Viktor.png",
+    "id": "renga-",
+    "name": "レンガー",
+    "image": "Rengar.jpg",
+    "splash": "T_18_Rengar_PCHighres.jpg",
+    "cost": "3",
     "traits": [
-      "Psionic",
-      "Channeler"
-    ],
-    "status": "Viktor",
-    "mana": "20 / 80",
-    "description": "? 敵を追尾する1マスの幅のサイキックストームを ? 秒間発生させる。? 毎秒ストームは大きくなり、中の敵に ? ? の魔法ダメージを与える（中心から離れるほど ?% 減少）。"
+      "ライバル"
+    ]
   },
   {
     "stt": 41,
-    "id": "aurelion_sol",
-    "name": "Aurelion Sol",
-    "image": "AurelionSol.png",
+    "id": "vuai",
+    "name": "ヴァイ",
+    "image": "Vi.jpg",
+    "splash": "T_18_VI_PCHighres.jpg",
+    "cost": "3",
     "traits": [
-      "Mecha",
-      "Channeler"
-    ],
-    "status": "Aurelion Sol",
-    "mana": "15 / 75",
-    "description": "現在のターゲットに向かって直線状に ? 秒間死の光線を放つ。? 毎秒 ? ? の魔法ダメージを与え、敵を貫通するたびに ?% 減少する。? 敵の ?% ? を無視する。"
+      "プライマル",
+      "ジャガーノート"
+    ]
   },
   {
     "stt": 42,
-    "id": "corki",
-    "name": "Corki",
-    "image": "Corki.png",
+    "id": "ahueriosu",
+    "name": "アフェリオス",
+    "image": "Aphelios.jpg",
+    "splash": "T_18_Aphelios_PChighres.jpg",
+    "cost": "4",
     "traits": [
-      "Meeple",
-      "Fateweaver"
-    ],
-    "status": "Corki",
-    "mana": "0 / 60",
-    "description": "近くの地点へ ? し、ターゲットおよび2マス以内のすべての敵に均等に分配される ? 発のミサイルを発射する。? ? ? の物理ダメージを与え、?% の確率で代わりに ? ? のダメージを与える巨大ミサイルを発射する。?: ? 秒、ターゲットに ? を発射し、命中時に1マスの範囲に ? ? の物理ダメージを与える。?: ? 2回実行し、より良い結果を選択する。"
+      "ルナ",
+      "ラピッドファイア"
+    ]
   },
   {
     "stt": 43,
-    "id": "karma",
-    "name": "Karma",
-    "image": "Karma.png",
+    "id": "amumu",
+    "name": "アムム",
+    "image": "Amumu.jpg",
+    "splash": "T_18_Amumu_PCHighres.jpg",
+    "cost": "4",
     "traits": [
-      "Dark Star",
-      "Voyager"
-    ],
-    "status": "Karma",
-    "mana": "10 / 50",
-    "description": "ブラックホールの力を ? し、ターゲットとその周囲の最も近い ? 人の敵に均等に分配される ? ? の魔法ダメージを与える。? メインターゲットは追加で ? ? の魔法ダメージを受ける。"
+      "インフェルノ",
+      "ジャガーノート"
+    ]
   },
   {
     "stt": 44,
-    "id": "kindred",
-    "name": "Kindred",
-    "image": "Kindred.png",
+    "id": "a-ri",
+    "name": "アーリ",
+    "image": "Ahri.jpg",
+    "splash": "T_18_Ahri_PCHighres.jpg",
+    "cost": "4",
     "traits": [
-      "N.O.V.A.",
-      "Challenger"
-    ],
-    "status": "Kindred",
-    "mana": "0 / 40",
-    "description": "?: ? と ? がターゲットをマークする。? 敵が ? 個のマークに達したとき、? はマークを消費し、? ? の物理ダメージを与える。?: 最大 ? マスまで ? し、最も近い ? 人のターゲットに矢を放ち、それぞれに ? ? の物理ダメージを与える。?。?: ?% ? 。? およびその後 ? 秒ごとに、すべての敵にマークを追加する。"
+      "ブロッサム",
+      "スペルウィーバー"
+    ]
   },
   {
     "stt": 45,
-    "id": "leblanc",
-    "name": "LeBlanc",
-    "image": "LeBlanc.png",
+    "id": "ezuriaru",
+    "name": "エズリアル",
+    "image": "Ezreal.jpg",
+    "splash": "T_18_Ezreal_PCHighres.jpg",
+    "cost": "4",
     "traits": [
-      "Arbiter",
-      "Shepherd"
-    ],
-    "status": "LeBlanc",
-    "mana": "0 / 40",
-    "description": "?: ? 代わりに ? ? の魔法ダメージを与える。?: ? 分身を召喚し、? 回の攻撃の間 ? と共に攻撃させ、?% のダメージを与える。? それらの最後の攻撃で、分身はエネルギーを放ち、? ? の魔法ダメージを与える。"
+      "ニワトコウッド",
+      "死刑執行人"
+    ]
   },
   {
     "stt": 46,
-    "id": "master_yi",
-    "name": "Master Yi",
-    "image": "MasterYi.png",
+    "id": "zaira",
+    "name": "ザイラ",
+    "image": "Zyra.jpg",
+    "splash": "T_18_Zyra_PCHighres.jpg",
+    "cost": "4",
     "traits": [
-      "Psionic",
-      "Marauder"
-    ],
-    "status": "Master Yi",
-    "mana": "30 / 70",
-    "description": "?: ? 3回目の攻撃ごとに追加で攻撃し、さらに ? ? の物理ダメージを与える。?: 短い瞑想を行い、? 秒間 ?-? 状態に入り、?% ? 、?% ? を獲得し、移動速度が増加する。? 毎秒、近くのランダムな敵にサイキックエネルギーを放ち、 ? ? の物理ダメージを与える。"
+      "いばらの乙女",
+      "サモナー"
+    ]
   },
   {
     "stt": 47,
-    "id": "nami",
-    "name": "Nami",
-    "image": "Nami.png",
+    "id": "shivuia",
+    "name": "シヴィア",
+    "image": "Sivir.jpg",
+    "splash": "T_18_Sivir_PCHIghres.jpg",
+    "cost": "4",
     "traits": [
-      "Space Groove",
-      "Replicator"
-    ],
-    "status": "Nami",
-    "mana": "30 / 85",
-    "description": "まだ持っていない最も近いターゲットにディスコバブルを ? し、1マスの範囲の敵に均等に分配される ? ? のダメージを与える。? 爆発により近くの敵に向かって ? 個のオーブが放たれ、それぞれ ? ? の魔法ダメージを与える。? スキル使用後、? 秒間 ? 状態になる。"
+      "プライマル",
+      "ハンター"
+    ]
   },
   {
     "stt": 48,
-    "id": "nunu",
-    "name": "Nunu",
-    "image": "Nunu.png",
+    "id": "seto",
+    "name": "セト",
+    "image": "Sett.jpg",
+    "splash": "T_18_Sett_PCHighres.jpg",
+    "cost": "4",
     "traits": [
-      "Stargazer",
-      "Vanguard"
-    ],
-    "status": "Nunu",
-    "mana": "45 / 155",
-    "description": "? 秒間 ? ? ? する。2マス以内の最も敵が密集している場所へ天球を ? させ、? ? の魔法ダメージを与える。? その後、? は天球をフィールドの端まで押し出し、? ? の魔法ダメージを与える。? 天球に当たった敵は ? 秒間ノックアップされる。"
+      "ブロッサム",
+      "喧嘩屋"
+    ]
   },
   {
     "stt": 49,
-    "id": "rammus",
-    "name": "Rammus",
-    "image": "Rammus.png",
+    "id": "soraka",
+    "name": "ソラカ",
+    "image": "Soraka.jpg",
+    "splash": "T_18_Soraka_PCHighres.jpg",
+    "cost": "4",
     "traits": [
-      "Meeple",
-      "Bastion"
-    ],
-    "status": "Rammus",
-    "mana": "30 / 100",
-    "description": "? 秒間 ? ? シールドを獲得する。? 直線3マスの範囲で最も多くの敵を攻撃し、? ? の魔法ダメージを与える。?: 通常攻撃から受けるダメージを ? 軽減する。? ? 回攻撃を受けた後、2マスの範囲に ? ? の魔法ダメージを与える。"
+      "フローラ・ファタリス",
+      "死刑執行人"
+    ]
   },
   {
     "stt": 50,
-    "id": "riven",
-    "name": "Riven",
-    "image": "Riven.png",
+    "id": "nidari-",
+    "name": "ニダリー",
+    "image": "Nidalee.jpg",
+    "splash": "T_18_Nidalee_PCHighres.jpg",
+    "cost": "4",
     "traits": [
-      "Timebreaker",
-      "Rogue"
-    ],
-    "status": "Riven",
-    "mana": "0 / 20",
-    "description": "?: ? の ? または ? の高い方に適応する。? ? (?/?) のダメージを与える。?: 近くのマスへ ? し、? 秒間 ? を獲得し、周囲の敵を切り裂いて ? (?/?) のダメージを与える。? 3回目のスキル使用時、空中へ跳び上がり、? (?/?) のダメージを与えるエネルギー波を放つ。"
+      "プライマル",
+      "アダプター"
+    ]
   },
   {
     "stt": 51,
-    "id": "tahm_kench",
-    "name": "Tahm Kench",
-    "image": "TahmKench.png",
+    "id": "buranburubatsuku",
+    "name": "ブランブルバック",
+    "image": "Brambleback.jpg",
+    "splash": "T_18_Brambleback_PCHighres.jpg",
+    "cost": "4",
     "traits": [
-      "Arcana",
-      "Brawler"
-    ],
-    "status": "Tahm Kench",
-    "mana": "50 / 120",
-    "description": "?: 体力が ?% ? を下回った後、この戦闘で受けた回復量の ?% に等しい ? を ? 秒間獲得する。?: ? ? し、その後2マス以内のすべての敵を舌で叩き、? ? の魔法ダメージを与える。"
+      "リフトビースト",
+      "ラヴェジャー"
+    ]
   },
   {
     "stt": 52,
-    "id": "the_mighty_mech",
-    "name": "The Mighty Mech",
-    "image": "TheMightyMech.png",
+    "id": "maruhuaito",
+    "name": "マルファイト",
+    "image": "Malphite.jpg",
+    "splash": "T_18_Malphite_PCHighres.jpg",
+    "cost": "4",
     "traits": [
-      "Mecha",
-      "Voyager"
-    ],
-    "status": "The Mighty Mech",
-    "mana": "40 / 100",
-    "description": "? 秒間防御態勢に入り、?% ? を獲得する。? 防御態勢の間、近くの敵の攻撃を引き付け、効果時間中に ? ? 回復する。? 終了時、電気ショックを放ち、?-マス以内の範囲に ? ? の物理ダメージを与える。"
+      "異空間",
+      "モノリス"
+    ]
   },
   {
     "stt": 53,
-    "id": "xayah",
-    "name": "Xayah",
-    "image": "Xayah.png",
+    "id": "morugana",
+    "name": "モルガナ",
+    "image": "Morgana.jpg",
+    "splash": "T_18_Morgana_PCHighres.jpg",
+    "cost": "4",
     "traits": [
-      "Stargazer",
-      "Sniper"
-    ],
-    "status": "Xayah",
-    "mana": "0 / 50",
-    "description": "?: ? は ? 回跳ね返り、ターゲットごとにダメージが ?% 減少し、最後のターゲットの背後に ? を残す。?: ? 秒間 ?% ? を獲得する。? 終了時、すべての ? を回収し、最も近い ? 人の敵に均等に分配し、1つにつき ? ? の物理ダメージを与える。"
+      "団",
+      "呼び出し者"
+    ]
   },
   {
     "stt": 54,
-    "id": "bard",
-    "name": "Bard",
-    "image": "Bard.png",
+    "id": "riria",
+    "name": "リリア",
+    "image": "Lillia.jpg",
+    "splash": "T_18_Lillia_PCHighres.jpg",
+    "cost": "4",
     "traits": [
-      "Meeple",
-      "Channeler"
-    ],
-    "status": "Bard",
-    "mana": "0 / 70",
-    "description": "現在のターゲットの上に ? 秒間続くUFOを ? する。? 毎秒、ターゲットに ? ? 、さらに ? マスの範囲のすべての敵に均等に分配される ? ? の魔法ダメージを与える。? UFOは ? に対して ?% の増加ダメージを与える。? もし ? 以下の敵が死亡した場合、? ?% の確率でそれらを誘拐し、ベンチに1星のコピーを作成する。? ボーナス: ? 戦闘開始時、最も近い ? に追加の ? を付与する。? 誘拐済み: ?"
+      "フェイ",
+      "ディフェンダー"
+    ]
   },
   {
     "stt": 55,
-    "id": "blitzcrank",
-    "name": "Blitzcrank",
-    "image": "Blitzcrank.png",
+    "id": "Gu_Dai_nosenchineru",
+    "name": "古代のセンチネル",
+    "image": "AncientSentinel.jpg",
+    "splash": "T_18_Sentinel_PCHighres.jpg",
+    "cost": "4",
     "traits": [
-      "Party Animal",
-      "Space Groove",
-      "Vanguard"
-    ],
-    "status": "Blitzcrank",
-    "mana": "10 / 90",
-    "description": "?: ? 秒、最も近い ? 敵に落雷を浴びせ、? ? の魔法ダメージを与える。?: 最も密集している敵のグループにディスコボールを ? し、現在のターゲットにアッパーカットを浴びせて ? ? の魔法ダメージを与え、ノックアップさせる。? ディスコボールが落下し、3マスの範囲に ? ? の魔法ダメージを与える。命中した敵1体につき ? 秒間 ? する。"
+      "リフトビースト",
+      "ヴァンガード",
+      "呼び出し者"
+    ]
   },
   {
     "stt": 56,
-    "id": "fiora",
-    "name": "Fiora",
-    "image": "Fiora.png",
+    "id": "aiba-n",
+    "name": "アイバーン",
+    "image": "Ivern.jpg",
+    "splash": "T_18_Ivern_PCHighres.jpg",
+    "cost": "5",
     "traits": [
-      "Divine Duelist",
-      "Anima",
-      "Marauder"
-    ],
-    "status": "Fiora",
-    "mana": "10 / 80",
-    "description": "?: ? 攻撃ごとに、ターゲットに ? を露呈させる。? ? が存在するとき、それを攻撃するためにダッシュし、追加で ? ? の確定ダメージを与え、与えたダメージの ?% 回復する。?: ターゲットに ? を付与し、それらすべてを素早く攻撃する。? ターゲットが死亡した場合、残りの ? は最も近い敵に移る。? 最後の ? を攻撃したとき、2マスのオーラを生成し、中の味方を ? 秒間、? ? 回復させる。"
+      "グリーンファーザー"
+    ]
   },
   {
     "stt": 57,
-    "id": "graves",
-    "name": "Graves",
-    "image": "Graves.png",
+    "id": "atsushiyu",
+    "name": "アッシュ",
+    "image": "Ashe.jpg",
+    "splash": "T_18_Ashe_PCHighres.jpg",
+    "cost": "5",
     "traits": [
-      "Factory New"
-    ],
-    "status": "Graves",
-    "mana": "0 / 60",
-    "description": "?: ? 扇状の範囲に ? 発の弾丸を発射し、1発につき ? 物理ダメージを与える。?: ターゲットに爆発弾を放ち、? ? の物理ダメージを与え、1マスの範囲のすべての敵に ? ? の物理ダメージを与える。"
+      "ブロッサム",
+      "ハンター"
+    ]
   },
   {
     "stt": 58,
-    "id": "jhin",
-    "name": "Jhin",
-    "image": "Jhin.png",
+    "id": "aru-n",
+    "name": "アルーン",
+    "image": "Alune.jpg",
+    "splash": "T_18_Alune_PCHighres.jpg",
+    "cost": "5",
     "traits": [
-      "Dark Star",
-      "Eradicator",
-      "Sniper"
-    ],
-    "status": "Jhin",
-    "mana": "0 / 44",
-    "description": "?: ? は ? の固定攻撃速度を持ち、?% の追加 ? を ? ? に変換する。?: 次の ? 回の攻撃の間、幽霊のような手が ? と共に射撃する。? 手は1発につき ? ? の物理ダメージを与え、? を取り除く。? 最後の射撃は ?% の追加ダメージを与え、直線上の最も多くの敵を貫通し、命中するたびにダメージが ?% 減少する。"
+      "同調しました",
+      "ルナ",
+      "スペルウィーバー"
+    ]
   },
   {
     "stt": 59,
-    "id": "morgana",
-    "name": "Morgana",
-    "image": "Morgana.png",
+    "id": "eruda-doragon",
+    "name": "エルダードラゴン",
+    "image": "TheElderDragon.jpg",
+    "splash": "T_18_Elder_Dragon_PCHighres.jpg",
+    "cost": "5",
     "traits": [
-      "Dark Lady"
-    ],
-    "status": "Morgana",
-    "mana": "20 / 60",
-    "description": "? 秒間 ? に ? し、効果時間中に ? ? ? を獲得する。? ? 状態の間、最も近い ? 人の敵を束縛し、それぞれに毎秒 ? ? の魔法ダメージを与え、与えたダメージの ?% 回復する。? 変身の終了時、束縛されたすべての敵に ? ? を与える。"
+      "リフトビースト",
+      "アペックスプレデター"
+    ]
   },
   {
     "stt": 60,
-    "id": "shen",
-    "name": "Shen",
-    "image": "Shen.png",
+    "id": "kenen",
+    "name": "ケネン",
+    "image": "Kennen.jpg",
+    "splash": "T_18_Kennen_PCHighres.jpg",
+    "cost": "5",
     "traits": [
-      "Bulwark",
-      "Bastion"
-    ],
-    "status": "Shen",
-    "mana": "10 / 70",
-    "description": "?: ? スキルを使用するたびに、攻撃に追加の ? ? 魔法ダメージがスタックする。? 3回目のスキル使用からは、代わりに確定ダメージを得る。?: ? 秒間 ? ? ? し、最も密集している敵のグループに裂け目を切り開き、? のボーナスダメージを中のすべての敵に与える。? は ? が ?% 低下し、中の味方は ?% ? を獲得するが、どちらも ? 秒かけて急速に減衰する。"
+      "インフェルノ",
+      "死刑執行人"
+    ]
   },
   {
     "stt": 61,
-    "id": "sona",
-    "name": "Sona",
-    "image": "Sona.png",
+    "id": "taritsuku",
+    "name": "タリック",
+    "image": "Taric.jpg",
+    "splash": "T_18_Taric_PCHighres.jpg",
+    "cost": "5",
     "traits": [
-      "Commander",
-      "Psionic",
-      "Shepherd"
-    ],
-    "status": "Sona",
-    "mana": "0 / 25",
-    "description": "まだ持っていない最も近いターゲットに磁気破片を ? し、? ? の魔法ダメージを与えて付着させる。? 破片を持った敵が死亡した場合、まだ持っていない最も近い敵に移動する。? スキル使用時、代わりにすべての破片を引き剥がして ? ? の魔法ダメージを与え、その後すべての破片をターゲットに叩きつけて ? ? の魔法ダメージを与え、短時間スタンさせる。"
+      "エメラルド アスペクト",
+      "ヴァンガード"
+    ]
   },
   {
     "stt": 62,
-    "id": "vex",
-    "name": "Vex",
-    "image": "Vex.png",
+    "id": "doreivun",
+    "name": "ドレイヴン",
+    "image": "Draven.jpg",
+    "splash": "T_18_Draven_PCHighres.jpg",
+    "cost": "5",
     "traits": [
-      "Doomer"
-    ],
-    "status": "Vex",
-    "mana": "0 / 60",
-    "description": "?: ? が ? 回攻撃するたびに、? が近くの敵を攻撃し、? ? の魔法ダメージを与える。? もし敵が ? によって ? 回攻撃された場合、? はそれらを再度攻撃する。?: ? は ? 回の強化攻撃を放ち、代わりに ? ? の魔法ダメージを与える。"
+      "賞金稼ぎ"
+    ]
   },
   {
     "stt": 63,
-    "id": "zed",
-    "name": "Zed",
-    "image": "Zed.png",
+    "id": "na-",
+    "name": "ナー",
+    "image": "Gnar.jpg",
+    "splash": "T_18_Gnar_PCHighres.jpg",
+    "cost": "5",
     "traits": [
-      "Galaxy Hunter"
-    ],
-    "status": "Zed",
-    "mana": "30 / 80",
-    "description": "ターゲットの背後に、?% 減少した最大 ? と増加した ? の ? を持つ分身を ? する。? 分身は作成者の現在の装備、ステータス、? を引き継ぎ、スキルを ? ことができる。"
+      "ニワトコウッド",
+      "スプリキン",
+      "喧嘩屋"
+    ]
+  },
+  {
+    "stt": 64,
+    "id": "maokai",
+    "name": "マオカイ",
+    "image": "Maokai.jpg",
+    "splash": "T_18_Maokai_PCHighres.jpg",
+    "cost": "5",
+    "traits": [
+      "古い成長",
+      "ジャガーノート"
+    ]
+  },
+  {
+    "stt": 65,
+    "id": "ratsukusu_(inhueruno)",
+    "name": "ラックス (インフェルノ)",
+    "image": "LuxInferno.jpg",
+    "splash": "T_18_Lux_Inferno_PCHighres.jpg",
+    "cost": "5",
+    "traits": [
+      "インフェルノ",
+      "アバター"
+    ]
+  },
+  {
+    "stt": 66,
+    "id": "ratsukusu_(so-ra-)",
+    "name": "ラックス (ソーラー)",
+    "image": "LuxSolar.jpg",
+    "splash": "T_18_Lux_Sunbeam_PCHighres.jpg",
+    "cost": "5",
+    "traits": [
+      "ソーラー",
+      "アバター"
+    ]
+  },
+  {
+    "stt": 67,
+    "id": "ratsukusu_(niwatokoutsudo)",
+    "name": "ラックス (ニワトコウッド)",
+    "image": "LuxElderwood.jpg",
+    "splash": "T_18_Lux_Elderwood_PCHighres.jpg",
+    "cost": "5",
+    "traits": [
+      "ニワトコウッド",
+      "アバター"
+    ]
+  },
+  {
+    "stt": 68,
+    "id": "ratsukusu_(huei)",
+    "name": "ラックス (フェイ)",
+    "image": "LuxFae.jpg",
+    "splash": "T_18_Lux_Fae_PCHighres.jpg",
+    "cost": "5",
+    "traits": [
+      "フェイ",
+      "アバター"
+    ]
+  },
+  {
+    "stt": 69,
+    "id": "ratsukusu_(burotsusamu)",
+    "name": "ラックス (ブロッサム)",
+    "image": "LuxBlossom.jpg",
+    "splash": "T_18_Lux_Blossom_PCHighres.jpg",
+    "cost": "5",
+    "traits": [
+      "ブロッサム",
+      "アバター"
+    ]
+  },
+  {
+    "stt": 70,
+    "id": "ratsukusu_(puraimaru)",
+    "name": "ラックス (プライマル)",
+    "image": "LuxPrimal.jpg",
+    "splash": "T_18_Lux_Primal_PCHighres.jpg",
+    "cost": "5",
+    "traits": [
+      "プライマル",
+      "アバター"
+    ]
+  },
+  {
+    "stt": 71,
+    "id": "ratsukusu_(runa)",
+    "name": "ラックス (ルナ)",
+    "image": "LuxLunar.jpg",
+    "splash": "T_18_Lux_Moonbeam_PCHighres.jpg",
+    "cost": "5",
+    "traits": [
+      "ルナ",
+      "アバター"
+    ]
+  },
+  {
+    "stt": 72,
+    "id": "ratsukusu_(Tuan_)",
+    "name": "ラックス (団)",
+    "image": "LuxCoven.jpg",
+    "splash": "T_18_Lux_Coven_PCHighres.jpg",
+    "cost": "5",
+    "traits": [
+      "団",
+      "アバター"
+    ]
+  },
+  {
+    "stt": 73,
+    "id": "ratsukusu_(Yi_Kong_Jian_)",
+    "name": "ラックス (異空間)",
+    "image": "LuxEldritch.jpg",
+    "splash": "T_18_Lux_Blacktorn_PCHighres.jpg",
+    "cost": "5",
+    "traits": [
+      "異空間",
+      "アバター"
+    ]
   }
 ]

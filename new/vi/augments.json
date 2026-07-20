@@ -1,314 +1,386 @@
 [
   {
-    "stt": "1-1",
-    "id": "poppy_hero",
-    "name": "Poppy Hero",
+    "stt": 1,
+    "id": "doi_cua_hang_lien_tuc",
+    "name": "Đổi Cửa Hàng Liên Tục",
     "image": "tier-silver.png",
-    "tier": "2-1",
-    "description": "Nhận 1 Poppy. Poppy trở thành Xạ Thủ đánh xa và các đòn đánh của cô ấy sẽ ném Meeps vào mục tiêu."
+    "tier": "silver",
+    "description": "Nhận ? lượt đổi Cửa Hàng miễn phí."
   },
   {
-    "stt": "1-2",
-    "id": "aatrox_hero",
-    "name": "Aatrox Hero",
+    "stt": 2,
+    "id": "lai_von_i",
+    "name": "Lãi vốn I",
     "image": "tier-silver.png",
-    "tier": "2-1",
-    "description": "Kỹ năng của Aatrox giờ là một chuỗi combo ba đòn đánh tốn ít năng lượng, giúp hồi máu cho anh ta dựa trên một phần sát thương gây ra. Khi chiêu thức NOVA kích hoạt, anh ta sẽ được tăng máu tối đa và kích thước."
+    "tier": "silver",
+    "description": "Tích trữ lượng Vàng bằng ?% tiền lãi đã nhận. Ở vòng ?-?, nhận toàn bộ Vàng đã tích trữ. Nhận ngay ? Vàng."
   },
   {
-    "stt": "1-3",
-    "id": "bonk!",
-    "name": "Bonk!",
+    "stt": 3,
+    "id": "nha_vo_dich_giao_hang",
+    "name": "Nhà vô địch giao hàng",
     "image": "tier-silver.png",
-    "tier": "2-1",
-    "description": "Nhận 1 Nasus. Nasus mạnh nhất của bạn trở thành một Đấu Sĩ tấn công với kỹ năng đơn mục tiêu sẽ mạnh dần lên sau mỗi lần hạ gục."
+    "tier": "silver",
+    "description": "Nhận ? Tướng ? vàng. Sau ? vòng, nhận thêm ? Tướng."
   },
   {
-    "stt": "1-4",
-    "id": "charge_transfer_i",
-    "name": "Charge Transfer I",
+    "stt": 4,
+    "id": "giao_hang_vo_dich_+",
+    "name": "Giao hàng vô địch +",
     "image": "tier-silver.png",
-    "tier": "3-2",
-    "description": "Đội hình của bạn nhận 5% Gia tăng Sát thương. 50% sát thương dư thừa sẽ gây lên kẻ địch gần nhất."
+    "tier": "silver",
+    "description": "Nhận ? Tướng ? vàng. Sau ? vòng, nhận thêm ? Tướng."
   },
   {
-    "stt": "1-5",
-    "id": "the_tower",
-    "name": "The Tower",
+    "stt": 5,
+    "id": "giao_hang_tan_noi_++",
+    "name": "Giao hàng tận nơi ++",
     "image": "tier-silver.png",
-    "tier": "2-1",
-    "description": "Nhận một bù nhìn tập trận khổng lồ có khả năng giật điện kẻ địch xung quanh."
+    "tier": "silver",
+    "description": "Nhận ? Tướng ? vàng. Sau ? vòng, nhận thêm ? Tướng."
   },
   {
-    "stt": "1-6",
-    "id": "group_hug_i",
-    "name": "Group Hug I",
+    "stt": 6,
+    "id": "bat_lua",
+    "name": "Bật lửa",
     "image": "tier-silver.png",
-    "tier": "3-2",
-    "description": "Bắt đầu giao tranh: Các đồng minh tăng cho các đồng minh liền kề khác 6 Giáp và Kháng Phép. Hiệu ứng này có thể cộng dồn."
+    "tier": "silver",
+    "description": "Tướng Inferno gây nhiều sát thương nhất ở giao tranh trước sẽ Bốc Cháy và nhận ?% Tốc độ Đánh. Nhận Varus và Akali."
   },
   {
-    "stt": "1-7",
-    "id": "expedition",
-    "name": "Expedition",
+    "stt": 7,
+    "id": "huong_toi_tuong_lai",
+    "name": "Hướng tới tương lai",
     "image": "tier-silver.png",
-    "tier": "2-1",
-    "description": "Khi bắt đầu giai đoạn chuẩn bị, bạn sẽ mất tướng nằm ngoài cùng bên phải trên hàng chờ. Sau khi mất tổng cộng 33 vàng giá trị tướng theo cách này, nhận một phần thưởng quyền năng."
+    "tier": "silver",
+    "description": "Linh Thú của bạn mất ? Máu, nhưng sau ? giao tranh với người chơi, nhận ? Tướng 4 vàng và ? Vàng."
   },
   {
-    "stt": "1-8",
-    "id": "forge_a_friend",
-    "name": "Forge a Friend",
+    "stt": 8,
+    "id": "xuc_xac_da_duoc_nap",
+    "name": "Xúc xắc đã được nạp",
     "image": "tier-silver.png",
-    "tier": "4-2",
-    "description": "Tướng 1 vàng tiếp theo bạn mua sẽ trực tiếp lên 3 sao."
+    "tier": "silver",
+    "description": "Xúc xắc của bạn luôn ra 6 và đồng xu luôn ra mặt ngửa.\n\nTung xúc xắc và nhận lượng Vàng bằng kết quả. Sau đó tung đồng xu; nếu ra mặt ngửa, nhận ? Vàng."
   },
   {
-    "stt": "1-9",
-    "id": "size_matters",
-    "name": "Size Matters",
+    "stt": 9,
+    "id": "vet_nhanh",
+    "name": "Vệt Nhanh",
     "image": "tier-silver.png",
-    "tier": "3-2",
-    "description": "Nhận 1 Đai Khổng Lồ. Sau khi một tướng bắt đầu giao tranh với hơn 3800 Máu tối đa, nhận thêm một cái nữa."
+    "tier": "silver",
+    "description": "Nhận gấp đôi tiến trình chuỗi thắng và chuỗi thua. Nhận ? Vàng."
   },
   {
-    "stt": "1-10",
-    "id": "feeling_lucky",
-    "name": "Feeling Lucky",
+    "stt": 10,
+    "id": "ma_thuat_con_sot_lai",
+    "name": "Ma thuật còn sót lại",
     "image": "tier-silver.png",
-    "tier": "3-2",
-    "description": "Nhận 12 vàng, sau đó tung đồng xu. Nếu là mặt ngửa, nhận thêm 3 vàng."
+    "tier": "silver",
+    "description": "Đội của bạn nhận ? Máu. Mỗi khi mua Linh Hồn, lượng này tăng thêm ?."
   },
   {
-    "stt": "1-11",
-    "id": "cognitive_tax",
-    "name": "Cognitive Tax",
+    "stt": 11,
+    "id": "ma_thuat_con_sot_lai_+",
+    "name": "Ma thuật còn sót lại +",
     "image": "tier-silver.png",
-    "tier": "2-1",
-    "description": "Nhận 8 vàng và 1 XP."
+    "tier": "silver",
+    "description": "Đội của bạn nhận ? Máu. Mỗi khi mua Linh Hồn, lượng này tăng thêm ?."
   },
   {
-    "stt": "1-12",
-    "id": "cognitive_tax+",
-    "name": "Cognitive Tax+",
+    "stt": 12,
+    "id": "ma_thuat_du_thua_++",
+    "name": "Ma thuật dư thừa ++",
     "image": "tier-silver.png",
-    "tier": "3-2",
-    "description": "Nhận 12 vàng và 3 XP."
+    "tier": "silver",
+    "description": "Đội của bạn nhận ? Máu. Mỗi khi mua Linh Hồn, lượng này tăng thêm ?."
   },
   {
-    "stt": "1-13",
-    "id": "kick_start",
-    "name": "Kick Start",
+    "stt": 13,
+    "id": "do_thang_dung_i",
+    "name": "Độ thẳng đứng I",
     "image": "tier-silver.png",
-    "tier": "2-1",
-    "description": "Nhận 1 tướng 2 vàng 2 sao ngẫu nhiên và 1 vàng."
+    "tier": "silver",
+    "description": "Tướng nhận ?% Sát thương Đòn đánh, ?% Sức mạnh Phép thuật, ? Giáp và ? Kháng Phép cho mỗi đồng minh có chung một Tộc Hệ."
   },
   {
-    "stt": "2-1",
-    "id": "anima_commander",
-    "name": "Anima Commander",
+    "stt": 14,
+    "id": "can_nang_gia_tri",
+    "name": "Cân nặng Giá trị",
+    "image": "tier-silver.png",
+    "tier": "silver",
+    "description": "Mỗi khi nâng một tướng lên 3 sao, nhận một bản sao của tướng đó mỗi vòng trong phần còn lại của trận đấu. Nhận một Máy Nhân Bản Tướng Cỡ Nhỏ."
+  },
+  {
+    "stt": 15,
+    "id": "giam_gia_wisp",
+    "name": "Giảm giá Wisp",
+    "image": "tier-silver.png",
+    "tier": "silver",
+    "description": "Mỗi khi mua Linh Hồn, nhận ? Vàng. Nhận ngay ? Vàng."
+  },
+  {
+    "stt": 16,
+    "id": "giam_gia_wisp_+",
+    "name": "Giảm giá Wisp +",
+    "image": "tier-silver.png",
+    "tier": "silver",
+    "description": "Mỗi khi mua Linh Hồn, nhận ? Vàng. Nhận ngay ? Vàng."
+  },
+  {
+    "stt": 17,
+    "id": "cay_ghep_dieu_khien_hoc_ii",
+    "name": "Cấy ghép điều khiển học II",
     "image": "tier-gold.png",
-    "tier": "2-1",
-    "description": "Nhận 1 Briar, 1 Jinx và 1 Illaoi. Tăng máu hiện tại và máu tối đa của linh thú thêm 10."
+    "tier": "gold",
+    "description": "Tướng cầm Trang Bị nhận ? Máu và ?% Sức Mạnh Công Kích."
   },
   {
-    "stt": "2-2",
-    "id": "sniper's_nest",
-    "name": "Sniper's Nest",
+    "stt": 18,
+    "id": "duong_len_dieu_khien_hoc_ii",
+    "name": "Đường lên điều khiển học II",
     "image": "tier-gold.png",
-    "tier": "2-1",
-    "description": "Các tướng Xạ Thủ nhận 8% Gia tăng Sát thương cho mỗi trận chiến đấu từ cùng một ô bắt đầu, tối đa 32%. Nhận 1 Ezreal và 1 Gnar."
+    "tier": "gold",
+    "description": "Tướng cầm Trang Bị nhận ? Máu và ? Hồi Năng Lượng. Nhận một Nước Mắt Nữ Thần."
   },
   {
-    "stt": "2-3",
-    "id": "may_the_fours_be_with_you",
-    "name": "May the Fours Be With You",
+    "stt": 19,
+    "id": "quai_thu_ben_trong",
+    "name": "Quái thú bên trong",
     "image": "tier-gold.png",
-    "tier": "4-2",
-    "description": "Các tướng 4 vàng của bạn và Jhin nhận 204 Máu và 14% Tốc độ Đánh. Nhận 1 Jhin."
+    "tier": "gold",
+    "description": "Primal ban thêm một Phước Lành. Nhận Vi."
   },
   {
-    "stt": "2-4",
-    "id": "invader_zed",
-    "name": "Invader Zed",
+    "stt": 20,
+    "id": "cuoc_goi_cua_blossom",
+    "name": "Cuộc Gọi Của Blossom",
     "image": "tier-gold.png",
-    "tier": "3-2",
-    "description": "Nhận 1 Huyết Kiếm. Ở vòng 4-1, nhận 1 Zed. Sau khi nhận Zed, anh ta có thể xuất hiện trong cửa hàng của bạn. Zed là một Đấu Sĩ tấn công 5 vàng có khả năng tạo ra các phân thân của chính mình."
+    "tier": "gold",
+    "description": "Khi mua Linh Hồn, nhận một tướng Blossom ngẫu nhiên dựa trên giá của Linh Hồn. Nhận 3 tướng Blossom."
   },
   {
-    "stt": "2-5",
-    "id": "reach_for_the_stars",
-    "name": "Reach For the Stars",
+    "stt": 21,
+    "id": "qua_tang_thuong",
+    "name": "Quà tặng thưởng",
     "image": "tier-gold.png",
-    "tier": "2-1",
-    "description": "Jax nhận tốc độ đánh cộng dồn sau mỗi đòn đánh. Khi tung chiêu, nhảy tới kẻ địch gần đó, gây sát thương và thêm sát thương đòn đánh cộng dồn cho đến hết trận chiến."
+    "tier": "gold",
+    "description": "Mỗi khi mở một Cầu Chiến Lợi Phẩm, bạn có ?% cơ hội nhận một Cầu Chiến Lợi Phẩm Xám. Nhận ngay ? Cầu Chiến Lợi Phẩm Xám."
   },
   {
-    "stt": "2-6",
-    "id": "meep_space_9",
-    "name": "Meep Space 9",
+    "stt": 22,
+    "id": "qua_tang_+",
+    "name": "Quà tặng +",
     "image": "tier-gold.png",
-    "tier": "2-1",
-    "description": "Meepsie nhận một phiên bản yếu hơn của kỹ năng Brock và sát thương đòn đánh nặng."
+    "tier": "gold",
+    "description": "Mỗi khi mở một Cầu Chiến Lợi Phẩm, bạn có ?% cơ hội nhận một Cầu Chiến Lợi Phẩm Xám. Nhận ngay ? Cầu Chiến Lợi Phẩm Xám."
   },
   {
-    "stt": "2-7",
-    "id": "star_conqueror",
-    "name": "Star Conqueror",
+    "stt": 23,
+    "id": "lai_von_ii",
+    "name": "Lãi vốn II",
     "image": "tier-gold.png",
-    "tier": "2-1",
-    "description": "Mordekaiser trở thành một chủ lực SMPT dựa trên đòn đánh tay, kỹ năng vận sức của anh ta là một đợt bùng nổ tốc độ đánh chừng nào anh ta còn năng lượng để tiêu hao. Khi bắt đầu giao tranh và khi hạ gục, anh ta nhận được một lá chắn không bị khóa năng lượng."
+    "tier": "gold",
+    "description": "Tích trữ lượng Vàng bằng ?% tiền lãi đã nhận. Ở vòng ?-?, nhận toàn bộ Vàng đã tích trữ. Nhận ngay ? Vàng."
   },
   {
-    "stt": "2-8",
-    "id": "self_destruct",
-    "name": "Self Destruct",
+    "stt": 24,
+    "id": "su_lua_chon_cua_mat_troi",
+    "name": "Sự lựa chọn của mặt trời",
     "image": "tier-gold.png",
-    "tier": "2-1",
-    "description": "Nhận 1 Gragas. Gragas giờ sẽ tự kích nổ, hy sinh 20% Máu tối đa để gây sát thương phép trong phạm vi bốn ô bằng XXX (SMPT) cộng với lượng máu đã hy sinh, sát thương giảm 20% sau mỗi ô tính từ tâm vụ nổ."
+    "tier": "gold",
+    "description": "Nhận Leona, Kayle và Sejuani. Mỗi vòng, Leona nhận vĩnh viễn ? Máu tối đa, tăng thêm ? với mỗi tướng 3 sao khác nhau được triển khai."
   },
   {
-    "stt": "2-9",
-    "id": "contract_killer",
-    "name": "Contract Killer",
+    "stt": 25,
+    "id": "tieu_thu_thuc_vat",
+    "name": "Tiêu thụ thực vật",
     "image": "tier-gold.png",
-    "tier": "2-1",
-    "description": "Nhận 1 Pyke. Pyke mạnh nhất của bạn nhận được khả năng tái tạo kỹ năng và tạo vàng khi tham gia hạ gục."
+    "tier": "gold",
+    "description": "Nhận 1 Ấn Flora Fatalis. Tướng cầm Ấn nhận gấp đôi hiệu ứng Tộc Hệ Flora Fatalis và nhận ? Hồi Năng Lượng."
   },
   {
-    "stt": "2-10",
-    "id": "side_effects",
-    "name": "Side Effects",
+    "stt": 26,
+    "id": "coven_acolyte",
+    "name": "Coven Acolyte",
     "image": "tier-gold.png",
-    "tier": "3-2",
-    "description": "Khi một đồng minh được hồi máu, họ gây 50% lượng máu được hồi đó thành sát thương phép lên mục tiêu. Mỗi 5 giây, các đồng minh hồi 5% Máu tối đa."
+    "tier": "gold",
+    "description": "Khi chọn tiếp tục tích trữ Tinh Hoa Coven, hồi ? Máu Linh Thú. Nhận Camille, Elise và Caitlyn."
   },
   {
-    "stt": "2-11",
-    "id": "misfits",
-    "name": "Misfits",
+    "stt": 27,
+    "id": "nghi_thuc_den_toi",
+    "name": "Nghi thức đen tối",
     "image": "tier-gold.png",
-    "tier": "2-1",
-    "description": "Đội hình của bạn nhận 75 Máu cho mỗi tộc hệ Độc Nhất đang kích hoạt. Nhận 1 Miss Fortune và 1 Rhaast."
+    "tier": "gold",
+    "description": "Khi đổi Tinh Hoa Coven lấy phần thưởng, tướng Coven nhận Sức Mạnh Phép Thuật thay cho báu vật. Nhận Camille, Elise và Caitlyn."
   },
   {
-    "stt": "2-12",
-    "id": "booster_pack",
-    "name": "Booster Pack",
+    "stt": 28,
+    "id": "embiggen",
+    "name": "Embiggen",
     "image": "tier-gold.png",
-    "tier": "2-1",
-    "description": "Nhận các tướng ngẫu nhiên có tổng giá trị 11 vàng. (Đảm bảo có ít nhất một tướng 3 vàng!)"
+    "tier": "gold",
+    "description": "Pixie Fae lớn hơn và cho thêm ?% Sức Mạnh Công Kích cùng Sức Mạnh Phép Thuật. Nhận Xayah và Rakan."
   },
   {
-    "stt": "2-13",
-    "id": "booster_pack+",
-    "name": "Booster Pack+",
+    "stt": 29,
+    "id": "fourcing",
+    "name": "FOURcing",
     "image": "tier-gold.png",
-    "tier": "3-2",
-    "description": "Nhận các tướng ngẫu nhiên có tổng giá trị 18 vàng. (Đảm bảo có ít nhất một tướng 4 vàng!)"
+    "tier": "gold",
+    "description": "Nhận 1 tướng 4 vàng ngẫu nhiên. Với mỗi trang bị tướng đó mang, đội của bạn nhận ? Máu."
   },
   {
-    "stt": "2-14",
-    "id": "booster_pack++",
-    "name": "Booster Pack++",
+    "stt": 30,
+    "id": "trich_xuat_vat_pham",
+    "name": "Trích xuất vật phẩm",
     "image": "tier-gold.png",
-    "tier": "4-2",
-    "description": "Nhận các tướng ngẫu nhiên có tổng giá trị 30 vàng. (Đảm bảo có ít nhất một tướng 5 vàng!)"
+    "tier": "gold",
+    "description": "Trong ? lần đầu hiến tế Tướng trên ô Eldritch, nhận bản sao của một mảnh Trang bị ngẫu nhiên mà Tướng đó đang cầm. Nhận Veigar, Rek'Sai và ? Dụng Cụ Tháo Trang Bị."
   },
   {
-    "stt": "2-15",
-    "id": "charge_transfer_ii",
-    "name": "Charge Transfer II",
+    "stt": 31,
+    "id": "con_duong_di_rung",
+    "name": "Con Đường Đi Rừng",
     "image": "tier-gold.png",
-    "tier": "3-2",
-    "description": "Đội hình của bạn nhận 8% Gia tăng Sát thương. 80% sát thương dư thừa sẽ gây lên kẻ địch gần nhất."
+    "tier": "gold",
+    "description": "Nhận Pebbles, Cinderling, Scuttle Crab và Murkwolf. Mỗi khi lên cấp, nhận một Riftbeast mới và ? Vàng."
   },
   {
-    "stt": "2-16",
-    "id": "group_hug_ii",
-    "name": "Group Hug II",
+    "stt": 32,
+    "id": "doi_tien+",
+    "name": "Đói tiền+",
     "image": "tier-gold.png",
-    "tier": "3-2",
-    "description": "Bắt đầu giao tranh: Các đồng minh tăng cho các đồng minh liền kề khác 9 Giáp và Kháng Phép. Hiệu ứng này có thể cộng dồn."
+    "tier": "gold",
+    "description": "Nhận ngay ? Vàng, rồi nhận ? Vàng ở đầu mỗi giai đoạn. Nhặt Vàng khiến Linh Thú của bạn lớn hơn."
   },
   {
-    "stt": "2-17",
-    "id": "frontline_foundation",
-    "name": "Frontline Foundation",
+    "stt": 33,
+    "id": "noi_tru_an_cua_thien_nhien",
+    "name": "Nơi trú ẩn của thiên nhiên",
     "image": "tier-gold.png",
-    "tier": "2-1",
-    "description": "Nhận 1 tướng Chống Chịu 1 vàng 2 sao và một ấn cho tộc hệ cuối cùng trong danh sách của họ."
+    "tier": "gold",
+    "description": "Tướng bắt đầu giao tranh cạnh một cây Elderwood nhận ?% Tốc độ Đánh và hồi ?% Máu tối đa mỗi ? giây. Nhận 3 Tướng Elderwood."
   },
   {
-    "stt": "2-18",
-    "id": "kahunahuna",
-    "name": "Kahunahuna",
+    "stt": 34,
+    "id": "omega_riftbeast",
+    "name": "Omega Riftbeast",
     "image": "tier-gold.png",
-    "tier": "2-1",
-    "description": "Mỗi đòn tấn công thứ 5 gây thêm sát thương chuẩn bằng 200% Sát thương Tấn công cơ bản."
+    "tier": "gold",
+    "description": "Bây giờ bạn có thể chọn Alpha Riftbeast thứ hai. Nhận được 3 quái thú Riftbeast."
   },
   {
-    "stt": "2-19",
-    "id": "cosmic_restart",
-    "name": "Cosmic Restart",
+    "stt": 35,
+    "id": "luoi_dao_cao",
+    "name": "Lưỡi dao cạo",
     "image": "tier-gold.png",
-    "tier": "3-2",
-    "description": "Thỉnh cầu các Vị Thần bán tất cả các đơn vị trên bàn cờ và hàng chờ của bạn. Nhận 2 Ấn ngẫu nhiên và 10 lượt đổi lại cửa hàng miễn phí."
+    "tier": "gold",
+    "description": "Nhận 1 tướng 2 sao giá 2 vàng và ? Búa Tháo Đồ. Sau khi thắng giao tranh với người chơi, nhận ? Vàng cho mỗi 1 mảnh trang bị trên hàng chờ trang bị."
   },
   {
-    "stt": "2-20",
-    "id": "cognitive_overload",
-    "name": "Cognitive Overload",
+    "stt": 36,
+    "id": "nguoi_ban_long_nho",
+    "name": "Người Bạn Lông Nhỏ",
     "image": "tier-gold.png",
-    "tier": "3-2",
-    "description": "Nhận 7 Vàng, 1 tướng 1 vàng 2 sao, 1 tướng 2 vàng, 2 tướng 3 vàng, 1 XP và 1 lượt đổi lại cửa hàng."
+    "tier": "gold",
+    "description": "Khi Sprykin kích hoạt, nhận thêm một Người Bạn Lông Xù Khổng Lồ có ?% sức mạnh. Nhận 3 tướng Sprykin."
   },
   {
-    "stt": "2-21",
-    "id": "backline_blueprint",
-    "name": "Backline Blueprint",
+    "stt": 37,
+    "id": "mat_troi_va_mat_trang",
+    "name": "Mặt Trời và Mặt Trăng",
     "image": "tier-gold.png",
-    "tier": "2-1",
-    "description": "Nhận 1 tướng không phải Chống Chịu 3 vàng và một ấn cho tộc hệ cuối cùng trong danh sách của họ."
+    "tier": "gold",
+    "description": "Tướng Lunar của bạn nhận ? Máu và ?% Khuếch Đại Sát Thương với mỗi 1 tướng Solar khác nhau được triển khai. Nhận Leona 2 sao, Kayle và Aphelios."
   },
   {
-    "stt": "2-22",
-    "id": "money_hungry",
-    "name": "Money Hungry",
+    "stt": 38,
+    "id": "do_thang_dung_ii",
+    "name": "Độ thẳng đứng II",
     "image": "tier-gold.png",
-    "tier": "2-1",
-    "description": "Nhận ngay 10 vàng, sau đó nhận 7 vàng khi bắt đầu mỗi giai đoạn. Việc nhặt vàng làm cho Linh thú của bạn lớn hơn."
+    "tier": "gold",
+    "description": "Tướng nhận ?% Sát thương Đòn đánh, ?% Sức mạnh Phép thuật, ? Giáp và ? Kháng Phép cho mỗi đồng minh có chung một Tộc Hệ."
   },
   {
-    "stt": "3-1",
-    "id": "five-pointed_star",
-    "name": "Five-Pointed Star",
+    "stt": 39,
+    "id": "kho_bau_chon_cat_iii",
+    "name": "Kho Báu Chôn Cất III",
     "image": "tier-prism.png",
-    "tier": "4-2",
-    "description": "Khi bắt đầu mỗi giai đoạn, tướng đầu tiên bạn mua từ một bậc cụ thể sẽ là tướng 2 sao. Nhận ngay 1 tướng 1 vàng 2 sao và 2 vàng. Giai đoạn 2: bậc 2 sao; Giai đoạn 3: bậc 3 sao; Giai đoạn 4: bậc 4 sao; Giai đoạn 5: bậc 5 sao."
+    "tier": "prism",
+    "description": "Nhận 1 vật phẩm kết hợp ngẫu nhiên ngay lập tức và khi bắt đầu vòng ? tiếp theo."
   },
   {
-    "stt": "3-2",
-    "id": "just_hit",
-    "name": "Just Hit",
+    "stt": 40,
+    "id": "nhiem_vu_thanh_phan",
+    "name": "Nhiệm vụ thành phần",
     "image": "tier-prism.png",
-    "tier": "4-2",
-    "description": "Nhận 1 Máy Nhân Bản Tướng, 18 lượt đổi lại cửa hàng và 10 vàng."
+    "tier": "prism",
+    "description": "Nhận một mảnh Trang bị ngẫu nhiên và ? Vàng. Trong 7 lần tiếp theo thắng giao tranh với người chơi, mỗi lần nhận một mảnh Trang bị ngẫu nhiên khác nhau. Sau đó nhận một Xẻng Vàng."
   },
   {
-    "stt": "3-3",
-    "id": "golden_gamble",
-    "name": "Golden Gamble",
+    "stt": 41,
+    "id": "de_lam_to",
+    "name": "Đe làm tổ",
     "image": "tier-prism.png",
-    "tier": "2-1",
-    "description": "Tung đồng xu. Nếu là mặt ngửa, nhận 1 Rương Trang Bị Ánh Sáng May Mắn. Nếu mặt sấp, nhận 1 trang bị Ánh Sáng ngẫu nhiên và 1 Búa Rèn."
+    "tier": "prism",
+    "description": "Nhận một Đe Tạo Tác. Mở nó để nhận Đe Trang Bị Hoàn Chỉnh; mở tiếp để nhận Đe Mảnh Trang Bị; mở chiếc cuối để nhận ? Vàng."
   },
   {
-    "stt": "3-4",
-    "id": "baron's_lair",
-    "name": "Baron's Lair",
+    "stt": 42,
+    "id": "de_lam_to_+",
+    "name": "Đe làm tổ +",
     "image": "tier-prism.png",
-    "tier": "2-1",
-    "description": "Nhận 1 trang bị Chống Chịu. Sau 8 giây giao tranh, đội hình của bạn nhận thêm 5% Sát thương Vật lý và Sức mạnh Phép thuật mỗi giây cho đến khi kết thúc giao tranh."
+    "tier": "prism",
+    "description": "Nhận một Đe Tạo Tác. Mở nó để nhận Đe Trang Bị Hoàn Chỉnh; mở tiếp để nhận Đe Mảnh Trang Bị; mở chiếc cuối để nhận ? Vàng."
+  },
+  {
+    "stt": 43,
+    "id": "bup_be_lam_to",
+    "name": "Búp bê làm tổ",
+    "image": "tier-prism.png",
+    "tier": "prism",
+    "description": "Khi một tướng tử trận, triệu hồi một bản sao thấp hơn một cấp sao và có ?% Máu. Nhận ? lượt đổi lại cửa hàng miễn phí."
+  },
+  {
+    "stt": 44,
+    "id": "nang_cap_sao",
+    "name": "Nâng Cấp Sao",
+    "image": "tier-prism.png",
+    "tier": "prism",
+    "description": "Sau khi nâng ? tướng lên 3 sao, cấp của bạn trở thành ?. Nhận ? lượt đổi lại cửa hàng ngay lập tức và vào đầu mỗi vòng."
+  },
+  {
+    "stt": 45,
+    "id": "dac_diem_thang",
+    "name": "Đặc điểm Thang",
+    "image": "tier-prism.png",
+    "tier": "prism",
+    "description": "Nhận 1 Ấn ngẫu nhiên. Nhận phần thưởng sau khi kích hoạt ? Tộc Hệ thông thường trong giao tranh với người chơi. Sau đó, số Tộc Hệ cần thiết và giá trị phần thưởng tăng lên."
+  },
+  {
+    "stt": 46,
+    "id": "do_thang_dung_iii",
+    "name": "Độ thẳng đứng III",
+    "image": "tier-prism.png",
+    "tier": "prism",
+    "description": "Tướng nhận ?% Sát thương Đòn đánh, ?% Sức mạnh Phép thuật, ? Giáp và ? Kháng Phép cho mỗi đồng minh có chung một Tộc Hệ."
+  },
+  {
+    "stt": 47,
+    "id": "deadeye",
+    "name": "Deadeye",
+    "image": "Deadeye.png",
+    "tier": "",
+    "description": ""
+  },
+  {
+    "stt": 48,
+    "id": "world_runes",
+    "name": "World Runes",
+    "image": "World-Runes.png",
+    "tier": "",
+    "description": ""
   }
 ]

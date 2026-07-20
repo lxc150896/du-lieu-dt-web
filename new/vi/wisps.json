@@ -1,0 +1,1460 @@
+{
+  "title": "Wisps",
+  "description": "Wisps xuất hiện cách vòng ở ô ngoài cùng bên phải của cửa hàng trong giai đoạn chuẩn bị.",
+  "info": [
+    {
+      "title": "Thời điểm trong cửa hàng",
+      "description": "Wisps xuất hiện cách vòng ở ô ngoài cùng bên phải của cửa hàng và chỉ có thể mua trong giai đoạn chuẩn bị."
+    },
+    {
+      "title": "Một mỗi vòng",
+      "description": "Bạn có thể mua tối đa một Wisp mỗi vòng. Nếu bỏ qua, đơn vị ẩn phía sau Wisp sẽ hiện ra sau giai đoạn chuẩn bị."
+    },
+    {
+      "title": "Bảy nhóm",
+      "description": "Wisps được chia thành Champion, Combat, Misc, Shop, Gold/XP, Risky và Item, với màu sắc giúp nhận diện nhanh hơn."
+    },
+    {
+      "title": "Giao tranh cuối trận",
+      "description": "Càng về sau, Wisps càng mạnh và đắt hơn. Sau Stage 5, cứ hai lượt đề nghị Wisp thì một lượt là Combat Wisp."
+    }
+  ],
+  "all_wisps_title": "All Wisps",
+  "all_wisps_description": "Khám phá toàn bộ 200 Wisps sẽ xuất hiện trong Set 18 theo từng nhóm.",
+  "categories": [
+    {
+      "name": "All",
+      "count": 200
+    },
+    {
+      "name": "Tướng",
+      "count": 16
+    },
+    {
+      "name": "Chiến đấu",
+      "count": 94
+    },
+    {
+      "name": "Cửa hàng",
+      "count": 19
+    },
+    {
+      "name": "Vàng/XP",
+      "count": 14
+    },
+    {
+      "name": "Rủi ro",
+      "count": 21
+    },
+    {
+      "name": "Trang bị",
+      "count": 6
+    },
+    {
+      "name": "Khác",
+      "count": 30
+    }
+  ],
+  "wisps": [
+    {
+      "name": "Đại kiện tướng",
+      "image": "creatures.png",
+      "category": "Tướng",
+      "cost": "18",
+      "description": "Nhận ngẫu nhiên một tướng 2 sao 5 vàng."
+    },
+    {
+      "name": "Lữ khách lạc lối",
+      "image": "creatures.png",
+      "category": "Tướng",
+      "cost": "3",
+      "description": "Nhận các tướng ngẫu nhiên có tổng giá trị 3 Vàng."
+    },
+    {
+      "name": "Cánh Đồng Chuột",
+      "image": "creatures.png",
+      "category": "Tướng",
+      "cost": "5",
+      "description": "Nhận một Công cụ sao chép nhỏ cho mỗi tướng 1 vàng duy nhất mà bạn chơi."
+    },
+    {
+      "name": "Súng lớn",
+      "image": "creatures.png",
+      "category": "Tướng",
+      "cost": "8",
+      "description": "Nhận ngẫu nhiên 2 tướng 1 sao 4 vàng."
+    },
+    {
+      "name": "Ba tôi",
+      "image": "creatures.png",
+      "category": "Tướng",
+      "cost": "9",
+      "description": "Nhận ngẫu nhiên một tướng 2 sao 3 vàng."
+    },
+    {
+      "name": "Nguyên phân",
+      "image": "creatures.png",
+      "category": "Tướng",
+      "cost": "1",
+      "description": "Có được một Công cụ sao chép nhỏ."
+    },
+    {
+      "name": "Người học việc",
+      "image": "creatures.png",
+      "category": "Tướng",
+      "cost": "3",
+      "description": "Nhận ngẫu nhiên một tướng 2 sao 1 vàng."
+    },
+    {
+      "name": "Người hành trình",
+      "image": "creatures.png",
+      "category": "Tướng",
+      "cost": "6",
+      "description": "Nhận ngẫu nhiên một tướng 2 sao 2 vàng."
+    },
+    {
+      "name": "Cặp song sinh rừng",
+      "image": "creatures.png",
+      "category": "Tướng",
+      "cost": "4",
+      "description": "Nhận 2 bản sao của tướng 2 vàng mà bạn không có."
+    },
+    {
+      "name": "Hướng dẫn đi rừng",
+      "image": "creatures.png",
+      "category": "Tướng",
+      "cost": "5",
+      "description": "Nhận được tướng 4 vàng ngẫu nhiên."
+    },
+    {
+      "name": "Anh hùng tiên tri",
+      "image": "creatures.png",
+      "category": "Tướng",
+      "cost": "35",
+      "description": "Nhận vĩnh viễn một bản sao của cùng một mệnh giá 5 vàng ngẫu nhiên trong mỗi vòng đấu."
+    },
+    {
+      "name": "Hội trưởng lão",
+      "image": "creatures.png",
+      "category": "Tướng",
+      "cost": "45",
+      "description": "Nhận mỗi tướng 5 vàng một bản sao."
+    },
+    {
+      "name": "Tuyên truyền",
+      "image": "creatures.png",
+      "category": "Tướng",
+      "cost": "1",
+      "description": "Nhận được bản sao của tướng đồng minh đầu tiên chết."
+    },
+    {
+      "name": "Sự cạnh tranh nảy lửa",
+      "image": "creatures.png",
+      "category": "Tướng",
+      "cost": "3",
+      "description": "Nhận được Rengar hoặc Kha'Zix. Họ nhận được 3 lần hạ gục."
+    },
+    {
+      "name": "Quà tặng năng lượng mặt trời",
+      "image": "creatures.png",
+      "category": "Tướng",
+      "cost": "5",
+      "description": "Nhận Leona, Sejuani và Kayle."
+    },
+    {
+      "name": "Xì trum",
+      "image": "creatures.png",
+      "category": "Tướng",
+      "cost": "8",
+      "description": "Nhận tướng 5 vàng ngẫu nhiên."
+    },
+    {
+      "name": "Nhanh lên",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "2",
+      "description": "Khi sử dụng, tướng của bạn tăng 25% Tốc độ tấn công trong 3 giây."
+    },
+    {
+      "name": "Bị gai quấn",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "2",
+      "description": "Mỗi 4 giây, tướng Chống Chịu phản lại 12% sát thương phải chịu lên kẻ địch liền kề."
+    },
+    {
+      "name": "Giờ ăn nhẹ!",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "4",
+      "description": "Người Bạn Lông Xù ăn thịt kẻ địch đã bị nó gây sát thương và còn dưới 10% Máu tối đa."
+    },
+    {
+      "name": "Lõi sắt",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "2",
+      "description": "Tướng ở giữa phía trước của bạn nhận được 4% Máu tối đa cho mỗi đơn vị ở hàng đầu."
+    },
+    {
+      "name": "Tăng trưởng khổng lồ",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "4",
+      "description": "Tướng có lượng máu cao nhất của bạn tăng 600 máu và tăng kích thước."
+    },
+    {
+      "name": "Ôm ấp",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "1",
+      "description": "Đơn vị đồng minh có lượng máu cao nhất sẽ tăng kích thước và tăng 350 máu."
+    },
+    {
+      "name": "Rùa ghé thăm",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "3",
+      "description": "Nhận hiệu ứng Nguyên Thủy của Rùa trong giao tranh này."
+    },
+    {
+      "name": "Khí chất của người khổng lồ",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "4",
+      "description": "Đồng minh có Máu cao nhất gây sát thương bằng 2% Máu tối đa mỗi giây lên kẻ địch xung quanh."
+    },
+    {
+      "name": "Áo choàng cô đơn",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "3",
+      "description": "Tướng không có đồng minh liền kề nhận 10% Máu tối đa và 10% Khuếch Đại Sát Thương."
+    },
+    {
+      "name": "Scrappy",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "3",
+      "description": "2 tướng không có vật phẩm sẽ nhận được vật phẩm đề xuất tạm thời."
+    },
+    {
+      "name": "Giết chóc điên cuồng",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "3",
+      "description": "Máy bay chiến đấu tấn công các mục tiêu dưới 10% Máu. Họ nhận được 15% tốc độ tấn công khi tiêu diệt."
+    },
+    {
+      "name": "Siêu thăng thiên",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "0",
+      "description": "Sau 25 giây, đồng đội tăng 300% sát thương."
+    },
+    {
+      "name": "Cung thủ ngọn cây",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "5",
+      "description": "Cung thủ bắn từ trên cây, gây 500 sát thương vật lý mỗi 3 giây."
+    },
+    {
+      "name": "Giáp vỏ cây",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "1",
+      "description": "Tướng của bạn nhận được 150 lá chắn trong 10 giây."
+    },
+    {
+      "name": "Bàn tay của Nam tước",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "10",
+      "description": "Đội của bạn nhận Bùa Baron, giúp tăng các chỉ số."
+    },
+    {
+      "name": "Sức mạnh dồi dào",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "0",
+      "description": "Tướng của bạn nhận được 8% Sát thương Công kích và Sức mạnh Phép thuật."
+    },
+    {
+      "name": "Chống nóng chảy",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "4",
+      "description": "Kẻ địch bị đốt cháy mất 3 Giáp và Kháng Phép mỗi giây."
+    },
+    {
+      "name": "Hoa nở muộn",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "5",
+      "description": "Một tướng 1 vàng 3 sao tạm thời cầm 1 Trang Bị đề xuất sẽ gia nhập đội."
+    },
+    {
+      "name": "Người bạn tốt hơn",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "1",
+      "description": "Người cưỡi BFF tăng 15% Tốc độ tấn công và 150 Máu."
+    },
+    {
+      "name": "Hội trộm",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "6",
+      "description": "Nhận được 2 Găng tay trộm tạm thời."
+    },
+    {
+      "name": "Người đồng hành nhân bản",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "5",
+      "description": "Nhân bản tướng có sát thương cao nhất của bạn. Bản sao gây 20% sát thương."
+    },
+    {
+      "name": "Học bổng",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "4",
+      "description": "Tướng nhận Lá Chắn bằng 4% Máu tối đa và 4% Khuếch Đại Sát Thương với mỗi đồng minh liền kề."
+    },
+    {
+      "name": "Đất giàu mana",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "3",
+      "description": "Người thi triển của bạn có năng lượng tối đa ít hơn 15%."
+    },
+    {
+      "name": "Chuyến thăm của ngựa",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "3",
+      "description": "Nhận hiệu ứng Nguyên Thủy của Ngựa trong giao tranh này."
+    },
+    {
+      "name": "Cơn Gió Xạ Thủ",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "2",
+      "description": "Đòn đánh của Xạ Thủ cho 3% Tốc Độ Đánh cộng dồn."
+    },
+    {
+      "name": "Dấu hiệu của xạ thủ",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "3",
+      "description": "Xạ thủ của bạn có 25% cơ hội tấn công gấp đôi."
+    },
+    {
+      "name": "Gỗ lim",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "3",
+      "description": "Kẻ địch tấn công tướng có máu cao nhất của bạn sẽ gây ít sát thương hơn 10%."
+    },
+    {
+      "name": "Áo giáp rách",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "2",
+      "description": "30% Cắt nhỏ và phân tách kẻ thù trong 10 giây."
+    },
+    {
+      "name": "Bầy Minion",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "4",
+      "description": "Sinh ra 4 lính."
+    },
+    {
+      "name": "Rào chắn",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "2",
+      "description": "Đồng minh nhận được 1000 Khiên, giảm dần trong 5 giây."
+    },
+    {
+      "name": "Bão sét",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "5",
+      "description": "Gây sát thương cố định bằng 7% máu tối đa cho một kẻ địch mỗi giây."
+    },
+    {
+      "name": "Chim ruồi",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "1",
+      "description": "Đơn vị đồng minh có tốc độ tấn công cao nhất sẽ được giảm kích thước và tăng 20% tốc độ tấn công."
+    },
+    {
+      "name": "Sét đánh",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "2",
+      "description": "Gây 10% máu tối đa dưới dạng sát thương cố định cho tất cả kẻ địch."
+    },
+    {
+      "name": "Sức mạnh của ngôi sao",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "3",
+      "description": "Đội của bạn nhận 10% Sức Mạnh Công Kích và Sức Mạnh Phép Thuật; đơn vị 3 sao nhận 25%."
+    },
+    {
+      "name": "Bức tường thành",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "3",
+      "description": "Khi tướng Chống Chịu xuống dưới 50% Máu, chúng nhận Lá Chắn bằng 20% Máu tối đa."
+    },
+    {
+      "name": "Trả thù",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "3",
+      "description": "Bất cứ khi nào một đồng minh chết, tướng của bạn nhận được 4% sát thương cộng dồn."
+    },
+    {
+      "name": "Bắn tăng cường",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "4",
+      "description": "Tối đa 2 tướng 1 sao tạm thời xuất hiện trong trận chiến."
+    },
+    {
+      "name": "Đa dạng",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "2",
+      "description": "Nhóm của bạn nhận được 30 Máu cho mỗi đặc điểm hoạt động."
+    },
+    {
+      "name": "Ngọn lửa",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "5",
+      "description": "Lửa lan khắp bàn, gây sát thương chuẩn cực mạnh cho kẻ địch."
+    },
+    {
+      "name": "Mưa",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "1",
+      "description": "Đội của bạn nhận được 1 năng lượng hồi phục."
+    },
+    {
+      "name": "Đồ đi mượn",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "1",
+      "description": "Một tướng nhận Trang Bị đề xuất tạm thời."
+    },
+    {
+      "name": "Người chuẩn bị",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "2",
+      "description": "Các vật phẩm đang xếp chồng của bạn sẽ bắt đầu được xếp chồng lên nhau một phần."
+    },
+    {
+      "name": "Gió",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "1",
+      "description": "Đội của bạn tăng 12% Tốc độ tấn công."
+    },
+    {
+      "name": "Đất sống",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "2",
+      "description": "Cứ sau 4 giây, rễ cây làm choáng kẻ địch trong 1 giây."
+    },
+    {
+      "name": "Sự hối hận của kẻ sát nhân",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "5",
+      "description": "3 tướng đầu tiên của bạn chết sẽ làm choáng kẻ giết họ trong 1 giây."
+    },
+    {
+      "name": "Khiên hóa đá",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "2",
+      "description": "Làm chậm kẻ địch 10% và giảm khiên của chúng đi 20% trong 10 giây."
+    },
+    {
+      "name": "Giả Hóa Đá",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "2",
+      "description": "Tướng đầu tiên của bạn chết sẽ biến thành hình nộm mục tiêu 1000 Máu với khả năng phòng thủ của họ."
+    },
+    {
+      "name": "Quả Cầu Pha Lê",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "1",
+      "description": "Tiết lộ đối thủ tiếp theo của bạn. Đội của bạn nhận được 12% Tốc độ tấn công."
+    },
+    {
+      "name": "Sức sống xanh tươi",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "0",
+      "description": "Tướng của bạn nhận được 125 Máu."
+    },
+    {
+      "name": "Dư chấn",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "2",
+      "description": "Sau 10 giây, làm choáng tất cả kẻ địch trong 1,5 giây."
+    },
+    {
+      "name": "Đốt cháy",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "5",
+      "description": "Tướng của bạn phát nổ khi chết, gây sát thương phép tối đa 20% máu."
+    },
+    {
+      "name": "Sự hy sinh anh hùng",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "3",
+      "description": "Tướng có 3 Trang Bị nhận SỨC MẠNH ANH HÙNG, nhưng các đồng minh khác bị hiến tế."
+    },
+    {
+      "name": "Lối vào của anh hùng",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "4",
+      "description": "Sau 8 giây, tướng ngồi ngoài cùng bên trái sẽ tham chiến với 2 vật phẩm."
+    },
+    {
+      "name": "Tinh linh Yordle",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "3",
+      "description": "Đồng minh có 99% cơ hội né đòn trong 4 giây."
+    },
+    {
+      "name": "Liên đoàn Fae",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "4",
+      "description": "TẤT CẢ đơn vị của bạn nhận được 2 tiểu tiên Fae trong vòng này."
+    },
+    {
+      "name": "Tuyển dụng",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "6",
+      "description": "Một tướng 5 vàng 1 sao tạm thời cầm 1 Trang Bị đề xuất sẽ gia nhập đội."
+    },
+    {
+      "name": "Lực lượng đánh thuê",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "3",
+      "description": "Tăng 3% sát thương cho mỗi 10 vàng bạn có."
+    },
+    {
+      "name": "Nghi lễ ánh trăng",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "2",
+      "description": "Tướng 1 hoặc 2 vàng có cấp sao thấp nhất sẽ tạm thời tăng một cấp sao trong giao tranh."
+    },
+    {
+      "name": "Trăng mọc",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "2",
+      "description": "Sau 10 giây, tăng 100% hiệu ứng của Mặt Trăng."
+    },
+    {
+      "name": "Đom đóm dẫn đường",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "3",
+      "description": "Tướng dùng phép triệu hồi một đom đóm với mỗi 20 Năng Lượng đã tiêu hao. Mỗi con gây 150 sát thương phép."
+    },
+    {
+      "name": "Áo giáp ma",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "2",
+      "description": "Nhận được 1 Giáp Warmog tạm thời."
+    },
+    {
+      "name": "Biểu tượng bóng ma",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "6",
+      "description": "Nhận biểu tượng tạm thời cho đặc điểm tích cực nhất của bạn."
+    },
+    {
+      "name": "Găng tay ma",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "3",
+      "description": "Nhận được Găng tay của Kẻ trộm tạm thời."
+    },
+    {
+      "name": "Áo khoác ma",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "2",
+      "description": "Nhận được 1 Vest Bramble tạm thời."
+    },
+    {
+      "name": "Phantom Splash",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "4",
+      "description": "Khi bắt đầu chiến đấu, tối đa 2 đặc điểm không hoạt động sẽ kích hoạt ở mức thấp nhất."
+    },
+    {
+      "name": "lén lút",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "1",
+      "description": "2 Chiến binh hoặc Sát thủ mạnh nhất của bạn không thể bị nhắm mục tiêu trong 6 giây."
+    },
+    {
+      "name": "Sự phẫn nộ của thiên nhiên",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "15",
+      "description": "Giết MỌI NGƯỜI không có vật phẩm sau 10 giây."
+    },
+    {
+      "name": "Đồng minh của thiên nhiên",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "2",
+      "description": "Cứ sau 3 đồng minh chết, triệu hồi một Riftbeast ngẫu nhiên."
+    },
+    {
+      "name": "Tái sinh",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "3",
+      "description": "Nhóm của bạn hồi phục 1% Máu tối đa mỗi giây."
+    },
+    {
+      "name": "Chịu được",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "2",
+      "description": "Xe tăng giảm 15 trường hợp sát thương nhận vào mỗi lần."
+    },
+    {
+      "name": "Leo thang",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "3",
+      "description": "Sau 15 giây chiến đấu, đội của bạn tăng 30% sát thương."
+    },
+    {
+      "name": "Phản bùa",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "3",
+      "description": "Tăng 15 Năng Lượng tối đa của toàn bộ kẻ địch cho đến lần tung chiêu tiếp theo."
+    },
+    {
+      "name": "Chấn động",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "6",
+      "description": "Cứ sau 8 giây, làm choáng kẻ thù trong 1 giây."
+    },
+    {
+      "name": "Tỏa sáng",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "6",
+      "description": "Sau 12 giây, 1 vật phẩm được trang bị ngẫu nhiên tạm thời trở thành Rạng rỡ."
+    },
+    {
+      "name": "Siêu tới hạn",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "3",
+      "description": "Các đơn vị có Độ chính xác của bạn nhận được 25% sát thương chí mạng."
+    },
+    {
+      "name": "Hình nộm tưởng niệm",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "3",
+      "description": "Tướng Chống Chịu đầu tiên có Trang Bị sẽ triệu hồi Hình Nộm cầm các Trang Bị của mình khi chết."
+    },
+    {
+      "name": "Tìm thấy người bạn",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "1",
+      "description": "Nhận được một hình nộm huấn luyện với Thắt lưng khổng lồ."
+    },
+    {
+      "name": "Hệ thực vật thân thiện",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "2",
+      "description": "Tất cả đồng minh đều nhận được phần thưởng Flora Fatalis với hiệu suất 50%."
+    },
+    {
+      "name": "Bùng nổ lớn",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "2",
+      "description": "Đồng minh đầu tiên chết sẽ phát nổ, gây sát thương phép bằng 20% Máu tối đa."
+    },
+    {
+      "name": "Pháp thuật lửa mặt trời",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "2",
+      "description": "Đốt và làm kẻ địch bị thương trong 10 giây."
+    },
+    {
+      "name": "Khiên mạ",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "2",
+      "description": "Khiên mạnh hơn 15%. Đồng minh nhận được 150 lá chắn trong 10 giây."
+    },
+    {
+      "name": "Mưa như trút nước",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "2",
+      "description": "Đội của bạn nhận được 2 năng lượng hồi phục."
+    },
+    {
+      "name": "Săn máu",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "2",
+      "description": "Đối thủ lao tới hạ gục và gây 150 sát thương vật lý cho mục tiêu của họ."
+    },
+    {
+      "name": "Phạm vi tiếp cận được cải thiện",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "3",
+      "description": "Máy bay chiến đấu đạt được 1 tầm bắn."
+    },
+    {
+      "name": "Thắt lưng Bunch O'",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "2",
+      "description": "Tướng của bạn nhận được 7 Đai Khổng Lồ tạm thời, không thể tháo rời."
+    },
+    {
+      "name": "Sự gây ra",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "6",
+      "description": "Làm chậm, Đốt cháy, Cắt nhỏ và Sunder kẻ thù trong 8 giây."
+    },
+    {
+      "name": "Hổ ghé thăm",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "3",
+      "description": "Nhận hiệu ứng Nguyên Thủy của Hổ trong giao tranh này."
+    },
+    {
+      "name": "Đứng Một Mình",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "3",
+      "description": "Riêng các tướng trong hàng của họ tăng 15% Máu và 15% sát thương."
+    },
+    {
+      "name": "Chậu Đá Vỏ Cây",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "2",
+      "description": "Nhận được Cây vỏ đá tạm thời."
+    },
+    {
+      "name": "Chậu Lifebloom",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "3",
+      "description": "Nhận được Lifeblossom tạm thời."
+    },
+    {
+      "name": "Lốc xoáy",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "10",
+      "description": "Triệu hồi một cơn lốc gây sát thương phép bằng 5% Máu tối đa lên kẻ địch."
+    },
+    {
+      "name": "Sao lưng",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "4",
+      "description": "Một tướng ở hàng sau ngẫu nhiên tăng 75% tốc độ đánh trong 7 giây."
+    },
+    {
+      "name": "Sân tập",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "3",
+      "description": "Nhận 2 Hình Nộm Huấn Luyện, mỗi hình nộm cầm một Trang Bị Chống Chịu ngẫu nhiên."
+    },
+    {
+      "name": "Dòng chảy",
+      "image": "creatures.png",
+      "category": "Chiến đấu",
+      "cost": "2",
+      "description": "Tướng của bạn là Không thể ngăn cản và nhận được 15% Tốc độ Đánh trong 10 giây."
+    },
+    {
+      "name": "Tất cả mọi người",
+      "image": "creatures.png",
+      "category": "Cửa hàng",
+      "cost": "0",
+      "description": "Đổi lại Cửa Hàng với toàn bộ đơn vị 1 vàng."
+    },
+    {
+      "name": "Tất Cả Hai",
+      "image": "creatures.png",
+      "category": "Cửa hàng",
+      "cost": "1",
+      "description": "Đổi lại Cửa Hàng với toàn bộ tướng 2 vàng."
+    },
+    {
+      "name": "Cả ba",
+      "image": "creatures.png",
+      "category": "Cửa hàng",
+      "cost": "2",
+      "description": "Đổi lại Cửa Hàng với toàn bộ tướng 3 vàng."
+    },
+    {
+      "name": "Tứ chi",
+      "image": "creatures.png",
+      "category": "Cửa hàng",
+      "cost": "4",
+      "description": "Đổi lại Cửa Hàng với toàn bộ tướng 4 vàng."
+    },
+    {
+      "name": "Tất Cả Năm",
+      "image": "creatures.png",
+      "category": "Cửa hàng",
+      "cost": "10",
+      "description": "Đổi lại Cửa Hàng với toàn bộ tướng 5 vàng."
+    },
+    {
+      "name": "Trung Đạo",
+      "image": "creatures.png",
+      "category": "Cửa hàng",
+      "cost": "7",
+      "description": "Đổi lại Cửa Hàng với toàn bộ tướng 3 vàng 2 sao."
+    },
+    {
+      "name": "Làng biên giới",
+      "image": "creatures.png",
+      "category": "Cửa hàng",
+      "cost": "6",
+      "description": "Đổi lại Cửa Hàng với toàn bộ tướng 2 vàng 2 sao."
+    },
+    {
+      "name": "Roly-Polys",
+      "image": "creatures.png",
+      "category": "Cửa hàng",
+      "cost": "3",
+      "description": "Đối với mỗi tướng đồng minh còn sống sau 18 giây, sẽ nhận được một lần quay lại."
+    },
+    {
+      "name": "Sao rơi",
+      "image": "creatures.png",
+      "category": "Cửa hàng",
+      "cost": "1",
+      "description": "Khi bạn thay đổi cửa hàng, tướng có giá thấp nhất sẽ trở thành 2 sao."
+    },
+    {
+      "name": "Ánh sáng sảng khoái",
+      "image": "creatures.png",
+      "category": "Cửa hàng",
+      "cost": "6",
+      "description": "Nhận được lượt quay lại miễn phí theo cấp độ sao của mỗi tướng Sunbeam duy nhất."
+    },
+    {
+      "name": "Xương lăn",
+      "image": "creatures.png",
+      "category": "Cửa hàng",
+      "cost": "3",
+      "description": "Bạn có 60% cơ hội nhận được lượt quay lại miễn phí sau mỗi lần tiêu diệt."
+    },
+    {
+      "name": "Tia lửa",
+      "image": "creatures.png",
+      "category": "Cửa hàng",
+      "cost": "3",
+      "description": "Đổi lại Cửa Hàng. Inferno đốt 2 ô Cửa Hàng và nâng cấp chúng."
+    },
+    {
+      "name": "Bên tìm kiếm",
+      "image": "creatures.png",
+      "category": "Cửa hàng",
+      "cost": "3",
+      "description": "Mỗi cửa hàng của bạn có 4 giá trong vòng này cho đến khi bạn mua được một giá."
+    },
+    {
+      "name": "Thị trấn khởi đầu",
+      "image": "creatures.png",
+      "category": "Cửa hàng",
+      "cost": "4",
+      "description": "Đổi lại Cửa Hàng với toàn bộ tướng 1 vàng 2 sao."
+    },
+    {
+      "name": "Cửa hàng hoạt hình",
+      "image": "creatures.png",
+      "category": "Cửa hàng",
+      "cost": "8",
+      "description": "Trong 20 giây, cửa hàng của bạn được làm mới miễn phí sau mỗi 2 giây."
+    },
+    {
+      "name": "Xe lăn tự do",
+      "image": "creatures.png",
+      "category": "Cửa hàng",
+      "cost": "2",
+      "description": "Tăng 2 lần quay lại."
+    },
+    {
+      "name": "Đi rừng",
+      "image": "creatures.png",
+      "category": "Cửa hàng",
+      "cost": "4",
+      "description": "Tràn ngập cửa hàng bằng Riftbeasts."
+    },
+    {
+      "name": "Cưỡi Sóng",
+      "image": "creatures.png",
+      "category": "Cửa hàng",
+      "cost": "3",
+      "description": "2 lượt đổi lại tiếp theo trong vòng này sẽ xuất hiện 2+ tướng đã được triển khai ở giao tranh trước."
+    },
+    {
+      "name": "May mắn 7",
+      "image": "creatures.png",
+      "category": "Cửa hàng",
+      "cost": "7",
+      "description": "Nhận được 7 lần quay lại cửa hàng."
+    },
+    {
+      "name": "Có kinh nghiệm",
+      "image": "creatures.png",
+      "category": "Vàng/XP",
+      "cost": "1",
+      "description": "Nhận được 2 XP."
+    },
+    {
+      "name": "Học chậm",
+      "image": "creatures.png",
+      "category": "Vàng/XP",
+      "cost": "3",
+      "description": "Với mỗi tướng đồng minh còn sống sau 15 giây, nhận được 2 XP."
+    },
+    {
+      "name": "Thìa Đồng",
+      "image": "creatures.png",
+      "category": "Vàng/XP",
+      "cost": "3",
+      "description": "Nhận được 6 XP."
+    },
+    {
+      "name": "Lật Đồng Xu",
+      "image": "creatures.png",
+      "category": "Vàng/XP",
+      "cost": "0",
+      "description": "Lật một đồng xu, nhận 1 vàng nếu đó là mặt ngửa."
+    },
+    {
+      "name": "Tiền máu",
+      "image": "creatures.png",
+      "category": "Vàng/XP",
+      "cost": "1",
+      "description": "Nhận được 1 vàng cho mỗi tướng bạn tiêu diệt được."
+    },
+    {
+      "name": "Trao đổi hàng hóa",
+      "image": "creatures.png",
+      "category": "Vàng/XP",
+      "cost": "1",
+      "description": "Tướng tiếp theo được bán sẽ được bán với giá 200% vàng."
+    },
+    {
+      "name": "Nợ Đời",
+      "image": "creatures.png",
+      "category": "Vàng/XP",
+      "cost": "0",
+      "description": "Nhận được 1 vàng cho mỗi 10 Máu người chơi bị thiếu."
+    },
+    {
+      "name": "Lớn lên",
+      "image": "creatures.png",
+      "category": "Vàng/XP",
+      "cost": "10",
+      "description": "Nhận được 16 XP."
+    },
+    {
+      "name": "Tiền lẻ",
+      "image": "creatures.png",
+      "category": "Vàng/XP",
+      "cost": "1",
+      "description": "Tướng 1 sao của bạn mất 1 vàng khi chết."
+    },
+    {
+      "name": "Chiếc xe ngựa",
+      "image": "creatures.png",
+      "category": "Vàng/XP",
+      "cost": "10",
+      "description": "Đổi lại Cửa Hàng và mua XP chỉ tốn nửa giá."
+    },
+    {
+      "name": "Khuôn cuộn",
+      "image": "creatures.png",
+      "category": "Vàng/XP",
+      "cost": "2",
+      "description": "Tung xúc xắc sáu mặt. Đạt được vàng bằng kết quả."
+    },
+    {
+      "name": "Ngỗng Vàng",
+      "image": "creatures.png",
+      "category": "Vàng/XP",
+      "cost": "2",
+      "description": "Nhận 1 vàng cho mỗi 1000 sát thương mà tướng có sát thương cao nhất của bạn gây ra."
+    },
+    {
+      "name": "Bàn Thờ Vàng",
+      "image": "creatures.png",
+      "category": "Vàng/XP",
+      "cost": "0",
+      "description": "Nhận vàng dựa trên chi phí và cấp sao của vật hiến tế Eldritch."
+    },
+    {
+      "name": "Đình chiến",
+      "image": "creatures.png",
+      "category": "Vàng/XP",
+      "cost": "0",
+      "description": "Nhận được 1 vàng. Đối thủ của bạn nhận được 1 vàng."
+    },
+    {
+      "name": "Hạn hán",
+      "image": "creatures.png",
+      "category": "Rủi ro",
+      "cost": "1",
+      "description": "Thêm 2 vào chuỗi thua của bạn."
+    },
+    {
+      "name": "Mất mát tốt",
+      "image": "creatures.png",
+      "category": "Rủi ro",
+      "cost": "5",
+      "description": "Đối với 3 người chơi tiếp theo chiến đấu, nhận được 6 XP nếu thua."
+    },
+    {
+      "name": "Con Đường Vàng",
+      "image": "creatures.png",
+      "category": "Rủi ro",
+      "cost": "3",
+      "description": "Sau 3 trận đấu của người chơi, nhận được 3 vàng cho mỗi trận thắng."
+    },
+    {
+      "name": "Flip Frenzy",
+      "image": "creatures.png",
+      "category": "Rủi ro",
+      "cost": "1",
+      "description": "Lật một đồng xu, nhận 1 vàng nếu đó là mặt ngửa. Tiếp tục cho đến khi bạn lật đuôi."
+    },
+    {
+      "name": "Lũ lụt",
+      "image": "creatures.png",
+      "category": "Rủi ro",
+      "cost": "1",
+      "description": "Thêm 2 vào chuỗi chiến thắng của bạn."
+    },
+    {
+      "name": "Đa hình",
+      "image": "creatures.png",
+      "category": "Rủi ro",
+      "cost": "1",
+      "description": "Chi phí 2 mà bạn có sẽ vĩnh viễn chuyển thành chi phí 3."
+    },
+    {
+      "name": "Bón phân",
+      "image": "creatures.png",
+      "category": "Rủi ro",
+      "cost": "1",
+      "description": "Tăng 1 XP cho mỗi kẻ địch chết."
+    },
+    {
+      "name": "Gambit chính",
+      "image": "creatures.png",
+      "category": "Rủi ro",
+      "cost": "2",
+      "description": "Nếu bạn thắng trận chiến tiếp theo của người chơi, nhận được 10 vàng."
+    },
+    {
+      "name": "Đa hình chính",
+      "image": "creatures.png",
+      "category": "Rủi ro",
+      "cost": "1",
+      "description": "Một tướng 4 vàng bạn sở hữu biến đổi vĩnh viễn thành tướng 5 vàng."
+    },
+    {
+      "name": "Ví cắt",
+      "image": "creatures.png",
+      "category": "Rủi ro",
+      "cost": "3",
+      "description": "Cứ sau 5 giây, tướng của bạn có 20% cơ hội rơi ra 1 vàng."
+    },
+    {
+      "name": "Ngày lĩnh lương",
+      "image": "creatures.png",
+      "category": "Rủi ro",
+      "cost": "3",
+      "description": "Đối với mỗi tướng đồng minh sống sót trong trận chiến, nhận được 2 vàng."
+    },
+    {
+      "name": "Tất tay",
+      "image": "creatures.png",
+      "category": "Rủi ro",
+      "cost": "5",
+      "description": "Nếu bạn thắng 3 trận chiến tiếp theo, hãy tăng cấp."
+    },
+    {
+      "name": "Nghi thức hoàn thành",
+      "image": "creatures.png",
+      "category": "Rủi ro",
+      "cost": "3",
+      "description": "Nếu bạn thắng trận, hãy hoàn thành nghi lễ Coven hiện tại."
+    },
+    {
+      "name": "Đi Cùng Ya",
+      "image": "creatures.png",
+      "category": "Rủi ro",
+      "cost": "1",
+      "description": "Nếu bạn thua và giết ít nhất 1 đơn vị, nhận được 4 XP."
+    },
+    {
+      "name": "Thợ săn cúp",
+      "image": "creatures.png",
+      "category": "Rủi ro",
+      "cost": "2",
+      "description": "Tăng thêm 100% số lần hạ gục đối thủ."
+    },
+    {
+      "name": "Trộm Tinh Chất",
+      "image": "creatures.png",
+      "category": "Rủi ro",
+      "cost": "1",
+      "description": "Nhận thêm 50% Tinh chất giao ước trong trận chiến này."
+    },
+    {
+      "name": "Tiền thưởng thành phần",
+      "image": "creatures.png",
+      "category": "Rủi ro",
+      "cost": "4",
+      "description": "Nếu bạn giành chiến thắng trong trận chiến tiếp theo của người chơi, hãy nhận được một cái đe thành phần."
+    },
+    {
+      "name": "Đồ ăn tiện nghi",
+      "image": "creatures.png",
+      "category": "Rủi ro",
+      "cost": "2",
+      "description": "Tăng 2 HP. Nếu bạn thua trận đấu tiếp theo của người chơi, hãy giành thêm 4 điểm nữa."
+    },
+    {
+      "name": "Gambit nhỏ",
+      "image": "creatures.png",
+      "category": "Rủi ro",
+      "cost": "1",
+      "description": "Nếu bạn thắng trận chiến tiếp theo của người chơi, nhận được 2 vàng."
+    },
+    {
+      "name": "Đa hình nhỏ",
+      "image": "creatures.png",
+      "category": "Rủi ro",
+      "cost": "1",
+      "description": "Một tướng 1 vàng bạn sở hữu biến đổi vĩnh viễn thành tướng 2 vàng."
+    },
+    {
+      "name": "Bỏ Tàu",
+      "image": "creatures.png",
+      "category": "Rủi ro",
+      "cost": "0",
+      "description": "Bán bàn cờ và băng ghế của bạn, nhận 10 vàng, 10 XP và 5 lần quay lại."
+    },
+    {
+      "name": "Thợ thủ công nhàn rỗi",
+      "image": "creatures.png",
+      "category": "Trang bị",
+      "cost": "4",
+      "description": "Một thành phần trên ghế dự bị của bạn sẽ biến thành một vật phẩm hoàn chỉnh mà nó chế tạo."
+    },
+    {
+      "name": "Tạo tác",
+      "image": "creatures.png",
+      "category": "Trang bị",
+      "cost": "0",
+      "description": "Mất 3 thành phần, bao gồm cả những thành phần được tích hợp sẵn trong vật phẩm. Đạt được một cái đe hiện vật."
+    },
+    {
+      "name": "Mặc cả tàn bạo",
+      "image": "creatures.png",
+      "category": "Trang bị",
+      "cost": "0",
+      "description": "Mất 8 máu của người chơi và nhận được một thành phần đe."
+    },
+    {
+      "name": "Người bán hàng rong",
+      "image": "creatures.png",
+      "category": "Trang bị",
+      "cost": "6",
+      "description": "Mở một cửa hàng nơi bạn có thể mua một vật phẩm. Chúng có giá từ 0 đến 10 vàng."
+    },
+    {
+      "name": "Gặp gỡ trao đổi cao cấp",
+      "image": "creatures.png",
+      "category": "Trang bị",
+      "cost": "0",
+      "description": "Bán tướng 3 sao để nhận 3 lần quay lại và Rương Vật phẩm May mắn."
+    },
+    {
+      "name": "Máu và Sắt",
+      "image": "creatures.png",
+      "category": "Trang bị",
+      "cost": "3",
+      "description": "Sau 20 tướng chết, nhận được một thành phần đe."
+    },
+    {
+      "name": "Cấp độ giả",
+      "image": "creatures.png",
+      "category": "Khác",
+      "cost": "10",
+      "description": "Bạn tạm thời ở cấp 10."
+    },
+    {
+      "name": "Sự hỗn loạn lớn hơn",
+      "image": "creatures.png",
+      "category": "Khác",
+      "cost": "2",
+      "description": "Kích hoạt 2 Linh Hồn ngẫu nhiên."
+    },
+    {
+      "name": "Nhân đôi",
+      "image": "creatures.png",
+      "category": "Khác",
+      "cost": "2",
+      "description": "Linh Hồn tiếp theo được mua sẽ kích hoạt hai lần và có giá gấp đôi."
+    },
+    {
+      "name": "Thuốc Mana",
+      "image": "creatures.png",
+      "category": "Khác",
+      "cost": "1",
+      "description": "Nhận một Bình Năng Lượng có thể trang bị và dùng một lần."
+    },
+    {
+      "name": "Độc dược",
+      "image": "creatures.png",
+      "category": "Khác",
+      "cost": "3",
+      "description": "Nhận 3 Bình Thuốc có thể trang bị và dùng một lần."
+    },
+    {
+      "name": "Chạm vào cỏ",
+      "image": "creatures.png",
+      "category": "Khác",
+      "cost": "0",
+      "description": "Nhận 5 Vàng và vô hiệu hóa mọi thao tác. Sau 15 giây, thay vào đó nhận 2 Vàng."
+    },
+    {
+      "name": "Nghi thức bảo vệ",
+      "image": "creatures.png",
+      "category": "Khác",
+      "cost": "1",
+      "description": "Giảm 3 sát thương mà người chơi phải gánh chịu trong vòng này."
+    },
+    {
+      "name": "Thỏa thuận nham hiểm",
+      "image": "creatures.png",
+      "category": "Khác",
+      "cost": "0",
+      "description": "Mất 3 máu của người chơi. Nhận được 2 vàng."
+    },
+    {
+      "name": "Mới và cải tiến",
+      "image": "creatures.png",
+      "category": "Khác",
+      "cost": "3",
+      "description": "Nhận được bộ tái tổ hợp bỏ túi."
+    },
+    {
+      "name": "Nghi lễ máu nhỏ",
+      "image": "creatures.png",
+      "category": "Khác",
+      "cost": "4",
+      "description": "Mất 3 Máu Linh Thú. Nhận một Máy Nhân Bản Tướng Cỡ Nhỏ."
+    },
+    {
+      "name": "Vật tư tiêu hao",
+      "image": "creatures.png",
+      "category": "Khác",
+      "cost": "1",
+      "description": "Mở một cửa hàng nơi bạn có thể tiêu vàng để mua vật phẩm tiêu hao."
+    },
+    {
+      "name": "Pháp sư rừng",
+      "image": "creatures.png",
+      "category": "Khác",
+      "cost": "0",
+      "description": "Lấp đầy Cửa Hàng bằng 5 Linh Hồn. Bạn có thể kích hoạt 1 trong số đó."
+    },
+    {
+      "name": "Túi Doodad",
+      "image": "creatures.png",
+      "category": "Khác",
+      "cost": "3",
+      "description": "Nhận 3 vật phẩm tiêu hao ngẫu nhiên mang lại Giáp, Kháng phép hoặc Máu."
+    },
+    {
+      "name": "Bao Doodad",
+      "image": "creatures.png",
+      "category": "Khác",
+      "cost": "5",
+      "description": "Nhận 5 vật phẩm tiêu hao ngẫu nhiên mang lại Giáp, Kháng phép hoặc Máu."
+    },
+    {
+      "name": "Bình Doodad",
+      "image": "creatures.png",
+      "category": "Khác",
+      "cost": "0",
+      "description": "Nhận 1 vật phẩm tiêu hao ngẫu nhiên cho Giáp, Kháng Phép hoặc Máu."
+    },
+    {
+      "name": "Chuyến bay thần tiên",
+      "image": "creatures.png",
+      "category": "Khác",
+      "cost": "1",
+      "description": "Thu hút thêm 100% tiểu tiên Fae trong trận chiến này."
+    },
+    {
+      "name": "Túi Thingamjig",
+      "image": "creatures.png",
+      "category": "Khác",
+      "cost": "3",
+      "description": "Nhận 3 vật phẩm tiêu hao ngẫu nhiên cho Sức Mạnh Phép Thuật hoặc Hồi Năng Lượng."
+    },
+    {
+      "name": "Bao Thingamjig",
+      "image": "creatures.png",
+      "category": "Khác",
+      "cost": "5",
+      "description": "Nhận 5 vật phẩm tiêu hao ngẫu nhiên cho Sức Mạnh Phép Thuật hoặc Hồi Năng Lượng."
+    },
+    {
+      "name": "Bình Thingamjig",
+      "image": "creatures.png",
+      "category": "Khác",
+      "cost": "0",
+      "description": "Nhận 1 vật phẩm tiêu hao ngẫu nhiên cho Sức Mạnh Phép Thuật hoặc Hồi Năng Lượng."
+    },
+    {
+      "name": "Túi Knick-Knack",
+      "image": "creatures.png",
+      "category": "Khác",
+      "cost": "1",
+      "description": "Nhận 2 vật phẩm tiêu hao ngẫu nhiên cho Sức Mạnh Công Kích hoặc Tốc Độ Đánh."
+    },
+    {
+      "name": "Bao Knick-Knack",
+      "image": "creatures.png",
+      "category": "Khác",
+      "cost": "5",
+      "description": "Nhận 4 vật phẩm tiêu hao ngẫu nhiên cho Sức Mạnh Công Kích hoặc Tốc Độ Đánh."
+    },
+    {
+      "name": "Bình Knick-Knack",
+      "image": "creatures.png",
+      "category": "Khác",
+      "cost": "0",
+      "description": "Nhận 1 vật phẩm tiêu hao ngẫu nhiên cho Sức Mạnh Công Kích hoặc Tốc Độ Đánh."
+    },
+    {
+      "name": "Người cứu hộ",
+      "image": "creatures.png",
+      "category": "Khác",
+      "cost": "0",
+      "description": "Mọi đơn vị được đưa về hàng chờ đều bị tháo Trang Bị và tách chúng thành các mảnh thành phần."
+    },
+    {
+      "name": "Sửa lỗi sớm",
+      "image": "creatures.png",
+      "category": "Khác",
+      "cost": "0",
+      "description": "Nhận 1 Búa Rèn Ma Thuật."
+    },
+    {
+      "name": "Thuốc sức khỏe",
+      "image": "creatures.png",
+      "category": "Khác",
+      "cost": "1",
+      "description": "Nhận một Bình Máu có thể trang bị và dùng một lần."
+    },
+    {
+      "name": "Địa hóa",
+      "image": "creatures.png",
+      "category": "Khác",
+      "cost": "2",
+      "description": "Nhận được 5 hạt giống Cha Xanh khi bắt đầu trận chiến."
+    },
+    {
+      "name": "Thuốc nổ",
+      "image": "creatures.png",
+      "category": "Khác",
+      "cost": "1",
+      "description": "Nhận một Bình Thuốc Nổ có thể trang bị và dùng một lần."
+    },
+    {
+      "name": "Nghi lễ máu",
+      "image": "creatures.png",
+      "category": "Khác",
+      "cost": "5",
+      "description": "Mất 9 Máu Linh Thú. Nhận một Máy Nhân Bản Tướng."
+    },
+    {
+      "name": "Ít hỗn loạn hơn",
+      "image": "creatures.png",
+      "category": "Khác",
+      "cost": "1",
+      "description": "Kích hoạt một Linh Hồn ngẫu nhiên."
+    },
+    {
+      "name": "Bể bơi chữa bệnh",
+      "image": "creatures.png",
+      "category": "Khác",
+      "cost": "2",
+      "description": "Hồi 5 Máu Linh Thú."
+    }
+  ]
+}

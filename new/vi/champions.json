@@ -1,829 +1,888 @@
 [
   {
     "stt": 1,
-    "id": "aatrox",
-    "name": "Aatrox",
-    "image": "Aatrox.png",
+    "id": "akali",
+    "name": "Akali",
+    "image": "Akali.jpg",
+    "splash": "T_18_Akali_PCHighres.jpg",
+    "cost": "1",
     "traits": [
-      "N.O.V.A.",
-      "Bastion"
-    ],
-    "status": "Aatrox",
-    "mana": "30 / 90",
-    "description": "? ?, sau đó gây ? ? sát thương vật lý lên mục tiêu hiện tại. ?. ?: ? chiến trường, hất tung nhẹ tất cả kẻ địch và gây ? ? sát thương vật lý."
+      "Địa ngục",
+      "Bộ chuyển đổi",
+      "Kẻ tàn phá"
+    ]
   },
   {
     "stt": 2,
-    "id": "briar",
-    "name": "Briar",
-    "image": "Briar.png",
+    "id": "camille",
+    "name": "Camille",
+    "image": "Camille.jpg",
+    "splash": "T_18_Camille_PCHighres.jpg",
+    "cost": "1",
     "traits": [
-      "Anima",
-      "Primordian",
-      "Rogue"
-    ],
-    "status": "Briar",
-    "mana": "0 / 40",
-    "description": "?: ? mỗi ?% ? đã mất, nhận ?% ? ? ?: ? ? sát thương vật lý lên mục tiêu và ? ? nếu chúng là chống chịu."
+      "Giao ước",
+      "Kẻ tàn phá"
+    ]
   },
   {
     "stt": 3,
-    "id": "caitlyn",
-    "name": "Caitlyn",
-    "image": "Caitlyn.png",
+    "id": "cinderling",
+    "name": "Cinderling",
+    "image": "Cinderling.jpg",
+    "splash": "T_18_Cinderling_PCHighres.jpg",
+    "cost": "1",
     "traits": [
-      "N.O.V.A.",
-      "Fateweaver"
-    ],
-    "status": "Caitlyn",
-    "mana": "",
-    "description": "?: ? có ?% tỷ lệ bắn một phát ? cường hóa, gây ? ? sát thương vật lý. ?. ?: ? tất cả kẻ địch, tăng sát thương nhận vào thêm ?%. ? lần đầu mục tiêu bị đánh dấu giảm xuống dưới ?% ?, ? chúng gây ? ? sát thương vật lý. ?: ? hai lần và chọn kết quả tốt hơn."
+      "Riftbeast",
+      "Thợ săn"
+    ]
   },
   {
     "stt": 4,
-    "id": "cho'gath",
-    "name": "Cho'Gath",
-    "image": "ChoGath.png",
+    "id": "karma",
+    "name": "Karma",
+    "image": "Karma.jpg",
+    "splash": "T_18_Karma_PCHighres.jpg",
+    "cost": "1",
     "traits": [
-      "Dark Star",
-      "Brawler"
-    ],
-    "status": "Cho'Gath",
-    "mana": "30 / 70",
-    "description": "? ? sát thương phép lên kẻ địch có ? thấp nhất trong phạm vi và nhận vĩnh viễn ? ? tối đa. ? nếu kỹ năng này hạ gục chúng, nuốt chửng chúng và nhận vĩnh viễn ? ? tối đa thay thế. (?: +?)"
+      "Hoa",
+      "Phép thuật"
+    ]
   },
   {
     "stt": 5,
-    "id": "ezreal",
-    "name": "Ezreal",
-    "image": "Ezreal.png",
+    "id": "kobuko",
+    "name": "Kobuko",
+    "image": "Kobuko.jpg",
+    "splash": "T_18_Kobuko_PCHighres.jpg",
+    "cost": "1",
     "traits": [
-      "Timebreaker",
-      "Sniper"
-    ],
-    "status": "Ezreal",
-    "mana": "0 / 30",
-    "description": "?: ? một luồng năng lượng vào mục tiêu hiện tại gây ? ? sát thương vật lý. ? khi tham gia hạ gục, nhận một máy bay không người lái gây ? ? sát thương vật lý lên mục tiêu hiện tại mỗi khi dùng chiêu. (?: ?)"
+      "Sprykin",
+      "Đấu sĩ"
+    ]
   },
   {
     "stt": 6,
     "id": "leona",
     "name": "Leona",
-    "image": "Leona.png",
+    "image": "Leona.jpg",
+    "splash": "T_18_Leona_PCHighres.jpg",
+    "cost": "1",
     "traits": [
-      "Arbiter",
-      "Vanguard"
-    ],
-    "status": "Leona",
-    "mana": "40 / 100",
-    "description": "? ? ? trong 4 giây. ? mục tiêu hiện tại, gây ? ? sát thương phép và làm choáng chúng trong ? giây."
+      "Năng lượng mặt trời",
+      "Hậu vệ"
+    ]
   },
   {
     "stt": 7,
-    "id": "lissandra",
-    "name": "Lissandra",
-    "image": "Lissandra.png",
+    "id": "ornn",
+    "name": "Ornn",
+    "image": "Ornn.jpg",
+    "splash": "T_18_Ornn_PCHighres.jpg",
+    "cost": "1",
     "traits": [
-      "Dark Star",
-      "Shepherd",
-      "Replicator"
-    ],
-    "status": "Lissandra",
-    "mana": "0 / 30",
-    "description": "? một con dao găm về phía mục tiêu hiện tại, gây ? ? sát thương phép lên mục tiêu đầu tiên trúng phải. ? sau khi trúng mục tiêu ban đầu hoặc tại điểm cuối, con dao phát nổ gây ? ? sát thương phép lên các mục tiêu lân cận."
+      "Gỗ Elderwood",
+      "Hậu vệ"
+    ]
   },
   {
     "stt": 8,
-    "id": "nasus",
-    "name": "Nasus",
-    "image": "Nasus.png",
+    "id": "rakan",
+    "name": "Rakan",
+    "image": "Rakan.jpg",
+    "splash": "T_18_Rakan_PCHighres.jpg",
+    "cost": "1",
     "traits": [
-      "Space Groove",
-      "Vanguard"
-    ],
-    "status": "Nasus",
-    "mana": "60 / 120",
-    "description": "? trong ? giây, tạm thời nhận ? ? tối đa và gây ? ? sát thương phép lên kẻ địch xung quanh mỗi giây. ? khi đang biến hình, ? sẽ ở trạng thái ?."
+      "Fae",
+      "Dũng sĩ",
+      "Tiên phong"
+    ]
   },
   {
     "stt": 9,
-    "id": "poppy",
-    "name": "Poppy",
-    "image": "Poppy.png",
+    "id": "rek'sai",
+    "name": "Rek'Sai",
+    "image": "RekSai.jpg",
+    "splash": "T_18_Reksai_PCHighres.jpg",
+    "cost": "1",
     "traits": [
-      "Meeple",
-      "Bastion"
-    ],
-    "status": "Poppy",
-    "mana": "30 / 100",
-    "description": "? ? ? trong ? giây. ? trong thời gian hiệu lực, đồng minh trong phạm vi hai ô nhận ? ? ? và ?. ?: ? ban ? ? ? cho ? đồng minh gần nhất trong ? giây."
+      "Eldritch",
+      "Đấu sĩ"
+    ]
   },
   {
     "stt": 10,
-    "id": "rek'sai",
-    "name": "Rek'Sai",
-    "image": "RekSai.png",
+    "id": "soi",
+    "name": "Sỏi",
+    "image": "Pebbles.jpg",
+    "splash": "T_18_Sentry_PCHighres.jpg",
+    "cost": "1",
     "traits": [
-      "Primordian",
-      "Brawler"
-    ],
-    "status": "Rek'Sai",
-    "mana": "50 / 110",
-    "description": "? ?, sau đó hất tung nhẹ kẻ địch xung quanh và gây ? ? sát thương phép."
+      "Riftbeast",
+      "Người triệu hồi"
+    ]
   },
   {
     "stt": 11,
-    "id": "talon",
-    "name": "Talon",
-    "image": "Talon.png",
+    "id": "varus",
+    "name": "Varus",
+    "image": "Varus.jpg",
+    "splash": "T_18_Varus_PCHighres.jpg",
+    "cost": "1",
     "traits": [
-      "Stargazer",
-      "Rogue"
-    ],
-    "status": "Talon",
-    "mana": "0 / 30",
-    "description": "? mục tiêu, khiến chúng bị chảy máu gây ? ? sát thương vật lý trong ? giây. ? sau đòn tấn công, nhảy tới kẻ địch có phần trăm ? cao nhất trong phạm vi ? ô."
+      "Địa ngục",
+      "Tốc độ nhanh"
+    ]
   },
   {
     "stt": 12,
-    "id": "teemo",
-    "name": "Teemo",
-    "image": "Teemo.png",
+    "id": "veigar",
+    "name": "Veigar",
+    "image": "Veigar.jpg",
+    "splash": "T_18_Veigar_PCHighres.jpg",
+    "cost": "1",
     "traits": [
-      "Space Groove",
-      "Shepherd"
-    ],
-    "status": "Teemo",
-    "mana": "0 / 50",
-    "description": "?: ? gây ? ? sát thương phép cộng thêm và thêm ? ? sát thương phép cộng dồn trong ? giây. ? khi kẻ địch có từ ? cộng dồn trở lên, ? sẽ ở trạng thái ?. ?: ?% ? cho ? đòn đánh."
+      "Eldritch",
+      "Sprykin",
+      "Phép thuật"
+    ]
   },
   {
     "stt": 13,
-    "id": "twisted_fate",
-    "name": "Twisted Fate",
-    "image": "TwistedFate.png",
+    "id": "xayah",
+    "name": "Xayah",
+    "image": "Xayah.jpg",
+    "splash": "T_18_Xayah_PCHighres.jpg",
+    "cost": "1",
     "traits": [
-      "Stargazer",
-      "Fateweaver"
-    ],
-    "status": "Twisted Fate",
-    "mana": "0 / 50",
-    "description": "? một lá bài có giá trị ngẫu nhiên từ 1 đến 9, sau đó ném nó vào mục tiêu. ? tùy theo lá bài bốc được, gây từ ? ? đến ? ? sát thương phép. ? sát thương nảy sang kẻ địch gần nhất. ?: ? hai lần và chọn kết quả tốt hơn."
+      "Gỗ Elderwood",
+      "Fae",
+      "Tốc độ nhanh"
+    ]
   },
   {
     "stt": 14,
-    "id": "veigar",
-    "name": "Veigar",
-    "image": "Veigar.png",
+    "id": "yorick",
+    "name": "Yorick",
+    "image": "Yorick.jpg",
+    "splash": "T_18_Yorick_PCHighres.jpg",
+    "cost": "1",
     "traits": [
-      "Meeple",
-      "Replicator"
-    ],
-    "status": "Veigar",
-    "mana": "10 / 50",
-    "description": "? một ? xuống mục tiêu gây ? ? sát thương phép. ?: ? thêm ? ? nhỏ được gọi xuống các mục tiêu lân cận gây ? ? sát thương phép mỗi cái."
+      "Hoa",
+      "Dũng sĩ",
+      "Người triệu hồi"
+    ]
   },
   {
     "stt": 15,
-    "id": "akali",
-    "name": "Akali",
-    "image": "Akali.png",
+    "id": "alistar",
+    "name": "Alistar",
+    "image": "Alistar.jpg",
+    "splash": "T_18_Alistar_PCHighres.jpg",
+    "cost": "2",
     "traits": [
-      "N.O.V.A.",
-      "Marauder"
-    ],
-    "status": "Akali",
-    "mana": "0 / 30",
-    "description": "? cạnh mục tiêu để tấn công nhiều kẻ địch nhất. ? ném ? kunai xuyên thấu, mỗi cái gây ? ? sát thương vật lý lên kẻ địch đầu tiên trúng phải, giảm còn ? ? cho các mục tiêu tiếp theo. ? loại bỏ ?, tăng lên ? nếu chúng chí mạng. ?. ?: ? tất cả kẻ địch, áp dụng ? và hiệu ứng chảy máu gây ? ? sát thương vật lý mỗi giây cho đến hết trận đấu. ? tăng sát thương chảy máu thêm ?%."
+      "Gỗ Elderwood",
+      "Đấu sĩ"
+    ]
   },
   {
     "stt": 16,
-    "id": "bel'veth",
-    "name": "Bel'Veth",
-    "image": "BelVeth.png",
+    "id": "caitlyn",
+    "name": "Caitlyn",
+    "image": "Caitlyn.jpg",
+    "splash": "T_18_Caitlyn_PCHighres.jpg",
+    "cost": "2",
     "traits": [
-      "Primordian",
-      "Challenger",
-      "Marauder"
-    ],
-    "status": "Bel'Veth",
-    "mana": "0 / 50",
-    "description": "? tung ra một chuỗi ? ? cú chém vào mục tiêu hiện tại trong ? giây, gây ? ? sát thương vật lý mỗi nhát."
+      "Giao ước",
+      "Thợ săn"
+    ]
   },
   {
     "stt": 17,
-    "id": "gnar",
-    "name": "Gnar",
-    "image": "Gnar.png",
+    "id": "cua_ky_cuc",
+    "name": "Cua kỳ cục",
+    "image": "Scuttlecrab.jpg",
+    "splash": "T_18_Scuttlecrab_PCHighres.jpg",
+    "cost": "2",
     "traits": [
-      "Meeple",
-      "Sniper"
-    ],
-    "status": "Gnar",
-    "mana": "0 / 5",
-    "description": "?: ? mỗi đòn đánh thứ 5, ném một chiếc boomerang quay về phía mục tiêu, bay xuyên qua kẻ địch đầu tiên thêm hai ô. ? gây ? ? sát thương vật lý, giảm ?% mỗi lần trúng. ?: ? tấn công cùng với ?, gây ? ? sát thương vật lý mỗi giây."
+      "Riftbeast",
+      "Dũng sĩ"
+    ]
   },
   {
     "stt": 18,
-    "id": "gragas",
-    "name": "Gragas",
-    "image": "Gragas.png",
+    "id": "elise",
+    "name": "Elise",
+    "image": "Elise.jpg",
+    "splash": "T_18_Elise_PCHighres.jpg",
+    "cost": "2",
     "traits": [
-      "Psionic",
-      "Brawler"
-    ],
-    "status": "Gragas",
-    "mana": "30 / 80",
-    "description": "? ? trong ? giây. ?, gây ? ? sát thương phép lên kẻ địch xung quanh và ? chúng trong ? giây. ?: ? ? thêm 30%"
+      "Giao ước",
+      "Tiên phong"
+    ]
   },
   {
     "stt": 19,
-    "id": "gwen",
-    "name": "Gwen",
-    "image": "Gwen.png",
+    "id": "gromp",
+    "name": "Gromp",
+    "image": "Gromp.jpg",
+    "splash": "T_18_Gromp_PCHighres.jpg",
+    "cost": "2",
     "traits": [
-      "Space Groove",
-      "Rogue"
-    ],
-    "status": "Gwen",
-    "mana": "0 / 30",
-    "description": "?: ? gây sát thương phép. ? ở trạng thái ? khi nhắm vào kẻ địch dưới ?% ?. ?: ? tới một ô gần đó để cắt kẻ địch có phần trăm ? thấp nhất, gây ? ? sát thương phép lên mục tiêu và ? ? sát thương phép lên kẻ địch trong vùng hình nón. ? nếu hạ gục, lướt và cắt lại với ?% sát thương!"
+      "Riftbeast",
+      "Bộ chuyển đổi"
+    ]
   },
   {
     "stt": 20,
-    "id": "jax",
-    "name": "Jax",
-    "image": "Jax.png",
+    "id": "kayle",
+    "name": "Kayle",
+    "image": "Kayle.jpg",
+    "splash": "T_18_Kayle_PCHighres.jpg",
+    "cost": "2",
     "traits": [
-      "Stargazer",
-      "Bastion"
-    ],
-    "status": "Jax",
-    "mana": "10 / 70",
-    "description": "? thế phòng thủ trong ? giây, giảm sát thương nhận vào đi ? ? và nhận ? ? ?. ? khi thế phòng thủ kết thúc, tấn công tất cả kẻ địch xung quanh, gây ? ? sát thương phép và ? chúng trong ? giây."
+      "Năng lượng mặt trời",
+      "Tốc độ nhanh"
+    ]
   },
   {
     "stt": 21,
-    "id": "jinx",
-    "name": "Jinx",
-    "image": "Jinx.png",
+    "id": "leblanc",
+    "name": "LeBlanc",
+    "image": "LeBlanc.jpg",
+    "splash": "T_18_Leblanc_PCHighres.jpg",
+    "cost": "2",
     "traits": [
-      "Anima",
-      "Challenger"
-    ],
-    "status": "Jinx",
-    "mana": "20 / 80",
-    "description": "? tung ra một loạt ? ? viên đạn theo hình nón, mỗi viên gây ? ? sát thương vật lý lên mục tiêu đầu tiên trúng phải."
+      "Gỗ Elderwood",
+      "Phép thuật"
+    ]
   },
   {
     "stt": 22,
-    "id": "meepsie",
-    "name": "Meepsie",
-    "image": "Meepsie.png",
+    "id": "murkwolf",
+    "name": "Murkwolf",
+    "image": "Murkwolf.jpg",
+    "splash": "T_18_MurkWolf_PCHighres.jpg",
+    "cost": "2",
     "traits": [
-      "Meeple",
-      "Shepherd",
-      "Voyager"
-    ],
-    "status": "Meepsie",
-    "mana": "50 / 100",
-    "description": "? ? ? trong ? giây. ? mục tiêu, gây ? ? sát thương phép và hất tung trong ? giây. ? cú va chạm tạo ra các sóng meep gây ?% hiệu ứng này lên các kẻ địch cùng hàng với mục tiêu. ?: ? hoa của ? nước, tăng tất cả ? và ? nhận vào thêm ?."
+      "Riftbeast",
+      "Kẻ tàn phá"
+    ]
   },
   {
     "stt": 23,
-    "id": "milio",
-    "name": "Milio",
-    "image": "Milio.png",
+    "id": "sejuani",
+    "name": "Sejuani",
+    "image": "Sejuani.jpg",
+    "splash": "T_18_Sejuani_PCHighres.jpg",
+    "cost": "2",
     "traits": [
-      "Timebreaker",
-      "Fateweaver"
-    ],
-    "status": "Milio",
-    "mana": "0 / 30",
-    "description": "? một quả bóng vào kẻ địch gây ? ? sát thương phép. ? khi va chạm, quả bóng có 100% tỷ lệ nảy sang mục tiêu mới gây ? ? sát thương phép. ? các lần nảy có thể kích hoạt nảy thêm, nhưng tỷ lệ giảm đi một nửa sau mỗi lần. ?: ? hai lần và chọn kết quả tốt hơn."
+      "Năng lượng mặt trời",
+      "Dũng sĩ"
+    ]
   },
   {
     "stt": 24,
-    "id": "mordekaiser",
-    "name": "Mordekaiser",
-    "image": "Mordekaiser.png",
+    "id": "shen",
+    "name": "Shen",
+    "image": "Shen.jpg",
+    "splash": "T_18_Shen_PCHighres.jpg",
+    "cost": "2",
     "traits": [
-      "Dark Star",
-      "Channeler",
-      "Vanguard"
-    ],
-    "status": "Mordekaiser",
-    "mana": "20 / 80",
-    "description": "? ? lá chắn. ? mỗi giây trong ? giây tiếp theo, nhận thêm ? ? lá chắn và gây ? ? sát thương phép lên kẻ địch xung quanh. ? khi kỹ năng kết thúc, tiêu thụ lượng ? còn lại và hồi máu bằng ?% giá trị của nó."
+      "Địa ngục",
+      "Hậu vệ"
+    ]
   },
   {
     "stt": 25,
-    "id": "pantheon",
-    "name": "Pantheon",
-    "image": "Pantheon.png",
+    "id": "teemo",
+    "name": "Teemo",
+    "image": "Teemo.jpg",
+    "splash": "T_18_Teemo_PCHighres.jpg",
+    "cost": "2",
     "traits": [
-      "Timebreaker",
-      "Brawler",
-      "Replicator"
-    ],
-    "status": "Pantheon",
-    "mana": "20 / 80",
-    "description": "? ? ? và ?% ? trong ? giây. ? trong thời gian hiệu lực, gây ? ? sát thương vật lý mỗi giây lên kẻ địch trong vùng hình nón."
+      "Sprykin",
+      "Người triệu hồi"
+    ]
   },
   {
     "stt": 26,
-    "id": "pyke",
-    "name": "Pyke",
-    "image": "Pyke.png",
+    "id": "warwick",
+    "name": "Warwick",
+    "image": "Warwick.jpg",
+    "splash": "T_18_Warwick_PCHighres.jpg",
+    "cost": "2",
     "traits": [
-      "Psionic",
-      "Voyager"
-    ],
-    "status": "Pyke",
-    "mana": "0 / 40",
-    "description": "? tối đa một ô để ném lao móc vào kẻ địch xa nhất. ? lao móc kéo kẻ địch đầu tiên trúng phải về phía trước một ô và gây ? ? sát thương vật lý. ?, dịch chuyển ra phía sau chúng và chém, gây ? ? sát thương vật lý lên chúng và ? ? sát thương vật lý lên kẻ địch xung quanh."
+      "Eldritch",
+      "Kẻ tàn phá"
+    ]
   },
   {
     "stt": 27,
-    "id": "zoe",
-    "name": "Zoe",
-    "image": "Zoe.png",
+    "id": "yunara",
+    "name": "Yunara",
+    "image": "Yunara.jpg",
+    "splash": "T_18_Yunara_PCHighres.jpg",
+    "cost": "2",
     "traits": [
-      "Arbiter",
-      "Channeler"
-    ],
-    "status": "Zoe",
-    "mana": "0 / 50",
-    "description": "? một nghịch sao vào mục tiêu hiện tại, gây ? ? sát thương phép lên mục tiêu đầu tiên trúng phải và ? ? lên các mục tiêu khác nó bay xuyên qua. ? khi ngôi sao bay đến điểm cuối, chuyển hướng nó tới một kẻ địch ở xa, tăng tốc độ và lặp lại sát thương. ? việc chuyển hướng có thể xảy ra ? lần."
+      "Hoa",
+      "Đao phủ"
+    ]
   },
   {
     "stt": 28,
-    "id": "aurora",
-    "name": "Aurora",
-    "image": "Aurora.png",
+    "id": "azir",
+    "name": "Azir",
+    "image": "Azir.jpg",
+    "splash": "T_18_Azir_PCHighres.jpg",
+    "cost": "3",
     "traits": [
-      "Anima",
-      "Voyager"
-    ],
-    "status": "Aurora",
-    "mana": "20 / 80",
-    "description": "? một vết nứt hình lục giác bao quanh mục tiêu, ? kẻ địch bên trong trong ? giây và gây ? ? sát thương phép lên mỗi kẻ, cộng thêm ? ? sát thương phép chia đều cho tất cả kẻ địch trúng chiêu. ? kẻ địch tích trữ ?% tất cả sát thương chúng nhận vào. ? khi vết nứt ? kết thúc, chúng chịu sát thương chuẩn bằng với lượng sát thương đã tích trữ. ? kết thúc sớm nếu sát thương này đủ hạ gục mục tiêu."
+      "Eldritch",
+      "Đao phủ",
+      "Người triệu hồi"
+    ]
   },
   {
     "stt": 29,
-    "id": "diana",
-    "name": "Diana",
-    "image": "Diana.png",
+    "id": "cassiopeia",
+    "name": "Cassiopeia",
+    "image": "Cassiopeia.jpg",
+    "splash": "T_18_Cassiopeia_PCHighres.jpg",
+    "cost": "3",
     "traits": [
-      "Arbiter",
-      "Challenger"
-    ],
-    "status": "Diana",
-    "mana": "0 / 50",
-    "description": "?: ? gây ? ? sát thương phép cộng thêm. ?: ? ? ? và triệu hồi 3 quả cầu xoay quanh trong ? giây. ? gây ? ? sát thương phép lên kẻ địch chúng đi xuyên qua, và xoay nhanh hơn dựa trên ?."
+      "Giao ước",
+      "Phép thuật"
+    ]
   },
   {
     "stt": 30,
-    "id": "fizz",
-    "name": "Fizz",
-    "image": "Fizz.png",
+    "id": "chim_an_thit",
+    "name": "Chim ăn thịt",
+    "image": "Raptor.jpg",
+    "splash": "T_18_CrimsonRaptor_PCHighres.jpg",
+    "cost": "3",
     "traits": [
-      "Meeple",
-      "Rogue"
-    ],
-    "status": "Fizz",
-    "mana": "0 / 20",
-    "description": "? xuyên qua mục tiêu hiện tại, gây ? ? sát thương phép. ? mỗi lần tung chiêu thứ ba cũng triệu hồi một ? sau một khoảng trễ, hất tung nhẹ mục tiêu và gây ? ? sát thương phép trong bán kính một ô, giảm ?% mỗi ô tính từ tâm. ?: ? ? vào mồi nhử, tăng sát thương của ? lên ?."
+      "Riftbeast",
+      "Người triệu hồi",
+      "Tốc độ nhanh"
+    ]
   },
   {
     "stt": 31,
-    "id": "illaoi",
-    "name": "Illaoi",
-    "image": "Illaoi.png",
+    "id": "diana",
+    "name": "Diana",
+    "image": "Diana.jpg",
+    "splash": "T_18_Diana_PCHighres.jpg",
+    "cost": "3",
     "traits": [
-      "Anima",
-      "Vanguard",
-      "Shepherd"
-    ],
-    "status": "Illaoi",
-    "mana": "40 / 100",
-    "description": "? ? ? trong ? giây. ? trong thời gian hiệu lực, hút ? ? ? từ ? kẻ địch gần nhất. ? đập mạnh xuống, gây ? ? sát thương phép lên tất cả kẻ địch trong phạm vi 2 ô."
+      "Mặt trăng",
+      "Kẻ tàn phá",
+      "Tiên phong"
+    ]
   },
   {
     "stt": 32,
-    "id": "kai'sa",
-    "name": "Kai'Sa",
-    "image": "KaiSa.png",
+    "id": "fiddlesticks",
+    "name": "Fiddlesticks",
+    "image": "Fiddlesticks.jpg",
+    "splash": "T_18_Fiddlesticks_PCHighres.jpg",
+    "cost": "3",
     "traits": [
-      "Dark Star",
-      "Rogue"
-    ],
-    "status": "Kai'Sa",
-    "mana": "0 / 50",
-    "description": "?: ? khi tham gia hạ gục, nhận ? năng lượng. ?: ? các tên lửa trong bán kính ?-ô quanh mục tiêu hiện tại, gây ? ? sát thương vật lý mỗi tên lửa."
+      "Hệ thực vật Fatalis",
+      "Hậu vệ",
+      "Phép thuật"
+    ]
   },
   {
     "stt": 33,
-    "id": "lulu",
-    "name": "Lulu",
-    "image": "Lulu.png",
+    "id": "hecarim",
+    "name": "Hecarim",
+    "image": "Hecarim.jpg",
+    "splash": "T_18_Hecarim_PCHighres.jpg",
+    "cost": "3",
     "traits": [
-      "Stargazer",
-      "Replicator"
-    ],
-    "status": "Lulu",
-    "mana": "0 / 60",
-    "description": "?: ? kỹ năng của ? nhận một hiệu ứng phụ khác nhau mỗi trận đấu. ?: ? một thứ gì đó từ trên trời xuống, gây ? ? sát thương phép lên ? kẻ địch gần đó và gây ra một số hiệu ứng đặc biệt dựa trên ? của trận đấu này."
+      "Gỗ Elderwood",
+      "Tiên phong"
+    ]
   },
   {
     "stt": 34,
-    "id": "maokai",
-    "name": "Maokai",
-    "image": "Maokai.png",
+    "id": "kha'zix",
+    "name": "Kha'Zix",
+    "image": "KhaZix.jpg",
+    "splash": "T_18_Khazix_PCHighres.jpg",
+    "cost": "3",
     "traits": [
-      "N.O.V.A.",
-      "Brawler"
-    ],
-    "status": "Maokai",
-    "mana": "30 / 100",
-    "description": "?: ? thêm % ? tối đa từ mọi nguồn. ?: ? một vùng dây leo hình ? lên mục tiêu, gây ? ? sát thương phép lên mỗi kẻ địch trúng chiêu và ? chúng trong ? giây. ?. ?: ? ra một làn sóng rồng làm choáng tất cả kẻ địch trong ? giây. ? trong phần còn lại của trận đấu, đòn đánh của ? gây thêm ? ? sát thương vật lý."
+      "Đối thủ"
+    ]
   },
   {
     "stt": 35,
-    "id": "miss_fortune",
-    "name": "Miss Fortune",
-    "image": "MissFortune.png",
+    "id": "kog'maw",
+    "name": "Kog'Maw",
+    "image": "KogMaw.jpg",
+    "splash": "T_18_KogMaw_PCHighres.jpg",
+    "cost": "3",
     "traits": [
-      "Channeler",
-      "Challenger",
-      "Replicator"
-    ],
-    "status": "Miss Fortune",
-    "mana": "0 / 100",
-    "description": "?"
+      "Ăn da",
+      "Người triệu hồi",
+      "Bộ chuyển đổi"
+    ]
   },
   {
     "stt": 36,
-    "id": "ornn",
-    "name": "Ornn",
-    "image": "Ornn.png",
+    "id": "krug",
+    "name": "Krug",
+    "image": "Krug.jpg",
+    "splash": "T_18_Krug_PCHighres.jpg",
+    "cost": "3",
     "traits": [
-      "Space Groove",
-      "Bastion"
-    ],
-    "status": "Ornn",
-    "mana": "40 / 100",
-    "description": "?: ? khi trận đấu bắt đầu, rèn một trang bị hoàn chỉnh tạm thời. ? nếu đã trang bị đủ 3 món, một trang bị hoàn chỉnh ngẫu nhiên sẽ trở thành ? trong trận đấu đó. ?: ? ? ? trong ? giây. ? phun lửa theo hình nón, gây ? ? sát thương phép. ? bất kỳ ? trên ? hết hạn, ? trạng thái ? trong ? giây."
+      "Riftbeast",
+      "Đấu sĩ"
+    ]
   },
   {
     "stt": 37,
-    "id": "rhaast",
-    "name": "Rhaast",
-    "image": "Rhaast.png",
+    "id": "master_yi",
+    "name": "Master Yi",
+    "image": "MasterYi.jpg",
+    "splash": "T_18_MasterYi_Highres.jpg",
+    "cost": "3",
     "traits": [
-      "Redeemer"
-    ],
-    "status": "Rhaast",
-    "mana": "30 / 90",
-    "description": "?% ? trong ? giây, hồi ? ? trong thời gian hiệu lực. ?, chém về phía trước theo một đường thẳng, gây ? ? sát thương vật lý lên kẻ địch trúng chiêu và hất tung chúng trong ? giây."
+      "Hoa",
+      "Bộ chuyển đổi"
+    ]
   },
   {
     "stt": 38,
-    "id": "samira",
-    "name": "Samira",
-    "image": "Samira.png",
+    "id": "rammus",
+    "name": "Rammus",
+    "image": "Rammus.jpg",
+    "splash": "T_18_Rammus_PCHighres.jpg",
+    "cost": "3",
     "traits": [
-      "Space Groove",
-      "Sniper"
-    ],
-    "status": "Samira",
-    "mana": "0 / 60",
-    "description": "?: ? khi một kẻ địch bị hất tung, bắn chúng, gây ? ? sát thương vật lý và trạng thái ? trong ? giây. ?: ? bắn một loạt đạn vào mục tiêu, gây ? ? sát thương vật lý và hất tung trong ? giây."
+      "Sprykin",
+      "Hậu vệ"
+    ]
   },
   {
     "stt": 39,
-    "id": "urgot",
-    "name": "Urgot",
-    "image": "Urgot.png",
+    "id": "rengar",
+    "name": "Rengar",
+    "image": "Rengar.jpg",
+    "splash": "T_18_Rengar_PCHighres.jpg",
+    "cost": "3",
     "traits": [
-      "Mecha",
-      "Brawler",
-      "Marauder"
-    ],
-    "status": "Urgot",
-    "mana": "0 / 50",
-    "description": "? - ?: ? khi một kẻ địch đi vào bán kính ? ? ô, bắn một luồng năng lượng hình nón về phía ô kề cận gần nhất gây ? ? sát thương vật lý với mức giảm ?% theo mỗi ô. ? ô kề cận có thời gian hồi chiêu ? giây. ?: ? ? ? trong ? giây và lướt ra sau mục tiêu hiện tại. ? hồi lại toàn bộ kỹ năng của ?."
+      "Đối thủ"
+    ]
   },
   {
     "stt": 40,
-    "id": "viktor",
-    "name": "Viktor",
-    "image": "Viktor.png",
+    "id": "tristana",
+    "name": "Tristana",
+    "image": "Tristana.jpg",
+    "splash": "T_18_Tristana_PCHighres.jpg",
+    "cost": "3",
     "traits": [
-      "Psionic",
-      "Channeler"
-    ],
-    "status": "Viktor",
-    "mana": "20 / 80",
-    "description": "? tạo ra một cơn bão tâm linh rộng một ô bám theo kẻ địch trong ? giây. ? mỗi giây, nó lớn dần và gây ? ? sát thương phép lên kẻ địch bên trong, giảm ?% mỗi ô tính từ tâm bão."
+      "Fae",
+      "Sprykin",
+      "Thợ săn"
+    ]
   },
   {
     "stt": 41,
-    "id": "aurelion_sol",
-    "name": "Aurelion Sol",
-    "image": "AurelionSol.png",
+    "id": "vi",
+    "name": "Vi",
+    "image": "Vi.jpg",
+    "splash": "T_18_VI_PCHighres.jpg",
+    "cost": "3",
     "traits": [
-      "Mecha",
-      "Channeler"
-    ],
-    "status": "Aurelion Sol",
-    "mana": "15 / 75",
-    "description": "? một tia sáng chết chóc theo đường thẳng về phía mục tiêu hiện tại trong ? giây. ? gây ? ? sát thương phép mỗi giây, giảm ?% cho mỗi kẻ địch nó xuyên qua. ? bỏ qua ?% ? của kẻ địch."
+      "Nguyên thủy",
+      "Dũng sĩ"
+    ]
   },
   {
     "stt": 42,
-    "id": "corki",
-    "name": "Corki",
-    "image": "Corki.png",
+    "id": "ahri",
+    "name": "Ahri",
+    "image": "Ahri.jpg",
+    "splash": "T_18_Ahri_PCHighres.jpg",
+    "cost": "4",
     "traits": [
-      "Meeple",
-      "Fateweaver"
-    ],
-    "status": "Corki",
-    "mana": "0 / 60",
-    "description": "? tới một vị trí gần đó, phóng ra ? tên lửa chia đều cho mục tiêu và tất cả kẻ địch trong phạm vi hai ô. ? gây ? ? sát thương vật lý với ?% tỷ lệ bắn ra một tên lửa cực đại gây ? ? thay thế. ?: ? giây, phóng một ? vào mục tiêu, gây ? ? sát thương vật lý trong bán kính một ô khi va chạm. ?: ? hai lần và chọn kết quả tốt hơn."
+      "Hoa",
+      "Phép thuật"
+    ]
   },
   {
     "stt": 43,
-    "id": "karma",
-    "name": "Karma",
-    "image": "Karma.png",
+    "id": "amumu",
+    "name": "Amumu",
+    "image": "Amumu.jpg",
+    "splash": "T_18_Amumu_PCHighres.jpg",
+    "cost": "4",
     "traits": [
-      "Dark Star",
-      "Voyager"
-    ],
-    "status": "Karma",
-    "mana": "10 / 50",
-    "description": "? sức mạnh của một hố đen, gây ? ? sát thương phép chia đều cho mục tiêu và ? kẻ địch gần chúng nhất. ? mục tiêu chính chịu thêm ? ? sát thương phép."
+      "Địa ngục",
+      "Dũng sĩ"
+    ]
   },
   {
     "stt": 44,
-    "id": "kindred",
-    "name": "Kindred",
-    "image": "Kindred.png",
+    "id": "aphelios",
+    "name": "Aphelios",
+    "image": "Aphelios.jpg",
+    "splash": "T_18_Aphelios_PChighres.jpg",
+    "cost": "4",
     "traits": [
-      "N.O.V.A.",
-      "Challenger"
-    ],
-    "status": "Kindred",
-    "mana": "0 / 40",
-    "description": "?: ? và ? đánh dấu mục tiêu. ? khi một kẻ địch đạt ? dấu ấn, ? tiêu thụ các dấu ấn, gây ? ? sát thương vật lý. ?: ? tối đa ? ô và bắn mũi tên vào ? mục tiêu gần nhất, mỗi mũi tên gây ? ? sát thương vật lý. ?. ?: ?% ?. ? và mỗi ? giây sau đó, thêm một dấu ấn lên tất cả kẻ địch."
+      "Mặt trăng",
+      "Tốc độ nhanh"
+    ]
   },
   {
     "stt": 45,
-    "id": "leblanc",
-    "name": "LeBlanc",
-    "image": "LeBlanc.png",
+    "id": "brambleback",
+    "name": "Brambleback",
+    "image": "Brambleback.jpg",
+    "splash": "T_18_Brambleback_PCHighres.jpg",
+    "cost": "4",
     "traits": [
-      "Arbiter",
-      "Shepherd"
-    ],
-    "status": "LeBlanc",
-    "mana": "0 / 40",
-    "description": "?: ? gây ? ? sát thương phép thay thế. ?: ? các bản sao tấn công cùng với ? trong ? đòn đánh, gây ?% sát thương. ? đòn đánh cuối cùng của chúng, các bản sao bắn ra một luồng năng lượng gây ? ? sát thương phép."
+      "Riftbeast",
+      "Kẻ tàn phá"
+    ]
   },
   {
     "stt": 46,
-    "id": "master_yi",
-    "name": "Master Yi",
-    "image": "MasterYi.png",
+    "id": "ezreal",
+    "name": "Ezreal",
+    "image": "Ezreal.jpg",
+    "splash": "T_18_Ezreal_PCHighres.jpg",
+    "cost": "4",
     "traits": [
-      "Psionic",
-      "Marauder"
-    ],
-    "status": "Master Yi",
-    "mana": "30 / 70",
-    "description": "?: ? mỗi đòn đánh thứ ba tấn công thêm một lần gây thêm ? ? sát thương vật lý. ?: ? thiền định ngắn, tiến vào trạng thái ?-? trong ? giây, nhận ?% ?, ?% ?, và tăng tốc độ di chuyển. ? mỗi giây, phóng ra một luồng tâm linh vào một kẻ địch ngẫu nhiên gần đó gây ? ? sát thương vật lý."
+      "Gỗ Elderwood",
+      "Đao phủ"
+    ]
   },
   {
     "stt": 47,
-    "id": "nami",
-    "name": "Nami",
-    "image": "Nami.png",
+    "id": "lillia",
+    "name": "Lillia",
+    "image": "Lillia.jpg",
+    "splash": "T_18_Lillia_PCHighres.jpg",
+    "cost": "4",
     "traits": [
-      "Space Groove",
-      "Replicator"
-    ],
-    "status": "Nami",
-    "mana": "30 / 85",
-    "description": "? một bong bóng disco vào mục tiêu gây ? ? sát thương chia đều cho kẻ địch trong bán kính một ô. ? vụ nổ bắn ra ? quả cầu về phía kẻ địch lân cận gây ? ? sát thương phép. ? sau khi tung chiêu, ? trạng thái ? trong ? giây."
+      "Fae",
+      "Hậu vệ"
+    ]
   },
   {
     "stt": 48,
-    "id": "nunu",
-    "name": "Nunu",
-    "image": "Nunu.png",
+    "id": "linh_canh_co_xua",
+    "name": "Lính canh cổ xưa",
+    "image": "AncientSentinel.jpg",
+    "splash": "T_18_Sentinel_PCHighres.jpg",
+    "cost": "4",
     "traits": [
-      "Stargazer",
-      "Vanguard"
-    ],
-    "status": "Nunu",
-    "mana": "45 / 155",
-    "description": "? ? ? trong ? giây. ? một khối thiên cầu rơi xuống nơi có nhiều kẻ địch nhất trong phạm vi 2 ô, gây ? ? sát thương phép. ?, ? đẩy khối thiên cầu về phía cuối sân đấu, gây ? ? sát thương phép. ? kẻ địch trúng khối thiên cầu bị hất tung trong ? giây."
+      "Riftbeast",
+      "Tiên phong",
+      "Người triệu hồi"
+    ]
   },
   {
     "stt": 49,
-    "id": "rammus",
-    "name": "Rammus",
-    "image": "Rammus.png",
+    "id": "malphite",
+    "name": "Malphite",
+    "image": "Malphite.jpg",
+    "splash": "T_18_Malphite_PCHighres.jpg",
+    "cost": "4",
     "traits": [
-      "Meeple",
-      "Bastion"
-    ],
-    "status": "Rammus",
-    "mana": "30 / 100",
-    "description": "? ? lá chắn trong ? giây. ?, tấn công nhiều kẻ địch nhất trên một đường thẳng ba ô, gây ? ? sát thương phép. ?: ? sát thương từ các đòn đánh nhận vào đi ?. ? sau khi bị tấn công ? lần, gây ? ? sát thương phép trong bán kính hai ô."
+      "Eldritch",
+      "Đá nguyên khối"
+    ]
   },
   {
     "stt": 50,
-    "id": "riven",
-    "name": "Riven",
-    "image": "Riven.png",
+    "id": "morgana",
+    "name": "Morgana",
+    "image": "Morgana.jpg",
+    "splash": "T_18_Morgana_PCHighres.jpg",
+    "cost": "4",
     "traits": [
-      "Timebreaker",
-      "Rogue"
-    ],
-    "status": "Riven",
-    "mana": "0 / 20",
-    "description": "?: ? thích nghi theo ? hoặc ? của ?, chỉ số nào cao hơn. ? gây ? (?/?) sát thương. ?: ? tới một ô gần đó, nhận ? trong ? giây và chém kẻ địch xung quanh gây ? (?/?) sát thương. ? lần tung chiêu thứ ba, nhảy lên không trung và phóng ra một làn sóng năng lượng gây ? (?/?) sát thương."
+      "Giao ước",
+      "Người triệu hồi"
+    ]
   },
   {
     "stt": 51,
-    "id": "tahm_kench",
-    "name": "Tahm Kench",
-    "image": "TahmKench.png",
+    "id": "nidalee",
+    "name": "Nidalee",
+    "image": "Nidalee.jpg",
+    "splash": "T_18_Nidalee_PCHighres.jpg",
+    "cost": "4",
     "traits": [
-      "Arcana",
-      "Brawler"
-    ],
-    "status": "Tahm Kench",
-    "mana": "50 / 120",
-    "description": "?: ? mỗi trận đấu sau khi máu giảm xuống dưới ?% ?, nhận ? trong ? giây bằng ?% lượng hồi máu nhận được trong trận đấu này. ?: ? ?, sau đó quất lưỡi vào tất cả kẻ địch trong phạm vi hai ô gây ? ? sát thương phép."
+      "Nguyên thủy",
+      "Bộ chuyển đổi"
+    ]
   },
   {
     "stt": 52,
-    "id": "the_mighty_mech",
-    "name": "The Mighty Mech",
-    "image": "TheMightyMech.png",
+    "id": "sett",
+    "name": "Sett",
+    "image": "Sett.jpg",
+    "splash": "T_18_Sett_PCHighres.jpg",
+    "cost": "4",
     "traits": [
-      "Mecha",
-      "Voyager"
-    ],
-    "status": "The Mighty Mech",
-    "mana": "40 / 100",
-    "description": "? thế phòng thủ trong ? giây nhận ?% ?. ? khi đang ở thế phòng thủ, thu hút các luồng đạn của kẻ địch gần đó và hồi ? ? trong thời gian hiệu lực. ? khi kết thúc, giải phóng một cú sốc điện gây ? ? sát thương vật lý trong phạm vi ?-ô."
+      "Hoa",
+      "Đấu sĩ"
+    ]
   },
   {
     "stt": 53,
-    "id": "xayah",
-    "name": "Xayah",
-    "image": "Xayah.png",
+    "id": "sivir",
+    "name": "Sivir",
+    "image": "Sivir.jpg",
+    "splash": "T_18_Sivir_PCHIghres.jpg",
+    "cost": "4",
     "traits": [
-      "Stargazer",
-      "Sniper"
-    ],
-    "status": "Xayah",
-    "mana": "0 / 50",
-    "description": "?: ? nảy để tấn công ? lần, gây sát thương giảm ?% mỗi mục tiêu và để lại một ? phía sau mục tiêu cuối cùng. ?: ?% ? trong ? giây. ? khi kết thúc, thu hồi tất cả ? chia đều cho ? kẻ địch gần nhất, gây ? ? sát thương vật lý mỗi chiếc."
+      "Nguyên thủy",
+      "Thợ săn"
+    ]
   },
   {
     "stt": 54,
-    "id": "bard",
-    "name": "Bard",
-    "image": "Bard.png",
+    "id": "soraka",
+    "name": "Soraka",
+    "image": "Soraka.jpg",
+    "splash": "T_18_Soraka_PCHighres.jpg",
+    "cost": "4",
     "traits": [
-      "Meeple",
-      "Channeler"
-    ],
-    "status": "Bard",
-    "mana": "0 / 70",
-    "description": "? một đĩa bay lên trên mục tiêu hiện tại kéo dài ? giây. ? mỗi giây nó gây ? ? sát thương phép lên mục tiêu, cộng thêm ? ? sát thương phép chia đều cho tất cả kẻ địch trong phạm vi ? ô. ? đĩa bay gây ?% sát thương tăng thêm cho ?. ? nếu một kẻ địch dưới ? chết, ? có ?% tỷ lệ bắt cóc chúng và tạo ra một bản sao 1 sao trên hàng chờ của bạn. ? thưởng: ? khi trận đấu bắt đầu, ban cho ? gần nhất một ? thêm. ? đã bắt cóc: ?"
+      "Hệ thực vật Fatalis",
+      "Đao phủ"
+    ]
   },
   {
     "stt": 55,
-    "id": "blitzcrank",
-    "name": "Blitzcrank",
-    "image": "Blitzcrank.png",
+    "id": "zyra",
+    "name": "Zyra",
+    "image": "Zyra.jpg",
+    "splash": "T_18_Zyra_PCHighres.jpg",
+    "cost": "4",
     "traits": [
-      "Party Animal",
-      "Space Groove",
-      "Vanguard"
-    ],
-    "status": "Blitzcrank",
-    "mana": "10 / 90",
-    "description": "?: ? giây, gọi xuống một tia sét lên kẻ địch ? gần nhất gây ? ? sát thương phép. ?: ? một quả cầu disco vào nhóm kẻ địch đông nhất, sau đó đấm móc mục tiêu hiện tại gây ? ? sát thương phép và hất tung. ? rơi sầm xuống quả cầu disco gây ? ? sát thương phép trong bán kính ba ô. ? ? trong ? giây mỗi kẻ địch trúng chiêu."
+      "Cô gái gai",
+      "Người triệu hồi"
+    ]
   },
   {
     "stt": 56,
-    "id": "fiora",
-    "name": "Fiora",
-    "image": "Fiora.png",
+    "id": "alune",
+    "name": "Alune",
+    "image": "Alune.jpg",
+    "splash": "T_18_Alune_PCHighres.jpg",
+    "cost": "5",
     "traits": [
-      "Divine Duelist",
-      "Anima",
-      "Marauder"
-    ],
-    "status": "Fiora",
-    "mana": "10 / 80",
-    "description": "?: ? mỗi đòn tấn công, để lộ một ? trên mục tiêu. ? khi một ? tồn tại, lướt tới tấn công nó gây ? ? sát thương chuẩn cộng thêm và hồi máu bằng ?% sát thương gây ra. ?: ? ? lên mục tiêu và nhanh chóng tấn công tất cả chúng. ? nếu mục tiêu chết, các ? còn lại chuyển sang kẻ địch gần nhất. ? khi tấn công vào ? cuối cùng, tạo ra một vùng hào quang hai ô hồi máu cho đồng minh bên trong ? ? trong ? giây."
+      "Hòa hợp",
+      "Mặt trăng",
+      "Phép thuật"
+    ]
   },
   {
     "stt": 57,
-    "id": "graves",
-    "name": "Graves",
-    "image": "Graves.png",
+    "id": "ashe",
+    "name": "Ashe",
+    "image": "Ashe.jpg",
+    "splash": "T_18_Ashe_PCHighres.jpg",
+    "cost": "5",
     "traits": [
-      "Factory New"
-    ],
-    "status": "Graves",
-    "mana": "0 / 60",
-    "description": "?: ? bắn ? đạn theo hình nón gây ? sát thương vật lý mỗi viên. ?: ? một viên đạn nổ gây ? ? sát thương vật lý lên mục tiêu, và ? ? sát thương vật lý lên tất cả kẻ địch trong bán kính một ô."
+      "Hoa",
+      "Thợ săn"
+    ]
   },
   {
     "stt": 58,
-    "id": "jhin",
-    "name": "Jhin",
-    "image": "Jhin.png",
+    "id": "draven",
+    "name": "Draven",
+    "image": "Draven.jpg",
+    "splash": "T_18_Draven_PCHighres.jpg",
+    "cost": "5",
     "traits": [
-      "Dark Star",
-      "Eradicator",
-      "Sniper"
-    ],
-    "status": "Jhin",
-    "mana": "0 / 44",
-    "description": "?: ? có tốc độ đánh cố định là ? và chuyển đổi mỗi ?% ? cộng thêm thành ? ? cộng thêm. ?: ? những bàn tay ma mị bắn cùng với ? trong ? đòn đánh tiếp theo. ? mỗi bàn tay gây ? ? sát thương vật lý mỗi phát bắn và loại bỏ ?. ? các phát bắn cuối cùng gây thêm ?% sát thương và xuyên qua nhiều kẻ địch nhất trên một đường thẳng, gây sát thương giảm ?% mỗi mục tiêu trúng chiêu."
+      "Người tìm kiếm tiền thưởng"
+    ]
   },
   {
     "stt": 59,
-    "id": "morgana",
-    "name": "Morgana",
-    "image": "Morgana.png",
+    "id": "gnar",
+    "name": "Gnar",
+    "image": "Gnar.jpg",
+    "splash": "T_18_Gnar_PCHighres.jpg",
+    "cost": "5",
     "traits": [
-      "Dark Lady"
-    ],
-    "status": "Morgana",
-    "mana": "20 / 60",
-    "description": "? thành ? trong ? giây, nhận ? ? ? trong thời gian hiệu lực. ? khi ở dạng ?, trói buộc ? kẻ địch gần nhất, gây ? ? sát thương phép mỗi giây lên mỗi kẻ và hồi máu bằng ?% sát thương gây ra. ? khi kết thúc quá trình biến hình, gây ? ? lên tất cả kẻ địch bị trói buộc."
+      "Gỗ Elderwood",
+      "Sprykin",
+      "Đấu sĩ"
+    ]
   },
   {
     "stt": 60,
-    "id": "shen",
-    "name": "Shen",
-    "image": "Shen.png",
+    "id": "ivern",
+    "name": "Ivern",
+    "image": "Ivern.jpg",
+    "splash": "T_18_Ivern_PCHighres.jpg",
+    "cost": "5",
     "traits": [
-      "Bulwark",
-      "Bastion"
-    ],
-    "status": "Shen",
-    "mana": "10 / 70",
-    "description": "?: ? mỗi lần tung chiêu, đòn đánh nhận thêm ? ? sát thương phép cộng dồn. ? từ lần tung chiêu thứ ba, nhận sát thương chuẩn thay thế. ?: ? ? ? trong ? giây, sau đó chém mở một vết nứt lên nhóm tướng đông nhất gây sát thương cộng thêm của ? lên tất cả kẻ địch bên trong. ? bị giảm ?% ? trong khi đồng minh bên trong nhận ?% ?, cả hai hiệu ứng đều giảm dần nhanh chóng trong ? giây."
+      "Bố Xanh"
+    ]
   },
   {
     "stt": 61,
-    "id": "sona",
-    "name": "Sona",
-    "image": "Sona.png",
+    "id": "kennen",
+    "name": "Kennen",
+    "image": "Kennen.jpg",
+    "splash": "T_18_Kennen_PCHighres.jpg",
+    "cost": "5",
     "traits": [
-      "Commander",
-      "Psionic",
-      "Shepherd"
-    ],
-    "status": "Sona",
-    "mana": "0 / 25",
-    "description": "? một mảnh vụn từ tính vào mục tiêu gần nhất chưa có mảnh vụn, gây ? ? sát thương phép và dính nó vào chúng. ? khi một kẻ địch có mảnh vụn chết, nó chuyển sang kẻ địch gần nhất chưa có. ? khi tung chiêu, thay vào đó giật tung tất cả mảnh vụn gây ? ? sát thương phép, sau đó nghiền nát tất cả mảnh vụn lên mục tiêu, gây ? ? sát thương phép và làm choáng nhẹ chúng."
+      "Địa ngục",
+      "Đao phủ"
+    ]
   },
   {
     "stt": 62,
-    "id": "vex",
-    "name": "Vex",
-    "image": "Vex.png",
+    "id": "lux_(eldritch)",
+    "name": "Lux (Eldritch)",
+    "image": "LuxEldritch.jpg",
+    "splash": "T_18_Lux_Blacktorn_PCHighres.jpg",
+    "cost": "5",
     "traits": [
-      "Doomer"
-    ],
-    "status": "Vex",
-    "mana": "0 / 60",
-    "description": "?: ? mỗi khi ? tấn công, ? tấn công một kẻ địch gần đó, gây ? ? sát thương phép. ? nếu một kẻ địch bị trúng ? lần bởi ?, ? tấn công chúng lần nữa. ?: ? tung ra ? đòn đánh cường hóa, thay vào đó gây ? ? sát thương phép."
+      "Eldritch",
+      "Hình đại diện"
+    ]
   },
   {
     "stt": 63,
-    "id": "zed",
-    "name": "Zed",
-    "image": "Zed.png",
+    "id": "lux_(fae)",
+    "name": "Lux (Fae)",
+    "image": "LuxFae.jpg",
+    "splash": "T_18_Lux_Fae_PCHighres.jpg",
+    "cost": "5",
     "traits": [
-      "Galaxy Hunter"
-    ],
-    "status": "Zed",
-    "mana": "30 / 80",
-    "description": "? một bản sao phía sau mục tiêu với ?% ? tối đa bị giảm và tăng ? giá trị ?. ? bản sao thừa hưởng các trang bị, chỉ số và ? hiện tại của người tạo ra nó, và có thể tung chiêu ?."
+      "Fae",
+      "Hình đại diện"
+    ]
+  },
+  {
+    "stt": 64,
+    "id": "lux_(giao_uoc)",
+    "name": "Lux (Giao ước)",
+    "image": "LuxCoven.jpg",
+    "splash": "T_18_Lux_Coven_PCHighres.jpg",
+    "cost": "5",
+    "traits": [
+      "Giao ước",
+      "Hình đại diện"
+    ]
+  },
+  {
+    "stt": 65,
+    "id": "lux_(go_elderwood)",
+    "name": "Lux (Gỗ Elderwood)",
+    "image": "LuxElderwood.jpg",
+    "splash": "T_18_Lux_Elderwood_PCHighres.jpg",
+    "cost": "5",
+    "traits": [
+      "Gỗ Elderwood",
+      "Hình đại diện"
+    ]
+  },
+  {
+    "stt": 66,
+    "id": "lux_(hoa)",
+    "name": "Lux (Hoa)",
+    "image": "LuxBlossom.jpg",
+    "splash": "T_18_Lux_Blossom_PCHighres.jpg",
+    "cost": "5",
+    "traits": [
+      "Hoa",
+      "Hình đại diện"
+    ]
+  },
+  {
+    "stt": 67,
+    "id": "lux_(mat_trang)",
+    "name": "Lux (Mặt trăng)",
+    "image": "LuxLunar.jpg",
+    "splash": "T_18_Lux_Moonbeam_PCHighres.jpg",
+    "cost": "5",
+    "traits": [
+      "Mặt trăng",
+      "Hình đại diện"
+    ]
+  },
+  {
+    "stt": 68,
+    "id": "lux_(nguyen_thuy)",
+    "name": "Lux (Nguyên thủy)",
+    "image": "LuxPrimal.jpg",
+    "splash": "T_18_Lux_Primal_PCHighres.jpg",
+    "cost": "5",
+    "traits": [
+      "Nguyên thủy",
+      "Hình đại diện"
+    ]
+  },
+  {
+    "stt": 69,
+    "id": "lux_(nang_luong_mat_troi)",
+    "name": "Lux (Năng lượng mặt trời)",
+    "image": "LuxSolar.jpg",
+    "splash": "T_18_Lux_Sunbeam_PCHighres.jpg",
+    "cost": "5",
+    "traits": [
+      "Năng lượng mặt trời",
+      "Hình đại diện"
+    ]
+  },
+  {
+    "stt": 70,
+    "id": "lux_(dia_nguc)",
+    "name": "Lux (Địa ngục)",
+    "image": "LuxInferno.jpg",
+    "splash": "T_18_Lux_Inferno_PCHighres.jpg",
+    "cost": "5",
+    "traits": [
+      "Địa ngục",
+      "Hình đại diện"
+    ]
+  },
+  {
+    "stt": 71,
+    "id": "maokai",
+    "name": "Maokai",
+    "image": "Maokai.jpg",
+    "splash": "T_18_Maokai_PCHighres.jpg",
+    "cost": "5",
+    "traits": [
+      "Tăng trưởng cũ",
+      "Dũng sĩ"
+    ]
+  },
+  {
+    "stt": 72,
+    "id": "rong_gia",
+    "name": "Rồng già",
+    "image": "TheElderDragon.jpg",
+    "splash": "T_18_Elder_Dragon_PCHighres.jpg",
+    "cost": "5",
+    "traits": [
+      "Riftbeast",
+      "Động vật ăn thịt Apex"
+    ]
+  },
+  {
+    "stt": 73,
+    "id": "taric",
+    "name": "Taric",
+    "image": "Taric.jpg",
+    "splash": "T_18_Taric_PCHighres.jpg",
+    "cost": "5",
+    "traits": [
+      "Khía cạnh ngọc lục bảo",
+      "Tiên phong"
+    ]
   }
 ]
