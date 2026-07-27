@@ -170,10 +170,6 @@
     "description": "After combat, your Wisps are empowered.\n\nBlossom champions gain Attack Damage, Ability Power, and ?% max Health.",
     "effects": [
       {
-        "count": "(3)\nWisps are upgraded, ?% AD/AP",
-        "text": "(5)\nWisps are in every shop, ?% AD/AP"
-      },
-      {
         "count": "(3)",
         "text": "Wisps are upgraded, ?% AD/AP"
       },
@@ -227,10 +223,6 @@
     ],
     "description": "Gather Essence by killing champions, plus more by losing player combat.\n\nBeginning at ? Essence, choose to convert Essence to rewards or continue gathering Essence. Each reward requires increasing amounts of Essence.",
     "effects": [
-      {
-        "count": "(3)\n? Essence per kill, ? Essence per loss",
-        "text": "(4)\n? per kill, ? per loss"
-      },
       {
         "count": "(3)",
         "text": "? Essence per kill, ? Essence per loss"
@@ -298,10 +290,6 @@
     "description": "Gain placeable Elderwood plants.\n\nPlants gain ?% Max Health and ?% Ability Power per Elderwood Star Level.",
     "effects": [
       {
-        "count": "(3)\nA Stonebark Tree and a Lifebloom",
-        "text": "(5)\nA second Stonebark Tree"
-      },
-      {
         "count": "(3)",
         "text": "A Stonebark Tree and a Lifebloom"
       },
@@ -356,10 +344,6 @@
     "description": "The ally on the Eldritch hex is sacrificed at combat start, granting your team Health.\n\nEldritch champions gain additional stats based on the sacrifice's Role, Star Level, and Cost.",
     "effects": [
       {
-        "count": "(2)\n? Health",
-        "text": "(4)\n? Health; Bonus is ?% stronger"
-      },
-      {
         "count": "(2)",
         "text": "? Health"
       },
@@ -402,10 +386,6 @@
     "description": "Your team's damage, healing, and shielding attracts Pixies.\n\nEach Pixie grants Fae champions Attack Damage and Ability Power, and after they fall below ? Health, they heal for each Pixie.\n\nCurrent Pixies: ? | 7\nNext Pixie: ? | ?",
     "effects": [
       {
-        "count": "(2)\n?% AD/AP and ?% Heal.",
-        "text": "(4)\n?% AD/AP and ?% Heal. After attracting 7 Pixies, start attracting Golden Pixies instead which grant gold."
-      },
-      {
         "count": "(2)",
         "text": "?% AD/AP and ?% Heal."
       },
@@ -431,10 +411,6 @@
     ],
     "description": "Flora Fatalis champions harvest enemies on takedown, gaining:",
     "effects": [
-      {
-        "count": "(1)\n? Mana",
-        "text": "(2)\nand grant a ?% max Health heal to the lowest Health ally."
-      },
       {
         "count": "(1)",
         "text": "? Mana"
@@ -478,10 +454,6 @@
     "description": "Inferno damage Burns and ?% Wounds enemies for ? seconds. Inferno Burns stack with other Burns.\n\nBurn: Deals a percent of the target's max Health as true damage every second.\nWound: Reduces healing received.",
     "effects": [
       {
-        "count": "(2)\n?% Burn",
-        "text": "(3)\nAfter combat, ? of your shop slots without an Inferno champion ignites, rolling a champion one tier higher"
-      },
-      {
         "count": "(2)",
         "text": "?% Burn"
       },
@@ -524,10 +496,6 @@
     "description": "Lunar champions and adjacent allies gain Attack Speed and Ability Power. Lunar champions gain ?% more.\n\n...the moon brings death and syzygy.",
     "effects": [
       {
-        "count": "(2)\n?% AS, ?% AP",
-        "text": "(3)\n?% AS, ?% AP"
-      },
-      {
         "count": "(2)",
         "text": "?% AS, ?% AP"
       },
@@ -569,10 +537,6 @@
     ],
     "description": "Choose one of four Primal Blessings.",
     "effects": [
-      {
-        "count": "(2)\n?",
-        "text": "(4)\n?"
-      },
       {
         "count": "(2)",
         "text": "?"
@@ -632,10 +596,6 @@
     "description": "See the breakpoint effects below.",
     "effects": [
       {
-        "count": "(3)\nUse the Alpha Mark to grant a Riftbeast their unique Buff",
-        "text": "(5)\nEvery ? combats, your next shop is overrun with Riftbeasts"
-      },
-      {
         "count": "(3)",
         "text": "Use the Alpha Mark to grant a Riftbeast their unique Buff"
       },
@@ -669,10 +629,6 @@
     ],
     "description": "Only applies to your strongest Rival.",
     "effects": [
-      {
-        "count": "(1)\nOnly active while fielding 1 Rival. Rivals collect takedowns, gaining 3 if they takedown another Rival.",
-        "text": "(2)\nRivals can be fielded together"
-      },
       {
         "count": "(1)",
         "text": "Only active while fielding 1 Rival. Rivals collect takedowns, gaining 3 if they takedown another Rival."
@@ -746,10 +702,6 @@
     "description": "Gain the Big Furry Friend. Drop a Sprykin on the BFF to pick its Rider.\n\nThe BFF's attacks and Ability change if the Rider is melee or ranged.",
     "effects": [
       {
-        "count": "(3)\nThe Rider gains ?% Health and ?% AS",
-        "text": "(5)\n?% Health, ?% AS, and ?% of the BFF's Ability applies to your team"
-      },
-      {
         "count": "(3)",
         "text": "The Rider gains ?% Health and ?% AS"
       },
@@ -791,10 +743,6 @@
     ],
     "description": "Innate: Adaptor abilities change depending on if their Attack Damage or Ability Power is higher.\n\nAdaptors gain Ability Power or Attack Damage, depending on which is higher.",
     "effects": [
-      {
-        "count": "(2)\n?% AD OR AP",
-        "text": "(3)\n?% AD OR AP"
-      },
       {
         "count": "(2)",
         "text": "?% AD OR AP"
@@ -842,10 +790,6 @@
     "description": "Your team gains ?% max Health. Brawlers gain more.",
     "effects": [
       {
-        "count": "(2)\n?% Health",
-        "text": "(4)\n?% Health"
-      },
-      {
         "count": "(2)",
         "text": "?% Health"
       },
@@ -892,10 +836,6 @@
     "description": "Your team gains ? Armor and Magic Resist. Defenders gain more.",
     "effects": [
       {
-        "count": "(2)\n? Armor/MR",
-        "text": "(4)\n? Armor/MR"
-      },
-      {
         "count": "(2)",
         "text": "? Armor/MR"
       },
@@ -938,10 +878,6 @@
     "description": "Precision: Ability damage can critically strike. Extra Precision grants 10% Critical Strike Damage.",
     "effects": [
       {
-        "count": "(2)\nExecutioners gain Precision and ?% Critical Strike Chance.",
-        "text": "(3)\nAdditionally, enemies bleed for ?% bonus true damage over ? seconds."
-      },
-      {
         "count": "(2)",
         "text": "Executioners gain Precision and ?% Critical Strike Chance."
       },
@@ -983,10 +919,6 @@
     ],
     "description": "Hunters gain Attack Damage. If a Hunter hasn't swapped targets for ? seconds, they gain ?% Damage Amp.",
     "effects": [
-      {
-        "count": "(2)\n?% AD",
-        "text": "(3)\n?% AD"
-      },
       {
         "count": "(2)",
         "text": "?% AD"
@@ -1033,10 +965,6 @@
     ],
     "description": "Your team gains Mana Regen, increased for Invokers.",
     "effects": [
-      {
-        "count": "(2)\n? Mana Regen | ? Mana Regen",
-        "text": "(3)\n? Mana Regen | ? Mana Regen"
-      },
       {
         "count": "(2)",
         "text": "? Mana Regen | ? Mana Regen"
@@ -1092,10 +1020,6 @@
     "description": "Your team gains Durability. Juggernauts gain more.",
     "effects": [
       {
-        "count": "(2)\n?% Durability | ?% Durability",
-        "text": "(4)\n?% Durability | ?% Durability"
-      },
-      {
         "count": "(2)",
         "text": "?% Durability | ?% Durability"
       },
@@ -1137,10 +1061,6 @@
     ],
     "description": "Your team gains ?% Attack Speed. Rapidfire champions gain more on every attack, up to ? stacks.",
     "effects": [
-      {
-        "count": "(2)\n+?% per Attack",
-        "text": "(3)\n+?% per Attack"
-      },
       {
         "count": "(2)",
         "text": "+?% per Attack"
@@ -1192,10 +1112,6 @@
     "description": "Ravagers gain ?% Omnivamp. Additionally, Ravagers deal bonus damage, doubled against units below ?% Health.",
     "effects": [
       {
-        "count": "(2)\n?% Bonus Damage",
-        "text": "(4)\n?% Bonus Damage"
-      },
-      {
         "count": "(2)",
         "text": "?% Bonus Damage"
       },
@@ -1246,10 +1162,6 @@
     "description": "Your team gains ?% Ability Power. Spellweavers gain more, plus extra Ability Power whenever a Spellweaver casts an Ability.",
     "effects": [
       {
-        "count": "(2)\n?% AP, +?% AP per cast",
-        "text": "(4)\n?% AP, +?% AP per cast"
-      },
-      {
         "count": "(2)",
         "text": "?% AP, +?% AP per cast"
       },
@@ -1287,10 +1199,6 @@
     ],
     "description": "Summoners empower their summons in different ways.\n\nYorick: +?% Health\nAzir: +?% Damage\nRaptor: +?% Damage\nZyra: +? Plant Attacks",
     "effects": [
-      {
-        "count": "(2)\nEmpower Summons",
-        "text": "(3)\nImprove each effect by 50%"
-      },
       {
         "count": "(2)",
         "text": "Empower Summons"
@@ -1333,10 +1241,6 @@
     ],
     "description": "At Combat Start and after dropping below ?% Health, Vanguards gain a max Health Shield for ? seconds.",
     "effects": [
-      {
-        "count": "(2)\n?% max Health",
-        "text": "(4)\n?% max Health"
-      },
       {
         "count": "(2)",
         "text": "?% max Health"

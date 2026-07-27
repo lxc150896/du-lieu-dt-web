@@ -1,6 +1,6 @@
 {
   "season": {
-    "season": "TFT 18: Đại Ngàn Kỳ Bí"
+    "season": "TFT 18: Enchanted Wilds"
   },
   "gods": [
     {
@@ -1673,10 +1673,6 @@
       "description": "Đồng minh trên ô Eldritch bị hiến tế khi bắt đầu giao tranh, cho đội của bạn Máu.\n\nTướng Eldritch nhận thêm chỉ số dựa trên Vai Trò, Cấp Sao và Giá của vật hiến tế.",
       "effects": [
         {
-          "count": "(2)\n? Máu",
-          "text": "(4)\n? Máu; Hiệu ứng mạnh hơn ?%"
-        },
-        {
           "count": "(2)",
           "text": "? Máu"
         },
@@ -1719,10 +1715,6 @@
       "description": "Sát thương, hồi máu và lá chắn của đội bạn sẽ thu hút Pixie.\n\nMỗi Pixie cho tướng Fae Sức Mạnh Công Kích và Sức Mạnh Phép Thuật; khi họ xuống dưới ?% Máu, họ được hồi máu theo số Pixie.\n\nPixie hiện tại: ? | 7\nPixie tiếp theo: ? | ?",
       "effects": [
         {
-          "count": "(2)\n?% Sức Mạnh Công Kích/Sức Mạnh Phép Thuật và ?% Hồi Máu.",
-          "text": "(4)\n?% Sức Mạnh Công Kích/Sức Mạnh Phép Thuật và ?% Hồi Máu. Sau khi thu hút 7 Pixie, bắt đầu thu hút Pixie Vàng để nhận Vàng."
-        },
-        {
           "count": "(2)",
           "text": "?% Sức Mạnh Công Kích/Sức Mạnh Phép Thuật và ?% Hồi Máu."
         },
@@ -1764,10 +1756,6 @@
       ],
       "description": "Thu thập Tinh Hoa bằng cách hạ gục tướng, đồng thời nhận nhiều hơn khi thua giao tranh với người chơi.\n\nKhi có từ ? Tinh Hoa, chọn đổi Tinh Hoa lấy phần thưởng hoặc tiếp tục tích trữ. Mỗi phần thưởng tiếp theo cần nhiều Tinh Hoa hơn.",
       "effects": [
-        {
-          "count": "(3)\n? Tinh Hoa mỗi lần hạ gục, ? mỗi trận thua",
-          "text": "(4)\n? mỗi lần hạ gục, ? mỗi trận thua"
-        },
         {
           "count": "(3)",
           "text": "? Tinh Hoa mỗi lần hạ gục, ? mỗi trận thua"
@@ -1826,10 +1814,6 @@
       ],
       "description": "Nhận các cây Elderwood có thể đặt trên bàn đấu.\n\nCây nhận ?% Máu tối đa và ?% Sức Mạnh Phép Thuật với mỗi Cấp Sao Elderwood.",
       "effects": [
-        {
-          "count": "(3)\nCây vỏ đá và bông hoa sống",
-          "text": "(5)\nCây vỏ đá thứ hai"
-        },
         {
           "count": "(3)",
           "text": "Cây vỏ đá và bông hoa sống"
@@ -1893,10 +1877,6 @@
       "description": "Sau giao tranh, các Linh Hồn của bạn được cường hóa.\n\nTướng Blossom nhận Sức Mạnh Công Kích, Sức Mạnh Phép Thuật và ?% Máu tối đa.",
       "effects": [
         {
-          "count": "(3)\nLinh Hồn được nâng cấp, ?% Sức Mạnh Công Kích/Sức Mạnh Phép Thuật",
-          "text": "(5)\nLinh Hồn xuất hiện trong mọi Cửa Hàng, ?% Sức Mạnh Công Kích/Sức Mạnh Phép Thuật"
-        },
-        {
           "count": "(3)",
           "text": "Linh Hồn được nâng cấp, ?% Sức Mạnh Công Kích/Sức Mạnh Phép Thuật"
         },
@@ -1935,10 +1915,6 @@
       "description": "Tướng Flora Fatalis thu hoạch kẻ địch khi hạ gục, nhận được:",
       "effects": [
         {
-          "count": "(1)\n? Năng Lượng",
-          "text": "(2)\nvà cấp ?% máu tối đa hồi phục cho đồng minh có lượng máu thấp nhất."
-        },
-        {
           "count": "(1)",
           "text": "? Năng Lượng"
         },
@@ -1972,10 +1948,6 @@
       ],
       "description": "Tướng Lunar và đồng minh liền kề nhận Tốc Độ Đánh và Sức Mạnh Phép Thuật. Tướng Lunar nhận thêm ?%.\n\n...mặt trăng mang đến cái chết và nhật nguyệt giao hội.",
       "effects": [
-        {
-          "count": "(2)\n?% Tốc Độ Đánh, ?% Sức Mạnh Phép Thuật",
-          "text": "(3)\n?% Tốc Độ Đánh, ?% Sức Mạnh Phép Thuật"
-        },
         {
           "count": "(2)",
           "text": "?% Tốc Độ Đánh, ?% Sức Mạnh Phép Thuật"
@@ -2018,10 +1990,6 @@
       ],
       "description": "Chọn một trong bốn Phước lành Nguyên thủy.",
       "effects": [
-        {
-          "count": "(2)\n?",
-          "text": "(4)\n?"
-        },
         {
           "count": "(2)",
           "text": "?"
@@ -2119,10 +2087,6 @@
       "description": "Xem hiệu ứng từng mốc bên dưới.",
       "effects": [
         {
-          "count": "(3)\nDùng Dấu Alpha để ban Bùa độc nhất cho một Riftbeast",
-          "text": "(5)\nMỗi ? giao tranh, Cửa Hàng tiếp theo tràn ngập Riftbeast"
-        },
-        {
           "count": "(3)",
           "text": "Dùng Dấu Alpha để ban Bùa độc nhất cho một Riftbeast"
         },
@@ -2173,10 +2137,6 @@
       "description": "Nhận Người Bạn Lông Xù Khổng Lồ. Thả một Sprykin lên người bạn để chọn Kỵ Sĩ.\n\nĐòn đánh và Kỹ Năng của người bạn thay đổi tùy Kỵ Sĩ là cận chiến hay đánh xa.",
       "effects": [
         {
-          "count": "(3)\nKỵ Sĩ nhận ?% Máu và ?% Tốc Độ Đánh",
-          "text": "(5)\n?% Máu, ?% Tốc Độ Đánh và ?% hiệu ứng Kỹ Năng của người bạn áp dụng cho đội của bạn"
-        },
-        {
           "count": "(3)",
           "text": "Kỵ Sĩ nhận ?% Máu và ?% Tốc Độ Đánh"
         },
@@ -2223,10 +2183,6 @@
       "description": "Sát thương Inferno Thiêu Đốt và gây ?% Vết Thương lên kẻ địch trong ? giây. Thiêu Đốt từ Inferno cộng dồn với các hiệu ứng Thiêu Đốt khác.\n\nThiêu Đốt: Mỗi giây gây sát thương chuẩn theo phần trăm Máu tối đa của mục tiêu.\nVết Thương: Giảm lượng hồi Máu nhận vào.",
       "effects": [
         {
-          "count": "(2)\n?% Thiêu Đốt",
-          "text": "(3)\nSau trận chiến, ? trong số các ô cửa hàng của bạn không có tướng Hỏa Ngục sẽ kích hoạt, đưa tướng đó lên cao hơn một bậc"
-        },
-        {
           "count": "(2)",
           "text": "?% Thiêu Đốt"
         },
@@ -2260,10 +2216,6 @@
       ],
       "description": "Chỉ áp dụng cho Đối thủ mạnh nhất của bạn.",
       "effects": [
-        {
-          "count": "(1)\nChỉ hoạt động khi bảo vệ 1 Đối thủ. Đối thủ thu thập số lần hạ gục, nhận được 3 điểm nếu họ hạ gục Đối thủ khác.",
-          "text": "(2)\nCác đối thủ có thể được ra sân cùng nhau"
-        },
         {
           "count": "(1)",
           "text": "Chỉ hoạt động khi bảo vệ 1 Đối thủ. Đối thủ thu thập số lần hạ gục, nhận được 3 điểm nếu họ hạ gục Đối thủ khác."
@@ -2302,10 +2254,6 @@
       ],
       "description": "Nội Tại: Kỹ Năng của Thích Nghi thay đổi tùy theo Sức Mạnh Công Kích hay Sức Mạnh Phép Thuật cao hơn.\n\nThích Nghi nhận Sức Mạnh Công Kích hoặc Sức Mạnh Phép Thuật, tùy theo chỉ số nào cao hơn.",
       "effects": [
-        {
-          "count": "(2)\n?% Sức Mạnh Công Kích hoặc Sức Mạnh Phép Thuật",
-          "text": "(3)\n?% Sức Mạnh Công Kích hoặc Sức Mạnh Phép Thuật"
-        },
         {
           "count": "(2)",
           "text": "?% Sức Mạnh Công Kích hoặc Sức Mạnh Phép Thuật"
@@ -2357,10 +2305,6 @@
       "description": "Đội của bạn nhận Chống Chịu. Juggernaut nhận nhiều hơn.",
       "effects": [
         {
-          "count": "(2)\n?% Chống Chịu | ?% Chống Chịu",
-          "text": "(4)\n?% Chống Chịu | ?% Chống Chịu"
-        },
-        {
           "count": "(2)",
           "text": "?% Chống Chịu | ?% Chống Chịu"
         },
@@ -2406,10 +2350,6 @@
       ],
       "description": "Đội của bạn nhận ? Giáp và Kháng Phép. Hộ Vệ nhận nhiều hơn.",
       "effects": [
-        {
-          "count": "(2)\n? Giáp/Kháng Phép",
-          "text": "(4)\n? Giáp/Kháng Phép"
-        },
         {
           "count": "(2)",
           "text": "? Giáp/Kháng Phép"
@@ -2457,10 +2397,6 @@
       "description": "Ravager nhận ?% Hút Máu Toàn Phần và gây thêm sát thương, tăng gấp đôi lên đơn vị dưới ?% Máu.",
       "effects": [
         {
-          "count": "(2)\n?% Sát Thương Cộng Thêm",
-          "text": "(4)\n?% Sát Thương Cộng Thêm"
-        },
-        {
           "count": "(2)",
           "text": "?% Sát Thương Cộng Thêm"
         },
@@ -2503,10 +2439,6 @@
       "description": "Đội của bạn nhận Hồi Năng Lượng. Invoker nhận nhiều hơn.",
       "effects": [
         {
-          "count": "(2)\n? Hồi Năng Lượng | ? Hồi Năng Lượng",
-          "text": "(3)\n? Hồi Năng Lượng | ? Hồi Năng Lượng"
-        },
-        {
           "count": "(2)",
           "text": "? Hồi Năng Lượng | ? Hồi Năng Lượng"
         },
@@ -2548,10 +2480,6 @@
       ],
       "description": "Summoner cường hóa đơn vị triệu hồi của mình theo nhiều cách.\n\nYorick: +?% Máu\nAzir: +?% Sát Thương\nRaptor: +?% Sát Thương\nZyra: +? Đòn Đánh của Cây",
       "effects": [
-        {
-          "count": "(2)\nTriệu hồi cường hóa",
-          "text": "(3)\nCải thiện mỗi hiệu ứng thêm 50%"
-        },
         {
           "count": "(2)",
           "text": "Triệu hồi cường hóa"
@@ -2599,10 +2527,6 @@
       "description": "Đội của bạn nhận ?% Sức Mạnh Phép Thuật. Spellweaver nhận nhiều hơn và nhận thêm Sức Mạnh Phép Thuật mỗi khi một Spellweaver tung Kỹ Năng.",
       "effects": [
         {
-          "count": "(2)\n?% Sức Mạnh Phép Thuật, +?% mỗi lần tung chiêu",
-          "text": "(4)\n?% Sức Mạnh Phép Thuật, +?% mỗi lần tung chiêu"
-        },
-        {
           "count": "(2)",
           "text": "?% Sức Mạnh Phép Thuật, +?% mỗi lần tung chiêu"
         },
@@ -2644,10 +2568,6 @@
       ],
       "description": "Thợ Săn nhận Sức Mạnh Công Kích. Nếu không đổi mục tiêu trong ? giây, họ nhận ?% Khuếch Đại Sát Thương.",
       "effects": [
-        {
-          "count": "(2)\n?% Sức Mạnh Công Kích",
-          "text": "(3)\n?% Sức Mạnh Công Kích"
-        },
         {
           "count": "(2)",
           "text": "?% Sức Mạnh Công Kích"
@@ -2699,10 +2619,6 @@
       "description": "Khi bắt đầu chiến đấu và sau khi giảm xuống dưới ?% Máu, Tiên phong nhận được Khiên Máu tối đa cho ? giây.",
       "effects": [
         {
-          "count": "(2)\n?% Máu tối đa",
-          "text": "(4)\n?% Máu tối đa"
-        },
-        {
           "count": "(2)",
           "text": "?% Máu tối đa"
         },
@@ -2744,10 +2660,6 @@
       ],
       "description": "Đội của bạn nhận ?% Tốc Độ Đánh. Tướng Rapidfire nhận thêm sau mỗi đòn đánh, cộng dồn tối đa ? lần.",
       "effects": [
-        {
-          "count": "(2)\n+?% mỗi lần tấn công",
-          "text": "(3)\n+?% mỗi lần tấn công"
-        },
         {
           "count": "(2)",
           "text": "+?% mỗi lần tấn công"
@@ -2795,10 +2707,6 @@
       "description": "Chính Xác: Sát thương Kỹ Năng có thể chí mạng. Chính Xác dư thừa cho 10% Sát Thương Chí Mạng.",
       "effects": [
         {
-          "count": "(2)\nKẻ hành quyết đạt được Độ chính xác và ?% Cơ hội tấn công chí mạng.",
-          "text": "(3)\nNgoài ra, kẻ địch Chảy Máu, chịu thêm ?% sát thương chuẩn trong ? giây."
-        },
-        {
           "count": "(2)",
           "text": "Kẻ hành quyết đạt được Độ chính xác và ?% Cơ hội tấn công chí mạng."
         },
@@ -2845,10 +2753,6 @@
       "description": "Đội của bạn nhận ?% Máu tối đa. Đấu Sĩ nhận nhiều hơn.",
       "effects": [
         {
-          "count": "(2)\n?% Máu",
-          "text": "(4)\n?% Máu"
-        },
-        {
           "count": "(2)",
           "text": "?% Máu"
         },
@@ -2875,7 +2779,12 @@
         "Địa ngục",
         "Bộ chuyển đổi",
         "Kẻ tàn phá"
-      ]
+      ],
+      "skill_name": "Cú đánh Kunai",
+      "skill_image": "Akali.webp",
+      "status": "Đang hoạt động",
+      "mana": "0 / 30",
+      "description": "Thích Nghi (Sức Mạnh Công Kích): Ném một loạt kunai vào mục tiêu, gây ? sát thương vật lý. Nếu mục tiêu đang bị Thiêu Đốt, gây thêm ? sát thương.\n\nThích Nghi (Sức Mạnh Phép Thuật): Nếu Kỹ Năng hạ gục mục tiêu, tung chiêu thêm một lần nữa."
     },
     {
       "stt": 2,
@@ -2887,7 +2796,12 @@
       "traits": [
         "Giao ước",
         "Kẻ tàn phá"
-      ]
+      ],
+      "skill_name": "Quét phòng thủ",
+      "skill_image": "Camille.webp",
+      "status": "Đang hoạt động",
+      "mana": "0 / 25",
+      "description": "Chém mục tiêu, gây ? sát thương vật lý và nhận ? Lá Chắn trong ? giây."
     },
     {
       "stt": 3,
@@ -2899,7 +2813,12 @@
       "traits": [
         "Riftbeast",
         "Thợ săn"
-      ]
+      ],
+      "skill_name": "Lá dao cạo",
+      "skill_image": "Cinderling.webp",
+      "status": "Đang hoạt động",
+      "mana": "0 / 50",
+      "description": "Triệu hồi 5 chiếc lá sắc bén hội tụ vào mục tiêu hiện tại, gây tổng cộng ? sát thương vật lý và áp dụng ?% Vết Thương cùng ?% Thiêu Đốt trong ? giây.\n\nHiệu ứng Scarlet: Cinderling nhận ?% Sức Mạnh Công Kích sau mỗi lần tung chiêu.\n\nVết Thương: Giảm lượng hồi máu nhận vào.\nThiêu Đốt: Mỗi giây gây sát thương chuẩn theo phần trăm Máu tối đa của mục tiêu."
     },
     {
       "stt": 4,
@@ -2911,7 +2830,12 @@
       "traits": [
         "Hoa",
         "Phép thuật"
-      ]
+      ],
+      "skill_name": "Mối ràng buộc nghiệp chướng",
+      "skill_image": "Karma.webp",
+      "status": "Đang hoạt động",
+      "mana": "0 / 40",
+      "description": "Liên kết mục tiêu hiện tại, gây ? sát thương phép trong ? giây. Sau đó giải phóng một luồng sức mạnh quanh chúng, gây ? sát thương phép lên toàn bộ kẻ địch trong bán kính ? ô và Làm Chậm chúng ?% trong ? giây.\n\nLàm Chậm: Giảm Tốc Độ Đánh"
     },
     {
       "stt": 5,
@@ -2923,7 +2847,12 @@
       "traits": [
         "Sprykin",
         "Đấu sĩ"
-      ]
+      ],
+      "skill_name": "Vũ điệu cuộc sống",
+      "skill_image": "Kobuko.webp",
+      "status": "Đang hoạt động",
+      "mana": "30 / 90",
+      "description": "Hồi ? Máu trong ? giây. Đòn đánh tiếp theo được thay bằng một cú đập gây ? sát thương phép."
     },
     {
       "stt": 6,
@@ -2935,7 +2864,12 @@
       "traits": [
         "Năng lượng mặt trời",
         "Hậu vệ"
-      ]
+      ],
+      "skill_name": "Khiên chắn",
+      "skill_image": "Leona.webp",
+      "status": "Đang hoạt động",
+      "mana": "40 / 100",
+      "description": "Nội Tại: Bắt đầu giao tranh với ? Giáp và Kháng Phép cộng thêm, giảm dần trong ? giây.\n\nKích Hoạt: Đập vào mục tiêu hiện tại, gây ? sát thương phép và Làm Choáng chúng trong ? giây."
     },
     {
       "stt": 7,
@@ -2947,7 +2881,12 @@
       "traits": [
         "Gỗ Elderwood",
         "Hậu vệ"
-      ]
+      ],
+      "skill_name": "Hơi thở",
+      "skill_image": "Ornn.webp",
+      "status": "Đang hoạt động",
+      "mana": "40 / 100",
+      "description": "Kích Hoạt: Nhận ? Lá Chắn trong ? giây và gây ? sát thương phép lên kẻ địch trong vùng hình nón.\n\nNhiệm Vụ: Sau mỗi giao tranh với người chơi, Ornn tích trữ sát thương chặn được thành Sức Mạnh Rèn, tăng gấp đôi ở 3 sao. Nhận một Đe Tạo Tác khi Sức Mạnh Rèn lần đầu đạt ?. (Sức Mạnh Rèn: ? | ?)"
     },
     {
       "stt": 8,
@@ -2960,7 +2899,12 @@
         "Fae",
         "Dũng sĩ",
         "Tiên phong"
-      ]
+      ],
+      "skill_name": "Điệu nhảy mê hoặc",
+      "skill_image": "Rakan.webp",
+      "status": "Đang hoạt động",
+      "mana": "20 / 90",
+      "description": "Nhận ? Lá Chắn trong ? giây. Sau đó cho đồng minh đã gây nhiều sát thương nhất trong giao tranh này ?% Tốc Độ Đánh, giảm dần trong ? giây."
     },
     {
       "stt": 9,
@@ -2972,7 +2916,12 @@
       "traits": [
         "Eldritch",
         "Đấu sĩ"
-      ]
+      ],
+      "skill_name": "Nhổ gốc",
+      "skill_image": "RekSai.webp",
+      "status": "Đang hoạt động",
+      "mana": "40 / 100",
+      "description": "Nội Tại: Hồi ? Máu mỗi giây, tăng gấp ba trong ? giây sau khi tung chiêu.\n\nKích Hoạt: Lao lên khỏi mặt đất, Làm Choáng kẻ địch liền kề trong ? giây và gây ? sát thương phép lên chúng."
     },
     {
       "stt": 10,
@@ -2984,7 +2933,12 @@
       "traits": [
         "Riftbeast",
         "Người triệu hồi"
-      ]
+      ],
+      "skill_name": "Laser xanh",
+      "skill_image": "Pebbles.webp",
+      "status": "Đang hoạt động",
+      "mana": "0 / 55",
+      "description": "Bắt đầu tiêu hao ?% Năng Lượng tối đa mỗi giây và niệm tia laser vào mục tiêu. Mỗi giây niệm, gây ? sát thương phép và giảm Kháng Phép của mục tiêu đi ?.\n\nBùa Xanh Mòng Két: Nhận ? Hồi Năng Lượng với mỗi ? giây niệm."
     },
     {
       "stt": 11,
@@ -2996,7 +2950,12 @@
       "traits": [
         "Địa ngục",
         "Tốc độ nhanh"
-      ]
+      ],
+      "skill_name": "Mũi tên xuyên thấu",
+      "skill_image": "Varus.webp",
+      "status": "Đang hoạt động",
+      "mana": "30 / 110",
+      "description": "Vận sức, sau đó bắn một mũi tên theo đường thẳng xuyên qua mục tiêu về phía có nhiều kẻ địch nhất. Gây ? sát thương vật lý lên kẻ địch trúng đòn, giảm ?% với mỗi kẻ địch xuyên qua (tối thiểu ?%)."
     },
     {
       "stt": 12,
@@ -3009,7 +2968,12 @@
         "Eldritch",
         "Sprykin",
         "Phép thuật"
-      ]
+      ],
+      "skill_name": "Vụ nổ nguyên thủy",
+      "skill_image": "Veigar.webp",
+      "status": "Đang hoạt động",
+      "mana": "0 / 30",
+      "description": "Phóng một luồng năng lượng khổng lồ vào mục tiêu, gây ? sát thương phép, tăng lên ? nếu chúng dưới ?% Máu tối đa.\n\nNếu mục tiêu chết, nhận vĩnh viễn ?% Sức Mạnh Phép Thuật.\n\nThưởng hiện tại: ?%"
     },
     {
       "stt": 13,
@@ -3022,7 +2986,12 @@
         "Gỗ Elderwood",
         "Fae",
         "Tốc độ nhanh"
-      ]
+      ],
+      "skill_name": "Bộ lông chết người",
+      "skill_image": "Xayah.webp",
+      "status": "Đang hoạt động",
+      "mana": "0 / 50",
+      "description": "Nhận ?% Tốc Độ Đánh cho ? đòn đánh tiếp theo. Các đòn đánh này được thay bằng lông vũ gây ? sát thương vật lý và giảm Giáp đi ?."
     },
     {
       "stt": 14,
@@ -3035,7 +3004,12 @@
         "Hoa",
         "Dũng sĩ",
         "Người triệu hồi"
-      ]
+      ],
+      "skill_name": "Nghi thức cuối cùng",
+      "skill_image": "Yorick.webp",
+      "status": "Đang hoạt động",
+      "mana": "50 / 110",
+      "description": "Nội Tại: Khi chết, triệu hồi một Spirit Walker có ? Máu tối đa.\n\nKích Hoạt: Hồi ? Máu và đánh vào mục tiêu, gây ? sát thương vật lý."
     },
     {
       "stt": 15,
@@ -3047,7 +3021,12 @@
       "traits": [
         "Gỗ Elderwood",
         "Đấu sĩ"
-      ]
+      ],
+      "skill_name": "Tiếng Gầm Chiến Thắng",
+      "skill_image": "Alistar.webp",
+      "status": "Đang hoạt động",
+      "mana": "30 / 90",
+      "description": "Gầm lên, hồi ? Máu, hóa giải hiệu ứng khống chế và hồi ? Máu cho 2 đồng minh có phần trăm Máu thấp nhất. Sau đó đập vào mục tiêu hiện tại, gây ? sát thương phép và Làm Choáng chúng trong ? giây."
     },
     {
       "stt": 16,
@@ -3059,7 +3038,12 @@
       "traits": [
         "Giao ước",
         "Thợ săn"
-      ]
+      ],
+      "skill_name": "Cú đánh đầu",
+      "skill_image": "Caitlyn.webp",
+      "status": "Đang hoạt động",
+      "mana": "0 / 3",
+      "description": "Nội Tại: Mỗi đòn đánh thứ ba được thay bằng một phát Bắn Xuyên Táo gây ? sát thương vật lý."
     },
     {
       "stt": 17,
@@ -3071,7 +3055,12 @@
       "traits": [
         "Riftbeast",
         "Dũng sĩ"
-      ]
+      ],
+      "skill_name": "Bạn có thể đào được nó không?",
+      "skill_image": "Scuttlecrab.webp",
+      "status": "Đang hoạt động",
+      "mana": "40 / 100",
+      "description": "Nội Tại: Đòn đánh được thay bằng một điệu nhảy gây ? sát thương vật lý lên toàn bộ kẻ địch liền kề.\n\nKích Hoạt: Đào xuống đất, nhận ?% Chống Chịu trong ? giây và hồi ? Máu trong thời gian hiệu lực.\n\nBùa Xanh Lá: Khi đồng minh xuống dưới ?% Máu, họ hồi ?% Máu tối đa."
     },
     {
       "stt": 18,
@@ -3083,7 +3072,12 @@
       "traits": [
         "Giao ước",
         "Tiên phong"
-      ]
+      ],
+      "skill_name": "Nữ hoàng nhện",
+      "skill_image": "Elise.webp",
+      "status": "Đang hoạt động",
+      "mana": "20 / 70",
+      "description": "Biến thành nhện và nhận ? Máu tối đa. Đòn đánh khi ở Dạng Nhện gây thêm ? sát thương phép và hồi ?. Các lần tung chiêu tiếp theo cho ?% Tốc Độ Đánh, giảm dần trong ? giây."
     },
     {
       "stt": 19,
@@ -3095,7 +3089,12 @@
       "traits": [
         "Riftbeast",
         "Bộ chuyển đổi"
-      ]
+      ],
+      "skill_name": "Bong bóng bụng",
+      "skill_image": "Gromp.webp",
+      "status": "Đang hoạt động",
+      "mana": "0 / 45",
+      "description": "Thích Nghi (Sức Mạnh Phép Thuật): Phun bong bóng độc vào mục tiêu hiện tại, phát nổ khi trúng kẻ địch đầu tiên và gây ? sát thương phép. Kẻ địch trong bán kính 1 ô của vụ nổ chịu ? sát thương phép trong ? giây.\n\nThích Nghi (Sức Mạnh Công Kích): Làm Chậm mạnh mục tiêu.\n\nBùa Tím: Mỗi ? giây, Gromp nhận ?% Sức Mạnh Phép Thuật."
     },
     {
       "stt": 20,
@@ -3107,7 +3106,12 @@
       "traits": [
         "Năng lượng mặt trời",
         "Tốc độ nhanh"
-      ]
+      ],
+      "skill_name": "Sự phán xét của mặt trời",
+      "skill_image": "Kayle.webp",
+      "status": "Bị động",
+      "mana": "",
+      "description": "Nội tại: Kayle thăng hoa theo cấp sao và nhận thêm các hiệu ứng cộng dồn.\n\nThăng Hoa lần 1: Đòn đánh gây thêm ? sát thương phép.\nThăng Hoa lần 2: Đòn đánh áp dụng ?% Phân Tách Kháng Phép lên kẻ địch trúng đòn trong ? giây.\nThăng Hoa lần 3: Đòn đánh phóng ra sóng năng lượng, gây ? sát thương phép lên mọi đơn vị khác trúng phải.\nThăng Hoa lần 4: Nhận tầm đánh vô hạn. Mỗi làn sóng thứ ? sẽ lớn hơn nhiều.\n\nPhân Tách Kháng Phép: Giảm Kháng Phép."
     },
     {
       "stt": 21,
@@ -3119,7 +3123,12 @@
       "traits": [
         "Gỗ Elderwood",
         "Phép thuật"
-      ]
+      ],
+      "skill_name": "Hình ảnh phản chiếu",
+      "skill_image": "LeBlanc.webp",
+      "status": "Đang hoạt động",
+      "mana": "0 / 40",
+      "description": "Nội Tại: Sau giao tranh với người chơi, LeBlanc mạnh nhất có ?% cơ hội tạo một bản sao của đồng minh trên bàn đấu, tăng ?% với mỗi lần hạ gục.\n\nKích Hoạt: Phóng ảnh phản chiếu vào mục tiêu hiện tại, gây ? sát thương phép và ? lên kẻ địch liền kề."
     },
     {
       "stt": 22,
@@ -3131,7 +3140,12 @@
       "traits": [
         "Riftbeast",
         "Kẻ tàn phá"
-      ]
+      ],
+      "skill_name": "Móng vuốt xé rách",
+      "skill_image": "Murkwolf.webp",
+      "status": "Đang hoạt động",
+      "mana": "0 / 40",
+      "description": "Nhảy tới kẻ địch có Máu thấp nhất trong phạm vi ? ô và gây ? sát thương vật lý. ? đòn đánh tiếp theo gây thêm ? sát thương vật lý.\n\nBùa Xám: Nhận Chính Xác và ?% Tỉ Lệ Chí Mạng, tăng tối đa đến ?% dựa trên lượng Máu đã mất."
     },
     {
       "stt": 23,
@@ -3143,7 +3157,12 @@
       "traits": [
         "Năng lượng mặt trời",
         "Dũng sĩ"
-      ]
+      ],
+      "skill_name": "Sự phẫn nộ của mặt trời",
+      "skill_image": "Sejuani.webp",
+      "status": "Đang hoạt động",
+      "mana": "40 / 90",
+      "description": "Nhận ? Lá Chắn trong ? giây. Sau đó quét vùng hình nón, gây ? sát thương phép, rồi đánh theo đường thẳng, gây ? sát thương phép lên kẻ địch trúng đòn."
     },
     {
       "stt": 24,
@@ -3155,7 +3174,12 @@
       "traits": [
         "Địa ngục",
         "Hậu vệ"
-      ]
+      ],
+      "skill_name": "Rào chắn Ki",
+      "skill_image": "Shen.webp",
+      "status": "Đang hoạt động",
+      "mana": "30 / 90",
+      "description": "Cho Shen và một đồng minh thấp Máu ở gần ? Lá Chắn trong ? giây. ? đòn đánh tiếp theo của cả hai nhận ?% Tốc Độ Đánh và gây thêm ? sát thương phép."
     },
     {
       "stt": 25,
@@ -3167,7 +3191,12 @@
       "traits": [
         "Sprykin",
         "Người triệu hồi"
-      ]
+      ],
+      "skill_name": "Nấm Trong Chúng Ta",
+      "skill_image": "Teemo.webp",
+      "status": "Đang hoạt động",
+      "mana": "0 / 50",
+      "description": "Ném 2 cụm nấm gây ? sát thương phép lên ? kẻ địch gần nhất. Sau đó ném một cây nấm khổng lồ gây ? sát thương phép lên mục tiêu.\n\nMỗi lần tung chiêu có ?% cơ hội hái thêm một cây nấm, có thể nhặt để nhận hiệu ứng thưởng.\n\nĐỏ: ? lần Đổi Lại (Đỏ đã hái: ?)\nXanh Lá: ? Máu Linh Thú (Xanh Lá đã hái: ?)\nVàng: ? XP (Vàng đã hái: ?)"
     },
     {
       "stt": 26,
@@ -3179,7 +3208,12 @@
       "traits": [
         "Eldritch",
         "Kẻ tàn phá"
-      ]
+      ],
+      "skill_name": "Hàm của Quái Vật",
+      "skill_image": "Warwick.webp",
+      "status": "Đang hoạt động",
+      "mana": "0 / 40",
+      "description": "Cắn mục tiêu hiện tại, gây ? sát thương vật lý và hồi Máu bằng ?% sát thương đã gây ra. Nhận ?% Tốc Độ Đánh trong phần còn lại của giao tranh."
     },
     {
       "stt": 27,
@@ -3191,7 +3225,12 @@
       "traits": [
         "Hoa",
         "Đao phủ"
-      ]
+      ],
+      "skill_name": "Tu luyện tinh thần",
+      "skill_image": "Yunara.webp",
+      "status": "Đang hoạt động",
+      "mana": "0 / 35",
+      "description": "Lướt đi, sau đó phóng một quả cầu vào mục tiêu hiện tại, gây ? sát thương vật lý. Quả cầu phân tách, gây ? sát thương vật lý lên ? kẻ địch gần đó."
     },
     {
       "stt": 28,
@@ -3204,7 +3243,12 @@
         "Eldritch",
         "Đao phủ",
         "Người triệu hồi"
-      ]
+      ],
+      "skill_name": "Đứng dậy!",
+      "skill_image": "Azir.webp",
+      "status": "Đang hoạt động",
+      "mana": "0 / 35",
+      "description": "Nhận ?% Tốc Độ Đánh và triệu hồi ? binh sĩ cho ? đòn đánh tiếp theo. Các đòn đánh này được thay bằng mệnh lệnh khiến mỗi binh sĩ gây ? sát thương phép mỗi đòn."
     },
     {
       "stt": 29,
@@ -3216,7 +3260,12 @@
       "traits": [
         "Giao ước",
         "Phép thuật"
-      ]
+      ],
+      "skill_name": "Vụ nổ độc hại",
+      "skill_image": "Cassiopeia.webp",
+      "status": "Đang hoạt động",
+      "mana": "0 / 30",
+      "description": "Đầu độc mục tiêu và kẻ địch gần nhất chưa nhiễm độc, gây ? sát thương phép trong ? giây. Độc có thể cộng dồn."
     },
     {
       "stt": 30,
@@ -3229,7 +3278,12 @@
         "Riftbeast",
         "Người triệu hồi",
         "Tốc độ nhanh"
-      ]
+      ],
+      "skill_name": "Đàn Bạn",
+      "skill_image": "Raptor.webp",
+      "status": "Đang hoạt động",
+      "mana": "40 / 80",
+      "description": "Triệu hồi 4 Tinybeak không thể bị nhắm tới ở gần trong ? giây. Mỗi khi Raptor tấn công, Tinybeak đánh cùng mục tiêu và gây ? sát thương vật lý.\n\nBùa Cam: Gây sát thương vật lý sẽ giảm Giáp của kẻ địch đi ?."
     },
     {
       "stt": 31,
@@ -3242,7 +3296,12 @@
         "Mặt trăng",
         "Kẻ tàn phá",
         "Tiên phong"
-      ]
+      ],
+      "skill_name": "Rào chắn nhợt nhạt",
+      "skill_image": "Diana.webp",
+      "status": "Đang hoạt động",
+      "mana": "0 / 40",
+      "description": "Nhận ? Lá Chắn trong ? giây và phóng cầu ánh trăng tới ? kẻ địch gần nhất, gây ? sát thương phép."
     },
     {
       "stt": 32,
@@ -3255,7 +3314,12 @@
         "Hệ thực vật Fatalis",
         "Hậu vệ",
         "Phép thuật"
-      ]
+      ],
+      "skill_name": "Thu hoạch",
+      "skill_image": "Fiddlesticks.webp",
+      "status": "Đang hoạt động",
+      "mana": "30 / 90",
+      "description": "Giảm Kháng Phép của ? kẻ địch gần nhất đi ?. Sau đó hút sinh lực của chúng trong ? giây, hồi ? Máu và gây ? sát thương phép lên mỗi kẻ địch trong thời gian hiệu lực."
     },
     {
       "stt": 33,
@@ -3267,7 +3331,12 @@
       "traits": [
         "Gỗ Elderwood",
         "Tiên phong"
-      ]
+      ],
+      "skill_name": "Linh hồn kinh hoàng",
+      "skill_image": "Hecarim.webp",
+      "status": "Đang hoạt động",
+      "mana": "30 / 110",
+      "description": "Nhận ? Giáp và Kháng Phép trong 3 giây, đồng thời hồi ? Máu trong thời gian này. Phóng kỵ sĩ linh hồn vào ? kẻ địch gần nhất, gây ? sát thương phép và Làm Choáng chúng trong ? giây."
     },
     {
       "stt": 34,
@@ -3278,7 +3347,12 @@
       "cost": "3",
       "traits": [
         "Đối thủ"
-      ]
+      ],
+      "skill_name": "Nếm thử nỗi sợ hãi của họ",
+      "skill_image": "KhaZix.webp",
+      "status": "Đang hoạt động",
+      "mana": "0 / 25",
+      "description": "Nhảy tới kẻ địch xa nhất trong phạm vi ? ô, gây ? sát thương phép. Nếu chúng không có đồng minh liền kề, gây ? sát thương phép thay thế và nhận ? Năng Lượng."
     },
     {
       "stt": 35,
@@ -3291,7 +3365,12 @@
         "Ăn da",
         "Người triệu hồi",
         "Bộ chuyển đổi"
-      ]
+      ],
+      "skill_name": "Mưa pháo binh",
+      "skill_image": "KogMaw.webp",
+      "status": "Đang hoạt động",
+      "mana": "15 / 60",
+      "description": "Thích Nghi (Sức Mạnh Công Kích): Phóng axit vào 2 kẻ địch gần nhất, gây ? sát thương vật lý. Kẻ địch dưới ?% Máu tối đa chịu ? sát thương vật lý thay thế.\n\nThích Nghi (Sức Mạnh Phép Thuật): Gây sát thương lên kẻ địch theo thời gian."
     },
     {
       "stt": 36,
@@ -3303,7 +3382,12 @@
       "traits": [
         "Riftbeast",
         "Đấu sĩ"
-      ]
+      ],
+      "skill_name": "Rock and Roll",
+      "skill_image": "Krug.webp",
+      "status": "Đang hoạt động",
+      "mana": "80 / 135",
+      "description": "Nội Tại: Khi chết, tách thành 2 Kruglette có ? Máu.\n\nKích Hoạt: Nhận ? Máu tối đa, sau đó lăn vào mục tiêu, gây ? sát thương.\n\nBùa Đá Phiến: Khi Krug hoặc Kruglette chết, chúng tạo Lá Chắn cho đồng minh bằng ?% Máu tối đa."
     },
     {
       "stt": 37,
@@ -3315,7 +3399,12 @@
       "traits": [
         "Hoa",
         "Bộ chuyển đổi"
-      ]
+      ],
+      "skill_name": "Phong cách Wuju",
+      "skill_image": "MasterYi.webp",
+      "status": "Đang hoạt động",
+      "mana": "0 / 3",
+      "description": "Nội Tại: Mỗi đòn đánh thứ ba là Song Kích, đánh hai lần. Khi hạ gục, nhận một lượng lớn Tốc Độ Di Chuyển trong thoáng chốc.\n\nThích Nghi (Sức Mạnh Công Kích): Song Kích cho ?% Tốc Độ Đánh cộng dồn.\n\nThích Nghi (Sức Mạnh Phép Thuật): Song Kích gây thêm sát thương và hồi Máu."
     },
     {
       "stt": 38,
@@ -3327,7 +3416,12 @@
       "traits": [
         "Sprykin",
         "Hậu vệ"
-      ]
+      ],
+      "skill_name": "Cú xoáy bóng phòng thủ",
+      "skill_image": "Rammus.webp",
+      "status": "Đang hoạt động",
+      "mana": "30 / 80",
+      "description": "Khiêu Khích, buộc kẻ địch tấn công tướng này. Trong ? giây, nhận ? Lá Chắn cùng ? Giáp và Kháng Phép.\n\nKhi Lá Chắn vỡ, gây ? sát thương vật lý lên kẻ địch trong phạm vi ? ô."
     },
     {
       "stt": 39,
@@ -3338,7 +3432,12 @@
       "cost": "3",
       "traits": [
         "Đối thủ"
-      ]
+      ],
+      "skill_name": "dã man",
+      "skill_image": "Rengar.webp",
+      "status": "Đang hoạt động",
+      "mana": "10 / 50",
+      "description": "Nhảy tới kẻ địch có phần trăm Máu thấp nhất trong phạm vi ? ô và đâm chúng, gây ? sát thương vật lý. Sau đó hồi Máu bằng ?% lượng Máu mục tiêu đã mất."
     },
     {
       "stt": 40,
@@ -3351,7 +3450,12 @@
         "Fae",
         "Sprykin",
         "Thợ săn"
-      ]
+      ],
+      "skill_name": "Chất nổ",
+      "skill_image": "Tristana.webp",
+      "status": "Đang hoạt động",
+      "mana": "0 / 60",
+      "description": "Gắn một khối thuốc nổ lên mục tiêu trong ? giây. Trong thời gian hiệu lực, nhận tầm đánh vô hạn và ?% Tốc Độ Đánh. Khi hết thời gian, khối thuốc nổ phát nổ và chia sát thương cho toàn bộ kẻ địch trong phạm vi 2 ô, gây ? sát thương vật lý + ? với mỗi đòn đánh khi đang tung chiêu.\n\nNếu kẻ địch mang thuốc nổ chết, khối thuốc nổ sẽ chuyển sang mục tiêu mới của Tristana."
     },
     {
       "stt": 41,
@@ -3363,7 +3467,12 @@
       "traits": [
         "Nguyên thủy",
         "Dũng sĩ"
-      ]
+      ],
+      "skill_name": "Nắm đấm giận dữ",
+      "skill_image": "Vi.webp",
+      "status": "Đang hoạt động",
+      "mana": "0 / 60",
+      "description": "Nội Tại: Khi tấn công, hồi ? Máu.\n\nKích Hoạt: Cất tiếng gầm nguyên thủy, hồi ? Máu. Sau đó nhận ?% Tốc Độ Đánh, ?% Chống Chịu và miễn nhiễm khống chế trong ? giây."
     },
     {
       "stt": 42,
@@ -3375,7 +3484,12 @@
       "traits": [
         "Hoa",
         "Phép thuật"
-      ]
+      ],
+      "skill_name": "Bom thần",
+      "skill_image": "Ahri.webp",
+      "status": "Đang hoạt động",
+      "mana": "20 / 100",
+      "description": "Phóng bom linh hồn vào mục tiêu trong phạm vi ? ô có nhiều kẻ địch xung quanh nhất. Gây ? sát thương phép lên kẻ địch trong bán kính ? ô, giảm ?% với mỗi ô cách xa tâm vụ nổ."
     },
     {
       "stt": 43,
@@ -3387,7 +3501,12 @@
       "traits": [
         "Địa ngục",
         "Dũng sĩ"
-      ]
+      ],
+      "skill_name": "Cơn giận dữ",
+      "skill_image": "Amumu.webp",
+      "status": "Đang hoạt động",
+      "mana": "30 / 140",
+      "description": "Nội Tại: Mỗi giây, hồi ? Máu và gây ? sát thương phép lên kẻ địch trong phạm vi ? ô.\n\nKích Hoạt: Gây ? sát thương phép lên kẻ địch trong phạm vi ? ô và Làm Choáng chúng trong ? giây, tăng lên ? giây nếu mục tiêu đang bị Thiêu Đốt.\n\nThiêu Đốt: Mỗi giây gây sát thương chuẩn theo phần trăm Máu tối đa của mục tiêu."
     },
     {
       "stt": 44,
@@ -3399,7 +3518,12 @@
       "traits": [
         "Mặt trăng",
         "Tốc độ nhanh"
-      ]
+      ],
+      "skill_name": "Ánh trăng tấn công",
+      "skill_image": "Aphelios.webp",
+      "status": "Đang hoạt động",
+      "mana": "0 / 60",
+      "description": "Trang bị Severum và chém mục tiêu ? lần trong ? giây, mỗi lần gây ? + ?% Máu tối đa thành sát thương vật lý.\n\nSau khi kết thúc đợt tấn công, bắn một luồng năng lượng gây ? sát thương vật lý chia đều cho mọi kẻ địch trong bán kính 2 ô."
     },
     {
       "stt": 45,
@@ -3411,7 +3535,12 @@
       "traits": [
         "Riftbeast",
         "Kẻ tàn phá"
-      ]
+      ],
+      "skill_name": "Cơn thịnh nộ đỏ thẫm",
+      "skill_image": "Brambleback.webp",
+      "status": "Đang hoạt động",
+      "mana": "0 / 40",
+      "description": "Nội Tại: Khi mục tiêu chết, nhảy tới mục tiêu tiếp theo, gây ? sát thương vật lý.\n\nKích Hoạt: Nhận ?% Sức Mạnh Công Kích trong ? giây. Trong thời gian này, bỏ qua ?% Giáp.\n\nBùa Đỏ: Đòn đánh gây ?% Thiêu Đốt lên kẻ địch và hồi cho Brambleback ?% Máu tối đa."
     },
     {
       "stt": 46,
@@ -3423,7 +3552,12 @@
       "traits": [
         "Gỗ Elderwood",
         "Đao phủ"
-      ]
+      ],
+      "skill_name": "Sự phẫn nộ của thiên nhiên",
+      "skill_image": "Ezreal.webp",
+      "status": "Đang hoạt động",
+      "mana": "0 / 30",
+      "description": "Dịch chuyển ra xa mục tiêu hiện tại, gây ? sát thương vật lý lên chúng và nhận ?% Tốc Độ Đánh.\n\nMỗi lần tung chiêu thứ 5 sẽ tiêu hao Tốc Độ Đánh nhận từ Nature's Wrath và bắn một luồng năng lượng xuyên qua mục tiêu, gây ? sát thương vật lý, giảm ?% với mỗi kẻ địch đi qua (tối thiểu ?%)."
     },
     {
       "stt": 47,
@@ -3435,7 +3569,12 @@
       "traits": [
         "Fae",
         "Hậu vệ"
-      ]
+      ],
+      "skill_name": "Bài hát ru êm dịu",
+      "skill_image": "Lillia.webp",
+      "status": "Đang hoạt động",
+      "mana": "50 / 150",
+      "description": "Hồi ? Máu và phóng ? cánh bướm vào kẻ địch gần đó. Kẻ địch trúng đòn chịu ? sát thương phép và Ngủ trong ? giây. Nếu chịu ? sát thương, chúng thức dậy và nhận thêm ?% Máu tối đa thành sát thương phép."
     },
     {
       "stt": 48,
@@ -3448,7 +3587,12 @@
         "Riftbeast",
         "Tiên phong",
         "Người triệu hồi"
-      ]
+      ],
+      "skill_name": "Sóng xung kích Azure",
+      "skill_image": "AncientSentinel.webp",
+      "status": "Đang hoạt động",
+      "mana": "50 / 140",
+      "description": "Nhận ? Lá Chắn trong ? giây. Đập mạnh xuống đất, tạo vết nứt về hướng có nhiều kẻ địch nhất. Kẻ địch trúng đòn bị Hất Tung thoáng chốc, chịu ? sát thương phép và bị Tăng Tiêu Hao Năng Lượng thêm ?.\n\nBùa Xanh: Mỗi khi Vệ Binh tung chiêu, đồng minh nhận ? Hồi Năng Lượng.\n\nTăng Tiêu Hao Năng Lượng: Tăng Năng Lượng tiêu hao của lần dùng Kỹ Năng tiếp theo."
     },
     {
       "stt": 49,
@@ -3460,7 +3604,12 @@
       "traits": [
         "Eldritch",
         "Đá nguyên khối"
-      ]
+      ],
+      "skill_name": "Vỏ cây hóa đá",
+      "skill_image": "Malphite.webp",
+      "status": "Đang hoạt động",
+      "mana": "30 / 80",
+      "description": "Nhận ? Lá Chắn trong ? giây và hóa đá. Khi Lá Chắn vỡ, giải phóng một làn sóng năng lượng hắc ám, gây ? sát thương phép lên kẻ địch trong phạm vi ? ô."
     },
     {
       "stt": 50,
@@ -3472,7 +3621,12 @@
       "traits": [
         "Giao ước",
         "Người triệu hồi"
-      ]
+      ],
+      "skill_name": "Lời nguyền héo úa",
+      "skill_image": "Morgana.webp",
+      "status": "Đang hoạt động",
+      "mana": "0 / 60",
+      "description": "Nội Tại: Nhận ?% Hút Máu Toàn Phần.\n\nKích Hoạt: Bắn luồng năng lượng hắc ám vào ? kẻ địch gần đó, gây ? sát thương phép và nguyền rủa chúng trong ? giây. Sau đó tạo một vùng héo úa rộng ? ô trong cùng thời gian, gây ? sát thương phép mỗi giây. Kẻ địch bị nguyền rủa chịu thêm ? sát thương với mỗi lời nguyền."
     },
     {
       "stt": 51,
@@ -3484,7 +3638,12 @@
       "traits": [
         "Nguyên thủy",
         "Bộ chuyển đổi"
-      ]
+      ],
+      "skill_name": "Ném lao",
+      "skill_image": "Nidalee.webp",
+      "status": "Đang hoạt động",
+      "mana": "0 / 40",
+      "description": "Thích Nghi (Sức Mạnh Phép Thuật): Nhận ?% Tốc Độ Đánh cho ? đòn đánh tiếp theo. Các đòn đánh này được thay bằng lao gây ? sát thương phép. Đòn đánh thứ 3 nhắm vào kẻ địch xa nhất có ít Trang Bị nhất và gây ? sát thương phép.\n\nThích Nghi (Sức Mạnh Công Kích): Biến thành Báo Sư Tử cận chiến, cào xé kẻ địch."
     },
     {
       "stt": 52,
@@ -3496,7 +3655,12 @@
       "traits": [
         "Hoa",
         "Đấu sĩ"
-      ]
+      ],
+      "skill_name": "Thợ làm cỏ",
+      "skill_image": "Sett.webp",
+      "status": "Đang hoạt động",
+      "mana": "60 / 150",
+      "description": "Nội Tại: Lần đầu xuống dưới ?% Máu tối đa trong mỗi giao tranh, nhận 100 Năng Lượng.\n\nKích Hoạt: Vận sức tung một cú đấm lớn, nhanh chóng hồi ? Máu trước khi gây ? sát thương vật lý trong vùng hình nón lớn."
     },
     {
       "stt": 53,
@@ -3508,7 +3672,12 @@
       "traits": [
         "Nguyên thủy",
         "Thợ săn"
-      ]
+      ],
+      "skill_name": "Lưỡi Boomerang",
+      "skill_image": "Sivir.webp",
+      "status": "Đang hoạt động",
+      "mana": "20 / 60",
+      "description": "Ném một lưỡi thập tự lớn, gây ? sát thương vật lý lên mục tiêu hiện tại và nảy ? lần giữa những kẻ địch gần đó, gây ? sát thương vật lý mỗi lần nảy. Nếu hạ gục kẻ địch, nảy thêm một lần nữa."
     },
     {
       "stt": 54,
@@ -3520,7 +3689,12 @@
       "traits": [
         "Hệ thực vật Fatalis",
         "Đao phủ"
-      ]
+      ],
+      "skill_name": "Starcall",
+      "skill_image": "Soraka.webp",
+      "status": "Đang hoạt động",
+      "mana": "0 / 30",
+      "description": "Gọi một ngôi sao rơi xuống mục tiêu hiện tại, gây ? sát thương phép. Nếu mục tiêu đã từng bị sao rơi trúng, gọi thêm ? ngôi sao, mỗi ngôi sao gây ? sát thương phép."
     },
     {
       "stt": 55,
@@ -3532,7 +3706,12 @@
       "traits": [
         "Cô gái gai",
         "Người triệu hồi"
-      ]
+      ],
+      "skill_name": "Tăng trưởng tràn lan",
+      "skill_image": "Zyra.webp",
+      "status": "Đang hoạt động",
+      "mana": "0 / 45",
+      "description": "Triệu hồi ? cây khắp bàn đấu. Chúng tấn công kẻ địch gần nhất ? lần, mỗi đòn gây ? sát thương phép."
     },
     {
       "stt": 56,
@@ -3545,7 +3724,12 @@
         "Hòa hợp",
         "Mặt trăng",
         "Phép thuật"
-      ]
+      ],
+      "skill_name": "Trăng rơi",
+      "skill_image": "Alune.webp",
+      "status": "Đang hoạt động",
+      "mana": "0 / 35",
+      "description": "Trút xuống ? mảnh trăng chia đều vào ? kẻ địch gần nhất, mỗi mảnh gây ? sát thương phép.\n\nNếu đang là trăng tròn, thay vào đó giáng mặt trăng xuống bàn đấu, gây ? sát thương phép chia đều cho toàn bộ kẻ địch."
     },
     {
       "stt": 57,
@@ -3557,7 +3741,12 @@
       "traits": [
         "Hoa",
         "Thợ săn"
-      ]
+      ],
+      "skill_name": "Rạn nứt tinh thần",
+      "skill_image": "Ashe.webp",
+      "status": "Đang hoạt động",
+      "mana": "70 / 145",
+      "description": "Bắn một mũi tên xuyên qua hàng kẻ địch dài nhất, gây ? sát thương vật lý, giảm ?% với mỗi kẻ địch trúng đòn (tối thiểu ?%).\n\nMũi tên xé ra một khe nứt trong ? giây, mỗi giây gây ? + ?% Máu tối đa thành sát thương vật lý lên kẻ địch bên trong và Làm Chậm chúng ?%.\n\nLàm Chậm: Giảm Tốc Độ Đánh"
     },
     {
       "stt": 58,
@@ -3568,7 +3757,12 @@
       "cost": "5",
       "traits": [
         "Người tìm kiếm tiền thưởng"
-      ]
+      ],
+      "skill_name": "Vòng xoáy tử thần",
+      "skill_image": "Draven.webp",
+      "status": "Đang hoạt động",
+      "mana": "0 / 140",
+      "description": "Nội tại: Đòn đánh nhắm vào kẻ địch ngẫu nhiên trong tầm và gây Chảy Máu, gây ? sát thương vật lý trong ? giây. Mỗi đòn đánh có ?% cơ hội gây thêm ?% sát thương vật lý và áp dụng ? cộng dồn Chảy Máu.\n\nKích hoạt: Ném hai rìu khổng lồ về phía kẻ địch có nhiều Chảy Máu nhất. Gây ? sát thương vật lý lên mọi kẻ địch trúng chiêu, tiêu thụ Chảy Máu và lập tức gây phần sát thương còn lại."
     },
     {
       "stt": 59,
@@ -3581,7 +3775,12 @@
         "Gỗ Elderwood",
         "Sprykin",
         "Đấu sĩ"
-      ]
+      ],
+      "skill_name": "Gen thịnh nộ",
+      "skill_image": "Gnar.webp",
+      "status": "Đang hoạt động",
+      "mana": "0 / 70",
+      "description": "Nội Tại: Nhận ? Nộ mỗi giây và ? Nộ mỗi đòn đánh.\n\nKích Hoạt: Biến thành Mega Gnar và nhảy vào nhóm kẻ địch lớn nhất trong phạm vi ? ô. Sau đó gây ? sát thương vật lý lên kẻ địch trong phạm vi ? ô, giảm Giáp và Kháng Phép của chúng đi ?, đồng thời Làm Choáng trong ? giây. Mega Gnar nhận ? Máu và đổi Kỹ Năng thành Tóm Và Ném.\n\nTóm Và Ném: Ném mục tiêu vào kẻ địch xa nhất, gây ? sát thương vật lý lên mục tiêu và ? sát thương vật lý lên kẻ địch chúng bay xuyên qua. Nếu chỉ còn 1 kẻ địch, ném chúng ra khỏi bàn đấu."
     },
     {
       "stt": 60,
@@ -3592,7 +3791,12 @@
       "cost": "5",
       "traits": [
         "Bố Xanh"
-      ]
+      ],
+      "skill_name": "Hạt kích hoạt",
+      "skill_image": "Ivern.webp",
+      "status": "Đang hoạt động",
+      "mana": "0 / 50",
+      "description": "Nội Tại: Lá Chắn từ Kỹ Năng này có thể chí mạng nhờ Chính Xác.\n\nKích Hoạt: Cho ? đồng minh nhận ? Lá Chắn và ?% Khuếch Đại Sát Thương trong ? giây. Sau đó gây ? sát thương phép lên kẻ địch đứng cạnh họ. Sau khi tung chiêu ? lần, còn cho mục tiêu nhận ?% Tốc Độ Đánh cộng dồn."
     },
     {
       "stt": 61,
@@ -3604,7 +3808,12 @@
       "traits": [
         "Địa ngục",
         "Đao phủ"
-      ]
+      ],
+      "skill_name": "Bão lửa",
+      "skill_image": "Kennen.webp",
+      "status": "Đang hoạt động",
+      "mana": "0 / 40",
+      "description": "Tụ lực, nhận ?% Sức Mạnh Phép Thuật với mỗi kẻ địch đang bị Thiêu Đốt. Sau đó nhận ? Lá Chắn trong ? giây và lao qua một nhóm kẻ địch gần đó, gây ? sát thương phép lên mỗi kẻ địch.\n\nSau khi lao xong, tạo ra bão lửa rộng ? ô, gây tổng cộng ? sát thương phép chia đều cho toàn bộ kẻ địch trúng phải trong ? giây."
     },
     {
       "stt": 62,
@@ -3616,7 +3825,12 @@
       "traits": [
         "Eldritch",
         "Hình đại diện"
-      ]
+      ],
+      "skill_name": "Tia lửa cuối cùng",
+      "skill_image": "LuxEldritch.webp",
+      "status": "Đang hoạt động",
+      "mana": "0 / 60",
+      "description": "Nội Tại: Khi tung chiêu, toàn bộ đồng minh có chung Tộc Hệ với Lux nhận ? Năng Lượng.\n\nKích Hoạt: Bắn tia laser về phía nhóm kẻ địch lớn nhất, gây ? sát thương phép, giảm ?% với mỗi kẻ địch trúng đòn (tối thiểu ?%).\n\nThưởng Eldritch: Làm Choáng mục tiêu trúng đòn trong ? giây."
     },
     {
       "stt": 63,
@@ -3628,7 +3842,12 @@
       "traits": [
         "Fae",
         "Hình đại diện"
-      ]
+      ],
+      "skill_name": "Tia lửa cuối cùng",
+      "skill_image": "LuxFae.webp",
+      "status": "Đang hoạt động",
+      "mana": "0 / 60",
+      "description": "Nội Tại: Khi tung chiêu, toàn bộ đồng minh có chung Tộc Hệ với Lux nhận ? Năng Lượng.\n\nKích Hoạt: Bắn tia laser về phía nhóm kẻ địch lớn nhất, gây ? sát thương phép, giảm ?% với mỗi kẻ địch trúng đòn (tối thiểu ?%).\n\nThưởng Fae: Hồi cho đồng minh có phần trăm Máu thấp nhất bằng ?% sát thương Kỹ Năng đã gây ra."
     },
     {
       "stt": 64,
@@ -3640,7 +3859,12 @@
       "traits": [
         "Giao ước",
         "Hình đại diện"
-      ]
+      ],
+      "skill_name": "Tia lửa cuối cùng",
+      "skill_image": "LuxCoven.webp",
+      "status": "Đang hoạt động",
+      "mana": "0 / 60",
+      "description": "Nội Tại: Khi tung chiêu, toàn bộ đồng minh có chung Tộc Hệ với Lux nhận ? Năng Lượng.\n\nKích Hoạt: Bắn tia laser về phía nhóm kẻ địch lớn nhất, gây ? sát thương phép, giảm ?% với mỗi kẻ địch trúng đòn (tối thiểu ?%).\n\nThưởng Coven: Giảm Giáp và Kháng Phép của mục tiêu trúng đòn đi ? trong phần còn lại của giao tranh."
     },
     {
       "stt": 65,
@@ -3652,7 +3876,12 @@
       "traits": [
         "Gỗ Elderwood",
         "Hình đại diện"
-      ]
+      ],
+      "skill_name": "Tia lửa cuối cùng",
+      "skill_image": "LuxElderwood.webp",
+      "status": "Đang hoạt động",
+      "mana": "0 / 60",
+      "description": "Nội Tại: Khi tung chiêu, toàn bộ đồng minh có chung Tộc Hệ với Lux nhận ? Năng Lượng.\n\nKích Hoạt: Bắn tia laser về phía nhóm kẻ địch lớn nhất, gây ? sát thương phép, giảm ?% với mỗi kẻ địch trúng đòn (tối thiểu ?%).\n\nThưởng Elderwood: Mỗi lần tung chiêu tăng ?% Máu tối đa cho toàn bộ đồng minh trong phần còn lại của giao tranh."
     },
     {
       "stt": 66,
@@ -3664,7 +3893,12 @@
       "traits": [
         "Hoa",
         "Hình đại diện"
-      ]
+      ],
+      "skill_name": "Tia lửa cuối cùng",
+      "skill_image": "LuxBlossom.webp",
+      "status": "Đang hoạt động",
+      "mana": "0 / 60",
+      "description": "Nội Tại: Khi tung chiêu, toàn bộ đồng minh có chung Tộc Hệ với Lux nhận ? Năng Lượng.\n\nKích Hoạt: Bắn tia laser về phía nhóm kẻ địch lớn nhất, gây ? sát thương phép, giảm ?% với mỗi kẻ địch trúng đòn (tối thiểu ?%).\n\nThưởng Blossom: Mục tiêu đầu tiên trúng đòn chịu thêm ?% sát thương."
     },
     {
       "stt": 67,
@@ -3676,7 +3910,12 @@
       "traits": [
         "Mặt trăng",
         "Hình đại diện"
-      ]
+      ],
+      "skill_name": "Tia lửa cuối cùng",
+      "skill_image": "LuxLunar.webp",
+      "status": "Đang hoạt động",
+      "mana": "0 / 60",
+      "description": "Nội Tại: Khi tung chiêu, toàn bộ đồng minh có chung Tộc Hệ với Lux nhận ? Năng Lượng.\n\nKích Hoạt: Bắn tia laser về phía nhóm kẻ địch lớn nhất, gây ? sát thương phép, giảm ?% với mỗi kẻ địch trúng đòn (tối thiểu ?%).\n\nThưởng Lunar: Khiến kẻ địch trúng đòn chịu ?% Dễ Bị Tổn Thương trong ? giây.\n\nDễ Bị Tổn Thương: Tăng sát thương phải chịu"
     },
     {
       "stt": 68,
@@ -3688,7 +3927,12 @@
       "traits": [
         "Nguyên thủy",
         "Hình đại diện"
-      ]
+      ],
+      "skill_name": "Tia lửa cuối cùng",
+      "skill_image": "LuxPrimal.webp",
+      "status": "Đang hoạt động",
+      "mana": "0 / 60",
+      "description": "Nội Tại: Khi tung chiêu, toàn bộ đồng minh có chung Tộc Hệ với Lux nhận ? Năng Lượng.\n\nKích Hoạt: Bắn tia laser về phía nhóm kẻ địch lớn nhất, gây ? sát thương phép, giảm ?% với mỗi kẻ địch trúng đòn (tối thiểu ?%).\n\nThưởng Primal: Sau khi tung chiêu, nhận ?% Tốc Độ Đánh trong ? giây."
     },
     {
       "stt": 69,
@@ -3700,7 +3944,12 @@
       "traits": [
         "Năng lượng mặt trời",
         "Hình đại diện"
-      ]
+      ],
+      "skill_name": "Tia lửa cuối cùng",
+      "skill_image": "LuxSolar.webp",
+      "status": "Đang hoạt động",
+      "mana": "0 / 60",
+      "description": "Nội Tại: Khi tung chiêu, toàn bộ đồng minh có chung Tộc Hệ với Lux nhận ? Năng Lượng.\n\nKích Hoạt: Bắn tia laser về phía nhóm kẻ địch lớn nhất, gây ? sát thương phép, giảm ?% với mỗi kẻ địch trúng đòn (tối thiểu ?%).\n\nThưởng Solar: Giảm ?% sát thương do kẻ địch trúng đòn gây ra trong ? giây.\n\nSuy Yếu: Giảm sát thương gây ra"
     },
     {
       "stt": 70,
@@ -3712,7 +3961,12 @@
       "traits": [
         "Địa ngục",
         "Hình đại diện"
-      ]
+      ],
+      "skill_name": "Tia lửa cuối cùng",
+      "skill_image": "LuxInferno.webp",
+      "status": "Đang hoạt động",
+      "mana": "0 / 60",
+      "description": "Nội Tại: Khi tung chiêu, toàn bộ đồng minh có chung Tộc Hệ với Lux nhận ? Năng Lượng.\n\nKích Hoạt: Bắn tia laser về phía nhóm kẻ địch lớn nhất, gây ? sát thương phép, giảm ?% với mỗi kẻ địch trúng đòn (tối thiểu ?%).\n\nThưởng Inferno: Hồi ? Năng Lượng với mỗi lần hạ gục."
     },
     {
       "stt": 71,
@@ -3724,7 +3978,12 @@
       "traits": [
         "Tăng trưởng cũ",
         "Dũng sĩ"
-      ]
+      ],
+      "skill_name": "Gieo hạt giống",
+      "skill_image": "Maokai.webp",
+      "status": "Đang hoạt động",
+      "mana": "40 / 100",
+      "description": "Nội Tại: Sau mỗi ? sát thương chặn được, một cây non nhảy tới kẻ địch gần đó và gây ? sát thương phép. Khi chết, ? cây non nhảy ra.\n\nKích Hoạt: Gây ? sát thương phép lên mục tiêu và hồi ? + ?% Máu đã mất."
     },
     {
       "stt": 72,
@@ -3736,7 +3995,12 @@
       "traits": [
         "Riftbeast",
         "Động vật ăn thịt Apex"
-      ]
+      ],
+      "skill_name": "Nhiệt không bằng",
+      "skill_image": "TheElderDragon.webp",
+      "status": "Đang hoạt động",
+      "mana": "0 / 40",
+      "description": "Nội Tại: Đòn đánh gây ?% sát thương lên kẻ địch liền kề mục tiêu.\n\nKích Hoạt: Trở nên không thể bị nhắm tới và bay lên không trung, nhận ?% Hút Máu Toàn Phần. Khi đáp xuống, Làm Choáng toàn bộ kẻ địch trong ? giây và Thiêu Đốt chúng trong ? giây. Kẻ địch bị Thiêu Đốt chịu ?% Máu tối đa thành sát thương vật lý mỗi giây.\n\nCác lần tung chiêu sau phun lửa theo đường thẳng xuyên qua mục tiêu về phía có nhiều kẻ địch nhất, gây ? sát thương vật lý và Thiêu Đốt chúng trong ? giây.\n\nBùa Rồng Ngàn Tuổi: Gây sát thương lên kẻ địch dưới ?% Máu sẽ kết liễu chúng."
     },
     {
       "stt": 73,
@@ -3748,7 +4012,12 @@
       "traits": [
         "Khía cạnh ngọc lục bảo",
         "Tiên phong"
-      ]
+      ],
+      "skill_name": "Ngọc lục bảo rạng rỡ",
+      "skill_image": "Taric.webp",
+      "status": "Đang hoạt động",
+      "mana": "0 / 65",
+      "description": "Nội Tại: Lần đầu Taric hoặc đồng minh được ghép đôi xuống dưới ?% Máu, cả hai giải phóng năng lượng lục bảo, cho đồng minh trong phạm vi ? ô ? Lá Chắn trong ? giây.\n\nKích Hoạt: Hồi ? Máu. ? đòn đánh tiếp theo của Taric và đồng minh ghép đôi gây thêm ? sát thương phép."
     }
   ],
   "augments": [
