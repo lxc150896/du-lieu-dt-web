@@ -5,10 +5,10 @@
         "name": "Lux",
         "image": "tft18_lux.tft_set18.jpg",
         "price": "5",
-        "average_position": "2.75",
-        "top_4_rate": "84.7",
-        "top_1_rate": "32.89",
-        "battle": "6,691",
+        "average_position": "2.77",
+        "top_4_rate": "84.16",
+        "top_1_rate": "32.61",
+        "battle": "8,227",
         "description_icon": [
             "Passive: On cast, all allies that share a trait with Lux gain 3/3/100(",
             "AP.png",
@@ -50,7 +50,28 @@
                 "image": "Trait_Icon_18_Avatar.TFT_Set18.png"
             }
         ],
-        "items": [],
+        "items": [
+            {
+                "id": "spear_of_shojin",
+                "image": "DA_SpearOfShojin.png"
+            },
+            {
+                "id": "jeweled_gauntlet",
+                "image": "DA_JeweledGauntlet.png"
+            },
+            {
+                "id": "rabadon's_deathcap",
+                "image": "DA_RabadonsDeathcap.png"
+            },
+            {
+                "id": "void_staff",
+                "image": "DA_VoidStaff.png"
+            },
+            {
+                "id": "blue_buff",
+                "image": "DA_BlueBuff.png"
+            }
+        ],
         "unlock": {
             "description": "",
             "type": false
@@ -62,10 +83,10 @@
         "name": "Ivern",
         "image": "tft18_ivern.tft_set18.jpg",
         "price": "5",
-        "average_position": "2.82",
-        "top_4_rate": "83.06",
-        "top_1_rate": "32.68",
-        "battle": "10,109",
+        "average_position": "2.85",
+        "top_4_rate": "82.39",
+        "top_1_rate": "32.47",
+        "battle": "12,592",
         "description_icon": [
             "Passive: Shields from this Ability can critically strike with Precision.",
             "\n",
@@ -126,7 +147,28 @@
                 "image": "Trait_Icon_18_Greenfather.TFT_Set18.png"
             }
         ],
-        "items": [],
+        "items": [
+            {
+                "id": "spear_of_shojin",
+                "image": "DA_SpearOfShojin.png"
+            },
+            {
+                "id": "blue_buff",
+                "image": "DA_BlueBuff.png"
+            },
+            {
+                "id": "jeweled_gauntlet",
+                "image": "DA_JeweledGauntlet.png"
+            },
+            {
+                "id": "adaptive_helm",
+                "image": "DA_AdaptiveHelm.png"
+            },
+            {
+                "id": "guinsoo's_rageblade",
+                "image": "DA_GuinsoosRageblade.png"
+            }
+        ],
         "unlock": {
             "description": "",
             "type": false
@@ -138,10 +180,10 @@
         "name": "Maokai",
         "image": "tft18_maokai.tft_set18.jpg",
         "price": "5",
-        "average_position": "3.04",
-        "top_4_rate": "79.5",
-        "top_1_rate": "30.02",
-        "battle": "9,011",
+        "average_position": "3.09",
+        "top_4_rate": "78.51",
+        "top_1_rate": "29.62",
+        "battle": "11,175",
         "description_icon": [
             "Passive: After every 650/650/300 damage blocked, a sapling jumps towards a nearby enemy and deals 81/145/2795(",
             "Health.png",
@@ -213,7 +255,28 @@
                 "image": "Trait_Icon_18_OldGrowth.TFT_Set18.png"
             }
         ],
-        "items": [],
+        "items": [
+            {
+                "id": "gargoyle_stoneplate",
+                "image": "DA_GargoyleStoneplate.png"
+            },
+            {
+                "id": "warmogs_armor",
+                "image": "DA_WarmogsArmor.png"
+            },
+            {
+                "id": "spirit_visage",
+                "image": "DA_SpiritVisage.png"
+            },
+            {
+                "id": "protector's_vow",
+                "image": "DA_ProtectorsVow.png"
+            },
+            {
+                "id": "crownguard",
+                "image": "DA_Crownguard.png"
+            }
+        ],
         "unlock": {
             "description": "",
             "type": false
@@ -221,14 +284,115 @@
     },
     {
         "stt": 4,
+        "id": "draven",
+        "name": "Draven",
+        "image": "tft18_draven.tft_set18.jpg",
+        "price": "5",
+        "average_position": "3.23",
+        "top_4_rate": "75.72",
+        "top_1_rate": "29.12",
+        "battle": "6,113",
+        "description_icon": [
+            "Passive: Attacks target random enemies in range and apply a bleed that deals 140/210/3000(",
+            "AD.png",
+            ") physical damage over 12 seconds. Every attack has a 12%(",
+            "AP.png",
+            ") chance to deal 50%/50%/900% bonus physical damage and apply 2 bleeds instead.",
+            "\n",
+            "\n",
+            "Active: Throw two giant axes towards the enemy with the most bleeds. Deal 100/150/400(",
+            "AD.png",
+            ") physical damage to enemies hit and consume their bleed, instantly dealing the remaining damage. The axes then return, dealing 30/45/100(",
+            "AD.png",
+            ") physical damage to enemies hit.",
+            "\n",
+            "\n",
+            "Bleed Damage: 140(",
+            "AD.png",
+            ") [ 140 / 210 / 3000 ]",
+            "\n",
+            "\n",
+            "Outgoing Axe Damage: 100(",
+            "AD.png",
+            ") [ 100 / 150 / 400 ]",
+            "\n",
+            "\n",
+            "Returning Axe Damage: 30(",
+            "AD.png",
+            ") [ 30 / 45 / 100 ]"
+        ],
+        "skill_name": "Whirling Death",
+        "skill_image": "DA_Draven18.png",
+        "starting_mana": 0,
+        "skill_mana": 120,
+        "skill_attack_range": 5,
+        "health": [
+            900,
+            1620,
+            2916
+        ],
+        "attack_damage": [
+            48,
+            72,
+            108
+        ],
+        "damage_per_second": [
+            38,
+            58,
+            86
+        ],
+        "attack_speed": 0.8,
+        "armor": 45,
+        "magical_resistance": 45,
+        "stats": [
+            "Bleed Damage: 140(%i:scaleAD%) [140 / 210 / 3000]",
+            "Outgoing Axe Damage: 100(%i:scaleAD%) [100 / 150 / 400]",
+            "Returning Axe Damage: 30(%i:scaleAD%) [30 / 45 / 100]"
+        ],
+        "traits": [
+            {
+                "id": "bounty_seeker",
+                "name": "Bounty Seeker",
+                "image": "Trait_Icon_18_BountySeeker.TFT_Set18.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "guinsoo's_rageblade",
+                "image": "DA_GuinsoosRageblade.png"
+            },
+            {
+                "id": "kraken's_fury",
+                "image": "DA_KrakensFury.png"
+            },
+            {
+                "id": "infinity_edge",
+                "image": "DA_InfinityEdge.png"
+            },
+            {
+                "id": "deathblade",
+                "image": "DA_Deathblade.png"
+            },
+            {
+                "id": "giant_slayer",
+                "image": "DA_GiantSlayer.png"
+            }
+        ],
+        "unlock": {
+            "description": "",
+            "type": false
+        }
+    },
+    {
+        "stt": 5,
         "id": "kennen",
         "name": "Kennen",
         "image": "tft18_kennen.tft_set18.jpg",
         "price": "5",
-        "average_position": "2.99",
-        "top_4_rate": "80.92",
-        "top_1_rate": "29.46",
-        "battle": "8,978",
+        "average_position": "3.04",
+        "top_4_rate": "79.84",
+        "top_1_rate": "28.99",
+        "battle": "11,163",
         "description_icon": [
             "Charge up, gaining 15% Ability Power per Burning enemy. Then, gain 250/350/3000(",
             "AP.png",
@@ -296,87 +460,28 @@
                 "image": "Trait_Icon_18_Inferno.TFT_Set18.png"
             }
         ],
-        "items": [],
-        "unlock": {
-            "description": "",
-            "type": false
-        }
-    },
-    {
-        "stt": 5,
-        "id": "draven",
-        "name": "Draven",
-        "image": "tft18_draven.tft_set18.jpg",
-        "price": "5",
-        "average_position": "3.2",
-        "top_4_rate": "76.5",
-        "top_1_rate": "29.37",
-        "battle": "4,914",
-        "description_icon": [
-            "Passive: Attacks target random enemies in range and apply a bleed that deals 140/210/3000(",
-            "AD.png",
-            ") physical damage over 12 seconds. Every attack has a 12%(",
-            "AP.png",
-            ") chance to deal 50%/50%/900% bonus physical damage and apply 2 bleeds instead.",
-            "\n",
-            "\n",
-            "Active: Throw two giant axes towards the enemy with the most bleeds. Deal 100/150/400(",
-            "AD.png",
-            ") physical damage to enemies hit and consume their bleed, instantly dealing the remaining damage. The axes then return, dealing 30/45/100(",
-            "AD.png",
-            ") physical damage to enemies hit.",
-            "\n",
-            "\n",
-            "Bleed Damage: 140(",
-            "AD.png",
-            ") [ 140 / 210 / 3000 ]",
-            "\n",
-            "\n",
-            "Outgoing Axe Damage: 100(",
-            "AD.png",
-            ") [ 100 / 150 / 400 ]",
-            "\n",
-            "\n",
-            "Returning Axe Damage: 30(",
-            "AD.png",
-            ") [ 30 / 45 / 100 ]"
-        ],
-        "skill_name": "Whirling Death",
-        "skill_image": "DA_Draven18.png",
-        "starting_mana": 0,
-        "skill_mana": 120,
-        "skill_attack_range": 5,
-        "health": [
-            900,
-            1620,
-            2916
-        ],
-        "attack_damage": [
-            48,
-            72,
-            108
-        ],
-        "damage_per_second": [
-            38,
-            58,
-            86
-        ],
-        "attack_speed": 0.8,
-        "armor": 45,
-        "magical_resistance": 45,
-        "stats": [
-            "Bleed Damage: 140(%i:scaleAD%) [140 / 210 / 3000]",
-            "Outgoing Axe Damage: 100(%i:scaleAD%) [100 / 150 / 400]",
-            "Returning Axe Damage: 30(%i:scaleAD%) [30 / 45 / 100]"
-        ],
-        "traits": [
+        "items": [
             {
-                "id": "bounty_seeker",
-                "name": "Bounty Seeker",
-                "image": "Trait_Icon_18_BountySeeker.TFT_Set18.png"
+                "id": "jeweled_gauntlet",
+                "image": "DA_JeweledGauntlet.png"
+            },
+            {
+                "id": "hand_of_justice",
+                "image": "DA_HandOfJustice.png"
+            },
+            {
+                "id": "edge_of_night",
+                "image": "DA_EdgeOfNight.png"
+            },
+            {
+                "id": "rabadon's_deathcap",
+                "image": "DA_RabadonsDeathcap.png"
+            },
+            {
+                "id": "bloodthirster",
+                "image": "DA_Bloodthirster.png"
             }
         ],
-        "items": [],
         "unlock": {
             "description": "",
             "type": false
@@ -388,10 +493,10 @@
         "name": "Gnar",
         "image": "tft18_gnar.tft_set18.jpg",
         "price": "5",
-        "average_position": "2.82",
-        "top_4_rate": "84.52",
-        "top_1_rate": "28.96",
-        "battle": "13,763",
+        "average_position": "2.85",
+        "top_4_rate": "83.75",
+        "top_1_rate": "28.79",
+        "battle": "17,095",
         "description_icon": [
             "Passive: Gain 5/5/50 Rage per second and 5 Rage per attack.",
             "\n",
@@ -479,7 +584,28 @@
                 "image": "Trait_Icon_18_Sprykin.TFT_Set18.png"
             }
         ],
-        "items": [],
+        "items": [
+            {
+                "id": "sterak's_gage",
+                "image": "DA_SteraksGage.png"
+            },
+            {
+                "id": "bloodthirster",
+                "image": "DA_Bloodthirster.png"
+            },
+            {
+                "id": "titan's_resolve",
+                "image": "DA_TitansResolve.png"
+            },
+            {
+                "id": "edge_of_night",
+                "image": "DA_EdgeOfNight.png"
+            },
+            {
+                "id": "hand_of_justice",
+                "image": "DA_HandOfJustice.png"
+            }
+        ],
         "unlock": {
             "description": "",
             "type": false
@@ -491,10 +617,10 @@
         "name": "Taric",
         "image": "tft18_taric.tft_set18.jpg",
         "price": "5",
-        "average_position": "2.91",
-        "top_4_rate": "82.61",
-        "top_1_rate": "28.44",
-        "battle": "13,996",
+        "average_position": "2.95",
+        "top_4_rate": "81.93",
+        "top_1_rate": "28.03",
+        "battle": "17,386",
         "description_icon": [
             "Passive: The first time Taric or his paired ally drops below 50% Health, unleash emerald energy from both of them, granting 305/584/14212(",
             "Health.png",
@@ -562,7 +688,28 @@
                 "image": "Trait_Icon_18_Vanguard.TFT_Set18.png"
             }
         ],
-        "items": [],
+        "items": [
+            {
+                "id": "gargoyle_stoneplate",
+                "image": "DA_GargoyleStoneplate.png"
+            },
+            {
+                "id": "warmogs_armor",
+                "image": "DA_WarmogsArmor.png"
+            },
+            {
+                "id": "spirit_visage",
+                "image": "DA_SpiritVisage.png"
+            },
+            {
+                "id": "protector's_vow",
+                "image": "DA_ProtectorsVow.png"
+            },
+            {
+                "id": "sunfire_cape",
+                "image": "DA_SunfireCape.png"
+            }
+        ],
         "unlock": {
             "description": "",
             "type": false
@@ -574,10 +721,10 @@
         "name": "Alune",
         "image": "tft18_alune.tft_set18.jpg",
         "price": "5",
-        "average_position": "2.86",
-        "top_4_rate": "84.39",
-        "top_1_rate": "26.98",
-        "battle": "8,976",
+        "average_position": "2.89",
+        "top_4_rate": "83.71",
+        "top_1_rate": "26.82",
+        "battle": "11,114",
         "description_icon": [
             "Rain 9 moonshards split among the 3 nearest enemies, dealing 55/83/500(",
             "AP.png",
@@ -642,7 +789,28 @@
                 "image": "Trait_Icon_18_Spellweaver.TFT_Set18.png"
             }
         ],
-        "items": [],
+        "items": [
+            {
+                "id": "jeweled_gauntlet",
+                "image": "DA_JeweledGauntlet.png"
+            },
+            {
+                "id": "spear_of_shojin",
+                "image": "DA_SpearOfShojin.png"
+            },
+            {
+                "id": "void_staff",
+                "image": "DA_VoidStaff.png"
+            },
+            {
+                "id": "rabadon's_deathcap",
+                "image": "DA_RabadonsDeathcap.png"
+            },
+            {
+                "id": "blue_buff",
+                "image": "DA_BlueBuff.png"
+            }
+        ],
         "unlock": {
             "description": "",
             "type": false
@@ -654,10 +822,10 @@
         "name": "Ashe",
         "image": "tft18_ashe.tft_set18.jpg",
         "price": "5",
-        "average_position": "2.99",
-        "top_4_rate": "82.07",
-        "top_1_rate": "25.88",
-        "battle": "7,853",
+        "average_position": "3.01",
+        "top_4_rate": "81.38",
+        "top_1_rate": "25.76",
+        "battle": "9,813",
         "description_icon": [
             "Fire an arrow through the most enemies in a line that deals 440/660/1000(",
             "AD.png",
@@ -733,7 +901,28 @@
                 "image": "Trait_Icon_18_Hunter.TFT_Set18.png"
             }
         ],
-        "items": [],
+        "items": [
+            {
+                "id": "spear_of_shojin",
+                "image": "DA_SpearOfShojin.png"
+            },
+            {
+                "id": "red_buff",
+                "image": "DA_RedBuff.png"
+            },
+            {
+                "id": "last_whisper",
+                "image": "DA_LastWhisper.png"
+            },
+            {
+                "id": "infinity_edge",
+                "image": "DA_InfinityEdge.png"
+            },
+            {
+                "id": "guinsoo's_rageblade",
+                "image": "DA_GuinsoosRageblade.png"
+            }
+        ],
         "unlock": {
             "description": "",
             "type": false
@@ -745,10 +934,10 @@
         "name": "Sett",
         "image": "tft18_sett.tft_set18.jpg",
         "price": "4",
-        "average_position": "3.43",
-        "top_4_rate": "73.96",
-        "top_1_rate": "19.84",
-        "battle": "11,776",
+        "average_position": "3.45",
+        "top_4_rate": "73.37",
+        "top_1_rate": "19.69",
+        "battle": "14,730",
         "description_icon": [
             "Passive: Upon falling below 40% max Health the first time each combat, gain 100 mana.",
             "\n",
@@ -814,7 +1003,28 @@
                 "image": "Trait_Icon_18_Brawler.TFT_Set18.png"
             }
         ],
-        "items": [],
+        "items": [
+            {
+                "id": "gargoyle_stoneplate",
+                "image": "DA_GargoyleStoneplate.png"
+            },
+            {
+                "id": "warmogs_armor",
+                "image": "DA_WarmogsArmor.png"
+            },
+            {
+                "id": "spirit_visage",
+                "image": "DA_SpiritVisage.png"
+            },
+            {
+                "id": "ionic_spark",
+                "image": "DA_IonicSpark.png"
+            },
+            {
+                "id": "dragon's_claw",
+                "image": "DA_DragonsClaw.png"
+            }
+        ],
         "unlock": {
             "description": "",
             "type": false
@@ -826,10 +1036,10 @@
         "name": "Ezreal",
         "image": "tft18_ezreal.tft_set18.jpg",
         "price": "4",
-        "average_position": "3.77",
-        "top_4_rate": "65.15",
-        "top_1_rate": "19.62",
-        "battle": "8,167",
+        "average_position": "3.79",
+        "top_4_rate": "64.58",
+        "top_1_rate": "19.56",
+        "battle": "10,163",
         "description_icon": [
             "Blink away from the current target, deal 235/355/1200(",
             "AD.png",
@@ -897,7 +1107,28 @@
                 "image": "Trait_Icon_18_Executioner.TFT_Set18.png"
             }
         ],
-        "items": [],
+        "items": [
+            {
+                "id": "spear_of_shojin",
+                "image": "DA_SpearOfShojin.png"
+            },
+            {
+                "id": "last_whisper",
+                "image": "DA_LastWhisper.png"
+            },
+            {
+                "id": "deathblade",
+                "image": "DA_Deathblade.png"
+            },
+            {
+                "id": "infinity_edge",
+                "image": "DA_InfinityEdge.png"
+            },
+            {
+                "id": "giant_slayer",
+                "image": "DA_GiantSlayer.png"
+            }
+        ],
         "unlock": {
             "description": "",
             "type": false
@@ -905,78 +1136,14 @@
     },
     {
         "stt": 12,
-        "id": "zyra",
-        "name": "Zyra",
-        "image": "tft18_zyra.tft_set18.jpg",
-        "price": "4",
-        "average_position": "3.48",
-        "top_4_rate": "73.01",
-        "top_1_rate": "19.15",
-        "battle": "8,722",
-        "description_icon": [
-            "Spawn 2/2/4 plants around the battlefield that attack the nearest enemy 10 times. Each attack deals 37/55/225(",
-            "AP.png",
-            ") magic damage.",
-            "\n",
-            "\n",
-            "Damage: 37(",
-            "AP.png",
-            ") [ 37 / 55 / 225 ]"
-        ],
-        "skill_name": "Rampant Growth",
-        "skill_image": "DA_18_Zyra.png",
-        "starting_mana": 0,
-        "skill_mana": 45,
-        "skill_attack_range": 4,
-        "health": [
-            850,
-            1530,
-            2754
-        ],
-        "attack_damage": [
-            40,
-            60,
-            90
-        ],
-        "damage_per_second": [
-            30,
-            45,
-            68
-        ],
-        "attack_speed": 0.75,
-        "armor": 40,
-        "magical_resistance": 40,
-        "stats": [
-            "Damage: 37(%i:scaleAP%) [37 / 55 / 225]"
-        ],
-        "traits": [
-            {
-                "id": "summoner",
-                "name": "Summoner",
-                "image": "Trait_Icon_18_Summoner.TFT_Set18.png"
-            },
-            {
-                "id": "thornmaiden",
-                "name": "Thornmaiden",
-                "image": "Trait_Icon_18_ZyraOrigin.TFT_Set18.png"
-            }
-        ],
-        "items": [],
-        "unlock": {
-            "description": "",
-            "type": false
-        }
-    },
-    {
-        "stt": 13,
         "id": "ahri",
         "name": "Ahri",
         "image": "tft18_ahri.tft_set18.jpg",
         "price": "4",
-        "average_position": "3.65",
-        "top_4_rate": "68.53",
-        "top_1_rate": "18.87",
-        "battle": "10,411",
+        "average_position": "3.67",
+        "top_4_rate": "68.02",
+        "top_1_rate": "18.98",
+        "battle": "12,926",
         "description_icon": [
             "Launch a spirit bomb at the location within 4 hexes that has the most surrounding enemies. It deals 450/675/3500(",
             "AP.png",
@@ -1025,7 +1192,113 @@
                 "image": "Trait_Icon_18_Spellweaver.TFT_Set18.png"
             }
         ],
-        "items": [],
+        "items": [
+            {
+                "id": "jeweled_gauntlet",
+                "image": "DA_JeweledGauntlet.png"
+            },
+            {
+                "id": "spear_of_shojin",
+                "image": "DA_SpearOfShojin.png"
+            },
+            {
+                "id": "striker's_flail",
+                "image": "DA_StrikersFlail.png"
+            },
+            {
+                "id": "blue_buff",
+                "image": "DA_BlueBuff.png"
+            },
+            {
+                "id": "rabadon's_deathcap",
+                "image": "DA_RabadonsDeathcap.png"
+            }
+        ],
+        "unlock": {
+            "description": "",
+            "type": false
+        }
+    },
+    {
+        "stt": 13,
+        "id": "zyra",
+        "name": "Zyra",
+        "image": "tft18_zyra.tft_set18.jpg",
+        "price": "4",
+        "average_position": "3.52",
+        "top_4_rate": "72.19",
+        "top_1_rate": "18.51",
+        "battle": "10,956",
+        "description_icon": [
+            "Spawn 2/2/4 plants around the battlefield that attack the nearest enemy 10 times. Each attack deals 37/55/225(",
+            "AP.png",
+            ") magic damage.",
+            "\n",
+            "\n",
+            "Damage: 37(",
+            "AP.png",
+            ") [ 37 / 55 / 225 ]"
+        ],
+        "skill_name": "Rampant Growth",
+        "skill_image": "DA_18_Zyra.png",
+        "starting_mana": 0,
+        "skill_mana": 45,
+        "skill_attack_range": 4,
+        "health": [
+            850,
+            1530,
+            2754
+        ],
+        "attack_damage": [
+            40,
+            60,
+            90
+        ],
+        "damage_per_second": [
+            30,
+            45,
+            68
+        ],
+        "attack_speed": 0.75,
+        "armor": 40,
+        "magical_resistance": 40,
+        "stats": [
+            "Damage: 37(%i:scaleAP%) [37 / 55 / 225]"
+        ],
+        "traits": [
+            {
+                "id": "summoner",
+                "name": "Summoner",
+                "image": "Trait_Icon_18_Summoner.TFT_Set18.png"
+            },
+            {
+                "id": "thornmaiden",
+                "name": "Thornmaiden",
+                "image": "Trait_Icon_18_ZyraOrigin.TFT_Set18.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "void_staff",
+                "image": "DA_VoidStaff.png"
+            },
+            {
+                "id": "spear_of_shojin",
+                "image": "DA_SpearOfShojin.png"
+            },
+            {
+                "id": "jeweled_gauntlet",
+                "image": "DA_JeweledGauntlet.png"
+            },
+            {
+                "id": "morellonomicon",
+                "image": "DA_Morellonomicon.png"
+            },
+            {
+                "id": "rabadon's_deathcap",
+                "image": "DA_RabadonsDeathcap.png"
+            }
+        ],
         "unlock": {
             "description": "",
             "type": false
@@ -1037,10 +1310,10 @@
         "name": "Aphelios",
         "image": "tft18_aphelios.tft_set18.jpg",
         "price": "4",
-        "average_position": "3.53",
-        "top_4_rate": "70.91",
-        "top_1_rate": "18.68",
-        "battle": "9,607",
+        "average_position": "3.55",
+        "top_4_rate": "70.42",
+        "top_1_rate": "18.49",
+        "battle": "12,027",
         "description_icon": [
             "Equip Severum and swipe the target 5(",
             "AS.png",
@@ -1117,7 +1390,28 @@
                 "image": "Trait_Icon_18_Rapidfire.TFT_Set18.png"
             }
         ],
-        "items": [],
+        "items": [
+            {
+                "id": "guinsoo's_rageblade",
+                "image": "DA_GuinsoosRageblade.png"
+            },
+            {
+                "id": "kraken's_fury",
+                "image": "DA_KrakensFury.png"
+            },
+            {
+                "id": "giant_slayer",
+                "image": "DA_GiantSlayer.png"
+            },
+            {
+                "id": "infinity_edge",
+                "image": "DA_InfinityEdge.png"
+            },
+            {
+                "id": "deathblade",
+                "image": "DA_Deathblade.png"
+            }
+        ],
         "unlock": {
             "description": "",
             "type": false
@@ -1129,10 +1423,10 @@
         "name": "Sivir",
         "image": "tft18_sivir.tft_set18.jpg",
         "price": "4",
-        "average_position": "3.72",
-        "top_4_rate": "66.21",
-        "top_1_rate": "18.52",
-        "battle": "9,156",
+        "average_position": "3.73",
+        "top_4_rate": "66.07",
+        "top_1_rate": "18.43",
+        "battle": "11,369",
         "description_icon": [
             "Throw a large crossblade that deals 205/305/1150(",
             "AD.png",
@@ -1197,7 +1491,28 @@
                 "image": "Trait_Icon_18_Primal.TFT_Set18.png"
             }
         ],
-        "items": [],
+        "items": [
+            {
+                "id": "infinity_edge",
+                "image": "DA_InfinityEdge.png"
+            },
+            {
+                "id": "spear_of_shojin",
+                "image": "DA_SpearOfShojin.png"
+            },
+            {
+                "id": "deathblade",
+                "image": "DA_Deathblade.png"
+            },
+            {
+                "id": "last_whisper",
+                "image": "DA_LastWhisper.png"
+            },
+            {
+                "id": "red_buff",
+                "image": "DA_RedBuff.png"
+            }
+        ],
         "unlock": {
             "description": "",
             "type": false
@@ -1209,10 +1524,10 @@
         "name": "Soraka",
         "image": "tft18_soraka.tft_set18.jpg",
         "price": "4",
-        "average_position": "3.67",
-        "top_4_rate": "68.88",
-        "top_1_rate": "18.26",
-        "battle": "5,909",
+        "average_position": "3.7",
+        "top_4_rate": "68.15",
+        "top_1_rate": "17.92",
+        "battle": "7,372",
         "description_icon": [
             "Call down a star on the current target, dealing 190/285/1000(",
             "AP.png",
@@ -1269,7 +1584,28 @@
                 "image": "Trait_Icon_18_FloraFatalis.TFT_Set18.png"
             }
         ],
-        "items": [],
+        "items": [
+            {
+                "id": "rabadon's_deathcap",
+                "image": "DA_RabadonsDeathcap.png"
+            },
+            {
+                "id": "spear_of_shojin",
+                "image": "DA_SpearOfShojin.png"
+            },
+            {
+                "id": "nashor's_tooth",
+                "image": "DA_NashorsTooth.png"
+            },
+            {
+                "id": "jeweled_gauntlet",
+                "image": "DA_JeweledGauntlet.png"
+            },
+            {
+                "id": "adaptive_helm",
+                "image": "DA_AdaptiveHelm.png"
+            }
+        ],
         "unlock": {
             "description": "",
             "type": false
@@ -1281,10 +1617,10 @@
         "name": "Rengar",
         "image": "tft18_rengar.tft_set18.jpg",
         "price": "3",
-        "average_position": "3.98",
-        "top_4_rate": "61.71",
-        "top_1_rate": "17.98",
-        "battle": "2,625",
+        "average_position": "4.01",
+        "top_4_rate": "61.18",
+        "top_1_rate": "17.91",
+        "battle": "3,295",
         "description_icon": [
             "Jump to the lowest percent Health enemy within 3 hexes and stab them, dealing 255/385/615(",
             "AD.png",
@@ -1344,7 +1680,28 @@
                 "image": "Trait_Icon_18_Rival.TFT_Set18.png"
             }
         ],
-        "items": [],
+        "items": [
+            {
+                "id": "edge_of_night",
+                "image": "DA_EdgeOfNight.png"
+            },
+            {
+                "id": "guinsoo's_rageblade",
+                "image": "DA_GuinsoosRageblade.png"
+            },
+            {
+                "id": "titan's_resolve",
+                "image": "DA_TitansResolve.png"
+            },
+            {
+                "id": "bloodthirster",
+                "image": "DA_Bloodthirster.png"
+            },
+            {
+                "id": "sterak's_gage",
+                "image": "DA_SteraksGage.png"
+            }
+        ],
         "unlock": {
             "description": "",
             "type": false
@@ -1356,10 +1713,10 @@
         "name": "Amumu",
         "image": "tft18_amumu.tft_set18.jpg",
         "price": "4",
-        "average_position": "4.14",
-        "top_4_rate": "54.7",
-        "top_1_rate": "17.73",
-        "battle": "13,263",
+        "average_position": "4.16",
+        "top_4_rate": "54.32",
+        "top_1_rate": "17.60",
+        "battle": "16,378",
         "description_icon": [
             "Passive: Every second, restore 29/52/172(",
             "AP.png",
@@ -1437,7 +1794,28 @@
                 "image": "Trait_Icon_18_Juggernaut.TFT_Set18.png"
             }
         ],
-        "items": [],
+        "items": [
+            {
+                "id": "gargoyle_stoneplate",
+                "image": "DA_GargoyleStoneplate.png"
+            },
+            {
+                "id": "warmogs_armor",
+                "image": "DA_WarmogsArmor.png"
+            },
+            {
+                "id": "spirit_visage",
+                "image": "DA_SpiritVisage.png"
+            },
+            {
+                "id": "protector's_vow",
+                "image": "DA_ProtectorsVow.png"
+            },
+            {
+                "id": "sunfire_cape",
+                "image": "DA_SunfireCape.png"
+            }
+        ],
         "unlock": {
             "description": "",
             "type": false
@@ -1449,10 +1827,10 @@
         "name": "Morgana",
         "image": "tft18_morgana.tft_set18.jpg",
         "price": "4",
-        "average_position": "3.7",
-        "top_4_rate": "68.77",
-        "top_1_rate": "17.35",
-        "battle": "7,362",
+        "average_position": "3.74",
+        "top_4_rate": "67.99",
+        "top_1_rate": "17.28",
+        "battle": "9,099",
         "description_icon": [
             "Passive: Gain 25% Omnivamp.",
             "\n",
@@ -1520,7 +1898,28 @@
                 "image": "Trait_Icon_18_Invoker.TFT_Set18.png"
             }
         ],
-        "items": [],
+        "items": [
+            {
+                "id": "morellonomicon",
+                "image": "DA_Morellonomicon.png"
+            },
+            {
+                "id": "void_staff",
+                "image": "DA_VoidStaff.png"
+            },
+            {
+                "id": "rabadon's_deathcap",
+                "image": "DA_RabadonsDeathcap.png"
+            },
+            {
+                "id": "jeweled_gauntlet",
+                "image": "DA_JeweledGauntlet.png"
+            },
+            {
+                "id": "adaptive_helm",
+                "image": "DA_AdaptiveHelm.png"
+            }
+        ],
         "unlock": {
             "description": "",
             "type": false
@@ -1532,10 +1931,10 @@
         "name": "Lillia",
         "image": "tft18_lillia.tft_set18.jpg",
         "price": "4",
-        "average_position": "3.82",
-        "top_4_rate": "64.2",
-        "top_1_rate": "16.83",
-        "battle": "7,548",
+        "average_position": "3.84",
+        "top_4_rate": "63.87",
+        "top_1_rate": "16.71",
+        "battle": "9,452",
         "description_icon": [
             "Restore 325/475/800(",
             "AP.png",
@@ -1596,7 +1995,28 @@
                 "image": "Trait_Icon_18_Fae.TFT_Set18.png"
             }
         ],
-        "items": [],
+        "items": [
+            {
+                "id": "protector's_vow",
+                "image": "DA_ProtectorsVow.png"
+            },
+            {
+                "id": "gargoyle_stoneplate",
+                "image": "DA_GargoyleStoneplate.png"
+            },
+            {
+                "id": "sunfire_cape",
+                "image": "DA_SunfireCape.png"
+            },
+            {
+                "id": "warmogs_armor",
+                "image": "DA_WarmogsArmor.png"
+            },
+            {
+                "id": "evenshroud",
+                "image": "DA_Evenshroud.png"
+            }
+        ],
         "unlock": {
             "description": "",
             "type": false
@@ -1608,10 +2028,10 @@
         "name": "Alistar",
         "image": "tft18_alistar.tft_set18.jpg",
         "price": "2",
-        "average_position": "4.36",
-        "top_4_rate": "51.5",
-        "top_1_rate": "14.87",
-        "battle": "10,718",
+        "average_position": "4.38",
+        "top_4_rate": "51.24",
+        "top_1_rate": "14.86",
+        "battle": "13,252",
         "description_icon": [
             "Roar, restoring 276/397/566(",
             "Health.png",
@@ -1679,7 +2099,28 @@
                 "image": "Trait_Icon_18_Elderwood.TFT_Set18.png"
             }
         ],
-        "items": [],
+        "items": [
+            {
+                "id": "gargoyle_stoneplate",
+                "image": "DA_GargoyleStoneplate.png"
+            },
+            {
+                "id": "spirit_visage",
+                "image": "DA_SpiritVisage.png"
+            },
+            {
+                "id": "warmogs_armor",
+                "image": "DA_WarmogsArmor.png"
+            },
+            {
+                "id": "sunfire_cape",
+                "image": "DA_SunfireCape.png"
+            },
+            {
+                "id": "protector's_vow",
+                "image": "DA_ProtectorsVow.png"
+            }
+        ],
         "unlock": {
             "description": "",
             "type": false
@@ -1692,9 +2133,9 @@
         "image": "tft18_leblanc.tft_set18.jpg",
         "price": "2",
         "average_position": "4.31",
-        "top_4_rate": "54.89",
-        "top_1_rate": "14.56",
-        "battle": "8,831",
+        "top_4_rate": "54.86",
+        "top_1_rate": "14.79",
+        "battle": "10,956",
         "description_icon": [
             "Passive: After player combat, your strongest LeBlanc has a 10%/15%/40% chance to create a copy of an ally on your board, increased by 4% per takedown.",
             "\n",
@@ -1758,7 +2199,28 @@
                 "image": "Trait_Icon_18_Spellweaver.TFT_Set18.png"
             }
         ],
-        "items": [],
+        "items": [
+            {
+                "id": "jeweled_gauntlet",
+                "image": "DA_JeweledGauntlet.png"
+            },
+            {
+                "id": "void_staff",
+                "image": "DA_VoidStaff.png"
+            },
+            {
+                "id": "hextech_gunblade",
+                "image": "DA_HextechGunblade.png"
+            },
+            {
+                "id": "nashor's_tooth",
+                "image": "DA_NashorsTooth.png"
+            },
+            {
+                "id": "spear_of_shojin",
+                "image": "DA_SpearOfShojin.png"
+            }
+        ],
         "unlock": {
             "description": "",
             "type": false
@@ -1766,14 +2228,102 @@
     },
     {
         "stt": 23,
+        "id": "kha'zix",
+        "name": "Kha'Zix",
+        "image": "tft18_khazix.tft_set18.jpg",
+        "price": "3",
+        "average_position": "4.21",
+        "top_4_rate": "57.81",
+        "top_1_rate": "14.47",
+        "battle": "3,131",
+        "description_icon": [
+            "Leap to the farthest enemy within 3 Hexes, dealing 285/400/580(",
+            "AP.png",
+            ") magic damage. If they have no adjacent allies, deal 310/445/660(",
+            "AP.png",
+            ") magic damage instead and gain 10 mana.{Augment.Variant.RivalsAugment.AbilityTooltip}",
+            "\n",
+            "\n",
+            "Damage: 285(",
+            "AP.png",
+            ") [ 285 / 400 / 580 ]",
+            "\n",
+            "\n",
+            "Isolated Damage: 310(",
+            "AP.png",
+            ") [ 310 / 445 / 660 ]"
+        ],
+        "skill_name": "Taste Their Fear",
+        "skill_image": "DA_18_KhaZix.png",
+        "starting_mana": 0,
+        "skill_mana": 25,
+        "skill_attack_range": 1,
+        "health": [
+            950,
+            1710,
+            3078
+        ],
+        "attack_damage": [
+            30,
+            45,
+            68
+        ],
+        "damage_per_second": [
+            26,
+            38,
+            57
+        ],
+        "attack_speed": 0.85,
+        "armor": 55,
+        "magical_resistance": 55,
+        "stats": [
+            "Damage: 285(%i:scaleAP%) [285 / 400 / 580]",
+            "Isolated Damage: 310(%i:scaleAP%) [310 / 445 / 660]"
+        ],
+        "traits": [
+            {
+                "id": "rival",
+                "name": "Rival",
+                "image": "Trait_Icon_18_Rival.TFT_Set18.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "hand_of_justice",
+                "image": "DA_HandOfJustice.png"
+            },
+            {
+                "id": "edge_of_night",
+                "image": "DA_EdgeOfNight.png"
+            },
+            {
+                "id": "rabadon's_deathcap",
+                "image": "DA_RabadonsDeathcap.png"
+            },
+            {
+                "id": "jeweled_gauntlet",
+                "image": "DA_JeweledGauntlet.png"
+            },
+            {
+                "id": "bloodthirster",
+                "image": "DA_Bloodthirster.png"
+            }
+        ],
+        "unlock": {
+            "description": "",
+            "type": false
+        }
+    },
+    {
+        "stt": 24,
         "id": "teemo",
         "name": "Teemo",
         "image": "tft18_teemo.tft_set18.jpg",
         "price": "2",
-        "average_position": "3.7",
-        "top_4_rate": "70.92",
-        "top_1_rate": "14.42",
-        "battle": "2,545",
+        "average_position": "3.72",
+        "top_4_rate": "70.17",
+        "top_1_rate": "14.15",
+        "battle": "3,145",
         "description_icon": [
             "Throw 2 clusters of mushrooms that deal 60/90/135(",
             "AP.png",
@@ -1843,94 +2393,6 @@
                 "image": "Trait_Icon_18_Sprykin.TFT_Set18.png"
             }
         ],
-        "items": [
-            {
-                "id": "guinsoo's_rageblade",
-                "image": "DA_GuinsoosRageblade.png"
-            },
-            {
-                "id": "",
-                "image": "TFT_Item_MadredsBloodrazor.png"
-            },
-            {
-                "id": "jeweled_gauntlet",
-                "image": "DA_JeweledGauntlet.png"
-            },
-            {
-                "id": "rabadon's_deathcap",
-                "image": "DA_RabadonsDeathcap.png"
-            },
-            {
-                "id": "statikk_shiv",
-                "image": "DA_Artifact_StatikkShiv.png"
-            }
-        ],
-        "unlock": {
-            "description": "",
-            "type": false
-        }
-    },
-    {
-        "stt": 24,
-        "id": "kha'zix",
-        "name": "Kha'Zix",
-        "image": "tft18_khazix.tft_set18.jpg",
-        "price": "3",
-        "average_position": "4.19",
-        "top_4_rate": "58.57",
-        "top_1_rate": "14.02",
-        "battle": "2,503",
-        "description_icon": [
-            "Leap to the farthest enemy within 3 Hexes, dealing 285/400/580(",
-            "AP.png",
-            ") magic damage. If they have no adjacent allies, deal 310/445/660(",
-            "AP.png",
-            ") magic damage instead and gain 10 mana.{Augment.Variant.RivalsAugment.AbilityTooltip}",
-            "\n",
-            "\n",
-            "Damage: 285(",
-            "AP.png",
-            ") [ 285 / 400 / 580 ]",
-            "\n",
-            "\n",
-            "Isolated Damage: 310(",
-            "AP.png",
-            ") [ 310 / 445 / 660 ]"
-        ],
-        "skill_name": "Taste Their Fear",
-        "skill_image": "DA_18_KhaZix.png",
-        "starting_mana": 0,
-        "skill_mana": 25,
-        "skill_attack_range": 1,
-        "health": [
-            950,
-            1710,
-            3078
-        ],
-        "attack_damage": [
-            30,
-            45,
-            68
-        ],
-        "damage_per_second": [
-            26,
-            38,
-            57
-        ],
-        "attack_speed": 0.85,
-        "armor": 55,
-        "magical_resistance": 55,
-        "stats": [
-            "Damage: 285(%i:scaleAP%) [285 / 400 / 580]",
-            "Isolated Damage: 310(%i:scaleAP%) [310 / 445 / 660]"
-        ],
-        "traits": [
-            {
-                "id": "rival",
-                "name": "Rival",
-                "image": "Trait_Icon_18_Rival.TFT_Set18.png"
-            }
-        ],
         "items": [],
         "unlock": {
             "description": "",
@@ -1939,90 +2401,14 @@
     },
     {
         "stt": 25,
-        "id": "hecarim",
-        "name": "Hecarim",
-        "image": "tft18_hecarim.tft_set18.jpg",
-        "price": "3",
-        "average_position": "4.19",
-        "top_4_rate": "57.79",
-        "top_1_rate": "13.88",
-        "battle": "14,938",
-        "description_icon": [
-            "Gain 50 Armor and Magic Resist for 3 seconds and restore 375/475/685(",
-            "AP.png",
-            ") Health over the duration. Launch spectral riders at the 3 nearest enemies, dealing 80/120/195(",
-            "AP.png",
-            ") magic damage and Stunning them for 1.5/1.5/1.75 seconds.",
-            "\n",
-            "\n",
-            "Heal: 375(",
-            "AP.png",
-            ") [ 375 / 475 / 685 ]",
-            "\n",
-            "\n",
-            "Damage: 80(",
-            "AP.png",
-            ") [ 80 / 120 / 195 ]",
-            "\n",
-            "\n",
-            "Stun Duration: [ 1.5 / 1.5 / 1.75 ]"
-        ],
-        "skill_name": "Spirit of Dread",
-        "skill_image": "DA_18_Hecarim.png",
-        "starting_mana": 30,
-        "skill_mana": 110,
-        "skill_attack_range": 1,
-        "health": [
-            1100,
-            1980,
-            3564
-        ],
-        "attack_damage": [
-            50,
-            75,
-            113
-        ],
-        "damage_per_second": [
-            33,
-            49,
-            73
-        ],
-        "attack_speed": 0.65,
-        "armor": 50,
-        "magical_resistance": 50,
-        "stats": [
-            "Heal: 375(%i:scaleAP%) [375 / 475 / 685]",
-            "Damage: 80(%i:scaleAP%) [80 / 120 / 195]",
-            "Stun Duration: [1.5 / 1.5 / 1.75]"
-        ],
-        "traits": [
-            {
-                "id": "elderwood",
-                "name": "Elderwood",
-                "image": "Trait_Icon_18_Elderwood.TFT_Set18.png"
-            },
-            {
-                "id": "vanguard",
-                "name": "Vanguard",
-                "image": "Trait_Icon_18_Vanguard.TFT_Set18.png"
-            }
-        ],
-        "items": [],
-        "unlock": {
-            "description": "",
-            "type": false
-        }
-    },
-    {
-        "stt": 26,
         "id": "nidalee",
         "name": "Nidalee",
         "image": "tft18_nidalee.tft_set18.jpg",
         "price": "4",
         "average_position": "3.66",
-        "top_4_rate": "70.85",
-        "top_1_rate": "13.85",
-        "battle": "4,203",
+        "top_4_rate": "70.83",
+        "top_1_rate": "14.11",
+        "battle": "5,232",
         "description_icon": [
             "Adaptor (",
             "AP.png",
@@ -2086,7 +2472,125 @@
                 "image": "Trait_Icon_18_Primal.TFT_Set18.png"
             }
         ],
-        "items": [],
+        "items": [
+            {
+                "id": "guinsoo's_rageblade",
+                "image": "DA_GuinsoosRageblade.png"
+            },
+            {
+                "id": "jeweled_gauntlet",
+                "image": "DA_JeweledGauntlet.png"
+            },
+            {
+                "id": "striker's_flail",
+                "image": "DA_StrikersFlail.png"
+            },
+            {
+                "id": "rabadon's_deathcap",
+                "image": "DA_RabadonsDeathcap.png"
+            },
+            {
+                "id": "giant_slayer",
+                "image": "DA_GiantSlayer.png"
+            }
+        ],
+        "unlock": {
+            "description": "",
+            "type": false
+        }
+    },
+    {
+        "stt": 26,
+        "id": "hecarim",
+        "name": "Hecarim",
+        "image": "tft18_hecarim.tft_set18.jpg",
+        "price": "3",
+        "average_position": "4.19",
+        "top_4_rate": "57.71",
+        "top_1_rate": "13.89",
+        "battle": "18,679",
+        "description_icon": [
+            "Gain 50 Armor and Magic Resist for 3 seconds and restore 375/475/685(",
+            "AP.png",
+            ") Health over the duration. Launch spectral riders at the 3 nearest enemies, dealing 80/120/195(",
+            "AP.png",
+            ") magic damage and Stunning them for 1.5/1.5/1.75 seconds.",
+            "\n",
+            "\n",
+            "Heal: 375(",
+            "AP.png",
+            ") [ 375 / 475 / 685 ]",
+            "\n",
+            "\n",
+            "Damage: 80(",
+            "AP.png",
+            ") [ 80 / 120 / 195 ]",
+            "\n",
+            "\n",
+            "Stun Duration: [ 1.5 / 1.5 / 1.75 ]"
+        ],
+        "skill_name": "Spirit of Dread",
+        "skill_image": "DA_18_Hecarim.png",
+        "starting_mana": 30,
+        "skill_mana": 110,
+        "skill_attack_range": 1,
+        "health": [
+            1100,
+            1980,
+            3564
+        ],
+        "attack_damage": [
+            50,
+            75,
+            113
+        ],
+        "damage_per_second": [
+            33,
+            49,
+            73
+        ],
+        "attack_speed": 0.65,
+        "armor": 50,
+        "magical_resistance": 50,
+        "stats": [
+            "Heal: 375(%i:scaleAP%) [375 / 475 / 685]",
+            "Damage: 80(%i:scaleAP%) [80 / 120 / 195]",
+            "Stun Duration: [1.5 / 1.5 / 1.75]"
+        ],
+        "traits": [
+            {
+                "id": "elderwood",
+                "name": "Elderwood",
+                "image": "Trait_Icon_18_Elderwood.TFT_Set18.png"
+            },
+            {
+                "id": "vanguard",
+                "name": "Vanguard",
+                "image": "Trait_Icon_18_Vanguard.TFT_Set18.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "gargoyle_stoneplate",
+                "image": "DA_GargoyleStoneplate.png"
+            },
+            {
+                "id": "warmogs_armor",
+                "image": "DA_WarmogsArmor.png"
+            },
+            {
+                "id": "spirit_visage",
+                "image": "DA_SpiritVisage.png"
+            },
+            {
+                "id": "sunfire_cape",
+                "image": "DA_SunfireCape.png"
+            },
+            {
+                "id": "protector's_vow",
+                "image": "DA_ProtectorsVow.png"
+            }
+        ],
         "unlock": {
             "description": "",
             "type": false
@@ -2098,10 +2602,10 @@
         "name": "Master Yi",
         "image": "tft18_masteryi.tft_set18.jpg",
         "price": "3",
-        "average_position": "4.03",
-        "top_4_rate": "63.4",
-        "top_1_rate": "13.73",
-        "battle": "4,298",
+        "average_position": "4.02",
+        "top_4_rate": "63.19",
+        "top_1_rate": "13.77",
+        "battle": "5,434",
         "description_icon": [
             "Passive: Every third attack is a Double Strike. On takedown, gain a burst of movement speed.",
             "\n",
@@ -2160,7 +2664,28 @@
                 "image": "Trait_Icon_18_Blossom.TFT_Set18.png"
             }
         ],
-        "items": [],
+        "items": [
+            {
+                "id": "guinsoo's_rageblade",
+                "image": "DA_GuinsoosRageblade.png"
+            },
+            {
+                "id": "edge_of_night",
+                "image": "DA_EdgeOfNight.png"
+            },
+            {
+                "id": "titan's_resolve",
+                "image": "DA_TitansResolve.png"
+            },
+            {
+                "id": "brawler_emblem",
+                "image": "DA_18_EmblemBrawler.png"
+            },
+            {
+                "id": "bloodthirster",
+                "image": "DA_Bloodthirster.png"
+            }
+        ],
         "unlock": {
             "description": "",
             "type": false
@@ -2172,10 +2697,10 @@
         "name": "Karma",
         "image": "tft18_karma.tft_set18.jpg",
         "price": "1",
-        "average_position": "4.47",
-        "top_4_rate": "51.21",
-        "top_1_rate": "13.59",
-        "battle": "9,808",
+        "average_position": "4.48",
+        "top_4_rate": "50.99",
+        "top_1_rate": "13.68",
+        "battle": "12,193",
         "description_icon": [
             "Tether the current target, dealing 280/420/630(",
             "AP.png",
@@ -2235,7 +2760,28 @@
                 "image": "Trait_Icon_18_Spellweaver.TFT_Set18.png"
             }
         ],
-        "items": [],
+        "items": [
+            {
+                "id": "jeweled_gauntlet",
+                "image": "DA_JeweledGauntlet.png"
+            },
+            {
+                "id": "void_staff",
+                "image": "DA_VoidStaff.png"
+            },
+            {
+                "id": "hextech_gunblade",
+                "image": "DA_HextechGunblade.png"
+            },
+            {
+                "id": "nashor's_tooth",
+                "image": "DA_NashorsTooth.png"
+            },
+            {
+                "id": "morellonomicon",
+                "image": "DA_Morellonomicon.png"
+            }
+        ],
         "unlock": {
             "description": "",
             "type": false
@@ -2243,91 +2789,14 @@
     },
     {
         "stt": 29,
-        "id": "fiddlesticks",
-        "name": "Fiddlesticks",
-        "image": "tft18_fiddlesticks.tft_set18.jpg",
-        "price": "3",
-        "average_position": "4.28",
-        "top_4_rate": "56.05",
-        "top_1_rate": "13.26",
-        "battle": "9,849",
-        "description_icon": [
-            "Reduce the Magic Resist of the 3 nearest enemies by 10. Then drain life from them over 2 seconds, healing for 410/485/850(",
-            "AP.png",
-            ") Health and dealing 70/105/170(",
-            "AP.png",
-            ") magic damage to each over the duration.",
-            "\n",
-            "\n",
-            "Heal: 410(",
-            "AP.png",
-            ") [ 410 / 485 / 850 ]",
-            "\n",
-            "\n",
-            "Damage: 70(",
-            "AP.png",
-            ") [ 70 / 105 / 170 ]"
-        ],
-        "skill_name": "Harvest",
-        "skill_image": "DA_Fiddlesticks18.png",
-        "starting_mana": 30,
-        "skill_mana": 90,
-        "skill_attack_range": 1,
-        "health": [
-            1000,
-            1800,
-            3240
-        ],
-        "attack_damage": [
-            50,
-            75,
-            113
-        ],
-        "damage_per_second": [
-            33,
-            49,
-            73
-        ],
-        "attack_speed": 0.65,
-        "armor": 55,
-        "magical_resistance": 55,
-        "stats": [
-            "Heal: 410(%i:scaleAP%) [410 / 485 / 850]",
-            "Damage: 70(%i:scaleAP%) [70 / 105 / 170]"
-        ],
-        "traits": [
-            {
-                "id": "defender",
-                "name": "Defender",
-                "image": "Trait_Icon_18_Defender.TFT_Set18.png"
-            },
-            {
-                "id": "flora_fatalis",
-                "name": "Flora Fatalis",
-                "image": "Trait_Icon_18_FloraFatalis.TFT_Set18.png"
-            },
-            {
-                "id": "spellweaver",
-                "name": "Spellweaver",
-                "image": "Trait_Icon_18_Spellweaver.TFT_Set18.png"
-            }
-        ],
-        "items": [],
-        "unlock": {
-            "description": "",
-            "type": false
-        }
-    },
-    {
-        "stt": 30,
         "id": "kog'maw",
         "name": "Kog'Maw",
         "image": "tft18_kogmaw.tft_set18.jpg",
         "price": "3",
         "average_position": "4.06",
-        "top_4_rate": "60.48",
-        "top_1_rate": "13.23",
-        "battle": "7,484",
+        "top_4_rate": "60.63",
+        "top_1_rate": "13.51",
+        "battle": "9,356",
         "description_icon": [
             "Adaptor (",
             "AD.png",
@@ -2404,7 +2873,126 @@
                 "image": "Trait_Icon_18_Invoker.TFT_Set18.png"
             }
         ],
-        "items": [],
+        "items": [
+            {
+                "id": "spear_of_shojin",
+                "image": "DA_SpearOfShojin.png"
+            },
+            {
+                "id": "infinity_edge",
+                "image": "DA_InfinityEdge.png"
+            },
+            {
+                "id": "red_buff",
+                "image": "DA_RedBuff.png"
+            },
+            {
+                "id": "jeweled_gauntlet",
+                "image": "DA_JeweledGauntlet.png"
+            },
+            {
+                "id": "giant_slayer",
+                "image": "DA_GiantSlayer.png"
+            }
+        ],
+        "unlock": {
+            "description": "",
+            "type": false
+        }
+    },
+    {
+        "stt": 30,
+        "id": "fiddlesticks",
+        "name": "Fiddlesticks",
+        "image": "tft18_fiddlesticks.tft_set18.jpg",
+        "price": "3",
+        "average_position": "4.29",
+        "top_4_rate": "55.87",
+        "top_1_rate": "13.18",
+        "battle": "12,256",
+        "description_icon": [
+            "Reduce the Magic Resist of the 3 nearest enemies by 10. Then drain life from them over 2 seconds, healing for 410/485/850(",
+            "AP.png",
+            ") Health and dealing 70/105/170(",
+            "AP.png",
+            ") magic damage to each over the duration.",
+            "\n",
+            "\n",
+            "Heal: 410(",
+            "AP.png",
+            ") [ 410 / 485 / 850 ]",
+            "\n",
+            "\n",
+            "Damage: 70(",
+            "AP.png",
+            ") [ 70 / 105 / 170 ]"
+        ],
+        "skill_name": "Harvest",
+        "skill_image": "DA_Fiddlesticks18.png",
+        "starting_mana": 30,
+        "skill_mana": 90,
+        "skill_attack_range": 1,
+        "health": [
+            1000,
+            1800,
+            3240
+        ],
+        "attack_damage": [
+            50,
+            75,
+            113
+        ],
+        "damage_per_second": [
+            33,
+            49,
+            73
+        ],
+        "attack_speed": 0.65,
+        "armor": 55,
+        "magical_resistance": 55,
+        "stats": [
+            "Heal: 410(%i:scaleAP%) [410 / 485 / 850]",
+            "Damage: 70(%i:scaleAP%) [70 / 105 / 170]"
+        ],
+        "traits": [
+            {
+                "id": "defender",
+                "name": "Defender",
+                "image": "Trait_Icon_18_Defender.TFT_Set18.png"
+            },
+            {
+                "id": "flora_fatalis",
+                "name": "Flora Fatalis",
+                "image": "Trait_Icon_18_FloraFatalis.TFT_Set18.png"
+            },
+            {
+                "id": "spellweaver",
+                "name": "Spellweaver",
+                "image": "Trait_Icon_18_Spellweaver.TFT_Set18.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "gargoyle_stoneplate",
+                "image": "DA_GargoyleStoneplate.png"
+            },
+            {
+                "id": "ionic_spark",
+                "image": "DA_IonicSpark.png"
+            },
+            {
+                "id": "sunfire_cape",
+                "image": "DA_SunfireCape.png"
+            },
+            {
+                "id": "warmogs_armor",
+                "image": "DA_WarmogsArmor.png"
+            },
+            {
+                "id": "spirit_visage",
+                "image": "DA_SpiritVisage.png"
+            }
+        ],
         "unlock": {
             "description": "",
             "type": false
@@ -2416,10 +3004,10 @@
         "name": "Ornn",
         "image": "tft18_ornn.tft_set18.jpg",
         "price": "1",
-        "average_position": "4.57",
-        "top_4_rate": "49.89",
-        "top_1_rate": "12.59",
-        "battle": "13,255",
+        "average_position": "4.56",
+        "top_4_rate": "50.19",
+        "top_1_rate": "12.61",
+        "battle": "16,548",
         "description_icon": [
             "Active: Gain 400/460/550(",
             "AP.png",
@@ -2479,7 +3067,28 @@
                 "image": "Trait_Icon_18_Elderwood.TFT_Set18.png"
             }
         ],
-        "items": [],
+        "items": [
+            {
+                "id": "gargoyle_stoneplate",
+                "image": "DA_GargoyleStoneplate.png"
+            },
+            {
+                "id": "spirit_visage",
+                "image": "DA_SpiritVisage.png"
+            },
+            {
+                "id": "warmogs_armor",
+                "image": "DA_WarmogsArmor.png"
+            },
+            {
+                "id": "protector's_vow",
+                "image": "DA_ProtectorsVow.png"
+            },
+            {
+                "id": "sunfire_cape",
+                "image": "DA_SunfireCape.png"
+            }
+        ],
         "unlock": {
             "description": "",
             "type": false
@@ -2491,10 +3100,10 @@
         "name": "Yorick",
         "image": "tft18_yorick.tft_set18.jpg",
         "price": "1",
-        "average_position": "4.57",
-        "top_4_rate": "48.81",
-        "top_1_rate": "12.20",
-        "battle": "15,185",
+        "average_position": "4.58",
+        "top_4_rate": "48.77",
+        "top_1_rate": "12.22",
+        "battle": "18,877",
         "description_icon": [
             "Passive: On death, spawn a Spirit Walker with 330/634/1171(",
             "Health.png",
@@ -2567,7 +3176,28 @@
                 "image": "Trait_Icon_18_Summoner.TFT_Set18.png"
             }
         ],
-        "items": [],
+        "items": [
+            {
+                "id": "gargoyle_stoneplate",
+                "image": "DA_GargoyleStoneplate.png"
+            },
+            {
+                "id": "protector's_vow",
+                "image": "DA_ProtectorsVow.png"
+            },
+            {
+                "id": "sunfire_cape",
+                "image": "DA_SunfireCape.png"
+            },
+            {
+                "id": "spirit_visage",
+                "image": "DA_SpiritVisage.png"
+            },
+            {
+                "id": "evenshroud",
+                "image": "DA_Evenshroud.png"
+            }
+        ],
         "unlock": {
             "description": "",
             "type": false
@@ -2575,14 +3205,108 @@
     },
     {
         "stt": 33,
+        "id": "diana",
+        "name": "Diana",
+        "image": "tft18_diana.tft_set18.jpg",
+        "price": "3",
+        "average_position": "4.43",
+        "top_4_rate": "50.77",
+        "top_1_rate": "12.07",
+        "battle": "20,196",
+        "description_icon": [
+            "Gain 150/275/400 shield for 2 seconds and send out 6 moonlight orbs spread among enemies within 2 hexes, each dealing 70/105/170(",
+            "AP.png",
+            ") magic damage.",
+            "\n",
+            "\n",
+            "Damage: 70(",
+            "AP.png",
+            ") [ 70 / 105 / 170 ]",
+            "\n",
+            "\n",
+            "Shield: 150 [ 150 / 275 / 400 ]"
+        ],
+        "skill_name": "Pale Barrier",
+        "skill_image": "DA_18_Diana.png",
+        "starting_mana": 0,
+        "skill_mana": 40,
+        "skill_attack_range": 1,
+        "health": [
+            850,
+            1530,
+            2754
+        ],
+        "attack_damage": [
+            30,
+            45,
+            68
+        ],
+        "damage_per_second": [
+            24,
+            36,
+            54
+        ],
+        "attack_speed": 0.8,
+        "armor": 50,
+        "magical_resistance": 50,
+        "stats": [
+            "Damage: 70(%i:scaleAP%) [70 / 105 / 170]",
+            "Shield: 150 [150 / 275 / 400]"
+        ],
+        "traits": [
+            {
+                "id": "lunar",
+                "name": "Lunar",
+                "image": "Trait_Icon_18_Lunar.TFT_Set18.png"
+            },
+            {
+                "id": "ravager",
+                "name": "Ravager",
+                "image": "Trait_Icon_18_Ravager.TFT_Set18.png"
+            },
+            {
+                "id": "vanguard",
+                "name": "Vanguard",
+                "image": "Trait_Icon_18_Vanguard.TFT_Set18.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "hand_of_justice",
+                "image": "DA_HandOfJustice.png"
+            },
+            {
+                "id": "jeweled_gauntlet",
+                "image": "DA_JeweledGauntlet.png"
+            },
+            {
+                "id": "ionic_spark",
+                "image": "DA_IonicSpark.png"
+            },
+            {
+                "id": "bloodthirster",
+                "image": "DA_Bloodthirster.png"
+            },
+            {
+                "id": "titan's_resolve",
+                "image": "DA_TitansResolve.png"
+            }
+        ],
+        "unlock": {
+            "description": "",
+            "type": false
+        }
+    },
+    {
+        "stt": 34,
         "id": "sejuani",
         "name": "Sejuani",
         "image": "tft18_sejuani.tft_set18.jpg",
         "price": "2",
-        "average_position": "4.51",
-        "top_4_rate": "52.5",
-        "top_1_rate": "12.15",
-        "battle": "8,080",
+        "average_position": "4.5",
+        "top_4_rate": "52.51",
+        "top_1_rate": "12.00",
+        "battle": "10,076",
         "description_icon": [
             "Gain 315/412/567(",
             "Health.png",
@@ -2650,22 +3374,43 @@
                 "image": "Trait_Icon_18_Solar.TFT_Set18.png"
             }
         ],
-        "items": [],
+        "items": [
+            {
+                "id": "gargoyle_stoneplate",
+                "image": "DA_GargoyleStoneplate.png"
+            },
+            {
+                "id": "spirit_visage",
+                "image": "DA_SpiritVisage.png"
+            },
+            {
+                "id": "warmogs_armor",
+                "image": "DA_WarmogsArmor.png"
+            },
+            {
+                "id": "protector's_vow",
+                "image": "DA_ProtectorsVow.png"
+            },
+            {
+                "id": "sunfire_cape",
+                "image": "DA_SunfireCape.png"
+            }
+        ],
         "unlock": {
             "description": "",
             "type": false
         }
     },
     {
-        "stt": 34,
+        "stt": 35,
         "id": "kobuko",
         "name": "Kobuko",
         "image": "tft18_kobuko.tft_set18.jpg",
         "price": "1",
-        "average_position": "4.11",
-        "top_4_rate": "58.08",
-        "top_1_rate": "12.13",
-        "battle": "4,203",
+        "average_position": "4.12",
+        "top_4_rate": "57.83",
+        "top_1_rate": "11.81",
+        "battle": "5,181",
         "description_icon": [
             "Restore 314/403/619(",
             "Health.png",
@@ -2728,80 +3473,28 @@
                 "image": "Trait_Icon_18_Sprykin.TFT_Set18.png"
             }
         ],
-        "items": [],
-        "unlock": {
-            "description": "",
-            "type": false
-        }
-    },
-    {
-        "stt": 35,
-        "id": "diana",
-        "name": "Diana",
-        "image": "tft18_diana.tft_set18.jpg",
-        "price": "3",
-        "average_position": "4.42",
-        "top_4_rate": "50.73",
-        "top_1_rate": "12.05",
-        "battle": "16,360",
-        "description_icon": [
-            "Gain 150/275/400 shield for 2 seconds and send out 6 moonlight orbs spread among enemies within 2 hexes, each dealing 70/105/170(",
-            "AP.png",
-            ") magic damage.",
-            "\n",
-            "\n",
-            "Damage: 70(",
-            "AP.png",
-            ") [ 70 / 105 / 170 ]",
-            "\n",
-            "\n",
-            "Shield: 150 [ 150 / 275 / 400 ]"
-        ],
-        "skill_name": "Pale Barrier",
-        "skill_image": "DA_18_Diana.png",
-        "starting_mana": 0,
-        "skill_mana": 40,
-        "skill_attack_range": 1,
-        "health": [
-            850,
-            1530,
-            2754
-        ],
-        "attack_damage": [
-            30,
-            45,
-            68
-        ],
-        "damage_per_second": [
-            24,
-            36,
-            54
-        ],
-        "attack_speed": 0.8,
-        "armor": 50,
-        "magical_resistance": 50,
-        "stats": [
-            "Damage: 70(%i:scaleAP%) [70 / 105 / 170]",
-            "Shield: 150 [150 / 275 / 400]"
-        ],
-        "traits": [
+        "items": [
             {
-                "id": "lunar",
-                "name": "Lunar",
-                "image": "Trait_Icon_18_Lunar.TFT_Set18.png"
+                "id": "gargoyle_stoneplate",
+                "image": "DA_GargoyleStoneplate.png"
             },
             {
-                "id": "ravager",
-                "name": "Ravager",
-                "image": "Trait_Icon_18_Ravager.TFT_Set18.png"
+                "id": "warmogs_armor",
+                "image": "DA_WarmogsArmor.png"
             },
             {
-                "id": "vanguard",
-                "name": "Vanguard",
-                "image": "Trait_Icon_18_Vanguard.TFT_Set18.png"
+                "id": "sunfire_cape",
+                "image": "DA_SunfireCape.png"
+            },
+            {
+                "id": "spirit_visage",
+                "image": "DA_SpiritVisage.png"
+            },
+            {
+                "id": "ionic_spark",
+                "image": "DA_IonicSpark.png"
             }
         ],
-        "items": [],
         "unlock": {
             "description": "",
             "type": false
@@ -2809,92 +3502,14 @@
     },
     {
         "stt": 36,
-        "id": "rammus",
-        "name": "Rammus",
-        "image": "tft18_rammus.tft_set18.jpg",
-        "price": "3",
-        "average_position": "4.44",
-        "top_4_rate": "50.56",
-        "top_1_rate": "11.43",
-        "battle": "7,027",
-        "description_icon": [
-            "Taunt, forcing enemies to attack this champion. For 4 seconds, gain 350/450/550(",
-            "AP.png",
-            ") Shield and 60 Armor and Magic Resist.",
-            "\n",
-            "\n",
-            "When the Shield breaks, deal 50/75/120(",
-            "Armor.png",
-            "MR.png",
-            ") physical damage to enemies in 2 Hexes.",
-            "\n",
-            "\n",
-            "Shield: 350(",
-            "AP.png",
-            ") [ 350 / 450 / 550 ]",
-            "\n",
-            "\n",
-            "Damage: 50 = 25(",
-            "Armor.png",
-            ") + 25(",
-            "MR.png",
-            ") [50% / 75% / 120%]"
-        ],
-        "skill_name": "Defensive Ball Curl",
-        "skill_image": "DA_18_Rammus.png",
-        "starting_mana": 30,
-        "skill_mana": 80,
-        "skill_attack_range": 1,
-        "health": [
-            1100,
-            1980,
-            3564
-        ],
-        "attack_damage": [
-            50,
-            75,
-            113
-        ],
-        "damage_per_second": [
-            30,
-            45,
-            68
-        ],
-        "attack_speed": 0.6,
-        "armor": 50,
-        "magical_resistance": 50,
-        "stats": [
-            "Shield: 350(%i:scaleAP%) [350 / 450 / 550]",
-            "Damage: 50 = 25(%i:scaleArmor%) + 25(%i:scaleMR%) [50% / 75% / 120%]"
-        ],
-        "traits": [
-            {
-                "id": "defender",
-                "name": "Defender",
-                "image": "Trait_Icon_18_Defender.TFT_Set18.png"
-            },
-            {
-                "id": "sprykin",
-                "name": "Sprykin",
-                "image": "Trait_Icon_18_Sprykin.TFT_Set18.png"
-            }
-        ],
-        "items": [],
-        "unlock": {
-            "description": "",
-            "type": false
-        }
-    },
-    {
-        "stt": 37,
         "id": "cassiopeia",
         "name": "Cassiopeia",
         "image": "tft18_cassiopeia.tft_set18.jpg",
         "price": "3",
         "average_position": "4.43",
-        "top_4_rate": "56.66",
-        "top_1_rate": "11.35",
-        "battle": "2,838",
+        "top_4_rate": "56.08",
+        "top_1_rate": "11.57",
+        "battle": "3,577",
         "description_icon": [
             "Poison the target and the nearest non-poisoned enemy, dealing 440/660/1050(",
             "AP.png",
@@ -2943,22 +3558,43 @@
                 "image": "Trait_Icon_18_Spellweaver.TFT_Set18.png"
             }
         ],
-        "items": [],
+        "items": [
+            {
+                "id": "hextech_gunblade",
+                "image": "DA_HextechGunblade.png"
+            },
+            {
+                "id": "spear_of_shojin",
+                "image": "DA_SpearOfShojin.png"
+            },
+            {
+                "id": "jeweled_gauntlet",
+                "image": "DA_JeweledGauntlet.png"
+            },
+            {
+                "id": "rabadon's_deathcap",
+                "image": "DA_RabadonsDeathcap.png"
+            },
+            {
+                "id": "blue_buff",
+                "image": "DA_BlueBuff.png"
+            }
+        ],
         "unlock": {
             "description": "",
             "type": false
         }
     },
     {
-        "stt": 38,
+        "stt": 37,
         "id": "yunara",
         "name": "Yunara",
         "image": "tft18_yunara.tft_set18.jpg",
         "price": "2",
-        "average_position": "4.72",
-        "top_4_rate": "49.66",
-        "top_1_rate": "11.35",
-        "battle": "4,440",
+        "average_position": "4.73",
+        "top_4_rate": "49.27",
+        "top_1_rate": "11.42",
+        "battle": "5,517",
         "description_icon": [
             "Dash, then launch an orb at the current target that deals 160/240/360(",
             "AD.png",
@@ -3023,22 +3659,43 @@
                 "image": "Trait_Icon_18_Executioner.TFT_Set18.png"
             }
         ],
-        "items": [],
+        "items": [
+            {
+                "id": "spear_of_shojin",
+                "image": "DA_SpearOfShojin.png"
+            },
+            {
+                "id": "deathblade",
+                "image": "DA_Deathblade.png"
+            },
+            {
+                "id": "infinity_edge",
+                "image": "DA_InfinityEdge.png"
+            },
+            {
+                "id": "striker's_flail",
+                "image": "DA_StrikersFlail.png"
+            },
+            {
+                "id": "giant_slayer",
+                "image": "DA_GiantSlayer.png"
+            }
+        ],
         "unlock": {
             "description": "",
             "type": false
         }
     },
     {
-        "stt": 39,
+        "stt": 38,
         "id": "vi",
         "name": "Vi",
         "image": "tft18_vi.tft_set18.jpg",
         "price": "3",
         "average_position": "4.63",
-        "top_4_rate": "46.36",
-        "top_1_rate": "11.31",
-        "battle": "18,577",
+        "top_4_rate": "46.4",
+        "top_1_rate": "11.34",
+        "battle": "22,954",
         "description_icon": [
             "Passive: On attack, restore 22/40/71(",
             "Health.png",
@@ -3102,7 +3759,127 @@
                 "image": "Trait_Icon_18_Primal.TFT_Set18.png"
             }
         ],
-        "items": [],
+        "items": [
+            {
+                "id": "gargoyle_stoneplate",
+                "image": "DA_GargoyleStoneplate.png"
+            },
+            {
+                "id": "spirit_visage",
+                "image": "DA_SpiritVisage.png"
+            },
+            {
+                "id": "warmogs_armor",
+                "image": "DA_WarmogsArmor.png"
+            },
+            {
+                "id": "sunfire_cape",
+                "image": "DA_SunfireCape.png"
+            },
+            {
+                "id": "protector's_vow",
+                "image": "DA_ProtectorsVow.png"
+            }
+        ],
+        "unlock": {
+            "description": "",
+            "type": false
+        }
+    },
+    {
+        "stt": 39,
+        "id": "rammus",
+        "name": "Rammus",
+        "image": "tft18_rammus.tft_set18.jpg",
+        "price": "3",
+        "average_position": "4.45",
+        "top_4_rate": "50.4",
+        "top_1_rate": "11.32",
+        "battle": "8,705",
+        "description_icon": [
+            "Taunt, forcing enemies to attack this champion. For 4 seconds, gain 350/450/550(",
+            "AP.png",
+            ") Shield and 60 Armor and Magic Resist.",
+            "\n",
+            "\n",
+            "When the Shield breaks, deal 50/75/120(",
+            "Armor.png",
+            "MR.png",
+            ") physical damage to enemies in 2 Hexes.",
+            "\n",
+            "\n",
+            "Shield: 350(",
+            "AP.png",
+            ") [ 350 / 450 / 550 ]",
+            "\n",
+            "\n",
+            "Damage: 50 = 25(",
+            "Armor.png",
+            ") + 25(",
+            "MR.png",
+            ") [50% / 75% / 120%]"
+        ],
+        "skill_name": "Defensive Ball Curl",
+        "skill_image": "DA_18_Rammus.png",
+        "starting_mana": 30,
+        "skill_mana": 80,
+        "skill_attack_range": 1,
+        "health": [
+            1100,
+            1980,
+            3564
+        ],
+        "attack_damage": [
+            50,
+            75,
+            113
+        ],
+        "damage_per_second": [
+            30,
+            45,
+            68
+        ],
+        "attack_speed": 0.6,
+        "armor": 50,
+        "magical_resistance": 50,
+        "stats": [
+            "Shield: 350(%i:scaleAP%) [350 / 450 / 550]",
+            "Damage: 50 = 25(%i:scaleArmor%) + 25(%i:scaleMR%) [50% / 75% / 120%]"
+        ],
+        "traits": [
+            {
+                "id": "defender",
+                "name": "Defender",
+                "image": "Trait_Icon_18_Defender.TFT_Set18.png"
+            },
+            {
+                "id": "sprykin",
+                "name": "Sprykin",
+                "image": "Trait_Icon_18_Sprykin.TFT_Set18.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "gargoyle_stoneplate",
+                "image": "DA_GargoyleStoneplate.png"
+            },
+            {
+                "id": "warmogs_armor",
+                "image": "DA_WarmogsArmor.png"
+            },
+            {
+                "id": "spirit_visage",
+                "image": "DA_SpiritVisage.png"
+            },
+            {
+                "id": "sunfire_cape",
+                "image": "DA_SunfireCape.png"
+            },
+            {
+                "id": "protector's_vow",
+                "image": "DA_ProtectorsVow.png"
+            }
+        ],
         "unlock": {
             "description": "",
             "type": false
@@ -3110,14 +3887,110 @@
     },
     {
         "stt": 40,
+        "id": "leona",
+        "name": "Leona",
+        "image": "tft18_leona.tft_set18.jpg",
+        "price": "1",
+        "average_position": "4.64",
+        "top_4_rate": "46.65",
+        "top_1_rate": "11.17",
+        "battle": "10,809",
+        "description_icon": [
+            "Passive: Start combat with 60/70/80(",
+            "AP.png",
+            ") bonus Armor and Magic Resist that decays over 12 seconds.",
+            "\n",
+            "\n",
+            "Active: Bash the current target, dealing 60/108/162(",
+            "Armor.png",
+            ") magic damage and Stunning them for 1.5 seconds.",
+            "\n",
+            "\n",
+            "Decaying Resists: 60(",
+            "AP.png",
+            ") [ 60 / 70 / 80 ]",
+            "\n",
+            "\n",
+            "Damage: 60(",
+            "Armor.png",
+            ") [150% / 270% / 405%]"
+        ],
+        "skill_name": "Shield Bash",
+        "skill_image": "DA_18_Leona.png",
+        "starting_mana": 40,
+        "skill_mana": 100,
+        "skill_attack_range": 1,
+        "health": [
+            750,
+            1350,
+            2430
+        ],
+        "attack_damage": [
+            50,
+            75,
+            113
+        ],
+        "damage_per_second": [
+            33,
+            49,
+            73
+        ],
+        "attack_speed": 0.65,
+        "armor": 40,
+        "magical_resistance": 40,
+        "stats": [
+            "Decaying Resists: 60(%i:scaleAP%) [60 / 70 / 80]",
+            "Damage: 60(%i:scaleArmor%) [150% / 270% / 405%]"
+        ],
+        "traits": [
+            {
+                "id": "defender",
+                "name": "Defender",
+                "image": "Trait_Icon_18_Defender.TFT_Set18.png"
+            },
+            {
+                "id": "solar",
+                "name": "Solar",
+                "image": "Trait_Icon_18_Solar.TFT_Set18.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "gargoyle_stoneplate",
+                "image": "DA_GargoyleStoneplate.png"
+            },
+            {
+                "id": "spirit_visage",
+                "image": "DA_SpiritVisage.png"
+            },
+            {
+                "id": "warmogs_armor",
+                "image": "DA_WarmogsArmor.png"
+            },
+            {
+                "id": "protector's_vow",
+                "image": "DA_ProtectorsVow.png"
+            },
+            {
+                "id": "sunfire_cape",
+                "image": "DA_SunfireCape.png"
+            }
+        ],
+        "unlock": {
+            "description": "",
+            "type": false
+        }
+    },
+    {
+        "stt": 41,
         "id": "malphite",
         "name": "Malphite",
         "image": "tft18_malphite.tft_set18.jpg",
         "price": "4",
-        "average_position": "4.28",
-        "top_4_rate": "56.77",
-        "top_1_rate": "11.29",
-        "battle": "5,172",
+        "average_position": "4.3",
+        "top_4_rate": "56.25",
+        "top_1_rate": "10.99",
+        "battle": "6,480",
         "description_icon": [
             "Gain 700/850/2000(",
             "AP.png",
@@ -3186,79 +4059,105 @@
                 "image": "Trait_Icon_18_Monolith.TFT_Set18.png"
             }
         ],
-        "items": [],
+        "items": [
+            {
+                "id": "gargoyle_stoneplate",
+                "image": "DA_GargoyleStoneplate.png"
+            },
+            {
+                "id": "warmogs_armor",
+                "image": "DA_WarmogsArmor.png"
+            },
+            {
+                "id": "spirit_visage",
+                "image": "DA_SpiritVisage.png"
+            },
+            {
+                "id": "crownguard",
+                "image": "DA_Crownguard.png"
+            },
+            {
+                "id": "dragon's_claw",
+                "image": "DA_DragonsClaw.png"
+            }
+        ],
         "unlock": {
             "description": "",
             "type": false
         }
     },
     {
-        "stt": 41,
-        "id": "leona",
-        "name": "Leona",
-        "image": "tft18_leona.tft_set18.jpg",
+        "stt": 42,
+        "id": "xayah",
+        "name": "Xayah",
+        "image": "tft18_xayah.tft_set18.jpg",
         "price": "1",
-        "average_position": "4.66",
-        "top_4_rate": "46.26",
-        "top_1_rate": "11.19",
-        "battle": "8,674",
+        "average_position": "4.84",
+        "top_4_rate": "42.27",
+        "top_1_rate": "10.19",
+        "battle": "18,407",
         "description_icon": [
-            "Passive: Start combat with 60/70/80(",
+            "Gain 50% Attack Speed for the next 5 attacks. These attacks are replaced with feathers that deal 68/102/155(",
+            "AD.png",
+            ") physical damage and reduce Armor by 2(",
             "AP.png",
-            ") bonus Armor and Magic Resist that decays over 12 seconds.",
+            ").",
             "\n",
             "\n",
-            "Active: Bash the current target, dealing 60/108/162(",
-            "Armor.png",
-            ") magic damage and Stunning them for 1.5 seconds.",
+            "Damage: 68(",
+            "AD.png",
+            ") [ 68 / 102 / 155 ]",
             "\n",
             "\n",
-            "Decaying Resists: 60(",
+            "Armor Reduction: 2(",
             "AP.png",
-            ") [ 60 / 70 / 80 ]",
-            "\n",
-            "\n",
-            "Damage: 60(",
-            "Armor.png",
-            ") [150% / 270% / 405%]"
+            ") [ 2 / 2 / 2 ]"
         ],
-        "skill_name": "Shield Bash",
-        "skill_image": "DA_18_Leona.png",
-        "starting_mana": 40,
-        "skill_mana": 100,
-        "skill_attack_range": 1,
+        "skill_name": "Deadly Plumage",
+        "skill_image": "DA_18_Xayah.png",
+        "starting_mana": 0,
+        "skill_mana": 50,
+        "skill_attack_range": 5,
         "health": [
-            750,
-            1350,
-            2430
+            850,
+            1530,
+            2754
         ],
         "attack_damage": [
-            50,
-            75,
-            113
+            49,
+            74,
+            110
         ],
         "damage_per_second": [
-            33,
-            49,
-            73
+            37,
+            55,
+            83
         ],
-        "attack_speed": 0.65,
-        "armor": 40,
-        "magical_resistance": 40,
+        "attack_speed": 0.75,
+        "armor": 30,
+        "magical_resistance": 30,
         "stats": [
-            "Decaying Resists: 60(%i:scaleAP%) [60 / 70 / 80]",
-            "Damage: 60(%i:scaleArmor%) [150% / 270% / 405%]"
+            "Strikes: [3 / 3 / 5]",
+            "Damage Reduction: [60% / 60% / 30%]",
+            "Damage: %i:scaleAP% [6 / 9 / 60]",
+            "Damage: 51 = 45(%i:scaleAD%) + 6(%i:scaleAP%) [45 / 68 / 900]",
+            "Primary Target Damage: %i:scaleAD% [25 / 40 / 200]"
         ],
         "traits": [
             {
-                "id": "defender",
-                "name": "Defender",
-                "image": "Trait_Icon_18_Defender.TFT_Set18.png"
+                "id": "elderwood",
+                "name": "Elderwood",
+                "image": "Trait_Icon_18_Elderwood.TFT_Set18.png"
             },
             {
-                "id": "solar",
-                "name": "Solar",
-                "image": "Trait_Icon_18_Solar.TFT_Set18.png"
+                "id": "fae",
+                "name": "Fae",
+                "image": "Trait_Icon_18_Fae.TFT_Set18.png"
+            },
+            {
+                "id": "rapidfire",
+                "name": "Rapidfire",
+                "image": "Trait_Icon_18_Rapidfire.TFT_Set18.png"
             }
         ],
         "items": [],
@@ -3268,15 +4167,15 @@
         }
     },
     {
-        "stt": 42,
+        "stt": 43,
         "id": "kayle",
         "name": "Kayle",
         "image": "tft18_kayle.tft_set18.jpg",
         "price": "2",
-        "average_position": "4.71",
-        "top_4_rate": "43.6",
-        "top_1_rate": "10.19",
-        "battle": "8,561",
+        "average_position": "4.69",
+        "top_4_rate": "44.1",
+        "top_1_rate": "10.12",
+        "battle": "10,552",
         "description_icon": [
             "Passive: Kayle ascends based on her star level, granting her stacking bonuses.",
             "\n",
@@ -3345,106 +4244,26 @@
                 "image": "Trait_Icon_18_Solar.TFT_Set18.png"
             }
         ],
-        "items": [],
-        "unlock": {
-            "description": "",
-            "type": false
-        }
-    },
-    {
-        "stt": 43,
-        "id": "xayah",
-        "name": "Xayah",
-        "image": "tft18_xayah.tft_set18.jpg",
-        "price": "1",
-        "average_position": "4.86",
-        "top_4_rate": "41.84",
-        "top_1_rate": "10.18",
-        "battle": "14,846",
-        "description_icon": [
-            "Gain 50% Attack Speed for the next 5 attacks. These attacks are replaced with feathers that deal 68/102/155(",
-            "AD.png",
-            ") physical damage and reduce Armor by 2(",
-            "AP.png",
-            ").",
-            "\n",
-            "\n",
-            "Damage: 68(",
-            "AD.png",
-            ") [ 68 / 102 / 155 ]",
-            "\n",
-            "\n",
-            "Armor Reduction: 2(",
-            "AP.png",
-            ") [ 2 / 2 / 2 ]"
-        ],
-        "skill_name": "Deadly Plumage",
-        "skill_image": "DA_18_Xayah.png",
-        "starting_mana": 0,
-        "skill_mana": 50,
-        "skill_attack_range": 5,
-        "health": [
-            850,
-            1530,
-            2754
-        ],
-        "attack_damage": [
-            49,
-            74,
-            110
-        ],
-        "damage_per_second": [
-            37,
-            55,
-            83
-        ],
-        "attack_speed": 0.75,
-        "armor": 30,
-        "magical_resistance": 30,
-        "stats": [
-            "Strikes: [3 / 3 / 5]",
-            "Damage Reduction: [60% / 60% / 30%]",
-            "Damage: %i:scaleAP% [6 / 9 / 60]",
-            "Damage: 51 = 45(%i:scaleAD%) + 6(%i:scaleAP%) [45 / 68 / 900]",
-            "Primary Target Damage: %i:scaleAD% [25 / 40 / 200]"
-        ],
-        "traits": [
-            {
-                "id": "elderwood",
-                "name": "Elderwood",
-                "image": "Trait_Icon_18_Elderwood.TFT_Set18.png"
-            },
-            {
-                "id": "fae",
-                "name": "Fae",
-                "image": "Trait_Icon_18_Fae.TFT_Set18.png"
-            },
-            {
-                "id": "rapidfire",
-                "name": "Rapidfire",
-                "image": "Trait_Icon_18_Rapidfire.TFT_Set18.png"
-            }
-        ],
         "items": [
-            {
-                "id": "",
-                "image": "TFT_Item_RunaansHurricane.png"
-            },
-            {
-                "id": "rapid_firecannon",
-                "image": "DA_Artifact_RapidFireCannon.png"
-            },
             {
                 "id": "guinsoo's_rageblade",
                 "image": "DA_GuinsoosRageblade.png"
             },
             {
-                "id": "infinity_edge",
-                "image": "DA_InfinityEdge.png"
+                "id": "jeweled_gauntlet",
+                "image": "DA_JeweledGauntlet.png"
             },
             {
-                "id": "last_whisper",
-                "image": "DA_LastWhisper.png"
+                "id": "rabadon's_deathcap",
+                "image": "DA_RabadonsDeathcap.png"
+            },
+            {
+                "id": "giant_slayer",
+                "image": "DA_GiantSlayer.png"
+            },
+            {
+                "id": "hextech_gunblade",
+                "image": "DA_HextechGunblade.png"
             }
         ],
         "unlock": {
@@ -3458,10 +4277,10 @@
         "name": "Rakan",
         "image": "tft18_rakan.tft_set18.jpg",
         "price": "1",
-        "average_position": "4.81",
-        "top_4_rate": "42.02",
-        "top_1_rate": "9.66",
-        "battle": "15,119",
+        "average_position": "4.8",
+        "top_4_rate": "42.4",
+        "top_1_rate": "9.61",
+        "battle": "18,612",
         "description_icon": [
             "Gain 270/320/415(",
             "AP.png",
@@ -3523,7 +4342,28 @@
                 "image": "Trait_Icon_18_Vanguard.TFT_Set18.png"
             }
         ],
-        "items": [],
+        "items": [
+            {
+                "id": "gargoyle_stoneplate",
+                "image": "DA_GargoyleStoneplate.png"
+            },
+            {
+                "id": "protector's_vow",
+                "image": "DA_ProtectorsVow.png"
+            },
+            {
+                "id": "spirit_visage",
+                "image": "DA_SpiritVisage.png"
+            },
+            {
+                "id": "ionic_spark",
+                "image": "DA_IonicSpark.png"
+            },
+            {
+                "id": "sunfire_cape",
+                "image": "DA_SunfireCape.png"
+            }
+        ],
         "unlock": {
             "description": "",
             "type": false
@@ -3535,10 +4375,10 @@
         "name": "Veigar",
         "image": "tft18_veigar.tft_set18.jpg",
         "price": "1",
-        "average_position": "4.3",
-        "top_4_rate": "55.06",
-        "top_1_rate": "9.58",
-        "battle": "4,186",
+        "average_position": "4.31",
+        "top_4_rate": "54.62",
+        "top_1_rate": "9.24",
+        "battle": "5,165",
         "description_icon": [
             "Launch a giant blast at the target that deals 175/265/395(",
             "AP.png",
@@ -3620,10 +4460,10 @@
         "name": "Rek'Sai",
         "image": "tft18_reksai.tft_set18.jpg",
         "price": "1",
-        "average_position": "4.32",
-        "top_4_rate": "54.72",
-        "top_1_rate": "9.23",
-        "battle": "4,419",
+        "average_position": "4.34",
+        "top_4_rate": "54.38",
+        "top_1_rate": "8.88",
+        "battle": "5,484",
         "description_icon": [
             "Passive: Restore 17/27/43(",
             "Health.png",
@@ -3683,7 +4523,28 @@
                 "image": "Trait_Icon_18_OldGod.TFT_Set18.png"
             }
         ],
-        "items": [],
+        "items": [
+            {
+                "id": "gargoyle_stoneplate",
+                "image": "DA_GargoyleStoneplate.png"
+            },
+            {
+                "id": "warmogs_armor",
+                "image": "DA_WarmogsArmor.png"
+            },
+            {
+                "id": "spirit_visage",
+                "image": "DA_SpiritVisage.png"
+            },
+            {
+                "id": "sunfire_cape",
+                "image": "DA_SunfireCape.png"
+            },
+            {
+                "id": "protector's_vow",
+                "image": "DA_ProtectorsVow.png"
+            }
+        ],
         "unlock": {
             "description": "",
             "type": false
@@ -3695,10 +4556,10 @@
         "name": "Tristana",
         "image": "tft18_tristana.tft_set18.jpg",
         "price": "3",
-        "average_position": "4.88",
-        "top_4_rate": "41.96",
-        "top_1_rate": "8.68",
-        "battle": "7,698",
+        "average_position": "4.87",
+        "top_4_rate": "42.05",
+        "top_1_rate": "8.52",
+        "battle": "9,559",
         "description_icon": [
             "Attach an explosive charge to the target that lasts 4 seconds. While active, gain infinite range and 60%(",
             "AP.png",
@@ -3771,7 +4632,28 @@
                 "image": "Trait_Icon_18_Sprykin.TFT_Set18.png"
             }
         ],
-        "items": [],
+        "items": [
+            {
+                "id": "guinsoo's_rageblade",
+                "image": "DA_GuinsoosRageblade.png"
+            },
+            {
+                "id": "infinity_edge",
+                "image": "DA_InfinityEdge.png"
+            },
+            {
+                "id": "giant_slayer",
+                "image": "DA_GiantSlayer.png"
+            },
+            {
+                "id": "hextech_gunblade",
+                "image": "DA_HextechGunblade.png"
+            },
+            {
+                "id": "kraken's_fury",
+                "image": "DA_KrakensFury.png"
+            }
+        ],
         "unlock": {
             "description": "",
             "type": false
@@ -3783,10 +4665,10 @@
         "name": "Elise",
         "image": "tft18_elise.tft_set18.jpg",
         "price": "2",
-        "average_position": "4.97",
-        "top_4_rate": "43.5",
-        "top_1_rate": "7.88",
-        "battle": "3,818",
+        "average_position": "5.02",
+        "top_4_rate": "42.37",
+        "top_1_rate": "7.90",
+        "battle": "4,708",
         "description_icon": [
             "Transform into a spider and gain 375/475/725 max Health. Attacks while in Spider Form deal 35/50/80(",
             "AP.png",
@@ -3847,7 +4729,28 @@
                 "image": "Trait_Icon_18_Vanguard.TFT_Set18.png"
             }
         ],
-        "items": [],
+        "items": [
+            {
+                "id": "gargoyle_stoneplate",
+                "image": "DA_GargoyleStoneplate.png"
+            },
+            {
+                "id": "spirit_visage",
+                "image": "DA_SpiritVisage.png"
+            },
+            {
+                "id": "warmogs_armor",
+                "image": "DA_WarmogsArmor.png"
+            },
+            {
+                "id": "protector's_vow",
+                "image": "DA_ProtectorsVow.png"
+            },
+            {
+                "id": "sunfire_cape",
+                "image": "DA_SunfireCape.png"
+            }
+        ],
         "unlock": {
             "description": "",
             "type": false
@@ -3859,10 +4762,10 @@
         "name": "Caitlyn",
         "image": "tft18_caitlyn.tft_set18.jpg",
         "price": "2",
-        "average_position": "4.87",
-        "top_4_rate": "46.14",
-        "top_1_rate": "6.81",
-        "battle": "3,409",
+        "average_position": "4.91",
+        "top_4_rate": "45.17",
+        "top_1_rate": "6.72",
+        "battle": "4,244",
         "description_icon": [
             "Passive: Every third attack is replaced with a Headshot that deals 210/315/515(",
             "AD.png",
@@ -3920,7 +4823,28 @@
                 "image": "Trait_Icon_18_Hunter.TFT_Set18.png"
             }
         ],
-        "items": [],
+        "items": [
+            {
+                "id": "guinsoo's_rageblade",
+                "image": "DA_GuinsoosRageblade.png"
+            },
+            {
+                "id": "kraken's_fury",
+                "image": "DA_KrakensFury.png"
+            },
+            {
+                "id": "infinity_edge",
+                "image": "DA_InfinityEdge.png"
+            },
+            {
+                "id": "deathblade",
+                "image": "DA_Deathblade.png"
+            },
+            {
+                "id": "giant_slayer",
+                "image": "DA_GiantSlayer.png"
+            }
+        ],
         "unlock": {
             "description": "",
             "type": false
@@ -3928,83 +4852,14 @@
     },
     {
         "stt": 50,
-        "id": "azir",
-        "name": "Azir",
-        "image": "tft18_azir.tft_set18.jpg",
-        "price": "3",
-        "average_position": "5.33",
-        "top_4_rate": "34.93",
-        "top_1_rate": "6.74",
-        "battle": "8,891",
-        "description_icon": [
-            "Gain 150% Attack Speed and summon 2 soldiers for the next 6 attacks. These attacks are replaced by commands which direct each soldier to deal 40/60/96(",
-            "AP.png",
-            ") magic damage per attack.",
-            "\n",
-            "\n",
-            "Damage: 40(",
-            "AP.png",
-            ") [ 40 / 60 / 96 ]"
-        ],
-        "skill_name": "Arise!",
-        "skill_image": "DA_18_Azir.png",
-        "starting_mana": 0,
-        "skill_mana": 35,
-        "skill_attack_range": 4,
-        "health": [
-            650,
-            1170,
-            2106
-        ],
-        "attack_damage": [
-            30,
-            45,
-            68
-        ],
-        "damage_per_second": [
-            23,
-            34,
-            51
-        ],
-        "attack_speed": 0.75,
-        "armor": 35,
-        "magical_resistance": 35,
-        "stats": [
-            "Damage: 40(%i:scaleAP%) [40 / 60 / 96]"
-        ],
-        "traits": [
-            {
-                "id": "blackthorn",
-                "name": "Blackthorn",
-                "image": "Trait_Icon_18_OldGod.TFT_Set18.png"
-            },
-            {
-                "id": "executioner",
-                "name": "Executioner",
-                "image": "Trait_Icon_18_Executioner.TFT_Set18.png"
-            },
-            {
-                "id": "summoner",
-                "name": "Summoner",
-                "image": "Trait_Icon_18_Summoner.TFT_Set18.png"
-            }
-        ],
-        "items": [],
-        "unlock": {
-            "description": "",
-            "type": false
-        }
-    },
-    {
-        "stt": 51,
         "id": "camille",
         "name": "Camille",
         "image": "tft18_camille.tft_set18.jpg",
         "price": "1",
-        "average_position": "4.76",
-        "top_4_rate": "54.71",
-        "top_1_rate": "6.61",
-        "battle": "1,422",
+        "average_position": "4.86",
+        "top_4_rate": "51.61",
+        "top_1_rate": "6.71",
+        "battle": "1,802",
         "description_icon": [
             "Slice the target for 170/255/435(",
             "AD.png",
@@ -4066,7 +4921,118 @@
                 "image": "Trait_Icon_18_Ravager.TFT_Set18.png"
             }
         ],
-        "items": [],
+        "items": [
+            {
+                "id": "bloodthirster",
+                "image": "DA_Bloodthirster.png"
+            },
+            {
+                "id": "sterak's_gage",
+                "image": "DA_SteraksGage.png"
+            },
+            {
+                "id": "hand_of_justice",
+                "image": "DA_HandOfJustice.png"
+            },
+            {
+                "id": "titan's_resolve",
+                "image": "DA_TitansResolve.png"
+            },
+            {
+                "id": "edge_of_night",
+                "image": "DA_EdgeOfNight.png"
+            }
+        ],
+        "unlock": {
+            "description": "",
+            "type": false
+        }
+    },
+    {
+        "stt": 51,
+        "id": "azir",
+        "name": "Azir",
+        "image": "tft18_azir.tft_set18.jpg",
+        "price": "3",
+        "average_position": "5.32",
+        "top_4_rate": "35.03",
+        "top_1_rate": "6.54",
+        "battle": "11,025",
+        "description_icon": [
+            "Gain 150% Attack Speed and summon 2 soldiers for the next 6 attacks. These attacks are replaced by commands which direct each soldier to deal 40/60/96(",
+            "AP.png",
+            ") magic damage per attack.",
+            "\n",
+            "\n",
+            "Damage: 40(",
+            "AP.png",
+            ") [ 40 / 60 / 96 ]"
+        ],
+        "skill_name": "Arise!",
+        "skill_image": "DA_18_Azir.png",
+        "starting_mana": 0,
+        "skill_mana": 35,
+        "skill_attack_range": 4,
+        "health": [
+            650,
+            1170,
+            2106
+        ],
+        "attack_damage": [
+            30,
+            45,
+            68
+        ],
+        "damage_per_second": [
+            23,
+            34,
+            51
+        ],
+        "attack_speed": 0.75,
+        "armor": 35,
+        "magical_resistance": 35,
+        "stats": [
+            "Damage: 40(%i:scaleAP%) [40 / 60 / 96]"
+        ],
+        "traits": [
+            {
+                "id": "blackthorn",
+                "name": "Blackthorn",
+                "image": "Trait_Icon_18_OldGod.TFT_Set18.png"
+            },
+            {
+                "id": "executioner",
+                "name": "Executioner",
+                "image": "Trait_Icon_18_Executioner.TFT_Set18.png"
+            },
+            {
+                "id": "summoner",
+                "name": "Summoner",
+                "image": "Trait_Icon_18_Summoner.TFT_Set18.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "guinsoo's_rageblade",
+                "image": "DA_GuinsoosRageblade.png"
+            },
+            {
+                "id": "jeweled_gauntlet",
+                "image": "DA_JeweledGauntlet.png"
+            },
+            {
+                "id": "giant_slayer",
+                "image": "DA_GiantSlayer.png"
+            },
+            {
+                "id": "void_staff",
+                "image": "DA_VoidStaff.png"
+            },
+            {
+                "id": "hextech_gunblade",
+                "image": "DA_HextechGunblade.png"
+            }
+        ],
         "unlock": {
             "description": "",
             "type": false
@@ -4079,9 +5045,9 @@
         "image": "tft18_warwick.tft_set18.jpg",
         "price": "2",
         "average_position": "4.45",
-        "top_4_rate": "59.86",
-        "top_1_rate": "6.25",
-        "battle": "1,759",
+        "top_4_rate": "59.58",
+        "top_1_rate": "6.36",
+        "battle": "2,249",
         "description_icon": [
             "Bite the current target, dealing 215/325/500(",
             "AD.png",
@@ -4138,7 +5104,28 @@
                 "image": "Trait_Icon_18_Ravager.TFT_Set18.png"
             }
         ],
-        "items": [],
+        "items": [
+            {
+                "id": "titan's_resolve",
+                "image": "DA_TitansResolve.png"
+            },
+            {
+                "id": "spear_of_shojin",
+                "image": "DA_SpearOfShojin.png"
+            },
+            {
+                "id": "sterak's_gage",
+                "image": "DA_SteraksGage.png"
+            },
+            {
+                "id": "bloodthirster",
+                "image": "DA_Bloodthirster.png"
+            },
+            {
+                "id": "hand_of_justice",
+                "image": "DA_HandOfJustice.png"
+            }
+        ],
         "unlock": {
             "description": "",
             "type": false
@@ -4150,10 +5137,10 @@
         "name": "Shen",
         "image": "tft18_shen.tft_set18.jpg",
         "price": "2",
-        "average_position": "5.55",
-        "top_4_rate": "22.49",
-        "top_1_rate": "3.86",
-        "battle": "12,111",
+        "average_position": "5.53",
+        "top_4_rate": "23.03",
+        "top_1_rate": "3.96",
+        "battle": "14,891",
         "description_icon": [
             "Grant 325/400/500(",
             "AP.png",
@@ -4217,28 +5204,7 @@
                 "image": "Trait_Icon_18_Inferno.TFT_Set18.png"
             }
         ],
-        "items": [
-            {
-                "id": "bloodthirster",
-                "image": "DA_Bloodthirster.png"
-            },
-            {
-                "id": "",
-                "image": "TFT_Item_UnstableConcoction.png"
-            },
-            {
-                "id": "adaptive_helm",
-                "image": "DA_AdaptiveHelm.png"
-            },
-            {
-                "id": "",
-                "image": "TFT17_Item_StargazerEmblemItem.png"
-            },
-            {
-                "id": "jeweled_gauntlet",
-                "image": "DA_JeweledGauntlet.png"
-            }
-        ],
+        "items": [],
         "unlock": {
             "description": "",
             "type": false
@@ -4250,10 +5216,10 @@
         "name": "Varus",
         "image": "tft18_varus.tft_set18.jpg",
         "price": "1",
-        "average_position": "5.54",
-        "top_4_rate": "23.4",
-        "top_1_rate": "3.39",
-        "battle": "7,582",
+        "average_position": "5.53",
+        "top_4_rate": "23.51",
+        "top_1_rate": "3.36",
+        "battle": "9,272",
         "description_icon": [
             "Wind up, then fire an arrow at the most enemies in line with the target. It deals 415/625/995(",
             "AD.png",
@@ -4311,7 +5277,28 @@
                 "image": "Trait_Icon_18_Rapidfire.TFT_Set18.png"
             }
         ],
-        "items": [],
+        "items": [
+            {
+                "id": "infinity_edge",
+                "image": "DA_InfinityEdge.png"
+            },
+            {
+                "id": "spear_of_shojin",
+                "image": "DA_SpearOfShojin.png"
+            },
+            {
+                "id": "giant_slayer",
+                "image": "DA_GiantSlayer.png"
+            },
+            {
+                "id": "striker's_flail",
+                "image": "DA_StrikersFlail.png"
+            },
+            {
+                "id": "hand_of_justice",
+                "image": "DA_HandOfJustice.png"
+            }
+        ],
         "unlock": {
             "description": "",
             "type": false
@@ -4324,9 +5311,9 @@
         "image": "tft18_akali.tft_set18.jpg",
         "price": "1",
         "average_position": "5.58",
-        "top_4_rate": "22.24",
-        "top_1_rate": "2.52",
-        "battle": "4,833",
+        "top_4_rate": "22.43",
+        "top_1_rate": "2.57",
+        "battle": "5,925",
         "description_icon": [
             "Adaptor (",
             "AD.png",
@@ -4404,7 +5391,28 @@
                 "image": "Trait_Icon_18_Ravager.TFT_Set18.png"
             }
         ],
-        "items": [],
+        "items": [
+            {
+                "id": "hand_of_justice",
+                "image": "DA_HandOfJustice.png"
+            },
+            {
+                "id": "giant_slayer",
+                "image": "DA_GiantSlayer.png"
+            },
+            {
+                "id": "edge_of_night",
+                "image": "DA_EdgeOfNight.png"
+            },
+            {
+                "id": "bloodthirster",
+                "image": "DA_Bloodthirster.png"
+            },
+            {
+                "id": "sterak's_gage",
+                "image": "DA_SteraksGage.png"
+            }
+        ],
         "unlock": {
             "description": "",
             "type": false
@@ -4547,7 +5555,7 @@
         "average_position": "2",
         "top_4_rate": "100",
         "top_1_rate": "0.00",
-        "battle": "1",
+        "battle": "2",
         "description_icon": [
             "Passive: On cast, all allies that share a trait with Lux gain 3/3/100(",
             "AP.png",

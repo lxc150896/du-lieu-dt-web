@@ -1470,10 +1470,10 @@
       "name": "Lux",
       "image": "tft18_lux.tft_set18.jpg",
       "price": "5",
-      "average_position": "2.75",
-      "top_4_rate": "84.7",
-      "top_1_rate": "32.89",
-      "battle": "6,691",
+      "average_position": "2.77",
+      "top_4_rate": "84.16",
+      "top_1_rate": "32.61",
+      "battle": "8,227",
       "description_icon": [
         "Passive: On cast, all allies that share a trait with Lux gain 3/3/100(",
         "AP.png",
@@ -1486,15 +1486,27 @@
       ],
       "skill_name": "Final Spark",
       "skill_image": "DA_Lux18_Base.png",
-      "starting_mana": "20",
-      "skill_mana": "70",
-      "skill_attack_range": 0,
-      "health": [],
-      "attack_damage": [],
-      "damage_per_second": [],
-      "attack_speed": 0,
-      "armor": 0,
-      "magical_resistance": 0,
+      "starting_mana": 20,
+      "skill_mana": 70,
+      "skill_attack_range": 5,
+      "health": [
+        900,
+        1620,
+        2916
+      ],
+      "attack_damage": [
+        40,
+        60,
+        90
+      ],
+      "damage_per_second": [
+        32,
+        48,
+        72
+      ],
+      "attack_speed": 0.8,
+      "armor": 40,
+      "magical_resistance": 40,
       "stats": [],
       "traits": [
         {
@@ -1503,7 +1515,28 @@
           "image": "Trait_Icon_18_Avatar.TFT_Set18.png"
         }
       ],
-      "items": [],
+      "items": [
+        {
+          "id": "ngon_giao_shojin",
+          "image": "DA_SpearOfShojin.png"
+        },
+        {
+          "id": "gang_bao_thach",
+          "image": "DA_JeweledGauntlet.png"
+        },
+        {
+          "id": "mu_phu_thuy_rabadon",
+          "image": "DA_RabadonsDeathcap.png"
+        },
+        {
+          "id": "truong_hu_vo",
+          "image": "DA_VoidStaff.png"
+        },
+        {
+          "id": "bua_xanh",
+          "image": "DA_BlueBuff.png"
+        }
+      ],
       "unlock": {
         "description": "",
         "type": false
@@ -1515,10 +1548,10 @@
       "name": "Ivern",
       "image": "tft18_ivern.tft_set18.jpg",
       "price": "5",
-      "average_position": "2.82",
-      "top_4_rate": "83.06",
-      "top_1_rate": "32.68",
-      "battle": "10,109",
+      "average_position": "2.85",
+      "top_4_rate": "82.39",
+      "top_1_rate": "32.47",
+      "battle": "12,592",
       "description_icon": [
         "Passive: Shields from this Ability can critically strike with Precision.",
         "\n",
@@ -1546,16 +1579,32 @@
       ],
       "skill_name": "Triggerseed",
       "skill_image": "DA_18_Ivern.png",
-      "starting_mana": "50",
-      "skill_mana": "80",
-      "skill_attack_range": 0,
-      "health": [],
-      "attack_damage": [],
-      "damage_per_second": [],
-      "attack_speed": 0,
-      "armor": 0,
-      "magical_resistance": 0,
-      "stats": [],
+      "starting_mana": 50,
+      "skill_mana": 80,
+      "skill_attack_range": 3,
+      "health": [
+        1000,
+        1800,
+        3240
+      ],
+      "attack_damage": [
+        60,
+        90,
+        135
+      ],
+      "damage_per_second": [
+        48,
+        72,
+        108
+      ],
+      "attack_speed": 0.8,
+      "armor": 55,
+      "magical_resistance": 55,
+      "stats": [
+        "Giá Trị Lá Chắn: 165(%i:scaleAP%%i:scaleDA%) [165 / 300 / 3000]",
+        "Khuếch Đại Sát Thương: [10% / 15% / 100%]",
+        "Sát Thương: 140(%i:scaleAP%) [140 / 210 / 2000]"
+      ],
       "traits": [
         {
           "id": "thu_than",
@@ -1563,7 +1612,28 @@
           "image": "Trait_Icon_18_Greenfather.TFT_Set18.png"
         }
       ],
-      "items": [],
+      "items": [
+        {
+          "id": "ngon_giao_shojin",
+          "image": "DA_SpearOfShojin.png"
+        },
+        {
+          "id": "bua_xanh",
+          "image": "DA_BlueBuff.png"
+        },
+        {
+          "id": "gang_bao_thach",
+          "image": "DA_JeweledGauntlet.png"
+        },
+        {
+          "id": "mu_thich_nghi",
+          "image": "DA_AdaptiveHelm.png"
+        },
+        {
+          "id": "cuong_dao_guinsoo",
+          "image": "DA_GuinsoosRageblade.png"
+        }
+      ],
       "unlock": {
         "description": "",
         "type": false
@@ -1575,10 +1645,10 @@
       "name": "Maokai",
       "image": "tft18_maokai.tft_set18.jpg",
       "price": "5",
-      "average_position": "3.04",
-      "top_4_rate": "79.5",
-      "top_1_rate": "30.02",
-      "battle": "9,011",
+      "average_position": "3.09",
+      "top_4_rate": "78.51",
+      "top_1_rate": "29.62",
+      "battle": "11,175",
       "description_icon": [
         "Passive: After every 650/650/300 damage blocked, a sapling jumps towards a nearby enemy and deals 81/145/2795(",
         "Health.png",
@@ -1611,16 +1681,33 @@
       ],
       "skill_name": "Sow the Seeds",
       "skill_image": "DA_18_Maokai.png",
-      "starting_mana": "40",
-      "skill_mana": "100",
-      "skill_attack_range": 0,
-      "health": [],
-      "attack_damage": [],
-      "damage_per_second": [],
-      "attack_speed": 0,
-      "armor": 0,
-      "magical_resistance": 0,
-      "stats": [],
+      "starting_mana": 40,
+      "skill_mana": 100,
+      "skill_attack_range": 1,
+      "health": [
+        1150,
+        2070,
+        3726
+      ],
+      "attack_damage": [
+        80,
+        120,
+        180
+      ],
+      "damage_per_second": [
+        52,
+        78,
+        117
+      ],
+      "attack_speed": 0.65,
+      "armor": 60,
+      "magical_resistance": 60,
+      "stats": [
+        "Sát Thương Chồi Non: 81(%i:scaleHealth%) [7% / 7% / 75%]",
+        "Chồi Non Khi Chết: [3 / 5 / 10]",
+        "Sát Thương Kích Hoạt: 69(%i:scaleHealth%) [6% / 6% / 100%]",
+        "Hồi Máu: 330(%i:scaleAP%) [330 / 400 / 2000]"
+      ],
       "traits": [
         {
           "id": "dung_si",
@@ -1633,7 +1720,28 @@
           "image": "Trait_Icon_18_OldGrowth.TFT_Set18.png"
         }
       ],
-      "items": [],
+      "items": [
+        {
+          "id": "thu_tuong_thach_giap",
+          "image": "DA_GargoyleStoneplate.png"
+        },
+        {
+          "id": "giap_mau_warmog",
+          "image": "DA_WarmogsArmor.png"
+        },
+        {
+          "id": "giap_tam_linh",
+          "image": "DA_SpiritVisage.png"
+        },
+        {
+          "id": "loi_the_ho_ve",
+          "image": "DA_ProtectorsVow.png"
+        },
+        {
+          "id": "vuong_mien_hoang_gia",
+          "image": "DA_Crownguard.png"
+        }
+      ],
       "unlock": {
         "description": "",
         "type": false
@@ -1641,81 +1749,14 @@
     },
     {
       "stt": 4,
-      "id": "kennen",
-      "name": "Kennen",
-      "image": "tft18_kennen.tft_set18.jpg",
-      "price": "5",
-      "average_position": "2.99",
-      "top_4_rate": "80.92",
-      "top_1_rate": "29.46",
-      "battle": "8,978",
-      "description_icon": [
-        "Charge up, gaining 15% Ability Power per Burning enemy. Then, gain 250/350/3000(",
-        "AP.png",
-        ") Shield for 2.5 seconds and rush through a nearby group of enemies, dealing 80/120/1500(",
-        "AP.png",
-        ") magic damage to each.",
-        "\n",
-        "\n",
-        "After rushing, unleash a 2 Hex firestorm that deals a total of 475/715/5000(",
-        "AP.png",
-        ") magic damage split among all enemies hit over 2 seconds.",
-        "\n",
-        "\n",
-        "Shield: 250(",
-        "AP.png",
-        ") [ 250 / 350 / 3000 ]",
-        "\n",
-        "\n",
-        "Damage: 80(",
-        "AP.png",
-        ") [ 80 / 120 / 1500 ]",
-        "\n",
-        "\n",
-        "Firestorm Damage: 475(",
-        "AP.png",
-        ") [ 475 / 715 / 5000 ]"
-      ],
-      "skill_name": "Firestorm",
-      "skill_image": "DA_18_Kennen.png",
-      "starting_mana": "0",
-      "skill_mana": "40",
-      "skill_attack_range": 0,
-      "health": [],
-      "attack_damage": [],
-      "damage_per_second": [],
-      "attack_speed": 0,
-      "armor": 0,
-      "magical_resistance": 0,
-      "stats": [],
-      "traits": [
-        {
-          "id": "dao_phu",
-          "name": "Đao Phủ",
-          "image": "Trait_Icon_18_Executioner.TFT_Set18.png"
-        },
-        {
-          "id": "hoa_nguc",
-          "name": "Hỏa Ngục",
-          "image": "Trait_Icon_18_Inferno.TFT_Set18.png"
-        }
-      ],
-      "items": [],
-      "unlock": {
-        "description": "",
-        "type": false
-      }
-    },
-    {
-      "stt": 5,
       "id": "draven",
       "name": "Draven",
       "image": "tft18_draven.tft_set18.jpg",
       "price": "5",
-      "average_position": "3.2",
-      "top_4_rate": "76.5",
-      "top_1_rate": "29.37",
-      "battle": "4,914",
+      "average_position": "3.23",
+      "top_4_rate": "75.72",
+      "top_1_rate": "29.12",
+      "battle": "6,113",
       "description_icon": [
         "Passive: Attacks target random enemies in range and apply a bleed that deals 140/210/3000(",
         "AD.png",
@@ -1747,16 +1788,32 @@
       ],
       "skill_name": "Whirling Death",
       "skill_image": "DA_Draven18.png",
-      "starting_mana": "0",
-      "skill_mana": "120",
-      "skill_attack_range": 0,
-      "health": [],
-      "attack_damage": [],
-      "damage_per_second": [],
-      "attack_speed": 0,
-      "armor": 0,
-      "magical_resistance": 0,
-      "stats": [],
+      "starting_mana": 0,
+      "skill_mana": 120,
+      "skill_attack_range": 5,
+      "health": [
+        900,
+        1620,
+        2916
+      ],
+      "attack_damage": [
+        48,
+        72,
+        108
+      ],
+      "damage_per_second": [
+        38,
+        58,
+        86
+      ],
+      "attack_speed": 0.8,
+      "armor": 45,
+      "magical_resistance": 45,
+      "stats": [
+        "Sát Thương Chảy Máu: 140(%i:scaleAD%) [140 / 210 / 3000]",
+        "Sát Thương Rìu Ném Ra: 100(%i:scaleAD%) [100 / 150 / 400]",
+        "Sát Thương Rìu Thu Về: 30(%i:scaleAD%) [30 / 45 / 100]"
+      ],
       "traits": [
         {
           "id": "san_thuong",
@@ -1764,7 +1821,132 @@
           "image": "Trait_Icon_18_BountySeeker.TFT_Set18.png"
         }
       ],
-      "items": [],
+      "items": [
+        {
+          "id": "cuong_dao_guinsoo",
+          "image": "DA_GuinsoosRageblade.png"
+        },
+        {
+          "id": "thinh_no_thuy_quai",
+          "image": "DA_KrakensFury.png"
+        },
+        {
+          "id": "vo_cuc_kiem",
+          "image": "DA_InfinityEdge.png"
+        },
+        {
+          "id": "kiem_tu_than",
+          "image": "DA_Deathblade.png"
+        },
+        {
+          "id": "diet_khong_lo",
+          "image": "DA_GiantSlayer.png"
+        }
+      ],
+      "unlock": {
+        "description": "",
+        "type": false
+      }
+    },
+    {
+      "stt": 5,
+      "id": "kennen",
+      "name": "Kennen",
+      "image": "tft18_kennen.tft_set18.jpg",
+      "price": "5",
+      "average_position": "3.04",
+      "top_4_rate": "79.84",
+      "top_1_rate": "28.99",
+      "battle": "11,163",
+      "description_icon": [
+        "Charge up, gaining 15% Ability Power per Burning enemy. Then, gain 250/350/3000(",
+        "AP.png",
+        ") Shield for 2.5 seconds and rush through a nearby group of enemies, dealing 80/120/1500(",
+        "AP.png",
+        ") magic damage to each.",
+        "\n",
+        "\n",
+        "After rushing, unleash a 2 Hex firestorm that deals a total of 475/715/5000(",
+        "AP.png",
+        ") magic damage split among all enemies hit over 2 seconds.",
+        "\n",
+        "\n",
+        "Shield: 250(",
+        "AP.png",
+        ") [ 250 / 350 / 3000 ]",
+        "\n",
+        "\n",
+        "Damage: 80(",
+        "AP.png",
+        ") [ 80 / 120 / 1500 ]",
+        "\n",
+        "\n",
+        "Firestorm Damage: 475(",
+        "AP.png",
+        ") [ 475 / 715 / 5000 ]"
+      ],
+      "skill_name": "Firestorm",
+      "skill_image": "DA_18_Kennen.png",
+      "starting_mana": 0,
+      "skill_mana": 40,
+      "skill_attack_range": 2,
+      "health": [
+        1200,
+        2160,
+        3888
+      ],
+      "attack_damage": [
+        50,
+        75,
+        113
+      ],
+      "damage_per_second": [
+        43,
+        64,
+        96
+      ],
+      "attack_speed": 0.85,
+      "armor": 60,
+      "magical_resistance": 60,
+      "stats": [
+        "Lá Chắn: 250(%i:scaleAP%) [250 / 350 / 3000]",
+        "Sát Thương: 80(%i:scaleAP%) [80 / 120 / 1500]",
+        "Sát Thương Bão Lửa: 475(%i:scaleAP%) [475 / 715 / 5000]"
+      ],
+      "traits": [
+        {
+          "id": "dao_phu",
+          "name": "Đao Phủ",
+          "image": "Trait_Icon_18_Executioner.TFT_Set18.png"
+        },
+        {
+          "id": "hoa_nguc",
+          "name": "Hỏa Ngục",
+          "image": "Trait_Icon_18_Inferno.TFT_Set18.png"
+        }
+      ],
+      "items": [
+        {
+          "id": "gang_bao_thach",
+          "image": "DA_JeweledGauntlet.png"
+        },
+        {
+          "id": "ban_tay_cong_ly",
+          "image": "DA_HandOfJustice.png"
+        },
+        {
+          "id": "ao_choang_bong_toi",
+          "image": "DA_EdgeOfNight.png"
+        },
+        {
+          "id": "mu_phu_thuy_rabadon",
+          "image": "DA_RabadonsDeathcap.png"
+        },
+        {
+          "id": "huyet_kiem",
+          "image": "DA_Bloodthirster.png"
+        }
+      ],
       "unlock": {
         "description": "",
         "type": false
@@ -1776,10 +1958,10 @@
       "name": "Gnar",
       "image": "tft18_gnar.tft_set18.jpg",
       "price": "5",
-      "average_position": "2.82",
-      "top_4_rate": "84.52",
-      "top_1_rate": "28.96",
-      "battle": "13,763",
+      "average_position": "2.85",
+      "top_4_rate": "83.75",
+      "top_1_rate": "28.79",
+      "battle": "17,095",
       "description_icon": [
         "Passive: Gain 5/5/50 Rage per second and 5 Rage per attack.",
         "\n",
@@ -1822,16 +2004,34 @@
       ],
       "skill_name": "Rage Gene",
       "skill_image": "DA_18_GnarSmall.png",
-      "starting_mana": "0",
-      "skill_mana": "70",
-      "skill_attack_range": 0,
-      "health": [],
-      "attack_damage": [],
-      "damage_per_second": [],
-      "attack_speed": 0,
-      "armor": 0,
-      "magical_resistance": 0,
-      "stats": [],
+      "starting_mana": 0,
+      "skill_mana": 70,
+      "skill_attack_range": 2,
+      "health": [
+        900,
+        1620,
+        2916
+      ],
+      "attack_damage": [
+        100,
+        150,
+        225
+      ],
+      "damage_per_second": [
+        90,
+        135,
+        203
+      ],
+      "attack_speed": 0.9,
+      "armor": 55,
+      "magical_resistance": 55,
+      "stats": [
+        "Sát Thương Nhảy: 100(%i:scaleAD%) [100 / 150 / 2000]",
+        "Giảm Chống Chịu: 15(%i:scaleAP%) [15 / 20 / 100]",
+        "Máu Khi Biến Hình: 400 [400 / 600 / 10000]",
+        "Sát Thương: 380(%i:scaleAD%) [380 / 570 / 9000]",
+        "Sát Thương Phụ: 135(%i:scaleAD%) [135 / 205 / 4500]"
+      ],
       "traits": [
         {
           "id": "dau_si",
@@ -1849,7 +2049,28 @@
           "image": "Trait_Icon_18_Sprykin.TFT_Set18.png"
         }
       ],
-      "items": [],
+      "items": [
+        {
+          "id": "mong_vuot_sterak",
+          "image": "DA_SteraksGage.png"
+        },
+        {
+          "id": "huyet_kiem",
+          "image": "DA_Bloodthirster.png"
+        },
+        {
+          "id": "quyen_nang_khong_lo",
+          "image": "DA_TitansResolve.png"
+        },
+        {
+          "id": "ao_choang_bong_toi",
+          "image": "DA_EdgeOfNight.png"
+        },
+        {
+          "id": "ban_tay_cong_ly",
+          "image": "DA_HandOfJustice.png"
+        }
+      ],
       "unlock": {
         "description": "",
         "type": false
@@ -1861,10 +2082,10 @@
       "name": "Taric",
       "image": "tft18_taric.tft_set18.jpg",
       "price": "5",
-      "average_position": "2.91",
-      "top_4_rate": "82.61",
-      "top_1_rate": "28.44",
-      "battle": "13,996",
+      "average_position": "2.95",
+      "top_4_rate": "81.93",
+      "top_1_rate": "28.03",
+      "battle": "17,386",
       "description_icon": [
         "Passive: The first time Taric or his paired ally drops below 50% Health, unleash emerald energy from both of them, granting 305/584/14212(",
         "Health.png",
@@ -1894,16 +2115,32 @@
       ],
       "skill_name": "Emerald Radiance",
       "skill_image": "DA_Taric18.png",
-      "starting_mana": "0",
-      "skill_mana": "65",
-      "skill_attack_range": 0,
-      "health": [],
-      "attack_damage": [],
-      "damage_per_second": [],
-      "attack_speed": 0,
-      "armor": 0,
-      "magical_resistance": 0,
-      "stats": [],
+      "starting_mana": 0,
+      "skill_mana": 65,
+      "skill_attack_range": 1,
+      "health": [
+        1300,
+        2340,
+        4212
+      ],
+      "attack_damage": [
+        55,
+        83,
+        124
+      ],
+      "damage_per_second": [
+        41,
+        62,
+        93
+      ],
+      "attack_speed": 0.75,
+      "armor": 65,
+      "magical_resistance": 65,
+      "stats": [
+        "Lá Chắn: 305 = 130(%i:scaleHealth%) + 175 [175 / 350 / 10000]",
+        "Hồi Máu: 200(%i:scaleAP%) [200 / 300 / 3000]",
+        "Sát Thương: 100(%i:scaleAP%) [100 / 150 / 1000]"
+      ],
       "traits": [
         {
           "id": "luc_bao",
@@ -1916,7 +2153,28 @@
           "image": "Trait_Icon_18_Vanguard.TFT_Set18.png"
         }
       ],
-      "items": [],
+      "items": [
+        {
+          "id": "thu_tuong_thach_giap",
+          "image": "DA_GargoyleStoneplate.png"
+        },
+        {
+          "id": "giap_mau_warmog",
+          "image": "DA_WarmogsArmor.png"
+        },
+        {
+          "id": "giap_tam_linh",
+          "image": "DA_SpiritVisage.png"
+        },
+        {
+          "id": "loi_the_ho_ve",
+          "image": "DA_ProtectorsVow.png"
+        },
+        {
+          "id": "ao_choang_lua",
+          "image": "DA_SunfireCape.png"
+        }
+      ],
       "unlock": {
         "description": "",
         "type": false
@@ -1928,10 +2186,10 @@
       "name": "Alune",
       "image": "tft18_alune.tft_set18.jpg",
       "price": "5",
-      "average_position": "2.86",
-      "top_4_rate": "84.39",
-      "top_1_rate": "26.98",
-      "battle": "8,976",
+      "average_position": "2.89",
+      "top_4_rate": "83.71",
+      "top_1_rate": "26.82",
+      "battle": "11,114",
       "description_icon": [
         "Rain 9 moonshards split among the 3 nearest enemies, dealing 55/83/500(",
         "AP.png",
@@ -1954,16 +2212,31 @@
       ],
       "skill_name": "Moonfall",
       "skill_image": "DA_18_Alune.png",
-      "starting_mana": "0",
-      "skill_mana": "35",
-      "skill_attack_range": 0,
-      "health": [],
-      "attack_damage": [],
-      "damage_per_second": [],
-      "attack_speed": 0,
-      "armor": 0,
-      "magical_resistance": 0,
-      "stats": [],
+      "starting_mana": 0,
+      "skill_mana": 35,
+      "skill_attack_range": 4,
+      "health": [
+        900,
+        1620,
+        2916
+      ],
+      "attack_damage": [
+        40,
+        60,
+        90
+      ],
+      "damage_per_second": [
+        32,
+        48,
+        72
+      ],
+      "attack_speed": 0.8,
+      "armor": 45,
+      "magical_resistance": 45,
+      "stats": [
+        "Sát Thương: 55(%i:scaleAP%) [55 / 83 / 500]",
+        "Sát Thương Trăng Tròn: 2350(%i:scaleAP%) [2350 / 3600 / 7500]"
+      ],
       "traits": [
         {
           "id": "hoa_hop",
@@ -1981,7 +2254,28 @@
           "image": "Trait_Icon_18_Spellweaver.TFT_Set18.png"
         }
       ],
-      "items": [],
+      "items": [
+        {
+          "id": "gang_bao_thach",
+          "image": "DA_JeweledGauntlet.png"
+        },
+        {
+          "id": "ngon_giao_shojin",
+          "image": "DA_SpearOfShojin.png"
+        },
+        {
+          "id": "truong_hu_vo",
+          "image": "DA_VoidStaff.png"
+        },
+        {
+          "id": "mu_phu_thuy_rabadon",
+          "image": "DA_RabadonsDeathcap.png"
+        },
+        {
+          "id": "bua_xanh",
+          "image": "DA_BlueBuff.png"
+        }
+      ],
       "unlock": {
         "description": "",
         "type": false
@@ -1993,10 +2287,10 @@
       "name": "Ashe",
       "image": "tft18_ashe.tft_set18.jpg",
       "price": "5",
-      "average_position": "2.99",
-      "top_4_rate": "82.07",
-      "top_1_rate": "25.88",
-      "battle": "7,853",
+      "average_position": "3.01",
+      "top_4_rate": "81.38",
+      "top_1_rate": "25.76",
+      "battle": "9,813",
       "description_icon": [
         "Fire an arrow through the most enemies in a line that deals 440/660/1000(",
         "AD.png",
@@ -2033,16 +2327,33 @@
       ],
       "skill_name": "Spirit Rift",
       "skill_image": "DA_18_Ashe.png",
-      "starting_mana": "20",
-      "skill_mana": "80",
-      "skill_attack_range": 0,
-      "health": [],
-      "attack_damage": [],
-      "damage_per_second": [],
-      "attack_speed": 0,
-      "armor": 0,
-      "magical_resistance": 0,
-      "stats": [],
+      "starting_mana": 20,
+      "skill_mana": 80,
+      "skill_attack_range": 5,
+      "health": [
+        900,
+        1620,
+        2916
+      ],
+      "attack_damage": [
+        75,
+        113,
+        169
+      ],
+      "damage_per_second": [
+        60,
+        90,
+        135
+      ],
+      "attack_speed": 0.8,
+      "armor": 45,
+      "magical_resistance": 45,
+      "stats": [
+        "Sát Thương: 440(%i:scaleAD%) [440 / 660 / 1000]",
+        "Sát Thương Khe Nứt: %i:scaleAP% [2 / 3 / 20]",
+        "Sát Thương Cố Định Khe Nứt: 7 = 5(%i:scaleAD%) + 2(%i:scaleAP%) [5 / 8 / 200]",
+        "Sát Thương Theo Máu Tối Đa Của Khe Nứt: [2% / 3% / 10%]"
+      ],
       "traits": [
         {
           "id": "hoa_linh",
@@ -2055,7 +2366,28 @@
           "image": "Trait_Icon_18_Hunter.TFT_Set18.png"
         }
       ],
-      "items": [],
+      "items": [
+        {
+          "id": "ngon_giao_shojin",
+          "image": "DA_SpearOfShojin.png"
+        },
+        {
+          "id": "bua_do",
+          "image": "DA_RedBuff.png"
+        },
+        {
+          "id": "cung_xanh",
+          "image": "DA_LastWhisper.png"
+        },
+        {
+          "id": "vo_cuc_kiem",
+          "image": "DA_InfinityEdge.png"
+        },
+        {
+          "id": "cuong_dao_guinsoo",
+          "image": "DA_GuinsoosRageblade.png"
+        }
+      ],
       "unlock": {
         "description": "",
         "type": false
@@ -2067,10 +2399,10 @@
       "name": "Sett",
       "image": "tft18_sett.tft_set18.jpg",
       "price": "4",
-      "average_position": "3.43",
-      "top_4_rate": "73.96",
-      "top_1_rate": "19.84",
-      "battle": "11,776",
+      "average_position": "3.45",
+      "top_4_rate": "73.37",
+      "top_1_rate": "19.69",
+      "battle": "14,730",
       "description_icon": [
         "Passive: Upon falling below 40% max Health the first time each combat, gain 100 mana.",
         "\n",
@@ -2099,16 +2431,31 @@
       ],
       "skill_name": "Haymaker",
       "skill_image": "DA_18_Sett.png",
-      "starting_mana": "60",
-      "skill_mana": "135",
-      "skill_attack_range": 0,
-      "health": [],
-      "attack_damage": [],
-      "damage_per_second": [],
-      "attack_speed": 0,
-      "armor": 0,
-      "magical_resistance": 0,
-      "stats": [],
+      "starting_mana": 60,
+      "skill_mana": 135,
+      "skill_attack_range": 1,
+      "health": [
+        1200,
+        2160,
+        3888
+      ],
+      "attack_damage": [
+        80,
+        120,
+        180
+      ],
+      "damage_per_second": [
+        52,
+        78,
+        117
+      ],
+      "attack_speed": 0.65,
+      "armor": 60,
+      "magical_resistance": 60,
+      "stats": [
+        "Hồi Máu: 225 = 12%(%i:scaleHealth%) + 225(%i:scaleAP%) [225 / 275 / 2000]",
+        "Sát Thương: 222 = 72%i:scaleHealth% + 150(%i:scaleAD%) [150 / 225 / 5000]"
+      ],
       "traits": [
         {
           "id": "hoa_linh",
@@ -2121,7 +2468,28 @@
           "image": "Trait_Icon_18_Brawler.TFT_Set18.png"
         }
       ],
-      "items": [],
+      "items": [
+        {
+          "id": "thu_tuong_thach_giap",
+          "image": "DA_GargoyleStoneplate.png"
+        },
+        {
+          "id": "giap_mau_warmog",
+          "image": "DA_WarmogsArmor.png"
+        },
+        {
+          "id": "giap_tam_linh",
+          "image": "DA_SpiritVisage.png"
+        },
+        {
+          "id": "no_set",
+          "image": "DA_IonicSpark.png"
+        },
+        {
+          "id": "vuot_rong",
+          "image": "DA_DragonsClaw.png"
+        }
+      ],
       "unlock": {
         "description": "",
         "type": false
@@ -2133,10 +2501,10 @@
       "name": "Ezreal",
       "image": "tft18_ezreal.tft_set18.jpg",
       "price": "4",
-      "average_position": "3.77",
-      "top_4_rate": "65.15",
-      "top_1_rate": "19.62",
-      "battle": "8,167",
+      "average_position": "3.79",
+      "top_4_rate": "64.58",
+      "top_1_rate": "19.56",
+      "battle": "10,163",
       "description_icon": [
         "Blink away from the current target, deal 235/355/1200(",
         "AD.png",
@@ -2166,16 +2534,32 @@
       ],
       "skill_name": "Forest's Flurry",
       "skill_image": "DA_18_Ezreal.png",
-      "starting_mana": "0",
-      "skill_mana": "30",
-      "skill_attack_range": 0,
-      "health": [],
-      "attack_damage": [],
-      "damage_per_second": [],
-      "attack_speed": 0,
-      "armor": 0,
-      "magical_resistance": 0,
-      "stats": [],
+      "starting_mana": 0,
+      "skill_mana": 30,
+      "skill_attack_range": 4,
+      "health": [
+        850,
+        1530,
+        2754
+      ],
+      "attack_damage": [
+        45,
+        68,
+        101
+      ],
+      "damage_per_second": [
+        34,
+        51,
+        76
+      ],
+      "attack_speed": 0.75,
+      "armor": 40,
+      "magical_resistance": 40,
+      "stats": [
+        "Sát Thương: 235(%i:scaleAD%) [235 / 355 / 1200]",
+        "Tốc Độ Đánh: 30%(%i:scaleAP%) [30% / 30% / 100%]",
+        "Sát Thương Cường Hóa: 385(%i:scaleAD%) [385 / 580 / 2500]"
+      ],
       "traits": [
         {
           "id": "than_rung",
@@ -2188,7 +2572,28 @@
           "image": "Trait_Icon_18_Executioner.TFT_Set18.png"
         }
       ],
-      "items": [],
+      "items": [
+        {
+          "id": "ngon_giao_shojin",
+          "image": "DA_SpearOfShojin.png"
+        },
+        {
+          "id": "cung_xanh",
+          "image": "DA_LastWhisper.png"
+        },
+        {
+          "id": "kiem_tu_than",
+          "image": "DA_Deathblade.png"
+        },
+        {
+          "id": "vo_cuc_kiem",
+          "image": "DA_InfinityEdge.png"
+        },
+        {
+          "id": "diet_khong_lo",
+          "image": "DA_GiantSlayer.png"
+        }
+      ],
       "unlock": {
         "description": "",
         "type": false
@@ -2196,64 +2601,14 @@
     },
     {
       "stt": 12,
-      "id": "zyra",
-      "name": "Zyra",
-      "image": "tft18_zyra.tft_set18.jpg",
-      "price": "4",
-      "average_position": "3.48",
-      "top_4_rate": "73.01",
-      "top_1_rate": "19.15",
-      "battle": "8,722",
-      "description_icon": [
-        "Spawn 2/2/4 plants around the battlefield that attack the nearest enemy 10 times. Each attack deals 37/55/225(",
-        "AP.png",
-        ") magic damage.",
-        "\n",
-        "\n",
-        "Damage: 37(",
-        "AP.png",
-        ") [ 37 / 55 / 225 ]"
-      ],
-      "skill_name": "Rampant Growth",
-      "skill_image": "DA_18_Zyra.png",
-      "starting_mana": "0",
-      "skill_mana": "45",
-      "skill_attack_range": 0,
-      "health": [],
-      "attack_damage": [],
-      "damage_per_second": [],
-      "attack_speed": 0,
-      "armor": 0,
-      "magical_resistance": 0,
-      "stats": [],
-      "traits": [
-        {
-          "id": "trieu_hoi",
-          "name": "Triệu Hồi",
-          "image": "Trait_Icon_18_Summoner.TFT_Set18.png"
-        },
-        {
-          "id": "vuon_gai",
-          "name": "Vườn Gai",
-          "image": "Trait_Icon_18_ZyraOrigin.TFT_Set18.png"
-        }
-      ],
-      "items": [],
-      "unlock": {
-        "description": "",
-        "type": false
-      }
-    },
-    {
-      "stt": 13,
       "id": "ahri",
       "name": "Ahri",
       "image": "tft18_ahri.tft_set18.jpg",
       "price": "4",
-      "average_position": "3.65",
-      "top_4_rate": "68.53",
-      "top_1_rate": "18.87",
-      "battle": "10,411",
+      "average_position": "3.67",
+      "top_4_rate": "68.02",
+      "top_1_rate": "18.98",
+      "battle": "12,926",
       "description_icon": [
         "Launch a spirit bomb at the location within 4 hexes that has the most surrounding enemies. It deals 450/675/3500(",
         "AP.png",
@@ -2266,16 +2621,30 @@
       ],
       "skill_name": "Spirit Bomb",
       "skill_image": "DA_18_Ahri.png",
-      "starting_mana": "20",
-      "skill_mana": "100",
-      "skill_attack_range": 0,
-      "health": [],
-      "attack_damage": [],
-      "damage_per_second": [],
-      "attack_speed": 0,
-      "armor": 0,
-      "magical_resistance": 0,
-      "stats": [],
+      "starting_mana": 20,
+      "skill_mana": 100,
+      "skill_attack_range": 4,
+      "health": [
+        850,
+        1530,
+        2754
+      ],
+      "attack_damage": [
+        40,
+        60,
+        90
+      ],
+      "damage_per_second": [
+        32,
+        48,
+        72
+      ],
+      "attack_speed": 0.8,
+      "armor": 40,
+      "magical_resistance": 40,
+      "stats": [
+        "Sát Thương: 450(%i:scaleAP%) [450 / 675 / 3500]"
+      ],
       "traits": [
         {
           "id": "hoa_linh",
@@ -2288,7 +2657,113 @@
           "image": "Trait_Icon_18_Spellweaver.TFT_Set18.png"
         }
       ],
-      "items": [],
+      "items": [
+        {
+          "id": "gang_bao_thach",
+          "image": "DA_JeweledGauntlet.png"
+        },
+        {
+          "id": "ngon_giao_shojin",
+          "image": "DA_SpearOfShojin.png"
+        },
+        {
+          "id": "chuy_doan_con",
+          "image": "DA_StrikersFlail.png"
+        },
+        {
+          "id": "bua_xanh",
+          "image": "DA_BlueBuff.png"
+        },
+        {
+          "id": "mu_phu_thuy_rabadon",
+          "image": "DA_RabadonsDeathcap.png"
+        }
+      ],
+      "unlock": {
+        "description": "",
+        "type": false
+      }
+    },
+    {
+      "stt": 13,
+      "id": "zyra",
+      "name": "Zyra",
+      "image": "tft18_zyra.tft_set18.jpg",
+      "price": "4",
+      "average_position": "3.52",
+      "top_4_rate": "72.19",
+      "top_1_rate": "18.51",
+      "battle": "10,956",
+      "description_icon": [
+        "Spawn 2/2/4 plants around the battlefield that attack the nearest enemy 10 times. Each attack deals 37/55/225(",
+        "AP.png",
+        ") magic damage.",
+        "\n",
+        "\n",
+        "Damage: 37(",
+        "AP.png",
+        ") [ 37 / 55 / 225 ]"
+      ],
+      "skill_name": "Rampant Growth",
+      "skill_image": "DA_18_Zyra.png",
+      "starting_mana": 0,
+      "skill_mana": 45,
+      "skill_attack_range": 4,
+      "health": [
+        850,
+        1530,
+        2754
+      ],
+      "attack_damage": [
+        40,
+        60,
+        90
+      ],
+      "damage_per_second": [
+        30,
+        45,
+        68
+      ],
+      "attack_speed": 0.75,
+      "armor": 40,
+      "magical_resistance": 40,
+      "stats": [
+        "Sát Thương: 37(%i:scaleAP%) [37 / 55 / 225]"
+      ],
+      "traits": [
+        {
+          "id": "trieu_hoi",
+          "name": "Triệu Hồi",
+          "image": "Trait_Icon_18_Summoner.TFT_Set18.png"
+        },
+        {
+          "id": "vuon_gai",
+          "name": "Vườn Gai",
+          "image": "Trait_Icon_18_ZyraOrigin.TFT_Set18.png"
+        }
+      ],
+      "items": [
+        {
+          "id": "truong_hu_vo",
+          "image": "DA_VoidStaff.png"
+        },
+        {
+          "id": "ngon_giao_shojin",
+          "image": "DA_SpearOfShojin.png"
+        },
+        {
+          "id": "gang_bao_thach",
+          "image": "DA_JeweledGauntlet.png"
+        },
+        {
+          "id": "quy_thu_morello",
+          "image": "DA_Morellonomicon.png"
+        },
+        {
+          "id": "mu_phu_thuy_rabadon",
+          "image": "DA_RabadonsDeathcap.png"
+        }
+      ],
       "unlock": {
         "description": "",
         "type": false
@@ -2300,10 +2775,10 @@
       "name": "Aphelios",
       "image": "tft18_aphelios.tft_set18.jpg",
       "price": "4",
-      "average_position": "3.53",
-      "top_4_rate": "70.91",
-      "top_1_rate": "18.68",
-      "battle": "9,607",
+      "average_position": "3.55",
+      "top_4_rate": "70.42",
+      "top_1_rate": "18.49",
+      "battle": "12,027",
       "description_icon": [
         "Equip Severum and swipe the target 5(",
         "AS.png",
@@ -2341,16 +2816,33 @@
       ],
       "skill_name": "Moonlight's Onslaught",
       "skill_image": "DA_18_Aphelios.png",
-      "starting_mana": "20",
-      "skill_mana": "70",
-      "skill_attack_range": 0,
-      "health": [],
-      "attack_damage": [],
-      "damage_per_second": [],
-      "attack_speed": 0,
-      "armor": 0,
-      "magical_resistance": 0,
-      "stats": [],
+      "starting_mana": 20,
+      "skill_mana": 70,
+      "skill_attack_range": 4,
+      "health": [
+        850,
+        1530,
+        2754
+      ],
+      "attack_damage": [
+        60,
+        90,
+        135
+      ],
+      "damage_per_second": [
+        48,
+        72,
+        108
+      ],
+      "attack_speed": 0.8,
+      "armor": 40,
+      "magical_resistance": 40,
+      "stats": [
+        "Lượt vuốt: 5 = 5 + 1 cho mỗi 20% thưởng %i:scaleAS% [5 / 5 / 5]",
+        "Sát Thương Quét: 70(%i:scaleAD%) [70 / 105 / 850]",
+        "Sát Thương Nổ: %i:scaleAP% [40 / 60 / 225]",
+        "Sát Thương Nổ: 490 = 450(%i:scaleAD%) + 40(%i:scaleAP%) [450 / 675 / 5000]"
+      ],
       "traits": [
         {
           "id": "mat_trang",
@@ -2363,7 +2855,28 @@
           "image": "Trait_Icon_18_Rapidfire.TFT_Set18.png"
         }
       ],
-      "items": [],
+      "items": [
+        {
+          "id": "cuong_dao_guinsoo",
+          "image": "DA_GuinsoosRageblade.png"
+        },
+        {
+          "id": "thinh_no_thuy_quai",
+          "image": "DA_KrakensFury.png"
+        },
+        {
+          "id": "diet_khong_lo",
+          "image": "DA_GiantSlayer.png"
+        },
+        {
+          "id": "vo_cuc_kiem",
+          "image": "DA_InfinityEdge.png"
+        },
+        {
+          "id": "kiem_tu_than",
+          "image": "DA_Deathblade.png"
+        }
+      ],
       "unlock": {
         "description": "",
         "type": false
@@ -2375,10 +2888,10 @@
       "name": "Sivir",
       "image": "tft18_sivir.tft_set18.jpg",
       "price": "4",
-      "average_position": "3.72",
-      "top_4_rate": "66.21",
-      "top_1_rate": "18.52",
-      "battle": "9,156",
+      "average_position": "3.73",
+      "top_4_rate": "66.07",
+      "top_1_rate": "18.43",
+      "battle": "11,369",
       "description_icon": [
         "Throw a large crossblade that deals 205/305/1150(",
         "AD.png",
@@ -2405,16 +2918,32 @@
       ],
       "skill_name": "Boomerang Blade",
       "skill_image": "DA_18_Sivir.png",
-      "starting_mana": "0",
-      "skill_mana": "40",
-      "skill_attack_range": 0,
-      "health": [],
-      "attack_damage": [],
-      "damage_per_second": [],
-      "attack_speed": 0,
-      "armor": 0,
-      "magical_resistance": 0,
-      "stats": [],
+      "starting_mana": 0,
+      "skill_mana": 40,
+      "skill_attack_range": 4,
+      "health": [
+        850,
+        1530,
+        2754
+      ],
+      "attack_damage": [
+        50,
+        75,
+        113
+      ],
+      "damage_per_second": [
+        40,
+        60,
+        90
+      ],
+      "attack_speed": 0.8,
+      "armor": 40,
+      "magical_resistance": 40,
+      "stats": [
+        "Sát Thương: %i:scaleAP% [15 / 20 / 100]",
+        "Sát Thương: 205 = 190(%i:scaleAD%) + 15(%i:scaleAP%) [190 / 285 / 1050]",
+        "Sát Thương Nảy: 41 = 20% của 205 [20% / 20% / 40%]"
+      ],
       "traits": [
         {
           "id": "tho_san",
@@ -2427,7 +2956,28 @@
           "image": "Trait_Icon_18_Primal.TFT_Set18.png"
         }
       ],
-      "items": [],
+      "items": [
+        {
+          "id": "vo_cuc_kiem",
+          "image": "DA_InfinityEdge.png"
+        },
+        {
+          "id": "ngon_giao_shojin",
+          "image": "DA_SpearOfShojin.png"
+        },
+        {
+          "id": "kiem_tu_than",
+          "image": "DA_Deathblade.png"
+        },
+        {
+          "id": "cung_xanh",
+          "image": "DA_LastWhisper.png"
+        },
+        {
+          "id": "bua_do",
+          "image": "DA_RedBuff.png"
+        }
+      ],
       "unlock": {
         "description": "",
         "type": false
@@ -2439,10 +2989,10 @@
       "name": "Soraka",
       "image": "tft18_soraka.tft_set18.jpg",
       "price": "4",
-      "average_position": "3.67",
-      "top_4_rate": "68.88",
-      "top_1_rate": "18.26",
-      "battle": "5,909",
+      "average_position": "3.7",
+      "top_4_rate": "68.15",
+      "top_1_rate": "17.92",
+      "battle": "7,372",
       "description_icon": [
         "Call down a star on the current target, dealing 190/285/1000(",
         "AP.png",
@@ -2462,16 +3012,31 @@
       ],
       "skill_name": "Starcall",
       "skill_image": "DA_18_Soraka.png",
-      "starting_mana": "0",
-      "skill_mana": "30",
-      "skill_attack_range": 0,
-      "health": [],
-      "attack_damage": [],
-      "damage_per_second": [],
-      "attack_speed": 0,
-      "armor": 0,
-      "magical_resistance": 0,
-      "stats": [],
+      "starting_mana": 0,
+      "skill_mana": 30,
+      "skill_attack_range": 4,
+      "health": [
+        850,
+        1530,
+        2754
+      ],
+      "attack_damage": [
+        30,
+        45,
+        68
+      ],
+      "damage_per_second": [
+        23,
+        34,
+        51
+      ],
+      "attack_speed": 0.75,
+      "armor": 40,
+      "magical_resistance": 40,
+      "stats": [
+        "Sát Thương: 190(%i:scaleAP%) [190 / 285 / 1000]",
+        "Sát Thương Phụ: 100(%i:scaleAP%) [100 / 150 / 1000]"
+      ],
       "traits": [
         {
           "id": "dao_phu",
@@ -2484,7 +3049,28 @@
           "image": "Trait_Icon_18_FloraFatalis.TFT_Set18.png"
         }
       ],
-      "items": [],
+      "items": [
+        {
+          "id": "mu_phu_thuy_rabadon",
+          "image": "DA_RabadonsDeathcap.png"
+        },
+        {
+          "id": "ngon_giao_shojin",
+          "image": "DA_SpearOfShojin.png"
+        },
+        {
+          "id": "nanh_nashor",
+          "image": "DA_NashorsTooth.png"
+        },
+        {
+          "id": "gang_bao_thach",
+          "image": "DA_JeweledGauntlet.png"
+        },
+        {
+          "id": "mu_thich_nghi",
+          "image": "DA_AdaptiveHelm.png"
+        }
+      ],
       "unlock": {
         "description": "",
         "type": false
@@ -2496,10 +3082,10 @@
       "name": "Rengar",
       "image": "tft18_rengar.tft_set18.jpg",
       "price": "3",
-      "average_position": "3.98",
-      "top_4_rate": "61.71",
-      "top_1_rate": "17.98",
-      "battle": "2,625",
+      "average_position": "4.01",
+      "top_4_rate": "61.18",
+      "top_1_rate": "17.91",
+      "battle": "3,295",
       "description_icon": [
         "Jump to the lowest percent Health enemy within 3 hexes and stab them, dealing 255/385/615(",
         "AD.png",
@@ -2526,16 +3112,32 @@
       ],
       "skill_name": "Savagery",
       "skill_image": "DA_18_Rengar.png",
-      "starting_mana": "10",
-      "skill_mana": "50",
-      "skill_attack_range": 0,
-      "health": [],
-      "attack_damage": [],
-      "damage_per_second": [],
-      "attack_speed": 0,
-      "armor": 0,
-      "magical_resistance": 0,
-      "stats": [],
+      "starting_mana": 10,
+      "skill_mana": 50,
+      "skill_attack_range": 1,
+      "health": [
+        900,
+        1620,
+        2916
+      ],
+      "attack_damage": [
+        60,
+        90,
+        135
+      ],
+      "damage_per_second": [
+        48,
+        72,
+        108
+      ],
+      "attack_speed": 0.8,
+      "armor": 55,
+      "magical_resistance": 55,
+      "stats": [
+        "Sát Thương: 255(%i:scaleAD%) [255 / 385 / 615]",
+        "Hồi Máu Tối Thiểu: 60(%i:scaleAP%) [60 / 90 / 90]",
+        "Hồi Máu Tối Đa: 120(%i:scaleAP%) [120 / 180 / 180]"
+      ],
       "traits": [
         {
           "id": "khac_tinh",
@@ -2543,7 +3145,28 @@
           "image": "Trait_Icon_18_Rival.TFT_Set18.png"
         }
       ],
-      "items": [],
+      "items": [
+        {
+          "id": "ao_choang_bong_toi",
+          "image": "DA_EdgeOfNight.png"
+        },
+        {
+          "id": "cuong_dao_guinsoo",
+          "image": "DA_GuinsoosRageblade.png"
+        },
+        {
+          "id": "quyen_nang_khong_lo",
+          "image": "DA_TitansResolve.png"
+        },
+        {
+          "id": "huyet_kiem",
+          "image": "DA_Bloodthirster.png"
+        },
+        {
+          "id": "mong_vuot_sterak",
+          "image": "DA_SteraksGage.png"
+        }
+      ],
       "unlock": {
         "description": "",
         "type": false
@@ -2555,10 +3178,10 @@
       "name": "Amumu",
       "image": "tft18_amumu.tft_set18.jpg",
       "price": "4",
-      "average_position": "4.14",
-      "top_4_rate": "54.7",
-      "top_1_rate": "17.73",
-      "battle": "13,263",
+      "average_position": "4.16",
+      "top_4_rate": "54.32",
+      "top_1_rate": "17.60",
+      "battle": "16,378",
       "description_icon": [
         "Passive: Every second, restore 29/52/172(",
         "AP.png",
@@ -2597,16 +3220,33 @@
       ],
       "skill_name": "Tantrum",
       "skill_image": "DA_Amumu18.png",
-      "starting_mana": "30",
-      "skill_mana": "140",
-      "skill_attack_range": 0,
-      "health": [],
-      "attack_damage": [],
-      "damage_per_second": [],
-      "attack_speed": 0,
-      "armor": 0,
-      "magical_resistance": 0,
-      "stats": [],
+      "starting_mana": 30,
+      "skill_mana": 140,
+      "skill_attack_range": 1,
+      "health": [
+        1300,
+        2340,
+        4212
+      ],
+      "attack_damage": [
+        70,
+        105,
+        158
+      ],
+      "damage_per_second": [
+        49,
+        74,
+        110
+      ],
+      "attack_speed": 0.7,
+      "armor": 60,
+      "magical_resistance": 60,
+      "stats": [
+        "Hồi Máu: 29 = 28.6(%i:scaleHealth%) + 20(%i:scaleAP%) [20 / 25 / 100]",
+        "Sát Thương Nội Tại: 12(%i:scaleAP%) [12 / 18 / 150]",
+        "Sát Thương: 100(%i:scaleAP%) [100 / 150 / 2000]",
+        "Thời Gian Choáng: [1 / 1 / 6]"
+      ],
       "traits": [
         {
           "id": "hoa_nguc",
@@ -2619,7 +3259,28 @@
           "image": "Trait_Icon_18_Juggernaut.TFT_Set18.png"
         }
       ],
-      "items": [],
+      "items": [
+        {
+          "id": "thu_tuong_thach_giap",
+          "image": "DA_GargoyleStoneplate.png"
+        },
+        {
+          "id": "giap_mau_warmog",
+          "image": "DA_WarmogsArmor.png"
+        },
+        {
+          "id": "giap_tam_linh",
+          "image": "DA_SpiritVisage.png"
+        },
+        {
+          "id": "loi_the_ho_ve",
+          "image": "DA_ProtectorsVow.png"
+        },
+        {
+          "id": "ao_choang_lua",
+          "image": "DA_SunfireCape.png"
+        }
+      ],
       "unlock": {
         "description": "",
         "type": false
@@ -2631,10 +3292,10 @@
       "name": "Morgana",
       "image": "tft18_morgana.tft_set18.jpg",
       "price": "4",
-      "average_position": "3.7",
-      "top_4_rate": "68.77",
-      "top_1_rate": "17.35",
-      "battle": "7,362",
+      "average_position": "3.74",
+      "top_4_rate": "67.99",
+      "top_1_rate": "17.28",
+      "battle": "9,099",
       "description_icon": [
         "Passive: Gain 25% Omnivamp.",
         "\n",
@@ -2664,16 +3325,32 @@
       ],
       "skill_name": "Withering Curse",
       "skill_image": "DA_18_Morgana.png",
-      "starting_mana": "0",
-      "skill_mana": "60",
-      "skill_attack_range": 0,
-      "health": [],
-      "attack_damage": [],
-      "damage_per_second": [],
-      "attack_speed": 0,
-      "armor": 0,
-      "magical_resistance": 0,
-      "stats": [],
+      "starting_mana": 0,
+      "skill_mana": 60,
+      "skill_attack_range": 2,
+      "health": [
+        1100,
+        1980,
+        3564
+      ],
+      "attack_damage": [
+        45,
+        68,
+        101
+      ],
+      "damage_per_second": [
+        34,
+        51,
+        76
+      ],
+      "attack_speed": 0.75,
+      "armor": 60,
+      "magical_resistance": 60,
+      "stats": [
+        "Sát Thương Khởi Đầu: 60(%i:scaleAP%) [60 / 90 / 500]",
+        "Sát Thương Khu Vực: 33(%i:scaleAP%) [33 / 50 / 500]",
+        "Sát Thương Nguyền Rủa Cộng Thêm: 22(%i:scaleAP%) [22 / 33 / 240]"
+      ],
       "traits": [
         {
           "id": "tien_hac_am",
@@ -2686,7 +3363,28 @@
           "image": "Trait_Icon_18_Invoker.TFT_Set18.png"
         }
       ],
-      "items": [],
+      "items": [
+        {
+          "id": "quy_thu_morello",
+          "image": "DA_Morellonomicon.png"
+        },
+        {
+          "id": "truong_hu_vo",
+          "image": "DA_VoidStaff.png"
+        },
+        {
+          "id": "mu_phu_thuy_rabadon",
+          "image": "DA_RabadonsDeathcap.png"
+        },
+        {
+          "id": "gang_bao_thach",
+          "image": "DA_JeweledGauntlet.png"
+        },
+        {
+          "id": "mu_thich_nghi",
+          "image": "DA_AdaptiveHelm.png"
+        }
+      ],
       "unlock": {
         "description": "",
         "type": false
@@ -2698,10 +3396,10 @@
       "name": "Lillia",
       "image": "tft18_lillia.tft_set18.jpg",
       "price": "4",
-      "average_position": "3.82",
-      "top_4_rate": "64.2",
-      "top_1_rate": "16.83",
-      "battle": "7,548",
+      "average_position": "3.84",
+      "top_4_rate": "63.87",
+      "top_1_rate": "16.71",
+      "battle": "9,452",
       "description_icon": [
         "Restore 325/475/800(",
         "AP.png",
@@ -2724,16 +3422,32 @@
       ],
       "skill_name": "Lilting Lullaby",
       "skill_image": "DA_18_Lillia.png",
-      "starting_mana": "40",
-      "skill_mana": "140",
-      "skill_attack_range": 0,
-      "health": [],
-      "attack_damage": [],
-      "damage_per_second": [],
-      "attack_speed": 0,
-      "armor": 0,
-      "magical_resistance": 0,
-      "stats": [],
+      "starting_mana": 40,
+      "skill_mana": 140,
+      "skill_attack_range": 1,
+      "health": [
+        1300,
+        2340,
+        4212
+      ],
+      "attack_damage": [
+        40,
+        60,
+        90
+      ],
+      "damage_per_second": [
+        26,
+        39,
+        59
+      ],
+      "attack_speed": 0.65,
+      "armor": 60,
+      "magical_resistance": 60,
+      "stats": [
+        "Hồi Máu: 325(%i:scaleAP%) [325 / 475 / 800]",
+        "Sát Thương: 90(%i:scaleAP%) [90 / 135 / 2000]",
+        "Thời Gian Ngủ: [1.5 / 1.75 / 8]"
+      ],
       "traits": [
         {
           "id": "ve_quan",
@@ -2746,7 +3460,28 @@
           "image": "Trait_Icon_18_Fae.TFT_Set18.png"
         }
       ],
-      "items": [],
+      "items": [
+        {
+          "id": "loi_the_ho_ve",
+          "image": "DA_ProtectorsVow.png"
+        },
+        {
+          "id": "thu_tuong_thach_giap",
+          "image": "DA_GargoyleStoneplate.png"
+        },
+        {
+          "id": "ao_choang_lua",
+          "image": "DA_SunfireCape.png"
+        },
+        {
+          "id": "giap_mau_warmog",
+          "image": "DA_WarmogsArmor.png"
+        },
+        {
+          "id": "giap_vai_nguyet_than",
+          "image": "DA_Evenshroud.png"
+        }
+      ],
       "unlock": {
         "description": "",
         "type": false
@@ -2758,10 +3493,10 @@
       "name": "Alistar",
       "image": "tft18_alistar.tft_set18.jpg",
       "price": "2",
-      "average_position": "4.36",
-      "top_4_rate": "51.5",
-      "top_1_rate": "14.87",
-      "battle": "10,718",
+      "average_position": "4.38",
+      "top_4_rate": "51.24",
+      "top_1_rate": "14.86",
+      "battle": "13,252",
       "description_icon": [
         "Roar, restoring 276/397/566(",
         "Health.png",
@@ -2791,16 +3526,32 @@
       ],
       "skill_name": "Triumphant Roar",
       "skill_image": "DA_18_Alistar.png",
-      "starting_mana": "30",
-      "skill_mana": "90",
-      "skill_attack_range": 0,
-      "health": [],
-      "attack_damage": [],
-      "damage_per_second": [],
-      "attack_speed": 0,
-      "armor": 0,
-      "magical_resistance": 0,
-      "stats": [],
+      "starting_mana": 30,
+      "skill_mana": 90,
+      "skill_attack_range": 1,
+      "health": [
+        950,
+        1710,
+        3078
+      ],
+      "attack_damage": [
+        50,
+        75,
+        113
+      ],
+      "damage_per_second": [
+        30,
+        45,
+        68
+      ],
+      "attack_speed": 0.6,
+      "armor": 45,
+      "magical_resistance": 45,
+      "stats": [
+        "Hồi Máu: 276 = 76(%i:scaleHealth%) + 200(%i:scaleAP%) [200 / 260 / 320]",
+        "Hồi Máu Cho Đồng Minh: 80(%i:scaleAP%) [80 / 105 / 130]",
+        "Sát Thương: 100(%i:scaleAP%) [100 / 150 / 225]"
+      ],
       "traits": [
         {
           "id": "dau_si",
@@ -2813,7 +3564,28 @@
           "image": "Trait_Icon_18_Elderwood.TFT_Set18.png"
         }
       ],
-      "items": [],
+      "items": [
+        {
+          "id": "thu_tuong_thach_giap",
+          "image": "DA_GargoyleStoneplate.png"
+        },
+        {
+          "id": "giap_tam_linh",
+          "image": "DA_SpiritVisage.png"
+        },
+        {
+          "id": "giap_mau_warmog",
+          "image": "DA_WarmogsArmor.png"
+        },
+        {
+          "id": "ao_choang_lua",
+          "image": "DA_SunfireCape.png"
+        },
+        {
+          "id": "loi_the_ho_ve",
+          "image": "DA_ProtectorsVow.png"
+        }
+      ],
       "unlock": {
         "description": "",
         "type": false
@@ -2826,9 +3598,9 @@
       "image": "tft18_leblanc.tft_set18.jpg",
       "price": "2",
       "average_position": "4.31",
-      "top_4_rate": "54.89",
-      "top_1_rate": "14.56",
-      "battle": "8,831",
+      "top_4_rate": "54.86",
+      "top_1_rate": "14.79",
+      "battle": "10,956",
       "description_icon": [
         "Passive: After player combat, your strongest LeBlanc has a 10%/15%/40% chance to create a copy of an ally on your board, increased by 4% per takedown.",
         "\n",
@@ -2854,16 +3626,32 @@
       ],
       "skill_name": "Mirror Image",
       "skill_image": "DA_18_LeBlanc.png",
-      "starting_mana": "0",
-      "skill_mana": "40",
-      "skill_attack_range": 0,
-      "health": [],
-      "attack_damage": [],
-      "damage_per_second": [],
-      "attack_speed": 0,
-      "armor": 0,
-      "magical_resistance": 0,
-      "stats": [],
+      "starting_mana": 0,
+      "skill_mana": 40,
+      "skill_attack_range": 4,
+      "health": [
+        550,
+        990,
+        1782
+      ],
+      "attack_damage": [
+        30,
+        45,
+        68
+      ],
+      "damage_per_second": [
+        21,
+        32,
+        47
+      ],
+      "attack_speed": 0.7,
+      "armor": 30,
+      "magical_resistance": 30,
+      "stats": [
+        "Tỉ Lệ Sao Chép: 10% [10% / 15% / 40%]",
+        "Sát Thương: 250(%i:scaleAP%) [250 / 375 / 565]",
+        "Sát Thương Phụ: 85(%i:scaleAP%) [85 / 130 / 190]"
+      ],
       "traits": [
         {
           "id": "than_rung",
@@ -2876,7 +3664,28 @@
           "image": "Trait_Icon_18_Spellweaver.TFT_Set18.png"
         }
       ],
-      "items": [],
+      "items": [
+        {
+          "id": "gang_bao_thach",
+          "image": "DA_JeweledGauntlet.png"
+        },
+        {
+          "id": "truong_hu_vo",
+          "image": "DA_VoidStaff.png"
+        },
+        {
+          "id": "kiem_sung_hextech",
+          "image": "DA_HextechGunblade.png"
+        },
+        {
+          "id": "nanh_nashor",
+          "image": "DA_NashorsTooth.png"
+        },
+        {
+          "id": "ngon_giao_shojin",
+          "image": "DA_SpearOfShojin.png"
+        }
+      ],
       "unlock": {
         "description": "",
         "type": false
@@ -2884,14 +3693,102 @@
     },
     {
       "stt": 23,
+      "id": "kha'zix",
+      "name": "Kha'Zix",
+      "image": "tft18_khazix.tft_set18.jpg",
+      "price": "3",
+      "average_position": "4.21",
+      "top_4_rate": "57.81",
+      "top_1_rate": "14.47",
+      "battle": "3,131",
+      "description_icon": [
+        "Leap to the farthest enemy within 3 Hexes, dealing 285/400/580(",
+        "AP.png",
+        ") magic damage. If they have no adjacent allies, deal 310/445/660(",
+        "AP.png",
+        ") magic damage instead and gain 10 mana.{Augment.Variant.RivalsAugment.AbilityTooltip}",
+        "\n",
+        "\n",
+        "Damage: 285(",
+        "AP.png",
+        ") [ 285 / 400 / 580 ]",
+        "\n",
+        "\n",
+        "Isolated Damage: 310(",
+        "AP.png",
+        ") [ 310 / 445 / 660 ]"
+      ],
+      "skill_name": "Taste Their Fear",
+      "skill_image": "DA_18_KhaZix.png",
+      "starting_mana": 0,
+      "skill_mana": 25,
+      "skill_attack_range": 1,
+      "health": [
+        950,
+        1710,
+        3078
+      ],
+      "attack_damage": [
+        30,
+        45,
+        68
+      ],
+      "damage_per_second": [
+        26,
+        38,
+        57
+      ],
+      "attack_speed": 0.85,
+      "armor": 55,
+      "magical_resistance": 55,
+      "stats": [
+        "Sát Thương: 285(%i:scaleAP%) [285 / 400 / 580]",
+        "Sát Thương Cô Lập: 310(%i:scaleAP%) [310 / 445 / 660]"
+      ],
+      "traits": [
+        {
+          "id": "khac_tinh",
+          "name": "Khắc Tinh",
+          "image": "Trait_Icon_18_Rival.TFT_Set18.png"
+        }
+      ],
+      "items": [
+        {
+          "id": "ban_tay_cong_ly",
+          "image": "DA_HandOfJustice.png"
+        },
+        {
+          "id": "ao_choang_bong_toi",
+          "image": "DA_EdgeOfNight.png"
+        },
+        {
+          "id": "mu_phu_thuy_rabadon",
+          "image": "DA_RabadonsDeathcap.png"
+        },
+        {
+          "id": "gang_bao_thach",
+          "image": "DA_JeweledGauntlet.png"
+        },
+        {
+          "id": "huyet_kiem",
+          "image": "DA_Bloodthirster.png"
+        }
+      ],
+      "unlock": {
+        "description": "",
+        "type": false
+      }
+    },
+    {
+      "stt": 24,
       "id": "teemo",
       "name": "Teemo",
       "image": "tft18_teemo.tft_set18.jpg",
       "price": "2",
-      "average_position": "3.7",
-      "top_4_rate": "70.92",
-      "top_1_rate": "14.42",
-      "battle": "2,545",
+      "average_position": "3.72",
+      "top_4_rate": "70.17",
+      "top_1_rate": "14.15",
+      "battle": "3,145",
       "description_icon": [
         "Throw 2 clusters of mushrooms that deal 60/90/135(",
         "AP.png",
@@ -2924,16 +3821,31 @@
       ],
       "skill_name": "Fungus Among Us",
       "skill_image": "DA_18_Teemo.png",
-      "starting_mana": "0",
-      "skill_mana": "50",
-      "skill_attack_range": 0,
-      "health": [],
-      "attack_damage": [],
-      "damage_per_second": [],
-      "attack_speed": 0,
-      "armor": 0,
-      "magical_resistance": 0,
-      "stats": [],
+      "starting_mana": 0,
+      "skill_mana": 50,
+      "skill_attack_range": 4,
+      "health": [
+        450,
+        810,
+        1458
+      ],
+      "attack_damage": [
+        15,
+        23,
+        34
+      ],
+      "damage_per_second": [
+        11,
+        16,
+        24
+      ],
+      "attack_speed": 0.7,
+      "armor": 15,
+      "magical_resistance": 15,
+      "stats": [
+        "Sát Thương Cộng Thêm: 30(%i:scaleAP%) [30 / 45 / 100]",
+        "Sát Thương Độc: 70(%i:scaleAP%) [70 / 105 / 190]"
+      ],
       "traits": [
         {
           "id": "thuat_si",
@@ -2953,127 +3865,15 @@
       }
     },
     {
-      "stt": 24,
-      "id": "kha'zix",
-      "name": "Kha'Zix",
-      "image": "tft18_khazix.tft_set18.jpg",
-      "price": "3",
-      "average_position": "4.19",
-      "top_4_rate": "58.57",
-      "top_1_rate": "14.02",
-      "battle": "2,503",
-      "description_icon": [
-        "Leap to the farthest enemy within 3 Hexes, dealing 285/400/580(",
-        "AP.png",
-        ") magic damage. If they have no adjacent allies, deal 310/445/660(",
-        "AP.png",
-        ") magic damage instead and gain 10 mana.{Augment.Variant.RivalsAugment.AbilityTooltip}",
-        "\n",
-        "\n",
-        "Damage: 285(",
-        "AP.png",
-        ") [ 285 / 400 / 580 ]",
-        "\n",
-        "\n",
-        "Isolated Damage: 310(",
-        "AP.png",
-        ") [ 310 / 445 / 660 ]"
-      ],
-      "skill_name": "Taste Their Fear",
-      "skill_image": "DA_18_KhaZix.png",
-      "starting_mana": "0",
-      "skill_mana": "25",
-      "skill_attack_range": 0,
-      "health": [],
-      "attack_damage": [],
-      "damage_per_second": [],
-      "attack_speed": 0,
-      "armor": 0,
-      "magical_resistance": 0,
-      "stats": [],
-      "traits": [
-        {
-          "id": "khac_tinh",
-          "name": "Khắc Tinh",
-          "image": "Trait_Icon_18_Rival.TFT_Set18.png"
-        }
-      ],
-      "items": [],
-      "unlock": {
-        "description": "",
-        "type": false
-      }
-    },
-    {
       "stt": 25,
-      "id": "hecarim",
-      "name": "Hecarim",
-      "image": "tft18_hecarim.tft_set18.jpg",
-      "price": "3",
-      "average_position": "4.19",
-      "top_4_rate": "57.79",
-      "top_1_rate": "13.88",
-      "battle": "14,938",
-      "description_icon": [
-        "Gain 50 Armor and Magic Resist for 3 seconds and restore 375/475/685(",
-        "AP.png",
-        ") Health over the duration. Launch spectral riders at the 3 nearest enemies, dealing 80/120/195(",
-        "AP.png",
-        ") magic damage and Stunning them for 1.5/1.5/1.75 seconds.",
-        "\n",
-        "\n",
-        "Heal: 375(",
-        "AP.png",
-        ") [ 375 / 475 / 685 ]",
-        "\n",
-        "\n",
-        "Damage: 80(",
-        "AP.png",
-        ") [ 80 / 120 / 195 ]",
-        "\n",
-        "\n",
-        "Stun Duration: [ 1.5 / 1.5 / 1.75 ]"
-      ],
-      "skill_name": "Spirit of Dread",
-      "skill_image": "DA_18_Hecarim.png",
-      "starting_mana": "30",
-      "skill_mana": "110",
-      "skill_attack_range": 0,
-      "health": [],
-      "attack_damage": [],
-      "damage_per_second": [],
-      "attack_speed": 0,
-      "armor": 0,
-      "magical_resistance": 0,
-      "stats": [],
-      "traits": [
-        {
-          "id": "than_rung",
-          "name": "Thần Rừng",
-          "image": "Trait_Icon_18_Elderwood.TFT_Set18.png"
-        },
-        {
-          "id": "tien_phong",
-          "name": "Tiên Phong",
-          "image": "Trait_Icon_18_Vanguard.TFT_Set18.png"
-        }
-      ],
-      "items": [],
-      "unlock": {
-        "description": "",
-        "type": false
-      }
-    },
-    {
-      "stt": 26,
       "id": "nidalee",
       "name": "Nidalee",
       "image": "tft18_nidalee.tft_set18.jpg",
       "price": "4",
       "average_position": "3.66",
-      "top_4_rate": "70.85",
-      "top_1_rate": "13.85",
-      "battle": "4,203",
+      "top_4_rate": "70.83",
+      "top_1_rate": "14.11",
+      "battle": "5,232",
       "description_icon": [
         "Adaptor (",
         "AP.png",
@@ -3100,16 +3900,31 @@
       ],
       "skill_name": "Javelin Toss",
       "skill_image": "DA_Nidalee18_AP.png",
-      "starting_mana": "0",
-      "skill_mana": "45",
-      "skill_attack_range": 0,
-      "health": [],
-      "attack_damage": [],
-      "damage_per_second": [],
-      "attack_speed": 0,
-      "armor": 0,
-      "magical_resistance": 0,
-      "stats": [],
+      "starting_mana": 0,
+      "skill_mana": 45,
+      "skill_attack_range": 1,
+      "health": [
+        850,
+        1530,
+        2754
+      ],
+      "attack_damage": [
+        35,
+        53,
+        79
+      ],
+      "damage_per_second": [
+        28,
+        42,
+        63
+      ],
+      "attack_speed": 0.8,
+      "armor": 30,
+      "magical_resistance": 30,
+      "stats": [
+        "Sát Thương: 170(%i:scaleAP%) [170 / 255 / 2000]",
+        "Sát Thương Cuối Cùng: (285(%i:scaleAP%)) [285 / 425 / 3000]"
+      ],
       "traits": [
         {
           "id": "thich_ung",
@@ -3122,7 +3937,125 @@
           "image": "Trait_Icon_18_Primal.TFT_Set18.png"
         }
       ],
-      "items": [],
+      "items": [
+        {
+          "id": "cuong_dao_guinsoo",
+          "image": "DA_GuinsoosRageblade.png"
+        },
+        {
+          "id": "gang_bao_thach",
+          "image": "DA_JeweledGauntlet.png"
+        },
+        {
+          "id": "chuy_doan_con",
+          "image": "DA_StrikersFlail.png"
+        },
+        {
+          "id": "mu_phu_thuy_rabadon",
+          "image": "DA_RabadonsDeathcap.png"
+        },
+        {
+          "id": "diet_khong_lo",
+          "image": "DA_GiantSlayer.png"
+        }
+      ],
+      "unlock": {
+        "description": "",
+        "type": false
+      }
+    },
+    {
+      "stt": 26,
+      "id": "hecarim",
+      "name": "Hecarim",
+      "image": "tft18_hecarim.tft_set18.jpg",
+      "price": "3",
+      "average_position": "4.19",
+      "top_4_rate": "57.71",
+      "top_1_rate": "13.89",
+      "battle": "18,679",
+      "description_icon": [
+        "Gain 50 Armor and Magic Resist for 3 seconds and restore 375/475/685(",
+        "AP.png",
+        ") Health over the duration. Launch spectral riders at the 3 nearest enemies, dealing 80/120/195(",
+        "AP.png",
+        ") magic damage and Stunning them for 1.5/1.5/1.75 seconds.",
+        "\n",
+        "\n",
+        "Heal: 375(",
+        "AP.png",
+        ") [ 375 / 475 / 685 ]",
+        "\n",
+        "\n",
+        "Damage: 80(",
+        "AP.png",
+        ") [ 80 / 120 / 195 ]",
+        "\n",
+        "\n",
+        "Stun Duration: [ 1.5 / 1.5 / 1.75 ]"
+      ],
+      "skill_name": "Spirit of Dread",
+      "skill_image": "DA_18_Hecarim.png",
+      "starting_mana": 30,
+      "skill_mana": 110,
+      "skill_attack_range": 1,
+      "health": [
+        1100,
+        1980,
+        3564
+      ],
+      "attack_damage": [
+        50,
+        75,
+        113
+      ],
+      "damage_per_second": [
+        33,
+        49,
+        73
+      ],
+      "attack_speed": 0.65,
+      "armor": 50,
+      "magical_resistance": 50,
+      "stats": [
+        "Hồi Máu: 375(%i:scaleAP%) [375 / 475 / 685]",
+        "Sát Thương: 80(%i:scaleAP%) [80 / 120 / 195]",
+        "Thời Gian Choáng: [1.5 / 1.5 / 1.75]"
+      ],
+      "traits": [
+        {
+          "id": "than_rung",
+          "name": "Thần Rừng",
+          "image": "Trait_Icon_18_Elderwood.TFT_Set18.png"
+        },
+        {
+          "id": "tien_phong",
+          "name": "Tiên Phong",
+          "image": "Trait_Icon_18_Vanguard.TFT_Set18.png"
+        }
+      ],
+      "items": [
+        {
+          "id": "thu_tuong_thach_giap",
+          "image": "DA_GargoyleStoneplate.png"
+        },
+        {
+          "id": "giap_mau_warmog",
+          "image": "DA_WarmogsArmor.png"
+        },
+        {
+          "id": "giap_tam_linh",
+          "image": "DA_SpiritVisage.png"
+        },
+        {
+          "id": "ao_choang_lua",
+          "image": "DA_SunfireCape.png"
+        },
+        {
+          "id": "loi_the_ho_ve",
+          "image": "DA_ProtectorsVow.png"
+        }
+      ],
       "unlock": {
         "description": "",
         "type": false
@@ -3134,10 +4067,10 @@
       "name": "Master Yi",
       "image": "tft18_masteryi.tft_set18.jpg",
       "price": "3",
-      "average_position": "4.03",
-      "top_4_rate": "63.4",
-      "top_1_rate": "13.73",
-      "battle": "4,298",
+      "average_position": "4.02",
+      "top_4_rate": "63.19",
+      "top_1_rate": "13.77",
+      "battle": "5,434",
       "description_icon": [
         "Passive: Every third attack is a Double Strike. On takedown, gain a burst of movement speed.",
         "\n",
@@ -3160,16 +4093,30 @@
       ],
       "skill_name": "Wuju Style",
       "skill_image": "DA_18_MasterYi_AD.png",
-      "starting_mana": "0",
-      "skill_mana": "3",
-      "skill_attack_range": 0,
-      "health": [],
-      "attack_damage": [],
-      "damage_per_second": [],
-      "attack_speed": 0,
-      "armor": 0,
-      "magical_resistance": 0,
-      "stats": [],
+      "starting_mana": 0,
+      "skill_mana": 3,
+      "skill_attack_range": 1,
+      "health": [
+        850,
+        1530,
+        2754
+      ],
+      "attack_damage": [
+        65,
+        98,
+        146
+      ],
+      "damage_per_second": [
+        52,
+        78,
+        117
+      ],
+      "attack_speed": 0.8,
+      "armor": 60,
+      "magical_resistance": 60,
+      "stats": [
+        "Tốc Độ Đánh: 15% = 12% + 3%(%i:scaleAP%) [3% / 3% / 3%]"
+      ],
       "traits": [
         {
           "id": "thich_ung",
@@ -3182,7 +4129,28 @@
           "image": "Trait_Icon_18_Blossom.TFT_Set18.png"
         }
       ],
-      "items": [],
+      "items": [
+        {
+          "id": "cuong_dao_guinsoo",
+          "image": "DA_GuinsoosRageblade.png"
+        },
+        {
+          "id": "ao_choang_bong_toi",
+          "image": "DA_EdgeOfNight.png"
+        },
+        {
+          "id": "quyen_nang_khong_lo",
+          "image": "DA_TitansResolve.png"
+        },
+        {
+          "id": "an_dau_si",
+          "image": "DA_18_EmblemBrawler.png"
+        },
+        {
+          "id": "huyet_kiem",
+          "image": "DA_Bloodthirster.png"
+        }
+      ],
       "unlock": {
         "description": "",
         "type": false
@@ -3194,10 +4162,10 @@
       "name": "Karma",
       "image": "tft18_karma.tft_set18.jpg",
       "price": "1",
-      "average_position": "4.47",
-      "top_4_rate": "51.21",
-      "top_1_rate": "13.59",
-      "battle": "9,808",
+      "average_position": "4.48",
+      "top_4_rate": "50.99",
+      "top_1_rate": "13.68",
+      "battle": "12,193",
       "description_icon": [
         "Tether the current target, dealing 280/420/630(",
         "AP.png",
@@ -3220,16 +4188,31 @@
       ],
       "skill_name": "Karmic Bond",
       "skill_image": "DA_Karma18.png",
-      "starting_mana": "0",
-      "skill_mana": "40",
-      "skill_attack_range": 0,
-      "health": [],
-      "attack_damage": [],
-      "damage_per_second": [],
-      "attack_speed": 0,
-      "armor": 0,
-      "magical_resistance": 0,
-      "stats": [],
+      "starting_mana": 0,
+      "skill_mana": 40,
+      "skill_attack_range": 4,
+      "health": [
+        500,
+        900,
+        1620
+      ],
+      "attack_damage": [
+        25,
+        38,
+        56
+      ],
+      "damage_per_second": [
+        18,
+        26,
+        39
+      ],
+      "attack_speed": 0.7,
+      "armor": 25,
+      "magical_resistance": 25,
+      "stats": [
+        "Sát Thương: 280(%i:scaleAP%) [280 / 420 / 630]",
+        "Sát Thương Dồn: 120(%i:scaleAP%) [120 / 180 / 270]"
+      ],
       "traits": [
         {
           "id": "hoa_linh",
@@ -3242,7 +4225,28 @@
           "image": "Trait_Icon_18_Spellweaver.TFT_Set18.png"
         }
       ],
-      "items": [],
+      "items": [
+        {
+          "id": "gang_bao_thach",
+          "image": "DA_JeweledGauntlet.png"
+        },
+        {
+          "id": "truong_hu_vo",
+          "image": "DA_VoidStaff.png"
+        },
+        {
+          "id": "kiem_sung_hextech",
+          "image": "DA_HextechGunblade.png"
+        },
+        {
+          "id": "nanh_nashor",
+          "image": "DA_NashorsTooth.png"
+        },
+        {
+          "id": "quy_thu_morello",
+          "image": "DA_Morellonomicon.png"
+        }
+      ],
       "unlock": {
         "description": "",
         "type": false
@@ -3250,76 +4254,14 @@
     },
     {
       "stt": 29,
-      "id": "fiddlesticks",
-      "name": "Fiddlesticks",
-      "image": "tft18_fiddlesticks.tft_set18.jpg",
-      "price": "3",
-      "average_position": "4.28",
-      "top_4_rate": "56.05",
-      "top_1_rate": "13.26",
-      "battle": "9,849",
-      "description_icon": [
-        "Reduce the Magic Resist of the 3 nearest enemies by 10. Then drain life from them over 2 seconds, healing for 410/485/850(",
-        "AP.png",
-        ") Health and dealing 70/105/170(",
-        "AP.png",
-        ") magic damage to each over the duration.",
-        "\n",
-        "\n",
-        "Heal: 410(",
-        "AP.png",
-        ") [ 410 / 485 / 850 ]",
-        "\n",
-        "\n",
-        "Damage: 70(",
-        "AP.png",
-        ") [ 70 / 105 / 170 ]"
-      ],
-      "skill_name": "Harvest",
-      "skill_image": "DA_Fiddlesticks18.png",
-      "starting_mana": "30",
-      "skill_mana": "90",
-      "skill_attack_range": 0,
-      "health": [],
-      "attack_damage": [],
-      "damage_per_second": [],
-      "attack_speed": 0,
-      "armor": 0,
-      "magical_resistance": 0,
-      "stats": [],
-      "traits": [
-        {
-          "id": "ve_quan",
-          "name": "Vệ Quân",
-          "image": "Trait_Icon_18_Defender.TFT_Set18.png"
-        },
-        {
-          "id": "thuc_vat",
-          "name": "Thực Vật",
-          "image": "Trait_Icon_18_FloraFatalis.TFT_Set18.png"
-        },
-        {
-          "id": "thuat_su",
-          "name": "Thuật Sư",
-          "image": "Trait_Icon_18_Spellweaver.TFT_Set18.png"
-        }
-      ],
-      "items": [],
-      "unlock": {
-        "description": "",
-        "type": false
-      }
-    },
-    {
-      "stt": 30,
       "id": "kog'maw",
       "name": "Kog'Maw",
       "image": "tft18_kogmaw.tft_set18.jpg",
       "price": "3",
       "average_position": "4.06",
-      "top_4_rate": "60.48",
-      "top_1_rate": "13.23",
-      "battle": "7,484",
+      "top_4_rate": "60.63",
+      "top_1_rate": "13.51",
+      "battle": "9,356",
       "description_icon": [
         "Adaptor (",
         "AD.png",
@@ -3353,16 +4295,32 @@
       ],
       "skill_name": "Raining Artillery",
       "skill_image": "DA_KogMaw18_AD.png",
-      "starting_mana": "15",
-      "skill_mana": "55",
-      "skill_attack_range": 0,
-      "health": [],
-      "attack_damage": [],
-      "damage_per_second": [],
-      "attack_speed": 0,
-      "armor": 0,
-      "magical_resistance": 0,
-      "stats": [],
+      "starting_mana": 15,
+      "skill_mana": 55,
+      "skill_attack_range": 4,
+      "health": [
+        650,
+        1170,
+        2106
+      ],
+      "attack_damage": [
+        40,
+        60,
+        90
+      ],
+      "damage_per_second": [
+        32,
+        48,
+        72
+      ],
+      "attack_speed": 0.8,
+      "armor": 35,
+      "magical_resistance": 35,
+      "stats": [
+        "Sát Thương: %i:scaleAP% [20 / 30 / 50]",
+        "Sát Thương: 165 = 145(%i:scaleAD%) + 20(%i:scaleAP%) [145 / 220 / 375]",
+        "Sát Thương Thấp Máu: 231 = 140% của 165 [140% / 140% / 140%]"
+      ],
       "traits": [
         {
           "id": "thich_ung",
@@ -3380,7 +4338,126 @@
           "image": "Trait_Icon_18_Invoker.TFT_Set18.png"
         }
       ],
-      "items": [],
+      "items": [
+        {
+          "id": "ngon_giao_shojin",
+          "image": "DA_SpearOfShojin.png"
+        },
+        {
+          "id": "vo_cuc_kiem",
+          "image": "DA_InfinityEdge.png"
+        },
+        {
+          "id": "bua_do",
+          "image": "DA_RedBuff.png"
+        },
+        {
+          "id": "gang_bao_thach",
+          "image": "DA_JeweledGauntlet.png"
+        },
+        {
+          "id": "diet_khong_lo",
+          "image": "DA_GiantSlayer.png"
+        }
+      ],
+      "unlock": {
+        "description": "",
+        "type": false
+      }
+    },
+    {
+      "stt": 30,
+      "id": "fiddlesticks",
+      "name": "Fiddlesticks",
+      "image": "tft18_fiddlesticks.tft_set18.jpg",
+      "price": "3",
+      "average_position": "4.29",
+      "top_4_rate": "55.87",
+      "top_1_rate": "13.18",
+      "battle": "12,256",
+      "description_icon": [
+        "Reduce the Magic Resist of the 3 nearest enemies by 10. Then drain life from them over 2 seconds, healing for 410/485/850(",
+        "AP.png",
+        ") Health and dealing 70/105/170(",
+        "AP.png",
+        ") magic damage to each over the duration.",
+        "\n",
+        "\n",
+        "Heal: 410(",
+        "AP.png",
+        ") [ 410 / 485 / 850 ]",
+        "\n",
+        "\n",
+        "Damage: 70(",
+        "AP.png",
+        ") [ 70 / 105 / 170 ]"
+      ],
+      "skill_name": "Harvest",
+      "skill_image": "DA_Fiddlesticks18.png",
+      "starting_mana": 30,
+      "skill_mana": 90,
+      "skill_attack_range": 1,
+      "health": [
+        1000,
+        1800,
+        3240
+      ],
+      "attack_damage": [
+        50,
+        75,
+        113
+      ],
+      "damage_per_second": [
+        33,
+        49,
+        73
+      ],
+      "attack_speed": 0.65,
+      "armor": 55,
+      "magical_resistance": 55,
+      "stats": [
+        "Hồi Máu: 410(%i:scaleAP%) [410 / 485 / 850]",
+        "Sát Thương: 70(%i:scaleAP%) [70 / 105 / 170]"
+      ],
+      "traits": [
+        {
+          "id": "ve_quan",
+          "name": "Vệ Quân",
+          "image": "Trait_Icon_18_Defender.TFT_Set18.png"
+        },
+        {
+          "id": "thuc_vat",
+          "name": "Thực Vật",
+          "image": "Trait_Icon_18_FloraFatalis.TFT_Set18.png"
+        },
+        {
+          "id": "thuat_su",
+          "name": "Thuật Sư",
+          "image": "Trait_Icon_18_Spellweaver.TFT_Set18.png"
+        }
+      ],
+      "items": [
+        {
+          "id": "thu_tuong_thach_giap",
+          "image": "DA_GargoyleStoneplate.png"
+        },
+        {
+          "id": "no_set",
+          "image": "DA_IonicSpark.png"
+        },
+        {
+          "id": "ao_choang_lua",
+          "image": "DA_SunfireCape.png"
+        },
+        {
+          "id": "giap_mau_warmog",
+          "image": "DA_WarmogsArmor.png"
+        },
+        {
+          "id": "giap_tam_linh",
+          "image": "DA_SpiritVisage.png"
+        }
+      ],
       "unlock": {
         "description": "",
         "type": false
@@ -3392,10 +4469,10 @@
       "name": "Ornn",
       "image": "tft18_ornn.tft_set18.jpg",
       "price": "1",
-      "average_position": "4.57",
-      "top_4_rate": "49.89",
-      "top_1_rate": "12.59",
-      "battle": "13,255",
+      "average_position": "4.56",
+      "top_4_rate": "50.19",
+      "top_1_rate": "12.61",
+      "battle": "16,548",
       "description_icon": [
         "Active: Gain 400/460/550(",
         "AP.png",
@@ -3418,16 +4495,31 @@
       ],
       "skill_name": "Bellows Breath",
       "skill_image": "DA_18_Ornn.png",
-      "starting_mana": "40",
-      "skill_mana": "100",
-      "skill_attack_range": 0,
-      "health": [],
-      "attack_damage": [],
-      "damage_per_second": [],
-      "attack_speed": 0,
-      "armor": 0,
-      "magical_resistance": 0,
-      "stats": [],
+      "starting_mana": 40,
+      "skill_mana": 100,
+      "skill_attack_range": 1,
+      "health": [
+        700,
+        1260,
+        2268
+      ],
+      "attack_damage": [
+        40,
+        60,
+        90
+      ],
+      "damage_per_second": [
+        24,
+        36,
+        54
+      ],
+      "attack_speed": 0.6,
+      "armor": 40,
+      "magical_resistance": 40,
+      "stats": [
+        "Lá Chắn: 400(%i:scaleAP%) [400 / 460 / 550]",
+        "Sát Thương: 200(%i:scaleAP%) [200 / 300 / 450]"
+      ],
       "traits": [
         {
           "id": "ve_quan",
@@ -3440,7 +4532,28 @@
           "image": "Trait_Icon_18_Elderwood.TFT_Set18.png"
         }
       ],
-      "items": [],
+      "items": [
+        {
+          "id": "thu_tuong_thach_giap",
+          "image": "DA_GargoyleStoneplate.png"
+        },
+        {
+          "id": "giap_tam_linh",
+          "image": "DA_SpiritVisage.png"
+        },
+        {
+          "id": "giap_mau_warmog",
+          "image": "DA_WarmogsArmor.png"
+        },
+        {
+          "id": "loi_the_ho_ve",
+          "image": "DA_ProtectorsVow.png"
+        },
+        {
+          "id": "ao_choang_lua",
+          "image": "DA_SunfireCape.png"
+        }
+      ],
       "unlock": {
         "description": "",
         "type": false
@@ -3452,10 +4565,10 @@
       "name": "Yorick",
       "image": "tft18_yorick.tft_set18.jpg",
       "price": "1",
-      "average_position": "4.57",
-      "top_4_rate": "48.81",
-      "top_1_rate": "12.20",
-      "battle": "15,185",
+      "average_position": "4.58",
+      "top_4_rate": "48.77",
+      "top_1_rate": "12.22",
+      "battle": "18,877",
       "description_icon": [
         "Passive: On death, spawn a Spirit Walker with 330/634/1171(",
         "Health.png",
@@ -3485,16 +4598,32 @@
       ],
       "skill_name": "Last Rites",
       "skill_image": "DA_18_Yorick.png",
-      "starting_mana": "50",
-      "skill_mana": "110",
-      "skill_attack_range": 0,
-      "health": [],
-      "attack_damage": [],
-      "damage_per_second": [],
-      "attack_speed": 0,
-      "armor": 0,
-      "magical_resistance": 0,
-      "stats": [],
+      "starting_mana": 50,
+      "skill_mana": 110,
+      "skill_attack_range": 1,
+      "health": [
+        650,
+        1170,
+        2106
+      ],
+      "attack_damage": [
+        50,
+        75,
+        113
+      ],
+      "damage_per_second": [
+        30,
+        45,
+        68
+      ],
+      "attack_speed": 0.6,
+      "armor": 35,
+      "magical_resistance": 35,
+      "stats": [
+        "Máu của Ma Sương: 330 = 130(%i:scaleHealth%) + 200 [200 / 400 / 750]",
+        "Sát Thương: 150(%i:scaleAD%) [150 / 225 / 340]",
+        "Hồi Máu: 280(%i:scaleAP%) [280 / 325 / 435]"
+      ],
       "traits": [
         {
           "id": "hoa_linh",
@@ -3512,7 +4641,28 @@
           "image": "Trait_Icon_18_Summoner.TFT_Set18.png"
         }
       ],
-      "items": [],
+      "items": [
+        {
+          "id": "thu_tuong_thach_giap",
+          "image": "DA_GargoyleStoneplate.png"
+        },
+        {
+          "id": "loi_the_ho_ve",
+          "image": "DA_ProtectorsVow.png"
+        },
+        {
+          "id": "ao_choang_lua",
+          "image": "DA_SunfireCape.png"
+        },
+        {
+          "id": "giap_tam_linh",
+          "image": "DA_SpiritVisage.png"
+        },
+        {
+          "id": "giap_vai_nguyet_than",
+          "image": "DA_Evenshroud.png"
+        }
+      ],
       "unlock": {
         "description": "",
         "type": false
@@ -3520,14 +4670,108 @@
     },
     {
       "stt": 33,
+      "id": "diana",
+      "name": "Diana",
+      "image": "tft18_diana.tft_set18.jpg",
+      "price": "3",
+      "average_position": "4.43",
+      "top_4_rate": "50.77",
+      "top_1_rate": "12.07",
+      "battle": "20,196",
+      "description_icon": [
+        "Gain 150/275/400 shield for 2 seconds and send out 6 moonlight orbs spread among enemies within 2 hexes, each dealing 70/105/170(",
+        "AP.png",
+        ") magic damage.",
+        "\n",
+        "\n",
+        "Damage: 70(",
+        "AP.png",
+        ") [ 70 / 105 / 170 ]",
+        "\n",
+        "\n",
+        "Shield: 150 [ 150 / 275 / 400 ]"
+      ],
+      "skill_name": "Pale Barrier",
+      "skill_image": "DA_18_Diana.png",
+      "starting_mana": 0,
+      "skill_mana": 40,
+      "skill_attack_range": 1,
+      "health": [
+        850,
+        1530,
+        2754
+      ],
+      "attack_damage": [
+        30,
+        45,
+        68
+      ],
+      "damage_per_second": [
+        24,
+        36,
+        54
+      ],
+      "attack_speed": 0.8,
+      "armor": 50,
+      "magical_resistance": 50,
+      "stats": [
+        "Sát Thương: 70(%i:scaleAP%) [70 / 105 / 170]",
+        "Lá Chắn: 150 [150 / 275 / 400]"
+      ],
+      "traits": [
+        {
+          "id": "mat_trang",
+          "name": "Mặt Trăng",
+          "image": "Trait_Icon_18_Lunar.TFT_Set18.png"
+        },
+        {
+          "id": "tan_pha",
+          "name": "Tàn Phá",
+          "image": "Trait_Icon_18_Ravager.TFT_Set18.png"
+        },
+        {
+          "id": "tien_phong",
+          "name": "Tiên Phong",
+          "image": "Trait_Icon_18_Vanguard.TFT_Set18.png"
+        }
+      ],
+      "items": [
+        {
+          "id": "ban_tay_cong_ly",
+          "image": "DA_HandOfJustice.png"
+        },
+        {
+          "id": "gang_bao_thach",
+          "image": "DA_JeweledGauntlet.png"
+        },
+        {
+          "id": "no_set",
+          "image": "DA_IonicSpark.png"
+        },
+        {
+          "id": "huyet_kiem",
+          "image": "DA_Bloodthirster.png"
+        },
+        {
+          "id": "quyen_nang_khong_lo",
+          "image": "DA_TitansResolve.png"
+        }
+      ],
+      "unlock": {
+        "description": "",
+        "type": false
+      }
+    },
+    {
+      "stt": 34,
       "id": "sejuani",
       "name": "Sejuani",
       "image": "tft18_sejuani.tft_set18.jpg",
       "price": "2",
-      "average_position": "4.51",
-      "top_4_rate": "52.5",
-      "top_1_rate": "12.15",
-      "battle": "8,080",
+      "average_position": "4.5",
+      "top_4_rate": "52.51",
+      "top_1_rate": "12.00",
+      "battle": "10,076",
       "description_icon": [
         "Gain 315/412/567(",
         "Health.png",
@@ -3557,16 +4801,32 @@
       ],
       "skill_name": "Sun's Wrath",
       "skill_image": "DA_18_Sejuani.png",
-      "starting_mana": "40",
-      "skill_mana": "100",
-      "skill_attack_range": 0,
-      "health": [],
-      "attack_damage": [],
-      "damage_per_second": [],
-      "attack_speed": 0,
-      "armor": 0,
-      "magical_resistance": 0,
-      "stats": [],
+      "starting_mana": 40,
+      "skill_mana": 100,
+      "skill_attack_range": 1,
+      "health": [
+        900,
+        1620,
+        2916
+      ],
+      "attack_damage": [
+        50,
+        75,
+        113
+      ],
+      "damage_per_second": [
+        30,
+        45,
+        68
+      ],
+      "attack_speed": 0.6,
+      "armor": 45,
+      "magical_resistance": 45,
+      "stats": [
+        "Lá Chắn: 315 = 90(%i:scaleHealth%) + 225(%i:scaleAP%) [225 / 250 / 275]",
+        "Sát Thương Hình Nón: 90(%i:scaleAP%) [90 / 135 / 205]",
+        "Sát Thương Đường Thẳng: 120(%i:scaleAP%) [120 / 180 / 270]"
+      ],
       "traits": [
         {
           "id": "dung_si",
@@ -3579,22 +4839,43 @@
           "image": "Trait_Icon_18_Solar.TFT_Set18.png"
         }
       ],
-      "items": [],
+      "items": [
+        {
+          "id": "thu_tuong_thach_giap",
+          "image": "DA_GargoyleStoneplate.png"
+        },
+        {
+          "id": "giap_tam_linh",
+          "image": "DA_SpiritVisage.png"
+        },
+        {
+          "id": "giap_mau_warmog",
+          "image": "DA_WarmogsArmor.png"
+        },
+        {
+          "id": "loi_the_ho_ve",
+          "image": "DA_ProtectorsVow.png"
+        },
+        {
+          "id": "ao_choang_lua",
+          "image": "DA_SunfireCape.png"
+        }
+      ],
       "unlock": {
         "description": "",
         "type": false
       }
     },
     {
-      "stt": 34,
+      "stt": 35,
       "id": "kobuko",
       "name": "Kobuko",
       "image": "tft18_kobuko.tft_set18.jpg",
       "price": "1",
-      "average_position": "4.11",
-      "top_4_rate": "58.08",
-      "top_1_rate": "12.13",
-      "battle": "4,203",
+      "average_position": "4.12",
+      "top_4_rate": "57.83",
+      "top_1_rate": "11.81",
+      "battle": "5,181",
       "description_icon": [
         "Restore 314/403/619(",
         "Health.png",
@@ -3620,16 +4901,31 @@
       ],
       "skill_name": "Dance of Life",
       "skill_image": "DA_18_Kobuko.png",
-      "starting_mana": "30",
-      "skill_mana": "90",
-      "skill_attack_range": 0,
-      "health": [],
-      "attack_damage": [],
-      "damage_per_second": [],
-      "attack_speed": 0,
-      "armor": 0,
-      "magical_resistance": 0,
-      "stats": [],
+      "starting_mana": 30,
+      "skill_mana": 90,
+      "skill_attack_range": 1,
+      "health": [
+        700,
+        1260,
+        2268
+      ],
+      "attack_damage": [
+        55,
+        83,
+        124
+      ],
+      "damage_per_second": [
+        36,
+        54,
+        80
+      ],
+      "attack_speed": 0.65,
+      "armor": 40,
+      "magical_resistance": 40,
+      "stats": [
+        "Hồi Máu: 314 = 49(%i:scaleHealth%) + 265(%i:scaleAP%) [265 / 315 / 460]",
+        "Sát Thương: 140 = 70(%i:scaleHealth%) + 70(%i:scaleAP%) [70 / 105 / 150]"
+      ],
       "traits": [
         {
           "id": "dau_si",
@@ -3642,65 +4938,28 @@
           "image": "Trait_Icon_18_Sprykin.TFT_Set18.png"
         }
       ],
-      "items": [],
-      "unlock": {
-        "description": "",
-        "type": false
-      }
-    },
-    {
-      "stt": 35,
-      "id": "diana",
-      "name": "Diana",
-      "image": "tft18_diana.tft_set18.jpg",
-      "price": "3",
-      "average_position": "4.42",
-      "top_4_rate": "50.73",
-      "top_1_rate": "12.05",
-      "battle": "16,360",
-      "description_icon": [
-        "Gain 150/275/400 shield for 2 seconds and send out 6 moonlight orbs spread among enemies within 2 hexes, each dealing 70/105/170(",
-        "AP.png",
-        ") magic damage.",
-        "\n",
-        "\n",
-        "Damage: 70(",
-        "AP.png",
-        ") [ 70 / 105 / 170 ]",
-        "\n",
-        "\n",
-        "Shield: 150 [ 150 / 275 / 400 ]"
-      ],
-      "skill_name": "Pale Barrier",
-      "skill_image": "DA_18_Diana.png",
-      "starting_mana": "0",
-      "skill_mana": "40",
-      "skill_attack_range": 0,
-      "health": [],
-      "attack_damage": [],
-      "damage_per_second": [],
-      "attack_speed": 0,
-      "armor": 0,
-      "magical_resistance": 0,
-      "stats": [],
-      "traits": [
+      "items": [
         {
-          "id": "mat_trang",
-          "name": "Mặt Trăng",
-          "image": "Trait_Icon_18_Lunar.TFT_Set18.png"
+          "id": "thu_tuong_thach_giap",
+          "image": "DA_GargoyleStoneplate.png"
         },
         {
-          "id": "tan_pha",
-          "name": "Tàn Phá",
-          "image": "Trait_Icon_18_Ravager.TFT_Set18.png"
+          "id": "giap_mau_warmog",
+          "image": "DA_WarmogsArmor.png"
         },
         {
-          "id": "tien_phong",
-          "name": "Tiên Phong",
-          "image": "Trait_Icon_18_Vanguard.TFT_Set18.png"
+          "id": "ao_choang_lua",
+          "image": "DA_SunfireCape.png"
+        },
+        {
+          "id": "giap_tam_linh",
+          "image": "DA_SpiritVisage.png"
+        },
+        {
+          "id": "no_set",
+          "image": "DA_IonicSpark.png"
         }
       ],
-      "items": [],
       "unlock": {
         "description": "",
         "type": false
@@ -3708,77 +4967,14 @@
     },
     {
       "stt": 36,
-      "id": "rammus",
-      "name": "Rammus",
-      "image": "tft18_rammus.tft_set18.jpg",
-      "price": "3",
-      "average_position": "4.44",
-      "top_4_rate": "50.56",
-      "top_1_rate": "11.43",
-      "battle": "7,027",
-      "description_icon": [
-        "Taunt, forcing enemies to attack this champion. For 4 seconds, gain 350/450/550(",
-        "AP.png",
-        ") Shield and 60 Armor and Magic Resist.",
-        "\n",
-        "\n",
-        "When the Shield breaks, deal 50/75/120(",
-        "Armor.png",
-        "MR.png",
-        ") physical damage to enemies in 2 Hexes.",
-        "\n",
-        "\n",
-        "Shield: 350(",
-        "AP.png",
-        ") [ 350 / 450 / 550 ]",
-        "\n",
-        "\n",
-        "Damage: 50 = 25(",
-        "Armor.png",
-        ") + 25(",
-        "MR.png",
-        ") [50% / 75% / 120%]"
-      ],
-      "skill_name": "Defensive Ball Curl",
-      "skill_image": "DA_18_Rammus.png",
-      "starting_mana": "30",
-      "skill_mana": "80",
-      "skill_attack_range": 0,
-      "health": [],
-      "attack_damage": [],
-      "damage_per_second": [],
-      "attack_speed": 0,
-      "armor": 0,
-      "magical_resistance": 0,
-      "stats": [],
-      "traits": [
-        {
-          "id": "ve_quan",
-          "name": "Vệ Quân",
-          "image": "Trait_Icon_18_Defender.TFT_Set18.png"
-        },
-        {
-          "id": "tinh_nghich",
-          "name": "Tinh Nghịch",
-          "image": "Trait_Icon_18_Sprykin.TFT_Set18.png"
-        }
-      ],
-      "items": [],
-      "unlock": {
-        "description": "",
-        "type": false
-      }
-    },
-    {
-      "stt": 37,
       "id": "cassiopeia",
       "name": "Cassiopeia",
       "image": "tft18_cassiopeia.tft_set18.jpg",
       "price": "3",
       "average_position": "4.43",
-      "top_4_rate": "56.66",
-      "top_1_rate": "11.35",
-      "battle": "2,838",
+      "top_4_rate": "56.08",
+      "top_1_rate": "11.57",
+      "battle": "3,577",
       "description_icon": [
         "Poison the target and the nearest non-poisoned enemy, dealing 440/660/1050(",
         "AP.png",
@@ -3791,16 +4987,30 @@
       ],
       "skill_name": "Noxious Blast",
       "skill_image": "DA_18_Cassiopeia.png",
-      "starting_mana": "0",
-      "skill_mana": "30",
-      "skill_attack_range": 0,
-      "health": [],
-      "attack_damage": [],
-      "damage_per_second": [],
-      "attack_speed": 0,
-      "armor": 0,
-      "magical_resistance": 0,
-      "stats": [],
+      "starting_mana": 0,
+      "skill_mana": 30,
+      "skill_attack_range": 4,
+      "health": [
+        650,
+        1170,
+        2106
+      ],
+      "attack_damage": [
+        30,
+        45,
+        68
+      ],
+      "damage_per_second": [
+        23,
+        34,
+        51
+      ],
+      "attack_speed": 0.75,
+      "armor": 35,
+      "magical_resistance": 35,
+      "stats": [
+        "Sát Thương: 440(%i:scaleAP%) [440 / 660 / 1050]"
+      ],
       "traits": [
         {
           "id": "tien_hac_am",
@@ -3813,22 +5023,43 @@
           "image": "Trait_Icon_18_Spellweaver.TFT_Set18.png"
         }
       ],
-      "items": [],
+      "items": [
+        {
+          "id": "kiem_sung_hextech",
+          "image": "DA_HextechGunblade.png"
+        },
+        {
+          "id": "ngon_giao_shojin",
+          "image": "DA_SpearOfShojin.png"
+        },
+        {
+          "id": "gang_bao_thach",
+          "image": "DA_JeweledGauntlet.png"
+        },
+        {
+          "id": "mu_phu_thuy_rabadon",
+          "image": "DA_RabadonsDeathcap.png"
+        },
+        {
+          "id": "bua_xanh",
+          "image": "DA_BlueBuff.png"
+        }
+      ],
       "unlock": {
         "description": "",
         "type": false
       }
     },
     {
-      "stt": 38,
+      "stt": 37,
       "id": "yunara",
       "name": "Yunara",
       "image": "tft18_yunara.tft_set18.jpg",
       "price": "2",
-      "average_position": "4.72",
-      "top_4_rate": "49.66",
-      "top_1_rate": "11.35",
-      "battle": "4,440",
+      "average_position": "4.73",
+      "top_4_rate": "49.27",
+      "top_1_rate": "11.42",
+      "battle": "5,517",
       "description_icon": [
         "Dash, then launch an orb at the current target that deals 160/240/360(",
         "AD.png",
@@ -3855,16 +5086,32 @@
       ],
       "skill_name": "Cultivation of Spirit",
       "skill_image": "DA_18_Yunara.png",
-      "starting_mana": "0",
-      "skill_mana": "35",
-      "skill_attack_range": 0,
-      "health": [],
-      "attack_damage": [],
-      "damage_per_second": [],
-      "attack_speed": 0,
-      "armor": 0,
-      "magical_resistance": 0,
-      "stats": [],
+      "starting_mana": 0,
+      "skill_mana": 35,
+      "skill_attack_range": 4,
+      "health": [
+        550,
+        990,
+        1782
+      ],
+      "attack_damage": [
+        42,
+        63,
+        95
+      ],
+      "damage_per_second": [
+        32,
+        47,
+        71
+      ],
+      "attack_speed": 0.75,
+      "armor": 30,
+      "magical_resistance": 30,
+      "stats": [
+        "Sát Thương: %i:scaleAP% [10 / 15 / 25]",
+        "Sát Thương: 160 = 150(%i:scaleAD%) + 10(%i:scaleAP%) [150 / 225 / 335]",
+        "Sát Thương Phụ: 56 = 35% of 160 [35% / 35% / 35%]"
+      ],
       "traits": [
         {
           "id": "hoa_linh",
@@ -3877,22 +5124,43 @@
           "image": "Trait_Icon_18_Executioner.TFT_Set18.png"
         }
       ],
-      "items": [],
+      "items": [
+        {
+          "id": "ngon_giao_shojin",
+          "image": "DA_SpearOfShojin.png"
+        },
+        {
+          "id": "kiem_tu_than",
+          "image": "DA_Deathblade.png"
+        },
+        {
+          "id": "vo_cuc_kiem",
+          "image": "DA_InfinityEdge.png"
+        },
+        {
+          "id": "chuy_doan_con",
+          "image": "DA_StrikersFlail.png"
+        },
+        {
+          "id": "diet_khong_lo",
+          "image": "DA_GiantSlayer.png"
+        }
+      ],
       "unlock": {
         "description": "",
         "type": false
       }
     },
     {
-      "stt": 39,
+      "stt": 38,
       "id": "vi",
       "name": "Vi",
       "image": "tft18_vi.tft_set18.jpg",
       "price": "3",
       "average_position": "4.63",
-      "top_4_rate": "46.36",
-      "top_1_rate": "11.31",
-      "battle": "18,577",
+      "top_4_rate": "46.4",
+      "top_1_rate": "11.34",
+      "battle": "22,954",
       "description_icon": [
         "Passive: On attack, restore 22/40/71(",
         "Health.png",
@@ -3918,16 +5186,32 @@
       ],
       "skill_name": "Furious Fists",
       "skill_image": "DA_Vi18.png",
-      "starting_mana": "0",
-      "skill_mana": "60",
-      "skill_attack_range": 0,
-      "health": [],
-      "attack_damage": [],
-      "damage_per_second": [],
-      "attack_speed": 0,
-      "armor": 0,
-      "magical_resistance": 0,
-      "stats": [],
+      "starting_mana": 0,
+      "skill_mana": 60,
+      "skill_attack_range": 1,
+      "health": [
+        1100,
+        1980,
+        3564
+      ],
+      "attack_damage": [
+        45,
+        68,
+        101
+      ],
+      "damage_per_second": [
+        34,
+        51,
+        76
+      ],
+      "attack_speed": 0.75,
+      "armor": 50,
+      "magical_resistance": 50,
+      "stats": [
+        "Hồi Máu Nội Tại: 22(%i:scaleHealth%) [2% / 2% / 2%]",
+        "Hồi Máu: 200(%i:scaleAP%) [200 / 265 / 360]",
+        "Tốc Độ Đánh: [85% / 100% / 125%]"
+      ],
       "traits": [
         {
           "id": "dung_si",
@@ -3940,7 +5224,127 @@
           "image": "Trait_Icon_18_Primal.TFT_Set18.png"
         }
       ],
-      "items": [],
+      "items": [
+        {
+          "id": "thu_tuong_thach_giap",
+          "image": "DA_GargoyleStoneplate.png"
+        },
+        {
+          "id": "giap_tam_linh",
+          "image": "DA_SpiritVisage.png"
+        },
+        {
+          "id": "giap_mau_warmog",
+          "image": "DA_WarmogsArmor.png"
+        },
+        {
+          "id": "ao_choang_lua",
+          "image": "DA_SunfireCape.png"
+        },
+        {
+          "id": "loi_the_ho_ve",
+          "image": "DA_ProtectorsVow.png"
+        }
+      ],
+      "unlock": {
+        "description": "",
+        "type": false
+      }
+    },
+    {
+      "stt": 39,
+      "id": "rammus",
+      "name": "Rammus",
+      "image": "tft18_rammus.tft_set18.jpg",
+      "price": "3",
+      "average_position": "4.45",
+      "top_4_rate": "50.4",
+      "top_1_rate": "11.32",
+      "battle": "8,705",
+      "description_icon": [
+        "Taunt, forcing enemies to attack this champion. For 4 seconds, gain 350/450/550(",
+        "AP.png",
+        ") Shield and 60 Armor and Magic Resist.",
+        "\n",
+        "\n",
+        "When the Shield breaks, deal 50/75/120(",
+        "Armor.png",
+        "MR.png",
+        ") physical damage to enemies in 2 Hexes.",
+        "\n",
+        "\n",
+        "Shield: 350(",
+        "AP.png",
+        ") [ 350 / 450 / 550 ]",
+        "\n",
+        "\n",
+        "Damage: 50 = 25(",
+        "Armor.png",
+        ") + 25(",
+        "MR.png",
+        ") [50% / 75% / 120%]"
+      ],
+      "skill_name": "Defensive Ball Curl",
+      "skill_image": "DA_18_Rammus.png",
+      "starting_mana": 30,
+      "skill_mana": 80,
+      "skill_attack_range": 1,
+      "health": [
+        1100,
+        1980,
+        3564
+      ],
+      "attack_damage": [
+        50,
+        75,
+        113
+      ],
+      "damage_per_second": [
+        30,
+        45,
+        68
+      ],
+      "attack_speed": 0.6,
+      "armor": 50,
+      "magical_resistance": 50,
+      "stats": [
+        "Lá Chắn: 350(%i:scaleAP%) [350 / 450 / 550]",
+        "Sát Thương: 50 = 25(%i:scaleArmor%) + 25(%i:scaleMR%) [50% / 75% / 120%]"
+      ],
+      "traits": [
+        {
+          "id": "ve_quan",
+          "name": "Vệ Quân",
+          "image": "Trait_Icon_18_Defender.TFT_Set18.png"
+        },
+        {
+          "id": "tinh_nghich",
+          "name": "Tinh Nghịch",
+          "image": "Trait_Icon_18_Sprykin.TFT_Set18.png"
+        }
+      ],
+      "items": [
+        {
+          "id": "thu_tuong_thach_giap",
+          "image": "DA_GargoyleStoneplate.png"
+        },
+        {
+          "id": "giap_mau_warmog",
+          "image": "DA_WarmogsArmor.png"
+        },
+        {
+          "id": "giap_tam_linh",
+          "image": "DA_SpiritVisage.png"
+        },
+        {
+          "id": "ao_choang_lua",
+          "image": "DA_SunfireCape.png"
+        },
+        {
+          "id": "loi_the_ho_ve",
+          "image": "DA_ProtectorsVow.png"
+        }
+      ],
       "unlock": {
         "description": "",
         "type": false
@@ -3948,14 +5352,110 @@
     },
     {
       "stt": 40,
+      "id": "leona",
+      "name": "Leona",
+      "image": "tft18_leona.tft_set18.jpg",
+      "price": "1",
+      "average_position": "4.64",
+      "top_4_rate": "46.65",
+      "top_1_rate": "11.17",
+      "battle": "10,809",
+      "description_icon": [
+        "Passive: Start combat with 60/70/80(",
+        "AP.png",
+        ") bonus Armor and Magic Resist that decays over 12 seconds.",
+        "\n",
+        "\n",
+        "Active: Bash the current target, dealing 60/108/162(",
+        "Armor.png",
+        ") magic damage and Stunning them for 1.5 seconds.",
+        "\n",
+        "\n",
+        "Decaying Resists: 60(",
+        "AP.png",
+        ") [ 60 / 70 / 80 ]",
+        "\n",
+        "\n",
+        "Damage: 60(",
+        "Armor.png",
+        ") [150% / 270% / 405%]"
+      ],
+      "skill_name": "Shield Bash",
+      "skill_image": "DA_18_Leona.png",
+      "starting_mana": 40,
+      "skill_mana": 100,
+      "skill_attack_range": 1,
+      "health": [
+        750,
+        1350,
+        2430
+      ],
+      "attack_damage": [
+        50,
+        75,
+        113
+      ],
+      "damage_per_second": [
+        33,
+        49,
+        73
+      ],
+      "attack_speed": 0.65,
+      "armor": 40,
+      "magical_resistance": 40,
+      "stats": [
+        "Chống Chịu Giảm Dần: 60(%i:scaleAP%) [60 / 70 / 80]",
+        "Sát Thương: 60(%i:scaleArmor%) [150% / 270% / 405%]"
+      ],
+      "traits": [
+        {
+          "id": "ve_quan",
+          "name": "Vệ Quân",
+          "image": "Trait_Icon_18_Defender.TFT_Set18.png"
+        },
+        {
+          "id": "mat_troi",
+          "name": "Mặt Trời",
+          "image": "Trait_Icon_18_Solar.TFT_Set18.png"
+        }
+      ],
+      "items": [
+        {
+          "id": "thu_tuong_thach_giap",
+          "image": "DA_GargoyleStoneplate.png"
+        },
+        {
+          "id": "giap_tam_linh",
+          "image": "DA_SpiritVisage.png"
+        },
+        {
+          "id": "giap_mau_warmog",
+          "image": "DA_WarmogsArmor.png"
+        },
+        {
+          "id": "loi_the_ho_ve",
+          "image": "DA_ProtectorsVow.png"
+        },
+        {
+          "id": "ao_choang_lua",
+          "image": "DA_SunfireCape.png"
+        }
+      ],
+      "unlock": {
+        "description": "",
+        "type": false
+      }
+    },
+    {
+      "stt": 41,
       "id": "malphite",
       "name": "Malphite",
       "image": "tft18_malphite.tft_set18.jpg",
       "price": "4",
-      "average_position": "4.28",
-      "top_4_rate": "56.77",
-      "top_1_rate": "11.29",
-      "battle": "5,172",
+      "average_position": "4.3",
+      "top_4_rate": "56.25",
+      "top_1_rate": "10.99",
+      "battle": "6,480",
       "description_icon": [
         "Gain 700/850/2000(",
         "AP.png",
@@ -3986,16 +5486,32 @@
       ],
       "skill_name": "Petrified Bark",
       "skill_image": "DA_18_Malphite.png",
-      "starting_mana": "30",
-      "skill_mana": "80",
-      "skill_attack_range": 0,
-      "health": [],
-      "attack_damage": [],
-      "damage_per_second": [],
-      "attack_speed": 0,
-      "armor": 0,
-      "magical_resistance": 0,
-      "stats": [],
+      "starting_mana": 30,
+      "skill_mana": 80,
+      "skill_attack_range": 1,
+      "health": [
+        1300,
+        2340,
+        4212
+      ],
+      "attack_damage": [
+        70,
+        105,
+        158
+      ],
+      "damage_per_second": [
+        39,
+        58,
+        87
+      ],
+      "attack_speed": 0.55,
+      "armor": 70,
+      "magical_resistance": 70,
+      "stats": [
+        "Lá Chắn: 700(%i:scaleAP%) [700 / 850 / 2000]",
+        "Sát Thương: %i:scaleAP% [40 / 60 / 2000]",
+        "Sát Thương: %i:scaleArmor% + %i:scaleMR% [30% / 45% / 999%]"
+      ],
       "traits": [
         {
           "id": "gai_den",
@@ -4008,64 +5524,105 @@
           "image": "Trait_Icon_18_Monolith.TFT_Set18.png"
         }
       ],
-      "items": [],
+      "items": [
+        {
+          "id": "thu_tuong_thach_giap",
+          "image": "DA_GargoyleStoneplate.png"
+        },
+        {
+          "id": "giap_mau_warmog",
+          "image": "DA_WarmogsArmor.png"
+        },
+        {
+          "id": "giap_tam_linh",
+          "image": "DA_SpiritVisage.png"
+        },
+        {
+          "id": "vuong_mien_hoang_gia",
+          "image": "DA_Crownguard.png"
+        },
+        {
+          "id": "vuot_rong",
+          "image": "DA_DragonsClaw.png"
+        }
+      ],
       "unlock": {
         "description": "",
         "type": false
       }
     },
     {
-      "stt": 41,
-      "id": "leona",
-      "name": "Leona",
-      "image": "tft18_leona.tft_set18.jpg",
+      "stt": 42,
+      "id": "xayah",
+      "name": "Xayah",
+      "image": "tft18_xayah.tft_set18.jpg",
       "price": "1",
-      "average_position": "4.66",
-      "top_4_rate": "46.26",
-      "top_1_rate": "11.19",
-      "battle": "8,674",
+      "average_position": "4.84",
+      "top_4_rate": "42.27",
+      "top_1_rate": "10.19",
+      "battle": "18,407",
       "description_icon": [
-        "Passive: Start combat with 60/70/80(",
+        "Gain 50% Attack Speed for the next 5 attacks. These attacks are replaced with feathers that deal 68/102/155(",
+        "AD.png",
+        ") physical damage and reduce Armor by 2(",
         "AP.png",
-        ") bonus Armor and Magic Resist that decays over 12 seconds.",
+        ").",
         "\n",
         "\n",
-        "Active: Bash the current target, dealing 60/108/162(",
-        "Armor.png",
-        ") magic damage and Stunning them for 1.5 seconds.",
+        "Damage: 68(",
+        "AD.png",
+        ") [ 68 / 102 / 155 ]",
         "\n",
         "\n",
-        "Decaying Resists: 60(",
+        "Armor Reduction: 2(",
         "AP.png",
-        ") [ 60 / 70 / 80 ]",
-        "\n",
-        "\n",
-        "Damage: 60(",
-        "Armor.png",
-        ") [150% / 270% / 405%]"
+        ") [ 2 / 2 / 2 ]"
       ],
-      "skill_name": "Shield Bash",
-      "skill_image": "DA_18_Leona.png",
-      "starting_mana": "40",
-      "skill_mana": "100",
-      "skill_attack_range": 0,
-      "health": [],
-      "attack_damage": [],
-      "damage_per_second": [],
-      "attack_speed": 0,
-      "armor": 0,
-      "magical_resistance": 0,
-      "stats": [],
+      "skill_name": "Deadly Plumage",
+      "skill_image": "DA_18_Xayah.png",
+      "starting_mana": 0,
+      "skill_mana": 50,
+      "skill_attack_range": 5,
+      "health": [
+        850,
+        1530,
+        2754
+      ],
+      "attack_damage": [
+        49,
+        74,
+        110
+      ],
+      "damage_per_second": [
+        37,
+        55,
+        83
+      ],
+      "attack_speed": 0.75,
+      "armor": 30,
+      "magical_resistance": 30,
+      "stats": [
+        "Số Đòn: [3 / 3 / 5]",
+        "Giảm Sát Thương: [60% / 60% / 30%]",
+        "Sát Thương: %i:scaleAP% [6 / 9 / 60]",
+        "Sát Thương: 51 = 45(%i:scaleAD%) + 6(%i:scaleAP%) [45 / 68 / 900]",
+        "Sát Thương Lên Mục Tiêu Chính: %i:scaleAD% [25 / 40 / 200]"
+      ],
       "traits": [
         {
-          "id": "ve_quan",
-          "name": "Vệ Quân",
-          "image": "Trait_Icon_18_Defender.TFT_Set18.png"
+          "id": "than_rung",
+          "name": "Thần Rừng",
+          "image": "Trait_Icon_18_Elderwood.TFT_Set18.png"
         },
         {
-          "id": "mat_troi",
-          "name": "Mặt Trời",
-          "image": "Trait_Icon_18_Solar.TFT_Set18.png"
+          "id": "tien_linh",
+          "name": "Tiên Linh",
+          "image": "Trait_Icon_18_Fae.TFT_Set18.png"
+        },
+        {
+          "id": "lien_kich",
+          "name": "Liên Kích",
+          "image": "Trait_Icon_18_Rapidfire.TFT_Set18.png"
         }
       ],
       "items": [],
@@ -4075,15 +5632,15 @@
       }
     },
     {
-      "stt": 42,
+      "stt": 43,
       "id": "kayle",
       "name": "Kayle",
       "image": "tft18_kayle.tft_set18.jpg",
       "price": "2",
-      "average_position": "4.71",
-      "top_4_rate": "43.6",
-      "top_1_rate": "10.19",
-      "battle": "8,561",
+      "average_position": "4.69",
+      "top_4_rate": "44.1",
+      "top_1_rate": "10.12",
+      "battle": "10,552",
       "description_icon": [
         "Passive: Kayle ascends based on her star level, granting her stacking bonuses.",
         "\n",
@@ -4115,16 +5672,31 @@
       ],
       "skill_name": "Solar Judgement",
       "skill_image": "DA_18_Kayle.png",
-      "starting_mana": "",
-      "skill_mana": "",
-      "skill_attack_range": 0,
-      "health": [],
-      "attack_damage": [],
-      "damage_per_second": [],
-      "attack_speed": 0,
-      "armor": 0,
-      "magical_resistance": 0,
-      "stats": [],
+      "starting_mana": 0,
+      "skill_mana": 0,
+      "skill_attack_range": 4,
+      "health": [
+        550,
+        990,
+        1782
+      ],
+      "attack_damage": [
+        10,
+        15,
+        23
+      ],
+      "damage_per_second": [
+        8,
+        11,
+        17
+      ],
+      "attack_speed": 0.75,
+      "armor": 30,
+      "magical_resistance": 30,
+      "stats": [
+        "Sát Thương: 56(%i:scaleAP%) [56 / 84 / 98]",
+        "Sát Thương Phụ: 40(%i:scaleAP%) [40 / 40 / 40]"
+      ],
       "traits": [
         {
           "id": "lien_kich",
@@ -4137,69 +5709,28 @@
           "image": "Trait_Icon_18_Solar.TFT_Set18.png"
         }
       ],
-      "items": [],
-      "unlock": {
-        "description": "",
-        "type": false
-      }
-    },
-    {
-      "stt": 43,
-      "id": "xayah",
-      "name": "Xayah",
-      "image": "tft18_xayah.tft_set18.jpg",
-      "price": "1",
-      "average_position": "4.86",
-      "top_4_rate": "41.84",
-      "top_1_rate": "10.18",
-      "battle": "14,846",
-      "description_icon": [
-        "Gain 50% Attack Speed for the next 5 attacks. These attacks are replaced with feathers that deal 68/102/155(",
-        "AD.png",
-        ") physical damage and reduce Armor by 2(",
-        "AP.png",
-        ").",
-        "\n",
-        "\n",
-        "Damage: 68(",
-        "AD.png",
-        ") [ 68 / 102 / 155 ]",
-        "\n",
-        "\n",
-        "Armor Reduction: 2(",
-        "AP.png",
-        ") [ 2 / 2 / 2 ]"
-      ],
-      "skill_name": "Deadly Plumage",
-      "skill_image": "DA_18_Xayah.png",
-      "starting_mana": "0",
-      "skill_mana": "50",
-      "skill_attack_range": 0,
-      "health": [],
-      "attack_damage": [],
-      "damage_per_second": [],
-      "attack_speed": 0,
-      "armor": 0,
-      "magical_resistance": 0,
-      "stats": [],
-      "traits": [
+      "items": [
         {
-          "id": "than_rung",
-          "name": "Thần Rừng",
-          "image": "Trait_Icon_18_Elderwood.TFT_Set18.png"
+          "id": "cuong_dao_guinsoo",
+          "image": "DA_GuinsoosRageblade.png"
         },
         {
-          "id": "tien_linh",
-          "name": "Tiên Linh",
-          "image": "Trait_Icon_18_Fae.TFT_Set18.png"
+          "id": "gang_bao_thach",
+          "image": "DA_JeweledGauntlet.png"
         },
         {
-          "id": "lien_kich",
-          "name": "Liên Kích",
-          "image": "Trait_Icon_18_Rapidfire.TFT_Set18.png"
+          "id": "mu_phu_thuy_rabadon",
+          "image": "DA_RabadonsDeathcap.png"
+        },
+        {
+          "id": "diet_khong_lo",
+          "image": "DA_GiantSlayer.png"
+        },
+        {
+          "id": "kiem_sung_hextech",
+          "image": "DA_HextechGunblade.png"
         }
       ],
-      "items": [],
       "unlock": {
         "description": "",
         "type": false
@@ -4211,10 +5742,10 @@
       "name": "Rakan",
       "image": "tft18_rakan.tft_set18.jpg",
       "price": "1",
-      "average_position": "4.81",
-      "top_4_rate": "42.02",
-      "top_1_rate": "9.66",
-      "battle": "15,119",
+      "average_position": "4.8",
+      "top_4_rate": "42.4",
+      "top_1_rate": "9.61",
+      "battle": "18,612",
       "description_icon": [
         "Gain 270/320/415(",
         "AP.png",
@@ -4234,16 +5765,31 @@
       ],
       "skill_name": "Entrancing Dance",
       "skill_image": "DA_18_Rakan.png",
-      "starting_mana": "35",
-      "skill_mana": "105",
-      "skill_attack_range": 0,
-      "health": [],
-      "attack_damage": [],
-      "damage_per_second": [],
-      "attack_speed": 0,
-      "armor": 0,
-      "magical_resistance": 0,
-      "stats": [],
+      "starting_mana": 35,
+      "skill_mana": 105,
+      "skill_attack_range": 1,
+      "health": [
+        700,
+        1260,
+        2268
+      ],
+      "attack_damage": [
+        45,
+        68,
+        101
+      ],
+      "damage_per_second": [
+        27,
+        41,
+        61
+      ],
+      "attack_speed": 0.6,
+      "armor": 35,
+      "magical_resistance": 35,
+      "stats": [
+        "Lá Chắn: 270(%i:scaleAP%) [270 / 320 / 415]",
+        "Tốc Độ Đánh: 90%(%i:scaleAP%) [90% / 100% / 130%]"
+      ],
       "traits": [
         {
           "id": "tien_linh",
@@ -4261,7 +5807,28 @@
           "image": "Trait_Icon_18_Vanguard.TFT_Set18.png"
         }
       ],
-      "items": [],
+      "items": [
+        {
+          "id": "thu_tuong_thach_giap",
+          "image": "DA_GargoyleStoneplate.png"
+        },
+        {
+          "id": "loi_the_ho_ve",
+          "image": "DA_ProtectorsVow.png"
+        },
+        {
+          "id": "giap_tam_linh",
+          "image": "DA_SpiritVisage.png"
+        },
+        {
+          "id": "no_set",
+          "image": "DA_IonicSpark.png"
+        },
+        {
+          "id": "ao_choang_lua",
+          "image": "DA_SunfireCape.png"
+        }
+      ],
       "unlock": {
         "description": "",
         "type": false
@@ -4273,10 +5840,10 @@
       "name": "Veigar",
       "image": "tft18_veigar.tft_set18.jpg",
       "price": "1",
-      "average_position": "4.3",
-      "top_4_rate": "55.06",
-      "top_1_rate": "9.58",
-      "battle": "4,186",
+      "average_position": "4.31",
+      "top_4_rate": "54.62",
+      "top_1_rate": "9.24",
+      "battle": "5,165",
       "description_icon": [
         "Launch a giant blast at the target that deals 175/265/395(",
         "AP.png",
@@ -4304,16 +5871,31 @@
       ],
       "skill_name": "Primordial Burst",
       "skill_image": "DA_18_Veigar.png",
-      "starting_mana": "0",
-      "skill_mana": "30",
-      "skill_attack_range": 0,
-      "health": [],
-      "attack_damage": [],
-      "damage_per_second": [],
-      "attack_speed": 0,
-      "armor": 0,
-      "magical_resistance": 0,
-      "stats": [],
+      "starting_mana": 0,
+      "skill_mana": 75,
+      "skill_attack_range": 4,
+      "health": [
+        800,
+        1440,
+        2592
+      ],
+      "attack_damage": [
+        45,
+        68,
+        101
+      ],
+      "damage_per_second": [
+        38,
+        57,
+        86
+      ],
+      "attack_speed": 0.85,
+      "armor": 25,
+      "magical_resistance": 25,
+      "stats": [
+        "Số Quái Sừng [15 / 15 / 30]",
+        "Sát Thương: 200(%i:scaleAP%) [200% / 330% / 475%]"
+      ],
       "traits": [
         {
           "id": "gai_den",
@@ -4343,10 +5925,10 @@
       "name": "Rek'Sai",
       "image": "tft18_reksai.tft_set18.jpg",
       "price": "1",
-      "average_position": "4.32",
-      "top_4_rate": "54.72",
-      "top_1_rate": "9.23",
-      "battle": "4,419",
+      "average_position": "4.34",
+      "top_4_rate": "54.38",
+      "top_1_rate": "8.88",
+      "battle": "5,484",
       "description_icon": [
         "Passive: Restore 17/27/43(",
         "Health.png",
@@ -4369,16 +5951,31 @@
       ],
       "skill_name": "Uproot",
       "skill_image": "DA_18_RekSai.png",
-      "starting_mana": "40",
-      "skill_mana": "100",
-      "skill_attack_range": 0,
-      "health": [],
-      "attack_damage": [],
-      "damage_per_second": [],
-      "attack_speed": 0,
-      "armor": 0,
-      "magical_resistance": 0,
-      "stats": [],
+      "starting_mana": 40,
+      "skill_mana": 100,
+      "skill_attack_range": 1,
+      "health": [
+        700,
+        1260,
+        2268
+      ],
+      "attack_damage": [
+        50,
+        75,
+        113
+      ],
+      "damage_per_second": [
+        28,
+        41,
+        62
+      ],
+      "attack_speed": 0.55,
+      "armor": 40,
+      "magical_resistance": 40,
+      "stats": [
+        "Hồi Máu: 17 = 7 + 10 [10 / 14 / 20]",
+        "Sát Thương: 70(%i:scaleAP%) [70 / 105 / 160]"
+      ],
       "traits": [
         {
           "id": "dau_si",
@@ -4391,7 +5988,28 @@
           "image": "Trait_Icon_18_OldGod.TFT_Set18.png"
         }
       ],
-      "items": [],
+      "items": [
+        {
+          "id": "thu_tuong_thach_giap",
+          "image": "DA_GargoyleStoneplate.png"
+        },
+        {
+          "id": "giap_mau_warmog",
+          "image": "DA_WarmogsArmor.png"
+        },
+        {
+          "id": "giap_tam_linh",
+          "image": "DA_SpiritVisage.png"
+        },
+        {
+          "id": "ao_choang_lua",
+          "image": "DA_SunfireCape.png"
+        },
+        {
+          "id": "loi_the_ho_ve",
+          "image": "DA_ProtectorsVow.png"
+        }
+      ],
       "unlock": {
         "description": "",
         "type": false
@@ -4403,10 +6021,10 @@
       "name": "Tristana",
       "image": "tft18_tristana.tft_set18.jpg",
       "price": "3",
-      "average_position": "4.88",
-      "top_4_rate": "41.96",
-      "top_1_rate": "8.68",
-      "battle": "7,698",
+      "average_position": "4.87",
+      "top_4_rate": "42.05",
+      "top_1_rate": "8.52",
+      "battle": "9,559",
       "description_icon": [
         "Attach an explosive charge to the target that lasts 4 seconds. While active, gain infinite range and 60%(",
         "AP.png",
@@ -4436,16 +6054,32 @@
       ],
       "skill_name": "Explosive Charge",
       "skill_image": "DA_18_Tristana.png",
-      "starting_mana": "0",
-      "skill_mana": "60",
-      "skill_attack_range": 0,
-      "health": [],
-      "attack_damage": [],
-      "damage_per_second": [],
-      "attack_speed": 0,
-      "armor": 0,
-      "magical_resistance": 0,
-      "stats": [],
+      "starting_mana": 0,
+      "skill_mana": 60,
+      "skill_attack_range": 4,
+      "health": [
+        650,
+        1170,
+        2106
+      ],
+      "attack_damage": [
+        55,
+        83,
+        124
+      ],
+      "damage_per_second": [
+        41,
+        62,
+        93
+      ],
+      "attack_speed": 0.75,
+      "armor": 35,
+      "magical_resistance": 35,
+      "stats": [
+        "Tốc Độ Đánh: 60% = 40% + 20%(%i:scaleAP%) [20% / 20% / 20%]",
+        "Sát Thương: 160(%i:scaleAD%) [160 / 240 / 385]",
+        "Sát Thương Cộng Thêm Mỗi Đòn Đánh: 10(%i:scaleAD%) [10 / 15 / 25]"
+      ],
       "traits": [
         {
           "id": "tien_linh",
@@ -4463,7 +6097,28 @@
           "image": "Trait_Icon_18_Sprykin.TFT_Set18.png"
         }
       ],
-      "items": [],
+      "items": [
+        {
+          "id": "cuong_dao_guinsoo",
+          "image": "DA_GuinsoosRageblade.png"
+        },
+        {
+          "id": "vo_cuc_kiem",
+          "image": "DA_InfinityEdge.png"
+        },
+        {
+          "id": "diet_khong_lo",
+          "image": "DA_GiantSlayer.png"
+        },
+        {
+          "id": "kiem_sung_hextech",
+          "image": "DA_HextechGunblade.png"
+        },
+        {
+          "id": "thinh_no_thuy_quai",
+          "image": "DA_KrakensFury.png"
+        }
+      ],
       "unlock": {
         "description": "",
         "type": false
@@ -4475,10 +6130,10 @@
       "name": "Elise",
       "image": "tft18_elise.tft_set18.jpg",
       "price": "2",
-      "average_position": "4.97",
-      "top_4_rate": "43.5",
-      "top_1_rate": "7.88",
-      "battle": "3,818",
+      "average_position": "5.02",
+      "top_4_rate": "42.37",
+      "top_1_rate": "7.90",
+      "battle": "4,708",
       "description_icon": [
         "Transform into a spider and gain 375/475/725 max Health. Attacks while in Spider Form deal 35/50/80(",
         "AP.png",
@@ -4501,16 +6156,32 @@
       ],
       "skill_name": "Spider Queen",
       "skill_image": "DA_18_Elise.png",
-      "starting_mana": "20",
-      "skill_mana": "70",
-      "skill_attack_range": 0,
-      "health": [],
-      "attack_damage": [],
-      "damage_per_second": [],
-      "attack_speed": 0,
-      "armor": 0,
-      "magical_resistance": 0,
-      "stats": [],
+      "starting_mana": 20,
+      "skill_mana": 70,
+      "skill_attack_range": 1,
+      "health": [
+        900,
+        1620,
+        2916
+      ],
+      "attack_damage": [
+        20,
+        30,
+        45
+      ],
+      "damage_per_second": [
+        13,
+        20,
+        29
+      ],
+      "attack_speed": 0.65,
+      "armor": 45,
+      "magical_resistance": 45,
+      "stats": [
+        "Máu Dạng Nhện: [375 / 475 / 725]",
+        "Sát Thương: 35(%i:scaleAP%) [35 / 50 / 80]",
+        "Hồi Máu: 55(%i:scaleAP%) [55 / 90 / 170]"
+      ],
       "traits": [
         {
           "id": "tien_hac_am",
@@ -4523,7 +6194,28 @@
           "image": "Trait_Icon_18_Vanguard.TFT_Set18.png"
         }
       ],
-      "items": [],
+      "items": [
+        {
+          "id": "thu_tuong_thach_giap",
+          "image": "DA_GargoyleStoneplate.png"
+        },
+        {
+          "id": "giap_tam_linh",
+          "image": "DA_SpiritVisage.png"
+        },
+        {
+          "id": "giap_mau_warmog",
+          "image": "DA_WarmogsArmor.png"
+        },
+        {
+          "id": "loi_the_ho_ve",
+          "image": "DA_ProtectorsVow.png"
+        },
+        {
+          "id": "ao_choang_lua",
+          "image": "DA_SunfireCape.png"
+        }
+      ],
       "unlock": {
         "description": "",
         "type": false
@@ -4535,10 +6227,10 @@
       "name": "Caitlyn",
       "image": "tft18_caitlyn.tft_set18.jpg",
       "price": "2",
-      "average_position": "4.87",
-      "top_4_rate": "46.14",
-      "top_1_rate": "6.81",
-      "battle": "3,409",
+      "average_position": "4.91",
+      "top_4_rate": "45.17",
+      "top_1_rate": "6.72",
+      "battle": "4,244",
       "description_icon": [
         "Passive: Every third attack is replaced with a Headshot that deals 210/315/515(",
         "AD.png",
@@ -4559,16 +6251,31 @@
       ],
       "skill_name": "Headshot",
       "skill_image": "DA_18_Caitlyn.png",
-      "starting_mana": "0",
-      "skill_mana": "3",
-      "skill_attack_range": 0,
-      "health": [],
-      "attack_damage": [],
-      "damage_per_second": [],
-      "attack_speed": 0,
-      "armor": 0,
-      "magical_resistance": 0,
-      "stats": [],
+      "starting_mana": 0,
+      "skill_mana": 3,
+      "skill_attack_range": 4,
+      "health": [
+        550,
+        990,
+        1782
+      ],
+      "attack_damage": [
+        50,
+        75,
+        113
+      ],
+      "damage_per_second": [
+        35,
+        53,
+        79
+      ],
+      "attack_speed": 0.7,
+      "armor": 30,
+      "magical_resistance": 30,
+      "stats": [
+        "Sát Thương: %i:scaleAP% [20 / 30 / 45]",
+        "Sát Thương: 210 = 190(%i:scaleAD%) + 20(%i:scaleAP%) [190 / 285 / 470]"
+      ],
       "traits": [
         {
           "id": "tien_hac_am",
@@ -4581,7 +6288,28 @@
           "image": "Trait_Icon_18_Hunter.TFT_Set18.png"
         }
       ],
-      "items": [],
+      "items": [
+        {
+          "id": "cuong_dao_guinsoo",
+          "image": "DA_GuinsoosRageblade.png"
+        },
+        {
+          "id": "thinh_no_thuy_quai",
+          "image": "DA_KrakensFury.png"
+        },
+        {
+          "id": "vo_cuc_kiem",
+          "image": "DA_InfinityEdge.png"
+        },
+        {
+          "id": "kiem_tu_than",
+          "image": "DA_Deathblade.png"
+        },
+        {
+          "id": "diet_khong_lo",
+          "image": "DA_GiantSlayer.png"
+        }
+      ],
       "unlock": {
         "description": "",
         "type": false
@@ -4589,69 +6317,14 @@
     },
     {
       "stt": 50,
-      "id": "azir",
-      "name": "Azir",
-      "image": "tft18_azir.tft_set18.jpg",
-      "price": "3",
-      "average_position": "5.33",
-      "top_4_rate": "34.93",
-      "top_1_rate": "6.74",
-      "battle": "8,891",
-      "description_icon": [
-        "Gain 150% Attack Speed and summon 2 soldiers for the next 6 attacks. These attacks are replaced by commands which direct each soldier to deal 40/60/96(",
-        "AP.png",
-        ") magic damage per attack.",
-        "\n",
-        "\n",
-        "Damage: 40(",
-        "AP.png",
-        ") [ 40 / 60 / 96 ]"
-      ],
-      "skill_name": "Arise!",
-      "skill_image": "DA_18_Azir.png",
-      "starting_mana": "0",
-      "skill_mana": "35",
-      "skill_attack_range": 0,
-      "health": [],
-      "attack_damage": [],
-      "damage_per_second": [],
-      "attack_speed": 0,
-      "armor": 0,
-      "magical_resistance": 0,
-      "stats": [],
-      "traits": [
-        {
-          "id": "gai_den",
-          "name": "Gai Đen",
-          "image": "Trait_Icon_18_OldGod.TFT_Set18.png"
-        },
-        {
-          "id": "dao_phu",
-          "name": "Đao Phủ",
-          "image": "Trait_Icon_18_Executioner.TFT_Set18.png"
-        },
-        {
-          "id": "trieu_hoi",
-          "name": "Triệu Hồi",
-          "image": "Trait_Icon_18_Summoner.TFT_Set18.png"
-        }
-      ],
-      "items": [],
-      "unlock": {
-        "description": "",
-        "type": false
-      }
-    },
-    {
-      "stt": 51,
       "id": "camille",
       "name": "Camille",
       "image": "tft18_camille.tft_set18.jpg",
       "price": "1",
-      "average_position": "4.76",
-      "top_4_rate": "54.71",
-      "top_1_rate": "6.61",
-      "battle": "1,422",
+      "average_position": "4.86",
+      "top_4_rate": "51.61",
+      "top_1_rate": "6.71",
+      "battle": "1,802",
       "description_icon": [
         "Slice the target for 170/255/435(",
         "AD.png",
@@ -4675,16 +6348,32 @@
       ],
       "skill_name": "Defensive Sweep",
       "skill_image": "DA_18_Camille.png",
-      "starting_mana": "0",
-      "skill_mana": "25",
-      "skill_attack_range": 0,
-      "health": [],
-      "attack_damage": [],
-      "damage_per_second": [],
-      "attack_speed": 0,
-      "armor": 0,
-      "magical_resistance": 0,
-      "stats": [],
+      "starting_mana": 0,
+      "skill_mana": 25,
+      "skill_attack_range": 1,
+      "health": [
+        700,
+        1260,
+        2268
+      ],
+      "attack_damage": [
+        40,
+        60,
+        90
+      ],
+      "damage_per_second": [
+        30,
+        45,
+        68
+      ],
+      "attack_speed": 0.75,
+      "armor": 40,
+      "magical_resistance": 40,
+      "stats": [
+        "Sát Thương: %i:scaleAP% [10 / 15 / 25]",
+        "Sát Thương: 170 = 160(%i:scaleAD%) + 10(%i:scaleAP%) [160 / 240 / 410]",
+        "Lá Chắn: [60 / 90 / 200]"
+      ],
       "traits": [
         {
           "id": "tien_hac_am",
@@ -4697,7 +6386,118 @@
           "image": "Trait_Icon_18_Ravager.TFT_Set18.png"
         }
       ],
-      "items": [],
+      "items": [
+        {
+          "id": "huyet_kiem",
+          "image": "DA_Bloodthirster.png"
+        },
+        {
+          "id": "mong_vuot_sterak",
+          "image": "DA_SteraksGage.png"
+        },
+        {
+          "id": "ban_tay_cong_ly",
+          "image": "DA_HandOfJustice.png"
+        },
+        {
+          "id": "quyen_nang_khong_lo",
+          "image": "DA_TitansResolve.png"
+        },
+        {
+          "id": "ao_choang_bong_toi",
+          "image": "DA_EdgeOfNight.png"
+        }
+      ],
+      "unlock": {
+        "description": "",
+        "type": false
+      }
+    },
+    {
+      "stt": 51,
+      "id": "azir",
+      "name": "Azir",
+      "image": "tft18_azir.tft_set18.jpg",
+      "price": "3",
+      "average_position": "5.32",
+      "top_4_rate": "35.03",
+      "top_1_rate": "6.54",
+      "battle": "11,025",
+      "description_icon": [
+        "Gain 150% Attack Speed and summon 2 soldiers for the next 6 attacks. These attacks are replaced by commands which direct each soldier to deal 40/60/96(",
+        "AP.png",
+        ") magic damage per attack.",
+        "\n",
+        "\n",
+        "Damage: 40(",
+        "AP.png",
+        ") [ 40 / 60 / 96 ]"
+      ],
+      "skill_name": "Arise!",
+      "skill_image": "DA_18_Azir.png",
+      "starting_mana": 0,
+      "skill_mana": 35,
+      "skill_attack_range": 4,
+      "health": [
+        650,
+        1170,
+        2106
+      ],
+      "attack_damage": [
+        30,
+        45,
+        68
+      ],
+      "damage_per_second": [
+        23,
+        34,
+        51
+      ],
+      "attack_speed": 0.75,
+      "armor": 35,
+      "magical_resistance": 35,
+      "stats": [
+        "Sát Thương: 40(%i:scaleAP%) [40 / 60 / 96]"
+      ],
+      "traits": [
+        {
+          "id": "gai_den",
+          "name": "Gai Đen",
+          "image": "Trait_Icon_18_OldGod.TFT_Set18.png"
+        },
+        {
+          "id": "dao_phu",
+          "name": "Đao Phủ",
+          "image": "Trait_Icon_18_Executioner.TFT_Set18.png"
+        },
+        {
+          "id": "trieu_hoi",
+          "name": "Triệu Hồi",
+          "image": "Trait_Icon_18_Summoner.TFT_Set18.png"
+        }
+      ],
+      "items": [
+        {
+          "id": "cuong_dao_guinsoo",
+          "image": "DA_GuinsoosRageblade.png"
+        },
+        {
+          "id": "gang_bao_thach",
+          "image": "DA_JeweledGauntlet.png"
+        },
+        {
+          "id": "diet_khong_lo",
+          "image": "DA_GiantSlayer.png"
+        },
+        {
+          "id": "truong_hu_vo",
+          "image": "DA_VoidStaff.png"
+        },
+        {
+          "id": "kiem_sung_hextech",
+          "image": "DA_HextechGunblade.png"
+        }
+      ],
       "unlock": {
         "description": "",
         "type": false
@@ -4710,9 +6510,9 @@
       "image": "tft18_warwick.tft_set18.jpg",
       "price": "2",
       "average_position": "4.45",
-      "top_4_rate": "59.86",
-      "top_1_rate": "6.25",
-      "battle": "1,759",
+      "top_4_rate": "59.58",
+      "top_1_rate": "6.36",
+      "battle": "2,249",
       "description_icon": [
         "Bite the current target, dealing 215/325/500(",
         "AD.png",
@@ -4732,16 +6532,31 @@
       ],
       "skill_name": "Jaws of The Beast",
       "skill_image": "DA_18_Warwick.png",
-      "starting_mana": "0",
-      "skill_mana": "40",
-      "skill_attack_range": 0,
-      "health": [],
-      "attack_damage": [],
-      "damage_per_second": [],
-      "attack_speed": 0,
-      "armor": 0,
-      "magical_resistance": 0,
-      "stats": [],
+      "starting_mana": 0,
+      "skill_mana": 40,
+      "skill_attack_range": 1,
+      "health": [
+        750,
+        1350,
+        2430
+      ],
+      "attack_damage": [
+        40,
+        60,
+        90
+      ],
+      "damage_per_second": [
+        30,
+        45,
+        68
+      ],
+      "attack_speed": 0.75,
+      "armor": 45,
+      "magical_resistance": 45,
+      "stats": [
+        "Sát Thương: 215(%i:scaleAD%) [215 / 325 / 500]",
+        "Hồi Máu: 20%(%i:scaleAP%) [20% / 20% / 20%]"
+      ],
       "traits": [
         {
           "id": "gai_den",
@@ -4754,7 +6569,28 @@
           "image": "Trait_Icon_18_Ravager.TFT_Set18.png"
         }
       ],
-      "items": [],
+      "items": [
+        {
+          "id": "quyen_nang_khong_lo",
+          "image": "DA_TitansResolve.png"
+        },
+        {
+          "id": "ngon_giao_shojin",
+          "image": "DA_SpearOfShojin.png"
+        },
+        {
+          "id": "mong_vuot_sterak",
+          "image": "DA_SteraksGage.png"
+        },
+        {
+          "id": "huyet_kiem",
+          "image": "DA_Bloodthirster.png"
+        },
+        {
+          "id": "ban_tay_cong_ly",
+          "image": "DA_HandOfJustice.png"
+        }
+      ],
       "unlock": {
         "description": "",
         "type": false
@@ -4766,10 +6602,10 @@
       "name": "Shen",
       "image": "tft18_shen.tft_set18.jpg",
       "price": "2",
-      "average_position": "5.55",
-      "top_4_rate": "22.49",
-      "top_1_rate": "3.86",
-      "battle": "12,111",
+      "average_position": "5.53",
+      "top_4_rate": "23.03",
+      "top_1_rate": "3.96",
+      "battle": "14,891",
       "description_icon": [
         "Grant 325/400/500(",
         "AP.png",
@@ -4796,16 +6632,31 @@
       ],
       "skill_name": "Ki Barrier",
       "skill_image": "DA_18_Shen.png",
-      "starting_mana": "30",
-      "skill_mana": "90",
-      "skill_attack_range": 0,
-      "health": [],
-      "attack_damage": [],
-      "damage_per_second": [],
-      "attack_speed": 0,
-      "armor": 0,
-      "magical_resistance": 0,
-      "stats": [],
+      "starting_mana": 20,
+      "skill_mana": 70,
+      "skill_attack_range": 1,
+      "health": [
+        1300,
+        2340,
+        4212
+      ],
+      "attack_damage": [
+        50,
+        75,
+        113
+      ],
+      "damage_per_second": [
+        45,
+        68,
+        101
+      ],
+      "attack_speed": 0.9,
+      "armor": 65,
+      "magical_resistance": 65,
+      "stats": [
+        "Sát Thương Cộng Thêm: 38 = 1% %i:scaleHealth% + 25 %i:scaleAP% [25 / 40 / 777]",
+        "Lá Chắn: 395 = 15% %i:scaleHealth% + 200 %i:scaleAP% [200 / 250 / 3456]"
+      ],
       "traits": [
         {
           "id": "ve_quan",
@@ -4830,10 +6681,10 @@
       "name": "Varus",
       "image": "tft18_varus.tft_set18.jpg",
       "price": "1",
-      "average_position": "5.54",
-      "top_4_rate": "23.4",
-      "top_1_rate": "3.39",
-      "battle": "7,582",
+      "average_position": "5.53",
+      "top_4_rate": "23.51",
+      "top_1_rate": "3.36",
+      "battle": "9,272",
       "description_icon": [
         "Wind up, then fire an arrow at the most enemies in line with the target. It deals 415/625/995(",
         "AD.png",
@@ -4854,16 +6705,31 @@
       ],
       "skill_name": "Piercing Arrow",
       "skill_image": "DA_18_Varus.png",
-      "starting_mana": "30",
-      "skill_mana": "120",
-      "skill_attack_range": 0,
-      "health": [],
-      "attack_damage": [],
-      "damage_per_second": [],
-      "attack_speed": 0,
-      "armor": 0,
-      "magical_resistance": 0,
-      "stats": [],
+      "starting_mana": 30,
+      "skill_mana": 120,
+      "skill_attack_range": 4,
+      "health": [
+        500,
+        900,
+        1620
+      ],
+      "attack_damage": [
+        40,
+        60,
+        90
+      ],
+      "damage_per_second": [
+        28,
+        42,
+        63
+      ],
+      "attack_speed": 0.7,
+      "armor": 25,
+      "magical_resistance": 25,
+      "stats": [
+        "Sát Thương: %i:scaleAP% [30 / 45 / 70]",
+        "Sát Thương: 415 = 385(%i:scaleAD%) + 30(%i:scaleAP%) [385 / 580 / 925]"
+      ],
       "traits": [
         {
           "id": "hoa_nguc",
@@ -4876,7 +6742,28 @@
           "image": "Trait_Icon_18_Rapidfire.TFT_Set18.png"
         }
       ],
-      "items": [],
+      "items": [
+        {
+          "id": "vo_cuc_kiem",
+          "image": "DA_InfinityEdge.png"
+        },
+        {
+          "id": "ngon_giao_shojin",
+          "image": "DA_SpearOfShojin.png"
+        },
+        {
+          "id": "diet_khong_lo",
+          "image": "DA_GiantSlayer.png"
+        },
+        {
+          "id": "chuy_doan_con",
+          "image": "DA_StrikersFlail.png"
+        },
+        {
+          "id": "ban_tay_cong_ly",
+          "image": "DA_HandOfJustice.png"
+        }
+      ],
       "unlock": {
         "description": "",
         "type": false
@@ -4889,9 +6776,9 @@
       "image": "tft18_akali.tft_set18.jpg",
       "price": "1",
       "average_position": "5.58",
-      "top_4_rate": "22.24",
-      "top_1_rate": "2.52",
-      "battle": "4,833",
+      "top_4_rate": "22.43",
+      "top_1_rate": "2.57",
+      "battle": "5,925",
       "description_icon": [
         "Adaptor (",
         "AD.png",
@@ -4926,16 +6813,32 @@
       ],
       "skill_name": "Kunai Strike",
       "skill_image": "DA_18_Akali_AD.png",
-      "starting_mana": "0",
-      "skill_mana": "30",
-      "skill_attack_range": 0,
-      "health": [],
-      "attack_damage": [],
-      "damage_per_second": [],
-      "attack_speed": 0,
-      "armor": 0,
-      "magical_resistance": 0,
-      "stats": [],
+      "starting_mana": 0,
+      "skill_mana": 30,
+      "skill_attack_range": 1,
+      "health": [
+        650,
+        1170,
+        2106
+      ],
+      "attack_damage": [
+        40,
+        60,
+        90
+      ],
+      "damage_per_second": [
+        30,
+        45,
+        68
+      ],
+      "attack_speed": 0.75,
+      "armor": 35,
+      "magical_resistance": 35,
+      "stats": [
+        "Sát Thương: %i:scaleAP% [10 / 15 / 25]",
+        "Sát Thương: 155 = 145(%i:scaleAD%) + 10(%i:scaleAP%) [145 / 220 / 380]",
+        "Sát Thương Cộng Thêm: 35(%i:scaleAD%) [35 / 52 / 80]"
+      ],
       "traits": [
         {
           "id": "thich_ung",
@@ -4953,7 +6856,28 @@
           "image": "Trait_Icon_18_Ravager.TFT_Set18.png"
         }
       ],
-      "items": [],
+      "items": [
+        {
+          "id": "ban_tay_cong_ly",
+          "image": "DA_HandOfJustice.png"
+        },
+        {
+          "id": "diet_khong_lo",
+          "image": "DA_GiantSlayer.png"
+        },
+        {
+          "id": "ao_choang_bong_toi",
+          "image": "DA_EdgeOfNight.png"
+        },
+        {
+          "id": "huyet_kiem",
+          "image": "DA_Bloodthirster.png"
+        },
+        {
+          "id": "mong_vuot_sterak",
+          "image": "DA_SteraksGage.png"
+        }
+      ],
       "unlock": {
         "description": "",
         "type": false
@@ -4981,16 +6905,30 @@
       ],
       "skill_name": "Final Spark",
       "skill_image": "DA_18_Lux_Fae.png",
-      "starting_mana": "20",
-      "skill_mana": "70",
-      "skill_attack_range": 0,
-      "health": [],
-      "attack_damage": [],
-      "damage_per_second": [],
-      "attack_speed": 0,
-      "armor": 0,
-      "magical_resistance": 0,
-      "stats": [],
+      "starting_mana": 20,
+      "skill_mana": 70,
+      "skill_attack_range": 5,
+      "health": [
+        900,
+        1620,
+        2916
+      ],
+      "attack_damage": [
+        40,
+        60,
+        90
+      ],
+      "damage_per_second": [
+        32,
+        48,
+        72
+      ],
+      "attack_speed": 0.8,
+      "armor": 45,
+      "magical_resistance": 45,
+      "stats": [
+        "Sát Thương: 330(%i:scaleAP%) [330 / 520 / 5000]"
+      ],
       "traits": [
         {
           "id": "tien_linh",
@@ -5031,16 +6969,30 @@
       ],
       "skill_name": "Final Spark",
       "skill_image": "DA_18_Lux_Moonbeam.png",
-      "starting_mana": "20",
-      "skill_mana": "70",
-      "skill_attack_range": 0,
-      "health": [],
-      "attack_damage": [],
-      "damage_per_second": [],
-      "attack_speed": 0,
-      "armor": 0,
-      "magical_resistance": 0,
-      "stats": [],
+      "starting_mana": 20,
+      "skill_mana": 70,
+      "skill_attack_range": 5,
+      "health": [
+        900,
+        1620,
+        2916
+      ],
+      "attack_damage": [
+        40,
+        60,
+        90
+      ],
+      "damage_per_second": [
+        32,
+        48,
+        72
+      ],
+      "attack_speed": 0.8,
+      "armor": 45,
+      "magical_resistance": 45,
+      "stats": [
+        "Sát Thương: 330(%i:scaleAP%) [330 / 520 / 5000]"
+      ],
       "traits": [
         {
           "id": "mat_trang",
@@ -5068,7 +7020,7 @@
       "average_position": "2",
       "top_4_rate": "100",
       "top_1_rate": "0.00",
-      "battle": "1",
+      "battle": "2",
       "description_icon": [
         "Passive: On cast, all allies that share a trait with Lux gain 3/3/100(",
         "AP.png",
@@ -5081,16 +7033,30 @@
       ],
       "skill_name": "Final Spark",
       "skill_image": "DA_Lux18_Blackthorn.png",
-      "starting_mana": "20",
-      "skill_mana": "70",
-      "skill_attack_range": 0,
-      "health": [],
-      "attack_damage": [],
-      "damage_per_second": [],
-      "attack_speed": 0,
-      "armor": 0,
-      "magical_resistance": 0,
-      "stats": [],
+      "starting_mana": 20,
+      "skill_mana": 70,
+      "skill_attack_range": 5,
+      "health": [
+        900,
+        1620,
+        2916
+      ],
+      "attack_damage": [
+        40,
+        60,
+        90
+      ],
+      "damage_per_second": [
+        32,
+        48,
+        72
+      ],
+      "attack_speed": 0.8,
+      "armor": 45,
+      "magical_resistance": 45,
+      "stats": [
+        "Sát Thương: 330(%i:scaleAP%) [330 / 520 / 5000]"
+      ],
       "traits": [
         {
           "id": "gai_den",
