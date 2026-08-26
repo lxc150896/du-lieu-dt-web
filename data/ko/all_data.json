@@ -1466,14 +1466,270 @@
   "champions": [
     {
       "stt": 1,
+      "id": "reogseu_(namujeongryeong)",
+      "name": "럭스 (나무정령)",
+      "image": "tft18_lux.tft_set18.jpg",
+      "price": "5",
+      "average_position": "1.13",
+      "top_4_rate": "100",
+      "top_1_rate": "95.65",
+      "battle": "23",
+      "description_icon": [
+        "기본 지속 효과: 스킬 사용 시, 럭스와 특성을 공유하는 모든 아군이 마나를 3/3/100(",
+        "AP.png",
+        ") 얻습니다.",
+        "\n",
+        "\n",
+        "사용 시: 가장 큰 적 무리를 향해 레이저를 발사해 330/520/5000(",
+        "AP.png",
+        ")의 마법 피해를 입힙니다. 적중한 적 하나당 피해가 25%/25%/10% 감소합니다."
+      ],
+      "skill_name": "최후의 섬광",
+      "skill_image": "DA_18_Lux_Elderwood.png",
+      "starting_mana": 20,
+      "skill_mana": 70,
+      "skill_attack_range": 5,
+      "health": [
+        900,
+        1620,
+        2916
+      ],
+      "attack_damage": [
+        40,
+        60,
+        90
+      ],
+      "damage_per_second": [
+        32,
+        48,
+        72
+      ],
+      "attack_speed": 0.8,
+      "armor": 45,
+      "magical_resistance": 45,
+      "stats": [
+        "피해량: 330(%i:scaleAP%) [330 / 520 / 5000]"
+      ],
+      "traits": [
+        {
+          "id": "namujeongryeong",
+          "name": "나무정령",
+          "image": "Trait_Icon_18_Elderwood.TFT_Set18.png"
+        },
+        {
+          "id": "hwasin",
+          "name": "화신",
+          "image": "Trait_Icon_18_Avatar.TFT_Set18.png"
+        }
+      ],
+      "items": [],
+      "unlock": {
+        "description": "",
+        "type": false
+      }
+    },
+    {
+      "stt": 2,
+      "id": "reogseu_(jiogbul)",
+      "name": "럭스 (지옥불)",
+      "image": "tft18_lux.tft_set18.jpg",
+      "price": "5",
+      "average_position": "1.43",
+      "top_4_rate": "100",
+      "top_1_rate": "85.71",
+      "battle": "7",
+      "description_icon": [
+        "기본 지속 효과: 스킬 사용 시, 럭스와 특성을 공유하는 모든 아군이 마나를 3/3/100(",
+        "AP.png",
+        ") 얻습니다.",
+        "\n",
+        "\n",
+        "사용 시: 가장 큰 적 무리를 향해 레이저를 발사해 330/520/5000(",
+        "AP.png",
+        ")의 마법 피해를 입힙니다. 적중한 적 하나당 피해가 25%/25%/10% 감소합니다."
+      ],
+      "skill_name": "최후의 섬광",
+      "skill_image": "DA_18_Lux_Inferno.png",
+      "starting_mana": 20,
+      "skill_mana": 70,
+      "skill_attack_range": 5,
+      "health": [
+        900,
+        1620,
+        2916
+      ],
+      "attack_damage": [
+        40,
+        60,
+        90
+      ],
+      "damage_per_second": [
+        32,
+        48,
+        72
+      ],
+      "attack_speed": 0.8,
+      "armor": 45,
+      "magical_resistance": 45,
+      "stats": [
+        "피해량: 330(%i:scaleAP%) [330 / 520 / 5000]"
+      ],
+      "traits": [
+        {
+          "id": "jiogbul",
+          "name": "지옥불",
+          "image": "Trait_Icon_18_Inferno.TFT_Set18.png"
+        },
+        {
+          "id": "hwasin",
+          "name": "화신",
+          "image": "Trait_Icon_18_Avatar.TFT_Set18.png"
+        }
+      ],
+      "items": [],
+      "unlock": {
+        "description": "",
+        "type": false
+      }
+    },
+    {
+      "stt": 3,
+      "id": "reogseu_(gaehwa)",
+      "name": "럭스 (개화)",
+      "image": "tft18_lux.tft_set18.jpg",
+      "price": "5",
+      "average_position": "1.17",
+      "top_4_rate": "100",
+      "top_1_rate": "83.33",
+      "battle": "6",
+      "description_icon": [
+        "기본 지속 효과: 스킬 사용 시, 럭스와 특성을 공유하는 모든 아군이 마나를 3/3/100(",
+        "AP.png",
+        ") 얻습니다.",
+        "\n",
+        "\n",
+        "사용 시: 가장 큰 적 무리를 향해 레이저를 발사해 330/520/5000(",
+        "AP.png",
+        ")의 마법 피해를 입힙니다. 적중한 적 하나당 피해가 25%/25%/10% 감소합니다."
+      ],
+      "skill_name": "최후의 섬광",
+      "skill_image": "DA_Lux18_Blossom.png",
+      "starting_mana": 20,
+      "skill_mana": 70,
+      "skill_attack_range": 5,
+      "health": [
+        900,
+        1620,
+        2916
+      ],
+      "attack_damage": [
+        40,
+        60,
+        90
+      ],
+      "damage_per_second": [
+        32,
+        48,
+        72
+      ],
+      "attack_speed": 0.8,
+      "armor": 45,
+      "magical_resistance": 45,
+      "stats": [
+        "피해량: 330(%i:scaleAP%) [330 / 520 / 5000]"
+      ],
+      "traits": [
+        {
+          "id": "gaehwa",
+          "name": "개화",
+          "image": "Trait_Icon_18_Blossom.TFT_Set18.png"
+        },
+        {
+          "id": "hwasin",
+          "name": "화신",
+          "image": "Trait_Icon_18_Avatar.TFT_Set18.png"
+        }
+      ],
+      "items": [],
+      "unlock": {
+        "description": "",
+        "type": false
+      }
+    },
+    {
+      "stt": 4,
+      "id": "reogseu_(weonsi)",
+      "name": "럭스 (원시)",
+      "image": "tft18_lux.tft_set18.jpg",
+      "price": "5",
+      "average_position": "2",
+      "top_4_rate": "100",
+      "top_1_rate": "50.00",
+      "battle": "2",
+      "description_icon": [
+        "기본 지속 효과: 스킬 사용 시, 럭스와 특성을 공유하는 모든 아군이 마나를 3/3/100(",
+        "AP.png",
+        ") 얻습니다.",
+        "\n",
+        "\n",
+        "사용 시: 가장 큰 적 무리를 향해 레이저를 발사해 330/520/5000(",
+        "AP.png",
+        ")의 마법 피해를 입힙니다. 적중한 적 하나당 피해가 25%/25%/10% 감소합니다."
+      ],
+      "skill_name": "최후의 섬광",
+      "skill_image": "DA_18_Lux_Primal.png",
+      "starting_mana": 20,
+      "skill_mana": 70,
+      "skill_attack_range": 5,
+      "health": [
+        900,
+        1620,
+        2916
+      ],
+      "attack_damage": [
+        40,
+        60,
+        90
+      ],
+      "damage_per_second": [
+        32,
+        48,
+        72
+      ],
+      "attack_speed": 0.8,
+      "armor": 45,
+      "magical_resistance": 45,
+      "stats": [
+        "피해량: 330(%i:scaleAP%) [330 / 520 / 5000]"
+      ],
+      "traits": [
+        {
+          "id": "weonsi",
+          "name": "원시",
+          "image": "Trait_Icon_18_Primal.TFT_Set18.png"
+        },
+        {
+          "id": "hwasin",
+          "name": "화신",
+          "image": "Trait_Icon_18_Avatar.TFT_Set18.png"
+        }
+      ],
+      "items": [],
+      "unlock": {
+        "description": "",
+        "type": false
+      }
+    },
+    {
+      "stt": 5,
       "id": "reogseu",
       "name": "럭스",
       "image": "tft18_lux.tft_set18.jpg",
       "price": "5",
-      "average_position": "2.77",
-      "top_4_rate": "84.16",
-      "top_1_rate": "32.61",
-      "battle": "8,227",
+      "average_position": "2.9",
+      "top_4_rate": "81.3",
+      "top_1_rate": "31.41",
+      "battle": "33,971",
       "description_icon": [
         "기본 지속 효과: 스킬 사용 시, 럭스와 특성을 공유하는 모든 아군이 마나를 3/3/100(",
         "AP.png",
@@ -1517,23 +1773,23 @@
       ],
       "items": [
         {
-          "id": "syojinyi_cang",
+          "id": "",
           "image": "DA_SpearOfShojin.png"
         },
         {
-          "id": "boseog_geonteulris",
+          "id": "",
           "image": "DA_JeweledGauntlet.png"
         },
         {
-          "id": "rabadonyi_jugeummoja",
+          "id": "",
           "image": "DA_RabadonsDeathcap.png"
         },
         {
-          "id": "gongheoyi_jipangi",
+          "id": "",
           "image": "DA_VoidStaff.png"
         },
         {
-          "id": "pureun_pasuggun",
+          "id": "",
           "image": "DA_BlueBuff.png"
         }
       ],
@@ -1543,15 +1799,15 @@
       }
     },
     {
-      "stt": 2,
+      "stt": 6,
       "id": "aibeon",
       "name": "아이번",
       "image": "tft18_ivern.tft_set18.jpg",
       "price": "5",
-      "average_position": "2.85",
-      "top_4_rate": "82.39",
-      "top_1_rate": "32.47",
-      "battle": "12,592",
+      "average_position": "3.01",
+      "top_4_rate": "78.99",
+      "top_1_rate": "30.56",
+      "battle": "54,550",
       "description_icon": [
         "기본 지속 효과: 이 스킬로 생성되는 보호막은 정밀에 의해 치명타가 적용될 수 있습니다.",
         "\n",
@@ -1614,23 +1870,23 @@
       ],
       "items": [
         {
-          "id": "syojinyi_cang",
+          "id": "",
           "image": "DA_SpearOfShojin.png"
         },
         {
-          "id": "pureun_pasuggun",
+          "id": "",
           "image": "DA_BlueBuff.png"
         },
         {
-          "id": "boseog_geonteulris",
+          "id": "",
           "image": "DA_JeweledGauntlet.png"
         },
         {
-          "id": "jeogeunghyeong_tugu",
+          "id": "",
           "image": "DA_AdaptiveHelm.png"
         },
         {
-          "id": "guinsuyi_gyeognogeom",
+          "id": "",
           "image": "DA_GuinsoosRageblade.png"
         }
       ],
@@ -1640,328 +1896,15 @@
       }
     },
     {
-      "stt": 3,
-      "id": "maokai",
-      "name": "마오카이",
-      "image": "tft18_maokai.tft_set18.jpg",
-      "price": "5",
-      "average_position": "3.09",
-      "top_4_rate": "78.51",
-      "top_1_rate": "29.62",
-      "battle": "11,175",
-      "description_icon": [
-        "기본 지속 효과: 650/650/300의 피해를 막을 때마다 묘목이 주변 적에게 도약해 81/145/2795(",
-        "Health.png",
-        ")의 마법 피해를 입힙니다. 사망 시 묘목 3/5/10개가 튀어나옵니다.",
-        "\n",
-        "\n",
-        "사용 시: 대상에게 69/124/3726(",
-        "Health.png",
-        ")의 마법 피해를 입히고 330/400/2000(",
-        "AP.png",
-        ")+잃은 체력의 10%/10%/100%만큼 체력을 회복합니다.",
-        "\n",
-        "\n",
-        "묘목 피해량: 81(",
-        "Health.png",
-        ") [7% / 7% / 75%]",
-        "\n",
-        "\n",
-        "사망 시 묘목 생성: [ 3 / 5 / 10 ]",
-        "\n",
-        "\n",
-        "사용 시 피해량: 69(",
-        "Health.png",
-        ") [6% / 6% / 100%]",
-        "\n",
-        "\n",
-        "체력 회복량: 330(",
-        "AP.png",
-        ") [ 330 / 400 / 2000 ]"
-      ],
-      "skill_name": "파종",
-      "skill_image": "DA_18_Maokai.png",
-      "starting_mana": 40,
-      "skill_mana": 100,
-      "skill_attack_range": 1,
-      "health": [
-        1150,
-        2070,
-        3726
-      ],
-      "attack_damage": [
-        80,
-        120,
-        180
-      ],
-      "damage_per_second": [
-        52,
-        78,
-        117
-      ],
-      "attack_speed": 0.65,
-      "armor": 60,
-      "magical_resistance": 60,
-      "stats": [
-        "묘목 피해량: 81(%i:scaleHealth%) [7% / 7% / 75%]",
-        "사망 시 묘목 생성: [3 / 5 / 10]",
-        "사용 시 피해량: 69(%i:scaleHealth%) [6% / 6% / 100%]",
-        "체력 회복량: 330(%i:scaleAP%) [330 / 400 / 2000]"
-      ],
-      "traits": [
-        {
-          "id": "jeonjaenggigye",
-          "name": "전쟁기계",
-          "image": "Trait_Icon_18_Juggernaut.TFT_Set18.png"
-        },
-        {
-          "id": "gomog",
-          "name": "고목",
-          "image": "Trait_Icon_18_OldGrowth.TFT_Set18.png"
-        }
-      ],
-      "items": [
-        {
-          "id": "gagoil_dolgabos",
-          "image": "DA_GargoyleStoneplate.png"
-        },
-        {
-          "id": "weomogeuyi_gabos",
-          "image": "DA_WarmogsArmor.png"
-        },
-        {
-          "id": "jeongryeongyi_hyeongsang",
-          "image": "DA_SpiritVisage.png"
-        },
-        {
-          "id": "suhojayi_maengse",
-          "image": "DA_ProtectorsVow.png"
-        },
-        {
-          "id": "keuraungadeu",
-          "image": "DA_Crownguard.png"
-        }
-      ],
-      "unlock": {
-        "description": "",
-        "type": false
-      }
-    },
-    {
-      "stt": 4,
-      "id": "deureibeun",
-      "name": "드레이븐",
-      "image": "tft18_draven.tft_set18.jpg",
-      "price": "5",
-      "average_position": "3.23",
-      "top_4_rate": "75.72",
-      "top_1_rate": "29.12",
-      "battle": "6,113",
-      "description_icon": [
-        "기본 지속 효과: 기본 공격이 사거리 내 무작위 적을 대상으로 지정하고 출혈을 적용해 12초 동안 140/210/3000(",
-        "AD.png",
-        ")의 물리 피해를 입힙니다. 기본 공격마다 12%(",
-        "AP.png",
-        ") 확률로 대신 50%/50%/900%의 추가 물리 피해를 입히고 2의 출혈을 적용합니다.",
-        "\n",
-        "\n",
-        "사용 시: 출혈 중첩이 가장 많은 적을 향해 거대한 도끼 두 개를 던집니다. 적중한 적에게 100/150/400(",
-        "AD.png",
-        ")의 물리 피해를 입히고 대상의 출혈 효과를 소모해 즉시 남은 피해량을 입힙니다. 이후 도끼가 돌아오면서 적중한 적에게 30/45/100(",
-        "AD.png",
-        ")의 물리 피해를 입힙니다.",
-        "\n",
-        "\n",
-        "출혈 피해량: 140(",
-        "AD.png",
-        ") [ 140 / 210 / 3000 ]",
-        "\n",
-        "\n",
-        "던질 때 도끼 피해량: 100(",
-        "AD.png",
-        ") [ 100 / 150 / 400 ]",
-        "\n",
-        "\n",
-        "돌아올 때 도끼 피해량: 30(",
-        "AD.png",
-        ") [ 30 / 45 / 100 ]"
-      ],
-      "skill_name": "죽음의 소용돌이",
-      "skill_image": "DA_Draven18.png",
-      "starting_mana": 0,
-      "skill_mana": 120,
-      "skill_attack_range": 5,
-      "health": [
-        900,
-        1620,
-        2916
-      ],
-      "attack_damage": [
-        48,
-        72,
-        108
-      ],
-      "damage_per_second": [
-        38,
-        58,
-        86
-      ],
-      "attack_speed": 0.8,
-      "armor": 45,
-      "magical_resistance": 45,
-      "stats": [
-        "출혈 피해량: 140(%i:scaleAD%) [140 / 210 / 3000]",
-        "던질 때 도끼 피해량: 100(%i:scaleAD%) [100 / 150 / 400]",
-        "돌아올 때 도끼 피해량: 30(%i:scaleAD%) [30 / 45 / 100]"
-      ],
-      "traits": [
-        {
-          "id": "hyeonsanggeum_cujeogja",
-          "name": "현상금 추적자",
-          "image": "Trait_Icon_18_BountySeeker.TFT_Set18.png"
-        }
-      ],
-      "items": [
-        {
-          "id": "guinsuyi_gyeognogeom",
-          "image": "DA_GuinsoosRageblade.png"
-        },
-        {
-          "id": "keurakenyi_bunno",
-          "image": "DA_KrakensFury.png"
-        },
-        {
-          "id": "muhanyi_daegeom",
-          "image": "DA_InfinityEdge.png"
-        },
-        {
-          "id": "jugeumyi_geom",
-          "image": "DA_Deathblade.png"
-        },
-        {
-          "id": "geoin_hagsalja",
-          "image": "DA_GiantSlayer.png"
-        }
-      ],
-      "unlock": {
-        "description": "",
-        "type": false
-      }
-    },
-    {
-      "stt": 5,
-      "id": "kenen",
-      "name": "케넨",
-      "image": "tft18_kennen.tft_set18.jpg",
-      "price": "5",
-      "average_position": "3.04",
-      "top_4_rate": "79.84",
-      "top_1_rate": "28.99",
-      "battle": "11,163",
-      "description_icon": [
-        "힘을 모으며 화상 상태인 적 하나당 주문력을 15% 얻습니다. 이후 2.5초 동안 250/350/3000(",
-        "AP.png",
-        ")의 보호막을 얻고 주변 적 무리를 통과해 돌진하며 각각 80/120/1500(",
-        "AP.png",
-        ")의 마법 피해를 입힙니다.",
-        "\n",
-        "\n",
-        "돌진한 후 2칸 범위의 불꽃 폭풍을 내보내 적중한 모든 적에게 2초 동안 총 475/715/5000(",
-        "AP.png",
-        ")의 마법 피해를 나누어 입힙니다.",
-        "\n",
-        "\n",
-        "보호막: 250(",
-        "AP.png",
-        ") [ 250 / 350 / 3000 ]",
-        "\n",
-        "\n",
-        "피해량: 80(",
-        "AP.png",
-        ") [ 80 / 120 / 1500 ]",
-        "\n",
-        "\n",
-        "불꽃 폭풍 피해량: 475(",
-        "AP.png",
-        ") [ 475 / 715 / 5000 ]"
-      ],
-      "skill_name": "불꽃 폭풍",
-      "skill_image": "DA_18_Kennen.png",
-      "starting_mana": 0,
-      "skill_mana": 40,
-      "skill_attack_range": 2,
-      "health": [
-        1200,
-        2160,
-        3888
-      ],
-      "attack_damage": [
-        50,
-        75,
-        113
-      ],
-      "damage_per_second": [
-        43,
-        64,
-        96
-      ],
-      "attack_speed": 0.85,
-      "armor": 60,
-      "magical_resistance": 60,
-      "stats": [
-        "보호막: 250(%i:scaleAP%) [250 / 350 / 3000]",
-        "피해량: 80(%i:scaleAP%) [80 / 120 / 1500]",
-        "불꽃 폭풍 피해량: 475(%i:scaleAP%) [475 / 715 / 5000]"
-      ],
-      "traits": [
-        {
-          "id": "ceohyeongja",
-          "name": "처형자",
-          "image": "Trait_Icon_18_Executioner.TFT_Set18.png"
-        },
-        {
-          "id": "jiogbul",
-          "name": "지옥불",
-          "image": "Trait_Icon_18_Inferno.TFT_Set18.png"
-        }
-      ],
-      "items": [
-        {
-          "id": "boseog_geonteulris",
-          "image": "DA_JeweledGauntlet.png"
-        },
-        {
-          "id": "jeongyiyi_songil",
-          "image": "DA_HandOfJustice.png"
-        },
-        {
-          "id": "bamyi_ggeutjarag",
-          "image": "DA_EdgeOfNight.png"
-        },
-        {
-          "id": "rabadonyi_jugeummoja",
-          "image": "DA_RabadonsDeathcap.png"
-        },
-        {
-          "id": "pibaragi",
-          "image": "DA_Bloodthirster.png"
-        }
-      ],
-      "unlock": {
-        "description": "",
-        "type": false
-      }
-    },
-    {
-      "stt": 6,
+      "stt": 7,
       "id": "nareu",
       "name": "나르",
       "image": "tft18_gnar.tft_set18.jpg",
       "price": "5",
-      "average_position": "2.85",
-      "top_4_rate": "83.75",
-      "top_1_rate": "28.79",
-      "battle": "17,095",
+      "average_position": "2.94",
+      "top_4_rate": "81.58",
+      "top_1_rate": "28.12",
+      "battle": "75,491",
       "description_icon": [
         "기본 지속 효과: 분노를 매초 5/5/50, 기본 공격당 5 얻습니다.",
         "\n",
@@ -2051,23 +1994,23 @@
       ],
       "items": [
         {
-          "id": "seuteragyi_dojeon",
+          "id": "",
           "image": "DA_SteraksGage.png"
         },
         {
-          "id": "pibaragi",
+          "id": "",
           "image": "DA_Bloodthirster.png"
         },
         {
-          "id": "geoinyi_gyeolyi",
+          "id": "",
           "image": "DA_TitansResolve.png"
         },
         {
-          "id": "bamyi_ggeutjarag",
+          "id": "",
           "image": "DA_EdgeOfNight.png"
         },
         {
-          "id": "jeongyiyi_songil",
+          "id": "",
           "image": "DA_HandOfJustice.png"
         }
       ],
@@ -2077,15 +2020,328 @@
       }
     },
     {
-      "stt": 7,
+      "stt": 8,
+      "id": "deureibeun",
+      "name": "드레이븐",
+      "image": "tft18_draven.tft_set18.jpg",
+      "price": "5",
+      "average_position": "3.43",
+      "top_4_rate": "71.31",
+      "top_1_rate": "27.26",
+      "battle": "27,214",
+      "description_icon": [
+        "기본 지속 효과: 기본 공격이 사거리 내 무작위 적을 대상으로 지정하고 출혈을 적용해 12초 동안 140/210/3000(",
+        "AD.png",
+        ")의 물리 피해를 입힙니다. 기본 공격마다 12%(",
+        "AP.png",
+        ") 확률로 대신 50%/50%/900%의 추가 물리 피해를 입히고 2의 출혈을 적용합니다.",
+        "\n",
+        "\n",
+        "사용 시: 출혈 중첩이 가장 많은 적을 향해 거대한 도끼 두 개를 던집니다. 적중한 적에게 100/150/400(",
+        "AD.png",
+        ")의 물리 피해를 입히고 대상의 출혈 효과를 소모해 즉시 남은 피해량을 입힙니다. 이후 도끼가 돌아오면서 적중한 적에게 30/45/100(",
+        "AD.png",
+        ")의 물리 피해를 입힙니다.",
+        "\n",
+        "\n",
+        "출혈 피해량: 140(",
+        "AD.png",
+        ") [ 140 / 210 / 3000 ]",
+        "\n",
+        "\n",
+        "던질 때 도끼 피해량: 100(",
+        "AD.png",
+        ") [ 100 / 150 / 400 ]",
+        "\n",
+        "\n",
+        "돌아올 때 도끼 피해량: 30(",
+        "AD.png",
+        ") [ 30 / 45 / 100 ]"
+      ],
+      "skill_name": "죽음의 소용돌이",
+      "skill_image": "DA_Draven18.png",
+      "starting_mana": 0,
+      "skill_mana": 120,
+      "skill_attack_range": 5,
+      "health": [
+        900,
+        1620,
+        2916
+      ],
+      "attack_damage": [
+        48,
+        72,
+        108
+      ],
+      "damage_per_second": [
+        38,
+        58,
+        86
+      ],
+      "attack_speed": 0.8,
+      "armor": 45,
+      "magical_resistance": 45,
+      "stats": [
+        "출혈 피해량: 140(%i:scaleAD%) [140 / 210 / 3000]",
+        "던질 때 도끼 피해량: 100(%i:scaleAD%) [100 / 150 / 400]",
+        "돌아올 때 도끼 피해량: 30(%i:scaleAD%) [30 / 45 / 100]"
+      ],
+      "traits": [
+        {
+          "id": "hyeonsanggeum_cujeogja",
+          "name": "현상금 추적자",
+          "image": "Trait_Icon_18_BountySeeker.TFT_Set18.png"
+        }
+      ],
+      "items": [
+        {
+          "id": "",
+          "image": "DA_GuinsoosRageblade.png"
+        },
+        {
+          "id": "",
+          "image": "DA_KrakensFury.png"
+        },
+        {
+          "id": "",
+          "image": "DA_Deathblade.png"
+        },
+        {
+          "id": "",
+          "image": "DA_InfinityEdge.png"
+        },
+        {
+          "id": "",
+          "image": "DA_GiantSlayer.png"
+        }
+      ],
+      "unlock": {
+        "description": "",
+        "type": false
+      }
+    },
+    {
+      "stt": 9,
+      "id": "kenen",
+      "name": "케넨",
+      "image": "tft18_kennen.tft_set18.jpg",
+      "price": "5",
+      "average_position": "3.19",
+      "top_4_rate": "76.34",
+      "top_1_rate": "26.97",
+      "battle": "47,736",
+      "description_icon": [
+        "힘을 모으며 화상 상태인 적 하나당 주문력을 15% 얻습니다. 이후 2.5초 동안 250/350/3000(",
+        "AP.png",
+        ")의 보호막을 얻고 주변 적 무리를 통과해 돌진하며 각각 80/120/1500(",
+        "AP.png",
+        ")의 마법 피해를 입힙니다.",
+        "\n",
+        "\n",
+        "돌진한 후 2칸 범위의 불꽃 폭풍을 내보내 적중한 모든 적에게 2초 동안 총 475/715/5000(",
+        "AP.png",
+        ")의 마법 피해를 나누어 입힙니다.",
+        "\n",
+        "\n",
+        "보호막: 250(",
+        "AP.png",
+        ") [ 250 / 350 / 3000 ]",
+        "\n",
+        "\n",
+        "피해량: 80(",
+        "AP.png",
+        ") [ 80 / 120 / 1500 ]",
+        "\n",
+        "\n",
+        "불꽃 폭풍 피해량: 475(",
+        "AP.png",
+        ") [ 475 / 715 / 5000 ]"
+      ],
+      "skill_name": "불꽃 폭풍",
+      "skill_image": "DA_18_Kennen.png",
+      "starting_mana": 0,
+      "skill_mana": 40,
+      "skill_attack_range": 2,
+      "health": [
+        1200,
+        2160,
+        3888
+      ],
+      "attack_damage": [
+        50,
+        75,
+        113
+      ],
+      "damage_per_second": [
+        43,
+        64,
+        96
+      ],
+      "attack_speed": 0.85,
+      "armor": 60,
+      "magical_resistance": 60,
+      "stats": [
+        "보호막: 250(%i:scaleAP%) [250 / 350 / 3000]",
+        "피해량: 80(%i:scaleAP%) [80 / 120 / 1500]",
+        "불꽃 폭풍 피해량: 475(%i:scaleAP%) [475 / 715 / 5000]"
+      ],
+      "traits": [
+        {
+          "id": "ceohyeongja",
+          "name": "처형자",
+          "image": "Trait_Icon_18_Executioner.TFT_Set18.png"
+        },
+        {
+          "id": "jiogbul",
+          "name": "지옥불",
+          "image": "Trait_Icon_18_Inferno.TFT_Set18.png"
+        }
+      ],
+      "items": [
+        {
+          "id": "",
+          "image": "DA_HandOfJustice.png"
+        },
+        {
+          "id": "",
+          "image": "DA_JeweledGauntlet.png"
+        },
+        {
+          "id": "",
+          "image": "DA_EdgeOfNight.png"
+        },
+        {
+          "id": "",
+          "image": "DA_RabadonsDeathcap.png"
+        },
+        {
+          "id": "",
+          "image": "DA_Bloodthirster.png"
+        }
+      ],
+      "unlock": {
+        "description": "",
+        "type": false
+      }
+    },
+    {
+      "stt": 10,
+      "id": "maokai",
+      "name": "마오카이",
+      "image": "tft18_maokai.tft_set18.jpg",
+      "price": "5",
+      "average_position": "3.27",
+      "top_4_rate": "74.81",
+      "top_1_rate": "26.97",
+      "battle": "48,789",
+      "description_icon": [
+        "기본 지속 효과: 650/650/300의 피해를 막을 때마다 묘목이 주변 적에게 도약해 81/145/2795(",
+        "Health.png",
+        ")의 마법 피해를 입힙니다. 사망 시 묘목 3/5/10개가 튀어나옵니다.",
+        "\n",
+        "\n",
+        "사용 시: 대상에게 69/124/3726(",
+        "Health.png",
+        ")의 마법 피해를 입히고 330/400/2000(",
+        "AP.png",
+        ")+잃은 체력의 10%/10%/100%만큼 체력을 회복합니다.",
+        "\n",
+        "\n",
+        "묘목 피해량: 81(",
+        "Health.png",
+        ") [7% / 7% / 75%]",
+        "\n",
+        "\n",
+        "사망 시 묘목 생성: [ 3 / 5 / 10 ]",
+        "\n",
+        "\n",
+        "사용 시 피해량: 69(",
+        "Health.png",
+        ") [6% / 6% / 100%]",
+        "\n",
+        "\n",
+        "체력 회복량: 330(",
+        "AP.png",
+        ") [ 330 / 400 / 2000 ]"
+      ],
+      "skill_name": "파종",
+      "skill_image": "DA_18_Maokai.png",
+      "starting_mana": 40,
+      "skill_mana": 100,
+      "skill_attack_range": 1,
+      "health": [
+        1150,
+        2070,
+        3726
+      ],
+      "attack_damage": [
+        80,
+        120,
+        180
+      ],
+      "damage_per_second": [
+        52,
+        78,
+        117
+      ],
+      "attack_speed": 0.65,
+      "armor": 60,
+      "magical_resistance": 60,
+      "stats": [
+        "묘목 피해량: 81(%i:scaleHealth%) [7% / 7% / 75%]",
+        "사망 시 묘목 생성: [3 / 5 / 10]",
+        "사용 시 피해량: 69(%i:scaleHealth%) [6% / 6% / 100%]",
+        "체력 회복량: 330(%i:scaleAP%) [330 / 400 / 2000]"
+      ],
+      "traits": [
+        {
+          "id": "jeonjaenggigye",
+          "name": "전쟁기계",
+          "image": "Trait_Icon_18_Juggernaut.TFT_Set18.png"
+        },
+        {
+          "id": "gomog",
+          "name": "고목",
+          "image": "Trait_Icon_18_OldGrowth.TFT_Set18.png"
+        }
+      ],
+      "items": [
+        {
+          "id": "",
+          "image": "DA_GargoyleStoneplate.png"
+        },
+        {
+          "id": "",
+          "image": "DA_WarmogsArmor.png"
+        },
+        {
+          "id": "",
+          "image": "DA_SpiritVisage.png"
+        },
+        {
+          "id": "",
+          "image": "DA_ProtectorsVow.png"
+        },
+        {
+          "id": "",
+          "image": "DA_SunfireCape.png"
+        }
+      ],
+      "unlock": {
+        "description": "",
+        "type": false
+      }
+    },
+    {
+      "stt": 11,
       "id": "tarig",
       "name": "타릭",
       "image": "tft18_taric.tft_set18.jpg",
       "price": "5",
-      "average_position": "2.95",
-      "top_4_rate": "81.93",
-      "top_1_rate": "28.03",
-      "battle": "17,386",
+      "average_position": "3.1",
+      "top_4_rate": "78.69",
+      "top_1_rate": "26.50",
+      "battle": "74,508",
       "description_icon": [
         "기본 지속 효과: 타릭 또는 타릭과 짝을 이룬 아군 체력이 처음 50% 아래로 떨어지면 타릭과 해당 아군이 에메랄드 에너지를 방출해 3칸 내 아군에게 3/3/99초 동안 305/584/14212(",
         "Health.png",
@@ -2155,23 +2411,23 @@
       ],
       "items": [
         {
-          "id": "gagoil_dolgabos",
+          "id": "",
           "image": "DA_GargoyleStoneplate.png"
         },
         {
-          "id": "weomogeuyi_gabos",
+          "id": "",
           "image": "DA_WarmogsArmor.png"
         },
         {
-          "id": "jeongryeongyi_hyeongsang",
+          "id": "",
           "image": "DA_SpiritVisage.png"
         },
         {
-          "id": "suhojayi_maengse",
+          "id": "",
           "image": "DA_ProtectorsVow.png"
         },
         {
-          "id": "taeyangbulggoc_mangto",
+          "id": "",
           "image": "DA_SunfireCape.png"
         }
       ],
@@ -2181,15 +2437,15 @@
       }
     },
     {
-      "stt": 8,
+      "stt": 12,
       "id": "alrun",
       "name": "알룬",
       "image": "tft18_alune.tft_set18.jpg",
       "price": "5",
-      "average_position": "2.89",
-      "top_4_rate": "83.71",
-      "top_1_rate": "26.82",
-      "battle": "11,114",
+      "average_position": "3.02",
+      "top_4_rate": "80.61",
+      "top_1_rate": "25.75",
+      "battle": "48,784",
       "description_icon": [
         "가장 가까운 적 3명에게 달조각 9개를 나누어 떨어뜨려 각각 55/83/500(",
         "AP.png",
@@ -2256,23 +2512,23 @@
       ],
       "items": [
         {
-          "id": "boseog_geonteulris",
+          "id": "",
           "image": "DA_JeweledGauntlet.png"
         },
         {
-          "id": "syojinyi_cang",
+          "id": "",
           "image": "DA_SpearOfShojin.png"
         },
         {
-          "id": "gongheoyi_jipangi",
+          "id": "",
           "image": "DA_VoidStaff.png"
         },
         {
-          "id": "rabadonyi_jugeummoja",
+          "id": "",
           "image": "DA_RabadonsDeathcap.png"
         },
         {
-          "id": "pureun_pasuggun",
+          "id": "",
           "image": "DA_BlueBuff.png"
         }
       ],
@@ -2282,15 +2538,120 @@
       }
     },
     {
-      "stt": 9,
+      "stt": 13,
+      "id": "jangro_deuraegon",
+      "name": "장로 드래곤",
+      "image": "TheElderDragon_1783677052-ElderDragon.jpg",
+      "price": "5",
+      "average_position": "3.15",
+      "top_4_rate": "78.32",
+      "top_1_rate": "25.73",
+      "battle": "28,086",
+      "description_icon": [
+        "기본 지속 효과: 기본 공격 시 대상과 인접한 적에게 75%/75%/100%의 물리 피해를 입힙니다.",
+        "\n",
+        "\n",
+        "사용 시: 무적 상태가 되어 공중으로 날아오릅니다. 귀환 시 모든 적을 1.25/1.25/99초 동안 기절시킵니다. 또한 3/3/99초 동안 모든 피해 흡혈을 15%/15%/100% 얻고 적에게 점화를 적용합니다. 점화 상태인 적은 매초 최대 체력의 2%/2%/20%만큼 물리 피해를 입습니다. 이 스킬이 화염 숨결로 대체되고 즉시 사용합니다.",
+        "\n",
+        "\n",
+        "화염 숨결: 적이 가장 많은 일직선 방향에 불을 내뿜어 305/465/7200(",
+        "AD.png",
+        "AP.png",
+        ")의 물리 피해를 입힙니다. 관통한 적 하나당 피해량이 20% 감소합니다. (최소 20%) 적중한 적에게 3/3/99초 동안 점화를 적용합니다.",
+        "\n",
+        "\n",
+        "장로 드래곤 버프: 체력이 12% 아래인 적에게 피해를 입히면 처형합니다.",
+        "\n",
+        "\n",
+        "피해량:",
+        "AP.png",
+        "[ 20 / 30 / 200 ]",
+        "\n",
+        "\n",
+        "피해량: 305(",
+        "AD.png",
+        ")=285(",
+        "AD.png",
+        ")+20(",
+        "AP.png",
+        ") [ 285 / 435 / 7000 ]"
+      ],
+      "skill_name": "비할 데 없는 열기",
+      "skill_image": "TheElderDragon_1785313153-dragon_square_elder.png",
+      "starting_mana": 20,
+      "skill_mana": 60,
+      "skill_attack_range": 2,
+      "health": [
+        1800,
+        3240,
+        5832
+      ],
+      "attack_damage": [
+        115,
+        173,
+        259
+      ],
+      "damage_per_second": [
+        58,
+        86,
+        129
+      ],
+      "attack_speed": 0.5,
+      "armor": 75,
+      "magical_resistance": 75,
+      "stats": [
+        "피해량: %i:scaleAP% [20 / 30 / 200]",
+        "피해량: 305(%i:scaleAD%)=285(%i:scaleAD%)+20(%i:scaleAP%) [285 / 435 / 7000]"
+      ],
+      "traits": [
+        {
+          "id": "coesangwi_posigja",
+          "name": "최상위 포식자",
+          "image": "Trait_Icon_18_ApexPredator.TFT_Set18.png"
+        },
+        {
+          "id": "hyeobgogyasu",
+          "name": "협곡야수",
+          "image": "Trait_Icon_18_Riftbeast.TFT_Set18.png"
+        }
+      ],
+      "items": [
+        {
+          "id": "",
+          "image": "DA_InfinityEdge.png"
+        },
+        {
+          "id": "",
+          "image": "DA_SteraksGage.png"
+        },
+        {
+          "id": "",
+          "image": "DA_LastWhisper.png"
+        },
+        {
+          "id": "",
+          "image": "DA_Bloodthirster.png"
+        },
+        {
+          "id": "",
+          "image": "DA_HandOfJustice.png"
+        }
+      ],
+      "unlock": {
+        "description": "",
+        "type": false
+      }
+    },
+    {
+      "stt": 14,
       "id": "aeswi",
       "name": "애쉬",
       "image": "tft18_ashe.tft_set18.jpg",
       "price": "5",
-      "average_position": "3.01",
-      "top_4_rate": "81.38",
-      "top_1_rate": "25.76",
-      "battle": "9,813",
+      "average_position": "3.12",
+      "top_4_rate": "78.89",
+      "top_1_rate": "25.04",
+      "battle": "42,656",
       "description_icon": [
         "가장 적이 많은 일직선상에 화살을 발사해 440/660/1000(",
         "AD.png",
@@ -2368,23 +2729,23 @@
       ],
       "items": [
         {
-          "id": "syojinyi_cang",
+          "id": "",
           "image": "DA_SpearOfShojin.png"
         },
         {
-          "id": "bulgeun_deongguljeongryeong",
+          "id": "",
           "image": "DA_RedBuff.png"
         },
         {
-          "id": "coehuyi_sogsagim",
+          "id": "",
           "image": "DA_LastWhisper.png"
         },
         {
-          "id": "muhanyi_daegeom",
+          "id": "",
           "image": "DA_InfinityEdge.png"
         },
         {
-          "id": "guinsuyi_gyeognogeom",
+          "id": "",
           "image": "DA_GuinsoosRageblade.png"
         }
       ],
@@ -2394,117 +2755,143 @@
       }
     },
     {
-      "stt": 10,
-      "id": "seteu",
-      "name": "세트",
-      "image": "tft18_sett.tft_set18.jpg",
-      "price": "4",
-      "average_position": "3.45",
-      "top_4_rate": "73.37",
-      "top_1_rate": "19.69",
-      "battle": "14,730",
+      "stt": 15,
+      "id": "reogseu_(yojeong)",
+      "name": "럭스 (요정)",
+      "image": "tft18_lux.tft_set18.jpg",
+      "price": "5",
+      "average_position": "2.25",
+      "top_4_rate": "100",
+      "top_1_rate": "25.00",
+      "battle": "4",
       "description_icon": [
-        "기본 지속 효과: 전투마다 처음으로 체력이 최대 체력 40% 아래로 떨어지면 마나를 100 얻습니다.",
-        "\n",
-        "\n",
-        "사용 시: 힘을 모아 강력한 펀치를 날려 체력을 225/275/2000(",
-        "Health.png",
+        "기본 지속 효과: 스킬 사용 시, 럭스와 특성을 공유하는 모든 아군이 마나를 3/3/100(",
         "AP.png",
-        ") 회복하고 큰 원뿔 범위에 222/355/5233(",
-        "Health.png",
-        "AD.png",
-        ")의 물리 피해를 입힙니다.",
+        ") 얻습니다.",
         "\n",
         "\n",
-        "체력 회복량: 225=12%(",
-        "Health.png",
-        ")+225(",
+        "사용 시: 가장 큰 적 무리를 향해 레이저를 발사해 330/520/5000(",
         "AP.png",
-        ") [ 225 / 275 / 2000 ]",
-        "\n",
-        "\n",
-        "피해량: 222=72",
-        "Health.png",
-        "+150(",
-        "AD.png",
-        ") [ 150 / 225 / 5000 ]"
+        ")의 마법 피해를 입힙니다. 적중한 적 하나당 피해가 25%/25%/10% 감소합니다."
       ],
-      "skill_name": "강펀치",
-      "skill_image": "DA_18_Sett.png",
-      "starting_mana": 60,
-      "skill_mana": 135,
-      "skill_attack_range": 1,
+      "skill_name": "최후의 섬광",
+      "skill_image": "DA_18_Lux_Fae.png",
+      "starting_mana": 20,
+      "skill_mana": 70,
+      "skill_attack_range": 5,
       "health": [
-        1200,
-        2160,
-        3888
+        900,
+        1620,
+        2916
       ],
       "attack_damage": [
-        80,
-        120,
-        180
+        40,
+        60,
+        90
       ],
       "damage_per_second": [
-        52,
-        78,
-        117
+        32,
+        48,
+        72
       ],
-      "attack_speed": 0.65,
-      "armor": 60,
-      "magical_resistance": 60,
+      "attack_speed": 0.8,
+      "armor": 45,
+      "magical_resistance": 45,
       "stats": [
-        "체력 회복량: 225=12%(%i:scaleHealth%)+225(%i:scaleAP%) [225 / 275 / 2000]",
-        "피해량: 222=72%i:scaleHealth%+150(%i:scaleAD%) [150 / 225 / 5000]"
+        "피해량: 330(%i:scaleAP%) [330 / 520 / 5000]"
       ],
       "traits": [
         {
-          "id": "gaehwa",
-          "name": "개화",
-          "image": "Trait_Icon_18_Blossom.TFT_Set18.png"
+          "id": "yojeong",
+          "name": "요정",
+          "image": "Trait_Icon_18_Fae.TFT_Set18.png"
         },
         {
-          "id": "ssaumggun",
-          "name": "싸움꾼",
-          "image": "Trait_Icon_18_Brawler.TFT_Set18.png"
+          "id": "hwasin",
+          "name": "화신",
+          "image": "Trait_Icon_18_Avatar.TFT_Set18.png"
         }
       ],
-      "items": [
-        {
-          "id": "gagoil_dolgabos",
-          "image": "DA_GargoyleStoneplate.png"
-        },
-        {
-          "id": "weomogeuyi_gabos",
-          "image": "DA_WarmogsArmor.png"
-        },
-        {
-          "id": "jeongryeongyi_hyeongsang",
-          "image": "DA_SpiritVisage.png"
-        },
-        {
-          "id": "ion_cunggyeoggi",
-          "image": "DA_IonicSpark.png"
-        },
-        {
-          "id": "yongyi_baltob",
-          "image": "DA_DragonsClaw.png"
-        }
-      ],
+      "items": [],
       "unlock": {
         "description": "",
         "type": false
       }
     },
     {
-      "stt": 11,
+      "stt": 16,
+      "id": "reogseu_(dalbic)",
+      "name": "럭스 (달빛)",
+      "image": "tft18_lux.tft_set18.jpg",
+      "price": "5",
+      "average_position": "3.5",
+      "top_4_rate": "75",
+      "top_1_rate": "25.00",
+      "battle": "4",
+      "description_icon": [
+        "기본 지속 효과: 스킬 사용 시, 럭스와 특성을 공유하는 모든 아군이 마나를 3/3/100(",
+        "AP.png",
+        ") 얻습니다.",
+        "\n",
+        "\n",
+        "사용 시: 가장 큰 적 무리를 향해 레이저를 발사해 330/520/5000(",
+        "AP.png",
+        ")의 마법 피해를 입힙니다. 적중한 적 하나당 피해가 25%/25%/10% 감소합니다."
+      ],
+      "skill_name": "최후의 섬광",
+      "skill_image": "DA_18_Lux_Moonbeam.png",
+      "starting_mana": 20,
+      "skill_mana": 70,
+      "skill_attack_range": 5,
+      "health": [
+        900,
+        1620,
+        2916
+      ],
+      "attack_damage": [
+        40,
+        60,
+        90
+      ],
+      "damage_per_second": [
+        32,
+        48,
+        72
+      ],
+      "attack_speed": 0.8,
+      "armor": 45,
+      "magical_resistance": 45,
+      "stats": [
+        "피해량: 330(%i:scaleAP%) [330 / 520 / 5000]"
+      ],
+      "traits": [
+        {
+          "id": "dalbic",
+          "name": "달빛",
+          "image": "Trait_Icon_18_Lunar.TFT_Set18.png"
+        },
+        {
+          "id": "hwasin",
+          "name": "화신",
+          "image": "Trait_Icon_18_Avatar.TFT_Set18.png"
+        }
+      ],
+      "items": [],
+      "unlock": {
+        "description": "",
+        "type": false
+      }
+    },
+    {
+      "stt": 17,
       "id": "ijeurieol",
       "name": "이즈리얼",
       "image": "tft18_ezreal.tft_set18.jpg",
       "price": "4",
-      "average_position": "3.79",
-      "top_4_rate": "64.58",
-      "top_1_rate": "19.56",
-      "battle": "10,163",
+      "average_position": "3.89",
+      "top_4_rate": "62.51",
+      "top_1_rate": "19.07",
+      "battle": "45,258",
       "description_icon": [
         "현재 대상에게서 순간적으로 멀어진 다음, 대상에게 235/355/1200(",
         "AD.png",
@@ -2574,23 +2961,23 @@
       ],
       "items": [
         {
-          "id": "syojinyi_cang",
+          "id": "",
           "image": "DA_SpearOfShojin.png"
         },
         {
-          "id": "coehuyi_sogsagim",
+          "id": "",
           "image": "DA_LastWhisper.png"
         },
         {
-          "id": "jugeumyi_geom",
+          "id": "",
           "image": "DA_Deathblade.png"
         },
         {
-          "id": "muhanyi_daegeom",
+          "id": "",
           "image": "DA_InfinityEdge.png"
         },
         {
-          "id": "geoin_hagsalja",
+          "id": "",
           "image": "DA_GiantSlayer.png"
         }
       ],
@@ -2600,50 +2987,67 @@
       }
     },
     {
-      "stt": 12,
-      "id": "ari",
-      "name": "아리",
-      "image": "tft18_ahri.tft_set18.jpg",
+      "stt": 18,
+      "id": "seteu",
+      "name": "세트",
+      "image": "tft18_sett.tft_set18.jpg",
       "price": "4",
-      "average_position": "3.67",
-      "top_4_rate": "68.02",
-      "top_1_rate": "18.98",
-      "battle": "12,926",
+      "average_position": "3.57",
+      "top_4_rate": "70.5",
+      "top_1_rate": "18.89",
+      "battle": "66,148",
       "description_icon": [
-        "4칸 내 주변에 가장 적이 많은 위치에 영혼 폭탄을 날립니다. 영혼 폭탄은 반경 3칸 내 적에게 450/675/3500(",
-        "AP.png",
-        ")의 마법 피해를 입힙니다. 피해량은 중심으로부터 1칸 멀어질 때마다 20% 감소합니다.",
+        "기본 지속 효과: 전투마다 처음으로 체력이 최대 체력 40% 아래로 떨어지면 마나를 100 얻습니다.",
         "\n",
         "\n",
-        "피해량: 450(",
+        "사용 시: 힘을 모아 강력한 펀치를 날려 체력을 225/275/2000(",
+        "Health.png",
         "AP.png",
-        ") [ 450 / 675 / 3500 ]"
+        ") 회복하고 큰 원뿔 범위에 222/355/5233(",
+        "Health.png",
+        "AD.png",
+        ")의 물리 피해를 입힙니다.",
+        "\n",
+        "\n",
+        "체력 회복량: 225=12%(",
+        "Health.png",
+        ")+225(",
+        "AP.png",
+        ") [ 225 / 275 / 2000 ]",
+        "\n",
+        "\n",
+        "피해량: 222=72",
+        "Health.png",
+        "+150(",
+        "AD.png",
+        ") [ 150 / 225 / 5000 ]"
       ],
-      "skill_name": "영혼 폭탄",
-      "skill_image": "DA_18_Ahri.png",
-      "starting_mana": 20,
-      "skill_mana": 100,
-      "skill_attack_range": 4,
+      "skill_name": "강펀치",
+      "skill_image": "DA_18_Sett.png",
+      "starting_mana": 60,
+      "skill_mana": 135,
+      "skill_attack_range": 1,
       "health": [
-        850,
-        1530,
-        2754
+        1200,
+        2160,
+        3888
       ],
       "attack_damage": [
-        40,
-        60,
-        90
+        80,
+        120,
+        180
       ],
       "damage_per_second": [
-        32,
-        48,
-        72
+        52,
+        78,
+        117
       ],
-      "attack_speed": 0.8,
-      "armor": 40,
-      "magical_resistance": 40,
+      "attack_speed": 0.65,
+      "armor": 60,
+      "magical_resistance": 60,
       "stats": [
-        "피해량: 450(%i:scaleAP%) [450 / 675 / 3500]"
+        "체력 회복량: 225=12%(%i:scaleHealth%)+225(%i:scaleAP%) [225 / 275 / 2000]",
+        "피해량: 222=72%i:scaleHealth%+150(%i:scaleAD%) [150 / 225 / 5000]"
       ],
       "traits": [
         {
@@ -2652,31 +3056,31 @@
           "image": "Trait_Icon_18_Blossom.TFT_Set18.png"
         },
         {
-          "id": "jumunsulsa",
-          "name": "주문술사",
-          "image": "Trait_Icon_18_Spellweaver.TFT_Set18.png"
+          "id": "ssaumggun",
+          "name": "싸움꾼",
+          "image": "Trait_Icon_18_Brawler.TFT_Set18.png"
         }
       ],
       "items": [
         {
-          "id": "boseog_geonteulris",
-          "image": "DA_JeweledGauntlet.png"
+          "id": "",
+          "image": "DA_GargoyleStoneplate.png"
         },
         {
-          "id": "syojinyi_cang",
-          "image": "DA_SpearOfShojin.png"
+          "id": "",
+          "image": "DA_WarmogsArmor.png"
         },
         {
-          "id": "tagyeogdaeyi_ceoltoe",
-          "image": "DA_StrikersFlail.png"
+          "id": "",
+          "image": "DA_SpiritVisage.png"
         },
         {
-          "id": "pureun_pasuggun",
-          "image": "DA_BlueBuff.png"
+          "id": "",
+          "image": "DA_IonicSpark.png"
         },
         {
-          "id": "rabadonyi_jugeummoja",
-          "image": "DA_RabadonsDeathcap.png"
+          "id": "",
+          "image": "DA_SunfireCape.png"
         }
       ],
       "unlock": {
@@ -2685,100 +3089,15 @@
       }
     },
     {
-      "stt": 13,
-      "id": "jaira",
-      "name": "자이라",
-      "image": "tft18_zyra.tft_set18.jpg",
-      "price": "4",
-      "average_position": "3.52",
-      "top_4_rate": "72.19",
-      "top_1_rate": "18.51",
-      "battle": "10,956",
-      "description_icon": [
-        "가장 가까운 적을 10회 공격하는 식물 2/2/4개를 전장 곳곳에 생성합니다. 공격할 때마다 37/55/225(",
-        "AP.png",
-        ")의 마법 피해를 입힙니다.",
-        "\n",
-        "\n",
-        "피해량: 37(",
-        "AP.png",
-        ") [ 37 / 55 / 225 ]"
-      ],
-      "skill_name": "맹렬한 성장",
-      "skill_image": "DA_18_Zyra.png",
-      "starting_mana": 0,
-      "skill_mana": 45,
-      "skill_attack_range": 4,
-      "health": [
-        850,
-        1530,
-        2754
-      ],
-      "attack_damage": [
-        40,
-        60,
-        90
-      ],
-      "damage_per_second": [
-        30,
-        45,
-        68
-      ],
-      "attack_speed": 0.75,
-      "armor": 40,
-      "magical_resistance": 40,
-      "stats": [
-        "피해량: 37(%i:scaleAP%) [37 / 55 / 225]"
-      ],
-      "traits": [
-        {
-          "id": "sohwansa",
-          "name": "소환사",
-          "image": "Trait_Icon_18_Summoner.TFT_Set18.png"
-        },
-        {
-          "id": "gasiyi_yeoin",
-          "name": "가시의 여인",
-          "image": "Trait_Icon_18_ZyraOrigin.TFT_Set18.png"
-        }
-      ],
-      "items": [
-        {
-          "id": "gongheoyi_jipangi",
-          "image": "DA_VoidStaff.png"
-        },
-        {
-          "id": "syojinyi_cang",
-          "image": "DA_SpearOfShojin.png"
-        },
-        {
-          "id": "boseog_geonteulris",
-          "image": "DA_JeweledGauntlet.png"
-        },
-        {
-          "id": "morelronomikon",
-          "image": "DA_Morellonomicon.png"
-        },
-        {
-          "id": "rabadonyi_jugeummoja",
-          "image": "DA_RabadonsDeathcap.png"
-        }
-      ],
-      "unlock": {
-        "description": "",
-        "type": false
-      }
-    },
-    {
-      "stt": 14,
+      "stt": 19,
       "id": "apelrioseu",
       "name": "아펠리오스",
       "image": "tft18_aphelios.tft_set18.jpg",
       "price": "4",
-      "average_position": "3.55",
-      "top_4_rate": "70.42",
-      "top_1_rate": "18.49",
-      "battle": "12,027",
+      "average_position": "3.62",
+      "top_4_rate": "68.88",
+      "top_1_rate": "18.35",
+      "battle": "54,947",
       "description_icon": [
         "절단검을 장착하고 2초 동안 대상을 5(",
         "AS.png",
@@ -2857,23 +3176,23 @@
       ],
       "items": [
         {
-          "id": "guinsuyi_gyeognogeom",
+          "id": "",
           "image": "DA_GuinsoosRageblade.png"
         },
         {
-          "id": "keurakenyi_bunno",
+          "id": "",
           "image": "DA_KrakensFury.png"
         },
         {
-          "id": "geoin_hagsalja",
+          "id": "",
           "image": "DA_GiantSlayer.png"
         },
         {
-          "id": "muhanyi_daegeom",
+          "id": "",
           "image": "DA_InfinityEdge.png"
         },
         {
-          "id": "jugeumyi_geom",
+          "id": "",
           "image": "DA_Deathblade.png"
         }
       ],
@@ -2883,15 +3202,100 @@
       }
     },
     {
-      "stt": 15,
+      "stt": 20,
+      "id": "ari",
+      "name": "아리",
+      "image": "tft18_ahri.tft_set18.jpg",
+      "price": "4",
+      "average_position": "3.76",
+      "top_4_rate": "65.62",
+      "top_1_rate": "18.23",
+      "battle": "57,637",
+      "description_icon": [
+        "4칸 내 주변에 가장 적이 많은 위치에 영혼 폭탄을 날립니다. 영혼 폭탄은 반경 3칸 내 적에게 450/675/3500(",
+        "AP.png",
+        ")의 마법 피해를 입힙니다. 피해량은 중심으로부터 1칸 멀어질 때마다 20% 감소합니다.",
+        "\n",
+        "\n",
+        "피해량: 450(",
+        "AP.png",
+        ") [ 450 / 675 / 3500 ]"
+      ],
+      "skill_name": "영혼 폭탄",
+      "skill_image": "DA_18_Ahri.png",
+      "starting_mana": 20,
+      "skill_mana": 100,
+      "skill_attack_range": 4,
+      "health": [
+        850,
+        1530,
+        2754
+      ],
+      "attack_damage": [
+        40,
+        60,
+        90
+      ],
+      "damage_per_second": [
+        32,
+        48,
+        72
+      ],
+      "attack_speed": 0.8,
+      "armor": 40,
+      "magical_resistance": 40,
+      "stats": [
+        "피해량: 450(%i:scaleAP%) [450 / 675 / 3500]"
+      ],
+      "traits": [
+        {
+          "id": "gaehwa",
+          "name": "개화",
+          "image": "Trait_Icon_18_Blossom.TFT_Set18.png"
+        },
+        {
+          "id": "jumunsulsa",
+          "name": "주문술사",
+          "image": "Trait_Icon_18_Spellweaver.TFT_Set18.png"
+        }
+      ],
+      "items": [
+        {
+          "id": "",
+          "image": "DA_JeweledGauntlet.png"
+        },
+        {
+          "id": "",
+          "image": "DA_SpearOfShojin.png"
+        },
+        {
+          "id": "",
+          "image": "DA_StrikersFlail.png"
+        },
+        {
+          "id": "",
+          "image": "DA_BlueBuff.png"
+        },
+        {
+          "id": "",
+          "image": "DA_RabadonsDeathcap.png"
+        }
+      ],
+      "unlock": {
+        "description": "",
+        "type": false
+      }
+    },
+    {
+      "stt": 21,
       "id": "sibireu",
       "name": "시비르",
       "image": "tft18_sivir.tft_set18.jpg",
       "price": "4",
-      "average_position": "3.73",
-      "top_4_rate": "66.07",
-      "top_1_rate": "18.43",
-      "battle": "11,369",
+      "average_position": "3.8",
+      "top_4_rate": "64.44",
+      "top_1_rate": "18.21",
+      "battle": "48,962",
       "description_icon": [
         "거대한 십자날을 던져 현재 대상에게 205/305/1150(",
         "AD.png",
@@ -2958,23 +3362,23 @@
       ],
       "items": [
         {
-          "id": "muhanyi_daegeom",
+          "id": "",
           "image": "DA_InfinityEdge.png"
         },
         {
-          "id": "syojinyi_cang",
+          "id": "",
           "image": "DA_SpearOfShojin.png"
         },
         {
-          "id": "jugeumyi_geom",
+          "id": "",
           "image": "DA_Deathblade.png"
         },
         {
-          "id": "coehuyi_sogsagim",
+          "id": "",
           "image": "DA_LastWhisper.png"
         },
         {
-          "id": "bulgeun_deongguljeongryeong",
+          "id": "",
           "image": "DA_RedBuff.png"
         }
       ],
@@ -2984,36 +3388,29 @@
       }
     },
     {
-      "stt": 16,
-      "id": "soraka",
-      "name": "소라카",
-      "image": "tft18_soraka.tft_set18.jpg",
+      "stt": 22,
+      "id": "jaira",
+      "name": "자이라",
+      "image": "tft18_zyra.tft_set18.jpg",
       "price": "4",
-      "average_position": "3.7",
-      "top_4_rate": "68.15",
-      "top_1_rate": "17.92",
-      "battle": "7,372",
+      "average_position": "3.62",
+      "top_4_rate": "69.79",
+      "top_1_rate": "18.03",
+      "battle": "49,150",
       "description_icon": [
-        "현재 대상에게 별을 떨어뜨려 190/285/1000(",
-        "AP.png",
-        ")의 마법 피해를 입힙니다. 이전에 별이 떨어졌다면, 추가 별 3개를 떨어뜨려 각각 100/150/1000(",
+        "가장 가까운 적을 10회 공격하는 식물 2/2/4개를 전장 곳곳에 생성합니다. 공격할 때마다 37/55/225(",
         "AP.png",
         ")의 마법 피해를 입힙니다.",
         "\n",
         "\n",
-        "피해량: 190(",
+        "피해량: 37(",
         "AP.png",
-        ") [ 190 / 285 / 1000 ]",
-        "\n",
-        "\n",
-        "2차 피해량: 100(",
-        "AP.png",
-        ") [ 100 / 150 / 1000 ]"
+        ") [ 37 / 55 / 225 ]"
       ],
-      "skill_name": "별부름",
-      "skill_image": "DA_18_Soraka.png",
+      "skill_name": "맹렬한 성장",
+      "skill_image": "DA_18_Zyra.png",
       "starting_mana": 0,
-      "skill_mana": 30,
+      "skill_mana": 45,
       "skill_attack_range": 4,
       "health": [
         850,
@@ -3021,54 +3418,53 @@
         2754
       ],
       "attack_damage": [
+        40,
+        60,
+        90
+      ],
+      "damage_per_second": [
         30,
         45,
         68
-      ],
-      "damage_per_second": [
-        23,
-        34,
-        51
       ],
       "attack_speed": 0.75,
       "armor": 40,
       "magical_resistance": 40,
       "stats": [
-        "피해량: 190(%i:scaleAP%) [190 / 285 / 1000]",
-        "2차 피해량: 100(%i:scaleAP%) [100 / 150 / 1000]"
+        "피해량: 37(%i:scaleAP%) [37 / 55 / 225]"
       ],
       "traits": [
         {
-          "id": "ceohyeongja",
-          "name": "처형자",
-          "image": "Trait_Icon_18_Executioner.TFT_Set18.png"
+          "id": "sohwansa",
+          "name": "소환사",
+          "image": "Trait_Icon_18_Summoner.TFT_Set18.png"
         },
         {
-          "id": "cimyeongjeogin_ggoc",
-          "name": "치명적인 꽃",
-          "image": "Trait_Icon_18_FloraFatalis.TFT_Set18.png"
+          "id": "gasiyi_yeoin",
+          "name": "가시의 여인",
+          "image": "Trait_Icon_18_ZyraOrigin.TFT_Set18.png"
         }
       ],
       "items": [
         {
-          "id": "rabadonyi_jugeummoja",
-          "image": "DA_RabadonsDeathcap.png"
-        },
-        {
-          "id": "syojinyi_cang",
+          "id": "",
           "image": "DA_SpearOfShojin.png"
         },
         {
-          "id": "naesyeoyi_ibbal",
-          "image": "DA_NashorsTooth.png"
+          "id": "",
+          "image": "DA_VoidStaff.png"
         },
         {
-          "id": "boseog_geonteulris",
+          "id": "",
           "image": "DA_JeweledGauntlet.png"
         },
         {
-          "id": "jeogeunghyeong_tugu",
-          "image": "DA_AdaptiveHelm.png"
+          "id": "",
+          "image": "DA_Morellonomicon.png"
+        },
+        {
+          "id": "",
+          "image": "DA_RabadonsDeathcap.png"
         }
       ],
       "unlock": {
@@ -3077,15 +3473,15 @@
       }
     },
     {
-      "stt": 17,
+      "stt": 23,
       "id": "rengga",
       "name": "렝가",
       "image": "tft18_rengar.tft_set18.jpg",
       "price": "3",
-      "average_position": "4.01",
-      "top_4_rate": "61.18",
-      "top_1_rate": "17.91",
-      "battle": "3,295",
+      "average_position": "4.05",
+      "top_4_rate": "59.79",
+      "top_1_rate": "18.02",
+      "battle": "15,607",
       "description_icon": [
         "3칸 내 체력 비율이 가장 낮은 적에게 도약하고 찔러 255/385/615(",
         "AD.png",
@@ -3147,23 +3543,23 @@
       ],
       "items": [
         {
-          "id": "bamyi_ggeutjarag",
+          "id": "",
           "image": "DA_EdgeOfNight.png"
         },
         {
-          "id": "guinsuyi_gyeognogeom",
+          "id": "",
           "image": "DA_GuinsoosRageblade.png"
         },
         {
-          "id": "geoinyi_gyeolyi",
+          "id": "",
           "image": "DA_TitansResolve.png"
         },
         {
-          "id": "pibaragi",
+          "id": "",
           "image": "DA_Bloodthirster.png"
         },
         {
-          "id": "seuteragyi_dojeon",
+          "id": "",
           "image": "DA_SteraksGage.png"
         }
       ],
@@ -3173,15 +3569,205 @@
       }
     },
     {
-      "stt": 18,
+      "stt": 24,
+      "id": "rilria",
+      "name": "릴리아",
+      "image": "tft18_lillia.tft_set18.jpg",
+      "price": "4",
+      "average_position": "3.86",
+      "top_4_rate": "63.16",
+      "top_1_rate": "17.00",
+      "battle": "45,266",
+      "description_icon": [
+        "체력을 325/475/800(",
+        "AP.png",
+        ") 회복하고 주변 적에게 나비 4마리를 날려 보냅니다. 적중한 적은 90/135/2000(",
+        "AP.png",
+        ")의 마법 피해를 입고 1.5/1.75/8초 동안 수면 상태가 됩니다. 1000의 피해를 입으면 잠에서 깨어나며 추가로 최대 체력의 10%만큼 마법 피해를 입습니다.",
+        "\n",
+        "\n",
+        "체력 회복량: 325(",
+        "AP.png",
+        ") [ 325 / 475 / 800 ]",
+        "\n",
+        "\n",
+        "피해량: 90(",
+        "AP.png",
+        ") [ 90 / 135 / 2000 ]",
+        "\n",
+        "\n",
+        "수면 지속시간: [ 1.5 / 1.75 / 8 ]"
+      ],
+      "skill_name": "감미로운 자장가",
+      "skill_image": "DA_18_Lillia.png",
+      "starting_mana": 40,
+      "skill_mana": 140,
+      "skill_attack_range": 1,
+      "health": [
+        1300,
+        2340,
+        4212
+      ],
+      "attack_damage": [
+        40,
+        60,
+        90
+      ],
+      "damage_per_second": [
+        26,
+        39,
+        59
+      ],
+      "attack_speed": 0.65,
+      "armor": 60,
+      "magical_resistance": 60,
+      "stats": [
+        "체력 회복량: 325(%i:scaleAP%) [325 / 475 / 800]",
+        "피해량: 90(%i:scaleAP%) [90 / 135 / 2000]",
+        "수면 지속시간: [1.5 / 1.75 / 8]"
+      ],
+      "traits": [
+        {
+          "id": "eomhodae",
+          "name": "엄호대",
+          "image": "Trait_Icon_18_Defender.TFT_Set18.png"
+        },
+        {
+          "id": "yojeong",
+          "name": "요정",
+          "image": "Trait_Icon_18_Fae.TFT_Set18.png"
+        }
+      ],
+      "items": [
+        {
+          "id": "",
+          "image": "DA_ProtectorsVow.png"
+        },
+        {
+          "id": "",
+          "image": "DA_GargoyleStoneplate.png"
+        },
+        {
+          "id": "",
+          "image": "DA_SunfireCape.png"
+        },
+        {
+          "id": "",
+          "image": "DA_WarmogsArmor.png"
+        },
+        {
+          "id": "",
+          "image": "DA_Evenshroud.png"
+        }
+      ],
+      "unlock": {
+        "description": "",
+        "type": false
+      }
+    },
+    {
+      "stt": 25,
+      "id": "soraka",
+      "name": "소라카",
+      "image": "tft18_soraka.tft_set18.jpg",
+      "price": "4",
+      "average_position": "3.79",
+      "top_4_rate": "65.73",
+      "top_1_rate": "16.79",
+      "battle": "32,607",
+      "description_icon": [
+        "현재 대상에게 별을 떨어뜨려 190/285/1000(",
+        "AP.png",
+        ")의 마법 피해를 입힙니다. 이전에 별이 떨어졌다면, 추가 별 3개를 떨어뜨려 각각 100/150/1000(",
+        "AP.png",
+        ")의 마법 피해를 입힙니다.",
+        "\n",
+        "\n",
+        "피해량: 190(",
+        "AP.png",
+        ") [ 190 / 285 / 1000 ]",
+        "\n",
+        "\n",
+        "2차 피해량: 100(",
+        "AP.png",
+        ") [ 100 / 150 / 1000 ]"
+      ],
+      "skill_name": "별부름",
+      "skill_image": "DA_18_Soraka.png",
+      "starting_mana": 0,
+      "skill_mana": 30,
+      "skill_attack_range": 4,
+      "health": [
+        850,
+        1530,
+        2754
+      ],
+      "attack_damage": [
+        30,
+        45,
+        68
+      ],
+      "damage_per_second": [
+        23,
+        34,
+        51
+      ],
+      "attack_speed": 0.75,
+      "armor": 40,
+      "magical_resistance": 40,
+      "stats": [
+        "피해량: 190(%i:scaleAP%) [190 / 285 / 1000]",
+        "2차 피해량: 100(%i:scaleAP%) [100 / 150 / 1000]"
+      ],
+      "traits": [
+        {
+          "id": "ceohyeongja",
+          "name": "처형자",
+          "image": "Trait_Icon_18_Executioner.TFT_Set18.png"
+        },
+        {
+          "id": "cimyeongjeogin_ggoc",
+          "name": "치명적인 꽃",
+          "image": "Trait_Icon_18_FloraFatalis.TFT_Set18.png"
+        }
+      ],
+      "items": [
+        {
+          "id": "",
+          "image": "DA_RabadonsDeathcap.png"
+        },
+        {
+          "id": "",
+          "image": "DA_SpearOfShojin.png"
+        },
+        {
+          "id": "",
+          "image": "DA_NashorsTooth.png"
+        },
+        {
+          "id": "",
+          "image": "DA_JeweledGauntlet.png"
+        },
+        {
+          "id": "",
+          "image": "DA_AdaptiveHelm.png"
+        }
+      ],
+      "unlock": {
+        "description": "",
+        "type": false
+      }
+    },
+    {
+      "stt": 26,
       "id": "amumu",
       "name": "아무무",
       "image": "tft18_amumu.tft_set18.jpg",
       "price": "4",
-      "average_position": "4.16",
-      "top_4_rate": "54.32",
-      "top_1_rate": "17.60",
-      "battle": "16,378",
+      "average_position": "4.23",
+      "top_4_rate": "52.86",
+      "top_1_rate": "16.56",
+      "battle": "69,031",
       "description_icon": [
         "기본 지속 효과: 매초 29/52/172(",
         "AP.png",
@@ -3261,23 +3847,23 @@
       ],
       "items": [
         {
-          "id": "gagoil_dolgabos",
+          "id": "",
           "image": "DA_GargoyleStoneplate.png"
         },
         {
-          "id": "weomogeuyi_gabos",
+          "id": "",
           "image": "DA_WarmogsArmor.png"
         },
         {
-          "id": "jeongryeongyi_hyeongsang",
+          "id": "",
           "image": "DA_SpiritVisage.png"
         },
         {
-          "id": "suhojayi_maengse",
+          "id": "",
           "image": "DA_ProtectorsVow.png"
         },
         {
-          "id": "taeyangbulggoc_mangto",
+          "id": "",
           "image": "DA_SunfireCape.png"
         }
       ],
@@ -3287,15 +3873,122 @@
       }
     },
     {
-      "stt": 19,
+      "stt": 27,
+      "id": "gamsija",
+      "name": "감시자",
+      "image": "AncientSentinel_1783677366-Sentinel.jpg",
+      "price": "4",
+      "average_position": "3.86",
+      "top_4_rate": "63.63",
+      "top_1_rate": "16.31",
+      "battle": "93,977",
+      "description_icon": [
+        "4초 동안 530/734/2421(",
+        "AP.png",
+        "Health.png",
+        ")의 보호막을 얻습니다. 지면을 강타해 적이 가장 많은 방향으로 균열을 만들어냅니다. 적중한 적은 잠시 공중에 띄워지고 100/150/3500(",
+        "AP.png",
+        ")의 마법 피해를 입으며 10 마나 강탈이 적용됩니다.",
+        "\n",
+        "\n",
+        "블루 버프: 파수꾼이 스킬을 사용할 때마다 아군이 마나 재생을 2 얻습니다.",
+        "\n",
+        "\n",
+        "마나 강탈: 다음 스킬 사용 시 마나 소모량 증가",
+        "\n",
+        "\n",
+        "보호막: 530=130(",
+        "Health.png",
+        ")+400(",
+        "AP.png",
+        ") [ 400 / 500 / 2000 ]",
+        "\n",
+        "\n",
+        "피해량: 100(",
+        "AP.png",
+        ") [ 100 / 150 / 3500 ]"
+      ],
+      "skill_name": "하늘빛 충격파",
+      "skill_image": "AncientSentinel_1785314249-tft16_pve_bluegolem_square.png",
+      "starting_mana": 60,
+      "skill_mana": 150,
+      "skill_attack_range": 1,
+      "health": [
+        1300,
+        2340,
+        4212
+      ],
+      "attack_damage": [
+        75,
+        113,
+        169
+      ],
+      "damage_per_second": [
+        45,
+        68,
+        101
+      ],
+      "attack_speed": 0.6,
+      "armor": 60,
+      "magical_resistance": 60,
+      "stats": [
+        "보호막: 530=130(%i:scaleHealth%)+400(%i:scaleAP%) [400 / 500 / 2000]",
+        "피해량: 100(%i:scaleAP%) [100 / 150 / 3500]"
+      ],
+      "traits": [
+        {
+          "id": "giweonja",
+          "name": "기원자",
+          "image": "Trait_Icon_18_Invoker.TFT_Set18.png"
+        },
+        {
+          "id": "hyeobgogyasu",
+          "name": "협곡야수",
+          "image": "Trait_Icon_18_Riftbeast.TFT_Set18.png"
+        },
+        {
+          "id": "seonbongdae",
+          "name": "선봉대",
+          "image": "Trait_Icon_18_Vanguard.TFT_Set18.png"
+        }
+      ],
+      "items": [
+        {
+          "id": "",
+          "image": "DA_GargoyleStoneplate.png"
+        },
+        {
+          "id": "",
+          "image": "DA_ProtectorsVow.png"
+        },
+        {
+          "id": "",
+          "image": "DA_WarmogsArmor.png"
+        },
+        {
+          "id": "",
+          "image": "DA_SpiritVisage.png"
+        },
+        {
+          "id": "",
+          "image": "DA_AdaptiveHelm.png"
+        }
+      ],
+      "unlock": {
+        "description": "",
+        "type": false
+      }
+    },
+    {
+      "stt": 28,
       "id": "moreugana",
       "name": "모르가나",
       "image": "tft18_morgana.tft_set18.jpg",
       "price": "4",
-      "average_position": "3.74",
-      "top_4_rate": "67.99",
-      "top_1_rate": "17.28",
-      "battle": "9,099",
+      "average_position": "3.9",
+      "top_4_rate": "63.9",
+      "top_1_rate": "16.12",
+      "battle": "37,890",
       "description_icon": [
         "기본 지속 효과: 모든 피해 흡혈을 25% 얻습니다.",
         "\n",
@@ -3365,23 +4058,23 @@
       ],
       "items": [
         {
-          "id": "morelronomikon",
+          "id": "",
           "image": "DA_Morellonomicon.png"
         },
         {
-          "id": "gongheoyi_jipangi",
+          "id": "",
           "image": "DA_VoidStaff.png"
         },
         {
-          "id": "rabadonyi_jugeummoja",
+          "id": "",
           "image": "DA_RabadonsDeathcap.png"
         },
         {
-          "id": "boseog_geonteulris",
+          "id": "",
           "image": "DA_JeweledGauntlet.png"
         },
         {
-          "id": "jeogeunghyeong_tugu",
+          "id": "",
           "image": "DA_AdaptiveHelm.png"
         }
       ],
@@ -3391,95 +4084,95 @@
       }
     },
     {
-      "stt": 20,
-      "id": "rilria",
-      "name": "릴리아",
-      "image": "tft18_lillia.tft_set18.jpg",
+      "stt": 29,
+      "id": "deongguljeongryeong",
+      "name": "덩굴정령",
+      "image": "Brambleback_1783677203-Brambleback.jpg",
       "price": "4",
-      "average_position": "3.84",
-      "top_4_rate": "63.87",
-      "top_1_rate": "16.71",
-      "battle": "9,452",
+      "average_position": "3.67",
+      "top_4_rate": "70.18",
+      "top_1_rate": "15.17",
+      "battle": "52,455",
       "description_icon": [
-        "체력을 325/475/800(",
+        "기본 지속 효과: 대상이 사망하면 다음 대상에게 도약해 170/255/600(",
+        "AD.png",
+        ")의 물리 피해를 입힙니다.",
+        "\n",
+        "\n",
+        "사용 시: 8초 동안 공격력을 80%/80%/280% 얻습니다. 지속시간 동안 방어력을 40%/40%/60%(",
         "AP.png",
-        ") 회복하고 주변 적에게 나비 4마리를 날려 보냅니다. 적중한 적은 90/135/2000(",
-        "AP.png",
-        ")의 마법 피해를 입고 1.5/1.75/8초 동안 수면 상태가 됩니다. 1000의 피해를 입으면 잠에서 깨어나며 추가로 최대 체력의 10%만큼 마법 피해를 입습니다.",
+        ") 무시합니다.",
         "\n",
         "\n",
-        "체력 회복량: 325(",
-        "AP.png",
-        ") [ 325 / 475 / 800 ]",
+        "레드 버프: 기본 공격 시 적에게 1% 화상을 적용하고 붉은 덩굴정령이 최대 체력의 4%만큼 체력을 회복합니다.",
         "\n",
         "\n",
-        "피해량: 90(",
-        "AP.png",
-        ") [ 90 / 135 / 2000 ]",
+        "도약 피해량: 170(",
+        "AD.png",
+        ") [ 170 / 255 / 600 ]",
         "\n",
         "\n",
-        "수면 지속시간: [ 1.5 / 1.75 / 8 ]"
+        "추가 공격력: 80% [80% / 80% / 280%]"
       ],
-      "skill_name": "감미로운 자장가",
-      "skill_image": "DA_18_Lillia.png",
-      "starting_mana": 40,
-      "skill_mana": 140,
+      "skill_name": "핏빛 분노",
+      "skill_image": "Brambleback_1785307817-tft16_pve_redgolem_square.png",
+      "starting_mana": 0,
+      "skill_mana": 40,
       "skill_attack_range": 1,
       "health": [
-        1300,
-        2340,
-        4212
+        1100,
+        1980,
+        3564
       ],
       "attack_damage": [
-        40,
-        60,
-        90
+        115,
+        173,
+        259
       ],
       "damage_per_second": [
-        26,
-        39,
-        59
+        63,
+        95,
+        142
       ],
-      "attack_speed": 0.65,
-      "armor": 60,
-      "magical_resistance": 60,
+      "attack_speed": 0.55,
+      "armor": 65,
+      "magical_resistance": 65,
       "stats": [
-        "체력 회복량: 325(%i:scaleAP%) [325 / 475 / 800]",
-        "피해량: 90(%i:scaleAP%) [90 / 135 / 2000]",
-        "수면 지속시간: [1.5 / 1.75 / 8]"
+        "도약 피해량: 170(%i:scaleAD%) [170 / 255 / 600]",
+        "추가 공격력: 80% [80% / 80% / 280%]"
       ],
       "traits": [
         {
-          "id": "eomhodae",
-          "name": "엄호대",
-          "image": "Trait_Icon_18_Defender.TFT_Set18.png"
+          "id": "yagtalja",
+          "name": "약탈자",
+          "image": "Trait_Icon_18_Ravager.TFT_Set18.png"
         },
         {
-          "id": "yojeong",
-          "name": "요정",
-          "image": "Trait_Icon_18_Fae.TFT_Set18.png"
+          "id": "hyeobgogyasu",
+          "name": "협곡야수",
+          "image": "Trait_Icon_18_Riftbeast.TFT_Set18.png"
         }
       ],
       "items": [
         {
-          "id": "suhojayi_maengse",
-          "image": "DA_ProtectorsVow.png"
+          "id": "",
+          "image": "DA_EdgeOfNight.png"
         },
         {
-          "id": "gagoil_dolgabos",
-          "image": "DA_GargoyleStoneplate.png"
+          "id": "",
+          "image": "DA_SteraksGage.png"
         },
         {
-          "id": "taeyangbulggoc_mangto",
-          "image": "DA_SunfireCape.png"
+          "id": "",
+          "image": "DA_Quicksilver.png"
         },
         {
-          "id": "weomogeuyi_gabos",
-          "image": "DA_WarmogsArmor.png"
+          "id": "",
+          "image": "DA_Bloodthirster.png"
         },
         {
-          "id": "jeonyeoggabju",
-          "image": "DA_Evenshroud.png"
+          "id": "",
+          "image": "DA_GiantSlayer.png"
         }
       ],
       "unlock": {
@@ -3488,15 +4181,115 @@
       }
     },
     {
-      "stt": 21,
+      "stt": 30,
+      "id": "reubeulrang",
+      "name": "르블랑",
+      "image": "tft18_leblanc.tft_set18.jpg",
+      "price": "2",
+      "average_position": "4.32",
+      "top_4_rate": "54.28",
+      "top_1_rate": "15.13",
+      "battle": "49,006",
+      "description_icon": [
+        "기본 지속 효과: 플레이어 대상 전투 후, 가장 강한 아군 르블랑이 10%/15%/40% 확률로 전장에 있는 아군의 복사본 1명을 생성합니다. 이 확률은 처치 관여마다 4% 증가합니다.",
+        "\n",
+        "\n",
+        "사용 시: 현재 대상에게 거울 환영을 보내 250/375/565(",
+        "AP.png",
+        ")의 마법 피해를 입히고 인접한 적에게 85/130/190(",
+        "AP.png",
+        ")의 피해를 입힙니다.",
+        "\n",
+        "\n",
+        "복사 확률: 10% [10% / 15% / 40%]",
+        "\n",
+        "\n",
+        "피해량: 250(",
+        "AP.png",
+        ") [ 250 / 375 / 565 ]",
+        "\n",
+        "\n",
+        "2차 피해량: 85(",
+        "AP.png",
+        ") [ 85 / 130 / 190 ]"
+      ],
+      "skill_name": "거울 환영",
+      "skill_image": "DA_18_LeBlanc.png",
+      "starting_mana": 0,
+      "skill_mana": 40,
+      "skill_attack_range": 4,
+      "health": [
+        550,
+        990,
+        1782
+      ],
+      "attack_damage": [
+        30,
+        45,
+        68
+      ],
+      "damage_per_second": [
+        21,
+        32,
+        47
+      ],
+      "attack_speed": 0.7,
+      "armor": 30,
+      "magical_resistance": 30,
+      "stats": [
+        "복사 확률: 10% [10% / 15% / 40%]",
+        "피해량: 250(%i:scaleAP%) [250 / 375 / 565]",
+        "2차 피해량: 85(%i:scaleAP%) [85 / 130 / 190]"
+      ],
+      "traits": [
+        {
+          "id": "namujeongryeong",
+          "name": "나무정령",
+          "image": "Trait_Icon_18_Elderwood.TFT_Set18.png"
+        },
+        {
+          "id": "jumunsulsa",
+          "name": "주문술사",
+          "image": "Trait_Icon_18_Spellweaver.TFT_Set18.png"
+        }
+      ],
+      "items": [
+        {
+          "id": "",
+          "image": "DA_JeweledGauntlet.png"
+        },
+        {
+          "id": "",
+          "image": "DA_VoidStaff.png"
+        },
+        {
+          "id": "",
+          "image": "DA_HextechGunblade.png"
+        },
+        {
+          "id": "",
+          "image": "DA_NashorsTooth.png"
+        },
+        {
+          "id": "",
+          "image": "DA_SpearOfShojin.png"
+        }
+      ],
+      "unlock": {
+        "description": "",
+        "type": false
+      }
+    },
+    {
+      "stt": 31,
       "id": "alriseuta",
       "name": "알리스타",
       "image": "tft18_alistar.tft_set18.jpg",
       "price": "2",
-      "average_position": "4.38",
-      "top_4_rate": "51.24",
-      "top_1_rate": "14.86",
-      "battle": "13,252",
+      "average_position": "4.39",
+      "top_4_rate": "51.33",
+      "top_1_rate": "14.95",
+      "battle": "59,154",
       "description_icon": [
         "포효하며 체력을 276/397/566(",
         "Health.png",
@@ -3566,23 +4359,23 @@
       ],
       "items": [
         {
-          "id": "gagoil_dolgabos",
+          "id": "",
           "image": "DA_GargoyleStoneplate.png"
         },
         {
-          "id": "jeongryeongyi_hyeongsang",
+          "id": "",
           "image": "DA_SpiritVisage.png"
         },
         {
-          "id": "weomogeuyi_gabos",
-          "image": "DA_WarmogsArmor.png"
-        },
-        {
-          "id": "taeyangbulggoc_mangto",
+          "id": "",
           "image": "DA_SunfireCape.png"
         },
         {
-          "id": "suhojayi_maengse",
+          "id": "",
+          "image": "DA_WarmogsArmor.png"
+        },
+        {
+          "id": "",
           "image": "DA_ProtectorsVow.png"
         }
       ],
@@ -3592,115 +4385,15 @@
       }
     },
     {
-      "stt": 22,
-      "id": "reubeulrang",
-      "name": "르블랑",
-      "image": "tft18_leblanc.tft_set18.jpg",
-      "price": "2",
-      "average_position": "4.31",
-      "top_4_rate": "54.86",
-      "top_1_rate": "14.79",
-      "battle": "10,956",
-      "description_icon": [
-        "기본 지속 효과: 플레이어 대상 전투 후, 가장 강한 아군 르블랑이 10%/15%/40% 확률로 전장에 있는 아군의 복사본 1명을 생성합니다. 이 확률은 처치 관여마다 4% 증가합니다.",
-        "\n",
-        "\n",
-        "사용 시: 현재 대상에게 거울 환영을 보내 250/375/565(",
-        "AP.png",
-        ")의 마법 피해를 입히고 인접한 적에게 85/130/190(",
-        "AP.png",
-        ")의 피해를 입힙니다.",
-        "\n",
-        "\n",
-        "복사 확률: 10% [10% / 15% / 40%]",
-        "\n",
-        "\n",
-        "피해량: 250(",
-        "AP.png",
-        ") [ 250 / 375 / 565 ]",
-        "\n",
-        "\n",
-        "2차 피해량: 85(",
-        "AP.png",
-        ") [ 85 / 130 / 190 ]"
-      ],
-      "skill_name": "거울 환영",
-      "skill_image": "DA_18_LeBlanc.png",
-      "starting_mana": 0,
-      "skill_mana": 40,
-      "skill_attack_range": 4,
-      "health": [
-        550,
-        990,
-        1782
-      ],
-      "attack_damage": [
-        30,
-        45,
-        68
-      ],
-      "damage_per_second": [
-        21,
-        32,
-        47
-      ],
-      "attack_speed": 0.7,
-      "armor": 30,
-      "magical_resistance": 30,
-      "stats": [
-        "복사 확률: 10% [10% / 15% / 40%]",
-        "피해량: 250(%i:scaleAP%) [250 / 375 / 565]",
-        "2차 피해량: 85(%i:scaleAP%) [85 / 130 / 190]"
-      ],
-      "traits": [
-        {
-          "id": "namujeongryeong",
-          "name": "나무정령",
-          "image": "Trait_Icon_18_Elderwood.TFT_Set18.png"
-        },
-        {
-          "id": "jumunsulsa",
-          "name": "주문술사",
-          "image": "Trait_Icon_18_Spellweaver.TFT_Set18.png"
-        }
-      ],
-      "items": [
-        {
-          "id": "boseog_geonteulris",
-          "image": "DA_JeweledGauntlet.png"
-        },
-        {
-          "id": "gongheoyi_jipangi",
-          "image": "DA_VoidStaff.png"
-        },
-        {
-          "id": "mabeobgonghag_conggeom",
-          "image": "DA_HextechGunblade.png"
-        },
-        {
-          "id": "naesyeoyi_ibbal",
-          "image": "DA_NashorsTooth.png"
-        },
-        {
-          "id": "syojinyi_cang",
-          "image": "DA_SpearOfShojin.png"
-        }
-      ],
-      "unlock": {
-        "description": "",
-        "type": false
-      }
-    },
-    {
-      "stt": 23,
+      "stt": 32,
       "id": "kajigseu",
       "name": "카직스",
       "image": "tft18_khazix.tft_set18.jpg",
       "price": "3",
-      "average_position": "4.21",
-      "top_4_rate": "57.81",
-      "top_1_rate": "14.47",
-      "battle": "3,131",
+      "average_position": "4.25",
+      "top_4_rate": "56.56",
+      "top_1_rate": "14.63",
+      "battle": "14,189",
       "description_icon": [
         "3칸 내 가장 멀리 있는 적에게 도약해 285/400/580(",
         "AP.png",
@@ -3754,23 +4447,23 @@
       ],
       "items": [
         {
-          "id": "jeongyiyi_songil",
+          "id": "",
           "image": "DA_HandOfJustice.png"
         },
         {
-          "id": "bamyi_ggeutjarag",
+          "id": "",
           "image": "DA_EdgeOfNight.png"
         },
         {
-          "id": "rabadonyi_jugeummoja",
+          "id": "",
           "image": "DA_RabadonsDeathcap.png"
         },
         {
-          "id": "boseog_geonteulris",
+          "id": "",
           "image": "DA_JeweledGauntlet.png"
         },
         {
-          "id": "pibaragi",
+          "id": "",
           "image": "DA_Bloodthirster.png"
         }
       ],
@@ -3780,15 +4473,115 @@
       }
     },
     {
-      "stt": 24,
+      "stt": 33,
+      "id": "nidalri",
+      "name": "니달리",
+      "image": "tft18_nidalee.tft_set18.jpg",
+      "price": "4",
+      "average_position": "3.75",
+      "top_4_rate": "67.72",
+      "top_1_rate": "14.21",
+      "battle": "22,086",
+      "description_icon": [
+        "적응가 (",
+        "AP.png",
+        "): 다음 기본 공격 3회 동안 공격 속도를 150% 얻습니다. 이 기본 공격이 투창으로 대체되고 170/255/2000(",
+        "AP.png",
+        ")의 마법 피해를 입힙니다. 3번째 기본 공격은 대신 아이템을 가장 적게 장착한 가장 멀리 있는 적을 대상으로 지정해 285/425/3000(",
+        "AP.png",
+        ")의 마법 피해를 입힙니다.",
+        "\n",
+        "\n",
+        "적응가 (",
+        "AD.png",
+        "): 적을 휩쓰는 근접 쿠거 암살자로 변신합니다.",
+        "\n",
+        "\n",
+        "피해량: 170(",
+        "AP.png",
+        ") [ 170 / 255 / 2000 ]",
+        "\n",
+        "\n",
+        "1차 피해량:",
+        "AD.png",
+        ": [ 285 / 425 / 3000 ]"
+      ],
+      "skill_name": "창 투척",
+      "skill_image": "DA_Nidalee18_AP.png",
+      "starting_mana": 0,
+      "skill_mana": 45,
+      "skill_attack_range": 1,
+      "health": [
+        850,
+        1530,
+        2754
+      ],
+      "attack_damage": [
+        35,
+        53,
+        79
+      ],
+      "damage_per_second": [
+        28,
+        42,
+        63
+      ],
+      "attack_speed": 0.8,
+      "armor": 30,
+      "magical_resistance": 30,
+      "stats": [
+        "피해량: 170(%i:scaleAP%) [170 / 255 / 2000]",
+        "1차 피해량: %i:scaleAD%: [285 / 425 / 3000]"
+      ],
+      "traits": [
+        {
+          "id": "jeogeungga",
+          "name": "적응가",
+          "image": "Trait_Icon_18_Adaptor.TFT_Set18.png"
+        },
+        {
+          "id": "weonsi",
+          "name": "원시",
+          "image": "Trait_Icon_18_Primal.TFT_Set18.png"
+        }
+      ],
+      "items": [
+        {
+          "id": "",
+          "image": "DA_GuinsoosRageblade.png"
+        },
+        {
+          "id": "",
+          "image": "DA_JeweledGauntlet.png"
+        },
+        {
+          "id": "",
+          "image": "DA_StrikersFlail.png"
+        },
+        {
+          "id": "",
+          "image": "DA_RabadonsDeathcap.png"
+        },
+        {
+          "id": "",
+          "image": "DA_GiantSlayer.png"
+        }
+      ],
+      "unlock": {
+        "description": "",
+        "type": false
+      }
+    },
+    {
+      "stt": 34,
       "id": "timo",
       "name": "티모",
       "image": "tft18_teemo.tft_set18.jpg",
       "price": "2",
-      "average_position": "3.72",
-      "top_4_rate": "70.17",
-      "top_1_rate": "14.15",
-      "battle": "3,145",
+      "average_position": "3.8",
+      "top_4_rate": "68.21",
+      "top_1_rate": "14.02",
+      "battle": "15,641",
       "description_icon": [
         "가장 가까운 적 3명에게 버섯 다발 2개를 던져 60/90/135(",
         "AP.png",
@@ -3865,98 +4658,94 @@
       }
     },
     {
-      "stt": 25,
-      "id": "nidalri",
-      "name": "니달리",
-      "image": "tft18_nidalee.tft_set18.jpg",
-      "price": "4",
-      "average_position": "3.66",
-      "top_4_rate": "70.83",
-      "top_1_rate": "14.11",
-      "battle": "5,232",
+      "stt": 35,
+      "id": "kareuma",
+      "name": "카르마",
+      "image": "tft18_karma.tft_set18.jpg",
+      "price": "1",
+      "average_position": "4.46",
+      "top_4_rate": "51.22",
+      "top_1_rate": "13.81",
+      "battle": "53,060",
       "description_icon": [
-        "적응가 (",
+        "현재 대상을 연결해 1.5초 동안 280/420/630(",
         "AP.png",
-        "): 다음 기본 공격 3회 동안 공격 속도를 150% 얻습니다. 이 기본 공격이 투창으로 대체되고 170/255/2000(",
+        ")의 마법 피해를 입힙니다. 이후 주변에 힘을 폭발시켜 반경 1칸 이내 모든 적에게 120/180/270(",
         "AP.png",
-        ")의 마법 피해를 입힙니다. 3번째 기본 공격은 대신 아이템을 가장 적게 장착한 가장 멀리 있는 적을 대상으로 지정해 285/425/3000(",
+        ")의 마법 피해를 입히고 2초 동안 30% 둔화를 적용합니다.",
+        "\n",
+        "\n",
+        "둔화: 공격 속도 감소",
+        "\n",
+        "\n",
+        "피해량: 280(",
         "AP.png",
-        ")의 마법 피해를 입힙니다.",
+        ") [ 280 / 420 / 630 ]",
         "\n",
         "\n",
-        "적응가 (",
-        "AD.png",
-        "): 적을 휩쓰는 근접 쿠거 암살자로 변신합니다.",
-        "\n",
-        "\n",
-        "피해량: 170(",
+        "폭발 피해량: 120(",
         "AP.png",
-        ") [ 170 / 255 / 2000 ]",
-        "\n",
-        "\n",
-        "1차 피해량:",
-        "AD.png",
-        ": [ 285 / 425 / 3000 ]"
+        ") [ 120 / 180 / 270 ]"
       ],
-      "skill_name": "창 투척",
-      "skill_image": "DA_Nidalee18_AP.png",
+      "skill_name": "업보의 결속",
+      "skill_image": "DA_Karma18.png",
       "starting_mana": 0,
-      "skill_mana": 45,
-      "skill_attack_range": 1,
+      "skill_mana": 40,
+      "skill_attack_range": 4,
       "health": [
-        850,
-        1530,
-        2754
+        500,
+        900,
+        1620
       ],
       "attack_damage": [
-        35,
-        53,
-        79
+        25,
+        38,
+        56
       ],
       "damage_per_second": [
-        28,
-        42,
-        63
+        18,
+        26,
+        39
       ],
-      "attack_speed": 0.8,
-      "armor": 30,
-      "magical_resistance": 30,
+      "attack_speed": 0.7,
+      "armor": 25,
+      "magical_resistance": 25,
       "stats": [
-        "피해량: 170(%i:scaleAP%) [170 / 255 / 2000]",
-        "1차 피해량: %i:scaleAD%: [285 / 425 / 3000]"
+        "피해량: 280(%i:scaleAP%) [280 / 420 / 630]",
+        "폭발 피해량: 120(%i:scaleAP%) [120 / 180 / 270]"
       ],
       "traits": [
         {
-          "id": "jeogeungga",
-          "name": "적응가",
-          "image": "Trait_Icon_18_Adaptor.TFT_Set18.png"
+          "id": "gaehwa",
+          "name": "개화",
+          "image": "Trait_Icon_18_Blossom.TFT_Set18.png"
         },
         {
-          "id": "weonsi",
-          "name": "원시",
-          "image": "Trait_Icon_18_Primal.TFT_Set18.png"
+          "id": "jumunsulsa",
+          "name": "주문술사",
+          "image": "Trait_Icon_18_Spellweaver.TFT_Set18.png"
         }
       ],
       "items": [
         {
-          "id": "guinsuyi_gyeognogeom",
-          "image": "DA_GuinsoosRageblade.png"
-        },
-        {
-          "id": "boseog_geonteulris",
+          "id": "",
           "image": "DA_JeweledGauntlet.png"
         },
         {
-          "id": "tagyeogdaeyi_ceoltoe",
-          "image": "DA_StrikersFlail.png"
+          "id": "",
+          "image": "DA_VoidStaff.png"
         },
         {
-          "id": "rabadonyi_jugeummoja",
-          "image": "DA_RabadonsDeathcap.png"
+          "id": "",
+          "image": "DA_HextechGunblade.png"
         },
         {
-          "id": "geoin_hagsalja",
-          "image": "DA_GiantSlayer.png"
+          "id": "",
+          "image": "DA_NashorsTooth.png"
+        },
+        {
+          "id": "",
+          "image": "DA_Morellonomicon.png"
         }
       ],
       "unlock": {
@@ -3965,15 +4754,15 @@
       }
     },
     {
-      "stt": 26,
+      "stt": 36,
       "id": "hekarim",
       "name": "헤카림",
       "image": "tft18_hecarim.tft_set18.jpg",
       "price": "3",
-      "average_position": "4.19",
-      "top_4_rate": "57.71",
-      "top_1_rate": "13.89",
-      "battle": "18,679",
+      "average_position": "4.25",
+      "top_4_rate": "56.51",
+      "top_1_rate": "13.76",
+      "battle": "82,246",
       "description_icon": [
         "3초 동안 방어력 및 마법 저항력을 50 얻고 지속시간에 걸쳐 375/475/685(",
         "AP.png",
@@ -4036,23 +4825,23 @@
       ],
       "items": [
         {
-          "id": "gagoil_dolgabos",
+          "id": "",
           "image": "DA_GargoyleStoneplate.png"
         },
         {
-          "id": "weomogeuyi_gabos",
+          "id": "",
           "image": "DA_WarmogsArmor.png"
         },
         {
-          "id": "jeongryeongyi_hyeongsang",
+          "id": "",
           "image": "DA_SpiritVisage.png"
         },
         {
-          "id": "taeyangbulggoc_mangto",
+          "id": "",
           "image": "DA_SunfireCape.png"
         },
         {
-          "id": "suhojayi_maengse",
+          "id": "",
           "image": "DA_ProtectorsVow.png"
         }
       ],
@@ -4062,206 +4851,15 @@
       }
     },
     {
-      "stt": 27,
-      "id": "maseuteo_i",
-      "name": "마스터 이",
-      "image": "tft18_masteryi.tft_set18.jpg",
-      "price": "3",
-      "average_position": "4.02",
-      "top_4_rate": "63.19",
-      "top_1_rate": "13.77",
-      "battle": "5,434",
-      "description_icon": [
-        "기본 지속 효과: 세 번째 기본 공격마다 2연속 공격합니다. 처치 관여 시 이동 속도가 대폭 증가합니다.",
-        "\n",
-        "\n",
-        "적응가 (",
-        "AD.png",
-        "): 2연속 공격 시 중첩되는 공격 속도를 15%(",
-        "AP.png",
-        ") 얻습니다.",
-        "\n",
-        "\n",
-        "적응가 (",
-        "AP.png",
-        "): 2연속 타격 시 추가 피해를 입히고 체력을 회복합니다.",
-        "\n",
-        "\n",
-        "공격 속도: 15%=12%+3%(",
-        "AP.png",
-        ") [3% / 3% / 3%]"
-      ],
-      "skill_name": "우주류 검술",
-      "skill_image": "DA_18_MasterYi_AD.png",
-      "starting_mana": 0,
-      "skill_mana": 3,
-      "skill_attack_range": 1,
-      "health": [
-        850,
-        1530,
-        2754
-      ],
-      "attack_damage": [
-        65,
-        98,
-        146
-      ],
-      "damage_per_second": [
-        52,
-        78,
-        117
-      ],
-      "attack_speed": 0.8,
-      "armor": 60,
-      "magical_resistance": 60,
-      "stats": [
-        "공격 속도: 15%=12%+3%(%i:scaleAP%) [3% / 3% / 3%]"
-      ],
-      "traits": [
-        {
-          "id": "jeogeungga",
-          "name": "적응가",
-          "image": "Trait_Icon_18_Adaptor.TFT_Set18.png"
-        },
-        {
-          "id": "gaehwa",
-          "name": "개화",
-          "image": "Trait_Icon_18_Blossom.TFT_Set18.png"
-        }
-      ],
-      "items": [
-        {
-          "id": "guinsuyi_gyeognogeom",
-          "image": "DA_GuinsoosRageblade.png"
-        },
-        {
-          "id": "bamyi_ggeutjarag",
-          "image": "DA_EdgeOfNight.png"
-        },
-        {
-          "id": "geoinyi_gyeolyi",
-          "image": "DA_TitansResolve.png"
-        },
-        {
-          "id": "ssaumggun_sangjing",
-          "image": "DA_18_EmblemBrawler.png"
-        },
-        {
-          "id": "pibaragi",
-          "image": "DA_Bloodthirster.png"
-        }
-      ],
-      "unlock": {
-        "description": "",
-        "type": false
-      }
-    },
-    {
-      "stt": 28,
-      "id": "kareuma",
-      "name": "카르마",
-      "image": "tft18_karma.tft_set18.jpg",
-      "price": "1",
-      "average_position": "4.48",
-      "top_4_rate": "50.99",
-      "top_1_rate": "13.68",
-      "battle": "12,193",
-      "description_icon": [
-        "현재 대상을 연결해 1.5초 동안 280/420/630(",
-        "AP.png",
-        ")의 마법 피해를 입힙니다. 이후 주변에 힘을 폭발시켜 반경 1칸 이내 모든 적에게 120/180/270(",
-        "AP.png",
-        ")의 마법 피해를 입히고 2초 동안 30% 둔화를 적용합니다.",
-        "\n",
-        "\n",
-        "둔화: 공격 속도 감소",
-        "\n",
-        "\n",
-        "피해량: 280(",
-        "AP.png",
-        ") [ 280 / 420 / 630 ]",
-        "\n",
-        "\n",
-        "폭발 피해량: 120(",
-        "AP.png",
-        ") [ 120 / 180 / 270 ]"
-      ],
-      "skill_name": "업보의 결속",
-      "skill_image": "DA_Karma18.png",
-      "starting_mana": 0,
-      "skill_mana": 40,
-      "skill_attack_range": 4,
-      "health": [
-        500,
-        900,
-        1620
-      ],
-      "attack_damage": [
-        25,
-        38,
-        56
-      ],
-      "damage_per_second": [
-        18,
-        26,
-        39
-      ],
-      "attack_speed": 0.7,
-      "armor": 25,
-      "magical_resistance": 25,
-      "stats": [
-        "피해량: 280(%i:scaleAP%) [280 / 420 / 630]",
-        "폭발 피해량: 120(%i:scaleAP%) [120 / 180 / 270]"
-      ],
-      "traits": [
-        {
-          "id": "gaehwa",
-          "name": "개화",
-          "image": "Trait_Icon_18_Blossom.TFT_Set18.png"
-        },
-        {
-          "id": "jumunsulsa",
-          "name": "주문술사",
-          "image": "Trait_Icon_18_Spellweaver.TFT_Set18.png"
-        }
-      ],
-      "items": [
-        {
-          "id": "boseog_geonteulris",
-          "image": "DA_JeweledGauntlet.png"
-        },
-        {
-          "id": "gongheoyi_jipangi",
-          "image": "DA_VoidStaff.png"
-        },
-        {
-          "id": "mabeobgonghag_conggeom",
-          "image": "DA_HextechGunblade.png"
-        },
-        {
-          "id": "naesyeoyi_ibbal",
-          "image": "DA_NashorsTooth.png"
-        },
-        {
-          "id": "morelronomikon",
-          "image": "DA_Morellonomicon.png"
-        }
-      ],
-      "unlock": {
-        "description": "",
-        "type": false
-      }
-    },
-    {
-      "stt": 29,
+      "stt": 37,
       "id": "kogeumo",
       "name": "코그모",
       "image": "tft18_kogmaw.tft_set18.jpg",
       "price": "3",
-      "average_position": "4.06",
-      "top_4_rate": "60.63",
-      "top_1_rate": "13.51",
-      "battle": "9,356",
+      "average_position": "4.12",
+      "top_4_rate": "58.94",
+      "top_1_rate": "13.24",
+      "battle": "39,413",
       "description_icon": [
         "적응가 (",
         "AD.png",
@@ -4340,24 +4938,24 @@
       ],
       "items": [
         {
-          "id": "syojinyi_cang",
+          "id": "",
           "image": "DA_SpearOfShojin.png"
         },
         {
-          "id": "muhanyi_daegeom",
+          "id": "",
           "image": "DA_InfinityEdge.png"
         },
         {
-          "id": "bulgeun_deongguljeongryeong",
+          "id": "",
           "image": "DA_RedBuff.png"
         },
         {
-          "id": "boseog_geonteulris",
-          "image": "DA_JeweledGauntlet.png"
+          "id": "",
+          "image": "DA_GiantSlayer.png"
         },
         {
-          "id": "geoin_hagsalja",
-          "image": "DA_GiantSlayer.png"
+          "id": "",
+          "image": "DA_JeweledGauntlet.png"
         }
       ],
       "unlock": {
@@ -4366,15 +4964,206 @@
       }
     },
     {
-      "stt": 30,
+      "stt": 38,
+      "id": "oreun",
+      "name": "오른",
+      "image": "tft18_ornn.tft_set18.jpg",
+      "price": "1",
+      "average_position": "4.51",
+      "top_4_rate": "50.93",
+      "top_1_rate": "13.13",
+      "battle": "75,604",
+      "description_icon": [
+        "사용 시: 4초 동안 400/460/550(",
+        "AP.png",
+        ")의 보호막을 얻고 반경 원뿔 범위 내 적에게 200/300/450(",
+        "AP.png",
+        ")의 마법 피해를 입힙니다.",
+        "\n",
+        "\n",
+        "퀘스트: 플레이어 대상 전투마다 오른이 막은 피해량을 대장간의 힘으로 저장합니다. 3성일 경우 두 배로 적용됩니다. 대장간의 힘을 충분히 모을 때마다 유물 모루 1개를 획득합니다. (대장간의 힘: /)",
+        "\n",
+        "\n",
+        "보호막: 400(",
+        "AP.png",
+        ") [ 400 / 460 / 550 ]",
+        "\n",
+        "\n",
+        "피해량: 200(",
+        "AP.png",
+        ") [ 200 / 300 / 450 ]"
+      ],
+      "skill_name": "불꽃 풀무질",
+      "skill_image": "DA_18_Ornn.png",
+      "starting_mana": 40,
+      "skill_mana": 100,
+      "skill_attack_range": 1,
+      "health": [
+        700,
+        1260,
+        2268
+      ],
+      "attack_damage": [
+        40,
+        60,
+        90
+      ],
+      "damage_per_second": [
+        24,
+        36,
+        54
+      ],
+      "attack_speed": 0.6,
+      "armor": 40,
+      "magical_resistance": 40,
+      "stats": [
+        "보호막: 400(%i:scaleAP%) [400 / 460 / 550]",
+        "피해량: 200(%i:scaleAP%) [200 / 300 / 450]"
+      ],
+      "traits": [
+        {
+          "id": "eomhodae",
+          "name": "엄호대",
+          "image": "Trait_Icon_18_Defender.TFT_Set18.png"
+        },
+        {
+          "id": "namujeongryeong",
+          "name": "나무정령",
+          "image": "Trait_Icon_18_Elderwood.TFT_Set18.png"
+        }
+      ],
+      "items": [
+        {
+          "id": "",
+          "image": "DA_GargoyleStoneplate.png"
+        },
+        {
+          "id": "",
+          "image": "DA_SpiritVisage.png"
+        },
+        {
+          "id": "",
+          "image": "DA_WarmogsArmor.png"
+        },
+        {
+          "id": "",
+          "image": "DA_ProtectorsVow.png"
+        },
+        {
+          "id": "",
+          "image": "DA_SunfireCape.png"
+        }
+      ],
+      "unlock": {
+        "description": "",
+        "type": false
+      }
+    },
+    {
+      "stt": 39,
+      "id": "maseuteo_i",
+      "name": "마스터 이",
+      "image": "tft18_masteryi.tft_set18.jpg",
+      "price": "3",
+      "average_position": "4.11",
+      "top_4_rate": "60.8",
+      "top_1_rate": "13.09",
+      "battle": "25,906",
+      "description_icon": [
+        "기본 지속 효과: 세 번째 기본 공격마다 2연속 공격합니다. 처치 관여 시 이동 속도가 대폭 증가합니다.",
+        "\n",
+        "\n",
+        "적응가 (",
+        "AD.png",
+        "): 2연속 공격 시 중첩되는 공격 속도를 15%(",
+        "AP.png",
+        ") 얻습니다.",
+        "\n",
+        "\n",
+        "적응가 (",
+        "AP.png",
+        "): 2연속 타격 시 추가 피해를 입히고 체력을 회복합니다.",
+        "\n",
+        "\n",
+        "공격 속도: 15%=12%+3%(",
+        "AP.png",
+        ") [3% / 3% / 3%]"
+      ],
+      "skill_name": "우주류 검술",
+      "skill_image": "DA_18_MasterYi_AD.png",
+      "starting_mana": 0,
+      "skill_mana": 3,
+      "skill_attack_range": 1,
+      "health": [
+        850,
+        1530,
+        2754
+      ],
+      "attack_damage": [
+        65,
+        98,
+        146
+      ],
+      "damage_per_second": [
+        52,
+        78,
+        117
+      ],
+      "attack_speed": 0.8,
+      "armor": 60,
+      "magical_resistance": 60,
+      "stats": [
+        "공격 속도: 15%=12%+3%(%i:scaleAP%) [3% / 3% / 3%]"
+      ],
+      "traits": [
+        {
+          "id": "jeogeungga",
+          "name": "적응가",
+          "image": "Trait_Icon_18_Adaptor.TFT_Set18.png"
+        },
+        {
+          "id": "gaehwa",
+          "name": "개화",
+          "image": "Trait_Icon_18_Blossom.TFT_Set18.png"
+        }
+      ],
+      "items": [
+        {
+          "id": "",
+          "image": "DA_GuinsoosRageblade.png"
+        },
+        {
+          "id": "",
+          "image": "DA_EdgeOfNight.png"
+        },
+        {
+          "id": "",
+          "image": "DA_TitansResolve.png"
+        },
+        {
+          "id": "",
+          "image": "DA_18_EmblemBrawler.png"
+        },
+        {
+          "id": "",
+          "image": "DA_Bloodthirster.png"
+        }
+      ],
+      "unlock": {
+        "description": "",
+        "type": false
+      }
+    },
+    {
+      "stt": 40,
       "id": "pideulseutig",
       "name": "피들스틱",
       "image": "tft18_fiddlesticks.tft_set18.jpg",
       "price": "3",
-      "average_position": "4.29",
-      "top_4_rate": "55.87",
-      "top_1_rate": "13.18",
-      "battle": "12,256",
+      "average_position": "4.31",
+      "top_4_rate": "55.07",
+      "top_1_rate": "12.74",
+      "battle": "55,591",
       "description_icon": [
         "가장 가까운 적 3명의 마법 저항력을 10만큼 감소시킵니다. 그 후 2 초에 걸쳐 적의 생명력을 흡수하여 410/485/850(",
         "AP.png",
@@ -4438,23 +5227,23 @@
       ],
       "items": [
         {
-          "id": "gagoil_dolgabos",
+          "id": "",
           "image": "DA_GargoyleStoneplate.png"
         },
         {
-          "id": "ion_cunggyeoggi",
+          "id": "",
           "image": "DA_IonicSpark.png"
         },
         {
-          "id": "taeyangbulggoc_mangto",
+          "id": "",
           "image": "DA_SunfireCape.png"
         },
         {
-          "id": "weomogeuyi_gabos",
+          "id": "",
           "image": "DA_WarmogsArmor.png"
         },
         {
-          "id": "jeongryeongyi_hyeongsang",
+          "id": "",
           "image": "DA_SpiritVisage.png"
         }
       ],
@@ -4464,111 +5253,15 @@
       }
     },
     {
-      "stt": 31,
-      "id": "oreun",
-      "name": "오른",
-      "image": "tft18_ornn.tft_set18.jpg",
-      "price": "1",
-      "average_position": "4.56",
-      "top_4_rate": "50.19",
-      "top_1_rate": "12.61",
-      "battle": "16,548",
-      "description_icon": [
-        "사용 시: 4초 동안 400/460/550(",
-        "AP.png",
-        ")의 보호막을 얻고 반경 원뿔 범위 내 적에게 200/300/450(",
-        "AP.png",
-        ")의 마법 피해를 입힙니다.",
-        "\n",
-        "\n",
-        "퀘스트: 플레이어 대상 전투마다 오른이 막은 피해량을 대장간의 힘으로 저장합니다. 3성일 경우 두 배로 적용됩니다. 대장간의 힘을 충분히 모을 때마다 유물 모루 1개를 획득합니다. (대장간의 힘: /)",
-        "\n",
-        "\n",
-        "보호막: 400(",
-        "AP.png",
-        ") [ 400 / 460 / 550 ]",
-        "\n",
-        "\n",
-        "피해량: 200(",
-        "AP.png",
-        ") [ 200 / 300 / 450 ]"
-      ],
-      "skill_name": "불꽃 풀무질",
-      "skill_image": "DA_18_Ornn.png",
-      "starting_mana": 40,
-      "skill_mana": 100,
-      "skill_attack_range": 1,
-      "health": [
-        700,
-        1260,
-        2268
-      ],
-      "attack_damage": [
-        40,
-        60,
-        90
-      ],
-      "damage_per_second": [
-        24,
-        36,
-        54
-      ],
-      "attack_speed": 0.6,
-      "armor": 40,
-      "magical_resistance": 40,
-      "stats": [
-        "보호막: 400(%i:scaleAP%) [400 / 460 / 550]",
-        "피해량: 200(%i:scaleAP%) [200 / 300 / 450]"
-      ],
-      "traits": [
-        {
-          "id": "eomhodae",
-          "name": "엄호대",
-          "image": "Trait_Icon_18_Defender.TFT_Set18.png"
-        },
-        {
-          "id": "namujeongryeong",
-          "name": "나무정령",
-          "image": "Trait_Icon_18_Elderwood.TFT_Set18.png"
-        }
-      ],
-      "items": [
-        {
-          "id": "gagoil_dolgabos",
-          "image": "DA_GargoyleStoneplate.png"
-        },
-        {
-          "id": "jeongryeongyi_hyeongsang",
-          "image": "DA_SpiritVisage.png"
-        },
-        {
-          "id": "weomogeuyi_gabos",
-          "image": "DA_WarmogsArmor.png"
-        },
-        {
-          "id": "suhojayi_maengse",
-          "image": "DA_ProtectorsVow.png"
-        },
-        {
-          "id": "taeyangbulggoc_mangto",
-          "image": "DA_SunfireCape.png"
-        }
-      ],
-      "unlock": {
-        "description": "",
-        "type": false
-      }
-    },
-    {
-      "stt": 32,
+      "stt": 41,
       "id": "yorig",
       "name": "요릭",
       "image": "tft18_yorick.tft_set18.jpg",
       "price": "1",
-      "average_position": "4.58",
-      "top_4_rate": "48.77",
-      "top_1_rate": "12.22",
-      "battle": "18,877",
+      "average_position": "4.55",
+      "top_4_rate": "49.26",
+      "top_1_rate": "12.50",
+      "battle": "81,190",
       "description_icon": [
         "기본 지속 효과: 사망 시 최대 체력을 330/634/1171(",
         "Health.png",
@@ -4643,23 +5336,23 @@
       ],
       "items": [
         {
-          "id": "gagoil_dolgabos",
+          "id": "",
           "image": "DA_GargoyleStoneplate.png"
         },
         {
-          "id": "suhojayi_maengse",
+          "id": "",
           "image": "DA_ProtectorsVow.png"
         },
         {
-          "id": "taeyangbulggoc_mangto",
+          "id": "",
           "image": "DA_SunfireCape.png"
         },
         {
-          "id": "jeongryeongyi_hyeongsang",
+          "id": "",
           "image": "DA_SpiritVisage.png"
         },
         {
-          "id": "jeonyeoggabju",
+          "id": "",
           "image": "DA_Evenshroud.png"
         }
       ],
@@ -4669,15 +5362,100 @@
       }
     },
     {
-      "stt": 33,
+      "stt": 42,
+      "id": "kasiopea",
+      "name": "카시오페아",
+      "image": "tft18_cassiopeia.tft_set18.jpg",
+      "price": "3",
+      "average_position": "4.44",
+      "top_4_rate": "54.7",
+      "top_1_rate": "11.91",
+      "battle": "18,879",
+      "description_icon": [
+        "대상을 중독시키고 가장 근처에 있는 중독되지 않은 적에게 15초 동안 440/660/1050(",
+        "AP.png",
+        ")의 마법 피해를 입힙니다. 중독은 중첩됩니다.",
+        "\n",
+        "\n",
+        "피해량: 440(",
+        "AP.png",
+        ") [ 440 / 660 / 1050 ]"
+      ],
+      "skill_name": "맹독 폭발",
+      "skill_image": "DA_18_Cassiopeia.png",
+      "starting_mana": 0,
+      "skill_mana": 30,
+      "skill_attack_range": 4,
+      "health": [
+        650,
+        1170,
+        2106
+      ],
+      "attack_damage": [
+        30,
+        45,
+        68
+      ],
+      "damage_per_second": [
+        23,
+        34,
+        51
+      ],
+      "attack_speed": 0.75,
+      "armor": 35,
+      "magical_resistance": 35,
+      "stats": [
+        "피해량: 440(%i:scaleAP%) [440 / 660 / 1050]"
+      ],
+      "traits": [
+        {
+          "id": "agyi_yeodan",
+          "name": "악의 여단",
+          "image": "Trait_Icon_18_Coven.TFT_Set18.png"
+        },
+        {
+          "id": "jumunsulsa",
+          "name": "주문술사",
+          "image": "Trait_Icon_18_Spellweaver.TFT_Set18.png"
+        }
+      ],
+      "items": [
+        {
+          "id": "",
+          "image": "DA_HextechGunblade.png"
+        },
+        {
+          "id": "",
+          "image": "DA_SpearOfShojin.png"
+        },
+        {
+          "id": "",
+          "image": "DA_JeweledGauntlet.png"
+        },
+        {
+          "id": "",
+          "image": "DA_RabadonsDeathcap.png"
+        },
+        {
+          "id": "",
+          "image": "DA_BlueBuff.png"
+        }
+      ],
+      "unlock": {
+        "description": "",
+        "type": false
+      }
+    },
+    {
+      "stt": 43,
       "id": "daiaena",
       "name": "다이애나",
       "image": "tft18_diana.tft_set18.jpg",
       "price": "3",
-      "average_position": "4.43",
-      "top_4_rate": "50.77",
-      "top_1_rate": "12.07",
-      "battle": "20,196",
+      "average_position": "4.47",
+      "top_4_rate": "50.07",
+      "top_1_rate": "11.86",
+      "battle": "84,358",
       "description_icon": [
         "2초 동안 150/275/400의 보호막을 얻고 2칸 내 적에게 달빛 구체 6개를 나누어 보내 각각 70/105/170(",
         "AP.png",
@@ -4737,23 +5515,23 @@
       ],
       "items": [
         {
-          "id": "jeongyiyi_songil",
+          "id": "",
           "image": "DA_HandOfJustice.png"
         },
         {
-          "id": "boseog_geonteulris",
+          "id": "",
           "image": "DA_JeweledGauntlet.png"
         },
         {
-          "id": "ion_cunggyeoggi",
+          "id": "",
           "image": "DA_IonicSpark.png"
         },
         {
-          "id": "pibaragi",
+          "id": "",
           "image": "DA_Bloodthirster.png"
         },
         {
-          "id": "geoinyi_gyeolyi",
+          "id": "",
           "image": "DA_TitansResolve.png"
         }
       ],
@@ -4763,15 +5541,213 @@
       }
     },
     {
-      "stt": 34,
+      "stt": 44,
+      "id": "kobuko",
+      "name": "코부코",
+      "image": "tft18_kobuko.tft_set18.jpg",
+      "price": "1",
+      "average_position": "4.16",
+      "top_4_rate": "57.67",
+      "top_1_rate": "11.85",
+      "battle": "24,337",
+      "description_icon": [
+        "2초 동안 314/403/619(",
+        "Health.png",
+        "AP.png",
+        ")의 체력을 회복합니다. 다음 기본 공격이 140/231/377(",
+        "Health.png",
+        "AP.png",
+        ")의 마법 피해를 입히는 강타로 대체됩니다.",
+        "\n",
+        "\n",
+        "체력 회복량: 314= 49(",
+        "Health.png",
+        ")+265(",
+        "AP.png",
+        ") [ 265 / 315 / 460 ]",
+        "\n",
+        "\n",
+        "피해량: 140=70(",
+        "Health.png",
+        ")+70(",
+        "AP.png",
+        ") [ 70 / 105 / 150 ]"
+      ],
+      "skill_name": "생명의 춤",
+      "skill_image": "DA_18_Kobuko.png",
+      "starting_mana": 30,
+      "skill_mana": 90,
+      "skill_attack_range": 1,
+      "health": [
+        700,
+        1260,
+        2268
+      ],
+      "attack_damage": [
+        55,
+        83,
+        124
+      ],
+      "damage_per_second": [
+        36,
+        54,
+        80
+      ],
+      "attack_speed": 0.65,
+      "armor": 40,
+      "magical_resistance": 40,
+      "stats": [
+        "체력 회복량: 314= 49(%i:scaleHealth%)+265(%i:scaleAP%) [265 / 315 / 460]",
+        "피해량: 140=70(%i:scaleHealth%)+70(%i:scaleAP%) [70 / 105 / 150]"
+      ],
+      "traits": [
+        {
+          "id": "ssaumggun",
+          "name": "싸움꾼",
+          "image": "Trait_Icon_18_Brawler.TFT_Set18.png"
+        },
+        {
+          "id": "nalryeobi",
+          "name": "날렵이",
+          "image": "Trait_Icon_18_Sprykin.TFT_Set18.png"
+        }
+      ],
+      "items": [
+        {
+          "id": "",
+          "image": "DA_GargoyleStoneplate.png"
+        },
+        {
+          "id": "",
+          "image": "DA_SunfireCape.png"
+        },
+        {
+          "id": "",
+          "image": "DA_WarmogsArmor.png"
+        },
+        {
+          "id": "",
+          "image": "DA_SpiritVisage.png"
+        },
+        {
+          "id": "",
+          "image": "DA_IonicSpark.png"
+        }
+      ],
+      "unlock": {
+        "description": "",
+        "type": false
+      }
+    },
+    {
+      "stt": 45,
+      "id": "rammeoseu",
+      "name": "람머스",
+      "image": "tft18_rammus.tft_set18.jpg",
+      "price": "3",
+      "average_position": "4.38",
+      "top_4_rate": "52.41",
+      "top_1_rate": "11.81",
+      "battle": "41,298",
+      "description_icon": [
+        "도발하여 적이 이 챔피언을 공격하도록 합니다. 4초 동안 350/450/550(",
+        "AP.png",
+        ")의 보호막과 방어력 및 마법 저항력을 60 얻습니다.",
+        "\n",
+        "\n",
+        "보호막이 파괴되면, 2칸 내 적에게 50/75/120(",
+        "Armor.png",
+        "MR.png",
+        ")의 물리 피해를 입힙니다.",
+        "\n",
+        "\n",
+        "보호막: 350(",
+        "AP.png",
+        ") [ 350 / 450 / 550 ]",
+        "\n",
+        "\n",
+        "피해량: 50=25(",
+        "Armor.png",
+        ")+25(",
+        "MR.png",
+        ") [50% / 75% / 120%]"
+      ],
+      "skill_name": "몸 말아 웅크리기",
+      "skill_image": "DA_18_Rammus.png",
+      "starting_mana": 30,
+      "skill_mana": 80,
+      "skill_attack_range": 1,
+      "health": [
+        1100,
+        1980,
+        3564
+      ],
+      "attack_damage": [
+        50,
+        75,
+        113
+      ],
+      "damage_per_second": [
+        30,
+        45,
+        68
+      ],
+      "attack_speed": 0.6,
+      "armor": 50,
+      "magical_resistance": 50,
+      "stats": [
+        "보호막: 350(%i:scaleAP%) [350 / 450 / 550]",
+        "피해량: 50=25(%i:scaleArmor%)+25(%i:scaleMR%) [50% / 75% / 120%]"
+      ],
+      "traits": [
+        {
+          "id": "eomhodae",
+          "name": "엄호대",
+          "image": "Trait_Icon_18_Defender.TFT_Set18.png"
+        },
+        {
+          "id": "nalryeobi",
+          "name": "날렵이",
+          "image": "Trait_Icon_18_Sprykin.TFT_Set18.png"
+        }
+      ],
+      "items": [
+        {
+          "id": "",
+          "image": "DA_GargoyleStoneplate.png"
+        },
+        {
+          "id": "",
+          "image": "DA_WarmogsArmor.png"
+        },
+        {
+          "id": "",
+          "image": "DA_SpiritVisage.png"
+        },
+        {
+          "id": "",
+          "image": "DA_SunfireCape.png"
+        },
+        {
+          "id": "",
+          "image": "DA_ProtectorsVow.png"
+        }
+      ],
+      "unlock": {
+        "description": "",
+        "type": false
+      }
+    },
+    {
+      "stt": 46,
       "id": "sejuani",
       "name": "세주아니",
       "image": "tft18_sejuani.tft_set18.jpg",
       "price": "2",
-      "average_position": "4.5",
-      "top_4_rate": "52.51",
-      "top_1_rate": "12.00",
-      "battle": "10,076",
+      "average_position": "4.54",
+      "top_4_rate": "51.45",
+      "top_1_rate": "11.77",
+      "battle": "44,445",
       "description_icon": [
         "4초 동안 315/412/567(",
         "Health.png",
@@ -4841,23 +5817,23 @@
       ],
       "items": [
         {
-          "id": "gagoil_dolgabos",
+          "id": "",
           "image": "DA_GargoyleStoneplate.png"
         },
         {
-          "id": "jeongryeongyi_hyeongsang",
+          "id": "",
           "image": "DA_SpiritVisage.png"
         },
         {
-          "id": "weomogeuyi_gabos",
+          "id": "",
           "image": "DA_WarmogsArmor.png"
         },
         {
-          "id": "suhojayi_maengse",
+          "id": "",
           "image": "DA_ProtectorsVow.png"
         },
         {
-          "id": "taeyangbulggoc_mangto",
+          "id": "",
           "image": "DA_SunfireCape.png"
         }
       ],
@@ -4867,97 +5843,194 @@
       }
     },
     {
-      "stt": 35,
-      "id": "kobuko",
-      "name": "코부코",
-      "image": "tft18_kobuko.tft_set18.jpg",
-      "price": "1",
-      "average_position": "4.12",
-      "top_4_rate": "57.83",
-      "top_1_rate": "11.81",
-      "battle": "5,181",
+      "stt": 47,
+      "id": "bai",
+      "name": "바이",
+      "image": "tft18_vi.tft_set18.jpg",
+      "price": "3",
+      "average_position": "4.62",
+      "top_4_rate": "46.54",
+      "top_1_rate": "11.64",
+      "battle": "95,134",
       "description_icon": [
-        "2초 동안 314/403/619(",
+        "기본 지속 효과: 기본 공격 시 체력을 22/40/71(",
         "Health.png",
-        "AP.png",
-        ")의 체력을 회복합니다. 다음 기본 공격이 140/231/377(",
-        "Health.png",
-        "AP.png",
-        ")의 마법 피해를 입히는 강타로 대체됩니다.",
+        ") 회복합니다.",
         "\n",
         "\n",
-        "체력 회복량: 314= 49(",
-        "Health.png",
-        ")+265(",
+        "사용 시: 원시의 포효를 내질러 체력을 200/265/360(",
         "AP.png",
-        ") [ 265 / 315 / 460 ]",
+        ") 회복합니다. 이후 3초 동안 공격 속도를 85%/100%/125%, 내구력을 15% 얻고 저지 불가 상태가 됩니다.",
         "\n",
         "\n",
-        "피해량: 140=70(",
+        "기본 지속 효과 체력 회복량: 22(",
         "Health.png",
-        ")+70(",
+        ") [2% / 2% / 2%]",
+        "\n",
+        "\n",
+        "체력 회복량: 200(",
         "AP.png",
-        ") [ 70 / 105 / 150 ]"
+        ") [ 200 / 265 / 360 ]",
+        "\n",
+        "\n",
+        "공격 속도: [85% / 100% / 125%]"
       ],
-      "skill_name": "생명의 춤",
-      "skill_image": "DA_18_Kobuko.png",
-      "starting_mana": 30,
-      "skill_mana": 90,
+      "skill_name": "분노의 주먹",
+      "skill_image": "DA_Vi18.png",
+      "starting_mana": 0,
+      "skill_mana": 60,
       "skill_attack_range": 1,
       "health": [
-        700,
-        1260,
-        2268
+        1100,
+        1980,
+        3564
       ],
       "attack_damage": [
-        55,
-        83,
-        124
+        45,
+        68,
+        101
       ],
       "damage_per_second": [
-        36,
-        54,
-        80
+        34,
+        51,
+        76
+      ],
+      "attack_speed": 0.75,
+      "armor": 50,
+      "magical_resistance": 50,
+      "stats": [
+        "기본 지속 효과 체력 회복량: 22(%i:scaleHealth%) [2% / 2% / 2%]",
+        "체력 회복량: 200(%i:scaleAP%) [200 / 265 / 360]",
+        "공격 속도: [85% / 100% / 125%]"
+      ],
+      "traits": [
+        {
+          "id": "jeonjaenggigye",
+          "name": "전쟁기계",
+          "image": "Trait_Icon_18_Juggernaut.TFT_Set18.png"
+        },
+        {
+          "id": "weonsi",
+          "name": "원시",
+          "image": "Trait_Icon_18_Primal.TFT_Set18.png"
+        }
+      ],
+      "items": [
+        {
+          "id": "",
+          "image": "DA_GargoyleStoneplate.png"
+        },
+        {
+          "id": "",
+          "image": "DA_SpiritVisage.png"
+        },
+        {
+          "id": "",
+          "image": "DA_WarmogsArmor.png"
+        },
+        {
+          "id": "",
+          "image": "DA_SunfireCape.png"
+        },
+        {
+          "id": "",
+          "image": "DA_ProtectorsVow.png"
+        }
+      ],
+      "unlock": {
+        "description": "",
+        "type": false
+      }
+    },
+    {
+      "stt": 48,
+      "id": "reona",
+      "name": "레오나",
+      "image": "tft18_leona.tft_set18.jpg",
+      "price": "1",
+      "average_position": "4.6",
+      "top_4_rate": "48.06",
+      "top_1_rate": "11.51",
+      "battle": "48,795",
+      "description_icon": [
+        "기본 지속 효과: 12초에 걸쳐 서서히 감소하는 추가 방어력 및 마법 저항력을 60/70/80(",
+        "AP.png",
+        ") 얻은 상태로 전투를 시작합니다.",
+        "\n",
+        "\n",
+        "사용 시: 현재 대상을 강타해 60/108/162(",
+        "Armor.png",
+        ")의 마법 피해를 입히고 1.5초 동안 기절시킵니다.",
+        "\n",
+        "\n",
+        "점차 사라지는 방어력 및 마법 저항력: 60(",
+        "AP.png",
+        ") [ 60 / 70 / 80 ]",
+        "\n",
+        "\n",
+        "피해량: 60(",
+        "Armor.png",
+        ") [150% / 270% / 405%]"
+      ],
+      "skill_name": "보호막 강타",
+      "skill_image": "DA_18_Leona.png",
+      "starting_mana": 40,
+      "skill_mana": 100,
+      "skill_attack_range": 1,
+      "health": [
+        750,
+        1350,
+        2430
+      ],
+      "attack_damage": [
+        50,
+        75,
+        113
+      ],
+      "damage_per_second": [
+        33,
+        49,
+        73
       ],
       "attack_speed": 0.65,
       "armor": 40,
       "magical_resistance": 40,
       "stats": [
-        "체력 회복량: 314= 49(%i:scaleHealth%)+265(%i:scaleAP%) [265 / 315 / 460]",
-        "피해량: 140=70(%i:scaleHealth%)+70(%i:scaleAP%) [70 / 105 / 150]"
+        "점차 사라지는 방어력 및 마법 저항력: 60(%i:scaleAP%) [60 / 70 / 80]",
+        "피해량: 60(%i:scaleArmor%) [150% / 270% / 405%]"
       ],
       "traits": [
         {
-          "id": "ssaumggun",
-          "name": "싸움꾼",
-          "image": "Trait_Icon_18_Brawler.TFT_Set18.png"
+          "id": "eomhodae",
+          "name": "엄호대",
+          "image": "Trait_Icon_18_Defender.TFT_Set18.png"
         },
         {
-          "id": "nalryeobi",
-          "name": "날렵이",
-          "image": "Trait_Icon_18_Sprykin.TFT_Set18.png"
+          "id": "haesbic",
+          "name": "햇빛",
+          "image": "Trait_Icon_18_Solar.TFT_Set18.png"
         }
       ],
       "items": [
         {
-          "id": "gagoil_dolgabos",
+          "id": "",
           "image": "DA_GargoyleStoneplate.png"
         },
         {
-          "id": "weomogeuyi_gabos",
-          "image": "DA_WarmogsArmor.png"
-        },
-        {
-          "id": "taeyangbulggoc_mangto",
-          "image": "DA_SunfireCape.png"
-        },
-        {
-          "id": "jeongryeongyi_hyeongsang",
+          "id": "",
           "image": "DA_SpiritVisage.png"
         },
         {
-          "id": "ion_cunggyeoggi",
-          "image": "DA_IonicSpark.png"
+          "id": "",
+          "image": "DA_WarmogsArmor.png"
+        },
+        {
+          "id": "",
+          "image": "DA_SunfireCape.png"
+        },
+        {
+          "id": "",
+          "image": "DA_ProtectorsVow.png"
         }
       ],
       "unlock": {
@@ -4966,83 +6039,86 @@
       }
     },
     {
-      "stt": 36,
-      "id": "kasiopea",
-      "name": "카시오페아",
-      "image": "tft18_cassiopeia.tft_set18.jpg",
-      "price": "3",
-      "average_position": "4.43",
-      "top_4_rate": "56.08",
-      "top_1_rate": "11.57",
-      "battle": "3,577",
+      "stt": 49,
+      "id": "joyagdol",
+      "name": "조약돌",
+      "image": "Pebbles_1783677606-Sentry.jpg",
+      "price": "1",
+      "average_position": "4.56",
+      "top_4_rate": "48.73",
+      "top_1_rate": "11.09",
+      "battle": "48,803",
       "description_icon": [
-        "대상을 중독시키고 가장 근처에 있는 중독되지 않은 적에게 15초 동안 440/660/1050(",
+        "매초 최대 마나의 35%를 소모하며 정신을 집중해 대상에게 레이저를 발사합니다. 스킬을 사용하는 동안 매초 160/240/360(",
         "AP.png",
-        ")의 마법 피해를 입힙니다. 중독은 중첩됩니다.",
+        ")의 마법 피해를 입히고 대상의 마법 저항력을 3 감소시킵니다.",
         "\n",
         "\n",
-        "피해량: 440(",
+        "청록색 버프: 정신 집중 4초마다 마나 재생을 2 얻습니다.",
+        "\n",
+        "\n",
+        "피해량: 160(",
         "AP.png",
-        ") [ 440 / 660 / 1050 ]"
+        ") [ 160 / 240 / 360 ]"
       ],
-      "skill_name": "맹독 폭발",
-      "skill_image": "DA_18_Cassiopeia.png",
-      "starting_mana": 0,
-      "skill_mana": 30,
+      "skill_name": "하늘빛 레이저",
+      "skill_image": "Pebbles_1785314312-tft16_pve_bluegolemmini1_square.png",
+      "starting_mana": 30,
+      "skill_mana": 70,
       "skill_attack_range": 4,
       "health": [
-        650,
-        1170,
-        2106
+        500,
+        900,
+        1620
       ],
       "attack_damage": [
-        30,
-        45,
-        68
+        35,
+        53,
+        79
       ],
       "damage_per_second": [
-        23,
-        34,
-        51
+        28,
+        42,
+        63
       ],
-      "attack_speed": 0.75,
-      "armor": 35,
-      "magical_resistance": 35,
+      "attack_speed": 0.8,
+      "armor": 25,
+      "magical_resistance": 25,
       "stats": [
-        "피해량: 440(%i:scaleAP%) [440 / 660 / 1050]"
+        "피해량: 160(%i:scaleAP%) [160 / 240 / 360]"
       ],
       "traits": [
         {
-          "id": "agyi_yeodan",
-          "name": "악의 여단",
-          "image": "Trait_Icon_18_Coven.TFT_Set18.png"
+          "id": "giweonja",
+          "name": "기원자",
+          "image": "Trait_Icon_18_Invoker.TFT_Set18.png"
         },
         {
-          "id": "jumunsulsa",
-          "name": "주문술사",
-          "image": "Trait_Icon_18_Spellweaver.TFT_Set18.png"
+          "id": "hyeobgogyasu",
+          "name": "협곡야수",
+          "image": "Trait_Icon_18_Riftbeast.TFT_Set18.png"
         }
       ],
       "items": [
         {
-          "id": "mabeobgonghag_conggeom",
-          "image": "DA_HextechGunblade.png"
-        },
-        {
-          "id": "syojinyi_cang",
-          "image": "DA_SpearOfShojin.png"
-        },
-        {
-          "id": "boseog_geonteulris",
+          "id": "",
           "image": "DA_JeweledGauntlet.png"
         },
         {
-          "id": "rabadonyi_jugeummoja",
+          "id": "",
+          "image": "DA_BlueBuff.png"
+        },
+        {
+          "id": "",
           "image": "DA_RabadonsDeathcap.png"
         },
         {
-          "id": "pureun_pasuggun",
-          "image": "DA_BlueBuff.png"
+          "id": "",
+          "image": "DA_HextechGunblade.png"
+        },
+        {
+          "id": "",
+          "image": "DA_VoidStaff.png"
         }
       ],
       "unlock": {
@@ -5051,15 +6127,15 @@
       }
     },
     {
-      "stt": 37,
+      "stt": 50,
       "id": "yunara",
       "name": "유나라",
       "image": "tft18_yunara.tft_set18.jpg",
       "price": "2",
-      "average_position": "4.73",
-      "top_4_rate": "49.27",
-      "top_1_rate": "11.42",
-      "battle": "5,517",
+      "average_position": "4.76",
+      "top_4_rate": "48.1",
+      "top_1_rate": "10.82",
+      "battle": "24,501",
       "description_icon": [
         "돌진한 후 현재 대상에게 구체를 날립니다. 구체는 160/240/360(",
         "AD.png",
@@ -5126,23 +6202,23 @@
       ],
       "items": [
         {
-          "id": "syojinyi_cang",
+          "id": "",
           "image": "DA_SpearOfShojin.png"
         },
         {
-          "id": "jugeumyi_geom",
+          "id": "",
           "image": "DA_Deathblade.png"
         },
         {
-          "id": "muhanyi_daegeom",
+          "id": "",
           "image": "DA_InfinityEdge.png"
         },
         {
-          "id": "tagyeogdaeyi_ceoltoe",
+          "id": "",
           "image": "DA_StrikersFlail.png"
         },
         {
-          "id": "geoin_hagsalja",
+          "id": "",
           "image": "DA_GiantSlayer.png"
         }
       ],
@@ -5152,415 +6228,15 @@
       }
     },
     {
-      "stt": 38,
-      "id": "bai",
-      "name": "바이",
-      "image": "tft18_vi.tft_set18.jpg",
-      "price": "3",
-      "average_position": "4.63",
-      "top_4_rate": "46.4",
-      "top_1_rate": "11.34",
-      "battle": "22,954",
-      "description_icon": [
-        "기본 지속 효과: 기본 공격 시 체력을 22/40/71(",
-        "Health.png",
-        ") 회복합니다.",
-        "\n",
-        "\n",
-        "사용 시: 원시의 포효를 내질러 체력을 200/265/360(",
-        "AP.png",
-        ") 회복합니다. 이후 3초 동안 공격 속도를 85%/100%/125%, 내구력을 15% 얻고 저지 불가 상태가 됩니다.",
-        "\n",
-        "\n",
-        "기본 지속 효과 체력 회복량: 22(",
-        "Health.png",
-        ") [2% / 2% / 2%]",
-        "\n",
-        "\n",
-        "체력 회복량: 200(",
-        "AP.png",
-        ") [ 200 / 265 / 360 ]",
-        "\n",
-        "\n",
-        "공격 속도: [85% / 100% / 125%]"
-      ],
-      "skill_name": "분노의 주먹",
-      "skill_image": "DA_Vi18.png",
-      "starting_mana": 0,
-      "skill_mana": 60,
-      "skill_attack_range": 1,
-      "health": [
-        1100,
-        1980,
-        3564
-      ],
-      "attack_damage": [
-        45,
-        68,
-        101
-      ],
-      "damage_per_second": [
-        34,
-        51,
-        76
-      ],
-      "attack_speed": 0.75,
-      "armor": 50,
-      "magical_resistance": 50,
-      "stats": [
-        "기본 지속 효과 체력 회복량: 22(%i:scaleHealth%) [2% / 2% / 2%]",
-        "체력 회복량: 200(%i:scaleAP%) [200 / 265 / 360]",
-        "공격 속도: [85% / 100% / 125%]"
-      ],
-      "traits": [
-        {
-          "id": "jeonjaenggigye",
-          "name": "전쟁기계",
-          "image": "Trait_Icon_18_Juggernaut.TFT_Set18.png"
-        },
-        {
-          "id": "weonsi",
-          "name": "원시",
-          "image": "Trait_Icon_18_Primal.TFT_Set18.png"
-        }
-      ],
-      "items": [
-        {
-          "id": "gagoil_dolgabos",
-          "image": "DA_GargoyleStoneplate.png"
-        },
-        {
-          "id": "jeongryeongyi_hyeongsang",
-          "image": "DA_SpiritVisage.png"
-        },
-        {
-          "id": "weomogeuyi_gabos",
-          "image": "DA_WarmogsArmor.png"
-        },
-        {
-          "id": "taeyangbulggoc_mangto",
-          "image": "DA_SunfireCape.png"
-        },
-        {
-          "id": "suhojayi_maengse",
-          "image": "DA_ProtectorsVow.png"
-        }
-      ],
-      "unlock": {
-        "description": "",
-        "type": false
-      }
-    },
-    {
-      "stt": 39,
-      "id": "rammeoseu",
-      "name": "람머스",
-      "image": "tft18_rammus.tft_set18.jpg",
-      "price": "3",
-      "average_position": "4.45",
-      "top_4_rate": "50.4",
-      "top_1_rate": "11.32",
-      "battle": "8,705",
-      "description_icon": [
-        "도발하여 적이 이 챔피언을 공격하도록 합니다. 4초 동안 350/450/550(",
-        "AP.png",
-        ")의 보호막과 방어력 및 마법 저항력을 60 얻습니다.",
-        "\n",
-        "\n",
-        "보호막이 파괴되면, 2칸 내 적에게 50/75/120(",
-        "Armor.png",
-        "MR.png",
-        ")의 물리 피해를 입힙니다.",
-        "\n",
-        "\n",
-        "보호막: 350(",
-        "AP.png",
-        ") [ 350 / 450 / 550 ]",
-        "\n",
-        "\n",
-        "피해량: 50=25(",
-        "Armor.png",
-        ")+25(",
-        "MR.png",
-        ") [50% / 75% / 120%]"
-      ],
-      "skill_name": "몸 말아 웅크리기",
-      "skill_image": "DA_18_Rammus.png",
-      "starting_mana": 30,
-      "skill_mana": 80,
-      "skill_attack_range": 1,
-      "health": [
-        1100,
-        1980,
-        3564
-      ],
-      "attack_damage": [
-        50,
-        75,
-        113
-      ],
-      "damage_per_second": [
-        30,
-        45,
-        68
-      ],
-      "attack_speed": 0.6,
-      "armor": 50,
-      "magical_resistance": 50,
-      "stats": [
-        "보호막: 350(%i:scaleAP%) [350 / 450 / 550]",
-        "피해량: 50=25(%i:scaleArmor%)+25(%i:scaleMR%) [50% / 75% / 120%]"
-      ],
-      "traits": [
-        {
-          "id": "eomhodae",
-          "name": "엄호대",
-          "image": "Trait_Icon_18_Defender.TFT_Set18.png"
-        },
-        {
-          "id": "nalryeobi",
-          "name": "날렵이",
-          "image": "Trait_Icon_18_Sprykin.TFT_Set18.png"
-        }
-      ],
-      "items": [
-        {
-          "id": "gagoil_dolgabos",
-          "image": "DA_GargoyleStoneplate.png"
-        },
-        {
-          "id": "weomogeuyi_gabos",
-          "image": "DA_WarmogsArmor.png"
-        },
-        {
-          "id": "jeongryeongyi_hyeongsang",
-          "image": "DA_SpiritVisage.png"
-        },
-        {
-          "id": "taeyangbulggoc_mangto",
-          "image": "DA_SunfireCape.png"
-        },
-        {
-          "id": "suhojayi_maengse",
-          "image": "DA_ProtectorsVow.png"
-        }
-      ],
-      "unlock": {
-        "description": "",
-        "type": false
-      }
-    },
-    {
-      "stt": 40,
-      "id": "reona",
-      "name": "레오나",
-      "image": "tft18_leona.tft_set18.jpg",
-      "price": "1",
-      "average_position": "4.64",
-      "top_4_rate": "46.65",
-      "top_1_rate": "11.17",
-      "battle": "10,809",
-      "description_icon": [
-        "기본 지속 효과: 12초에 걸쳐 서서히 감소하는 추가 방어력 및 마법 저항력을 60/70/80(",
-        "AP.png",
-        ") 얻은 상태로 전투를 시작합니다.",
-        "\n",
-        "\n",
-        "사용 시: 현재 대상을 강타해 60/108/162(",
-        "Armor.png",
-        ")의 마법 피해를 입히고 1.5초 동안 기절시킵니다.",
-        "\n",
-        "\n",
-        "점차 사라지는 방어력 및 마법 저항력: 60(",
-        "AP.png",
-        ") [ 60 / 70 / 80 ]",
-        "\n",
-        "\n",
-        "피해량: 60(",
-        "Armor.png",
-        ") [150% / 270% / 405%]"
-      ],
-      "skill_name": "보호막 강타",
-      "skill_image": "DA_18_Leona.png",
-      "starting_mana": 40,
-      "skill_mana": 100,
-      "skill_attack_range": 1,
-      "health": [
-        750,
-        1350,
-        2430
-      ],
-      "attack_damage": [
-        50,
-        75,
-        113
-      ],
-      "damage_per_second": [
-        33,
-        49,
-        73
-      ],
-      "attack_speed": 0.65,
-      "armor": 40,
-      "magical_resistance": 40,
-      "stats": [
-        "점차 사라지는 방어력 및 마법 저항력: 60(%i:scaleAP%) [60 / 70 / 80]",
-        "피해량: 60(%i:scaleArmor%) [150% / 270% / 405%]"
-      ],
-      "traits": [
-        {
-          "id": "eomhodae",
-          "name": "엄호대",
-          "image": "Trait_Icon_18_Defender.TFT_Set18.png"
-        },
-        {
-          "id": "haesbic",
-          "name": "햇빛",
-          "image": "Trait_Icon_18_Solar.TFT_Set18.png"
-        }
-      ],
-      "items": [
-        {
-          "id": "gagoil_dolgabos",
-          "image": "DA_GargoyleStoneplate.png"
-        },
-        {
-          "id": "jeongryeongyi_hyeongsang",
-          "image": "DA_SpiritVisage.png"
-        },
-        {
-          "id": "weomogeuyi_gabos",
-          "image": "DA_WarmogsArmor.png"
-        },
-        {
-          "id": "suhojayi_maengse",
-          "image": "DA_ProtectorsVow.png"
-        },
-        {
-          "id": "taeyangbulggoc_mangto",
-          "image": "DA_SunfireCape.png"
-        }
-      ],
-      "unlock": {
-        "description": "",
-        "type": false
-      }
-    },
-    {
-      "stt": 41,
-      "id": "malpaiteu",
-      "name": "말파이트",
-      "image": "tft18_malphite.tft_set18.jpg",
-      "price": "4",
-      "average_position": "4.3",
-      "top_4_rate": "56.25",
-      "top_1_rate": "10.99",
-      "battle": "6,480",
-      "description_icon": [
-        "4초 동안 700/850/2000(",
-        "AP.png",
-        ")의 보호막을 얻고 석화 상태가 됩니다. 보호막이 파괴되면 암흑 에너지 파동을 방출해 2/2/3칸 내 적에게 82/123/3399(",
-        "AP.png",
-        "Armor.png",
-        "MR.png",
-        ")의 마법 피해를 입힙니다.",
-        "\n",
-        "\n",
-        "보호막: 700(",
-        "AP.png",
-        ") [ 700 / 850 / 2000 ]",
-        "\n",
-        "\n",
-        "피해량:",
-        "AP.png",
-        "[ 40 / 60 / 2000 ]",
-        "\n",
-        "\n",
-        "피해량: 82=40(",
-        "AP.png",
-        ")+30%(",
-        "Armor.png",
-        ")+30%(",
-        "MR.png",
-        ") [30% / 45% / 999%]"
-      ],
-      "skill_name": "석화된 나무껍질",
-      "skill_image": "DA_18_Malphite.png",
-      "starting_mana": 30,
-      "skill_mana": 80,
-      "skill_attack_range": 1,
-      "health": [
-        1300,
-        2340,
-        4212
-      ],
-      "attack_damage": [
-        70,
-        105,
-        158
-      ],
-      "damage_per_second": [
-        39,
-        58,
-        87
-      ],
-      "attack_speed": 0.55,
-      "armor": 70,
-      "magical_resistance": 70,
-      "stats": [
-        "보호막: 700(%i:scaleAP%) [700 / 850 / 2000]",
-        "피해량: %i:scaleAP% [40 / 60 / 2000]",
-        "피해량: 82=40(%i:scaleAP%)+30%(%i:scaleArmor%)+30%(%i:scaleMR%) [30% / 45% / 999%]"
-      ],
-      "traits": [
-        {
-          "id": "geomeun_gasi",
-          "name": "검은 가시",
-          "image": "Trait_Icon_18_OldGod.TFT_Set18.png"
-        },
-        {
-          "id": "geoseog",
-          "name": "거석",
-          "image": "Trait_Icon_18_Monolith.TFT_Set18.png"
-        }
-      ],
-      "items": [
-        {
-          "id": "gagoil_dolgabos",
-          "image": "DA_GargoyleStoneplate.png"
-        },
-        {
-          "id": "weomogeuyi_gabos",
-          "image": "DA_WarmogsArmor.png"
-        },
-        {
-          "id": "jeongryeongyi_hyeongsang",
-          "image": "DA_SpiritVisage.png"
-        },
-        {
-          "id": "keuraungadeu",
-          "image": "DA_Crownguard.png"
-        },
-        {
-          "id": "yongyi_baltob",
-          "image": "DA_DragonsClaw.png"
-        }
-      ],
-      "unlock": {
-        "description": "",
-        "type": false
-      }
-    },
-    {
-      "stt": 42,
+      "stt": 51,
       "id": "jaya",
       "name": "자야",
       "image": "tft18_xayah.tft_set18.jpg",
       "price": "1",
-      "average_position": "4.84",
-      "top_4_rate": "42.27",
-      "top_1_rate": "10.19",
-      "battle": "18,407",
+      "average_position": "4.8",
+      "top_4_rate": "43.41",
+      "top_1_rate": "10.80",
+      "battle": "80,345",
       "description_icon": [
         "다음 기본 공격 5회 동안 공격 속도를 50% 얻습니다. 이 기본 공격은 깃털로 대체되며 68/102/155(",
         "AD.png",
@@ -5632,15 +6308,230 @@
       }
     },
     {
-      "stt": 43,
+      "stt": 52,
+      "id": "malpaiteu",
+      "name": "말파이트",
+      "image": "tft18_malphite.tft_set18.jpg",
+      "price": "4",
+      "average_position": "4.38",
+      "top_4_rate": "53.82",
+      "top_1_rate": "10.42",
+      "battle": "28,123",
+      "description_icon": [
+        "4초 동안 700/850/2000(",
+        "AP.png",
+        ")의 보호막을 얻고 석화 상태가 됩니다. 보호막이 파괴되면 암흑 에너지 파동을 방출해 2/2/3칸 내 적에게 82/123/3399(",
+        "AP.png",
+        "Armor.png",
+        "MR.png",
+        ")의 마법 피해를 입힙니다.",
+        "\n",
+        "\n",
+        "보호막: 700(",
+        "AP.png",
+        ") [ 700 / 850 / 2000 ]",
+        "\n",
+        "\n",
+        "피해량:",
+        "AP.png",
+        "[ 40 / 60 / 2000 ]",
+        "\n",
+        "\n",
+        "피해량: 82=40(",
+        "AP.png",
+        ")+30%(",
+        "Armor.png",
+        ")+30%(",
+        "MR.png",
+        ") [30% / 45% / 999%]"
+      ],
+      "skill_name": "석화된 나무껍질",
+      "skill_image": "DA_18_Malphite.png",
+      "starting_mana": 30,
+      "skill_mana": 80,
+      "skill_attack_range": 1,
+      "health": [
+        1300,
+        2340,
+        4212
+      ],
+      "attack_damage": [
+        70,
+        105,
+        158
+      ],
+      "damage_per_second": [
+        39,
+        58,
+        87
+      ],
+      "attack_speed": 0.55,
+      "armor": 70,
+      "magical_resistance": 70,
+      "stats": [
+        "보호막: 700(%i:scaleAP%) [700 / 850 / 2000]",
+        "피해량: %i:scaleAP% [40 / 60 / 2000]",
+        "피해량: 82=40(%i:scaleAP%)+30%(%i:scaleArmor%)+30%(%i:scaleMR%) [30% / 45% / 999%]"
+      ],
+      "traits": [
+        {
+          "id": "geomeun_gasi",
+          "name": "검은 가시",
+          "image": "Trait_Icon_18_OldGod.TFT_Set18.png"
+        },
+        {
+          "id": "geoseog",
+          "name": "거석",
+          "image": "Trait_Icon_18_Monolith.TFT_Set18.png"
+        }
+      ],
+      "items": [
+        {
+          "id": "",
+          "image": "DA_GargoyleStoneplate.png"
+        },
+        {
+          "id": "",
+          "image": "DA_WarmogsArmor.png"
+        },
+        {
+          "id": "",
+          "image": "DA_SpiritVisage.png"
+        },
+        {
+          "id": "",
+          "image": "DA_Crownguard.png"
+        },
+        {
+          "id": "",
+          "image": "DA_DragonsClaw.png"
+        }
+      ],
+      "unlock": {
+        "description": "",
+        "type": false
+      }
+    },
+    {
+      "stt": 53,
+      "id": "dolgeobug",
+      "name": "돌거북",
+      "image": "Krug_1783676771-Krug.jpg",
+      "price": "3",
+      "average_position": "4.55",
+      "top_4_rate": "50.69",
+      "top_1_rate": "10.26",
+      "battle": "58,908",
+      "description_icon": [
+        "기본 지속 효과: 사망 시 182/338/608(",
+        "Health.png",
+        ")의 체력을 가진 꼬마 돌거북 두 마리로 분열하고 즉시 도발하여 적이 자신을 공격하도록 합니다.",
+        "\n",
+        "\n",
+        "사용 시: 최대 체력을 175/225/325(",
+        "AP.png",
+        ") 얻고 대상에게 굴러가 223/358/620(",
+        "AD.png",
+        "Health.png",
+        ")의 피해를 입힙니다.",
+        "\n",
+        "\n",
+        "진회색 버프: 사망 시 돌거북과 꼬마 돌거북이 아군에게 최대 체력의 8%만큼 보호막을 부여합니다.",
+        "\n",
+        "\n",
+        "꼬마 돌거북 체력: 182=132(",
+        "Health.png",
+        ")+50 [ 50 / 100 / 180 ]",
+        "\n",
+        "\n",
+        "추가 체력: 175(",
+        "AP.png",
+        ") [ 175 / 225 / 325 ]",
+        "\n",
+        "\n",
+        "피해량: 223=88(",
+        "Health.png",
+        ")+135(",
+        "AD.png",
+        ") [ 135 / 200 / 335 ]"
+      ],
+      "skill_name": "로큰롤",
+      "skill_image": "Krug_1785308447-ancientkrug_square%20(1",
+      "starting_mana": 80,
+      "skill_mana": 135,
+      "skill_attack_range": 1,
+      "health": [
+        1100,
+        1980,
+        3564
+      ],
+      "attack_damage": [
+        55,
+        83,
+        124
+      ],
+      "damage_per_second": [
+        33,
+        50,
+        74
+      ],
+      "attack_speed": 0.6,
+      "armor": 40,
+      "magical_resistance": 40,
+      "stats": [
+        "꼬마 돌거북 체력: 182=132(%i:scaleHealth%)+50 [50 / 100 / 180]",
+        "추가 체력: 175(%i:scaleAP%) [175 / 225 / 325]",
+        "피해량: 223=88(%i:scaleHealth%)+135(%i:scaleAD%) [135 / 200 / 335]"
+      ],
+      "traits": [
+        {
+          "id": "ssaumggun",
+          "name": "싸움꾼",
+          "image": "Trait_Icon_18_Brawler.TFT_Set18.png"
+        },
+        {
+          "id": "hyeobgogyasu",
+          "name": "협곡야수",
+          "image": "Trait_Icon_18_Riftbeast.TFT_Set18.png"
+        }
+      ],
+      "items": [
+        {
+          "id": "",
+          "image": "DA_GargoyleStoneplate.png"
+        },
+        {
+          "id": "",
+          "image": "DA_WarmogsArmor.png"
+        },
+        {
+          "id": "",
+          "image": "DA_SpiritVisage.png"
+        },
+        {
+          "id": "",
+          "image": "DA_SunfireCape.png"
+        },
+        {
+          "id": "",
+          "image": "DA_ProtectorsVow.png"
+        }
+      ],
+      "unlock": {
+        "description": "",
+        "type": false
+      }
+    },
+    {
+      "stt": 54,
       "id": "keil",
       "name": "케일",
       "image": "tft18_kayle.tft_set18.jpg",
       "price": "2",
-      "average_position": "4.69",
-      "top_4_rate": "44.1",
-      "top_1_rate": "10.12",
-      "battle": "10,552",
+      "average_position": "4.7",
+      "top_4_rate": "44.52",
+      "top_1_rate": "10.25",
+      "battle": "45,454",
       "description_icon": [
         "기본 지속 효과: 케일이 별 레벨에 따라 승천하여, 중첩되는 추가 효과를 얻습니다.",
         "\n",
@@ -5711,23 +6602,23 @@
       ],
       "items": [
         {
-          "id": "guinsuyi_gyeognogeom",
+          "id": "",
           "image": "DA_GuinsoosRageblade.png"
         },
         {
-          "id": "boseog_geonteulris",
+          "id": "",
           "image": "DA_JeweledGauntlet.png"
         },
         {
-          "id": "rabadonyi_jugeummoja",
+          "id": "",
           "image": "DA_RabadonsDeathcap.png"
         },
         {
-          "id": "geoin_hagsalja",
+          "id": "",
           "image": "DA_GiantSlayer.png"
         },
         {
-          "id": "mabeobgonghag_conggeom",
+          "id": "",
           "image": "DA_HextechGunblade.png"
         }
       ],
@@ -5737,96 +6628,99 @@
       }
     },
     {
-      "stt": 44,
-      "id": "rakan",
-      "name": "라칸",
-      "image": "tft18_rakan.tft_set18.jpg",
-      "price": "1",
-      "average_position": "4.8",
-      "top_4_rate": "42.4",
-      "top_1_rate": "9.61",
-      "battle": "18,612",
+      "stt": 55,
+      "id": "eomi_buri",
+      "name": "어미 부리",
+      "image": "Raptor_1783677107-CrimsonRaptor.jpg",
+      "price": "3",
+      "average_position": "4.57",
+      "top_4_rate": "47.68",
+      "top_1_rate": "9.64",
+      "battle": "59,098",
       "description_icon": [
-        "4초 동안 270/320/415(",
+        "대상으로 지정할 수 없는 꼬마 부리 4마리를 주변에 5(",
         "AP.png",
-        ")의 보호막을 얻습니다. 이후 이번 전투에서 가장 많은 피해를 입힌 아군에게 공격 속도를 90%/100%/130%(",
-        "AP.png",
-        ") 부여합니다. 공격 속도는 4초에 걸쳐 점차 사라집니다.",
+        ")초 동안 소환합니다. 어미 부리가 기본 공격할 때마다 꼬마 부리도 같은 적을 공격하여 20/30/48(",
+        "AD.png",
+        ")의 물리 피해를 입힙니다.",
         "\n",
         "\n",
-        "보호막: 270(",
-        "AP.png",
-        ") [ 270 / 320 / 415 ]",
+        "오렌지 버프: 물리 피해를 입히면 적의 방어력이 2 감소합니다.",
         "\n",
         "\n",
-        "공격 속도: 90%(",
+        "지속시간: 5(",
         "AP.png",
-        ") [90% / 100% / 130%]"
+        ") [ 5 / 5 / 5 ]",
+        "\n",
+        "\n",
+        "피해량: 20(",
+        "AD.png",
+        ") [ 20 / 30 / 48 ]"
       ],
-      "skill_name": "황홀한 춤",
-      "skill_image": "DA_18_Rakan.png",
-      "starting_mana": 35,
-      "skill_mana": 105,
-      "skill_attack_range": 1,
+      "skill_name": "새 떼 가족",
+      "skill_image": "Raptor_1785313555-96px-Crimson_RaptorSquare.png",
+      "starting_mana": 20,
+      "skill_mana": 60,
+      "skill_attack_range": 4,
       "health": [
-        700,
-        1260,
-        2268
+        650,
+        1170,
+        2106
       ],
       "attack_damage": [
-        45,
-        68,
-        101
+        50,
+        75,
+        113
       ],
       "damage_per_second": [
-        27,
-        41,
-        61
+        38,
+        56,
+        84
       ],
-      "attack_speed": 0.6,
+      "attack_speed": 0.75,
       "armor": 35,
       "magical_resistance": 35,
       "stats": [
-        "보호막: 270(%i:scaleAP%) [270 / 320 / 415]",
-        "공격 속도: 90%(%i:scaleAP%) [90% / 100% / 130%]"
+        "지속시간: 5(%i:scaleAP%) [5 / 5 / 5]",
+        "피해량: 20(%i:scaleAD%) [20 / 30 / 48]"
       ],
       "traits": [
         {
-          "id": "yojeong",
-          "name": "요정",
-          "image": "Trait_Icon_18_Fae.TFT_Set18.png"
+          "id": "sogsapo",
+          "name": "속사포",
+          "image": "Trait_Icon_18_Rapidfire.TFT_Set18.png"
         },
         {
-          "id": "jeonjaenggigye",
-          "name": "전쟁기계",
-          "image": "Trait_Icon_18_Juggernaut.TFT_Set18.png"
+          "id": "hyeobgogyasu",
+          "name": "협곡야수",
+          "image": "Trait_Icon_18_Riftbeast.TFT_Set18.png"
         },
         {
-          "id": "seonbongdae",
-          "name": "선봉대",
-          "image": "Trait_Icon_18_Vanguard.TFT_Set18.png"
+          "id": "sohwansa",
+          "name": "소환사",
+          "image": "Trait_Icon_18_Summoner.TFT_Set18.png"
         }
       ],
       "items": [
         {
-          "id": "gagoil_dolgabos",
-          "image": "DA_GargoyleStoneplate.png"
+          "id": "",
+          "image": "DA_GuinsoosRageblade.png"
         },
         {
-          "id": "suhojayi_maengse",
-          "image": "DA_ProtectorsVow.png"
+          "id": "",
+          "image": "DA_LastWhisper.png"
         },
         {
-          "id": "jeongryeongyi_hyeongsang",
-          "image": "DA_SpiritVisage.png"
+          "id": "",
+          "image": "DA_KrakensFury.png"
         },
         {
-          "id": "ion_cunggyeoggi",
-          "image": "DA_IonicSpark.png"
+          "id": "",
+          "image": "DA_InfinityEdge.png"
         },
         {
-          "id": "taeyangbulggoc_mangto",
-          "image": "DA_SunfireCape.png"
+          "id": "",
+          "image": "DA_GiantSlayer.png"
         }
       ],
       "unlock": {
@@ -5835,15 +6729,15 @@
       }
     },
     {
-      "stt": 45,
+      "stt": 56,
       "id": "beiga",
       "name": "베이가",
       "image": "tft18_veigar.tft_set18.jpg",
       "price": "1",
-      "average_position": "4.31",
-      "top_4_rate": "54.62",
-      "top_1_rate": "9.24",
-      "battle": "5,165",
+      "average_position": "4.36",
+      "top_4_rate": "53.57",
+      "top_1_rate": "9.60",
+      "battle": "23,880",
       "description_icon": [
         "대상에게 거대한 폭발을 일으켜 175/265/395(",
         "AP.png",
@@ -5920,15 +6814,218 @@
       }
     },
     {
-      "stt": 46,
+      "stt": 57,
+      "id": "rakan",
+      "name": "라칸",
+      "image": "tft18_rakan.tft_set18.jpg",
+      "price": "1",
+      "average_position": "4.83",
+      "top_4_rate": "42",
+      "top_1_rate": "9.58",
+      "battle": "77,092",
+      "description_icon": [
+        "4초 동안 270/320/415(",
+        "AP.png",
+        ")의 보호막을 얻습니다. 이후 이번 전투에서 가장 많은 피해를 입힌 아군에게 공격 속도를 90%/100%/130%(",
+        "AP.png",
+        ") 부여합니다. 공격 속도는 4초에 걸쳐 점차 사라집니다.",
+        "\n",
+        "\n",
+        "보호막: 270(",
+        "AP.png",
+        ") [ 270 / 320 / 415 ]",
+        "\n",
+        "\n",
+        "공격 속도: 90%(",
+        "AP.png",
+        ") [90% / 100% / 130%]"
+      ],
+      "skill_name": "황홀한 춤",
+      "skill_image": "DA_18_Rakan.png",
+      "starting_mana": 35,
+      "skill_mana": 105,
+      "skill_attack_range": 1,
+      "health": [
+        700,
+        1260,
+        2268
+      ],
+      "attack_damage": [
+        45,
+        68,
+        101
+      ],
+      "damage_per_second": [
+        27,
+        41,
+        61
+      ],
+      "attack_speed": 0.6,
+      "armor": 35,
+      "magical_resistance": 35,
+      "stats": [
+        "보호막: 270(%i:scaleAP%) [270 / 320 / 415]",
+        "공격 속도: 90%(%i:scaleAP%) [90% / 100% / 130%]"
+      ],
+      "traits": [
+        {
+          "id": "yojeong",
+          "name": "요정",
+          "image": "Trait_Icon_18_Fae.TFT_Set18.png"
+        },
+        {
+          "id": "jeonjaenggigye",
+          "name": "전쟁기계",
+          "image": "Trait_Icon_18_Juggernaut.TFT_Set18.png"
+        },
+        {
+          "id": "seonbongdae",
+          "name": "선봉대",
+          "image": "Trait_Icon_18_Vanguard.TFT_Set18.png"
+        }
+      ],
+      "items": [
+        {
+          "id": "",
+          "image": "DA_GargoyleStoneplate.png"
+        },
+        {
+          "id": "",
+          "image": "DA_ProtectorsVow.png"
+        },
+        {
+          "id": "",
+          "image": "DA_SpiritVisage.png"
+        },
+        {
+          "id": "",
+          "image": "DA_IonicSpark.png"
+        },
+        {
+          "id": "",
+          "image": "DA_SunfireCape.png"
+        }
+      ],
+      "unlock": {
+        "description": "",
+        "type": false
+      }
+    },
+    {
+      "stt": 58,
+      "id": "eoseureumneugdae",
+      "name": "어스름늑대",
+      "image": "Murkwolf_1783676955-MurkWolf.jpg",
+      "price": "2",
+      "average_position": "4.58",
+      "top_4_rate": "48.91",
+      "top_1_rate": "9.33",
+      "battle": "35,421",
+      "description_icon": [
+        "3칸 내 체력이 가장 낮은 적에게 도약해 500/1050/2250(",
+        "AD.png",
+        "AP.png",
+        ")의 물리 피해를 입힙니다. 다음 기본 공격 2회 동안 공격 속도를 175% 얻고 60/90/135(",
+        "AD.png",
+        ")의 추가 물리 피해를 입힙니다.",
+        "\n",
+        "\n",
+        "그레이 버프: 어스름늑대가 정밀 및 치명타 확률을 25% 얻습니다. 치명타 확률은 잃은 체력에 비례해 75%까지 증가합니다.",
+        "\n",
+        "\n",
+        "피해량:",
+        "AP.png",
+        "[ 20 / 30 / 45 ]",
+        "\n",
+        "\n",
+        "피해량: 500=100(",
+        "AD.png",
+        ")+20(",
+        "AP.png",
+        ") [ 100 / 150 / 225 ]",
+        "\n",
+        "\n",
+        "강화된 피해량: 60(",
+        "AD.png",
+        ") [ 60 / 90 / 135 ]"
+      ],
+      "skill_name": "찢어발기는 발톱",
+      "skill_image": "Murkwolf_1785311993-Greater_Murk_Wolf_profileicon.png",
+      "starting_mana": 0,
+      "skill_mana": 40,
+      "skill_attack_range": 1,
+      "health": [
+        700,
+        1260,
+        2268
+      ],
+      "attack_damage": [
+        50,
+        75,
+        113
+      ],
+      "damage_per_second": [
+        38,
+        56,
+        84
+      ],
+      "attack_speed": 0.75,
+      "armor": 40,
+      "magical_resistance": 40,
+      "stats": [
+        "피해량: %i:scaleAP% [20 / 30 / 45]",
+        "피해량: 500=100(%i:scaleAD%)+20(%i:scaleAP%) [100 / 150 / 225]",
+        "강화된 피해량: 60(%i:scaleAD%) [60 / 90 / 135]"
+      ],
+      "traits": [
+        {
+          "id": "yagtalja",
+          "name": "약탈자",
+          "image": "Trait_Icon_18_Ravager.TFT_Set18.png"
+        },
+        {
+          "id": "hyeobgogyasu",
+          "name": "협곡야수",
+          "image": "Trait_Icon_18_Riftbeast.TFT_Set18.png"
+        }
+      ],
+      "items": [
+        {
+          "id": "",
+          "image": "DA_HandOfJustice.png"
+        },
+        {
+          "id": "",
+          "image": "DA_EdgeOfNight.png"
+        },
+        {
+          "id": "",
+          "image": "DA_InfinityEdge.png"
+        },
+        {
+          "id": "",
+          "image": "DA_Bloodthirster.png"
+        },
+        {
+          "id": "",
+          "image": "DA_LastWhisper.png"
+        }
+      ],
+      "unlock": {
+        "description": "",
+        "type": false
+      }
+    },
+    {
+      "stt": 59,
       "id": "regsai",
       "name": "렉사이",
       "image": "tft18_reksai.tft_set18.jpg",
       "price": "1",
-      "average_position": "4.34",
-      "top_4_rate": "54.38",
-      "top_1_rate": "8.88",
-      "battle": "5,484",
+      "average_position": "4.39",
+      "top_4_rate": "53.26",
+      "top_1_rate": "9.15",
+      "battle": "24,710",
       "description_icon": [
         "기본 지속 효과: 매초 17/27/43(",
         "Health.png",
@@ -5988,23 +7085,23 @@
       ],
       "items": [
         {
-          "id": "gagoil_dolgabos",
+          "id": "",
           "image": "DA_GargoyleStoneplate.png"
         },
         {
-          "id": "weomogeuyi_gabos",
+          "id": "",
           "image": "DA_WarmogsArmor.png"
         },
         {
-          "id": "jeongryeongyi_hyeongsang",
+          "id": "",
           "image": "DA_SpiritVisage.png"
         },
         {
-          "id": "taeyangbulggoc_mangto",
+          "id": "",
           "image": "DA_SunfireCape.png"
         },
         {
-          "id": "suhojayi_maengse",
+          "id": "",
           "image": "DA_ProtectorsVow.png"
         }
       ],
@@ -6014,15 +7111,15 @@
       }
     },
     {
-      "stt": 47,
+      "stt": 60,
       "id": "teuriseutana",
       "name": "트리스타나",
       "image": "tft18_tristana.tft_set18.jpg",
       "price": "3",
-      "average_position": "4.87",
-      "top_4_rate": "42.05",
-      "top_1_rate": "8.52",
-      "battle": "9,559",
+      "average_position": "4.84",
+      "top_4_rate": "43",
+      "top_1_rate": "8.61",
+      "battle": "41,693",
       "description_icon": [
         "대상에게 4초 동안 지속되는 폭발 화약을 부착합니다. 지속시간 동안 사거리 제한이 없어지고 공격 속도를 60%(",
         "AP.png",
@@ -6097,24 +7194,24 @@
       ],
       "items": [
         {
-          "id": "guinsuyi_gyeognogeom",
+          "id": "",
           "image": "DA_GuinsoosRageblade.png"
         },
         {
-          "id": "muhanyi_daegeom",
+          "id": "",
           "image": "DA_InfinityEdge.png"
         },
         {
-          "id": "geoin_hagsalja",
+          "id": "",
           "image": "DA_GiantSlayer.png"
         },
         {
-          "id": "mabeobgonghag_conggeom",
-          "image": "DA_HextechGunblade.png"
+          "id": "",
+          "image": "DA_KrakensFury.png"
         },
         {
-          "id": "keurakenyi_bunno",
-          "image": "DA_KrakensFury.png"
+          "id": "",
+          "image": "DA_LastWhisper.png"
         }
       ],
       "unlock": {
@@ -6123,15 +7220,319 @@
       }
     },
     {
-      "stt": 48,
+      "stt": 61,
+      "id": "bultaneun_myomog",
+      "name": "불타는 묘목",
+      "image": "Cinderling_1783677059-Cinderling.jpg",
+      "price": "1",
+      "average_position": "4.54",
+      "top_4_rate": "45.65",
+      "top_1_rate": "8.61",
+      "battle": "24,743",
+      "description_icon": [
+        "날카로운 잎사귀 5개를 소환해 현재 대상에게 날려 총 370/555/835(",
+        "AD.png",
+        "AP.png",
+        ")의 물리 피해를 입히고 4초 동안 20% 상처 및 1% 화상을 적용합니다.",
+        "\n",
+        "\n",
+        "진홍색 버프: 스킬을 사용할 때마다 불타는 묘목이 공격력을 22% 얻습니다.",
+        "\n",
+        "\n",
+        "상처: 체력 회복량 감소",
+        "\n",
+        "화상: 매초 대상 최대 체력의 일정 비율만큼 고정 피해",
+        "\n",
+        "\n",
+        "피해량:",
+        "AP.png",
+        "[ 30 / 45 / 70 ]",
+        "\n",
+        "\n",
+        "피해량: 370=340(",
+        "AD.png",
+        ")+30(",
+        "AP.png",
+        ") [ 340 / 510 / 765 ]"
+      ],
+      "skill_name": "예리한 잎사귀",
+      "skill_image": "Cinderling_1785314354-tft16_pve_redgolemmini_square.png",
+      "starting_mana": 0,
+      "skill_mana": 50,
+      "skill_attack_range": 4,
+      "health": [
+        500,
+        900,
+        1620
+      ],
+      "attack_damage": [
+        45,
+        68,
+        101
+      ],
+      "damage_per_second": [
+        31,
+        47,
+        71
+      ],
+      "attack_speed": 0.7,
+      "armor": 25,
+      "magical_resistance": 25,
+      "stats": [
+        "피해량: %i:scaleAP% [30 / 45 / 70]",
+        "피해량: 370=340(%i:scaleAD%)+30(%i:scaleAP%) [340 / 510 / 765]"
+      ],
+      "traits": [
+        {
+          "id": "sanyangggun",
+          "name": "사냥꾼",
+          "image": "Trait_Icon_18_Hunter.TFT_Set18.png"
+        },
+        {
+          "id": "hyeobgogyasu",
+          "name": "협곡야수",
+          "image": "Trait_Icon_18_Riftbeast.TFT_Set18.png"
+        }
+      ],
+      "items": [
+        {
+          "id": "",
+          "image": "DA_InfinityEdge.png"
+        },
+        {
+          "id": "",
+          "image": "DA_GiantSlayer.png"
+        },
+        {
+          "id": "",
+          "image": "DA_SpearOfShojin.png"
+        },
+        {
+          "id": "",
+          "image": "DA_StrikersFlail.png"
+        },
+        {
+          "id": "",
+          "image": "DA_HandOfJustice.png"
+        }
+      ],
+      "unlock": {
+        "description": "",
+        "type": false
+      }
+    },
+    {
+      "stt": 62,
+      "id": "bawi_ge",
+      "name": "바위 게",
+      "image": "Scuttlecrab_1783676864-Scuttlecrab.jpg",
+      "price": "2",
+      "average_position": "4.74",
+      "top_4_rate": "44.43",
+      "top_1_rate": "8.37",
+      "battle": "53,879",
+      "description_icon": [
+        "기본 지속 효과: 기본 공격이 춤으로 대체되어 인접한 모든 적에게 50/75/113(",
+        "AD.png",
+        ")의 물리 피해를 입힙니다.",
+        "\n",
+        "\n",
+        "사용 시: 지하로 파고들어 3초 동안 내구력을 15% 얻고 지속시간에 걸쳐 325/400/675(",
+        "AP.png",
+        ")의 체력을 회복합니다.",
+        "\n",
+        "\n",
+        "그린 버프: 아군 체력이 50% 아래로 떨어지면 최대 체력의 15%만큼 체력을 회복합니다.",
+        "\n",
+        "\n",
+        "피해량: 50(",
+        "AD.png",
+        ") [ 50 / 75 / 112.5 ]",
+        "\n",
+        "\n",
+        "체력 회복량: 325(",
+        "AP.png",
+        ") [ 325 / 400 / 675 ]"
+      ],
+      "skill_name": "팔 수 있겠어?",
+      "skill_image": "Scuttlecrab_1785310854-crab_square_0.png",
+      "starting_mana": 40,
+      "skill_mana": 100,
+      "skill_attack_range": 1,
+      "health": [
+        950,
+        1710,
+        3078
+      ],
+      "attack_damage": [
+        50,
+        75,
+        113
+      ],
+      "damage_per_second": [
+        33,
+        49,
+        73
+      ],
+      "attack_speed": 0.65,
+      "armor": 45,
+      "magical_resistance": 45,
+      "stats": [
+        "피해량: 50(%i:scaleAD%) [50 / 75 / 112.5]",
+        "체력 회복량: 325(%i:scaleAP%) [325 / 400 / 675]"
+      ],
+      "traits": [
+        {
+          "id": "jeonjaenggigye",
+          "name": "전쟁기계",
+          "image": "Trait_Icon_18_Juggernaut.TFT_Set18.png"
+        },
+        {
+          "id": "hyeobgogyasu",
+          "name": "협곡야수",
+          "image": "Trait_Icon_18_Riftbeast.TFT_Set18.png"
+        }
+      ],
+      "items": [
+        {
+          "id": "",
+          "image": "DA_GargoyleStoneplate.png"
+        },
+        {
+          "id": "",
+          "image": "DA_SpiritVisage.png"
+        },
+        {
+          "id": "",
+          "image": "DA_WarmogsArmor.png"
+        },
+        {
+          "id": "",
+          "image": "DA_ProtectorsVow.png"
+        },
+        {
+          "id": "",
+          "image": "DA_SunfireCape.png"
+        }
+      ],
+      "unlock": {
+        "description": "",
+        "type": false
+      }
+    },
+    {
+      "stt": 63,
+      "id": "simsulduggeobi",
+      "name": "심술두꺼비",
+      "image": "Gromp_1783676782-Gromp.jpg",
+      "price": "2",
+      "average_position": "4.99",
+      "top_4_rate": "40.82",
+      "top_1_rate": "8.16",
+      "battle": "36,736",
+      "description_icon": [
+        "적응가 (",
+        "AP.png",
+        "): 현재 대상에게 독성 방울을 뿜어냅니다. 독성 방울은 처음 적에게 적중하면 폭발해 225/340/535(",
+        "AP.png",
+        ")의 마법 피해를 입힙니다. 폭발 반경 1칸 내 적은 3초 동안 160/240/360(",
+        "AP.png",
+        ")의 마법 피해를 입습니다.",
+        "\n",
+        "\n",
+        "적응가 (",
+        "AD.png",
+        "): 대상을 크게 둔화시킵니다.",
+        "\n",
+        "\n",
+        "퍼플 버프: 5초마다 심술두꺼비가 주문력을 30% 얻습니다.",
+        "\n",
+        "\n",
+        "피해량: 225(",
+        "AP.png",
+        ") [ 225 / 340 / 535 ]",
+        "\n",
+        "\n",
+        "광역 피해량: 160(",
+        "AP.png",
+        ") [ 160 / 240 / 360 ]"
+      ],
+      "skill_name": "꿀꺽 방울",
+      "skill_image": "Gromp_1785746092-T_Gromp18_Spell.jpg",
+      "starting_mana": 0,
+      "skill_mana": 45,
+      "skill_attack_range": 4,
+      "health": [
+        550,
+        990,
+        1782
+      ],
+      "attack_damage": [
+        30,
+        45,
+        68
+      ],
+      "damage_per_second": [
+        21,
+        32,
+        47
+      ],
+      "attack_speed": 0.7,
+      "armor": 30,
+      "magical_resistance": 30,
+      "stats": [
+        "피해량: 225(%i:scaleAP%) [225 / 340 / 535]",
+        "광역 피해량: 160(%i:scaleAP%) [160 / 240 / 360]"
+      ],
+      "traits": [
+        {
+          "id": "jeogeungga",
+          "name": "적응가",
+          "image": "Trait_Icon_18_Adaptor.TFT_Set18.png"
+        },
+        {
+          "id": "hyeobgogyasu",
+          "name": "협곡야수",
+          "image": "Trait_Icon_18_Riftbeast.TFT_Set18.png"
+        }
+      ],
+      "items": [
+        {
+          "id": "",
+          "image": "DA_JeweledGauntlet.png"
+        },
+        {
+          "id": "",
+          "image": "DA_HextechGunblade.png"
+        },
+        {
+          "id": "",
+          "image": "DA_SpearOfShojin.png"
+        },
+        {
+          "id": "",
+          "image": "DA_InfinityEdge.png"
+        },
+        {
+          "id": "",
+          "image": "DA_VoidStaff.png"
+        }
+      ],
+      "unlock": {
+        "description": "",
+        "type": false
+      }
+    },
+    {
+      "stt": 64,
       "id": "elriseu",
       "name": "엘리스",
       "image": "tft18_elise.tft_set18.jpg",
       "price": "2",
-      "average_position": "5.02",
-      "top_4_rate": "42.37",
-      "top_1_rate": "7.90",
-      "battle": "4,708",
+      "average_position": "5.1",
+      "top_4_rate": "40.32",
+      "top_1_rate": "7.49",
+      "battle": "21,088",
       "description_icon": [
         "거미로 변신하고 최대 체력을 375/475/725 얻습니다. 거미 형태일 때 기본 공격 시 35/50/80(",
         "AP.png",
@@ -6194,23 +7595,23 @@
       ],
       "items": [
         {
-          "id": "gagoil_dolgabos",
+          "id": "",
           "image": "DA_GargoyleStoneplate.png"
         },
         {
-          "id": "jeongryeongyi_hyeongsang",
+          "id": "",
           "image": "DA_SpiritVisage.png"
         },
         {
-          "id": "weomogeuyi_gabos",
+          "id": "",
           "image": "DA_WarmogsArmor.png"
         },
         {
-          "id": "suhojayi_maengse",
+          "id": "",
           "image": "DA_ProtectorsVow.png"
         },
         {
-          "id": "taeyangbulggoc_mangto",
+          "id": "",
           "image": "DA_SunfireCape.png"
         }
       ],
@@ -6220,92 +7621,88 @@
       }
     },
     {
-      "stt": 49,
-      "id": "keiteulrin",
-      "name": "케이틀린",
-      "image": "tft18_caitlyn.tft_set18.jpg",
-      "price": "2",
-      "average_position": "4.91",
-      "top_4_rate": "45.17",
-      "top_1_rate": "6.72",
-      "battle": "4,244",
+      "stt": 65,
+      "id": "ajireu",
+      "name": "아지르",
+      "image": "tft18_azir.tft_set18.jpg",
+      "price": "3",
+      "average_position": "5.27",
+      "top_4_rate": "35.74",
+      "top_1_rate": "6.73",
+      "battle": "45,591",
       "description_icon": [
-        "기본 지속 효과: 모든 3번째 기본 공격이 헤드샷으로 대체되어 210/315/515(",
-        "AD.png",
+        "공격 속도를 150% 얻고 다음 6번의 기본 공격 동안 병사 2명을 소환합니다. 이 기본 공격은 명령으로 대체되어 기본 공격마다 병사가 40/60/96(",
         "AP.png",
-        ")의 물리 피해를 입힙니다.",
+        ")의 마법 피해를 입힙니다.",
         "\n",
         "\n",
-        "피해량:",
+        "피해량: 40(",
         "AP.png",
-        "[ 20 / 30 / 45 ]",
-        "\n",
-        "\n",
-        "피해량: 210=190(",
-        "AD.png",
-        ")+20(",
-        "AP.png",
-        ") [ 190 / 285 / 470 ]"
+        ") [ 40 / 60 / 96 ]"
       ],
-      "skill_name": "헤드샷",
-      "skill_image": "DA_18_Caitlyn.png",
+      "skill_name": "일어나라!",
+      "skill_image": "DA_18_Azir.png",
       "starting_mana": 0,
-      "skill_mana": 3,
+      "skill_mana": 35,
       "skill_attack_range": 4,
       "health": [
-        550,
-        990,
-        1782
+        650,
+        1170,
+        2106
       ],
       "attack_damage": [
-        50,
-        75,
-        113
+        30,
+        45,
+        68
       ],
       "damage_per_second": [
-        35,
-        53,
-        79
+        23,
+        34,
+        51
       ],
-      "attack_speed": 0.7,
-      "armor": 30,
-      "magical_resistance": 30,
+      "attack_speed": 0.75,
+      "armor": 35,
+      "magical_resistance": 35,
       "stats": [
-        "피해량: %i:scaleAP% [20 / 30 / 45]",
-        "피해량: 210=190(%i:scaleAD%)+20(%i:scaleAP%) [190 / 285 / 470]"
+        "피해량: 40(%i:scaleAP%) [40 / 60 / 96]"
       ],
       "traits": [
         {
-          "id": "agyi_yeodan",
-          "name": "악의 여단",
-          "image": "Trait_Icon_18_Coven.TFT_Set18.png"
+          "id": "geomeun_gasi",
+          "name": "검은 가시",
+          "image": "Trait_Icon_18_OldGod.TFT_Set18.png"
         },
         {
-          "id": "sanyangggun",
-          "name": "사냥꾼",
-          "image": "Trait_Icon_18_Hunter.TFT_Set18.png"
+          "id": "ceohyeongja",
+          "name": "처형자",
+          "image": "Trait_Icon_18_Executioner.TFT_Set18.png"
+        },
+        {
+          "id": "sohwansa",
+          "name": "소환사",
+          "image": "Trait_Icon_18_Summoner.TFT_Set18.png"
         }
       ],
       "items": [
         {
-          "id": "guinsuyi_gyeognogeom",
+          "id": "",
           "image": "DA_GuinsoosRageblade.png"
         },
         {
-          "id": "keurakenyi_bunno",
-          "image": "DA_KrakensFury.png"
+          "id": "",
+          "image": "DA_JeweledGauntlet.png"
         },
         {
-          "id": "muhanyi_daegeom",
-          "image": "DA_InfinityEdge.png"
-        },
-        {
-          "id": "jugeumyi_geom",
-          "image": "DA_Deathblade.png"
-        },
-        {
-          "id": "geoin_hagsalja",
+          "id": "",
           "image": "DA_GiantSlayer.png"
+        },
+        {
+          "id": "",
+          "image": "DA_VoidStaff.png"
+        },
+        {
+          "id": "",
+          "image": "DA_HextechGunblade.png"
         }
       ],
       "unlock": {
@@ -6314,15 +7711,108 @@
       }
     },
     {
-      "stt": 50,
+      "stt": 66,
+      "id": "weowig",
+      "name": "워윅",
+      "image": "tft18_warwick.tft_set18.jpg",
+      "price": "2",
+      "average_position": "4.52",
+      "top_4_rate": "56.27",
+      "top_1_rate": "6.58",
+      "battle": "10,950",
+      "description_icon": [
+        "현재 대상을 물어뜯어 215/325/500(",
+        "AD.png",
+        ")의 물리 피해를 입히고 입한 피해량의 20%(",
+        "AP.png",
+        ")만큼 체력을 회복합니다. 전투가 끝날 때까지 공격 속도를 20% 얻습니다.",
+        "\n",
+        "\n",
+        "피해량: 215(",
+        "AD.png",
+        ") [ 215 / 325 / 500 ]",
+        "\n",
+        "\n",
+        "체력 회복량: 20%(",
+        "AP.png",
+        ") [20% / 20% / 20%]"
+      ],
+      "skill_name": "야수의 송곳니",
+      "skill_image": "DA_18_Warwick.png",
+      "starting_mana": 0,
+      "skill_mana": 40,
+      "skill_attack_range": 1,
+      "health": [
+        750,
+        1350,
+        2430
+      ],
+      "attack_damage": [
+        40,
+        60,
+        90
+      ],
+      "damage_per_second": [
+        30,
+        45,
+        68
+      ],
+      "attack_speed": 0.75,
+      "armor": 45,
+      "magical_resistance": 45,
+      "stats": [
+        "피해량: 215(%i:scaleAD%) [215 / 325 / 500]",
+        "체력 회복량: 20%(%i:scaleAP%) [20% / 20% / 20%]"
+      ],
+      "traits": [
+        {
+          "id": "geomeun_gasi",
+          "name": "검은 가시",
+          "image": "Trait_Icon_18_OldGod.TFT_Set18.png"
+        },
+        {
+          "id": "yagtalja",
+          "name": "약탈자",
+          "image": "Trait_Icon_18_Ravager.TFT_Set18.png"
+        }
+      ],
+      "items": [
+        {
+          "id": "",
+          "image": "DA_TitansResolve.png"
+        },
+        {
+          "id": "",
+          "image": "DA_SpearOfShojin.png"
+        },
+        {
+          "id": "",
+          "image": "DA_SteraksGage.png"
+        },
+        {
+          "id": "",
+          "image": "DA_Bloodthirster.png"
+        },
+        {
+          "id": "",
+          "image": "DA_HandOfJustice.png"
+        }
+      ],
+      "unlock": {
+        "description": "",
+        "type": false
+      }
+    },
+    {
+      "stt": 67,
       "id": "kamil",
       "name": "카밀",
       "image": "tft18_camille.tft_set18.jpg",
       "price": "1",
-      "average_position": "4.86",
-      "top_4_rate": "51.61",
-      "top_1_rate": "6.71",
-      "battle": "1,802",
+      "average_position": "5.04",
+      "top_4_rate": "46.36",
+      "top_1_rate": "6.47",
+      "battle": "9,449",
       "description_icon": [
         "대상을 베어 170/255/435(",
         "AD.png",
@@ -6386,23 +7876,23 @@
       ],
       "items": [
         {
-          "id": "pibaragi",
+          "id": "",
           "image": "DA_Bloodthirster.png"
         },
         {
-          "id": "seuteragyi_dojeon",
+          "id": "",
           "image": "DA_SteraksGage.png"
         },
         {
-          "id": "jeongyiyi_songil",
-          "image": "DA_HandOfJustice.png"
-        },
-        {
-          "id": "geoinyi_gyeolyi",
+          "id": "",
           "image": "DA_TitansResolve.png"
         },
         {
-          "id": "bamyi_ggeutjarag",
+          "id": "",
+          "image": "DA_HandOfJustice.png"
+        },
+        {
+          "id": "",
           "image": "DA_EdgeOfNight.png"
         }
       ],
@@ -6412,88 +7902,92 @@
       }
     },
     {
-      "stt": 51,
-      "id": "ajireu",
-      "name": "아지르",
-      "image": "tft18_azir.tft_set18.jpg",
-      "price": "3",
-      "average_position": "5.32",
-      "top_4_rate": "35.03",
-      "top_1_rate": "6.54",
-      "battle": "11,025",
+      "stt": 68,
+      "id": "keiteulrin",
+      "name": "케이틀린",
+      "image": "tft18_caitlyn.tft_set18.jpg",
+      "price": "2",
+      "average_position": "5.03",
+      "top_4_rate": "41.89",
+      "top_1_rate": "6.46",
+      "battle": "18,596",
       "description_icon": [
-        "공격 속도를 150% 얻고 다음 6번의 기본 공격 동안 병사 2명을 소환합니다. 이 기본 공격은 명령으로 대체되어 기본 공격마다 병사가 40/60/96(",
+        "기본 지속 효과: 모든 3번째 기본 공격이 헤드샷으로 대체되어 210/315/515(",
+        "AD.png",
         "AP.png",
-        ")의 마법 피해를 입힙니다.",
+        ")의 물리 피해를 입힙니다.",
         "\n",
         "\n",
-        "피해량: 40(",
+        "피해량:",
         "AP.png",
-        ") [ 40 / 60 / 96 ]"
+        "[ 20 / 30 / 45 ]",
+        "\n",
+        "\n",
+        "피해량: 210=190(",
+        "AD.png",
+        ")+20(",
+        "AP.png",
+        ") [ 190 / 285 / 470 ]"
       ],
-      "skill_name": "일어나라!",
-      "skill_image": "DA_18_Azir.png",
+      "skill_name": "헤드샷",
+      "skill_image": "DA_18_Caitlyn.png",
       "starting_mana": 0,
-      "skill_mana": 35,
+      "skill_mana": 3,
       "skill_attack_range": 4,
       "health": [
-        650,
-        1170,
-        2106
+        550,
+        990,
+        1782
       ],
       "attack_damage": [
-        30,
-        45,
-        68
+        50,
+        75,
+        113
       ],
       "damage_per_second": [
-        23,
-        34,
-        51
+        35,
+        53,
+        79
       ],
-      "attack_speed": 0.75,
-      "armor": 35,
-      "magical_resistance": 35,
+      "attack_speed": 0.7,
+      "armor": 30,
+      "magical_resistance": 30,
       "stats": [
-        "피해량: 40(%i:scaleAP%) [40 / 60 / 96]"
+        "피해량: %i:scaleAP% [20 / 30 / 45]",
+        "피해량: 210=190(%i:scaleAD%)+20(%i:scaleAP%) [190 / 285 / 470]"
       ],
       "traits": [
         {
-          "id": "geomeun_gasi",
-          "name": "검은 가시",
-          "image": "Trait_Icon_18_OldGod.TFT_Set18.png"
+          "id": "agyi_yeodan",
+          "name": "악의 여단",
+          "image": "Trait_Icon_18_Coven.TFT_Set18.png"
         },
         {
-          "id": "ceohyeongja",
-          "name": "처형자",
-          "image": "Trait_Icon_18_Executioner.TFT_Set18.png"
-        },
-        {
-          "id": "sohwansa",
-          "name": "소환사",
-          "image": "Trait_Icon_18_Summoner.TFT_Set18.png"
+          "id": "sanyangggun",
+          "name": "사냥꾼",
+          "image": "Trait_Icon_18_Hunter.TFT_Set18.png"
         }
       ],
       "items": [
         {
-          "id": "guinsuyi_gyeognogeom",
+          "id": "",
           "image": "DA_GuinsoosRageblade.png"
         },
         {
-          "id": "boseog_geonteulris",
-          "image": "DA_JeweledGauntlet.png"
+          "id": "",
+          "image": "DA_KrakensFury.png"
         },
         {
-          "id": "geoin_hagsalja",
+          "id": "",
+          "image": "DA_InfinityEdge.png"
+        },
+        {
+          "id": "",
+          "image": "DA_Deathblade.png"
+        },
+        {
+          "id": "",
           "image": "DA_GiantSlayer.png"
-        },
-        {
-          "id": "gongheoyi_jipangi",
-          "image": "DA_VoidStaff.png"
-        },
-        {
-          "id": "mabeobgonghag_conggeom",
-          "image": "DA_HextechGunblade.png"
         }
       ],
       "unlock": {
@@ -6502,108 +7996,15 @@
       }
     },
     {
-      "stt": 52,
-      "id": "weowig",
-      "name": "워윅",
-      "image": "tft18_warwick.tft_set18.jpg",
-      "price": "2",
-      "average_position": "4.45",
-      "top_4_rate": "59.58",
-      "top_1_rate": "6.36",
-      "battle": "2,249",
-      "description_icon": [
-        "현재 대상을 물어뜯어 215/325/500(",
-        "AD.png",
-        ")의 물리 피해를 입히고 입한 피해량의 20%(",
-        "AP.png",
-        ")만큼 체력을 회복합니다. 전투가 끝날 때까지 공격 속도를 20% 얻습니다.",
-        "\n",
-        "\n",
-        "피해량: 215(",
-        "AD.png",
-        ") [ 215 / 325 / 500 ]",
-        "\n",
-        "\n",
-        "체력 회복량: 20%(",
-        "AP.png",
-        ") [20% / 20% / 20%]"
-      ],
-      "skill_name": "야수의 송곳니",
-      "skill_image": "DA_18_Warwick.png",
-      "starting_mana": 0,
-      "skill_mana": 40,
-      "skill_attack_range": 1,
-      "health": [
-        750,
-        1350,
-        2430
-      ],
-      "attack_damage": [
-        40,
-        60,
-        90
-      ],
-      "damage_per_second": [
-        30,
-        45,
-        68
-      ],
-      "attack_speed": 0.75,
-      "armor": 45,
-      "magical_resistance": 45,
-      "stats": [
-        "피해량: 215(%i:scaleAD%) [215 / 325 / 500]",
-        "체력 회복량: 20%(%i:scaleAP%) [20% / 20% / 20%]"
-      ],
-      "traits": [
-        {
-          "id": "geomeun_gasi",
-          "name": "검은 가시",
-          "image": "Trait_Icon_18_OldGod.TFT_Set18.png"
-        },
-        {
-          "id": "yagtalja",
-          "name": "약탈자",
-          "image": "Trait_Icon_18_Ravager.TFT_Set18.png"
-        }
-      ],
-      "items": [
-        {
-          "id": "geoinyi_gyeolyi",
-          "image": "DA_TitansResolve.png"
-        },
-        {
-          "id": "syojinyi_cang",
-          "image": "DA_SpearOfShojin.png"
-        },
-        {
-          "id": "seuteragyi_dojeon",
-          "image": "DA_SteraksGage.png"
-        },
-        {
-          "id": "pibaragi",
-          "image": "DA_Bloodthirster.png"
-        },
-        {
-          "id": "jeongyiyi_songil",
-          "image": "DA_HandOfJustice.png"
-        }
-      ],
-      "unlock": {
-        "description": "",
-        "type": false
-      }
-    },
-    {
-      "stt": 53,
+      "stt": 69,
       "id": "swen",
       "name": "쉔",
       "image": "tft18_shen.tft_set18.jpg",
       "price": "2",
-      "average_position": "5.53",
-      "top_4_rate": "23.03",
-      "top_1_rate": "3.96",
-      "battle": "14,891",
+      "average_position": "5.4",
+      "top_4_rate": "26.46",
+      "top_1_rate": "4.86",
+      "battle": "62,236",
       "description_icon": [
         "4초 동안 쉔에게 325/400/500(",
         "AP.png",
@@ -6674,15 +8075,15 @@
       }
     },
     {
-      "stt": 54,
+      "stt": 70,
       "id": "baruseu",
       "name": "바루스",
       "image": "tft18_varus.tft_set18.jpg",
       "price": "1",
-      "average_position": "5.53",
-      "top_4_rate": "23.51",
-      "top_1_rate": "3.36",
-      "battle": "9,272",
+      "average_position": "5.46",
+      "top_4_rate": "25.74",
+      "top_1_rate": "4.03",
+      "battle": "37,972",
       "description_icon": [
         "힘을 모은 후 대상을 포함해 적이 가장 많은 일직선 방향으로 화살을 발사해 적중한 적에게 415/625/995(",
         "AD.png",
@@ -6742,23 +8143,23 @@
       ],
       "items": [
         {
-          "id": "muhanyi_daegeom",
+          "id": "",
           "image": "DA_InfinityEdge.png"
         },
         {
-          "id": "syojinyi_cang",
+          "id": "",
           "image": "DA_SpearOfShojin.png"
         },
         {
-          "id": "geoin_hagsalja",
+          "id": "",
           "image": "DA_GiantSlayer.png"
         },
         {
-          "id": "tagyeogdaeyi_ceoltoe",
+          "id": "",
           "image": "DA_StrikersFlail.png"
         },
         {
-          "id": "jeongyiyi_songil",
+          "id": "",
           "image": "DA_HandOfJustice.png"
         }
       ],
@@ -6768,15 +8169,15 @@
       }
     },
     {
-      "stt": 55,
+      "stt": 71,
       "id": "akalri",
       "name": "아칼리",
       "image": "tft18_akali.tft_set18.jpg",
       "price": "1",
-      "average_position": "5.58",
-      "top_4_rate": "22.43",
-      "top_1_rate": "2.57",
-      "battle": "5,925",
+      "average_position": "5.48",
+      "top_4_rate": "25.4",
+      "top_1_rate": "3.21",
+      "battle": "24,442",
       "description_icon": [
         "적응가 (",
         "AD.png",
@@ -6856,24 +8257,24 @@
       ],
       "items": [
         {
-          "id": "jeongyiyi_songil",
+          "id": "",
           "image": "DA_HandOfJustice.png"
         },
         {
-          "id": "geoin_hagsalja",
+          "id": "",
           "image": "DA_GiantSlayer.png"
         },
         {
-          "id": "bamyi_ggeutjarag",
+          "id": "",
           "image": "DA_EdgeOfNight.png"
         },
         {
-          "id": "pibaragi",
+          "id": "",
+          "image": "DA_TitansResolve.png"
+        },
+        {
+          "id": "",
           "image": "DA_Bloodthirster.png"
-        },
-        {
-          "id": "seuteragyi_dojeon",
-          "image": "DA_SteraksGage.png"
         }
       ],
       "unlock": {
@@ -6882,135 +8283,7 @@
       }
     },
     {
-      "stt": 56,
-      "id": "reogseu_(yojeong)",
-      "name": "럭스 (요정)",
-      "image": "tft18_lux.tft_set18.jpg",
-      "price": "5",
-      "average_position": "3",
-      "top_4_rate": "100",
-      "top_1_rate": "0.00",
-      "battle": "2",
-      "description_icon": [
-        "기본 지속 효과: 스킬 사용 시, 럭스와 특성을 공유하는 모든 아군이 마나를 3/3/100(",
-        "AP.png",
-        ") 얻습니다.",
-        "\n",
-        "\n",
-        "사용 시: 가장 큰 적 무리를 향해 레이저를 발사해 330/520/5000(",
-        "AP.png",
-        ")의 마법 피해를 입힙니다. 적중한 적 하나당 피해가 25%/25%/10% 감소합니다."
-      ],
-      "skill_name": "최후의 섬광",
-      "skill_image": "DA_18_Lux_Fae.png",
-      "starting_mana": 20,
-      "skill_mana": 70,
-      "skill_attack_range": 5,
-      "health": [
-        900,
-        1620,
-        2916
-      ],
-      "attack_damage": [
-        40,
-        60,
-        90
-      ],
-      "damage_per_second": [
-        32,
-        48,
-        72
-      ],
-      "attack_speed": 0.8,
-      "armor": 45,
-      "magical_resistance": 45,
-      "stats": [
-        "피해량: 330(%i:scaleAP%) [330 / 520 / 5000]"
-      ],
-      "traits": [
-        {
-          "id": "yojeong",
-          "name": "요정",
-          "image": "Trait_Icon_18_Fae.TFT_Set18.png"
-        },
-        {
-          "id": "hwasin",
-          "name": "화신",
-          "image": "Trait_Icon_18_Avatar.TFT_Set18.png"
-        }
-      ],
-      "items": [],
-      "unlock": {
-        "description": "",
-        "type": false
-      }
-    },
-    {
-      "stt": 57,
-      "id": "reogseu_(dalbic)",
-      "name": "럭스 (달빛)",
-      "image": "tft18_lux.tft_set18.jpg",
-      "price": "5",
-      "average_position": "4",
-      "top_4_rate": "100",
-      "top_1_rate": "0.00",
-      "battle": "1",
-      "description_icon": [
-        "기본 지속 효과: 스킬 사용 시, 럭스와 특성을 공유하는 모든 아군이 마나를 3/3/100(",
-        "AP.png",
-        ") 얻습니다.",
-        "\n",
-        "\n",
-        "사용 시: 가장 큰 적 무리를 향해 레이저를 발사해 330/520/5000(",
-        "AP.png",
-        ")의 마법 피해를 입힙니다. 적중한 적 하나당 피해가 25%/25%/10% 감소합니다."
-      ],
-      "skill_name": "최후의 섬광",
-      "skill_image": "DA_18_Lux_Moonbeam.png",
-      "starting_mana": 20,
-      "skill_mana": 70,
-      "skill_attack_range": 5,
-      "health": [
-        900,
-        1620,
-        2916
-      ],
-      "attack_damage": [
-        40,
-        60,
-        90
-      ],
-      "damage_per_second": [
-        32,
-        48,
-        72
-      ],
-      "attack_speed": 0.8,
-      "armor": 45,
-      "magical_resistance": 45,
-      "stats": [
-        "피해량: 330(%i:scaleAP%) [330 / 520 / 5000]"
-      ],
-      "traits": [
-        {
-          "id": "dalbic",
-          "name": "달빛",
-          "image": "Trait_Icon_18_Lunar.TFT_Set18.png"
-        },
-        {
-          "id": "hwasin",
-          "name": "화신",
-          "image": "Trait_Icon_18_Avatar.TFT_Set18.png"
-        }
-      ],
-      "items": [],
-      "unlock": {
-        "description": "",
-        "type": false
-      }
-    },
-    {
-      "stt": 58,
+      "stt": 72,
       "id": "reogseu_(geomeun_gasi)",
       "name": "럭스 (검은 가시)",
       "image": "tft18_lux.tft_set18.jpg",
