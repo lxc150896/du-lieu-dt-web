@@ -1,0 +1,1460 @@
+{
+  "title": "ウィスプ",
+  "description": "ウィスプはチャームから得た教訓をもとに、Enchanted Wilds向けに再設計された一度きりのショップ効果です。",
+  "info": [
+    {
+      "title": "ショップでの出現",
+      "description": "ウィスプは1ラウンドおきにショップ右端のスロットへ出現し、計画フェーズ中にのみ購入できます。"
+    },
+    {
+      "title": "各ラウンド1つ",
+      "description": "各ラウンド最大1つのウィスプを購入できます。購入しなかった場合、計画フェーズ後にウィスプの後ろに隠れていたユニットが表示されます。"
+    },
+    {
+      "title": "7つのカテゴリ",
+      "description": "ウィスプはチャンピオン、戦闘、その他、ショップ、ゴールド/XP、リスク、アイテムに分類され、色で見分けやすくなっています。"
+    },
+    {
+      "title": "終盤の戦闘ウィスプ",
+      "description": "ゲームが進むほどウィスプは強力かつ高価になります。ステージ5以降は、隔回で戦闘ウィスプが出現します。"
+    }
+  ],
+  "all_wisps_title": "All Wisps",
+  "all_wisps_description": "Set 18に登場する200体のWispsをカテゴリー別に確認できます。",
+  "categories": [
+    {
+      "name": "All",
+      "count": 200
+    },
+    {
+      "name": "チャンピオン",
+      "count": 16
+    },
+    {
+      "name": "戦闘",
+      "count": 94
+    },
+    {
+      "name": "ショップ",
+      "count": 19
+    },
+    {
+      "name": "ゴールド/XP",
+      "count": 14
+    },
+    {
+      "name": "リスク",
+      "count": 21
+    },
+    {
+      "name": "アイテム",
+      "count": 6
+    },
+    {
+      "name": "その他",
+      "count": 30
+    }
+  ],
+  "wisps": [
+    {
+      "name": "グランドマスター",
+      "image": "creatures.png",
+      "category": "チャンピオン",
+      "cost": "18",
+      "description": "ランダムな2つ星、5コストのチャンピオンを獲得します。"
+    },
+    {
+      "name": "道に迷った旅行者",
+      "image": "creatures.png",
+      "category": "チャンピオン",
+      "cost": "3",
+      "description": "3ゴールド相当のランダムなチャンピオンを獲得します。"
+    },
+    {
+      "name": "ネズミ畑",
+      "image": "creatures.png",
+      "category": "チャンピオン",
+      "cost": "5",
+      "description": "配置した異なる1コストチャンピオン1体につき、小型チャンピオン複製装置を獲得する。"
+    },
+    {
+      "name": "ビッグガン",
+      "image": "creatures.png",
+      "category": "チャンピオン",
+      "cost": "8",
+      "description": "ランダムな1つ星の4コストチャンピオンを2体獲得します。"
+    },
+    {
+      "name": "スリーミー",
+      "image": "creatures.png",
+      "category": "チャンピオン",
+      "cost": "9",
+      "description": "ランダムな2つ星、3コストのチャンピオンを獲得します。"
+    },
+    {
+      "name": "有糸分裂",
+      "image": "creatures.png",
+      "category": "チャンピオン",
+      "cost": "1",
+      "description": "小さなデュプリケーターを入手します。"
+    },
+    {
+      "name": "見習い",
+      "image": "creatures.png",
+      "category": "チャンピオン",
+      "cost": "3",
+      "description": "ランダムな2つ星、1コストのチャンピオンを獲得します。"
+    },
+    {
+      "name": "ジャーニーマン",
+      "image": "creatures.png",
+      "category": "チャンピオン",
+      "cost": "6",
+      "description": "ランダムな2つ星、2コストのチャンピオンを獲得します。"
+    },
+    {
+      "name": "フォレストツインズ",
+      "image": "creatures.png",
+      "category": "チャンピオン",
+      "cost": "4",
+      "description": "持っていない2コストのチャンピオンのコピーを2枚獲得します。"
+    },
+    {
+      "name": "フォレストガイド",
+      "image": "creatures.png",
+      "category": "チャンピオン",
+      "cost": "5",
+      "description": "ランダムな4コストのチャンピオンを獲得します。"
+    },
+    {
+      "name": "予言の英雄",
+      "image": "creatures.png",
+      "category": "チャンピオン",
+      "cost": "35",
+      "description": "毎ラウンド、最初に選ばれたランダムな5コストと同じチャンピオンを1体獲得する。"
+    },
+    {
+      "name": "長老たちの輪",
+      "image": "creatures.png",
+      "category": "チャンピオン",
+      "cost": "45",
+      "description": "各5コストのチャンピオンを1体獲得する。"
+    },
+    {
+      "name": "伝播する",
+      "image": "creatures.png",
+      "category": "チャンピオン",
+      "cost": "1",
+      "description": "最初に倒された味方チャンピオンのコピーを1体獲得する。"
+    },
+    {
+      "name": "熾烈なライバル関係",
+      "image": "creatures.png",
+      "category": "チャンピオン",
+      "cost": "3",
+      "description": "レンガーまたはカ＝ジックスを獲得する。獲得したチャンピオンのテイクダウン数が3増加する。"
+    },
+    {
+      "name": "ソーラーギフト",
+      "image": "creatures.png",
+      "category": "チャンピオン",
+      "cost": "5",
+      "description": "レオナ、セジュアニ、ケールを獲得します。"
+    },
+    {
+      "name": "スマーフィング",
+      "image": "creatures.png",
+      "category": "チャンピオン",
+      "cost": "8",
+      "description": "ランダムな5コストのチャンピオンを獲得します。"
+    },
+    {
+      "name": "クィケン",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "2",
+      "description": "スキル使用時、チャンピオンの攻撃速度が3秒間25%増加する。"
+    },
+    {
+      "name": "棘に包まれて",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "2",
+      "description": "味方のタンクは4秒ごとに、受けたダメージの12%を隣接する敵へ反射する。"
+    },
+    {
+      "name": "おやつの時間です！",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "4",
+      "description": "BFFは最大体力の10%未満でダメージを与えた敵を食べます。"
+    },
+    {
+      "name": "鉄芯",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "2",
+      "description": "前列中央のチャンピオンは、前列のユニット1体につき最大体力が4%増加する。"
+    },
+    {
+      "name": "巨大な成長",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "4",
+      "description": "最も体力の高いチャンピオンは体力が 600 増加し、サイズが大きくなります。"
+    },
+    {
+      "name": "抱きしめます",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "1",
+      "description": "最も体力の高い味方ユニットが巨大化し、体力を350獲得する。"
+    },
+    {
+      "name": "タートルの訪問",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "3",
+      "description": "この戦闘中、カメのプライマルバフを獲得する。"
+    },
+    {
+      "name": "巨人のオーラ",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "4",
+      "description": "最も体力の高い味方が、周囲の敵に毎秒最大体力の2%にあたるダメージを与える。"
+    },
+    {
+      "name": "ソリチュードのマント",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "3",
+      "description": "隣接する味方がいないチャンピオンは、最大体力が10%、ダメージ増幅が10%増加する。"
+    },
+    {
+      "name": "くだらない",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "3",
+      "description": "アイテムを持たないチャンピオン 2 人が一時的な推奨アイテムを獲得します。"
+    },
+    {
+      "name": "キリング・フレンジー",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "3",
+      "description": "ファイターは体力が10%未満の対象を処刑する。敵を倒すと攻撃速度が15%増加する。"
+    },
+    {
+      "name": "ウルトラアセンション",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "0",
+      "description": "25秒後、味方はダメージ増幅を300%得ます。"
+    },
+    {
+      "name": "樹上の射手",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "5",
+      "description": "射手は木から射撃し、3秒ごとに500の物理ダメージを与えます。"
+    },
+    {
+      "name": "バークアーマー",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "1",
+      "description": "あなたのチャンピオンは10秒間150シールドを獲得します。"
+    },
+    {
+      "name": "男爵の手",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "10",
+      "description": "あなたのチームは男爵バフを獲得し、ステータスが増加します。"
+    },
+    {
+      "name": "多産の力",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "0",
+      "description": "味方のチャンピオンが攻撃力とスキルパワーを8%獲得する。"
+    },
+    {
+      "name": "溶解レジスト",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "4",
+      "description": "炎上中の敵は毎秒、物理防御と魔法防御が3低下する。"
+    },
+    {
+      "name": "遅咲き",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "5",
+      "description": "推奨アイテム1個を装備した、一時的な3つ星の1コストチャンピオンが味方に加わる。"
+    },
+    {
+      "name": "より良い親友",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "1",
+      "description": "BFFのライダーが攻撃速度15%と体力150を獲得する。"
+    },
+    {
+      "name": "盗賊ギルド",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "6",
+      "description": "一時的な盗賊の手袋を 2 つ獲得します。"
+    },
+    {
+      "name": "クローンコンパニオン",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "5",
+      "description": "最もダメージの高いチャンピオンのクローンを作成します。クローンは 20% のダメージを与えます。"
+    },
+    {
+      "name": "フェローシップ",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "4",
+      "description": "チャンピオンは隣接する味方1体につき、最大体力の4%にあたるシールドとダメージ増幅4%を獲得する。"
+    },
+    {
+      "name": "マナが豊富な土壌",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "3",
+      "description": "味方のキャスターの最大マナが15%減少する。"
+    },
+    {
+      "name": "馬の訪問",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "3",
+      "description": "この戦闘中、ウマのプライマルバフを獲得する。"
+    },
+    {
+      "name": "マークスマンズゲイル",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "2",
+      "description": "味方のマークスマンは通常攻撃するたび、スタックする攻撃速度3%を獲得する。"
+    },
+    {
+      "name": "射撃手のマーク",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "3",
+      "description": "味方のマークスマンは25%の確率で通常攻撃を2回行う。"
+    },
+    {
+      "name": "アイアンウッド",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "3",
+      "description": "最も体力の高いチャンピオンを攻撃する敵が与えるダメージは10%減少します。"
+    },
+    {
+      "name": "ボロボロの鎧",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "2",
+      "description": "30% 10 秒間、敵を粉砕してサンダーにします。"
+    },
+    {
+      "name": "ミニオンの大群",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "4",
+      "description": "ミニオンを4体召喚する。"
+    },
+    {
+      "name": "バリア",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "2",
+      "description": "味方はシールドを 1000 獲得し、5 秒間で減衰します。"
+    },
+    {
+      "name": "ライトニングストーム",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "5",
+      "description": "毎秒敵に最大体力の7%に相当する固定ダメージを与えます。"
+    },
+    {
+      "name": "ハミングバード",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "1",
+      "description": "最も攻撃速度が高い味方ユニットのサイズが小さくなり、攻撃速度を20%得ます。"
+    },
+    {
+      "name": "落雷",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "2",
+      "description": "すべての敵に最大体力の10%を固定ダメージで与えます。"
+    },
+    {
+      "name": "スターパワー",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "3",
+      "description": "味方が攻撃力とスキルパワーを10%獲得し、3つ星ユニットは25%獲得する。"
+    },
+    {
+      "name": "防波堤",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "3",
+      "description": "味方のタンクは体力が50%未満になると、最大体力の20%にあたるシールドを獲得する。"
+    },
+    {
+      "name": "復讐",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "3",
+      "description": "味方が死亡するたび、チャンピオンは4%のスタッキングダメージアンプを獲得します。"
+    },
+    {
+      "name": "ブースターショット",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "4",
+      "description": "最大2人の1つ星チャンピオンが戦闘中に一時的にスターアップします。"
+    },
+    {
+      "name": "多様化",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "2",
+      "description": "チームは有効な特性ごとに 30 の体力を獲得します。"
+    },
+    {
+      "name": "ブレイズ",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "5",
+      "description": "炎がボード全体に広がり、敵に徐々に増加する確定ダメージを与える。"
+    },
+    {
+      "name": "雨",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "1",
+      "description": "味方がマナ自動回復を1獲得する。"
+    },
+    {
+      "name": "借りたギア",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "1",
+      "description": "チャンピオンは一時的な推奨アイテムを獲得します。"
+    },
+    {
+      "name": "プレッパーズ",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "2",
+      "description": "スタッキングアイテムは部分的に積み重ねられた状態で開始されます。"
+    },
+    {
+      "name": "そよ風",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "1",
+      "description": "チームの攻撃速度が 12% 増加します。"
+    },
+    {
+      "name": "生きた土",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "2",
+      "description": "4秒ごとに、ルートは敵を1秒間気絶させます。"
+    },
+    {
+      "name": "殺人者の後悔",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "5",
+      "description": "最初に死亡したチャンピオン 3 人がキラーを 1 秒間気絶させます。"
+    },
+    {
+      "name": "石化シールド",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "2",
+      "description": "10% 敵の動きを遅くし、10 秒間シールドを 20% 減少させます。"
+    },
+    {
+      "name": "石化したダミー",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "2",
+      "description": "最初に死亡したチャンピオンは、防御力を備えた体力 1000 のターゲットダミーに変わります。"
+    },
+    {
+      "name": "クリスタルボール",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "1",
+      "description": "次の対戦相手を明らかにします。チームの攻撃速度が 12% 増加します。"
+    },
+    {
+      "name": "緑豊かな活力",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "0",
+      "description": "あなたのチャンピオンの体力は 125 増加します。"
+    },
+    {
+      "name": "余震",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "2",
+      "description": "10秒後、すべての敵を1.5秒間気絶させます。"
+    },
+    {
+      "name": "燃焼",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "5",
+      "description": "チャンピオンは死亡時に爆発し、最大体力の 20% 魔法ダメージを与えます。"
+    },
+    {
+      "name": "英雄的な犠牲",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "3",
+      "description": "アイテムを3個装備したチャンピオンが「英雄の力」を獲得する代わりに、他の味方が生け贄になる。"
+    },
+    {
+      "name": "英雄の入場",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "4",
+      "description": "8秒後、ベンチの左端のチャンピオンが2つのアイテムを持って戦闘に参加します。"
+    },
+    {
+      "name": "ヨードルスピリット",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "3",
+      "description": "味方は99%の確率で4秒間攻撃を回避します。"
+    },
+    {
+      "name": "フェイ連邦",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "4",
+      "description": "このラウンド中、味方ユニット全員がフェイのピクシーを2体獲得する。"
+    },
+    {
+      "name": "雇用者",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "6",
+      "description": "推奨アイテム1個を装備した、一時的な1つ星の5コストチャンピオンが味方に加わる。"
+    },
+    {
+      "name": "傭兵部隊",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "3",
+      "description": "所持している10ゴールドごとにダメージアンプが3%増加します。"
+    },
+    {
+      "name": "月光の儀式",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "2",
+      "description": "最も低いスターレベルの1コストまたは2コストのチャンピオンが戦闘でスターアップします。"
+    },
+    {
+      "name": "月の出",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "2",
+      "description": "10秒後、ルナーの効果が100%増加します。"
+    },
+    {
+      "name": "ホーミングホタル",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "3",
+      "description": "キャスターは消費した20マナごとにホタルを生成します。それぞれ150の魔法ダメージを与えます。"
+    },
+    {
+      "name": "ファントムアーマー",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "2",
+      "description": "一時的なワーモグアーマーを1個獲得する。"
+    },
+    {
+      "name": "ファントムエンブレム",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "6",
+      "description": "最もアクティブな特性の一時的なエンブレムを獲得します。"
+    },
+    {
+      "name": "ファントムグローブ",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "3",
+      "description": "一時的な盗賊の手袋を獲得します。"
+    },
+    {
+      "name": "ファントムベスト",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "2",
+      "description": "一時的なブランブルベストを 1 つ獲得します。"
+    },
+    {
+      "name": "ファントム・スプラッシュ",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "4",
+      "description": "戦闘開始時に、最大2つの非アクティブな特性が最低レベルでアクティブになります。"
+    },
+    {
+      "name": "ステルス",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "1",
+      "description": "あなたの2人の最強のファイターまたはアサシンは6秒間ターゲット不能になります。"
+    },
+    {
+      "name": "自然の怒り",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "15",
+      "description": "10秒後、アイテムを装備していないユニットをすべて倒す。"
+    },
+    {
+      "name": "自然の味方",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "2",
+      "description": "味方が3人死亡するごとに、ランダムなリフトビーストを召喚する。"
+    },
+    {
+      "name": "再生",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "3",
+      "description": "味方が毎秒、最大体力の1%を回復する。"
+    },
+    {
+      "name": "耐性あり",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "2",
+      "description": "味方のタンクが受けるダメージを1回につき15軽減する。"
+    },
+    {
+      "name": "エスカレーション",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "3",
+      "description": "戦闘開始から15秒後、味方がダメージ増幅を30%獲得する。"
+    },
+    {
+      "name": "カウンタースペル",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "3",
+      "description": "敵全体の最大マナを、次にスキルを使用するまで15増加させる。"
+    },
+    {
+      "name": "震え",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "6",
+      "description": "8秒ごとに、敵を1秒間気絶させます。"
+    },
+    {
+      "name": "ラディアンタイズ",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "6",
+      "description": "12秒後、装備中のランダムなアイテム1個が一時的にレイディアントになる。"
+    },
+    {
+      "name": "超臨界",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "3",
+      "description": "プレシジョンを持つユニットは25%のクリティカルストライクダメージを獲得します。"
+    },
+    {
+      "name": "メモリアルダミー",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "3",
+      "description": "アイテムを装備した最初のタンクは、倒されると同じアイテムを装備したトレーニングダミーを召喚する。"
+    },
+    {
+      "name": "友達を見つけました",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "1",
+      "description": "ジャイアントベルトを備えたトレーニングダミーを獲得します。"
+    },
+    {
+      "name": "フレンドリーなフローラ",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "2",
+      "description": "味方全員が50%の効果量でフローラ・ファタリスのボーナスを獲得する。"
+    },
+    {
+      "name": "ビッグブーム",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "2",
+      "description": "最初に死亡した味方が爆発し、最大体力の 20% の魔法ダメージを与えます。"
+    },
+    {
+      "name": "サンファイアソーサリー",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "2",
+      "description": "敵を10秒間燃やし、負傷させる。"
+    },
+    {
+      "name": "メッキシールド",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "2",
+      "description": "シールドが 15% 強化されます。味方は 10 秒間シールド 150 を獲得します。"
+    },
+    {
+      "name": "土砂降り",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "2",
+      "description": "あなたのチームは2マナ回復を獲得します。"
+    },
+    {
+      "name": "ブラッドハント",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "2",
+      "description": "ライバルはテイクダウン時にダッシュし、ターゲットに150の物理ダメージを与えます。"
+    },
+    {
+      "name": "リーチの改善",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "3",
+      "description": "味方のファイターの射程が1増加する。"
+    },
+    {
+      "name": "バンチ・オ・ベルト",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "2",
+      "description": "あなたのチャンピオンは一時的に取り外し不可能なジャイアンツベルトを7本獲得します。"
+    },
+    {
+      "name": "インフリクション",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "6",
+      "description": "8秒間、敵をスロー、バーン、シュレッド、サンダーします。"
+    },
+    {
+      "name": "タイガーの訪問",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "3",
+      "description": "この戦闘中、トラのプライマルバフを獲得する。"
+    },
+    {
+      "name": "スタンドアロン",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "3",
+      "description": "同じ横列に他の味方がいないチャンピオンは、体力15%とダメージ増幅15%を獲得する。"
+    },
+    {
+      "name": "鉢植えのストーンバーク",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "2",
+      "description": "一時的にストーンバークツリーを獲得します。"
+    },
+    {
+      "name": "鉢植えのライフブルーム",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "3",
+      "description": "一時的な生命の花を獲得します。"
+    },
+    {
+      "name": "トルネード",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "10",
+      "description": "竜巻を召喚し、敵に最大体力の 5% の魔法ダメージを与えます。"
+    },
+    {
+      "name": "バックロースター",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "4",
+      "description": "後列のランダムなチャンピオン1体が7秒間、攻撃速度75%を獲得する。"
+    },
+    {
+      "name": "訓練場",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "3",
+      "description": "ランダムなタンク用アイテムを装備したトレーニングダミーを2体獲得する。"
+    },
+    {
+      "name": "フロー",
+      "image": "creatures.png",
+      "category": "戦闘",
+      "cost": "2",
+      "description": "味方のチャンピオンが10秒間、行動妨害を無効化し、攻撃速度が15%増加する。"
+    },
+    {
+      "name": "オールワンズ",
+      "image": "creatures.png",
+      "category": "ショップ",
+      "cost": "0",
+      "description": "ショップをリロールし、すべて1コストのユニットにする。"
+    },
+    {
+      "name": "オールツー",
+      "image": "creatures.png",
+      "category": "ショップ",
+      "cost": "1",
+      "description": "ショップをリロールし、すべて2コストのチャンピオンにする。"
+    },
+    {
+      "name": "オールスリー",
+      "image": "creatures.png",
+      "category": "ショップ",
+      "cost": "2",
+      "description": "ショップをリロールし、すべて3コストのチャンピオンにする。"
+    },
+    {
+      "name": "四つん這い",
+      "image": "creatures.png",
+      "category": "ショップ",
+      "cost": "4",
+      "description": "ショップをリロールし、すべて4コストのチャンピオンにする。"
+    },
+    {
+      "name": "オールファイブ",
+      "image": "creatures.png",
+      "category": "ショップ",
+      "cost": "10",
+      "description": "ショップをリロールし、すべて5コストのチャンピオンにする。"
+    },
+    {
+      "name": "中間パス",
+      "image": "creatures.png",
+      "category": "ショップ",
+      "cost": "7",
+      "description": "ショップをリロールし、すべて2つ星の3コストチャンピオンにする。"
+    },
+    {
+      "name": "ボーダービレッジ",
+      "image": "creatures.png",
+      "category": "ショップ",
+      "cost": "6",
+      "description": "ショップをリロールし、すべて2つ星の2コストチャンピオンにする。"
+    },
+    {
+      "name": "ローリーポリス",
+      "image": "creatures.png",
+      "category": "ショップ",
+      "cost": "3",
+      "description": "18秒の時点で生存している味方チャンピオンごとに、リロールを獲得します。"
+    },
+    {
+      "name": "スターフォール",
+      "image": "creatures.png",
+      "category": "ショップ",
+      "cost": "1",
+      "description": "ショップを再ロールすると、最もコストの低いチャンピオンが 2 つ星になります。"
+    },
+    {
+      "name": "爽やかな光",
+      "image": "creatures.png",
+      "category": "ショップ",
+      "cost": "6",
+      "description": "異なるソーラーのチャンピオンの合計スター段階1つにつき、無料リロールを1回獲得する。"
+    },
+    {
+      "name": "ローリングボーンズ",
+      "image": "creatures.png",
+      "category": "ショップ",
+      "cost": "3",
+      "description": "キルごとに 60% の確率で無料のリロールを獲得できます。"
+    },
+    {
+      "name": "フラッシュファイア",
+      "image": "creatures.png",
+      "category": "ショップ",
+      "cost": "3",
+      "description": "ショップをリロールする。インフェルノがショップ枠2つを発火させ、内容をアップグレードする。"
+    },
+    {
+      "name": "捜索隊",
+      "image": "creatures.png",
+      "category": "ショップ",
+      "cost": "3",
+      "description": "ショップを購入するまで、このラウンドでは各ショップに 4 コストが含まれています。"
+    },
+    {
+      "name": "はじまりの街",
+      "image": "creatures.png",
+      "category": "ショップ",
+      "cost": "4",
+      "description": "ショップをリロールし、すべて2つ星の1コストチャンピオンにする。"
+    },
+    {
+      "name": "アニメイトショップ",
+      "image": "creatures.png",
+      "category": "ショップ",
+      "cost": "8",
+      "description": "20 秒間、ショップは 2 秒ごとに無料で更新されます。"
+    },
+    {
+      "name": "フリーローラー",
+      "image": "creatures.png",
+      "category": "ショップ",
+      "cost": "2",
+      "description": "リロールを 2 回獲得します。"
+    },
+    {
+      "name": "ジャングル",
+      "image": "creatures.png",
+      "category": "ショップ",
+      "cost": "4",
+      "description": "ショップをリフトビーストで埋める。"
+    },
+    {
+      "name": "波に乗って",
+      "image": "creatures.png",
+      "category": "ショップ",
+      "cost": "3",
+      "description": "このラウンドの次の 2 回のリロールでは、最後の戦闘に参加した 2+ 人のチャンピオンが登場します。"
+    },
+    {
+      "name": "ラッキー 7",
+      "image": "creatures.png",
+      "category": "ショップ",
+      "cost": "7",
+      "description": "ショップのリロールを 7 回獲得します。"
+    },
+    {
+      "name": "経験豊富",
+      "image": "creatures.png",
+      "category": "ゴールド/XP",
+      "cost": "1",
+      "description": "XPを2獲得します。"
+    },
+    {
+      "name": "ゆっくり勉強",
+      "image": "creatures.png",
+      "category": "ゴールド/XP",
+      "cost": "3",
+      "description": "15秒の時点で生存している味方チャンピオンごとに、2 XPを獲得します。"
+    },
+    {
+      "name": "ブロンズスプーン",
+      "image": "creatures.png",
+      "category": "ゴールド/XP",
+      "cost": "3",
+      "description": "XPを6獲得します。"
+    },
+    {
+      "name": "コイン投げ",
+      "image": "creatures.png",
+      "category": "ゴールド/XP",
+      "cost": "0",
+      "description": "コインを投げ、表の場合は 1 ゴールドを獲得します。"
+    },
+    {
+      "name": "ブラッドマネー",
+      "image": "creatures.png",
+      "category": "ゴールド/XP",
+      "cost": "1",
+      "description": "チャンピオンを倒すごとに 1 ゴールドを獲得します。"
+    },
+    {
+      "name": "物々交換",
+      "image": "creatures.png",
+      "category": "ゴールド/XP",
+      "cost": "1",
+      "description": "次に売却するチャンピオンの売却額が200%になる。"
+    },
+    {
+      "name": "人生の借金",
+      "image": "creatures.png",
+      "category": "ゴールド/XP",
+      "cost": "0",
+      "description": "プレイヤーの体力が 10 減るごとに 1 ゴールドを獲得します。"
+    },
+    {
+      "name": "大人になる",
+      "image": "creatures.png",
+      "category": "ゴールド/XP",
+      "cost": "10",
+      "description": "XPを16獲得します。"
+    },
+    {
+      "name": "ポケットチェンジ",
+      "image": "creatures.png",
+      "category": "ゴールド/XP",
+      "cost": "1",
+      "description": "味方の1つ星チャンピオンは倒されると1ゴールドを落とす。"
+    },
+    {
+      "name": "戦車",
+      "image": "creatures.png",
+      "category": "ゴールド/XP",
+      "cost": "10",
+      "description": "リロールと XP は半額です。"
+    },
+    {
+      "name": "ダイスロール",
+      "image": "creatures.png",
+      "category": "ゴールド/XP",
+      "cost": "2",
+      "description": "6面ダイスを振り、出目と同じ量のゴールドを獲得する。"
+    },
+    {
+      "name": "ゴールデングース",
+      "image": "creatures.png",
+      "category": "ゴールド/XP",
+      "cost": "2",
+      "description": "最もダメージの高いチャンピオンが与えるダメージ1000ごとに1ゴールドを獲得します。"
+    },
+    {
+      "name": "黄金の祭壇",
+      "image": "creatures.png",
+      "category": "ゴールド/XP",
+      "cost": "0",
+      "description": "エルドリッチの生け贄のコストとスター段階に応じてゴールドを獲得する。"
+    },
+    {
+      "name": "休戦",
+      "image": "creatures.png",
+      "category": "ゴールド/XP",
+      "cost": "0",
+      "description": "1ゴールドを獲得します。対戦相手は 1 ゴールドを獲得します。"
+    },
+    {
+      "name": "干ばつ",
+      "image": "creatures.png",
+      "category": "リスク",
+      "cost": "1",
+      "description": "連敗記録に 2 を加えます。"
+    },
+    {
+      "name": "良い損失",
+      "image": "creatures.png",
+      "category": "リスク",
+      "cost": "5",
+      "description": "次の対プレイヤー戦3回の間、敗北すると6 XPを獲得する。"
+    },
+    {
+      "name": "ゴールデンロード",
+      "image": "creatures.png",
+      "category": "リスク",
+      "cost": "3",
+      "description": "対プレイヤー戦を3回行った後、勝利した戦闘1回につき3ゴールドを獲得する。"
+    },
+    {
+      "name": "フリップフレンジー",
+      "image": "creatures.png",
+      "category": "リスク",
+      "cost": "1",
+      "description": "コインを投げ、表なら1ゴールドを獲得する。裏が出るまで繰り返す。"
+    },
+    {
+      "name": "洪水",
+      "image": "creatures.png",
+      "category": "リスク",
+      "cost": "1",
+      "description": "連勝記録に 2 を加えます。"
+    },
+    {
+      "name": "ポリモーフ",
+      "image": "creatures.png",
+      "category": "リスク",
+      "cost": "1",
+      "description": "所持している2コストチャンピオン1体が、恒久的に3コストへ変化する。"
+    },
+    {
+      "name": "受精する",
+      "image": "creatures.png",
+      "category": "リスク",
+      "cost": "1",
+      "description": "死亡した敵ごとに 1 XP を獲得します。"
+    },
+    {
+      "name": "メジャーギャンビット",
+      "image": "creatures.png",
+      "category": "リスク",
+      "cost": "2",
+      "description": "次のプレイヤーの戦闘に勝利すると、10 ゴールドを獲得します。"
+    },
+    {
+      "name": "主要な多形体",
+      "image": "creatures.png",
+      "category": "リスク",
+      "cost": "1",
+      "description": "所持している4コストチャンピオン1体が、恒久的に5コストへ変化する。"
+    },
+    {
+      "name": "カットパース",
+      "image": "creatures.png",
+      "category": "リスク",
+      "cost": "3",
+      "description": "5秒ごとに、チャンピオンは20%の確率で1ゴールドをドロップします。"
+    },
+    {
+      "name": "給料日",
+      "image": "creatures.png",
+      "category": "リスク",
+      "cost": "3",
+      "description": "戦闘で生き残った味方チャンピオンごとに、2ゴールドを獲得します。"
+    },
+    {
+      "name": "オールイン",
+      "image": "creatures.png",
+      "category": "リスク",
+      "cost": "5",
+      "description": "次の 3 つの戦闘に勝てばレベルアップします。"
+    },
+    {
+      "name": "儀式完了",
+      "image": "creatures.png",
+      "category": "リスク",
+      "cost": "3",
+      "description": "戦闘に勝利すると、進行中のカヴンの儀式を完了する。"
+    },
+    {
+      "name": "一緒に持っていきましょう",
+      "image": "creatures.png",
+      "category": "リスク",
+      "cost": "1",
+      "description": "敗北時に敵を1体以上倒していた場合、4 XPを獲得する。"
+    },
+    {
+      "name": "トロフィーハンター",
+      "image": "creatures.png",
+      "category": "リスク",
+      "cost": "2",
+      "description": "ライバルに対するテイクダウン数が 100% 増加します。"
+    },
+    {
+      "name": "エッセンスの盗難",
+      "image": "creatures.png",
+      "category": "リスク",
+      "cost": "1",
+      "description": "この戦闘で獲得するカヴン・エッセンスが50%増加する。"
+    },
+    {
+      "name": "コンポーネントの報奨金",
+      "image": "creatures.png",
+      "category": "リスク",
+      "cost": "4",
+      "description": "次の対プレイヤー戦に勝利すると、素材アイテムの金床を獲得する。"
+    },
+    {
+      "name": "コンフォートフード",
+      "image": "creatures.png",
+      "category": "リスク",
+      "cost": "2",
+      "description": "プレイヤー体力を2回復する。次の対プレイヤー戦に敗北すると、さらに4回復する。"
+    },
+    {
+      "name": "マイナーな策略",
+      "image": "creatures.png",
+      "category": "リスク",
+      "cost": "1",
+      "description": "次のプレイヤーの戦闘に勝利すると、2 ゴールドを獲得します。"
+    },
+    {
+      "name": "マイナーポリモーフ",
+      "image": "creatures.png",
+      "category": "リスク",
+      "cost": "1",
+      "description": "所持している1コストチャンピオン1体が、恒久的に2コストへ変化する。"
+    },
+    {
+      "name": "船を放棄する",
+      "image": "creatures.png",
+      "category": "リスク",
+      "cost": "0",
+      "description": "ボードとベンチのユニットをすべて売却し、10ゴールド、10 XP、リロール5回を獲得する。"
+    },
+    {
+      "name": "アイドル職人",
+      "image": "creatures.png",
+      "category": "アイテム",
+      "cost": "4",
+      "description": "ベンチにある素材アイテム1個が、その素材から作れる完成アイテムに変化する。"
+    },
+    {
+      "name": "アーティファクティネート",
+      "image": "creatures.png",
+      "category": "アイテム",
+      "cost": "0",
+      "description": "完成アイテムに使用した分を含め、素材アイテムを3個失う。アーティファクトの金床を獲得する。"
+    },
+    {
+      "name": "残忍なバーゲン",
+      "image": "creatures.png",
+      "category": "アイテム",
+      "cost": "0",
+      "description": "プレイヤー体力を8失い、素材アイテムの金床を獲得する。"
+    },
+    {
+      "name": "行商人",
+      "image": "creatures.png",
+      "category": "アイテム",
+      "cost": "6",
+      "description": "アイテムを購入できるショップを開く。価格は0～10ゴールド。"
+    },
+    {
+      "name": "プレミアムスワップミート",
+      "image": "creatures.png",
+      "category": "アイテム",
+      "cost": "0",
+      "description": "3つ星のチャンピオンを販売すると、3回のリロールとラッキーアイテムチェストを獲得できます。"
+    },
+    {
+      "name": "血と鉄",
+      "image": "creatures.png",
+      "category": "アイテム",
+      "cost": "3",
+      "description": "チャンピオンが20回倒されると、素材アイテムの金床を獲得する。"
+    },
+    {
+      "name": "フェイクレベル",
+      "image": "creatures.png",
+      "category": "その他",
+      "cost": "10",
+      "description": "あなたは一時的にレベル 10 です。"
+    },
+    {
+      "name": "グレーターカオス",
+      "image": "creatures.png",
+      "category": "その他",
+      "cost": "2",
+      "description": "ランダムなウィスプを2つ発動する。"
+    },
+    {
+      "name": "ダブルアップ",
+      "image": "creatures.png",
+      "category": "その他",
+      "cost": "2",
+      "description": "次に購入するウィスプは2回発動し、コストが2倍になる。"
+    },
+    {
+      "name": "マナポーション",
+      "image": "creatures.png",
+      "category": "その他",
+      "cost": "1",
+      "description": "装備して1回だけ使用できるマナポーションを獲得する。"
+    },
+    {
+      "name": "ポーションクラフト",
+      "image": "creatures.png",
+      "category": "その他",
+      "cost": "3",
+      "description": "装備して1回だけ使用できるポーションを3個獲得する。"
+    },
+    {
+      "name": "タッチグラス",
+      "image": "creatures.png",
+      "category": "その他",
+      "cost": "0",
+      "description": "5ゴールドを獲得し、すべての操作を無効化する。15秒後、獲得量が2ゴールドになる。"
+    },
+    {
+      "name": "保護の儀式",
+      "image": "creatures.png",
+      "category": "その他",
+      "cost": "1",
+      "description": "このラウンドでプレイヤーが受けるダメージを 3 減らします。"
+    },
+    {
+      "name": "邪悪な取引",
+      "image": "creatures.png",
+      "category": "その他",
+      "cost": "0",
+      "description": "プレイヤー体力を3失い、2ゴールドを獲得する。"
+    },
+    {
+      "name": "新しく改良された機能",
+      "image": "creatures.png",
+      "category": "その他",
+      "cost": "3",
+      "description": "ポケットリコンボレーターを獲得します。"
+    },
+    {
+      "name": "マイナーブラッドリチュアル",
+      "image": "creatures.png",
+      "category": "その他",
+      "cost": "4",
+      "description": "プレイヤー体力を3失い、下級チャンピオン複製装置を獲得する。"
+    },
+    {
+      "name": "消耗品",
+      "image": "creatures.png",
+      "category": "その他",
+      "cost": "1",
+      "description": "ゴールドで消耗品を購入できるショップを開く。"
+    },
+    {
+      "name": "森の魔術師",
+      "image": "creatures.png",
+      "category": "その他",
+      "cost": "0",
+      "description": "ショップをウィスプ5つで埋め、そのうち1つを発動できる。"
+    },
+    {
+      "name": "ドゥーダッド バッグ",
+      "image": "creatures.png",
+      "category": "その他",
+      "cost": "3",
+      "description": "物理防御、魔法防御、体力のいずれかを付与するランダムな消耗品を3個獲得する。"
+    },
+    {
+      "name": "ドゥーダッドサック",
+      "image": "creatures.png",
+      "category": "その他",
+      "cost": "5",
+      "description": "物理防御、魔法防御、体力のいずれかを付与するランダムな消耗品を5個獲得する。"
+    },
+    {
+      "name": "ドゥーダッド ジャー",
+      "image": "creatures.png",
+      "category": "その他",
+      "cost": "0",
+      "description": "物理防御、魔法防御、体力のいずれかを付与するランダムな消耗品を1個獲得する。"
+    },
+    {
+      "name": "フェアリーフライト",
+      "image": "creatures.png",
+      "category": "その他",
+      "cost": "1",
+      "description": "この戦闘では 100% 多くのフェイピクシーを引き寄せます。"
+    },
+    {
+      "name": "シンガムジグバッグ",
+      "image": "creatures.png",
+      "category": "その他",
+      "cost": "3",
+      "description": "スキルパワーまたはマナ自動回復を付与するランダムな消耗品を3個獲得する。"
+    },
+    {
+      "name": "ティンガムジグサック",
+      "image": "creatures.png",
+      "category": "その他",
+      "cost": "5",
+      "description": "スキルパワーまたはマナ自動回復を付与するランダムな消耗品を5個獲得する。"
+    },
+    {
+      "name": "ティンガムジグ瓶",
+      "image": "creatures.png",
+      "category": "その他",
+      "cost": "0",
+      "description": "スキルパワーまたはマナ自動回復を付与するランダムな消耗品を1個獲得する。"
+    },
+    {
+      "name": "小物バッグ",
+      "image": "creatures.png",
+      "category": "その他",
+      "cost": "1",
+      "description": "攻撃力または攻撃速度を付与するランダムな消耗品を2個獲得する。"
+    },
+    {
+      "name": "ニックナックサック",
+      "image": "creatures.png",
+      "category": "その他",
+      "cost": "5",
+      "description": "攻撃力または攻撃速度を付与するランダムな消耗品を4個獲得する。"
+    },
+    {
+      "name": "小物入れ",
+      "image": "creatures.png",
+      "category": "その他",
+      "cost": "0",
+      "description": "攻撃力や攻撃速度を付与するランダム消耗品1個を獲得します。"
+    },
+    {
+      "name": "サルベージャー",
+      "image": "creatures.png",
+      "category": "その他",
+      "cost": "0",
+      "description": "ベンチに置いたユニットのアイテムは削除され、分解されます。"
+    },
+    {
+      "name": "早期修正",
+      "image": "creatures.png",
+      "category": "その他",
+      "cost": "0",
+      "description": "リフォージャーを1つ獲得します。"
+    },
+    {
+      "name": "ヘルスポーション",
+      "image": "creatures.png",
+      "category": "その他",
+      "cost": "1",
+      "description": "装備して1回だけ使用できる体力ポーションを獲得する。"
+    },
+    {
+      "name": "テラフォーミング",
+      "image": "creatures.png",
+      "category": "その他",
+      "cost": "2",
+      "description": "戦闘開始時にグリーンファーザーシードを5個獲得します。"
+    },
+    {
+      "name": "ブラストポーション",
+      "image": "creatures.png",
+      "category": "その他",
+      "cost": "1",
+      "description": "装備して1回だけ使用できる爆発ポーションを獲得する。"
+    },
+    {
+      "name": "血の儀式",
+      "image": "creatures.png",
+      "category": "その他",
+      "cost": "5",
+      "description": "プレイヤー体力を9失い、チャンピオン複製装置を獲得する。"
+    },
+    {
+      "name": "レッサーカオス",
+      "image": "creatures.png",
+      "category": "その他",
+      "cost": "1",
+      "description": "ランダムなウィスプを1つ発動する。"
+    },
+    {
+      "name": "ヒーリングプール",
+      "image": "creatures.png",
+      "category": "その他",
+      "cost": "2",
+      "description": "プレイヤー体力を5回復する。"
+    }
+  ]
+}
