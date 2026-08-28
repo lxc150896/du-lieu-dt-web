@@ -1,5 +1,1597 @@
 {
-    "1": [],
-    "2": [],
-    "3": []
+    "1": [
+        {
+            "stt": 1,
+            "id": "hang_cho_pandora",
+            "name": "Hàng Chờ Pandora",
+            "image": "Pandoras-Bench-II.png",
+            "description": "Ở đầu mỗi vòng đấu, các tướng ở 3 ô ngoài cùng bên phải hàng chờ sẽ được chuyển đổi thành tướng ngẫu nhiên cùng giá tiền. Nhận 4 vàng."
+        },
+        {
+            "stt": 2,
+            "id": "hop_pandora_i",
+            "name": "Hộp Pandora I",
+            "image": "Pandora1.png",
+            "description": "Bắt đầu vòng đấu: Các trang bị trên hàng chờ được đánh tráo ngẫu nhiên. \n\nNhận 1 trang bị thành phần ngẫu nhiên."
+        },
+        {
+            "stt": 3,
+            "id": "tui_do_co_nho",
+            "name": "Túi Đồ Cỡ Nhỏ",
+            "image": "SmallGrabBag_I.png",
+            "description": "Nhận 2 trang bị thành phần ngẫu nhiên."
+        },
+        {
+            "stt": 4,
+            "id": "an_mon",
+            "name": "Ăn Mòn",
+            "image": "Corrosion_I.png",
+            "description": "Tướng địch đứng ở 2 hàng trên sẽ bị mất 4 Giáp và Kháng Phép sau mỗi 2 giây."
+        },
+        {
+            "stt": 5,
+            "id": "ban_thang_hoa",
+            "name": "Bán Thăng Hoa",
+            "image": "Ascension1.png",
+            "description": "Sau 12 giây giao tranh, các tướng của bạn nhận thêm 20% Khuếch Đại Sát Thương."
+        },
+        {
+            "stt": 6,
+            "id": "cung_du_phong",
+            "name": "Cung Dự Phòng",
+            "image": "RecurveWrecker_I.png",
+            "description": "Nhận 1 Cung Gỗ. Sau khi các tướng của bạn tấn công 1000 lần, nhận thêm 2 Cung Gỗ."
+        },
+        {
+            "stt": 7,
+            "id": "dac_quyen_phu_gia",
+            "name": "Đặc Quyền Phú Gia",
+            "image": "Silver-Spoon-I.png",
+            "description": "Nhận 10 XP."
+        },
+        {
+            "stt": 8,
+            "id": "dong_minh_cua_but",
+            "name": "Đồng Minh Của Bụt",
+            "image": "Caretaker_s-Chosen-I.png",
+            "description": "Nhận ngay 1 tướng 2 vàng ngẫu nhiên. Mỗi lần thăng cấp, nhận được tướng này một lần nữa.\n\nTướng: 0"
+        },
+        {
+            "stt": 9,
+            "id": "duoc_cai_nay_mat_cai_kia_i",
+            "name": "Được Cái Này Mất Cái Kia I",
+            "image": "Good-For-Something-I.png",
+            "description": "Tướng không mang trang bị có 40% xác suất rơi ra 1 vàng khi hy sinh."
+        },
+        {
+            "stt": 10,
+            "id": "ket_noi_gian_doan",
+            "name": "Kết Nối Gián Đoạn",
+            "image": "Missed-Connections-I.png",
+            "description": "Nhận 1 bản sao của mỗi tướng 1 vàng."
+        },
+        {
+            "stt": 11,
+            "id": "khoi_dong_nhanh",
+            "name": "Khởi Động Nhanh",
+            "image": "KickStart_I.png",
+            "description": "Nhận 1 tướng 2 vàng 2 sao ngẫu nhiên và 1 vàng."
+        },
+        {
+            "stt": 12,
+            "id": "lay_cong_bu_thu_i",
+            "name": "Lấy Công Bù Thủ I",
+            "image": "GlassCannon_I.png",
+            "description": "Các đồng minh bắt đầu giao tranh ở hàng sau sẽ khởi đầu với 80% Máu nhưng nhận thêm 16% Khuếch Đại Sát Thương."
+        },
+        {
+            "stt": 13,
+            "id": "lo_ren_tiem_an",
+            "name": "Lò Rèn Tiềm Ẩn",
+            "image": "Long-time-Crafting-I.png",
+            "description": "Sau 8 giao tranh người chơi, nhận 1 Gói Trang Bị Tạo Tác."
+        },
+        {
+            "stt": 14,
+            "id": "tap_trung_hoa_luc",
+            "name": "Tập Trung Hỏa Lực",
+            "image": "MarksMan_I.png",
+            "description": "Đội của bạn nhận 10% Sức Mạnh Công Kích. Mỗi 5 giây, nhận thêm 5%."
+        },
+        {
+            "stt": 15,
+            "id": "tiep_te_trang_bi_i",
+            "name": "Tiếp Tế Trang Bị I",
+            "image": "ItemGrabBag1.png",
+            "description": "Nhận 1 trang bị hoàn chỉnh ngẫu nhiên."
+        },
+        {
+            "stt": 16,
+            "id": "tu_dien_i",
+            "name": "Tụ Điện I",
+            "image": "Electrocharge-I.png",
+            "description": "Mỗi khi đồng minh nhận 4 đòn đánh, họ sẽ gây 30 - 90 (dựa trên Giai Đoạn hiện tại) sát thương phép lên kẻ địch gần đó (1 giây hồi chiêu)."
+        },
+        {
+            "stt": 17,
+            "id": "xay_dung_doi_hinh",
+            "name": "Xây Dựng Đội Hình",
+            "image": "Building-an-army-I.png",
+            "description": "Nhận 1 Máy Sao Chép Tướng Cỡ Nhỏ. Nhận thêm 1 Máy Sao Chép Tướng Cỡ Nhỏ nữa sau 5 vòng giao tranh người chơi.\n\nTrang bị này cho phép bạn sao chép một tướng 3 vàng trở xuống."
+        },
+        {
+            "stt": 18,
+            "id": "xuc_xac_vo_tan",
+            "name": "Xúc Xắc Vô Tận",
+            "image": "Rolling-For-Days-I.png",
+            "description": "Nhận 10 lượt đổi Cửa Hàng miễn phí."
+        },
+        {
+            "stt": 19,
+            "id": "bang_trom",
+            "name": "Băng Trộm",
+            "image": "BandThieves1.png",
+            "description": "Nhận 1 Găng Đạo Tặc."
+        },
+        {
+            "stt": 20,
+            "id": "cau_hoi_phuc_i",
+            "name": "Cầu Hồi Phục I",
+            "image": "Healing-Orbs-I.png",
+            "description": "Khi 1 kẻ địch bị hạ gục, 1 đồng minh gần đó sẽ được hồi 250 Máu."
+        },
+        {
+            "stt": 21,
+            "id": "chi_mot_con_duong_i",
+            "name": "Chỉ Một Con Đường I",
+            "image": "tier-silver.png",
+            "description": "Các Tướng nhận được 1.5% Sức Mạnh Công Kích, 1.5% Sức Mạnh Phép Thuật, 1.5 Giáp và 1.5 Kháng Phép cho mỗi đồng minh có cùng tộc/hệ với họ."
+        },
+        {
+            "stt": 22,
+            "id": "chuyen_doi_thuong",
+            "name": "Chuyện Đời Thường",
+            "image": "Slice_of_Life_I.png",
+            "description": "Hai lần mỗi giai đoạn, nhận 1 tướng ngẫu nhiên. Giá của tướng tăng theo Giai Đoạn. Hiệu ứng này kết thúc sau khi nhận được tướng 1 - 5 vàng."
+        },
+        {
+            "stt": 23,
+            "id": "du_am_ma_thuat_+",
+            "name": "Dư Âm Ma Thuật +",
+            "image": "tier-silver.png",
+            "description": "Đội của bạn được tăng 75 Máu. Mỗi khi bạn mua 1 Tinh Linh, tăng hiệu ứng này thêm 10."
+        },
+        {
+            "stt": 24,
+            "id": "gian_lan",
+            "name": "Gian Lận",
+            "image": "tier-silver.png",
+            "description": "Xúc xắc và xu của bạn còn may mắn hơn.\n\nĐổ một xúc xắc và nhận số vàng bằng với số điểm đổ được. Sau đó tung đồng xu và nhận 1 vàng nếu tung ra mặt ngửa."
+        },
+        {
+            "stt": 25,
+            "id": "le_luu_ly",
+            "name": "Lệ Lưu Ly",
+            "image": "GriefoftheGreatGoddess_I.png",
+            "description": "Nhận 1 Nước Mắt Nữ Thần. Sau khi các tướng của bạn tiêu tốn 6500 Năng Lượng, nhận thêm 2 Nước Mắt Nữ Thần."
+        },
+        {
+            "stt": 26,
+            "id": "mo_loi",
+            "name": "Mở Lối",
+            "image": "CarveAPath_I.png",
+            "description": "Nhận 1 Kiếm B.F. Sau khi các tướng của bạn gây 65000 sát thương vật lý, nhận thêm 2 Kiếm B.F."
+        },
+        {
+            "stt": 27,
+            "id": "phan_phoi_tuong+",
+            "name": "Phân Phối Tướng+",
+            "image": "tier-silver.png",
+            "description": "Nhận 3 tướng 3 vàng. Sau 6 vòng, nhận thêm 3 tướng cùng bậc."
+        },
+        {
+            "stt": 28,
+            "id": "phuoc_lanh_vu_tru_i",
+            "name": "Phước Lành Vũ Trụ I",
+            "image": "CelestialBlessing1.png",
+            "description": "Đội của bạn nhận 12% Hút Máu Toàn Phần. Lượng hồi máu phụ trội sẽ được chuyển thành lá chắn, tối đa 200 Máu."
+        },
+        {
+            "stt": 29,
+            "id": "thue_nhan_thuc",
+            "name": "Thuế Nhận Thức",
+            "image": "CognitiveTax_I.png",
+            "description": "Nhận 8 vàng và 1 XP."
+        },
+        {
+            "stt": 30,
+            "id": "tinh_linh_hoan_tien",
+            "name": "Tinh Linh Hoàn Tiền",
+            "image": "tier-silver.png",
+            "description": "Mỗi lần bạn mua 1 Tinh Linh, nhận 2 vàng. Nhận ngay 4 vàng."
+        },
+        {
+            "stt": 31,
+            "id": "toa_thap",
+            "name": "Tòa Tháp",
+            "image": "TheTower_I.png",
+            "description": "Nhận 1 Hình Nhân khổng lồ. Cứ mỗi 4 giây, nó phóng điện vào 3 kẻ địch gần nhất, gây sát thương chuẩn tương đương 5% Máu tối đa."
+        },
+        {
+            "stt": 32,
+            "id": "cam_thay_may_man",
+            "name": "Cảm Thấy May Mắn",
+            "image": "FeelingLucky_I.png",
+            "description": "Nhận 12 vàng, sau đó tung đồng xu. Nếu ra mặt ngửa, nhận thêm 4 vàng."
+        },
+        {
+            "stt": 33,
+            "id": "dinh_huong_tuong_lai",
+            "name": "Định Hướng Tương Lai",
+            "image": "tier-silver.png",
+            "description": "Linh Thú của bạn mất 20 Máu, nhưng sau 5 giao tranh người chơi, nhận 3 tướng 4 vàng và 8 vàng."
+        },
+        {
+            "stt": 34,
+            "id": "do_vuong",
+            "name": "Đồ Vương",
+            "image": "Kingslayer_I.png",
+            "description": "Sau khi thắng giao tranh người chơi, nhận 1 vàng. Nếu đối thủ có nhiều máu hơn bạn, thay vào đó nhận 6 Vàng. Nhận 1 vàng."
+        },
+        {
+            "stt": 35,
+            "id": "du_am_ma_thuat",
+            "name": "Dư Âm Ma Thuật",
+            "image": "tier-silver.png",
+            "description": "Đội của bạn được tăng 60 Máu. Mỗi khi bạn mua 1 Tinh Linh, tăng hiệu ứng này thêm 10."
+        },
+        {
+            "stt": 36,
+            "id": "giap_tu_che_i",
+            "name": "Giáp Tự Chế I",
+            "image": "Makeshift1.png",
+            "description": "Các tướng không mang trang bị nhận 30 Giáp và Kháng Phép."
+        },
+        {
+            "stt": 37,
+            "id": "huong_den_hoi_ket",
+            "name": "Hướng Đến Hồi Kết",
+            "image": "Late-Game-Specialist-I.png",
+            "description": "Khi bạn đạt Cấp 9, nhận 27 vàng."
+        },
+        {
+            "stt": 38,
+            "id": "kho_bau_sat",
+            "name": "Kho Báu Sắt",
+            "image": "Iron-Assets-I.png",
+            "description": "Nhận 1 gói trang bị thành phần và 3 vàng."
+        },
+        {
+            "stt": 39,
+            "id": "khoa_du_phong",
+            "name": "Khóa Dự Phòng",
+            "image": "ExtraBuckles_I.png",
+            "description": "Nhận 1 Đai Khổng Lồ. Sau khi các tướng của bạn chịu 75000 sát thương, nhận thêm 2 Đai Khổng Lồ."
+        },
+        {
+            "stt": 40,
+            "id": "kien_nhan_la_mot_duc_tinh",
+            "name": "Kiên Nhẫn Là Một Đức Tính",
+            "image": "PatienceIsAVirtue_I.png",
+            "description": "Nhận ngay 4 lượt đổi lại. Mỗi vòng đấu, nhận 1 lượt đổi miễn phí nếu bạn không mua tướng ở vòng đấu trước."
+        },
+        {
+            "stt": 41,
+            "id": "mot,_hai,_ba",
+            "name": "Một, Hai, Ba",
+            "image": "tier-silver.png",
+            "description": "Nhận 2 tướng 1 vàng, 1 tướng 2 vàng và 1 tướng 3 vàng."
+        },
+        {
+            "stt": 42,
+            "id": "mot,_hai,_nam!",
+            "name": "Một, Hai, Năm!",
+            "image": "One-Two-Five-I.png",
+            "description": "Nhận 1 trang bị thành phần ngẫu nhiên, 2 vàng và 1 tướng 5 vàng ngẫu nhiên."
+        },
+        {
+            "stt": 43,
+            "id": "nang_tam_uy_luc",
+            "name": "Nâng Tầm Uy Lực",
+            "image": "PowerUp_I.png",
+            "description": "Nâng Cấp tiếp theo của bạn được tăng một bậc."
+        },
+        {
+            "stt": 44,
+            "id": "nhat_thong",
+            "name": "Nhất Thống",
+            "image": "StandUnited1.png",
+            "description": "Tướng của bạn nhận 1.5% Sức Mạnh Công Kích và 1.5% Sức Mạnh Phép Thuật với mỗi Tộc/Hệ không phải duy nhất được kích hoạt trong đội hình."
+        },
+        {
+            "stt": 45,
+            "id": "om_tap_the_i",
+            "name": "Ôm Tập Thể I",
+            "image": "GroupHug1_I.png",
+            "description": "Bắt đầu giao tranh: Các tướng sẽ tăng cho các tướng liền kề khác 6 Giáp và Kháng Phép. Hiệu ứng này có thể cộng dồn."
+        },
+        {
+            "stt": 46,
+            "id": "phan_nhanh",
+            "name": "Phân Nhánh",
+            "image": "Branching-Out-I.png",
+            "description": "Nhận 1 Ấn ngẫu nhiên."
+        },
+        {
+            "stt": 47,
+            "id": "phan_nhanh+",
+            "name": "Phân Nhánh+",
+            "image": "Branching-Out-I.png",
+            "description": "Nhận 1 Ấn ngẫu nhiên và 1 Búa Rèn."
+        },
+        {
+            "stt": 48,
+            "id": "phan_phoi_tuong",
+            "name": "Phân Phối Tướng",
+            "image": "tier-silver.png",
+            "description": "Nhận 3 tướng 2 vàng. Sau 6 vòng, nhận thêm 3 tướng cùng bậc."
+        },
+        {
+            "stt": 49,
+            "id": "phan_phoi_tuong++",
+            "name": "Phân Phối Tướng++",
+            "image": "tier-silver.png",
+            "description": "Nhận 3 tướng 4 vàng. Sau 6 vòng, nhận thêm 3 tướng cùng bậc."
+        },
+        {
+            "stt": 50,
+            "id": "quay_trung_thuong",
+            "name": "Quay Trúng Thưởng",
+            "image": "SlightlyMagicRoll_I.png",
+            "description": "Đổ 1 con xúc xắc. Nhận thưởng dựa trên số xúc xắc đổ ra."
+        },
+        {
+            "stt": 51,
+            "id": "tang_von_i",
+            "name": "Tăng Vốn I",
+            "image": "tier-silver.png",
+            "description": "Tích trữ vàng bằng với lượng lợi tức bạn kiếm được. Ở vòng 3-3, nhận lượng vàng bằng 100% số vàng đã tích trữ. Nhận ngay 1 vàng."
+        },
+        {
+            "stt": 52,
+            "id": "thue_nhan_thuc+",
+            "name": "Thuế Nhận Thức+",
+            "image": "CognitiveTax_I.png",
+            "description": "Nhận 12 vàng và 3 XP."
+        },
+        {
+            "stt": 53,
+            "id": "tich_chuoi_nhanh",
+            "name": "Tích Chuỗi Nhanh",
+            "image": "tier-silver.png",
+            "description": "Bạn nhận được gấp đôi tiến trình chuỗi thắng và chuỗi thua. Nhận 2 vàng."
+        },
+        {
+            "stt": 54,
+            "id": "tien_ve_trung_tam",
+            "name": "Tiền Vệ Trung Tâm",
+            "image": "FindYourCenter_I.png",
+            "description": "Tướng bắt đầu giao tranh ở chính giữa hàng trên sẽ được nhận 15% Khuếch Đại Sát Thương và 25% Máu tối đa."
+        },
+        {
+            "stt": 55,
+            "id": "tre,_khoe_&_tu_do",
+            "name": "Trẻ, Khỏe & Tự Do",
+            "image": "Young-and-wild-and-free-I.png",
+            "description": "Bạn sẽ luôn được di chuyển tự do trong Vòng Đi Chợ. Nhận 5 vàng."
+        },
+        {
+            "stt": 56,
+            "id": "van_menh_bac",
+            "name": "Vận Mệnh Bạc",
+            "image": "SilverDestiny_I.png",
+            "description": "Nhận 1 Nâng Cấp Bạc và 2 vàng."
+        },
+        {
+            "stt": 57,
+            "id": "van_menh_bac+",
+            "name": "Vận Mệnh Bạc+",
+            "image": "SilverDestiny_I.png",
+            "description": "Nhận 1 Nâng Cấp Bạc và 4 vàng."
+        },
+        {
+            "stt": 58,
+            "id": "van_menh_bac++",
+            "name": "Vận Mệnh Bạc++",
+            "image": "SilverDestiny_I.png",
+            "description": "Nhận 1 Nâng Cấp Bạc và 7 vàng."
+        },
+        {
+            "stt": 59,
+            "id": "xoay_bai_tu_dong",
+            "name": "Xoay Bài Tự Động",
+            "image": "Recombobulator-I.png",
+            "description": "Tất cả tướng trên sân đấu của bạn sẽ vĩnh viễn chuyển thành tướng ngẫu nhiên với giá cao hơn 1 bậc (tối đa 5). Nhận 2 Nam Châm Ma Thuật và 3 lượt đổi miễn phí."
+        },
+        {
+            "stt": 60,
+            "id": "cuoc_vien_chinh",
+            "name": "Cuộc Viễn Chinh",
+            "image": "Expedition_I.png",
+            "description": "Khi bắt đầu giao tranh, mất đi vị tướng ở ô ngoài cùng bên phải hàng dự bị. Sau khi tổng giá tướng mất đi theo cách này là 33 vàng, nhận một phần thưởng mạnh mẽ. Nhận ngay 1 tướng 3 vàng."
+        },
+        {
+            "stt": 61,
+            "id": "don_quyet_dinh",
+            "name": "Đòn Quyết Định",
+            "image": "CalledShot_I.png",
+            "description": "Đặt chuỗi thắng của bạn thành +4. Nhận 4 vàng."
+        }
+    ],
+    "2": [
+        {
+            "stt": 1,
+            "id": "hop_pandora_ii",
+            "name": "Hộp Pandora II",
+            "image": "Pandora2.png",
+            "description": "Bắt đầu vòng đấu: Các trang bị trên hàng chờ được đánh tráo ngẫu nhiên. \n\nNhận 2 trang bị thành phần ngẫu nhiên."
+        },
+        {
+            "stt": 2,
+            "id": "la_ta_day",
+            "name": "Là Ta Đây",
+            "image": "tier-gold.png",
+            "description": "Nhận một hào quang ở góc dưới bên phải. Tướng bên trong nhận thêm 15% Khuếch Đại Sát Thương và 15% Tốc Độ Đánh, đồng thời rơi ra 1 vàng mỗi 5 lần tham gia hạ gục.\n\nTactician's Crown Truyền Thuyết & Huyền Thoại, 2026"
+        },
+        {
+            "stt": 3,
+            "id": "lo_ren_than_thoai",
+            "name": "Lò Rèn Thần Thoại",
+            "image": "PortableForge2.png",
+            "description": "Chọn 1 trong 4 Tạo Tác. Tạo Tác là những trang bị mạnh mẽ hơn với hiệu ứng đặc biệt."
+        },
+        {
+            "stt": 4,
+            "id": "long_xu_be_nho",
+            "name": "Lông Xù Bé Nhỏ",
+            "image": "tier-gold.png",
+            "description": "Khi tộc/hệ Tinh Nghịch được kích hoạt, triệu hồi LXKL thứ hai mạnh bằng 35% LXKL đầu tiên. Nhận 1 Teemo, 1 Veigar và 1 Kobuko."
+        },
+        {
+            "stt": 5,
+            "id": "lua_chon_doc_quyen",
+            "name": "Lựa Chọn Độc Quyền",
+            "image": "ExclusiveCustomization_II.png",
+            "description": "Nhận 1 Rương Trang Bị May Mắn, 1 Nam Châm Ma Thuật và 7 vàng."
+        },
+        {
+            "stt": 6,
+            "id": "quai_rung_omega",
+            "name": "Quái Rừng Omega",
+            "image": "tier-gold.png",
+            "description": "Giờ đây bạn có thể chọn thêm một Quái Rừng Đầu Đàn thứ hai. Nhận 1 Cua Kỳ Cục, 1 Mầm Non và 1 Sỏi."
+        },
+        {
+            "stt": 7,
+            "id": "thang_hoa",
+            "name": "Thăng Hoa",
+            "image": "Ascension2.png",
+            "description": "Sau 12 giây giao tranh, các tướng của bạn nhận thêm 35% Khuếch Đại Sát Thương."
+        },
+        {
+            "stt": 8,
+            "id": "toi_thang_cap_mot_minh",
+            "name": "Tôi Thăng Cấp Một Mình",
+            "image": "SoloLeveling_II.png",
+            "description": "Trong 5 giao tranh tiếp theo, bạn chỉ được triển khai 1 tướng, nhưng tướng đó sẽ được tăng mạnh chỉ số. Nhận 1 XP với mỗi mạng hạ gục tướng đó đạt được. Sau đó, nhận 2 trang bị thành phần."
+        },
+        {
+            "stt": 9,
+            "id": "tri_tue_sieu_cong_nghe",
+            "name": "Trí Tuệ Siêu Công Nghệ",
+            "image": "Cybernetic-Uplink-II.png",
+            "description": "Tướng có sở hữu trang bị nhận 100 Máu và 2 Hồi Phục Năng Lượng. Nhận 1 Nước Mắt Nữ Thần."
+        },
+        {
+            "stt": 10,
+            "id": "truong_dai_thien_su",
+            "name": "Trượng Đại Thiên Sứ",
+            "image": "SeraphimsStaff_II.png",
+            "description": "Nhận 1 Quyền Trượng Thiên Thần. Quyền Trượng Thiên Thần tăng thêm 2 Hồi Phục Năng Lượng nếu chủ sở hữu có 90% Sức Mạnh Phép Thuật trở lên."
+        },
+        {
+            "stt": 11,
+            "id": "tu_dien_ii",
+            "name": "Tụ Điện II",
+            "image": "Electrocharge-II.png",
+            "description": "Mỗi khi đồng minh nhận 4 đòn đánh, họ sẽ gây 50 - 140 (dựa trên Giai Đoạn hiện tại) sát thương phép lên kẻ địch gần đó (1 giây hồi chiêu)."
+        },
+        {
+            "stt": 12,
+            "id": "tui_do_co_dai",
+            "name": "Túi Đồ Cỡ Đại",
+            "image": "Grab-Bag-II.png",
+            "description": "Nhận 3 trang bị thành phần ngẫu nhiên, 2 vàng và 1 Búa Rèn."
+        },
+        {
+            "stt": 13,
+            "id": "tui_do_sieu_hung++",
+            "name": "Túi Đồ Siêu Hùng++",
+            "image": "Heroic-Grab-Bag-II.png",
+            "description": "Nhận 2 Máy Sao Chép Tướng Cỡ Nhỏ. Nhận 14 vàng."
+        },
+        {
+            "stt": 14,
+            "id": "vay_tam_ung+",
+            "name": "Vay Tạm Ứng+",
+            "image": "AdvancedLoan_II.png",
+            "description": "Nhận 33 Vàng. Nâng cấp tiếp theo của bạn bị giảm 1 bậc."
+        },
+        {
+            "stt": 15,
+            "id": "bao_ho_vo_tan",
+            "name": "Bảo Hộ Vô Tận",
+            "image": "InfinityProtection_II.png",
+            "description": "Nhận ngay 3 vàng. Tại Vòng 3-7, nhận 1 Tam Luyện Kiếm. Tam Luyện Kiếm trao cho các đồng minh cùng hàng một lá chắn bằng 12% Máu.\n\nGiải Vô Địch Quái Vật Tấn Công, 2023"
+        },
+        {
+            "stt": 16,
+            "id": "cam_re_phan_tan+",
+            "name": "Cắm Rễ Phân Tán+",
+            "image": "SpreadingRoots_II.png",
+            "description": "Nhận 2 Ấn ngẫu nhiên, 1 Búa Rèn và 2 vàng."
+        },
+        {
+            "stt": 17,
+            "id": "giap_tu_che_ii",
+            "name": "Giáp Tự Chế II",
+            "image": "Makeshift2.png",
+            "description": "Các tướng không mang trang bị nhận 50 Giáp và Kháng Phép."
+        },
+        {
+            "stt": 18,
+            "id": "giot_le_bi_ai",
+            "name": "Giọt Lệ Bi Ai",
+            "image": "CryMeARiver_II.png",
+            "description": "Nhận 1 Nước Mắt Nữ Thần. Đội của bạn nhận 1 Hồi Năng Lượng. Sau 12 giây giao tranh, tăng hiệu ứng này lên thành 4."
+        },
+        {
+            "stt": 19,
+            "id": "goi_tang_cuong",
+            "name": "Gói Tăng Cường",
+            "image": "BoosterPack1_II.png",
+            "description": "Nhận các tướng ngẫu nhiên có tổng giá là 12 vàng. (Đảm bảo có ít nhất một tướng 3 vàng!)"
+        },
+        {
+            "stt": 20,
+            "id": "goi_tang_cuong++",
+            "name": "Gói Tăng Cường++",
+            "image": "BoosterPack1_II.png",
+            "description": "Nhận các tướng ngẫu nhiên có tổng giá là 26 vàng. (Đảm bảo có ít nhất một tướng 5 vàng!)"
+        },
+        {
+            "stt": 21,
+            "id": "hang_cho_dau_doi",
+            "name": "Hàng Chờ Đấu Đôi",
+            "image": "DuoQueue_II.png",
+            "description": "Nhận 2 tướng 5 vàng ngẫu nhiên và 2 bản sao của một trang bị thành phần ngẫu nhiên."
+        },
+        {
+            "stt": 22,
+            "id": "kham_bao_thach_i",
+            "name": "Khảm Bảo Thạch I",
+            "image": "Jeweled-Lotus-II.png",
+            "description": "Đội của bạn nhận 10% Tỉ Lệ Chí Mạng và Chuẩn Xác.\n\nChuẩn Xác: Sát thương kỹ năng có thể chí mạng. Chỉ số Chuẩn Xác cộng thêm tăng 10% Sát Thương Chí Mạng."
+        },
+        {
+            "stt": 23,
+            "id": "khien_don_dau",
+            "name": "Khiên Đơn Đấu",
+            "image": "SoloPlate_II.png",
+            "description": "Nhận 1 Thú Tượng Thạch Giáp. Các đồng minh mang Thú Tượng Thạch Giáp nhận 17% Máu tối đa nếu họ đứng một mình một hàng khi bắt đầu giao tranh."
+        },
+        {
+            "stt": 24,
+            "id": "khong_doi_thu",
+            "name": "Không Đối Thủ",
+            "image": "tier-gold.png",
+            "description": "Bạn có thể đưa Rengar và Kha'Zix ra sân cùng nhau mà không bị hạn chế và chúng sẽ nhận thêm sức mạnh khi tướng kia tung chiêu. Nhận 1 Rengar và 1 Kha'Zix."
+        },
+        {
+            "stt": 25,
+            "id": "kien_nhan_hoc_tap",
+            "name": "Kiên Nhẫn Học Tập",
+            "image": "Learning-From-Experience-II.png",
+            "description": "Sau giao tranh người chơi, nhận thêm 2 XP nếu bạn thắng hoặc 3 XP nếu bạn thua."
+        },
+        {
+            "stt": 26,
+            "id": "nha_may_tai_che",
+            "name": "Nhà Máy Tái Chế",
+            "image": "Salvage2.png",
+            "description": "Nhận 1 trang bị hoàn chỉnh ngẫu nhiên ngay lập tức, và 1 trang bị thành phần sau 8 vòng giao tranh người chơi. Bán tướng sẽ tách trang bị hoàn chỉnh của tướng đó ra thành trang bị thành phần (ngoại trừ các trang bị Chiến Thuật và Ấn)."
+        },
+        {
+            "stt": 27,
+            "id": "nhan_21_vang",
+            "name": "Nhận 21 Vàng",
+            "image": "Windfall2.png",
+            "description": "Nhận 21 vàng."
+        },
+        {
+            "stt": 28,
+            "id": "nhan_ban",
+            "name": "Nhân Bản",
+            "image": "Replication-II.png",
+            "description": "Chọn 1 trong 3 trang bị thành phần. Trong 2 vòng đấu tiếp theo, nhận 1 bản sao của trang bị thành phần đó."
+        },
+        {
+            "stt": 29,
+            "id": "phuoc_lanh_vu_tru_ii",
+            "name": "Phước Lành Vũ Trụ II",
+            "image": "CelestialBlessing2.png",
+            "description": "Đội của bạn nhận 18% Hút Máu Toàn Phần. Lượng hồi máu phụ trội sẽ được chuyển thành lá chắn, tối đa 400 Máu."
+        },
+        {
+            "stt": 30,
+            "id": "qua_tai_tu_duy",
+            "name": "Quá Tải Tư Duy",
+            "image": "CognitiveOverload_II.png",
+            "description": "Nhận 7 vàng, 1 tướng 1 vàng 2 sao, 1 tướng 2 vàng, 2 tướng 3 vàng, 1 XP và 1 lượt đổi Cửa Hàng."
+        },
+        {
+            "stt": 31,
+            "id": "quai_thu_ben_trong",
+            "name": "Quái Thú Bên Trong",
+            "image": "tier-gold.png",
+            "description": "Tướng Nguyên Sinh cho thêm một Phước Lành nữa.  Nhận 1 Vi ngay bây giờ và 1 Sivir sau 3 vòng đấu."
+        },
+        {
+            "stt": 32,
+            "id": "sinh_nhat_doan_tu",
+            "name": "Sinh Nhật Đoàn Tụ",
+            "image": "BirthdayReunion_II.png",
+            "description": "Nhận 1 tướng 2 vàng 2 sao ngẫu nhiên. Ở Cấp 6, nhận 1 trang bị thành phần ngẫu nhiên. Ở Cấp 9, nhận 1 tướng 5 vàng 2 sao ngẫu nhiên.\n\nTactician's Crown Họa Thế Chi Linh, 2024"
+        },
+        {
+            "stt": 33,
+            "id": "song_sat_toc_hanh",
+            "name": "Song Sát Tốc Hành",
+            "image": "SpeedyDoubleKill_II.png",
+            "description": "Nhận 1 Cuồng Đao Guinsoo. Sau khi 2 người chơi đã bị loại, nhận 40 vàng.\n\nGiải Vô Địch Định Mệnh, 2021"
+        },
+        {
+            "stt": 34,
+            "id": "tang_truong_bung_no",
+            "name": "Tăng Trưởng Bùng Nổ",
+            "image": "ExplosiveGrowth_II.png",
+            "description": "Nhận 7 XP ngay bây giờ và khi bắt đầu 3 vòng đấu tiếp theo."
+        },
+        {
+            "stt": 35,
+            "id": "tho_ren_gay",
+            "name": "Thợ Rèn Gậy",
+            "image": "Rodsmith_II.png",
+            "description": "Nhận 2 trang bị hoàn chỉnh ngẫu nhiên được ghép từ Gậy Quá Khổ."
+        },
+        {
+            "stt": 36,
+            "id": "tho_ren_kiem",
+            "name": "Thợ Rèn Kiếm",
+            "image": "Swordsmith_II.png",
+            "description": "Nhận 2 trang bị hoàn chỉnh ngẫu nhiên được ghép từ Kiếm B.F."
+        },
+        {
+            "stt": 37,
+            "id": "thuc_vat_hap_thu",
+            "name": "Thực Vật Hấp Thụ",
+            "image": "tier-gold.png",
+            "description": "Nhận 1 ấn Thực Vật. Tướng mang ấn sẽ nhận gấp đôi hiệu ứng từ tộc/hệ Thực Vật. Nhận 3 vàng."
+        },
+        {
+            "stt": 38,
+            "id": "tieng_goi_hoa_linh",
+            "name": "Tiếng Gọi Hoa Linh",
+            "image": "tier-gold.png",
+            "description": "Khi bạn mua 1 Tinh Linh, nhận 1 tướng Hoa Linh ngẫu nhiên dựa trên giá của Tinh Linh. Nhận 1 Yunara, 1 Yorick và 1 Karma."
+        },
+        {
+            "stt": 39,
+            "id": "tui_do_sieu_hung",
+            "name": "Túi Đồ Siêu Hùng",
+            "image": "Heroic-Grab-Bag-II.png",
+            "description": "Nhận 2 Máy Sao Chép Tướng Cỡ Nhỏ. Nhận 4 vàng."
+        },
+        {
+            "stt": 40,
+            "id": "tui_do_sieu_hung+",
+            "name": "Túi Đồ Siêu Hùng+",
+            "image": "Heroic-Grab-Bag-II.png",
+            "description": "Nhận 2 Máy Sao Chép Tướng Cỡ Nhỏ. Nhận 8 vàng."
+        },
+        {
+            "stt": 41,
+            "id": "van_menh_vang",
+            "name": "Vận Mệnh Vàng",
+            "image": "GoldenDestiny_II.png",
+            "description": "Nhận 1 Nâng Cấp Vàng ngẫu nhiên và 3 vàng."
+        },
+        {
+            "stt": 42,
+            "id": "xuc_xac_ma_phap",
+            "name": "Xúc Xắc Ma Pháp",
+            "image": "A-Magical-Roll-II.png",
+            "description": "Đổ 3 xúc xắc. Nhận phần thưởng dựa trên tổng số đã đổ được."
+        },
+        {
+            "stt": 43,
+            "id": "arcane_viktor-y",
+            "name": "Arcane Viktor-y",
+            "image": "ArcaneViktory_II.png",
+            "description": "Sau 8 giây giao tranh, làm choáng đội địch trong 1.5 giây. Lặp lại hiệu ứng này sau 18 giây giao tranh.\n\nĐTCL Macao Open, 2024"
+        },
+        {
+            "stt": 44,
+            "id": "bai_hoc_so_khai",
+            "name": "Bài Học Sơ Khai",
+            "image": "EarlyLearning_II.png",
+            "description": "Đội của bạn nhận 5% Sức Mạnh Công Kích & Sức Mạnh Phép Thuật. Lượng này sẽ tăng thêm 1% sau mỗi giao tranh người chơi. Tướng 1 vàng nhận gấp đôi."
+        },
+        {
+            "stt": 45,
+            "id": "bua_bon",
+            "name": "Bừa Bộn",
+            "image": "Dizzy-II.png",
+            "description": "Nhận 4 tướng 1 vàng ngay lập tức. Nếu hàng chờ của bạn đầy khi kết thúc giao tranh người chơi, nhận 3 XP."
+        },
+        {
+            "stt": 46,
+            "id": "cam_re_phan_tan",
+            "name": "Cắm Rễ Phân Tán",
+            "image": "SpreadingRoots_II.png",
+            "description": "Nhận 2 Ấn ngẫu nhiên và 1 vàng."
+        },
+        {
+            "stt": 47,
+            "id": "cau_hoi_phuc_ii",
+            "name": "Cầu Hồi Phục II",
+            "image": "Healing-Orbs-II.png",
+            "description": "Khi 1 kẻ địch bị hạ gục, 1 đồng minh gần đó sẽ được hồi 575 Máu."
+        },
+        {
+            "stt": 48,
+            "id": "cay_ghep_sieu_cong_nghe",
+            "name": "Cấy Ghép Siêu Công Nghệ",
+            "image": "Cybernetic2.png",
+            "description": "Tướng sở hữu trang bị của bạn nhận 100 Máu và 15% Sức Mạnh Công Kích. Nhận 1 Kiếm B.F."
+        },
+        {
+            "stt": 49,
+            "id": "chi_mot_con_duong_ii",
+            "name": "Chỉ Một Con Đường II",
+            "image": "tier-gold.png",
+            "description": "Các Tướng nhận được 2% Sức Mạnh Công Kích, 2% Sức Mạnh Phép Thuật, 2 Giáp và 2 Kháng Phép cho mỗi đồng minh có cùng tộc/hệ với họ."
+        },
+        {
+            "stt": 50,
+            "id": "chiet_xuat_trang_bi",
+            "name": "Chiết Xuất Trang Bị",
+            "image": "tier-gold.png",
+            "description": "Trong 3 lần đầu tiên bạn hiến tế tướng trên ô Gai Đen, nhận 1 bản sao của một trang bị thành phần ngẫu nhiên mà tướng đó đang mang. Nhận 1 Veigar và 1 Rek'Sai."
+        },
+        {
+            "stt": 51,
+            "id": "chuc_phuc_cua_but",
+            "name": "Chúc Phúc Của Bụt",
+            "image": "Caretaker_s-Chosen-II.png",
+            "description": "Nhận một gói trang bị thành phần khi bạn đạt cấp 5, 6, 7 và 8.\n\nGói trang bị thành phần sẽ đưa ra 4 lựa chọn."
+        },
+        {
+            "stt": 52,
+            "id": "con_khat_vang",
+            "name": "Cơn Khát Vàng",
+            "image": "MoneyHungry1_II.png",
+            "description": "Nhận 7 vàng ngay lập tức, sau đó nhận thêm 7 vàng vào khởi đầu mỗi giai đoạn. Nhặt vàng sẽ khiến Linh Thú của bạn to hơn."
+        },
+        {
+            "stt": 53,
+            "id": "cong_met_nghi!",
+            "name": "Cộng Mệt Nghỉ!",
+            "image": "Tons-of-Stats-II.png",
+            "description": "Đội của bạn nhận thêm 44 Máu, 4% Sức Mạnh Công Kích, 4% Sức Mạnh Phép Thuật, 4 Giáp, 4 Kháng Phép, 4% Tốc Độ Đánh và 4 Năng Lượng."
+        },
+        {
+            "stt": 54,
+            "id": "cung_co_tuyen_truoc",
+            "name": "Củng Cố Tuyến Trước",
+            "image": "FrontlineFoundation_II.png",
+            "description": "Nhận 1 tướng Đỡ Đòn 1 vàng 2 sao và 1 Ấn phù hợp với hệ của tướng đó."
+        },
+        {
+            "stt": 55,
+            "id": "doi_hinh_toi_uu",
+            "name": "Đội Hình Tối Ưu",
+            "image": "MaxBuild_II.png",
+            "description": "Nhận 10 lượt đổi Cửa Hàng miễn phí. Khi bạn đạt cấp 9, nhận 3 lượt đổi Cửa Hàng miễn phí và 1 Máy Sao Chép Tướng.\n\nGiải Vô Địch Thiên Hà, 2020"
+        },
+        {
+            "stt": 56,
+            "id": "dong_tien_mo_am",
+            "name": "Dòng Tiền Mờ Ám",
+            "image": "MirroredMonetization_II.png",
+            "description": "Nhận 4 vàng. Trong 2 vòng tiếp theo, tướng địch sẽ rớt ra 2 vàng khi bị tiêu diệt."
+        },
+        {
+            "stt": 57,
+            "id": "ha_do_van",
+            "name": "Hạ Đo Ván",
+            "image": "Slammin_II.png",
+            "description": "Nhận 3 vàng. Sau mỗi giao tranh người chơi, nếu không có trang bị nào của bạn nằm ở hàng chờ (ngoài các trang bị tiêu thụ), nhận 2 XP."
+        },
+        {
+            "stt": 58,
+            "id": "hoa_lon",
+            "name": "Hóa Lớn",
+            "image": "tier-gold.png",
+            "description": "Các Pix Tiên Linh giờ trở nên lớn hơn và trao thêm 50% Sức Mạnh Công Kích & Sức Mạnh Phép Thuật. Các tướng Tiên Linh nhận 10% Sức Mạnh Công Kích và Sức Mạnh Phép Thuật ngay lập tức. Nhận 1 Xayah và 1 Rakan."
+        },
+        {
+            "stt": 59,
+            "id": "huan_luyen_can_ve",
+            "name": "Huấn Luyện Cận Vệ",
+            "image": "BodyguardsTraining_II.png",
+            "description": "Các đồng minh nhận 15 Giáp và Kháng Phép, tăng thêm 2 với mỗi cấp người chơi.\n\nChung Kết Thế Giới Thời Đại Công Nghệ, 2022"
+        },
+        {
+            "stt": 60,
+            "id": "khu_giao_dich",
+            "name": "Khu Giao Dịch",
+            "image": "Trade2.png",
+            "description": "Nhận 1 lượt đổi miễn phí mỗi vòng đấu. Nhận 2 vàng."
+        },
+        {
+            "stt": 61,
+            "id": "khu_giao_dich+",
+            "name": "Khu Giao Dịch+",
+            "image": "Trade2.png",
+            "description": "Nhận 1 lượt đổi miễn phí mỗi vòng đấu. Nhận 8 vàng."
+        },
+        {
+            "stt": 62,
+            "id": "lay_cong_bu_thu_ii",
+            "name": "Lấy Công Bù Thủ II",
+            "image": "GlassCannon_II.png",
+            "description": "Các đồng minh bắt đầu giao tranh ở hàng sau sẽ khởi đầu với 80% Máu nhưng nhận thêm 25% Khuếch Đại Sát Thương."
+        },
+        {
+            "stt": 63,
+            "id": "linh_hon_chuoc_toi",
+            "name": "Linh Hồn Chuộc Tội",
+            "image": "SpiritofRedemption_II.png",
+            "description": "Nhận 1 Giáp Tâm Linh. Mỗi 5 giây, Giáp Tâm Linh hồi lại cho các đồng minh trong phạm vi 1 ô 7.5% Máu đã mất của họ."
+        },
+        {
+            "stt": 64,
+            "id": "ma_thuat_dan_ket",
+            "name": "Ma Thuật Đan Kết",
+            "image": "WovenMagic_III.png",
+            "description": "Nhận 1 trang bị thành phần ngẫu nhiên. Mỗi 2200 Năng Lượng tướng của bạn tiêu hao sẽ trao thêm 1 trang bị thành phần (tối đa: 0/3)."
+        },
+        {
+            "stt": 65,
+            "id": "quai_thu_ben_trong",
+            "name": "Quái Thú Bên Trong",
+            "image": "tier-gold.png",
+            "description": "Tướng Nguyên Sinh cho thêm một Phước Lành nữa. Nhận 1 Vi ngay bây giờ và 1 Nidalee sau 3 vòng đấu."
+        },
+        {
+            "stt": 66,
+            "id": "quan_doan_3_sao",
+            "name": "Quân Đoàn 3 Sao",
+            "image": "LegionofThrees_II.png",
+            "description": "Nhận 1 Ấn ngẫu nhiên. Các tướng 3 vàng của bạn và mọi đồng minh được trang bị Ấn nhận 150 Máu và 12% Tốc Độ Đánh.\n\nGiải Vô Địch Ngày Phán Quyết, 2021"
+        },
+        {
+            "stt": 67,
+            "id": "so_do_tuyen_sau",
+            "name": "Sơ Đồ Tuyến Sau",
+            "image": "BacklineBlueprint_II.png",
+            "description": "Nhận 1 tướng 3 vàng không phải Đỡ Đòn và 1 Ấn phù hợp với hệ của tướng đó."
+        },
+        {
+            "stt": 68,
+            "id": "thuong_vu_kho_xoi",
+            "name": "Thương Vụ Khó Xơi",
+            "image": "HardBargain_II.png",
+            "description": "Bạn không thể chọn phần thưởng trong Vòng Đi Chợ. Nhận thêm 6 máu người chơi và 8 vàng mỗi vòng đi chợ.\nKhi bạn không chọn Phần Thưởng Ở Vòng Đi Chợ, bạn sẽ được trao 1 tướng chưa có người chọn cùng trang bị đi kèm."
+        },
+        {
+            "stt": 69,
+            "id": "u.r.f.",
+            "name": "U.R.F.",
+            "image": "UltraRapidFire_II.png",
+            "description": "Nhận 1 Xẻng Vàng. Các tướng mang Xẻng Vàng hoặc Chảo Vàng nhận thêm 20% Tốc Độ Đánh và 3 Hồi Năng Lượng."
+        },
+        {
+            "stt": 70,
+            "id": "vuot_thoi_gian",
+            "name": "Vượt Thời Gian",
+            "image": "TimeSkip_II.png",
+            "description": "Vô hiệu hóa cửa hàng của bạn trong 3 vòng tiếp theo. Sau đó nhận 32 XP."
+        },
+        {
+            "stt": 71,
+            "id": "an_trom",
+            "name": "Ăn Trộm",
+            "image": "Pilfer_II.png",
+            "description": "Mỗi vòng đấu, nhận 1 bản sao 1 sao của tướng đầu tiên bạn tiêu diệt ở giao tranh trước. Lần đầu tiên bạn nhận được số lượng tướng trị giá 21 vàng theo cách này, nhận 1 Găng Đạo Tặc."
+        },
+        {
+            "stt": 72,
+            "id": "chien_thuat_dau_tu_i",
+            "name": "Chiến Thuật Đầu Tư I",
+            "image": "InvestmentStrategy_II.png",
+            "description": "Tướng của bạn nhận thêm vĩnh viễn 8 máu tối đa với mỗi vàng lợi tức bạn kiếm được. Nhận ngay 4 vàng."
+        },
+        {
+            "stt": 73,
+            "id": "cho_doi_xung_dang",
+            "name": "Chờ Đợi Xứng Đáng",
+            "image": "WorthTheWait_II.png",
+            "description": "Nhận 1 tướng 1 vàng ngẫu nhiên. Nhận 1 bản sao nữa của tướng đó khi bắt đầu mỗi vòng đấu cho đến hết trận."
+        },
+        {
+            "stt": 74,
+            "id": "con_khat_vang+",
+            "name": "Cơn Khát Vàng+",
+            "image": "MoneyHungry2_II.png",
+            "description": "Nhận 10 vàng ngay lập tức, sau đó nhận thêm 7 vàng vào khởi đầu mỗi giai đoạn. Nhặt vàng sẽ khiến Linh Thú của bạn to hơn."
+        },
+        {
+            "stt": 75,
+            "id": "dong_co_tang_toc",
+            "name": "Động Cơ Tăng Tốc",
+            "image": "ClockworkAccelerator_II.png",
+            "description": "Đội của bạn được tăng 10% Tốc Độ Đánh sau mỗi 3 giây giao tranh."
+        },
+        {
+            "stt": 76,
+            "id": "ep_bon",
+            "name": "Ép Bốn",
+            "image": "tier-gold.png",
+            "description": "Nhận 1 tướng 4 vàng ngẫu nhiên. Với mỗi trang bị được gắn trên tướng đó, đội của bạn nhận 120 máu."
+        },
+        {
+            "stt": 77,
+            "id": "goi_tang_cuong+",
+            "name": "Gói Tăng Cường+",
+            "image": "BoosterPack1_II.png",
+            "description": "Nhận các tướng ngẫu nhiên có tổng giá là 18 vàng. (Đảm bảo có ít nhất một tướng 4 vàng!)"
+        },
+        {
+            "stt": 78,
+            "id": "ha_do_van+",
+            "name": "Hạ Đo Ván+",
+            "image": "Slammin_II.png",
+            "description": "Nhận ngay 4 vàng và 10 XP. Sau mỗi giao tranh người chơi, nếu không có trang bị nào của bạn nằm ở hàng chờ (ngoài các trang bị tiêu thụ), nhận 2 XP."
+        },
+        {
+            "stt": 79,
+            "id": "hao_quang_nhan_vat_chinh",
+            "name": "Hào Quang Nhân Vật Chính",
+            "image": "PlotArmor_II.png",
+            "description": "Đội của bạn nhận 8 Giáp và Kháng Phép. Sau khi còn dưới 50% Máu, tăng hiệu ứng này lên thành 40 cho đến hết giao tranh."
+        },
+        {
+            "stt": 80,
+            "id": "ky_nguyen",
+            "name": "Kỷ Nguyên",
+            "image": "Epoch_II.png",
+            "description": "Ngay lập tức, và khi bắt đầu mỗi giai đoạn, nhận 4 XP và 2 lượt đổi miễn phí."
+        },
+        {
+            "stt": 81,
+            "id": "ky_nguyen+",
+            "name": "Kỷ Nguyên+",
+            "image": "Epoch_II.png",
+            "description": "Ngay lập tức, và khi bắt đầu mỗi giai đoạn, nhận 8 XP và 2 lượt đổi miễn phí."
+        },
+        {
+            "stt": 82,
+            "id": "mat_troi_va_mat_trang+",
+            "name": "Mặt Trời và Mặt Trăng+",
+            "image": "tier-gold.png",
+            "description": "Các tướng Mặt Trăng của bạn nhận được 100 Máu và 8% Khuếch Đại Sát Thương với mỗi tướng Mặt Trời khác biệt được triển khai. Nhận 1 Leona, 1 Kayle và 1 Aphelios."
+        },
+        {
+            "stt": 83,
+            "id": "nha_may_tai_che+",
+            "name": "Nhà Máy Tái Chế+",
+            "image": "Salvage2.png",
+            "description": "Nhận 1 trang bị hoàn chỉnh ngẫu nhiên ngay lập tức, và 1 trang bị thành phần sau 4 vòng giao tranh người chơi. Bán tướng sẽ tách trang bị hoàn chỉnh của tướng đó ra thành trang bị thành phần (ngoại trừ các trang bị Chiến Thuật và Ấn)."
+        },
+        {
+            "stt": 84,
+            "id": "nham_mat_choi_bua",
+            "name": "NHẮM MẮT CHƠI BỪA",
+            "image": "NoScoutNoPivot_II.png",
+            "description": "Các tướng tham gia giao tranh người chơi không thể được đưa về hàng dự bị hoặc bán. Đội của bạn nhận 1% Máu, 1% Sức Mạnh Công Kích và Sức Mạnh Phép Thuật sau giao tranh người chơi."
+        },
+        {
+            "stt": 85,
+            "id": "noi_nau_an",
+            "name": "Nồi Nấu Ăn",
+            "image": "CookingPot_II.png",
+            "description": "Khi bắt đầu mỗi lượt, tất cả các đồng minh đang mang trang bị Xẻng Vàng hoặc Chảo Vàng sẽ vĩnh viễn tăng cho tướng gần nhất 60 Máu. Nhận 1 Chảo Vàng."
+        },
+        {
+            "stt": 86,
+            "id": "om_tap_the_ii",
+            "name": "Ôm Tập Thể II",
+            "image": "GroupHug2_II.png",
+            "description": "Bắt đầu giao tranh: Các tướng sẽ tăng cho các tướng liền kề khác 9 Giáp và Kháng Phép. Hiệu ứng này có thể cộng dồn."
+        },
+        {
+            "stt": 87,
+            "id": "qua_tang_them",
+            "name": "Quà Tặng Thêm",
+            "image": "tier-gold.png",
+            "description": "Bất cứ khi nào bạn mở hộp vật phẩm, bạn có 25% cơ hội nhận được 1 hộp vật phẩm xám. Nhận 2 hộp vật phẩm xám."
+        },
+        {
+            "stt": 88,
+            "id": "qua_tang_them+",
+            "name": "Quà Tặng Thêm+",
+            "image": "tier-gold.png",
+            "description": "Bất cứ khi nào bạn mở hộp vật phẩm, bạn có 25% cơ hội nhận được 1 hộp vật phẩm xám. Nhận 3 hộp vật phẩm xám."
+        },
+        {
+            "stt": 89,
+            "id": "song_voi",
+            "name": "Sống Vội",
+            "image": "Hyperroll2.png",
+            "description": "Bạn không còn lợi tức, nhưng sẽ nhận 3 vàng khi bắt đầu mỗi vòng giao tranh người chơi. Nhận ngay 3 vàng.\n\nLợi tức là lượng vàng bạn nhận được thêm từ mỗi 10 vàng bạn giữ lại."
+        },
+        {
+            "stt": 90,
+            "id": "su_lua_chon_cua_mat_troi",
+            "name": "Sự Lựa Chọn của Mặt Trời",
+            "image": "tier-gold.png",
+            "description": "Nhận 1 Leona, 1 Kayle và 1 Sejuani. Leona nhận được 60 Máu tối đa vĩnh viễn mỗi vòng, tăng thêm 10 với mỗi tướng 3 sao khác nhau được triển khai."
+        },
+        {
+            "stt": 91,
+            "id": "tang_truong_bung_no+",
+            "name": "Tăng Trưởng Bùng Nổ+",
+            "image": "ExplosiveGrowth_II.png",
+            "description": "Nhận 10 XP ngay bây giờ và khi bắt đầu 3 vòng đấu tiếp theo."
+        },
+        {
+            "stt": 92,
+            "id": "tang_von_ii",
+            "name": "Tăng Vốn II",
+            "image": "tier-gold.png",
+            "description": "Tích trữ vàng bằng với lượng lợi tức bạn kiếm được. Ở vòng 3-3, nhận lượng vàng bằng 125% số vàng đã tích trữ. Nhận ngay 1 vàng."
+        },
+        {
+            "stt": 93,
+            "id": "thang_tien_cuoi_tran",
+            "name": "Thăng Tiến Cuối Trận",
+            "image": "LateGameScaling_II.png",
+            "description": "Nhận 2 XP khi bắt đầu vòng giao tranh người chơi. Tướng 5 vàng của bạn nhận 12% Máu và 12% Tốc Độ Đánh.\n\nTactician's Crown Thành Phố Công Nghệ, 2025"
+        },
+        {
+            "stt": 94,
+            "id": "the_uoc_bao_ho",
+            "name": "Thệ Ước Bảo Hộ",
+            "image": "PromisedProtection_II.png",
+            "description": "Nhận 1 Lời Thề Hộ Vệ. Lời Thề Hộ Vệ cho chủ sở hữu thêm 20% Năng Lượng từ mọi nguồn và 200 Máu tối đa."
+        },
+        {
+            "stt": 95,
+            "id": "thep_ma_vang",
+            "name": "Thép Mạ Vàng",
+            "image": "GildedSteel_II.png",
+            "description": "Nhận 2 tướng 5 vàng. Nếu bạn triển khai ít nhất 1 tướng 5 vàng, các tướng từ 1 đến 4 vàng của bạn nhận được 8% Chống Chịu.\n\nTactician's Crown K.O. Đại Chiến Anh Hùng, 2025"
+        },
+        {
+            "stt": 96,
+            "id": "thong_thoang",
+            "name": "Thông Thoáng",
+            "image": "ClearMind2.png",
+            "description": "Nếu không có tướng trong hàng chờ khi kết thúc giao tranh người chơi, nhận 3 XP."
+        },
+        {
+            "stt": 97,
+            "id": "trai_tim_sat_da",
+            "name": "Trái Tim Sắt Đá",
+            "image": "HealthyGains_II.png",
+            "description": "Nhận 1 Trái Tim Kiên Định. Mỗi 10 giây mà chủ sở hữu sống sót trong giao tranh, Trái Tim Kiên Định nhận thêm vĩnh viễn 16 Máu tối đa."
+        },
+        {
+            "stt": 98,
+            "id": "van_menh_vang+",
+            "name": "Vận Mệnh Vàng+",
+            "image": "GoldenDestiny_II.png",
+            "description": "Nhận 1 Nâng Cấp Vàng ngẫu nhiên và 6 vàng."
+        },
+        {
+            "stt": 99,
+            "id": "xuc_xac_hoanh_trang",
+            "name": "Xúc Xắc Hoành Tráng",
+            "image": "EpicRolldown_II.png",
+            "description": "Khi đạt Cấp 8, nhận 20 lượt đổi Cửa Hàng.\n\nGiải Vô Địch Runeterra Tái Hợp, 2023"
+        },
+        {
+            "stt": 100,
+            "id": "duong_ra_tran",
+            "name": "Đường Ra Trận",
+            "image": "Warpath_II.png",
+            "description": "Nhận 1 tướng 2 vàng 2 sao. Sau khi gây 80 sát thương lên người chơi, nhận 1 rương chứa các trang bị và tướng bậc cao."
+        },
+        {
+            "stt": 101,
+            "id": "kim_long",
+            "name": "Kim Long",
+            "image": "TheGoldenDragon_II.png",
+            "description": "Nhận 1 Giáp Đại Hãn. Tướng mang Giáp Đại Hãn chiếm +1 vị trí trong đội hình nhưng nhận thêm 700 Máu và 20% Chống Chịu.\n\nGiáp Đại Hãn này mang lại vàng và tăng sức mạnh chiến đấu.\nGiải Vô Địch Thế Giới Rồng, 2022"
+        },
+        {
+            "stt": 102,
+            "id": "ta_thuat",
+            "name": "Tà Thuật",
+            "image": "tier-gold.png",
+            "description": "Chuyển đổi Tinh Hoa Tiên Hắc Ám thành phần thưởng sẽ cho các tướng Tiên Hắc Ám Sức Mạnh Phép Thuật thay vì báu vật. Nhận 1 Camille, 1 Elise và 1 Caitlyn."
+        },
+        {
+            "stt": 103,
+            "id": "tat_tay_bac_dong_i",
+            "name": "Tất Tay Bậc Đồng I",
+            "image": "BronzeForLife_II.png",
+            "description": "Đội của bạn nhận 2.5% Khuếch Đại Sát Thương cho mỗi tộc/hệ bậc Đồng."
+        },
+        {
+            "stt": 104,
+            "id": "thien_nhien_che_cho",
+            "name": "Thiên Nhiên Che Chở",
+            "image": "tier-gold.png",
+            "description": "Các tướng bắt đầu giao tranh ở ô liền kề cây Thần Rừng nhận 15% Tốc Độ Đánh và hồi 2% Máu tối đa mỗi 2 giây. Nhận 1 Alistar, 1 Ornn và 1 Xayah."
+        },
+        {
+            "stt": 105,
+            "id": "tin_do_tien_hac_am",
+            "name": "Tín Đồ Tiên Hắc Ám",
+            "image": "tier-gold.png",
+            "description": "Khi bạn chọn tiếp tục thu thập tinh hoa Tiên Hắc Ám, hồi 2 máu Linh Thú. Nhận 1 Camille, 1 Elise và 1 Caitlyn."
+        }
+    ],
+    "3": [
+        {
+            "stt": 1,
+            "id": "hang_o_baron",
+            "name": "Hang Ổ Baron",
+            "image": "TheBaronsLair_III.png",
+            "description": "Nhận 1 trang bị Đỡ Đòn ngẫu nhiên. Sau 8 giây giao tranh, đội của bạn nhận thêm 5% Sức Mạnh Công Kích và Sức Mạnh Phép Thuật mỗi giây cho đến hết giao tranh.\n\nTFT Paris Open, 2025"
+        },
+        {
+            "stt": 2,
+            "id": "kho_than_tich",
+            "name": "Kho Thần Tích",
+            "image": "RadiantRelic-III.png",
+            "description": "Chọn 1 trong 5 Trang Bị Ánh Sáng. Nhận 1 Nam Châm Ma Thuật."
+        },
+        {
+            "stt": 3,
+            "id": "trieu_goi_hon_mang",
+            "name": "Triệu Gọi Hỗn Mang",
+            "image": "CallToChaos_III.png",
+            "description": "Nhận 1 phần thưởng mạnh mẽ và ngẫu nhiên."
+        },
+        {
+            "stt": 4,
+            "id": "tu_lap_doi",
+            "name": "Tự Lập Đội",
+            "image": "ConstructaCompanion_III.png",
+            "description": "Nhận 1 tướng 1 vàng 3 sao ngẫu nhiên. Nhận 6 vàng."
+        },
+        {
+            "stt": 5,
+            "id": "bao_oan",
+            "name": "Báo Oán",
+            "image": "Retribution_III.png",
+            "description": "Nhận 2 Bàn Tay Công Lý. Đồng minh được trang bị Bàn Tay Công Lý nhận Chuẩn Xác và 25% Tỉ Lệ Chí Mạng.\n\nChuẩn Xác: Sát thương kỹ năng có thể chí mạng. Chỉ số Chuẩn Xác cộng thêm tăng 10% Sát Thương Chí Mạng."
+        },
+        {
+            "stt": 6,
+            "id": "chi_mot_con_duong_iii",
+            "name": "Chỉ Một Con Đường III",
+            "image": "tier-prism.png",
+            "description": "Các Tướng nhận được 3.5% Sức Mạnh Công Kích, 3.5% Sức Mạnh Phép Thuật, 3.5 Giáp và 3.5 Kháng Phép cho mỗi đồng minh có cùng tộc/hệ với họ."
+        },
+        {
+            "stt": 7,
+            "id": "cho_doi_xung_dang_ii",
+            "name": "Chờ Đợi Xứng Đáng II",
+            "image": "WorthTheWait_III.png",
+            "description": "Nhận 2 bản sao của một tướng 2 vàng ngẫu nhiên. Nhận 1 bản sao nữa của tướng đó khi bắt đầu mỗi vòng đấu cho đến hết trận."
+        },
+        {
+            "stt": 8,
+            "id": "dam_me_gay",
+            "name": "Đam Mê Gậy",
+            "image": "WandOverflow_III.png",
+            "description": "Nhận 4 Gậy Quá Khổ. Gậy Quá Khổ của bạn sẽ cho +5% Tốc Độ Đánh."
+        },
+        {
+            "stt": 9,
+            "id": "dau_tu++",
+            "name": "Đầu Tư++",
+            "image": "Invested-III.png",
+            "description": "Nhận 45 vàng. Khi bắt đầu mỗi vòng đấu, nhận 1 lượt làm mới Cửa Hàng với mỗi 10 vàng vượt hơn 50 (tối đa 80 vàng)."
+        },
+        {
+            "stt": 10,
+            "id": "do_ni_dong_giay",
+            "name": "Đo Ni Đóng Giày",
+            "image": "Lucky-Gloves-III.png",
+            "description": "Găng Đạo Tặc sẽ luôn cho tướng của bạn những trang bị lý tưởng. Nhận 2 Găng Đấu Tập và 4 vàng."
+        },
+        {
+            "stt": 11,
+            "id": "goi_trang_bi_bat_ngo+",
+            "name": "Gói Trang Bị Bất Ngờ+",
+            "image": "tier-prism.png",
+            "description": "Nhận 1 Gói Trang Bị Tạo Tác. Sau khi bạn mở nó, nhận 1 Gói Trang Bị Thành Phần. Sau khi bạn mở nó, nhận 12 vàng."
+        },
+        {
+            "stt": 12,
+            "id": "hop_pandora_iii",
+            "name": "Hộp Pandora III",
+            "image": "Pandora3.png",
+            "description": "Bắt đầu vòng đấu: Các trang bị trên hàng chờ được đánh tráo ngẫu nhiên. \n\nNhận 1 Trang Bị Ánh Sáng."
+        },
+        {
+            "stt": 13,
+            "id": "kham_bao_thach_ii",
+            "name": "Khảm Bảo Thạch II",
+            "image": "Jeweled-Lotus-III.png",
+            "description": "Đội của bạn nhận 25% Tỉ Lệ Chí Mạng, 10% Sát Thương Chí Mạng và Chuẩn Xác.\n\nChuẩn Xác: Sát thương kỹ năng có thể chí mạng. Chỉ số Chuẩn Xác cộng thêm tăng 10% Sát Thương Chí Mạng."
+        },
+        {
+            "stt": 14,
+            "id": "kho_bau_chon_giau_iii",
+            "name": "Kho Báu Chôn Giấu III",
+            "image": "Buried-Treasures-III.png",
+            "description": "Nhận 1 trang bị thành phần ngẫu nhiên ngay bây giờ và khi bắt đầu 5 vòng tiếp theo."
+        },
+        {
+            "stt": 15,
+            "id": "len_ngoi_vuong",
+            "name": "Lên Ngôi Vương",
+            "image": "Coronation_III.png",
+            "description": "Nhận 1 Vương Miện Chiến Thuật. Vương Miện, Áo Choàng và Lá Chắn Chiến Thuật sẽ cho chủ sở hữu 20% Tốc Độ Đánh, 25% Sức Mạnh Công Kích và 30% Sức Mạnh Phép Thuật."
+        },
+        {
+            "stt": 16,
+            "id": "mu_tu_than",
+            "name": "Mũ Tử Thần",
+            "image": "DeadlierCaps_II.png",
+            "description": "Nhận 1 Mũ Phù Thủy Rabadon. Mũ Phù Thủy Rabadon cho 1 Hồi Năng Lượng và vĩnh viễn tăng thêm 1% Sức Mạnh Phép Thuật mỗi khi chủ sở hữu tham gia hạ gục."
+        },
+        {
+            "stt": 17,
+            "id": "thuc_tinh_linh_hon",
+            "name": "Thức Tỉnh Linh Hồn",
+            "image": "AwakenedSoul_III.png",
+            "description": "Bắt đầu giao tranh: Đội của bạn nhận 1.5% Sức Mạnh Công Kích và Sức Mạnh Phép Thuật mỗi giây trong 10 giây. Khi đạt cộng dồn tối đa, gây thêm 12% sát thương chuẩn."
+        },
+        {
+            "stt": 18,
+            "id": "to_lon_&_manh_me",
+            "name": "To Lớn & Mạnh Mẽ",
+            "image": "GiantandMighty_III.png",
+            "description": "Đội của bạn hóa lớn, được tăng 200 Máu và 10% Máu tối đa."
+        },
+        {
+            "stt": 19,
+            "id": "toi_da_hoa",
+            "name": "Tối Đa Hóa",
+            "image": "MinMax_III.png",
+            "description": "Nhận 1 Nam Châm Hoàng Kim và 4 trang bị thành phần ngẫu nhiên."
+        },
+        {
+            "stt": 20,
+            "id": "trung_tam_thuong_mai",
+            "name": "Trung Tâm Thương Mại",
+            "image": "Trade3.png",
+            "description": "Nhận 16 lượt đổi cửa hàng miễn phí ngay lập tức và 3 lượt đổi mỗi vòng đấu cho đến hết trận."
+        },
+        {
+            "stt": 21,
+            "id": "van_cuoc_hoang_kim+",
+            "name": "Ván Cược Hoàng Kim+",
+            "image": "GoldenGamble_III.png",
+            "description": "Nhận 3 vàng và tung đồng xu. Nếu ra mặt ngửa, nhận 1 Rương Trang Bị Ánh Sáng May Mắn. Nếu ra mặt sấp, nhận 2 Gói Trang Bị Hoàn Chỉnh."
+        },
+        {
+            "stt": 22,
+            "id": "van_menh_kim_cuong+",
+            "name": "Vận Mệnh Kim Cương+",
+            "image": "PrismaticDestiny_III.png",
+            "description": "Nhận 1 Nâng Cấp Kim Cương ngẫu nhiên và 10 vàng."
+        },
+        {
+            "stt": 23,
+            "id": "ve_kim_cuong",
+            "name": "Vé Kim Cương",
+            "image": "GoldenTicket3.png",
+            "description": "Mỗi khi cửa hàng được đổi lại, bạn có 45% tỉ lệ nhận được thêm 1 lượt đổi miễn phí."
+        },
+        {
+            "stt": 24,
+            "id": "cay_toc/he",
+            "name": "Cây Tộc/Hệ",
+            "image": "TheTraitTree_III.png",
+            "description": "Nhận 3 Ấn ngẫu nhiên và 2 vàng."
+        },
+        {
+            "stt": 25,
+            "id": "cong_met_nghi!",
+            "name": "Cộng Mệt Nghỉ!",
+            "image": "Tons-of-Stats-II.png",
+            "description": "Đội của bạn nhận thêm 88 Máu, 8% Sức Mạnh Công Kích, 8% Sức Mạnh Phép Thuật, 8 Giáp, 8 Kháng Phép, 8% Tốc Độ Đánh và 8 Năng Lượng."
+        },
+        {
+            "stt": 26,
+            "id": "dam_me_dai_lung",
+            "name": "Đam Mê Đai Lưng",
+            "image": "BeltOverflow_III.png",
+            "description": "Nhận 4 Đai Khổng Lồ. Đai Khổng Lồ của bạn cho thêm +85 Máu."
+        },
+        {
+            "stt": 27,
+            "id": "dam_me_kiem",
+            "name": "Đam Mê Kiếm",
+            "image": "BladeOverflow_III.png",
+            "description": "Nhận 4 Kiếm BF. Kiếm BF của bạn sẽ cho +4% Tốc Độ Đánh."
+        },
+        {
+            "stt": 28,
+            "id": "dau_tu+",
+            "name": "Đầu Tư+",
+            "image": "Invested-III.png",
+            "description": "Nhận 26 vàng. Khi bắt đầu mỗi vòng đấu, nhận 1 lượt làm mới Cửa Hàng với mỗi 10 vàng vượt hơn 50 (tối đa 80 vàng)."
+        },
+        {
+            "stt": 29,
+            "id": "goi_trang_bi_bat_ngo",
+            "name": "Gói Trang Bị Bất Ngờ",
+            "image": "tier-prism.png",
+            "description": "Nhận 1 Gói Trang Bị Tạo Tác. Sau khi bạn mở nó, nhận 1 Gói Trang Bị Thành Phần. Sau khi bạn mở nó, nhận 8 vàng."
+        },
+        {
+            "stt": 30,
+            "id": "mon_qua_ngot_ngao",
+            "name": "Món Quà Ngọt Ngào",
+            "image": "SweetTreats_III.png",
+            "description": "Nhận 1 gói Trang Bị Tạo Tác. Đội của bạn nhận 16 Máu với mỗi trang bị đang mang trên tướng."
+        },
+        {
+            "stt": 31,
+            "id": "mot_bua,_hai_bua",
+            "name": "Một Bùa, Hai Bùa",
+            "image": "OneBuffTwoBuff_III.png",
+            "description": "Nhận 1 Bùa Đỏ, 1 Bùa Xanh và 1 Máy Sao Chép Tướng."
+        },
+        {
+            "stt": 32,
+            "id": "quy_phong_ho",
+            "name": "Quỹ Phòng Hộ",
+            "image": "RichGetRicher3.png",
+            "description": "Nhận 22 vàng. Lợi tức tối đa của bạn tăng lên thành 10."
+        },
+        {
+            "stt": 33,
+            "id": "van_cuoc_hoang_kim++",
+            "name": "Ván Cược Hoàng Kim++",
+            "image": "GoldenGamble_III.png",
+            "description": "Nhận 6 vàng và tung đồng xu. Nếu ra mặt ngửa, nhận 1 Rương Trang Bị Ánh Sáng May Mắn. Nếu ra mặt sấp, nhận 2 Gói Trang Bị Hoàn Chỉnh."
+        },
+        {
+            "stt": 34,
+            "id": "van_menh_kim_cuong",
+            "name": "Vận Mệnh Kim Cương",
+            "image": "PrismaticDestiny_III.png",
+            "description": "Nhận 1 Nâng Cấp Kim Cương ngẫu nhiên và 4 vàng."
+        },
+        {
+            "stt": 35,
+            "id": "bang_trom_ii++",
+            "name": "Băng Trộm II++",
+            "image": "BandThieves3.png",
+            "description": "Nhận 2 Găng Đạo Tặc. Sau 3 giao tranh người chơi, nhận thêm 1 Găng Đạo Tặc."
+        },
+        {
+            "stt": 36,
+            "id": "bao_vang",
+            "name": "Bão Vàng",
+            "image": "MoneyMonsoon_III.png",
+            "description": "Nhận 7 vàng ngay bây giờ và mỗi vòng đấu cho đến hết trận."
+        },
+        {
+            "stt": 37,
+            "id": "cay_toc/he+",
+            "name": "Cây Tộc/Hệ+",
+            "image": "TheTraitTree_III.png",
+            "description": "Nhận 3 Ấn ngẫu nhiên, 1 Búa Rèn và 4 vàng."
+        },
+        {
+            "stt": 38,
+            "id": "che_tao_tai_cho",
+            "name": "Chế Tạo Tại Chỗ",
+            "image": "Living-Forge-III.png",
+            "description": "Nhận 1 Gói Trang Bị Tạo Tác ngay lập tức và sau mỗi 9 giao tranh người chơi."
+        },
+        {
+            "stt": 39,
+            "id": "day_nhanh_tien_do",
+            "name": "Đẩy Nhanh Tiến Độ",
+            "image": "UpwardMobility_III.png",
+            "description": "Giảm 1 vàng khi mua XP. Nhận 2 Máu và 1 lượt đổi miễn phí mỗi khi bạn thăng cấp."
+        },
+        {
+            "stt": 40,
+            "id": "do_ni_dong_giay+",
+            "name": "Đo Ni Đóng Giày+",
+            "image": "Lucky-Gloves-III.png",
+            "description": "Găng Đạo Tặc sẽ luôn cho tướng của bạn những trang bị lý tưởng. Nhận ngay 2 Găng Đấu Tập, nhận thêm 1 găng sau 4 giao tranh người chơi."
+        },
+        {
+            "stt": 41,
+            "id": "giu_vung_hang_ngu",
+            "name": "Giữ Vững Hàng Ngũ",
+            "image": "HoldTheLine_III.png",
+            "description": "Các tướng ở 2 hàng sau nhận 9% Sức Mạnh Phép Thuật và 8% Sức Mạnh Công Kích với mỗi tướng bắt đầu giao tranh ở hàng trên."
+        },
+        {
+            "stt": 42,
+            "id": "goi_dang_ky_hang_sang",
+            "name": "Gói Đăng Ký Hạng Sang",
+            "image": "LuxurySubscription_III.png",
+            "description": "Nhận một gói quà chứa 1 tướng 5 vàng, 1 tướng 1 vàng 2 sao và 3 vàng.\n\nKhi bắt đầu 2 giai đoạn tiếp theo, nhận gói quà một lần nữa."
+        },
+        {
+            "stt": 43,
+            "id": "ke_vai_sat_canh",
+            "name": "Kề Vai Sát Cánh",
+            "image": "WeStickTogether_III.png",
+            "description": "Nhận 1 Ấn ngẫu nhiên và 1 gói trang bị hoàn chỉnh. Các đồng minh có chung tộc/hệ với Ấn đó nhận thêm 30% Tốc Độ Đánh. 0 0\n\nTactician's Crown Bước Vào Arcane, 2025"
+        },
+        {
+            "stt": 44,
+            "id": "kiem_tu_than",
+            "name": "Kiếm Tử Thần",
+            "image": "DeadlierBlades_II.png",
+            "description": "Nhận 1 Kiếm Tử Thần. Kiếm Tử Thần vĩnh viễn tăng thêm 1% Sức Mạnh Công Kích mỗi khi chủ sở hữu tham gia hạ gục."
+        },
+        {
+            "stt": 45,
+            "id": "linh_thu_vao_bep",
+            "name": "Linh Thú Vào Bếp",
+            "image": "TacticiansKitchen_III.png",
+            "description": "Nhận 1 Ấn ngẫu nhiên. Sau 3 vòng đấu, nhận 1 Áo Choàng Chiến Thuật."
+        },
+        {
+            "stt": 46,
+            "id": "nhiem_vu_trang_bi",
+            "name": "Nhiệm Vụ Trang Bị",
+            "image": "tier-prism.png",
+            "description": "Nhận 1 trang bị thành phần ngẫu nhiên và 1 vàng. Trong 7 lần tiếp theo bạn thắng giao tranh người chơi, nhận 1 trang bị thành phần ngẫu nhiên khác nhau. Sau đó, nhận 5 vàng."
+        },
+        {
+            "stt": 47,
+            "id": "phuoc_lanh_vu_tru_iii",
+            "name": "Phước Lành Vũ Trụ III",
+            "image": "CelestialBlessing3.png",
+            "description": "Đội của bạn nhận 25% Hút Máu Toàn Phần. Lượng hồi máu phụ trội sẽ được chuyển thành lá chắn, tối đa 1000 Máu."
+        },
+        {
+            "stt": 48,
+            "id": "quang_lan_tieu_yeu",
+            "name": "Quang Lân Tiểu Yêu",
+            "image": "Roll-the-Dice-III.png",
+            "description": "Nhận 1 trang bị Găng Đạo Tặc Ánh Sáng. Vật phẩm này sẽ lắp 2 trang bị Ánh Sáng ngẫu nhiên mỗi vòng đấu."
+        },
+        {
+            "stt": 49,
+            "id": "rong_de_trung_vang",
+            "name": "Rồng Đẻ Trứng Vàng",
+            "image": "The-Golden-Egg-III.png",
+            "description": "Nhận một trứng vàng nở ra sau 11 vòng đấu, cho lượng lớn báu vật. Chiến thắng vòng giao tranh người chơi sẽ đẩy nhanh thời gian nở trứng thêm một vòng."
+        },
+        {
+            "stt": 50,
+            "id": "tat_tay_bac_dong_ii",
+            "name": "Tất Tay Bậc Đồng II",
+            "image": "BronzeForLife_III.png",
+            "description": "Đội của bạn nhận 2.5% Khuếch Đại Sát Thương và 4 Giáp & Kháng Phép cho mỗi tộc/hệ bậc Đồng."
+        },
+        {
+            "stt": 51,
+            "id": "thang_cap!",
+            "name": "Thăng Cấp!",
+            "image": "LevelUp3.png",
+            "description": "Khi bạn mua XP, nhận thêm 2 XP. Ngay lập tức nhận 6 XP."
+        },
+        {
+            "stt": 52,
+            "id": "tin_do_mua_sam",
+            "name": "Tín Đồ Mua Sắm",
+            "image": "Silver-ticket-III.png",
+            "description": "Khi bạn thăng cấp, nhận số lượt làm mới cửa hàng miễn phí tương đương với cấp của bạn +1. Nhận 6 vàng."
+        },
+        {
+            "stt": 53,
+            "id": "tinh_thong_moi_toc",
+            "name": "Tinh Thông Mọi Tộc",
+            "image": "tier-prism.png",
+            "description": "Mở kho vũ khí và chọn một trong 3 tộc/hệ. Nhận 1 Lux mang tộc/hệ đó và 1 Ngọn Giáo Shojin.\n\nCác tộc/hệ trên sân của bạn sẽ có khả năng xuất hiện trong kho vũ khí cao hơn. Lux tăng +2 cho tộc/hệ được chọn"
+        },
+        {
+            "stt": 54,
+            "id": "tinh_tuy_kim_long",
+            "name": "Tinh Túy Kim Long",
+            "image": "ShimmerscaleEssence_III.png",
+            "description": "Nhận 1 Giáp Đại Hãn. Sau 7 giao tranh người chơi, nhận 1 Kiếm Của Tay Bạc."
+        },
+        {
+            "stt": 55,
+            "id": "toi_luyen_suc_manh",
+            "name": "Tôi Luyện Sức Mạnh",
+            "image": "ForgedInStrength_III.png",
+            "description": "Nhận 1 Tạo Tác ngẫu nhiên. Khi bạn xuống dưới 35 Máu, nhận thêm 1 Tạo Tác ngẫu nhiên, 1 trang bị hoàn chỉnh ngẫu nhiên, và 2 trang bị thành phần ngẫu nhiên.\n\nGiải Vô Địch Remix Rumble, 2023"
+        },
+        {
+            "stt": 56,
+            "id": "tui_do_urf",
+            "name": "Túi Đồ Urf",
+            "image": "Urfs-Grab-Bag-III.png",
+            "description": "Nhận 1 Xẻng Vàng, 3 trang bị thành phần ngẫu nhiên và 5 vàng."
+        },
+        {
+            "stt": 57,
+            "id": "van_cuoc_hoang_kim",
+            "name": "Ván Cược Hoàng Kim",
+            "image": "GoldenGamble_III.png",
+            "description": "Nhận 2 vàng và tung đồng xu. Nếu ra mặt ngửa, nhận 1 Rương Trang Bị Ánh Sáng May Mắn. Nếu ra mặt sấp, nhận 2 Gói Trang Bị Hoàn Chỉnh."
+        },
+        {
+            "stt": 58,
+            "id": "chien_thuat_dau_tu_ii",
+            "name": "Chiến Thuật Đầu Tư II",
+            "image": "InvestmentStrategy_III.png",
+            "description": "Tướng của bạn nhận thêm vĩnh viễn 8 máu tối đa với mỗi vàng lợi tức bạn kiếm được. Lợi tức tối đa của bạn tăng thêm 2. Nhận ngay 8 vàng."
+        },
+        {
+            "stt": 59,
+            "id": "qua_sinh_nhat",
+            "name": "Quà Sinh Nhật",
+            "image": "Golden-Gifts-III.png",
+            "description": "Nhận một tướng 2 sao và 1 vàng mỗi lần bạn lên cấp. Bậc của tướng sẽ là cấp của bạn trừ 4 (tối đa: 5 vàng)."
+        },
+        {
+            "stt": 60,
+            "id": "thu_hang_toc_he",
+            "name": "Thứ Hạng Tộc Hệ",
+            "image": "tier-prism.png",
+            "description": "Nhận 1 ấn ngẫu nhiên. Sau khi triển khai 2 tộc/hệ không độc nhất trong giao tranh người chơi, nhận 1 phần thưởng. Sau đó tăng số tộc/hệ cần thiết và giá trị của phần thưởng."
+        },
+        {
+            "stt": 61,
+            "id": "vuong_mien_hac_hoa",
+            "name": "Vương Miện Hắc Hóa",
+            "image": "CursedCrown-III.png",
+            "description": "Tăng +2 số lượng tướng tối đa và đội của bạn nhận 4% Chống Chịu, nhưng bạn sẽ nhận gấp đôi sát thương lên Linh Thú khi thua giao tranh người chơi."
+        }
+    ]
 }

@@ -1,218 +1,218 @@
 {
   "vong_ky_ngo": [],
   "roll": [
-    ["최대 30명", "최대 25명", "최대 18명", "최대 10명", "최대 9명"],
+    ["Tối đa 30 tướng", "Tối đa 25 tướng", "Tối đa 18 tướng", "Tối đa 10 tướng", "Tối đa 9 tướng"],
     ["100%", "0", "0", "0", "0"],
     ["100%", "0", "0", "0", "0"],
     ["75%", "25%", "0", "0", "0"],
     ["55%", "30%", "15%", "0", "0"],
     ["45%", "33%", "20%", "2%", "0"],
     ["30%", "40%", "25%", "5%", "0"],
-    ["19%", "30%", "40%","10%","1%"],
+    ["19%", "30%", "40%", "10%", "1%"],
     ["17%", "24%", "32%", "24%", "3%"],
-    ["15%",	"18%", "25%", "30%", "12%"],
+    ["15%", "18%", "25%", "30%", "12%"],
     ["5%", "10%", "20%", "40%", "25%"],
     ["1%", "2%", "12%", "50%", "35%"]
   ],
   "vang_kinh_nghiem": {
     "thuong_vong": [
       {
-        "col_one": "라운드",
-        "col_tow": "보상"
+        "col_one": "Vòng đấu",
+        "col_tow": "Phần thưởng"
       },
       {
         "icon": "round",
-        "name": "1-2 라운드",
-        "value": "+2골드"
+        "name": "Vòng 1-2",
+        "value": "+2 vàng"
       },
       {
         "icon": "round",
-        "name": "1-3 라운드",
-        "value": "+2골드"
+        "name": "Vòng 1-3",
+        "value": "+2 vàng"
       },
       {
         "icon": "round",
-        "name": "1-4 라운드",
-        "value": "+3골드"
+        "name": "Vòng 1-4",
+        "value": "+3 vàng"
       },
       {
         "icon": "round",
-        "name": "2-1 라운드",
-        "value": "+4골드"
+        "name": "Vòng 2-1",
+        "value": "+4 vàng"
       },
       {
         "icon": "round",
-        "name": "2-2+ 라운드",
-        "value": "+5골드"
+        "name": "Vòng 2-2 trở đi",
+        "value": "+5 vàng"
       }
     ],
     "thuong_vong_pvp": [
       {
-        "col_one": "승리/패배",
-        "col_tow": "보상"
+        "col_one": "Thắng/Thua",
+        "col_tow": "Phần thưởng"
       },
       {
         "icon": "imperial",
-        "name": "라운드 승리",
-        "value": "+1골드"
+        "name": "Thắng vòng",
+        "value": "+1 vàng"
       },
       {
         "icon": "death",
-        "name": "라운드 패배",
-        "value": "0골드"
+        "name": "Thua vòng",
+        "value": "0 vàng"
       }
     ],
     "win": [
       {
-        "col_one": "연승",
-        "col_tow": "보상"
+        "col_one": "Chuỗi thắng",
+        "col_tow": "Phần thưởng"
       },
       {
         "icon": "fire",
-        "name": "6 연승",
-        "value": "+3골드"
+        "name": "6 chuỗi thắng",
+        "value": "+3 vàng"
       },
       {
         "icon": "fire",
-        "name": "5 연승",
-        "value": "+2골드"
+        "name": "5 chuỗi thắng",
+        "value": "+2 vàng"
       },
       {
         "icon": "fire",
-        "name": "4 연승",
-        "value": "+1골드"
+        "name": "4 chuỗi thắng",
+        "value": "+1 vàng"
       },
       {
         "icon": "fire",
-        "name": "3 연승",
-        "value": "+1골드"
+        "name": "3 chuỗi thắng",
+        "value": "+1 vàng"
       },
       {
         "icon": "fire",
-        "name": "2 연승",
-        "value": "+1골드"
+        "name": "2 chuỗi thắng",
+        "value": "+1 vàng"
       }
     ],
     "lose": [
       {
-        "col_one": "연패",
-        "col_tow": "보상"
+        "col_one": "Chuỗi thua",
+        "col_tow": "Phần thưởng"
       },
       {
         "icon": "death",
-        "name": "2 연패",
-        "value": "+1골드"
+        "name": "2 chuỗi thua",
+        "value": "+1 vàng"
       },
       {
         "icon": "death",
-        "name": "3 연패",
-        "value": "+1골드"
+        "name": "3 chuỗi thua",
+        "value": "+1 vàng"
       },
       {
         "icon": "death",
-        "name": "4 연패",
-        "value": "+1골드"
+        "name": "4 chuỗi thua",
+        "value": "+1 vàng"
       },
       {
         "icon": "death",
-        "name": "5 연패",
-        "value": "+2골드"
+        "name": "5 chuỗi thua",
+        "value": "+2 vàng"
       },
       {
         "icon": "death",
-        "name": "6 연패",
-        "value": "+3골드"
+        "name": "6 chuỗi thua",
+        "value": "+3 vàng"
       }
     ],
     "loi_tuc": [
       {
-        "col_one": "골드",
-        "col_tow": "보상"
+        "col_one": "Vàng",
+        "col_tow": "Phần thưởng"
       },
       {
         "icon": "gold",
-        "name": "0~9 골드",
-        "value": "0골드"
+        "name": "0~9 vàng",
+        "value": "0 vàng"
       },
       {
         "icon": "gold",
-        "name": "10~19 골드",
-        "value": "+1골드"
+        "name": "10~19 vàng",
+        "value": "+1 vàng"
       },
       {
         "icon": "gold",
-        "name": "20~29 골드",
-        "value": "+2골드"
+        "name": "20~29 vàng",
+        "value": "+2 vàng"
       },
       {
         "icon": "gold",
-        "name": "30~39 골드",
-        "value": "+3골드"
+        "name": "30~39 vàng",
+        "value": "+3 vàng"
       },
       {
         "icon": "gold",
-        "name": "40~49 골드",
-        "value": "+4골드"
+        "name": "40~49 vàng",
+        "value": "+4 vàng"
       },
       {
         "icon": "gold",
-        "name": "50 골드",
-        "value": "+5골드"
+        "name": "50 vàng",
+        "value": "+5 vàng"
       }
     ],
     "bang_xp": [
       {
-        "col_one": "레벨",
-        "col_tow": "필요 XP"
+        "col_one": "Cấp độ",
+        "col_tow": "XP cần"
       },
       {
         "icon": "level",
-        "name": "1 레벨",
+        "name": "Cấp 1",
         "value": "0 XP"
       },
       {
         "icon": "level",
-        "name": "2 레벨",
+        "name": "Cấp 2",
         "value": "0 XP"
       },
       {
         "icon": "level",
-        "name": "3 레벨",
+        "name": "Cấp 3",
         "value": "2 XP"
       },
       {
         "icon": "level",
-        "name": "4 레벨",
+        "name": "Cấp 4",
         "value": "6 XP"
       },
       {
         "icon": "level",
-        "name": "5 레벨",
+        "name": "Cấp 5",
         "value": "10 XP"
       },
       {
         "icon": "level",
-        "name": "6 레벨",
+        "name": "Cấp 6",
         "value": "20 XP"
       },
       {
         "icon": "level",
-        "name": "7 레벨",
+        "name": "Cấp 7",
         "value": "36 XP"
       },
       {
         "icon": "level",
-        "name": "8 레벨",
+        "name": "Cấp 8",
         "value": "60 XP"
       },
       {
         "icon": "level",
-        "name": "9 레벨",
+        "name": "Cấp 9",
         "value": "68 XP"
       },
       {
         "icon": "level",
-        "name": "10 레벨",
+        "name": "Cấp 10",
         "value": "68 XP"
       }
     ]
@@ -220,99 +220,99 @@
   "cong_thuc_sat_thuong": {
     "sat_thuong_vong": [
       {
-        "col_one": "총 챔피언 수",
-        "col_tow": "피해량"
+        "col_one": "Tổng số tướng",
+        "col_tow": "Sát thương"
       },
       {
         "icon": "champion",
-        "name": "챔피언 1명",
-        "value": "1 피해량"
+        "name": "1 tướng",
+        "value": "1 sát thương"
       },
       {
         "icon": "champion",
-        "name": "챔피언 2명",
-        "value": "2 피해량"
+        "name": "2 tướng",
+        "value": "2 sát thương"
       },
       {
         "icon": "champion",
-        "name": "챔피언 3명",
-        "value": "3 피해량"
+        "name": "3 tướng",
+        "value": "3 sát thương"
       },
       {
         "icon": "champion",
-        "name": "챔피언 4명",
-        "value": "4 피해량"
+        "name": "4 tướng",
+        "value": "4 sát thương"
       },
       {
         "icon": "champion",
-        "name": "챔피언 5명",
-        "value": "5 피해량"
+        "name": "5 tướng",
+        "value": "5 sát thương"
       },
       {
         "icon": "champion",
-        "name": "챔피언 6명",
-        "value": "6 피해량"
+        "name": "6 tướng",
+        "value": "6 sát thương"
       },
       {
         "icon": "champion",
-        "name": "챔피언 7명",
-        "value": "7 피해량"
+        "name": "7 tướng",
+        "value": "7 sát thương"
       },
       {
         "icon": "champion",
-        "name": "챔피언 8명",
-        "value": "8 피해량"
+        "name": "8 tướng",
+        "value": "8 sát thương"
       },
       {
         "icon": "champion",
-        "name": "챔피언 9명",
-        "value": "9 피해량"
+        "name": "9 tướng",
+        "value": "9 sát thương"
       },
       {
         "icon": "champion",
-        "name": "챔피언 10명",
-        "value": "10 피해량"
+        "name": "10 tướng",
+        "value": "10 sát thương"
       }
     ],
     "sat_thuong_tuong": [
       {
-        "col_one": "스테이지",
-        "col_tow": "피해량"
+        "col_one": "Giai đoạn",
+        "col_tow": "Sát thương"
       },
       {
         "icon": "round",
-        "name": "1 스테이지",
-        "value": "+0 피해량"
+        "name": "Giai đoạn 1",
+        "value": "+0 sát thương"
       },
       {
         "icon": "round",
-        "name": "2 스테이지",
-        "value": "+2 피해량"
+        "name": "Giai đoạn 2",
+        "value": "+2 sát thương"
       },
       {
         "icon": "round",
-        "name": "3 스테이지",
-        "value": "+5 피해량"
+        "name": "Giai đoạn 3",
+        "value": "+5 sát thương"
       },
       {
         "icon": "round",
-        "name": "4 스테이지",
-        "value": "+8 피해량"
+        "name": "Giai đoạn 4",
+        "value": "+8 sát thương"
       },
       {
         "icon": "round",
-        "name": "5 스테이지",
-        "value": "+10 피해량"
+        "name": "Giai đoạn 5",
+        "value": "+10 sát thương"
       },
       {
         "icon": "round",
-        "name": "6 스테이지",
-        "value": "+12 피해량"
+        "name": "Giai đoạn 6",
+        "value": "+12 sát thương"
       },
       {
         "icon": "round",
-        "name": "7+ 스테이지",
-        "value": "+17 피해량"
+        "name": "Giai đoạn 7 trở đi",
+        "value": "+17 sát thương"
       }
     ]
   },
@@ -320,199 +320,199 @@
     [
       {
         "image": "round-select-portal.webp",
-        "title": "차원문 선택"
+        "title": "Chọn cổng dịch chuyển"
       },
       {
         "image": "round-minions.webp",
-        "title": "미니언"
+        "title": "Lính"
       },
       {
         "image": "round-minions.webp",
-        "title": "미니언"
+        "title": "Lính"
       },
       {
         "image": "round-minions.webp",
-        "title": "미니언"
+        "title": "Lính"
       }
     ],
     [
       {
         "image": "round-box.webp",
-        "title": "플레이어"
+        "title": "Người chơi"
       },
       {
         "image": "round-weapon.webp",
-        "title": "플레이어"
+        "title": "Người chơi"
       },
       {
         "image": "round-weapon.webp",
-        "title": "플레이어"
+        "title": "Người chơi"
       },
       {
         "image": "round-select-item.webp",
-        "title": "아이템 선택"
+        "title": "Chọn trang bị"
       },
       {
         "image": "round-weapon.webp",
-        "title": "플레이어"
+        "title": "Người chơi"
       },
       {
         "image": "round-weapon.webp",
-        "title": "플레이어"
+        "title": "Người chơi"
       },
       {
         "image": "round-krugs.webp",
-        "title": "돌거북"
+        "title": "Bọ Đá"
       }
     ],
     [
       {
         "image": "round-weapon.webp",
-        "title": "플레이어"
+        "title": "Người chơi"
       },
       {
         "image": "round-box.webp",
-        "title": "플레이어"
+        "title": "Người chơi"
       },
       {
         "image": "round-weapon.webp",
-        "title": "플레이어"
+        "title": "Người chơi"
       },
       {
         "image": "round-select-item.webp",
-        "title": "아이템 선택"
+        "title": "Chọn trang bị"
       },
       {
         "image": "round-weapon.webp",
-        "title": "플레이어"
+        "title": "Người chơi"
       },
       {
         "image": "round-weapon.webp",
-        "title": "플레이어"
+        "title": "Người chơi"
       },
       {
         "image": "round-murk-wolves.webp",
-        "title": "어스름 늑대"
+        "title": "Sói Tối"
       }
     ],
     [
       {
         "image": "round-weapon.webp",
-        "title": "플레이어"
+        "title": "Người chơi"
       },
       {
         "image": "round-box.webp",
-        "title": "플레이어"
+        "title": "Người chơi"
       },
       {
         "image": "round-weapon.webp",
-        "title": "플레이어"
+        "title": "Người chơi"
       },
       {
         "image": "round-select-item.webp",
-        "title": "아이템 선택"
+        "title": "Chọn trang bị"
       },
       {
         "image": "round-weapon.webp",
-        "title": "플레이어"
+        "title": "Người chơi"
       },
       {
         "image": "round-weapon.webp",
-        "title": "플레이어"
+        "title": "Người chơi"
       },
       {
         "image": "round-raptor.webp",
-        "title": "칼날부리"
+        "title": "Chim Sắt"
       }
     ],
     [
       {
         "image": "round-weapon.webp",
-        "title": "플레이어"
+        "title": "Người chơi"
       },
       {
         "image": "round-weapon.webp",
-        "title": "플레이어"
+        "title": "Người chơi"
       },
       {
         "image": "round-weapon.webp",
-        "title": "플레이어"
+        "title": "Người chơi"
       },
       {
         "image": "round-select-item.webp",
-        "title": "아이템 선택"
+        "title": "Chọn trang bị"
       },
       {
         "image": "round-weapon.webp",
-        "title": "플레이어"
+        "title": "Người chơi"
       },
       {
         "image": "round-weapon.webp",
-        "title": "플레이어"
+        "title": "Người chơi"
       },
       {
         "image": "round-elder-dragon.webp",
-        "title": "장로 드래곤"
+        "title": "Rồng Bô Lão"
       }
     ],
     [
       {
         "image": "round-weapon.webp",
-        "title": "플레이어"
+        "title": "Người chơi"
       },
       {
         "image": "round-weapon.webp",
-        "title": "플레이어"
+        "title": "Người chơi"
       },
       {
         "image": "round-weapon.webp",
-        "title": "플레이어"
+        "title": "Người chơi"
       },
       {
         "image": "round-select-item.webp",
-        "title": "아이템 선택"
+        "title": "Chọn trang bị"
       },
       {
         "image": "round-weapon.webp",
-        "title": "플레이어"
+        "title": "Người chơi"
       },
       {
         "image": "round-weapon.webp",
-        "title": "플레이어"
+        "title": "Người chơi"
       },
       {
         "image": "round-elder-dragon.webp",
-        "title": "장로 드래곤"
+        "title": "Rồng Bô Lão"
       }
     ],
     [
       {
         "image": "round-weapon.webp",
-        "title": "플레이어"
+        "title": "Người chơi"
       },
       {
         "image": "round-weapon.webp",
-        "title": "플레이어"
+        "title": "Người chơi"
       },
       {
         "image": "round-weapon.webp",
-        "title": "플레이어"
+        "title": "Người chơi"
       },
       {
         "image": "round-select-item.webp",
-        "title": "아이템 선택"
+        "title": "Chọn trang bị"
       },
       {
         "image": "round-weapon.webp",
-        "title": "플레이어"
+        "title": "Người chơi"
       },
       {
         "image": "round-weapon.webp",
-        "title": "플레이어"
+        "title": "Người chơi"
       },
       {
         "image": "round-elder-dragon.webp",
-        "title": "장로 드래곤"
+        "title": "Rồng Bô Lão"
       }
     ]
   ]

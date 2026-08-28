@@ -1,5 +1,1597 @@
 {
-    "1": [],
-    "2": [],
-    "3": []
+    "1": [
+        {
+            "stt": 1,
+            "id": "pandoranoaitemu_i",
+            "name": "パンドラのアイテム I",
+            "image": "Pandora1.png",
+            "description": "ラウンド開始時: ベンチのアイテムがランダムに変更される。\n\nランダムな素材アイテムを1個獲得する。"
+        },
+        {
+            "stt": 2,
+            "id": "pandoranobenchi",
+            "name": "パンドラのベンチ",
+            "image": "Pandoras-Bench-II.png",
+            "description": "各ラウンドの開始時に、ベンチの右側3スロットにいるチャンピオンが、同じコストのランダムなチャンピオンに変化する。4ゴールドを獲得する。"
+        },
+        {
+            "stt": 3,
+            "id": "Xiao_sanaFu_Dai_",
+            "name": "小さな福袋",
+            "image": "SmallGrabBag_I.png",
+            "description": "ランダムな素材アイテムを2個獲得する。"
+        },
+        {
+            "stt": 4,
+            "id": "aitemuFu_Dai__i",
+            "name": "アイテム福袋 I",
+            "image": "ItemGrabBag1.png",
+            "description": "ランダムな完成アイテム1個を獲得する。"
+        },
+        {
+            "stt": 5,
+            "id": "kitsukusuta-to",
+            "name": "キックスタート",
+            "image": "KickStart_I.png",
+            "description": "ランダムな★2のコスト2チャンピオンを1体と、1ゴールドを獲得する。"
+        },
+        {
+            "stt": 6,
+            "id": "gurasukiyanon_i",
+            "name": "グラスキャノン I",
+            "image": "GlassCannon_I.png",
+            "description": "後列で戦闘を開始した味方が80%の体力で戦闘を開始するが、ダメージ増加効果を16%獲得する。"
+        },
+        {
+            "stt": 7,
+            "id": "chi-muGou_Zhu_",
+            "name": "チーム構築",
+            "image": "Building-an-army-I.png",
+            "description": "「小型チャンピオン複製器」を1個獲得する。対人戦を5回行ったあとに、もう1個獲得する。\n\n「小型チャンピオン複製器」を使うとコスト3以下のチャンピオンのコピーを1体獲得できる。"
+        },
+        {
+            "stt": 8,
+            "id": "misukonekushiyon",
+            "name": "ミスコネクション",
+            "image": "Missed-Connections-I.png",
+            "description": "すべてのコスト1チャンピオンを1体ずつ獲得する。"
+        },
+        {
+            "stt": 9,
+            "id": "ro-ringudeizu",
+            "name": "ローリングデイズ",
+            "image": "Rolling-For-Days-I.png",
+            "description": "10回分のショップ無料リロールを獲得する。"
+        },
+        {
+            "stt": 10,
+            "id": "Bu_Wan_Quan_asenshiyon",
+            "name": "不完全アセンション",
+            "image": "Ascension1.png",
+            "description": "戦闘開始から12秒経過すると、味方ユニットのダメージ増加効果が20%増加する。"
+        },
+        {
+            "stt": 11,
+            "id": "Bi_Hu_Zhe_nooGong_",
+            "name": "庇護者のお供",
+            "image": "Caretaker_s-Chosen-I.png",
+            "description": "今すぐランダムなコスト2のチャンピオンを1体獲得する。レベルアップするごとに同じユニットをもう1体獲得する。\n\nチャンピオン: 0"
+        },
+        {
+            "stt": 12,
+            "id": "Yuan_Hu_noGong_",
+            "name": "援護の弓",
+            "image": "RecurveWrecker_I.png",
+            "description": "「リカーブ ボウ」を1個獲得する。味方チャンピオンが通常攻撃を1000回行うと、さらに2個獲得する。"
+        },
+        {
+            "stt": 13,
+            "id": "Fang_Dian__i",
+            "name": "放電 I",
+            "image": "Electrocharge-I.png",
+            "description": "味方が4回攻撃を受けるたびに、周囲の敵に30-90(現在のステージに応じて)の魔法ダメージを与える(クールダウン1秒)。"
+        },
+        {
+            "stt": 14,
+            "id": "You_Xiao_Huo_Yong__i",
+            "name": "有効活用 I",
+            "image": "Good-For-Something-I.png",
+            "description": "アイテムを装備していないチャンピオンが、デス時に40%の確率で1ゴールドをドロップする。"
+        },
+        {
+            "stt": 15,
+            "id": "Wei_Lai_noDuan_Ye_Chang_",
+            "name": "未来の鍛冶場",
+            "image": "Long-time-Crafting-I.png",
+            "description": "対人戦を8回終えると、「アーティファクトの金床」を1個獲得する。"
+        },
+        {
+            "stt": 16,
+            "id": "Fu_Shi_",
+            "name": "腐食",
+            "image": "Corrosion_I.png",
+            "description": "前衛2列の敵の物理防御と魔法防御が2秒ごとに4低下する。"
+        },
+        {
+            "stt": 17,
+            "id": "Yin_noChi_",
+            "name": "銀の匙",
+            "image": "Silver-Spoon-I.png",
+            "description": "経験値を10XP獲得する。"
+        },
+        {
+            "stt": 18,
+            "id": "Ji_Zhong_Pao_Huo_",
+            "name": "集中砲火",
+            "image": "MarksMan_I.png",
+            "description": "味方チームの攻撃力が10%増加する。5秒ごとに、さらに5%増加する。"
+        },
+        {
+            "stt": 19,
+            "id": "ikasamadaisu",
+            "name": "イカサマダイス",
+            "image": "tier-silver.png",
+            "description": "サイコロとコインに幸運が宿っている。\n\nダイスを振ると、出た目の数と同じ量のゴールドを獲得する。その後コインを投げ、表が出ると1ゴールドを獲得する。"
+        },
+        {
+            "stt": 20,
+            "id": "uisupu_ribe-to",
+            "name": "ウィスプ リベート",
+            "image": "tier-silver.png",
+            "description": "ウィスプを1体購入するたびに2ゴールドを獲得する。即座に4ゴールドを獲得する。"
+        },
+        {
+            "stt": 21,
+            "id": "koguniteibu_tatsukusu",
+            "name": "コグニティブ タックス",
+            "image": "CognitiveTax_I.png",
+            "description": "8ゴールドと1XPを獲得する。"
+        },
+        {
+            "stt": 22,
+            "id": "za*tawa-",
+            "name": "ザ・タワー",
+            "image": "TheTower_I.png",
+            "description": "巨大な「訓練用ダミー」を獲得する。4秒ごとに、最も近くにいる敵3体に対して電撃を放ち、それぞれに最大体力の5%にあたる確定ダメージを与える。"
+        },
+        {
+            "stt": 23,
+            "id": "hi-ringuo-bu_i",
+            "name": "ヒーリングオーブ I",
+            "image": "Healing-Orbs-I.png",
+            "description": "敵が倒されると、近くにいる味方1体の体力が250回復する。"
+        },
+        {
+            "stt": 24,
+            "id": "Chui_Zhi_Xing__i",
+            "name": "垂直性 I",
+            "image": "tier-silver.png",
+            "description": "チャンピオンは、同じ特性を共有する味方1体ごとに攻撃力が1.5%、魔力が1.5%、物理防御が1.5、魔法防御が1.5増加する。"
+        },
+        {
+            "stt": 25,
+            "id": "Tian_noZhu_Fu__i",
+            "name": "天の祝福 I",
+            "image": "CelestialBlessing1.png",
+            "description": "味方チームのオムニヴァンプが12%増加する。余剰の回復量は最大200までシールドに変換される。"
+        },
+        {
+            "stt": 26,
+            "id": "Zhai_Pei_chiyanpion+",
+            "name": "宅配チャンピオン+",
+            "image": "tier-silver.png",
+            "description": "コスト3のチャンピオンを3体獲得する。6ラウンド後、さらに3体獲得する。"
+        },
+        {
+            "stt": 27,
+            "id": "Pu_Tong_noRi_\"",
+            "name": "普通の日々",
+            "image": "Slice_of_Life_I.png",
+            "description": "ステージごとに2回、ランダムなチャンピオンを1体獲得する。そのコストはステージごとに増加する。この効果はコスト5のチャンピオンを1体入手すると終了する。"
+        },
+        {
+            "stt": 28,
+            "id": "Liu_reruLei_",
+            "name": "流れる涙",
+            "image": "GriefoftheGreatGoddess_I.png",
+            "description": "「女神の涙」を1個獲得する。味方チャンピオンが6500マナを使用すると、さらに2個獲得する。"
+        },
+        {
+            "stt": 29,
+            "id": "Dao_Zei_Tuan_",
+            "name": "盗賊団",
+            "image": "BandThieves1.png",
+            "description": "「盗賊のグローブ」1個を獲得する。"
+        },
+        {
+            "stt": 30,
+            "id": "Dao_woQie_riTuo_ke",
+            "name": "道を切り拓け",
+            "image": "CarveAPath_I.png",
+            "description": "「B.F.ソード」を1個獲得する。味方チャンピオンが65000の物理ダメージを与えると、さらに2個獲得する。"
+        },
+        {
+            "stt": 31,
+            "id": "Mo_Fa_noCan_Zi_+",
+            "name": "魔法の残滓+",
+            "image": "tier-silver.png",
+            "description": "味方チームの体力が75増加する。ウィスプを購入するたびに、この効果が10増加する。"
+        },
+        {
+            "stt": 32,
+            "id": "o-gumentopawa-",
+            "name": "オーグメントパワー",
+            "image": "PowerUp_I.png",
+            "description": "次のオーグメントのティアが1つ高くなる。"
+        },
+        {
+            "stt": 33,
+            "id": "kanatokane",
+            "name": "カナとカネ",
+            "image": "Iron-Assets-I.png",
+            "description": "「素材アイテムの金床」を1個と3ゴールドを獲得する。"
+        },
+        {
+            "stt": 34,
+            "id": "kiyapitarugein_i",
+            "name": "キャピタルゲイン I",
+            "image": "tier-silver.png",
+            "description": "獲得した利子に等しいゴールドを蓄える。3-3で、獲得した利子の100%に等しいゴールドを蓄える。即座に1ゴールドを獲得する。"
+        },
+        {
+            "stt": 35,
+            "id": "kuitsukusutori-ku",
+            "name": "クイックストリーク",
+            "image": "tier-silver.png",
+            "description": "連勝および連敗のカウントが2倍になる。2ゴールドを獲得する。"
+        },
+        {
+            "stt": 36,
+            "id": "koguniteibu_tatsukusu+",
+            "name": "コグニティブ タックス+",
+            "image": "CognitiveTax_I.png",
+            "description": "12ゴールドと3XPを獲得する。"
+        },
+        {
+            "stt": 37,
+            "id": "kokogasenta-",
+            "name": "ここがセンター",
+            "image": "FindYourCenter_I.png",
+            "description": "前列の中央で戦闘を開始した味方チャンピオンは、ダメージ増加効果が15%、最大体力が25%増加する。"
+        },
+        {
+            "stt": 38,
+            "id": "shiruba-noYun_Ming_",
+            "name": "シルバーの運命",
+            "image": "SilverDestiny_I.png",
+            "description": "ランダムなシルバーオーグメントを1個と2ゴールドを獲得する。"
+        },
+        {
+            "stt": 39,
+            "id": "shiruba-noYun_Ming_+",
+            "name": "シルバーの運命+",
+            "image": "SilverDestiny_I.png",
+            "description": "ランダムなシルバーオーグメントを1個と4ゴールドを獲得する。"
+        },
+        {
+            "stt": 40,
+            "id": "shiruba-noYun_Ming_++",
+            "name": "シルバーの運命++",
+            "image": "SilverDestiny_I.png",
+            "description": "ランダムなシルバーオーグメントを1個と7ゴールドを獲得する。"
+        },
+        {
+            "stt": 41,
+            "id": "chiyotsutodakeMo_Fa_nodaisu",
+            "name": "ちょっとだけ魔法のダイス",
+            "image": "SlightlyMagicRoll_I.png",
+            "description": "ダイスを振る。出た目に応じて報酬を獲得する。"
+        },
+        {
+            "stt": 42,
+            "id": "tsuiteruQi_Fen_",
+            "name": "ツイてる気分",
+            "image": "FeelingLucky_I.png",
+            "description": "12ゴールドを獲得し、コインを投げる。表が出た場合、4ゴールド多く獲得する。"
+        },
+        {
+            "stt": 43,
+            "id": "minnadehagu_i",
+            "name": "みんなでハグ I",
+            "image": "GroupHug1_I.png",
+            "description": "戦闘開始時: チャンピオンは隣接するチャンピオン(自身を除く)に6の物理防御と魔法防御を付与する。この効果はスタックする。"
+        },
+        {
+            "stt": 44,
+            "id": "reitoge-mu_supeshiyarisuto",
+            "name": "レイトゲーム スペシャリスト",
+            "image": "Late-Game-Specialist-I.png",
+            "description": "レベル9に到達すると、27ゴールドを獲得する。"
+        },
+        {
+            "stt": 45,
+            "id": "wan,_tsu-,_huaibu!",
+            "name": "ワン、ツー、ファイブ！",
+            "image": "One-Two-Five-I.png",
+            "description": "ランダムな素材アイテム1個、2ゴールド、ランダムなコスト5チャンピオン1体を獲得する。"
+        },
+        {
+            "stt": 46,
+            "id": "wanwan,_tsu-,_suri-",
+            "name": "ワンワン、ツー、スリー",
+            "image": "tier-silver.png",
+            "description": "コスト1のチャンピオンを2体、コスト2のチャンピオンを1体、コスト3のチャンピオンを1体獲得する。"
+        },
+        {
+            "stt": 47,
+            "id": "Yi_Zhi_Tuan_Jie_",
+            "name": "一致団結",
+            "image": "StandUnited1.png",
+            "description": "チーム内で発動している特性1つにつき(固有特性を除く)、味方ユニットの攻撃力が1.5%、魔力が1.5%増加する。"
+        },
+        {
+            "stt": 48,
+            "id": "Ji_Xi_a-ma-_i",
+            "name": "即席アーマー I",
+            "image": "Makeshift1.png",
+            "description": "アイテムを装備していないチャンピオンの物理防御と魔法防御が30増加する。"
+        },
+        {
+            "stt": 49,
+            "id": "Zhai_Pei_chiyanpion",
+            "name": "宅配チャンピオン",
+            "image": "tier-silver.png",
+            "description": "コスト2のチャンピオンを3体獲得する。6ラウンド後、さらに3体獲得する。"
+        },
+        {
+            "stt": 50,
+            "id": "Zhai_Pei_chiyanpion++",
+            "name": "宅配チャンピオン++",
+            "image": "tier-silver.png",
+            "description": "コスト4のチャンピオンを3体獲得する。6ラウンド後、さらに3体獲得する。"
+        },
+        {
+            "stt": 51,
+            "id": "Ren_Nai_noMei_De_",
+            "name": "忍耐の美徳",
+            "image": "PatienceIsAVirtue_I.png",
+            "description": "即座に4回分のリロールを獲得する。ラウンド毎に、その直前のラウンドでチャンピオンを購入していない場合は1回分のリロールを無料で獲得する。"
+        },
+        {
+            "stt": 52,
+            "id": "Wei_Lai_niJi_Zhong_",
+            "name": "未来に集中",
+            "image": "tier-silver.png",
+            "description": "タクティシャンは体力を20失うが、対人戦ラウンドを5回終えるとコスト4のチャンピオン3体と、8ゴールドを獲得する。"
+        },
+        {
+            "stt": 53,
+            "id": "Gou_Cheng_Kuo_Da_",
+            "name": "構成拡大",
+            "image": "Branching-Out-I.png",
+            "description": "ランダムな紋章を1個獲得する。"
+        },
+        {
+            "stt": 54,
+            "id": "Gou_Cheng_Kuo_Da_+",
+            "name": "構成拡大+",
+            "image": "Branching-Out-I.png",
+            "description": "ランダムな紋章アイテムを1個と「再合成装置」を1個獲得する。"
+        },
+        {
+            "stt": 55,
+            "id": "Hun_Luan_Hui_Fu_Zhuang_Zhi_",
+            "name": "混乱回復装置",
+            "image": "Recombobulator-I.png",
+            "description": "フィールド上のチャンピオンを、コストティアが1つ上のランダムなチャンピオンに恒久的に変化させる(最大コストティア5)。「磁力式除去装置」を2個と3回分の無料リロールを獲得する。"
+        },
+        {
+            "stt": 56,
+            "id": "Wang_Sha_shi",
+            "name": "王殺し",
+            "image": "Kingslayer_I.png",
+            "description": "対人戦に勝利すると、1ゴールドを獲得する。相手プレイヤーの体力が自身よりも多かった場合は、代わりに6ゴールドを獲得する。1ゴールドを獲得する。"
+        },
+        {
+            "stt": 57,
+            "id": "Zi_You_Ben_Fang_",
+            "name": "自由奔放",
+            "image": "Young-and-wild-and-free-I.png",
+            "description": "ドラフトラウンドで常に自由に移動できる。5ゴールドを獲得する。"
+        },
+        {
+            "stt": 58,
+            "id": "Zhui_Jia_nobatsukuru",
+            "name": "追加のバックル",
+            "image": "ExtraBuckles_I.png",
+            "description": "「ジャイアント ベルト」を1個獲得する。味方チャンピオンが75000ダメージを受けると、さらに2個獲得する。"
+        },
+        {
+            "stt": 59,
+            "id": "Mo_Fa_noCan_Zi_",
+            "name": "魔法の残滓",
+            "image": "tier-silver.png",
+            "description": "味方チームの体力が60増加する。ウィスプを購入するたびに、この効果が10増加する。"
+        },
+        {
+            "stt": 60,
+            "id": "ekusupedeishiyon",
+            "name": "エクスペディション",
+            "image": "Expedition_I.png",
+            "description": "各ラウンドの開始時、ベンチの一番右にいるチャンピオンを失う。この方法で33ゴールド分のチャンピオンを失うと、強力な報酬を獲得する。即座にコスト3のチャンピオンを1体獲得する。"
+        },
+        {
+            "stt": 61,
+            "id": "ko-rushiyotsuto",
+            "name": "コールショット",
+            "image": "CalledShot_I.png",
+            "description": "連勝数を+4に設定する。4ゴールドを獲得する。"
+        }
+    ],
+    "2": [
+        {
+            "stt": 1,
+            "id": "asenshiyon",
+            "name": "アセンション",
+            "image": "Ascension2.png",
+            "description": "戦闘開始から12秒経過すると、味方ユニットのダメージ増加効果が35%増加する。"
+        },
+        {
+            "stt": 2,
+            "id": "itsutsumi-_beibi-",
+            "name": "イッツミー ベイビー",
+            "image": "tier-gold.png",
+            "description": "右下にスポットライトが当たる。スポットライト内にいるチャンピオンは15%のダメージ増加効果と15%の攻撃速度を獲得する。また、キルまたはアシストを5回獲得するごとに1ゴールドをドロップする。\n\n2026 Lore & Legends Tactician's Crown"
+        },
+        {
+            "stt": 3,
+            "id": "omega_rihutobi-suto",
+            "name": "オメガ リフトビースト",
+            "image": "tier-gold.png",
+            "description": "2体目の「アルファ リフトビースト」を選択できるようになる。スカトルクラブ、シンダーリング、小石を1体ずつ獲得する。"
+        },
+        {
+            "stt": 4,
+            "id": "saibaneteitsuku_atsupurinku",
+            "name": "サイバネティック アップリンク",
+            "image": "Cybernetic-Uplink-II.png",
+            "description": "アイテムを装備した味方チャンピオンの体力が100、マナ自動回復が2増加する。「女神の涙」を1個獲得する。"
+        },
+        {
+            "stt": 5,
+            "id": "serahuimunoZhang_",
+            "name": "セラフィムの杖",
+            "image": "SeraphimsStaff_II.png",
+            "description": "「アークエンジェル スタッフ」を1個獲得する。装備者の魔力が90%以上だった場合、「アークエンジェル スタッフ」から2のマナ自動回復を追加で獲得する。"
+        },
+        {
+            "stt": 6,
+            "id": "pandoranoaitemu_ii",
+            "name": "パンドラのアイテム II",
+            "image": "Pandora2.png",
+            "description": "ラウンド開始時: ベンチのアイテムがランダムに変更される。\n\nランダムな素材アイテムを2個獲得する。"
+        },
+        {
+            "stt": 7,
+            "id": "po-taburu_huo-zi",
+            "name": "ポータブル フォージ",
+            "image": "PortableForge2.png",
+            "description": "4つのアーティファクトから1つを選択。アーティファクトは独自の効果を持つ強力なアイテム。"
+        },
+        {
+            "stt": 8,
+            "id": "An_dakereberuatsupu",
+            "name": "俺だけレベルアップ",
+            "image": "SoloLeveling_II.png",
+            "description": "次の5回の対人戦で、味方チームのサイズが1になるが、ボードに配置したチャンピオンはステータスが大幅に増加する。そのチャンピオンがキルを獲得するたびに1 XPの経験値を獲得する。その後、素材アイテムを2個獲得する。"
+        },
+        {
+            "stt": 9,
+            "id": "Qian_Jie_ri+",
+            "name": "前借り+",
+            "image": "AdvancedLoan_II.png",
+            "description": "33ゴールドを獲得する。次のオーグメントのティアが1つ低くなる。"
+        },
+        {
+            "stt": 10,
+            "id": "Da_kinaFu_Dai_",
+            "name": "大きな福袋",
+            "image": "Grab-Bag-II.png",
+            "description": "ランダムな素材アイテム3個、2ゴールド、「再合成装置」を1個獲得する。"
+        },
+        {
+            "stt": 11,
+            "id": "Xiao_sanamohumohunooYou_Da_",
+            "name": "小さなモフモフのお友達",
+            "image": "tier-gold.png",
+            "description": "「スプライキン」が発動中は、35%の強さを持つ2体目の「大きなモフモフのお友達」を召喚する。ティーモ、ベイガー、コブコを1体ずつ獲得する。"
+        },
+        {
+            "stt": 12,
+            "id": "Fang_Dian__ii",
+            "name": "放電 II",
+            "image": "Electrocharge-II.png",
+            "description": "味方が4回攻撃を受けるたびに、周囲の敵に50-140(現在のステージに応じて)の魔法ダメージを与える(クールダウン1秒)。"
+        },
+        {
+            "stt": 13,
+            "id": "Ying_Xiong_noratsuki-batsugu++",
+            "name": "英雄のラッキーバッグ++",
+            "image": "Heroic-Grab-Bag-II.png",
+            "description": "「小型チャンピオン複製器」を2個獲得する。14ゴールドを獲得する。"
+        },
+        {
+            "stt": 14,
+            "id": "Xian_Ding_kasutamaizu",
+            "name": "限定カスタマイズ",
+            "image": "ExclusiveCustomization_II.png",
+            "description": "「幸運のアイテムチェスト」を1個、「磁力式除去装置」を1個、7ゴールドを獲得する。"
+        },
+        {
+            "stt": 15,
+            "id": "21go-rudowoHuo_De_",
+            "name": "21ゴールドを獲得",
+            "image": "Windfall2.png",
+            "description": "21ゴールドを獲得する。"
+        },
+        {
+            "stt": 16,
+            "id": "inhuiniteinoShou_Hu_",
+            "name": "インフィニティの守護",
+            "image": "InfinityProtection_II.png",
+            "description": "即座に3ゴールドを獲得する。ステージ3-7で「インフィニティ フォース」を1個獲得する。「インフィニティ フォース」が同じ列の味方に体力の12%にあたる耐久値を持つシールドを付与する。\n\n2023 Monsters Attack Championship"
+        },
+        {
+            "stt": 17,
+            "id": "go-rudonoYun_Ming_",
+            "name": "ゴールドの運命",
+            "image": "GoldenDestiny_II.png",
+            "description": "ランダムなゴールドオーグメントを1個と3ゴールドを獲得する。"
+        },
+        {
+            "stt": 18,
+            "id": "koguniteibu_o-ba-ro-do",
+            "name": "コグニティブ オーバーロード",
+            "image": "CognitiveOverload_II.png",
+            "description": "7ゴールド、★2のコスト1チャンピオンを1体、コスト2のチャンピオンを1体、コスト3のチャンピオンを2体、1XP、無料リロール1回を獲得する。"
+        },
+        {
+            "stt": 19,
+            "id": "ziyueru_ro-tasu_i",
+            "name": "ジュエル ロータス I",
+            "image": "Jeweled-Lotus-II.png",
+            "description": "味方チームのクリティカル率が10%増加し、正確無比を獲得する。\n\n正確無比: スキルはクリティカル判定を持つ。「正確無比」を追加で獲得すると、クリティカルダメージが10%増加する。"
+        },
+        {
+            "stt": 20,
+            "id": "deyuokiyu-",
+            "name": "デュオキュー",
+            "image": "DuoQueue_II.png",
+            "description": "ランダムなコスト5チャンピオンを2体、ランダムな素材アイテムのコピーを2個獲得する。"
+        },
+        {
+            "stt": 21,
+            "id": "ba-sude-_riyunion",
+            "name": "バースデー リユニオン",
+            "image": "BirthdayReunion_II.png",
+            "description": "ランダムな★2のコスト2チャンピオンを1体獲得する。レベル6でランダムな素材アイテムを1個獲得する。レベル9に到達すると、ランダムな★2のコスト5チャンピオンを1体獲得する。\n\n2024 Inkborn Fables Tactician's Crown"
+        },
+        {
+            "stt": 22,
+            "id": "bu-suta-patsuku",
+            "name": "ブースターパック",
+            "image": "BoosterPack1_II.png",
+            "description": "ランダムなチャンピオンを合計12ゴールド分獲得する。(コスト3が1体以上確定！)"
+        },
+        {
+            "stt": 23,
+            "id": "bu-suta-patsuku++",
+            "name": "ブースターパック++",
+            "image": "BoosterPack1_II.png",
+            "description": "ランダムなチャンピオンを合計26ゴールド分獲得する。(コスト5が1体以上確定！)"
+        },
+        {
+            "stt": 24,
+            "id": "Yi_Ren_Qian_pure-to",
+            "name": "一人前プレート",
+            "image": "SoloPlate_II.png",
+            "description": "「ガーゴイル ストーンプレート」を1個獲得する。戦闘開始時に「ガーゴイル ストーンプレート」を装備している味方の列に他のユニットがいない場合、最大体力が17%増加する。"
+        },
+        {
+            "stt": 25,
+            "id": "Nei_naruSwu_",
+            "name": "内なる獣",
+            "image": "tier-gold.png",
+            "description": "「プライマル」がもう1つ「祝福」を付与する。今すぐヴァイを1体獲得し、3ラウンド後にシヴィアを1体獲得する。"
+        },
+        {
+            "stt": 26,
+            "id": "Jian_Duan_Ye_",
+            "name": "剣鍛冶",
+            "image": "Swordsmith_II.png",
+            "description": "「B.F.ソード」から派生したランダムな完成アイテムを2個獲得する。"
+        },
+        {
+            "stt": 27,
+            "id": "Ji_Xi_a-ma-_ii",
+            "name": "即席アーマー II",
+            "image": "Makeshift2.png",
+            "description": "アイテムを装備していないチャンピオンの物理防御と魔法防御が50増加する。"
+        },
+        {
+            "stt": 28,
+            "id": "Hui_Shou_Xiang_",
+            "name": "回収箱",
+            "image": "Salvage2.png",
+            "description": "即座にランダムな完成アイテムを1個獲得する。また、対人戦を8回終えると、素材アイテムを1個獲得する。チャンピオンを売却すると、完成アイテムが素材に解体される(タクティシャンアイテムと紋章は除く)。"
+        },
+        {
+            "stt": 29,
+            "id": "Tian_noZhu_Fu__ii",
+            "name": "天の祝福 II",
+            "image": "CelestialBlessing2.png",
+            "description": "味方チームのオムニヴァンプが18%増加する。余剰の回復量は最大400までシールドに変換される。"
+        },
+        {
+            "stt": 30,
+            "id": "Hao_kinadakeQi_kugaii",
+            "name": "好きなだけ泣くがいい",
+            "image": "CryMeARiver_II.png",
+            "description": "「女神の涙」を1個獲得する。味方チームが1のマナ自動回復を獲得する。戦闘開始から12秒後にこの効果は4になる。"
+        },
+        {
+            "stt": 31,
+            "id": "Guang_garuGen_+",
+            "name": "広がる根+",
+            "image": "SpreadingRoots_II.png",
+            "description": "ランダムな紋章2個、「再合成装置」1個と2ゴールドを獲得する。"
+        },
+        {
+            "stt": 32,
+            "id": "Bu_Shi_Zhi_Wu_",
+            "name": "捕食植物",
+            "image": "tier-gold.png",
+            "description": "「フローラ・ファターリスの紋章」を1個獲得する。この紋章を装備しているチャンピオンは、「フローラ・ファターリス」の特性から得られる効果が2倍になる。3ゴールドを獲得する。"
+        },
+        {
+            "stt": 33,
+            "id": "Zhang_Duan_Ye_",
+            "name": "杖鍛冶",
+            "image": "Rodsmith_II.png",
+            "description": "「ムダニ デカイ ロッド」から派生したランダムな完成アイテムを2個獲得する。"
+        },
+        {
+            "stt": 34,
+            "id": "Bi_Lei_nakiCun_Zai_",
+            "name": "比類なき存在",
+            "image": "tier-gold.png",
+            "description": "レンガーとカ＝ジックスを一緒にボードに出してもペナルティを受けない。さらにお互いのスキル発動時にボーナスを獲得する。レンガーとカ＝ジックスを1体ずつ獲得する。"
+        },
+        {
+            "stt": 35,
+            "id": "Bao_Fa_De_Cheng_Chang_",
+            "name": "爆発的成長",
+            "image": "ExplosiveGrowth_II.png",
+            "description": "即座に、および次の3ラウンドに渡って、ラウンド開始時に7XPの経験値を獲得する。"
+        },
+        {
+            "stt": 36,
+            "id": "Yan_Jiu_Re_Xin_",
+            "name": "研究熱心",
+            "image": "Learning-From-Experience-II.png",
+            "description": "対人戦ラウンドに勝利すると経験値を2 XP、敗北すると経験値を3 XP獲得する。"
+        },
+        {
+            "stt": 37,
+            "id": "Hua_noHu_biSheng_",
+            "name": "花の呼び声",
+            "image": "tier-gold.png",
+            "description": "ウィスプを購入すると、そのコストに応じたランダムな「ブロッサム」のチャンピオンを1体獲得する。ユナラ、ヨリック、カルマを1体ずつ獲得する。"
+        },
+        {
+            "stt": 38,
+            "id": "Ying_Xiong_noratsuki-batsugu",
+            "name": "英雄のラッキーバッグ",
+            "image": "Heroic-Grab-Bag-II.png",
+            "description": "「小型チャンピオン複製器」を2個獲得する。4ゴールドを獲得する。"
+        },
+        {
+            "stt": 39,
+            "id": "Ying_Xiong_noratsuki-batsugu+",
+            "name": "英雄のラッキーバッグ+",
+            "image": "Heroic-Grab-Bag-II.png",
+            "description": "「小型チャンピオン複製器」を2個獲得する。8ゴールドを獲得する。"
+        },
+        {
+            "stt": 40,
+            "id": "Fu_Zhi_",
+            "name": "複製",
+            "image": "Replication-II.png",
+            "description": "3つの素材アイテムから1つを選択。次の2ラウンドの間、その素材アイテムのコピーを1個獲得する。"
+        },
+        {
+            "stt": 41,
+            "id": "Gao_Su_daburukiru",
+            "name": "高速ダブルキル",
+            "image": "SpeedyDoubleKill_II.png",
+            "description": "「グインソー レイジブレード」を1個獲得する。2人のプレイヤーが敗退すると、40ゴールドを獲得する。\n\n2021 Fates Championship"
+        },
+        {
+            "stt": 42,
+            "id": "Mo_Fa_nodaisu",
+            "name": "魔法のダイス",
+            "image": "A-Magical-Roll-II.png",
+            "description": "3個のダイスを振る。その合計に応じて報酬を獲得する。"
+        },
+        {
+            "stt": 43,
+            "id": "3noJun_Tuan_",
+            "name": "3の軍団",
+            "image": "LegionofThrees_II.png",
+            "description": "ランダムな紋章を1個獲得する。味方のコスト3チャンピオプションンと紋章アイテムを装備したすべての味方の体力が150、攻撃速度が12%増加する。\n\n2021 Reckoning Championship"
+        },
+        {
+            "stt": 44,
+            "id": "arcane_bikutari-",
+            "name": "Arcane ビクタリー",
+            "image": "ArcaneViktory_II.png",
+            "description": "戦闘開始から8秒後、敵チームを1.5秒間スタンさせる。戦闘開始から18秒後にこれを繰り返す。\n\n2024 TFT Macao Open"
+        },
+        {
+            "stt": 45,
+            "id": "u.r.f.",
+            "name": "U.R.F.",
+            "image": "UltraRapidFire_II.png",
+            "description": "「へら」を1個獲得する。「へら」または「フライパン」アイテムを装備しているチャンピオンの攻撃速度が20%、マナ自動回復が3増加する。"
+        },
+        {
+            "stt": 46,
+            "id": "aitemuChou_Chu_",
+            "name": "アイテム抽出",
+            "image": "tier-gold.png",
+            "description": "「ブラックソーン」のマスでチャンピオンを生贄にしたとき、最初の3回まではそのチャンピオンが装備している素材アイテムのコピーをランダムで1つ獲得する。ベイガーとレク＝サイを1体ずつ獲得する。"
+        },
+        {
+            "stt": 47,
+            "id": "gurasukiyanon_ii",
+            "name": "グラスキャノン II",
+            "image": "GlassCannon_II.png",
+            "description": "後列で戦闘を開始した味方が80%の体力で戦闘を開始するが、ダメージ増加効果を25%獲得する。"
+        },
+        {
+            "stt": 48,
+            "id": "saibaneteitsuku_inpuranto",
+            "name": "サイバネティック インプラント",
+            "image": "Cybernetic2.png",
+            "description": "アイテムを装備した味方チャンピオンの体力が100、攻撃力が15%増加する。「B.F.ソード」を1個獲得する。"
+        },
+        {
+            "stt": 49,
+            "id": "sute-tasumashimashi",
+            "name": "ステータスマシマシ",
+            "image": "Tons-of-Stats-II.png",
+            "description": "味方チームの体力が44、攻撃力が4%、魔力が4%、物理防御が4、魔法防御が4、攻撃速度が4%、マナが4増加する。"
+        },
+        {
+            "stt": 50,
+            "id": "tore-dosekuta-",
+            "name": "トレードセクター",
+            "image": "Trade2.png",
+            "description": "毎ラウンド、ショップの無料リロール1回分を獲得する。2ゴールドを獲得する。"
+        },
+        {
+            "stt": 51,
+            "id": "tore-dosekuta-+",
+            "name": "トレードセクター+",
+            "image": "Trade2.png",
+            "description": "毎ラウンド、ショップの無料リロール1回分を獲得する。8ゴールドを獲得する。"
+        },
+        {
+            "stt": 52,
+            "id": "hi-ringuo-bu_ii",
+            "name": "ヒーリングオーブ II",
+            "image": "Healing-Orbs-II.png",
+            "description": "敵が倒されると、近くにいる味方1体の体力が575回復する。"
+        },
+        {
+            "stt": 53,
+            "id": "bodei-ga-donoXun_Lian_",
+            "name": "ボディーガードの訓練",
+            "image": "BodyguardsTraining_II.png",
+            "description": "味方の物理防御と魔法防御が15増加し、プレイヤーレベル1ごとに2ずつ増加する。\n\n2022 Gizmos & Gadgets Championship"
+        },
+        {
+            "stt": 54,
+            "id": "matsukusubirudo",
+            "name": "マックスビルド",
+            "image": "MaxBuild_II.png",
+            "description": "10回分のショップ無料リロールを獲得する。レベル9に到達すると、3回分のショップ無料リロールとチャンピオン複製器を1個獲得する。\n\n2020 Galaxies Championship"
+        },
+        {
+            "stt": 55,
+            "id": "ridenpushiyonnoHun_",
+            "name": "リデンプションの魂",
+            "image": "SpiritofRedemption_II.png",
+            "description": "「スピリット ビサージュ」を1個獲得する。5秒ごとに、「スピリット ビサージュ」が1マス以内の味方を、減少体力の7.5%回復する。"
+        },
+        {
+            "stt": 56,
+            "id": "Luan_reruSi_Kao_",
+            "name": "乱れる思考",
+            "image": "Dizzy-II.png",
+            "description": "即座にコスト1のチャンピオンを4体獲得する。対人戦ラウンド終了時にベンチが満員の場合、3XPの経験値を獲得する。"
+        },
+        {
+            "stt": 57,
+            "id": "Zhi_Qie_riShang_Shou_",
+            "name": "値切り上手",
+            "image": "HardBargain_II.png",
+            "description": "ドラフトの報酬を選択できなくなる。ドラフトラウンドごとに、プレイヤー体力が6増加し、8ゴールドを獲得する。\nドラフト報酬を選択しなかった場合、ピックされなかったチャンピオンとそれが所有するアイテムを獲得する"
+        },
+        {
+            "stt": 58,
+            "id": "Nei_naruSwu_",
+            "name": "内なる獣",
+            "image": "tier-gold.png",
+            "description": "「プライマル」がもう1つ「祝福」を付与する。今すぐヴァイを1体獲得し、3ラウンド後にニダリーを1体獲得する。"
+        },
+        {
+            "stt": 59,
+            "id": "Qian_Wei_noChu_",
+            "name": "前衛の礎",
+            "image": "FrontlineFoundation_II.png",
+            "description": "★2のコスト1タンクチャンピオン1体と、そのチャンピオンのクラスに対応する「紋章」を1個獲得する。"
+        },
+        {
+            "stt": 60,
+            "id": "Kou_kitsuke",
+            "name": "叩きつけ",
+            "image": "Slammin_II.png",
+            "description": "3ゴールドを獲得する。対人戦ラウンドが終了するたび、ベンチに消費アイテム以外のアイテムがなければ、2XPの経験値を獲得する。"
+        },
+        {
+            "stt": 61,
+            "id": "Chui_Zhi_Xing__ii",
+            "name": "垂直性 II",
+            "image": "tier-gold.png",
+            "description": "チャンピオンは、同じ特性を共有する味方1体ごとに攻撃力が2%、魔力が2%、物理防御が2、魔法防御が2増加する。"
+        },
+        {
+            "stt": 62,
+            "id": "Guang_garuGen_",
+            "name": "広がる根",
+            "image": "SpreadingRoots_II.png",
+            "description": "ランダムな紋章2個と1ゴールドを獲得する。"
+        },
+        {
+            "stt": 63,
+            "id": "Bi_Hu_Zhe_noZhu_Fu_",
+            "name": "庇護者の祝福",
+            "image": "Caretaker_s-Chosen-II.png",
+            "description": "レベル5、6、7、8に到達した際に「素材アイテムの金床」を1個獲得する。\n\n「素材アイテムの金床」を使うと4つのアイテムから1つ選ぶことができる。"
+        },
+        {
+            "stt": 64,
+            "id": "Hou_Wei_noShe_Ji_Tu_",
+            "name": "後衛の設計図",
+            "image": "BacklineBlueprint_II.png",
+            "description": "タンク以外のコスト3チャンピオン1体と、そのチャンピオンのクラスに対応する「紋章」を1個獲得する。"
+        },
+        {
+            "stt": 65,
+            "id": "Zao_Qi_Jiao_Yu_",
+            "name": "早期教育",
+            "image": "EarlyLearning_II.png",
+            "description": "味方チームの攻撃力と魔力が5%増加する。この効果は各対人戦終了後に1%増加する。コスト1のチャンピオンは2倍の効果を得る。"
+        },
+        {
+            "stt": 66,
+            "id": "Shi_Jian_sukitsupu",
+            "name": "時間スキップ",
+            "image": "TimeSkip_II.png",
+            "description": "次の3ラウンドの間、自分のショップが無効になる。32 XPを獲得する。"
+        },
+        {
+            "stt": 67,
+            "id": "Ji_Da_Hua_",
+            "name": "極大化",
+            "image": "tier-gold.png",
+            "description": "「フェイ」の妖精が大きくなり、攻撃力と魔力が50%増加する。「フェイ」チャンピオンの攻撃力と魔力が即座に10%増加する。ザヤとラカンを1体ずつ獲得する。"
+        },
+        {
+            "stt": 68,
+            "id": "Fang_gareshiMo_Fa_",
+            "name": "紡がれし魔法",
+            "image": "WovenMagic_III.png",
+            "description": "ランダムな素材アイテムを1個獲得する。味方チャンピオンが2200マナを消費するごとに、追加の素材アイテムを獲得する(最大: 0/3)。"
+        },
+        {
+            "stt": 69,
+            "id": "Xie_E_naShou_Yi_Hua_",
+            "name": "邪悪な収益化",
+            "image": "MirroredMonetization_II.png",
+            "description": "4ゴールドを獲得する。次の2ラウンドの間、敵チャンピオンが倒された際に2ゴールドをドロップする。"
+        },
+        {
+            "stt": 70,
+            "id": "Jin_niJi_eshiZhe_",
+            "name": "金に飢えし者",
+            "image": "MoneyHungry1_II.png",
+            "description": "即座に7ゴールドを獲得し、その後は各ステージ開始時に7ゴールドを獲得する。ゴールドを拾うとタクティシャンが大きくなる。"
+        },
+        {
+            "stt": 71,
+            "id": "epitsukunaro-rudaun",
+            "name": "エピックなロールダウン",
+            "image": "EpicRolldown_II.png",
+            "description": "レベル8に到達すると、ショップの無料リロールを20回獲得する。\n\n2023 Runeterra Reforged Championship"
+        },
+        {
+            "stt": 72,
+            "id": "epotsuku",
+            "name": "エポック",
+            "image": "Epoch_II.png",
+            "description": "このオーグメント獲得時、および各ステージ開始時に4XPの経験値を獲得する。また、2回分の無料リロールを獲得する。"
+        },
+        {
+            "stt": 73,
+            "id": "epotsuku+",
+            "name": "エポック+",
+            "image": "Epoch_II.png",
+            "description": "このオーグメント獲得時、および各ステージ開始時に8XPの経験値を獲得する。また、2回分の無料リロールを獲得する。"
+        },
+        {
+            "stt": 74,
+            "id": "kiyapitarugein_ii",
+            "name": "キャピタルゲイン II",
+            "image": "tier-gold.png",
+            "description": "獲得した利子に等しいゴールドを蓄える。3-3で、獲得した利子の125%に等しいゴールドを蓄える。即座に1ゴールドを獲得する。"
+        },
+        {
+            "stt": 75,
+            "id": "go-rudonoYun_Ming_+",
+            "name": "ゴールドの運命+",
+            "image": "GoldenDestiny_II.png",
+            "description": "ランダムなゴールドオーグメントを1個と6ゴールドを獲得する。"
+        },
+        {
+            "stt": 76,
+            "id": "hasura-",
+            "name": "ハスラー",
+            "image": "Hyperroll2.png",
+            "description": "利子を獲得できなくなる代わりに、対人戦ラウンドの開始時に毎回3ゴールドを獲得する。即座に3ゴールドを獲得する。\n\n利子とは10ゴールド残しておくごとに獲得できる追加のゴールドのこと。"
+        },
+        {
+            "stt": 77,
+            "id": "bu-suta-patsuku+",
+            "name": "ブースターパック+",
+            "image": "BoosterPack1_II.png",
+            "description": "ランダムなチャンピオンを合計18ゴールド分獲得する。(コスト4が1体以上確定！)"
+        },
+        {
+            "stt": 78,
+            "id": "bo-nasugihuto",
+            "name": "ボーナスギフト",
+            "image": "tier-gold.png",
+            "description": "戦利品オーブを開けるたびに、25%の確率でグレーの戦利品オーブを1個獲得する。グレーの戦利品オーブを2個獲得する。"
+        },
+        {
+            "stt": 79,
+            "id": "bo-nasugihuto+",
+            "name": "ボーナスギフト+",
+            "image": "tier-gold.png",
+            "description": "戦利品オーブを開けるたびに、25%の確率でグレーの戦利品オーブを1個獲得する。グレーの戦利品オーブを3個獲得する。"
+        },
+        {
+            "stt": 80,
+            "id": "minnadehagu_ii",
+            "name": "みんなでハグ II",
+            "image": "GroupHug2_II.png",
+            "description": "戦闘開始時: チャンピオンは隣接するチャンピオン(自身を除く)に9の物理防御と魔法防御を付与する。この効果はスタックする。"
+        },
+        {
+            "stt": 81,
+            "id": "reitoge-mu_suke-ringu",
+            "name": "レイトゲーム スケーリング",
+            "image": "LateGameScaling_II.png",
+            "description": "対人戦ラウンド開始時に、2 XPの経験値を獲得する。味方のコスト5チャンピオンの体力が12%、攻撃速度が12%増加する。\n\n2025 Cyber City Tactician's Crown"
+        },
+        {
+            "stt": 82,
+            "id": "Zhu_Ren_Gong_Bu_Zheng_",
+            "name": "主人公補正",
+            "image": "PlotArmor_II.png",
+            "description": "味方チームの物理防御と魔法防御が8増加する。自身の体力が50%未満になると、戦闘終了まで、これが40に増加する。"
+        },
+        {
+            "stt": 83,
+            "id": "Zhen_Cha_nashi,_Bian_Geng_nashi",
+            "name": "偵察なし、変更なし",
+            "image": "NoScoutNoPivot_II.png",
+            "description": "対人戦に参加するチャンピオンはベンチに戻すことも、売却することもできない。対人戦後、味方チームの体力が1%、攻撃力と魔力が1%増加する。"
+        },
+        {
+            "stt": 84,
+            "id": "Kou_kitsuke+",
+            "name": "叩きつけ+",
+            "image": "Slammin_II.png",
+            "description": "4ゴールドと10XPを獲得する。対人戦ラウンドが終了するたび、ベンチに消費アイテム以外のアイテムがなければ、2XPの経験値を獲得する。"
+        },
+        {
+            "stt": 85,
+            "id": "Hui_Shou_Xiang_+",
+            "name": "回収箱+",
+            "image": "Salvage2.png",
+            "description": "即座にランダムな完成アイテムを1個獲得する。また、対人戦を4回終えると、素材アイテムを1個獲得する。チャンピオンを売却すると、完成アイテムが素材に解体される(タクティシャンアイテムと紋章は除く)。"
+        },
+        {
+            "stt": 86,
+            "id": "Tai_Yang_toYue_+",
+            "name": "太陽と月+",
+            "image": "tier-gold.png",
+            "description": "配置した種類の異なる「ソーラー」のチャンピオン1体ごとに、「ルナー」のチャンピオンの体力が100増加し、8%のダメージ増加効果を獲得する。レオナ、ケイル、アフェリオスを1体ずつ獲得する。"
+        },
+        {
+            "stt": 87,
+            "id": "Tai_Yang_noJia_Hu_toGong_ni",
+            "name": "太陽の加護と共に",
+            "image": "tier-gold.png",
+            "description": "レオナ、ケイル、セジュアニを1体ずつ獲得する。レオナが毎ラウンド60の最大体力を恒久的に獲得する。この効果は配置した種類の異なる★3のチャンピオン1体につき10増加する。"
+        },
+        {
+            "stt": 88,
+            "id": "Qiang_Zhi_Si_Pei_",
+            "name": "強制四配",
+            "image": "tier-gold.png",
+            "description": "ランダムなコスト4のチャンピオンを1体獲得する。そのチャンピオンが装備しているアイテム1個につき、味方チームの体力が120増加する。"
+        },
+        {
+            "stt": 89,
+            "id": "Dai_tsuJia_Zhi_ari",
+            "name": "待つ価値あり",
+            "image": "WorthTheWait_II.png",
+            "description": "ランダムなコスト1のチャンピオンを1体獲得する。試合終了まで各ラウンドの開始時にそのユニットのコピーを1体得る。"
+        },
+        {
+            "stt": 90,
+            "id": "Tou_Zi_Zhan_Lue__i",
+            "name": "投資戦略 I",
+            "image": "InvestmentStrategy_II.png",
+            "description": "獲得した利子1ゴールドにつき、味方チャンピオンの最大体力が8恒久的に増加する。即座に4ゴールドを獲得する。"
+        },
+        {
+            "stt": 91,
+            "id": "Liao_Li_Guo_",
+            "name": "料理鍋",
+            "image": "CookingPot_II.png",
+            "description": "各ラウンド開始時に、「フライパン」か「へら」アイテムを装備したすべての味方が最も近くにいるチャンピオンの体力を恒久的に60増加させる。「フライパン」を1個獲得する。"
+        },
+        {
+            "stt": 92,
+            "id": "Ming_Jing_Zhi_Shui_",
+            "name": "明鏡止水",
+            "image": "ClearMind2.png",
+            "description": "対人戦ラウンド終了時、ベンチにチャンピオンがいない場合は経験値を3獲得する。"
+        },
+        {
+            "stt": 93,
+            "id": "Shi_Ji_Shi_Gua_kenoJia_Su_Zhuang_Zhi_",
+            "name": "時計仕掛けの加速装置",
+            "image": "ClockworkAccelerator_II.png",
+            "description": "戦闘中3秒ごとに味方チームの攻撃速度が10%増加する。"
+        },
+        {
+            "stt": 94,
+            "id": "Bao_Fa_De_Cheng_Chang_+",
+            "name": "爆発的成長+",
+            "image": "ExplosiveGrowth_II.png",
+            "description": "即座に、および次の3ラウンドに渡って、ラウンド開始時に10XPの経験値を獲得する。"
+        },
+        {
+            "stt": 95,
+            "id": "Que_Yue_saretaShou_Hu_",
+            "name": "確約された守護",
+            "image": "PromisedProtection_II.png",
+            "description": "「プロテクターの誓い」を1個獲得する。「プロテクターの誓い」の装備者は、あらゆるソースから獲得するマナが20%、最大体力が200増加する。"
+        },
+        {
+            "stt": 96,
+            "id": "Qie_Dao_",
+            "name": "窃盗",
+            "image": "Pilfer_II.png",
+            "description": "毎ラウンド、前回の戦闘で最初に倒したチャンピオンの★1コピーを獲得する。この方法で獲得したチャンピオンの総価値が最初に21ゴールドに到達した際に、「盗賊のグローブ」1個を獲得する。"
+        },
+        {
+            "stt": 97,
+            "id": "Jin_niJi_eshiZhe_+",
+            "name": "金に飢えし者+",
+            "image": "MoneyHungry2_II.png",
+            "description": "即座に10ゴールドを獲得し、その後は各ステージ開始時に7ゴールドを獲得する。ゴールドを拾うとタクティシャンが大きくなる。"
+        },
+        {
+            "stt": 98,
+            "id": "Jin_pikanoGang_",
+            "name": "金ピカの鋼",
+            "image": "GildedSteel_II.png",
+            "description": "コスト5のチャンピオンを2体獲得する。コスト5のチャンピオンを1体以上配置すると、コスト1～4のチャンピオンが8%の耐久力を獲得する。\n\n2025 K.O. コロシアム: Tactician's Crown"
+        },
+        {
+            "stt": 99,
+            "id": "Gang_noXin_",
+            "name": "鋼の心",
+            "image": "HealthyGains_II.png",
+            "description": "「揺るがぬ心」を1個獲得する。戦闘で装備者が10秒生存するごとに、「揺るがぬ心」が最大体力を恒久的に16追加で獲得する。"
+        },
+        {
+            "stt": 100,
+            "id": "uo-pasu",
+            "name": "ウォーパス",
+            "image": "Warpath_II.png",
+            "description": "★2のコスト2チャンピオンを1体獲得する。プレイヤーに80ダメージを与えると、高コストのチャンピオンとアイテムが入ったチェストを1個獲得する。"
+        },
+        {
+            "stt": 101,
+            "id": "Tian_Ran_shieruta-",
+            "name": "天然シェルター",
+            "image": "tier-gold.png",
+            "description": "戦闘開始時に「エルダーウッド」の植物に隣接しているチャンピオンは、攻撃速度が15%増加し、2秒ごとに自身の最大体力の2%を回復する。アリスター、オーン、ザヤを1体ずつ獲得する。"
+        },
+        {
+            "stt": 102,
+            "id": "Sheng_Ya_buronzu_i",
+            "name": "生涯ブロンズ I",
+            "image": "BronzeForLife_II.png",
+            "description": "ブロンズティアの特性1つごとに、味方チームが2.5%のダメージ増加効果を獲得する。"
+        },
+        {
+            "stt": 103,
+            "id": "An_noYi_Shi_",
+            "name": "闇の儀式",
+            "image": "tier-gold.png",
+            "description": "「魔女」エッセンスを報酬に変換すると、「魔女」チャンピオンが戦利品の代わりに魔力を獲得する。カミール、エリス、ケイトリンを1体ずつ獲得する。"
+        },
+        {
+            "stt": 104,
+            "id": "Mo_Nu_noCong_Zhe_",
+            "name": "魔女の従者",
+            "image": "tier-gold.png",
+            "description": "「魔女」のエッセンスを集め続けることを選択すると、タクティシャンの体力を2回復する。カミール、エリス、ケイトリンを1体ずつ獲得する。"
+        },
+        {
+            "stt": 105,
+            "id": "Huang_Jin_noLong_",
+            "name": "黄金の龍",
+            "image": "TheGoldenDragon_II.png",
+            "description": "「モーグル メイル」を1個獲得する。「モーグル メイル」を装備しているチャンピオンはチームスロットを1つ多く使用するが、体力が700、耐久力が20%増加する。\n\n「モーグル メイル」はゴールドと戦闘力を付与する。\n2022 Dragonlands Championship"
+        }
+    ],
+    "3": [
+        {
+            "stt": 1,
+            "id": "baronnoChao_",
+            "name": "バロンの巣",
+            "image": "TheBaronsLair_III.png",
+            "description": "ランダムなタンクアイテムを1個獲得する。戦闘開始後8秒経過時点から戦闘終了まで、味方チームの攻撃力と魔力が毎秒5%増加する。\n\n2025 TFT Paris Open"
+        },
+        {
+            "stt": 2,
+            "id": "redeiantonoYi_Wu_",
+            "name": "レディアントの遺物",
+            "image": "RadiantRelic-III.png",
+            "description": "5個のレディアントアイテムの中から1個を選択する。「磁力式除去装置」を1個獲得する。"
+        },
+        {
+            "stt": 3,
+            "id": "Zhong_Jian_woZuo_rou",
+            "name": "仲間を作ろう",
+            "image": "ConstructaCompanion_III.png",
+            "description": "ランダムな★3のコスト1チャンピオンを1体獲得する。6ゴールドを獲得する。"
+        },
+        {
+            "stt": 4,
+            "id": "Hun_Dun_henoHu_biSheng_",
+            "name": "混沌への呼び声",
+            "image": "CallToChaos_III.png",
+            "description": "強力でランダムな報酬を1種類獲得する。"
+        },
+        {
+            "stt": 5,
+            "id": "koma-su_koa",
+            "name": "コマース コア",
+            "image": "Trade3.png",
+            "description": "ショップの無料のリロールを即座に16回分獲得し、さらに試合終了まで毎ラウンド3回分獲得する。"
+        },
+        {
+            "stt": 6,
+            "id": "ziyaianto&maitei",
+            "name": "ジャイアント&マイティ",
+            "image": "GiantandMighty_III.png",
+            "description": "味方チームが大きくなり、体力が200、最大体力が10%増加する。"
+        },
+        {
+            "stt": 7,
+            "id": "ziyueru_ro-tasu_ii",
+            "name": "ジュエル ロータス II",
+            "image": "Jeweled-Lotus-III.png",
+            "description": "味方チームのクリティカル率が25%、クリティカルダメージが10%増加し、正確無比を獲得する。\n\n正確無比: スキルはクリティカル判定を持つ。「正確無比」を追加で獲得すると、クリティカルダメージが10%増加する。"
+        },
+        {
+            "stt": 8,
+            "id": "sourunoMu_Jue_me",
+            "name": "ソウルの目覚め",
+            "image": "AwakenedSoul_III.png",
+            "description": "戦闘開始時: 味方チームの攻撃力と魔力が10秒間、毎秒1.5%増加する。最大スタックになると、12%の追加確定ダメージを与える。"
+        },
+        {
+            "stt": 9,
+            "id": "pandoranoaitemu_iii",
+            "name": "パンドラのアイテム III",
+            "image": "Pandora3.png",
+            "description": "ラウンド開始時: ベンチのアイテムがランダムに変更される。\n\nレディアントアイテムを1個獲得する。"
+        },
+        {
+            "stt": 10,
+            "id": "purizumuchiketsuto",
+            "name": "プリズムチケット",
+            "image": "GoldenTicket3.png",
+            "description": "ショップをリロールするたびに、45%の確率で無料リロール1回分を獲得する。"
+        },
+        {
+            "stt": 11,
+            "id": "purizumunoYun_Ming_+",
+            "name": "プリズムの運命+",
+            "image": "PrismaticDestiny_III.png",
+            "description": "ランダムなプリズムオーグメントを1個と10ゴールドを獲得する。"
+        },
+        {
+            "stt": 12,
+            "id": "minimatsukusu",
+            "name": "ミニマックス",
+            "image": "MinMax_III.png",
+            "description": "「黄金のアイテム除去装置」を1個と、ランダムな素材アイテムを4個獲得する。"
+        },
+        {
+            "stt": 13,
+            "id": "motsutoBu_ikiyatsupu",
+            "name": "もっと怖いキャップ",
+            "image": "DeadlierCaps_II.png",
+            "description": "「ラバドン デスキャップ」を1個獲得する。「ラバドン デスキャップ」の装備者は、キルまたはアシストを獲得するたびに、1のマナ自動回復が付与され、恒久的に1%の魔力を獲得する。"
+        },
+        {
+            "stt": 14,
+            "id": "ratsuki-guro-bu",
+            "name": "ラッキーグローブ",
+            "image": "Lucky-Gloves-III.png",
+            "description": "「盗賊のグローブ」が毎回、そのチャンピオンにとって理想的なアイテムを付与するようになる。「スパーリング グローブ」を2個と4ゴールドを獲得する。"
+        },
+        {
+            "stt": 15,
+            "id": "wando_o-ba-huro-",
+            "name": "ワンド オーバーフロー",
+            "image": "WandOverflow_III.png",
+            "description": "「ムダニ デカイ ロッド」を4個獲得する。自分の「ムダニ デカイ ロッド」が付与する攻撃速度が5%増加する。"
+        },
+        {
+            "stt": 16,
+            "id": "Ru_reZi_noJin_Chuang_+",
+            "name": "入れ子の金床+",
+            "image": "tier-prism.png",
+            "description": "「アーティファクトの金床」を1個獲得する。開けた後、「素材アイテムの金床」を1個獲得する。開けた後、12ゴールドを獲得する。"
+        },
+        {
+            "stt": 17,
+            "id": "Chui_Zhi_Xing__iii",
+            "name": "垂直性 III",
+            "image": "tier-prism.png",
+            "description": "チャンピオンは、同じ特性を共有する味方1体ごとに攻撃力が3.5%、魔力が3.5%、物理防御が3.5、魔法防御が3.5増加する。"
+        },
+        {
+            "stt": 18,
+            "id": "Mai_moretaBao_Wu__iii",
+            "name": "埋もれた宝物 III",
+            "image": "Buried-Treasures-III.png",
+            "description": "即座にランダムな素材アイテムを1個獲得し、次の5ラウンド開始時にも、それぞれ1個ずつ獲得する。"
+        },
+        {
+            "stt": 19,
+            "id": "Bao_Fu_",
+            "name": "報復",
+            "image": "Retribution_III.png",
+            "description": "「ハンド オブ ジャスティス」を2個獲得する。「ハンド オブ ジャスティス」を装備した味方は正確無比を獲得し、クリティカル率が25%増加する。\n\n正確無比: スキルはクリティカル判定を持つ。「正確無比」を追加で獲得すると、クリティカルダメージが10%増加する。"
+        },
+        {
+            "stt": 20,
+            "id": "Dai_tsuJia_Zhi_ari_ii",
+            "name": "待つ価値あり II",
+            "image": "WorthTheWait_III.png",
+            "description": "ランダムなコスト2のチャンピオンを2体獲得する。試合終了まで各ラウンドの開始時にそのユニットのコピーを1体得る。"
+        },
+        {
+            "stt": 21,
+            "id": "Dai_Guan_Shi_",
+            "name": "戴冠式",
+            "image": "Coronation_III.png",
+            "description": "「タクティシャンの王冠」を1個獲得する。タクティシャンの王冠、ケープ、盾が装備者の攻撃速度を20%、攻撃力を25%、魔力を30%増加させる。"
+        },
+        {
+            "stt": 22,
+            "id": "Tou_Zi_Wan_Liao_++",
+            "name": "投資完了++",
+            "image": "Invested-III.png",
+            "description": "45ゴールドを獲得する。各ラウンドの開始時、50ゴールドを超えるゴールド量が10ゴールドごとにショップのリロールを1回獲得する(最大80ゴールドまで)。"
+        },
+        {
+            "stt": 23,
+            "id": "Huang_Jin_noBo_Da_+",
+            "name": "黄金の博打+",
+            "image": "GoldenGamble_III.png",
+            "description": "3ゴールドを獲得してコインを投げる。表が出た場合、「レディアント 幸運のアイテムチェスト」を1個獲得する。裏が出た場合、「完成アイテムの金床」を2個獲得する。"
+        },
+        {
+            "stt": 24,
+            "id": "sute-tasumashimashi",
+            "name": "ステータスマシマシ",
+            "image": "Tons-of-Stats-II.png",
+            "description": "味方チームの体力が88、攻撃力が8%、魔力が8%、物理防御が8、魔法防御が8、攻撃速度が8%、マナが8増加する。"
+        },
+        {
+            "stt": 25,
+            "id": "so-do_o-ba-huro-",
+            "name": "ソード オーバーフロー",
+            "image": "BladeOverflow_III.png",
+            "description": "「B.F.ソード」を4個獲得する。味方の「B.F.ソード」が付与する攻撃速度が4%増加する。"
+        },
+        {
+            "stt": 26,
+            "id": "bahuga1tsu,_bahuga2tsu",
+            "name": "バフが1つ、バフが2つ",
+            "image": "OneBuffTwoBuff_III.png",
+            "description": "「レッドバフ」を1個、「ブルーバフ」を1個、「チャンピオン複製器」を1個獲得する。"
+        },
+        {
+            "stt": 27,
+            "id": "purizumunoYun_Ming_",
+            "name": "プリズムの運命",
+            "image": "PrismaticDestiny_III.png",
+            "description": "ランダムなプリズムオーグメントを1個と4ゴールドを獲得する。"
+        },
+        {
+            "stt": 28,
+            "id": "hetsuzihuando",
+            "name": "ヘッジファンド",
+            "image": "RichGetRicher3.png",
+            "description": "22ゴールドを獲得する。最大利子が10に増加する。"
+        },
+        {
+            "stt": 29,
+            "id": "beruto_o-ba-huro-",
+            "name": "ベルト オーバーフロー",
+            "image": "BeltOverflow_III.png",
+            "description": "「ジャイアント ベルト」を4個獲得する。「ジャイアント ベルト」を装備すると体力が85増加する。"
+        },
+        {
+            "stt": 30,
+            "id": "Ru_reZi_noJin_Chuang_",
+            "name": "入れ子の金床",
+            "image": "tier-prism.png",
+            "description": "「アーティファクトの金床」を1個獲得する。開けた後、「素材アイテムの金床」を1個獲得する。開けた後、8ゴールドを獲得する。"
+        },
+        {
+            "stt": 31,
+            "id": "Tou_Zi_Wan_Liao_+",
+            "name": "投資完了+",
+            "image": "Invested-III.png",
+            "description": "26ゴールドを獲得する。各ラウンドの開始時、50ゴールドを超えるゴールド量が10ゴールドごとにショップのリロールを1回獲得する(最大80ゴールドまで)。"
+        },
+        {
+            "stt": 32,
+            "id": "Te_Xing_noMu_",
+            "name": "特性の木",
+            "image": "TheTraitTree_III.png",
+            "description": "ランダムな紋章3個と2ゴールドを獲得する。"
+        },
+        {
+            "stt": 33,
+            "id": "Gan_ioyatsu",
+            "name": "甘いおやつ",
+            "image": "SweetTreats_III.png",
+            "description": "「アーティファクトの金床」を1個獲得する。味方チームは、チャンピオンに装備しているアイテム1個につき体力が16増加する。"
+        },
+        {
+            "stt": 34,
+            "id": "Huang_Jin_noBo_Da_++",
+            "name": "黄金の博打++",
+            "image": "GoldenGamble_III.png",
+            "description": "6ゴールドを獲得してコインを投げる。表が出た場合、「レディアント 幸運のアイテムチェスト」を1個獲得する。裏が出た場合、「完成アイテムの金床」を2個獲得する。"
+        },
+        {
+            "stt": 35,
+            "id": "a-hunoFu_Dai_",
+            "name": "アーフの福袋",
+            "image": "Urfs-Grab-Bag-III.png",
+            "description": "「へら」を1個、ランダムな素材アイテムを3個、5ゴールドを獲得する。"
+        },
+        {
+            "stt": 36,
+            "id": "itsudemoYi_Xu_",
+            "name": "いつでも一緒",
+            "image": "WeStickTogether_III.png",
+            "description": "ランダムな紋章を1個と、「完成アイテムの金床」を1個獲得する。その紋章と同じ特性を持っている味方の攻撃速度が30%増加する0 0\n\n2025 Into The Arcane Tactician's Crown"
+        },
+        {
+            "stt": 37,
+            "id": "shima-suke-runoetsusensu",
+            "name": "シマースケールのエッセンス",
+            "image": "ShimmerscaleEssence_III.png",
+            "description": "「モーグル メイル」を1個獲得する。対人戦を7回後に「ギャンブラーの剣」を1個獲得する。"
+        },
+        {
+            "stt": 38,
+            "id": "subetenoorizinnoDa_Ren_",
+            "name": "すべてのオリジンの達人",
+            "image": "tier-prism.png",
+            "description": "アーマリーを開いて、3個の特性の中から1つを選択する。その特性を持つラックスと「ショウジンの矛」を1個獲得する。\n\n自分のボードに配置されている特性がアーマリーに出現しやすくなる。ラックスは選択した特性に+2を付与する"
+        },
+        {
+            "stt": 39,
+            "id": "takuteishiyannoTai_Suo_",
+            "name": "タクティシャンの台所",
+            "image": "TacticiansKitchen_III.png",
+            "description": "ランダムな紋章を1個獲得する。3ラウンド終了後に「タクティシャンのケープ」を1個獲得する。"
+        },
+        {
+            "stt": 40,
+            "id": "detsudoria-_bure-do",
+            "name": "デッドリアー ブレード",
+            "image": "DeadlierBlades_II.png",
+            "description": "「デスブレード」を1個獲得する。装備者がキルまたはアシストを獲得するたび、「デスブレード」の攻撃力が恒久的に1%増加する。"
+        },
+        {
+            "stt": 41,
+            "id": "ratsuki-guro-bu+",
+            "name": "ラッキーグローブ+",
+            "image": "Lucky-Gloves-III.png",
+            "description": "「盗賊のグローブ」が毎回、そのチャンピオンにとって理想的なアイテムを付与するようになる。今すぐ「スパーリング グローブ」を2個獲得し、対人戦を4回行ったあとに、もう1個獲得する。"
+        },
+        {
+            "stt": 42,
+            "id": "reberuatsupu!",
+            "name": "レベルアップ！",
+            "image": "LevelUp3.png",
+            "description": "経験値を購入する際、追加で経験値を2XP獲得する。即座に6を獲得する。"
+        },
+        {
+            "stt": 43,
+            "id": "Shang_Fang_Yi_Dong_",
+            "name": "上方移動",
+            "image": "UpwardMobility_III.png",
+            "description": "経験値の購入コストが1低下する。レベルアップするたびに体力が2増加し、1回分の無料リロールを獲得する。"
+        },
+        {
+            "stt": 44,
+            "id": "Qian_Xian_Wei_Chi_",
+            "name": "前線維持",
+            "image": "HoldTheLine_III.png",
+            "description": "前列で戦闘を開始したチャンピオン1体ごとに、後列のチャンピオンの魔力が9%、攻撃力が8%増加する。"
+        },
+        {
+            "stt": 45,
+            "id": "Li_niDuan_erareshimono",
+            "name": "力に鍛えられしもの",
+            "image": "ForgedInStrength_III.png",
+            "description": "ランダムなアーティファクトを1個獲得する。体力が35を下回ると、追加でランダムなアーティファクトを1個、ランダムな完成アイテムを1個、ランダムな素材アイテムを2個獲得する。\n\n2023 TFT Remix Rumble Championship"
+        },
+        {
+            "stt": 46,
+            "id": "Tian_noZhu_Fu__iii",
+            "name": "天の祝福 III",
+            "image": "CelestialBlessing3.png",
+            "description": "味方チームのオムニヴァンプが25%増加する。余剰の回復量は最大1000までシールドに変換される。"
+        },
+        {
+            "stt": 47,
+            "id": "Bu_kuDuan_Ye_Chang_",
+            "name": "歩く鍛冶場",
+            "image": "Living-Forge-III.png",
+            "description": "「アーティファクトの金床」を即座に1個獲得し、その後は対人戦ラウンドを9回終えるたびに1個獲得する。"
+        },
+        {
+            "stt": 48,
+            "id": "Te_Xing_noMu_+",
+            "name": "特性の木+",
+            "image": "TheTraitTree_III.png",
+            "description": "ランダムな紋章3個、「再合成装置」1個と4ゴールドを獲得する。"
+        },
+        {
+            "stt": 49,
+            "id": "Sheng_Ya_buronzu_ii",
+            "name": "生涯ブロンズ II",
+            "image": "BronzeForLife_III.png",
+            "description": "ブロンズティアの特性1つごとに、味方チームが2.5%のダメージ増加効果、および4の物理防御と魔法防御を獲得する。"
+        },
+        {
+            "stt": 50,
+            "id": "Dao_Zei_Tuan__ii++",
+            "name": "盗賊団 II++",
+            "image": "BandThieves3.png",
+            "description": "「盗賊のグローブ」2個を獲得する。対人戦を3回行ったあとに、もう1個獲得する。"
+        },
+        {
+            "stt": 51,
+            "id": "Su_Cai_aitemukuesuto",
+            "name": "素材アイテムクエスト",
+            "image": "tier-prism.png",
+            "description": "ランダムな素材アイテムを1個と1ゴールドを獲得する。対人戦で勝利するたびに、異なるランダムな素材アイテムを1個獲得する（最大7回）。その後、5ゴールドを獲得する。"
+        },
+        {
+            "stt": 52,
+            "id": "Hao_Hua_nasabusuku",
+            "name": "豪華なサブスク",
+            "image": "LuxurySubscription_III.png",
+            "description": "コスト5のチャンピオンが1体と、★2のコスト1チャンピオンが1体と、3ゴールドが入ったパックを獲得する。\n\n次の2ステージの開始時に、そのパックを再び獲得する。"
+        },
+        {
+            "stt": 53,
+            "id": "Mai_iWu_San_Mei_",
+            "name": "買い物三昧",
+            "image": "Silver-ticket-III.png",
+            "description": "レベルアップした際、自身のレベル+1と同じ数の無料リロールを獲得する。6ゴールドを獲得する。"
+        },
+        {
+            "stt": 54,
+            "id": "Hui_kuE_Dang_",
+            "name": "輝く悪党",
+            "image": "Roll-the-Dice-III.png",
+            "description": "「レディアント 盗賊のグローブ」を1個獲得する。毎ラウンド、ランダムなレディアントアイテムを2つ装備する。"
+        },
+        {
+            "stt": 55,
+            "id": "Jin_notamago",
+            "name": "金のタマゴ",
+            "image": "The-Golden-Egg-III.png",
+            "description": "金のタマゴを1個獲得する。このタマゴは11ターン後に孵化して、大量の戦利品が産まれる。プレイヤーとの戦闘に勝利すると、孵化タイマーが追加で1ターン早まる。"
+        },
+        {
+            "stt": 56,
+            "id": "Jin_nomonsu-n",
+            "name": "金のモンスーン",
+            "image": "MoneyMonsoon_III.png",
+            "description": "即座に、そして残りの試合の毎ラウンド、7ゴールドを獲得する。"
+        },
+        {
+            "stt": 57,
+            "id": "Huang_Jin_noBo_Da_",
+            "name": "黄金の博打",
+            "image": "GoldenGamble_III.png",
+            "description": "2ゴールドを獲得してコインを投げる。表が出た場合、「レディアント 幸運のアイテムチェスト」を1個獲得する。裏が出た場合、「完成アイテムの金床」を2個獲得する。"
+        },
+        {
+            "stt": 58,
+            "id": "ka-sudonokuraun",
+            "name": "カースドのクラウン",
+            "image": "CursedCrown-III.png",
+            "description": "チームサイズの上限が2増加し、味方チームの耐久力が4%増加するが、対人戦に敗北した際に受けるダメージが上昇する。"
+        },
+        {
+            "stt": 59,
+            "id": "ba-sude-purezento",
+            "name": "バースデープレゼント",
+            "image": "Golden-Gifts-III.png",
+            "description": "レベルアップするたびに、★2のチャンピオン1体と1ゴールドを獲得する。プレイヤーのレベルから4を引いた値が、獲得できるチャンピオンのコストティアになる(上限: コスト5)。"
+        },
+        {
+            "stt": 60,
+            "id": "Tou_Zi_Zhan_Lue__ii",
+            "name": "投資戦略 II",
+            "image": "InvestmentStrategy_III.png",
+            "description": "獲得した利子1ゴールドにつき、味方チャンピオンの最大体力が8恒久的に増加する。最大利子が2増加する。即座に8ゴールドを獲得する。"
+        },
+        {
+            "stt": 61,
+            "id": "Te_Xing_rada-",
+            "name": "特性ラダー",
+            "image": "tier-prism.png",
+            "description": "ランダムな紋章を1個獲得する。プレイヤーとの戦闘で2種類の重複しない特性を発動させると、報酬を獲得する。その後、必要な特性の数と報酬の量が増加する。"
+        }
+    ]
 }

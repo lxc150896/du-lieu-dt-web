@@ -1,5 +1,1597 @@
 {
-    "1": [],
-    "2": [],
-    "3": []
+    "1": [
+        {
+            "stt": 1,
+            "id": "jageun_ggureomi",
+            "name": "작은 꾸러미",
+            "image": "SmallGrabBag_I.png",
+            "description": "무작위 조합 아이템 2개를 획득합니다."
+        },
+        {
+            "stt": 2,
+            "id": "pandorayi_daegiseog",
+            "name": "판도라의 대기석",
+            "image": "Pandoras-Bench-II.png",
+            "description": "라운드가 시작될 때마다 대기석 가장 오른쪽 3명의 챔피언이 동일한 단계의 무작위 챔피언으로 변신합니다. 4골드를 획득합니다."
+        },
+        {
+            "stt": 3,
+            "id": "pandorayi_aitem_i",
+            "name": "판도라의 아이템 I",
+            "image": "Pandora1.png",
+            "description": "라운드 시작: 대기석의 아이템이 무작위로 변합니다. \n\n무작위 조합 아이템 1개를 획득합니다."
+        },
+        {
+            "stt": 4,
+            "id": "ggeunggeunhan_ujeong",
+            "name": "끈끈한 우정",
+            "image": "Building-an-army-I.png",
+            "description": "하급 챔피언 복제기 1개를 획득합니다. 플레이어 대상 전투 5회 후 1개 더 획득합니다.\n\n3단계 이하의 챔피언을 복제할 수 있습니다."
+        },
+        {
+            "stt": 5,
+            "id": "da_sseul_dega_issdanigga_i",
+            "name": "다 쓸 데가 있다니까 I",
+            "image": "Good-For-Something-I.png",
+            "description": "아이템을 장착하지 않은 챔피언이 사망하면 40% 확률로 1골드를 떨어뜨립니다."
+        },
+        {
+            "stt": 6,
+            "id": "busig",
+            "name": "부식",
+            "image": "Corrosion_I.png",
+            "description": "전방 가로 2열에 있는 적의 방어력 및 마법 저항력이 2초마다 4 감소합니다."
+        },
+        {
+            "stt": 7,
+            "id": "bulwanjeonhan_coweol",
+            "name": "불완전한 초월",
+            "image": "Ascension1.png",
+            "description": "전투 시작 12초 후 아군 유닛이 피해 증폭을 20% 얻습니다."
+        },
+        {
+            "stt": 8,
+            "id": "saerogocimyi_nal",
+            "name": "새로고침의 날",
+            "image": "Rolling-For-Days-I.png",
+            "description": "무료 상점 새로고침을 10회 얻습니다."
+        },
+        {
+            "stt": 9,
+            "id": "suhojayi_cingu",
+            "name": "수호자의 친구",
+            "image": "Caretaker_s-Chosen-I.png",
+            "description": "즉시 무작위 2단계 챔피언 1명을 획득합니다. 레벨 업할 때마다 동일한 챔피언을 1명 획득합니다.\n\n챔피언: 0"
+        },
+        {
+            "stt": 10,
+            "id": "sidong_geolgi",
+            "name": "시동 걸기",
+            "image": "KickStart_I.png",
+            "description": "무작위 2단계 2성 챔피언 1명과 1골드를 획득합니다."
+        },
+        {
+            "stt": 11,
+            "id": "sinjunghan_jejag",
+            "name": "신중한 제작",
+            "image": "Long-time-Crafting-I.png",
+            "description": "플레이어 대상 전투 8회 후 유물 모루 1개를 획득합니다."
+        },
+        {
+            "stt": 12,
+            "id": "aitem_ggureomi_i",
+            "name": "아이템 꾸러미 I",
+            "image": "ItemGrabBag1.png",
+            "description": "무작위 완성 아이템 1개를 획득합니다."
+        },
+        {
+            "stt": 13,
+            "id": "yeongyeol_bulga",
+            "name": "연결 불가",
+            "image": "Missed-Connections-I.png",
+            "description": "1단계 챔피언의 복사본을 1명씩 획득합니다."
+        },
+        {
+            "stt": 14,
+            "id": "yebi_hwal",
+            "name": "예비 활",
+            "image": "RecurveWrecker_I.png",
+            "description": "곡궁 1개를 획득합니다. 아군 챔피언이 1000회 기본 공격한 후 2개 더 획득합니다."
+        },
+        {
+            "stt": 15,
+            "id": "yuri_daepo_i",
+            "name": "유리 대포 I",
+            "image": "GlassCannon_I.png",
+            "description": "후방 가로 1열에서 전투를 시작한 아군이 전투 시작 시 체력이 80%로 조정되지만 피해 증폭을 16% 얻습니다."
+        },
+        {
+            "stt": 16,
+            "id": "eunsujeo",
+            "name": "은수저",
+            "image": "Silver-Spoon-I.png",
+            "description": "경험치를 10 얻습니다."
+        },
+        {
+            "stt": 17,
+            "id": "jeongi_cungjeon_i",
+            "name": "전기 충전 I",
+            "image": "Electrocharge-I.png",
+            "description": "아군이 4번 공격당할 때마다 주변 적에게 30~90(현재 스테이지 비례)의 마법 피해를 입힙니다. (재사용 대기시간 1초)"
+        },
+        {
+            "stt": 18,
+            "id": "hwaryeog_jibjung",
+            "name": "화력 집중",
+            "image": "MarksMan_I.png",
+            "description": "아군이 공격력을 10% 얻습니다. 5초마다 5% 더 얻습니다."
+        },
+        {
+            "stt": 19,
+            "id": "godansu_i",
+            "name": "고단수 I",
+            "image": "tier-silver.png",
+            "description": "챔피언이 특성을 공유하는 아군 하나당 공격력을 1.5%, 주문력을 1.5%, 방어력을 1.5, 마법 저항력을 1.5 얻습니다."
+        },
+        {
+            "stt": 20,
+            "id": "gileul_naera",
+            "name": "길을 내라",
+            "image": "CarveAPath_I.png",
+            "description": "B.F. 대검 1개를 획득합니다. 아군 챔피언이 65000의 물리 피해를 입히면 2개 더 획득합니다."
+        },
+        {
+            "stt": 21,
+            "id": "dodug_muri",
+            "name": "도둑 무리",
+            "image": "BandThieves1.png",
+            "description": "도적의 장갑 1개를 획득합니다."
+        },
+        {
+            "stt": 22,
+            "id": "sagi_jusawi",
+            "name": "사기 주사위",
+            "image": "tier-silver.png",
+            "description": "주사위와 동전에 행운이 깃듭니다.\n\n주사위를 굴려 나온 숫자만큼 골드를 획득합니다. 이후 동전을 던져 앞면이 나오면 1골드를 획득합니다."
+        },
+        {
+            "stt": 23,
+            "id": "suhoryeong_hwangeub",
+            "name": "수호령 환급",
+            "image": "tier-silver.png",
+            "description": "수호령을 구매할 때마다 2골드를 획득합니다. 즉시 4골드를 획득합니다."
+        },
+        {
+            "stt": 24,
+            "id": "injise",
+            "name": "인지세",
+            "image": "CognitiveTax_I.png",
+            "description": "8골드를 획득하고 경험치를 1 얻습니다."
+        },
+        {
+            "stt": 25,
+            "id": "ilsangmul",
+            "name": "일상물",
+            "image": "Slice_of_Life_I.png",
+            "description": "스테이지당 두 번 무작위 챔피언 1명을 획득합니다. 스테이지마다 무작위 챔피언의 단계가 증가합니다. 이 효과는 5단계 챔피언 1명을 획득한 후 종료됩니다."
+        },
+        {
+            "stt": 26,
+            "id": "janryu_mabeob_+",
+            "name": "잔류 마법 +",
+            "image": "tier-silver.png",
+            "description": "아군이 체력을 75 얻습니다. 수호령을 구매할 때마다 이 효과가 10 증가합니다."
+        },
+        {
+            "stt": 27,
+            "id": "caempieon_baedal+",
+            "name": "챔피언 배달+",
+            "image": "tier-silver.png",
+            "description": "3단계 챔피언 3명을 획득합니다. 6라운드 후 3명 더 획득합니다."
+        },
+        {
+            "stt": 28,
+            "id": "ceonsangyi_cugbog_i",
+            "name": "천상의 축복 I",
+            "image": "CelestialBlessing1.png",
+            "description": "아군이 모든 피해 흡혈을 12% 얻습니다. 초과 회복량은 최대 200의 피해를 흡수하는 보호막으로 전환됩니다."
+        },
+        {
+            "stt": 29,
+            "id": "tab",
+            "name": "탑",
+            "image": "TheTower_I.png",
+            "description": "거대 훈련 봇을 획득합니다. 훈련 봇은 4초마다 가장 가까운 적 3명에게 전기 충격을 가해 최대 체력의 5%에 해당하는 고정 피해를 입힙니다."
+        },
+        {
+            "stt": 30,
+            "id": "hoebogyi_gu_i",
+            "name": "회복의 구 I",
+            "image": "Healing-Orbs-I.png",
+            "description": "적이 사망하면 주변 아군 1명이 체력을 250 회복합니다."
+        },
+        {
+            "stt": 31,
+            "id": "heureuneun_nunmul",
+            "name": "흐르는 눈물",
+            "image": "GriefoftheGreatGoddess_I.png",
+            "description": "여신의 눈물 1개를 획득합니다. 아군 챔피언이 마나를 6500 사용하면 2개 더 획득합니다."
+        },
+        {
+            "stt": 32,
+            "id": "gaji_bbeodgi",
+            "name": "가지 뻗기",
+            "image": "Branching-Out-I.png",
+            "description": "무작위 상징 1개를 획득합니다."
+        },
+        {
+            "stt": 33,
+            "id": "gaji_bbeodgi+",
+            "name": "가지 뻗기+",
+            "image": "Branching-Out-I.png",
+            "description": "무작위 상징과 재조합기를 획득합니다."
+        },
+        {
+            "stt": 34,
+            "id": "gugwangsihaeja",
+            "name": "국왕시해자",
+            "image": "Kingslayer_I.png",
+            "description": "플레이어 대상 전투 승리 후 1골드를 획득합니다. 상대 플레이어의 체력이 더 높았다면, 대신 6골드를 획득합니다. 1골드를 획득합니다."
+        },
+        {
+            "stt": 35,
+            "id": "dangyeoldoen_yiji",
+            "name": "단결된 의지",
+            "image": "StandUnited1.png",
+            "description": "아군 유닛이 고유 특성이 아닌 전체적으로 활성화된 특성 하나당 1.5%의 공격력과 1.5%의 주문력을 획득합니다."
+        },
+        {
+            "stt": 36,
+            "id": "dance_poong_i",
+            "name": "단체 포옹 I",
+            "image": "GroupHug1_I.png",
+            "description": "전투 시작: 챔피언이 다른 인접한 챔피언에게 방어력 및 마법 저항력을 6 부여합니다. 이 효과는 중첩됩니다."
+        },
+        {
+            "stt": 37,
+            "id": "daegyeogbyeon_saengseonggi",
+            "name": "대격변 생성기",
+            "image": "Recombobulator-I.png",
+            "description": "전장의 챔피언들이 1단계 더 높은 무작위 챔피언으로 영구히 바뀝니다. (최대 5단계) 자석 제거기 2개를 획득하고 무료 새로고침을 3회 얻습니다."
+        },
+        {
+            "stt": 38,
+            "id": "mirae_jibjung",
+            "name": "미래 집중",
+            "image": "tier-silver.png",
+            "description": "전략가 체력을 20 잃지만, 플레이어 대상 전투 5회 후 4단계 챔피언 3명과 8골드를 획득합니다."
+        },
+        {
+            "stt": 39,
+            "id": "bbareun_yeonseung_mic_yeonpae",
+            "name": "빠른 연승 및 연패",
+            "image": "tier-silver.png",
+            "description": "연승 및 연패 진행도를 두 배로 얻습니다. 2골드를 획득합니다."
+        },
+        {
+            "stt": 40,
+            "id": "yaggan_sinbihan_jusawi",
+            "name": "약간 신비한 주사위",
+            "image": "SlightlyMagicRoll_I.png",
+            "description": "주사위를 굴립니다. 결과에 따라 보상을 획득합니다."
+        },
+        {
+            "stt": 41,
+            "id": "yuyonghan_geumsog",
+            "name": "유용한 금속",
+            "image": "Iron-Assets-I.png",
+            "description": "조합 아이템 모루 1개와 3골드를 획득합니다."
+        },
+        {
+            "stt": 42,
+            "id": "eunbic_unmyeong",
+            "name": "은빛 운명",
+            "image": "SilverDestiny_I.png",
+            "description": "무작위 실버 증강 1개를 얻고 2골드를 획득합니다."
+        },
+        {
+            "stt": 43,
+            "id": "eunbic_unmyeong+",
+            "name": "은빛 운명+",
+            "image": "SilverDestiny_I.png",
+            "description": "무작위 실버 증강 1개를 얻고 4골드를 획득합니다."
+        },
+        {
+            "stt": 44,
+            "id": "eunbic_unmyeong++",
+            "name": "은빛 운명++",
+            "image": "SilverDestiny_I.png",
+            "description": "무작위 실버 증강 1개를 얻고 7골드를 획득합니다."
+        },
+        {
+            "stt": 45,
+            "id": "injise+",
+            "name": "인지세+",
+            "image": "CognitiveTax_I.png",
+            "description": "12골드를 획득하고 경험치를 3 얻습니다."
+        },
+        {
+            "stt": 46,
+            "id": "imsibyeontong_bangeogu_i",
+            "name": "임시변통 방어구 I",
+            "image": "Makeshift1.png",
+            "description": "아이템이 없는 챔피언이 방어력과 마법 저항력을 30 얻습니다."
+        },
+        {
+            "stt": 47,
+            "id": "jabon_iig_i",
+            "name": "자본 이익 I",
+            "image": "tier-silver.png",
+            "description": "획득하는 이자만큼 골드를 저장합니다. 3-3라운드에 저장된 골드의 100%를 획득합니다. 즉시 1골드를 획득합니다."
+        },
+        {
+            "stt": 48,
+            "id": "janryu_mabeob",
+            "name": "잔류 마법",
+            "image": "tier-silver.png",
+            "description": "아군이 체력을 60 얻습니다. 수호령을 구매할 때마다 이 효과가 10 증가합니다."
+        },
+        {
+            "stt": 49,
+            "id": "jeolmeum,_gwangran,_jayu",
+            "name": "젊음, 광란, 자유",
+            "image": "Young-and-wild-and-free-I.png",
+            "description": "공동 선택 라운드에서 언제나 자유롭게 움직일 수 있습니다. 5골드를 획득합니다."
+        },
+        {
+            "stt": 50,
+            "id": "jungsim_jabgi",
+            "name": "중심 잡기",
+            "image": "FindYourCenter_I.png",
+            "description": "전방 가로 1열 중앙에서 전투를 시작하는 아군 챔피언이 피해 증폭을 15%, 최대 체력을 25% 얻습니다."
+        },
+        {
+            "stt": 51,
+            "id": "jeunggangdoen_him",
+            "name": "증강된 힘",
+            "image": "PowerUp_I.png",
+            "description": "다음 증강이 한 등급 높아집니다."
+        },
+        {
+            "stt": 52,
+            "id": "camneun_jaege_bogeul",
+            "name": "참는 자에게 복을",
+            "image": "PatienceIsAVirtue_I.png",
+            "description": "즉시 새로고침을 4회 얻습니다. 라운드마다, 지난 라운드에서 챔피언을 구매하지 않았다면 무료 새로고침을 1회 얻습니다."
+        },
+        {
+            "stt": 53,
+            "id": "caempieon_baedal",
+            "name": "챔피언 배달",
+            "image": "tier-silver.png",
+            "description": "2단계 챔피언 3명을 획득합니다. 6라운드 후 3명 더 획득합니다."
+        },
+        {
+            "stt": 54,
+            "id": "caempieon_baedal++",
+            "name": "챔피언 배달++",
+            "image": "tier-silver.png",
+            "description": "4단계 챔피언 3명을 획득합니다. 6라운드 후 3명 더 획득합니다."
+        },
+        {
+            "stt": 55,
+            "id": "cuga_beokeul",
+            "name": "추가 버클",
+            "image": "ExtraBuckles_I.png",
+            "description": "거인의 허리띠 1개를 획득합니다. 아군 챔피언이 75000의 피해를 입으면 2개 더 획득합니다."
+        },
+        {
+            "stt": 56,
+            "id": "hana,_dul,_daseos!",
+            "name": "하나, 둘, 다섯!",
+            "image": "One-Two-Five-I.png",
+            "description": "무작위 조합 아이템 1개, 2골드, 무작위 5단계 챔피언 1명을 획득합니다."
+        },
+        {
+            "stt": 57,
+            "id": "hana,_dul,_ses",
+            "name": "하나, 둘, 셋",
+            "image": "tier-silver.png",
+            "description": "1단계 챔피언 2명, 2단계 챔피언 1명, 3단계 챔피언 1명을 획득합니다."
+        },
+        {
+            "stt": 58,
+            "id": "haengunyi_giun",
+            "name": "행운의 기운",
+            "image": "FeelingLucky_I.png",
+            "description": "12골드를 획득하고 동전을 던집니다. 앞면이 나오면 4골드를 추가로 획득합니다."
+        },
+        {
+            "stt": 59,
+            "id": "huban_jeonmunga",
+            "name": "후반 전문가",
+            "image": "Late-Game-Specialist-I.png",
+            "description": "9레벨에 도달하면 27골드를 획득합니다."
+        },
+        {
+            "stt": 60,
+            "id": "gyeolgwa_yeceug",
+            "name": "결과 예측",
+            "image": "CalledShot_I.png",
+            "description": "연승을 +4연승으로 설정합니다. 4골드를 획득합니다."
+        },
+        {
+            "stt": 61,
+            "id": "tamsa",
+            "name": "탐사",
+            "image": "Expedition_I.png",
+            "description": "라운드가 시작될 때마다 대기석 가장 오른쪽에 있는 챔피언을 잃습니다. 이 방식으로 33골드 가치에 해당하는 챔피언을 잃으면 강력한 보상을 획득합니다. 즉시 3단계 챔피언 1명을 획득합니다."
+        }
+    ],
+    "2": [
+        {
+            "stt": 1,
+            "id": "gowiceonsayi_jipangi",
+            "name": "고위천사의 지팡이",
+            "image": "SeraphimsStaff_II.png",
+            "description": "대천사의 지팡이 1개를 획득합니다. 장착 유닛의 주문력이 90% 이상일 경우 대천사의 지팡이가 마나 재생을 2 추가로 부여합니다."
+        },
+        {
+            "stt": 2,
+            "id": "na_honja_rebeleob",
+            "name": "나 혼자 레벨업",
+            "image": "SoloLeveling_II.png",
+            "description": "다음 전투 5회 동안 1의 팀 규모로 고정되지만, 배치하는 챔피언의 능력치가 크게 증가합니다. 해당 챔피언이 적을 처치할 때마다 경험치를 1 얻습니다. 이후 조합 아이템 2개를 획득합니다."
+        },
+        {
+            "stt": 3,
+            "id": "daecul_seonjigeub+",
+            "name": "대출 선지급+",
+            "image": "AdvancedLoan_II.png",
+            "description": "33골드를 획득합니다. 다음 증강이 한 등급 낮아집니다."
+        },
+        {
+            "stt": 4,
+            "id": "saibeonetig_tongsin",
+            "name": "사이버네틱 통신",
+            "image": "Cybernetic-Uplink-II.png",
+            "description": "아이템을 장착한 아군 챔피언이 체력을 100, 마나 재생을 2 얻습니다. 여신의 눈물 1개를 획득합니다."
+        },
+        {
+            "stt": 5,
+            "id": "yeongung_ggureomi++",
+            "name": "영웅 꾸러미++",
+            "image": "Heroic-Grab-Bag-II.png",
+            "description": "하급 챔피언 복제기 2개를 획득합니다. 14골드를 획득합니다."
+        },
+        {
+            "stt": 6,
+            "id": "i_mom_deungjang",
+            "name": "이 몸 등장",
+            "image": "tier-gold.png",
+            "description": "우측 하단 모서리에 스포트라이트 칸을 획득합니다. 해당 칸에 있는 챔피언은 피해 증폭을 15%, 공격 속도를 15% 얻고 처치 관여 5회마다 1골드를 떨어뜨립니다.\n\n2026 신화와 전설 전략가의 왕관"
+        },
+        {
+            "stt": 7,
+            "id": "jageun_teolmungci_cingu",
+            "name": "작은 털뭉치 친구",
+            "image": "tier-gold.png",
+            "description": "날렵이 활성화 시 35%의 위력을 지닌 두 번째 커다란 털뭉치 친구를 획득합니다. 티모, 베이가, 코부코를 획득합니다."
+        },
+        {
+            "stt": 8,
+            "id": "jeongi_cungjeon_ii",
+            "name": "전기 충전 II",
+            "image": "Electrocharge-II.png",
+            "description": "아군이 4번 공격당할 때마다 주변 적에게 50~140(현재 스테이지 비례)의 마법 피해를 입힙니다. (재사용 대기시간 1초)"
+        },
+        {
+            "stt": 9,
+            "id": "jonggyeolja_hyeobgogyasu",
+            "name": "종결자 협곡야수",
+            "image": "tier-gold.png",
+            "description": "이제 두 번째 우두머리 협곡야수를 선택할 수 있습니다. 바위 게, 불타는 묘목, 조약돌을 획득합니다."
+        },
+        {
+            "stt": 10,
+            "id": "coweol",
+            "name": "초월",
+            "image": "Ascension2.png",
+            "description": "전투 시작 12초 후 아군 유닛이 피해 증폭을 35% 얻습니다."
+        },
+        {
+            "stt": 11,
+            "id": "keun_ggureomi",
+            "name": "큰 꾸러미",
+            "image": "Grab-Bag-II.png",
+            "description": "무작위 조합 아이템 3개, 2골드, 재조합기 1개를 획득합니다."
+        },
+        {
+            "stt": 12,
+            "id": "teugbyeol_majcum_seoljeong",
+            "name": "특별 맞춤 설정",
+            "image": "ExclusiveCustomization_II.png",
+            "description": "행운의 아이템 상자, 자석 제거기, 7골드를 획득합니다."
+        },
+        {
+            "stt": 13,
+            "id": "pandorayi_aitem_ii",
+            "name": "판도라의 아이템 II",
+            "image": "Pandora2.png",
+            "description": "라운드 시작: 대기석의 아이템이 무작위로 변합니다. \n\n무작위 조합 아이템 2개를 획득합니다."
+        },
+        {
+            "stt": 14,
+            "id": "hyudaeyong_daejanggan",
+            "name": "휴대용 대장간",
+            "image": "PortableForge2.png",
+            "description": "유물 4개 중 1개를 선택합니다. 유물은 고유한 효과를 지닌 강력한 아이템입니다."
+        },
+        {
+            "stt": 15,
+            "id": "21goldeu_hoegdeug",
+            "name": "21골드 획득",
+            "image": "Windfall2.png",
+            "description": "21골드를 획득합니다."
+        },
+        {
+            "stt": 16,
+            "id": "2injo",
+            "name": "2인조",
+            "image": "DuoQueue_II.png",
+            "description": "무작위 5단계 2명과 무작위 조합 아이템 복사본 2개를 획득합니다."
+        },
+        {
+            "stt": 17,
+            "id": "geom_jejagja",
+            "name": "검 제작자",
+            "image": "Swordsmith_II.png",
+            "description": "B.F. 대검으로 제작되는 무작위 완성 아이템 2개를 획득합니다."
+        },
+        {
+            "stt": 18,
+            "id": "gyeongjaengeul_neomeoseo",
+            "name": "경쟁을 넘어서",
+            "image": "tier-gold.png",
+            "description": "렝가와 카직스를 페널티 없이 함께 배치할 수 있으며, 각자 스킬을 사용하면 서로에게 추가 효과를 제공합니다. 렝가와 카직스를 획득합니다."
+        },
+        {
+            "stt": 19,
+            "id": "godoghan_bangpae",
+            "name": "고독한 방패",
+            "image": "SoloPlate_II.png",
+            "description": "가고일 돌갑옷 1개를 획득합니다. 가고일 돌갑옷을 장착한 아군이 가로 열에 혼자 있는 상태로 전투를 시작할 경우 최대 체력을 17% 얻습니다."
+        },
+        {
+            "stt": 20,
+            "id": "geumbic_unmyeong",
+            "name": "금빛 운명",
+            "image": "GoldenDestiny_II.png",
+            "description": "무작위 골드 증강을 얻고 3골드를 획득합니다."
+        },
+        {
+            "stt": 21,
+            "id": "ggocyi_bureum",
+            "name": "꽃의 부름",
+            "image": "tier-gold.png",
+            "description": "수호령을 구매하면 해당 수호령의 비용에 따라 무작위 개화 챔피언을 획득합니다. 유나라, 요릭, 카르마를 획득합니다."
+        },
+        {
+            "stt": 22,
+            "id": "ggeunjilgin_yeongu",
+            "name": "끈질긴 연구",
+            "image": "Learning-From-Experience-II.png",
+            "description": "플레이어 전투가 끝나고 승리 시 2의 경험치, 패배 시 3의 경험치를 획득합니다."
+        },
+        {
+            "stt": 23,
+            "id": "naemyeonyi_yasu",
+            "name": "내면의 야수",
+            "image": "tier-gold.png",
+            "description": "원시가 추가 축복을 부여합니다.  즉시 바이를 획득하고 3라운드 후 시비르를 획득합니다."
+        },
+        {
+            "stt": 24,
+            "id": "mabeob_jusawi",
+            "name": "마법 주사위",
+            "image": "A-Magical-Roll-II.png",
+            "description": "주사위 3개를 굴립니다. 결과 총합에 따라 보상을 획득합니다."
+        },
+        {
+            "stt": 25,
+            "id": "muhanhan_boho",
+            "name": "무한한 보호",
+            "image": "InfinityProtection_II.png",
+            "description": "즉시 3골드를 획득합니다. 스테이지 3-7에서 무한한 삼위일체 1개를 획득합니다. 무한한 삼위일체가 같은 가로 열에 있는 아군에게 체력의 12%에 해당하는 보호막을 부여합니다.\n\n2023 괴물 습격! 챔피언십"
+        },
+        {
+            "stt": 26,
+            "id": "boseog_yeonggoc_i",
+            "name": "보석 연꽃 I",
+            "image": "Jeweled-Lotus-II.png",
+            "description": "아군이 치명타 확률 10%, 정밀을 얻습니다.\n\n정밀: 스킬 피해에 치명타가 적용될 수 있습니다. 추가 정밀 획득 시 치명타 피해량이 10% 증가합니다."
+        },
+        {
+            "stt": 27,
+            "id": "bogje",
+            "name": "복제",
+            "image": "Replication-II.png",
+            "description": "조합 아이템 3개 중 1개를 선택합니다. 다음 2라운드 동안, 해당 조합 아이템의 복사본을 1개씩 획득합니다."
+        },
+        {
+            "stt": 28,
+            "id": "buseuteo_paeg",
+            "name": "부스터 팩",
+            "image": "BoosterPack1_II.png",
+            "description": "총 12골드 가치의 무작위 챔피언을 획득합니다. (3단계 유닛 최소 1명 보장!)"
+        },
+        {
+            "stt": 29,
+            "id": "buseuteo_paeg++",
+            "name": "부스터 팩++",
+            "image": "BoosterPack1_II.png",
+            "description": "총 26골드 가치의 무작위 챔피언을 획득합니다. (5단계 유닛 최소 1명 보장!)"
+        },
+        {
+            "stt": 30,
+            "id": "bbeodeoganeun_bburi+",
+            "name": "뻗어가는 뿌리+",
+            "image": "SpreadingRoots_II.png",
+            "description": "무작위 상징 2개, 재조합기 1개, 2골드를 획득합니다."
+        },
+        {
+            "stt": 31,
+            "id": "saengil_moim",
+            "name": "생일 모임",
+            "image": "BirthdayReunion_II.png",
+            "description": "무작위 2단계 2성 챔피언 1명을 획득합니다. 6레벨에서 무작위 조합 아이템 1개를 획득합니다. 9레벨에서 무작위 5단계 2성 챔피언 1명을 획득합니다.\n\n2024 먹물 우화 전략가의 왕관"
+        },
+        {
+            "stt": 32,
+            "id": "silkeos_uleobwara",
+            "name": "실컷 울어봐라",
+            "image": "CryMeARiver_II.png",
+            "description": "여신의 눈물 1개를 획득합니다. 아군이 마나 재생을 1 얻습니다. 전투 시작 12초 후에는 마나 재생을 4만큼 얻습니다."
+        },
+        {
+            "stt": 33,
+            "id": "yeongung_ggureomi",
+            "name": "영웅 꾸러미",
+            "image": "Heroic-Grab-Bag-II.png",
+            "description": "하급 챔피언 복제기 2개를 획득합니다. 4골드를 획득합니다."
+        },
+        {
+            "stt": 34,
+            "id": "yeongung_ggureomi+",
+            "name": "영웅 꾸러미+",
+            "image": "Heroic-Grab-Bag-II.png",
+            "description": "하급 챔피언 복제기 2개를 획득합니다. 8골드를 획득합니다."
+        },
+        {
+            "stt": 35,
+            "id": "inji_gwabuha",
+            "name": "인지 과부하",
+            "image": "CognitiveOverload_II.png",
+            "description": "7골드, 1단계 2성 챔피언 1명, 2단계 챔피언 1명, 3단계 챔피언 2명을 획득하고 경험치 1, 상점 새로고침 1회를 얻습니다."
+        },
+        {
+            "stt": 36,
+            "id": "imsibyeontong_bangeogu_ii",
+            "name": "임시변통 방어구 II",
+            "image": "Makeshift2.png",
+            "description": "아이템이 없는 챔피언이 방어력과 마법 저항력을 50 얻습니다."
+        },
+        {
+            "stt": 37,
+            "id": "jaebbareun_deobeul_kil",
+            "name": "재빠른 더블 킬",
+            "image": "SpeedyDoubleKill_II.png",
+            "description": "구인수의 격노검을 획득합니다. 플레이어 2명이 탈락하면 40골드를 획득합니다.\n\n2021 운명 챔피언십"
+        },
+        {
+            "stt": 38,
+            "id": "jaehwalyong_sseuregitong",
+            "name": "재활용 쓰레기통",
+            "image": "Salvage2.png",
+            "description": "지금 무작위 완성 아이템 1개를 획득하고 플레이어 대상 전투 8회 후에 조합 아이템 1개를 획득합니다. 챔피언을 판매하면 완성 아이템이 조합 아이템으로 분해됩니다. (전략가의 아이템 및 상징 제외)"
+        },
+        {
+            "stt": 39,
+            "id": "jipangi_jejagja",
+            "name": "지팡이 제작자",
+            "image": "Rodsmith_II.png",
+            "description": "쓸데없이 큰 지팡이로 제작되는 무작위 완성 아이템 2개를 획득합니다."
+        },
+        {
+            "stt": 40,
+            "id": "ceonsangyi_cugbog_ii",
+            "name": "천상의 축복 II",
+            "image": "CelestialBlessing2.png",
+            "description": "아군이 모든 피해 흡혈을 18% 얻습니다. 초과 회복량은 최대 400의 피해를 흡수하는 보호막으로 전환됩니다."
+        },
+        {
+            "stt": 41,
+            "id": "pogbaljeogin_seongjang",
+            "name": "폭발적인 성장",
+            "image": "ExplosiveGrowth_II.png",
+            "description": "즉시 및 다음 3번의 라운드 시작 시 경험치를 7 얻습니다."
+        },
+        {
+            "stt": 42,
+            "id": "heubsuhaneun_ggoc",
+            "name": "흡수하는 꽃",
+            "image": "tier-gold.png",
+            "description": "치명적인 꽃 상징을 획득합니다. 해당 상징을 장착한 챔피언이 치명적인 꽃 특성 효과를 두 배로 받습니다. 3골드를 획득합니다."
+        },
+        {
+            "stt": 43,
+            "id": "3dangye_gundan",
+            "name": "3단계 군단",
+            "image": "LegionofThrees_II.png",
+            "description": "무작위 상징 1개를 획득합니다. 아군 3단계 챔피언 및 상징을 장착한 모든 아군이 체력을 150, 공격 속도를 12% 얻습니다.\n\n2021 심판 챔피언십"
+        },
+        {
+            "stt": 44,
+            "id": "u.r.f",
+            "name": "U.R.F",
+            "image": "UltraRapidFire_II.png",
+            "description": "뒤집개 1개를 획득합니다. 뒤집개 또는 프라이팬 아이템을 장착한 챔피언이 공격 속도를 20%, 마나 재생을 3 얻습니다."
+        },
+        {
+            "stt": 45,
+            "id": "gyeonghodae_hunryeon",
+            "name": "경호대 훈련",
+            "image": "BodyguardsTraining_II.png",
+            "description": "아군이 방어력 및 마법 저항력을 15 얻습니다. 이 수치는 플레이어 레벨당 2 증가합니다.\n\n2022 기계와 장치 챔피언십"
+        },
+        {
+            "stt": 46,
+            "id": "godansu_ii",
+            "name": "고단수 II",
+            "image": "tier-gold.png",
+            "description": "챔피언이 특성을 공유하는 아군 하나당 공격력을 2%, 주문력을 2%, 방어력을 2, 마법 저항력을 2 얻습니다."
+        },
+        {
+            "stt": 47,
+            "id": "gyohwanyi_jang",
+            "name": "교환의 장",
+            "image": "Trade2.png",
+            "description": "라운드마다 무료 상점 새로고침을 획득합니다. 2골드를 획득합니다."
+        },
+        {
+            "stt": 48,
+            "id": "gyohwanyi_jang+",
+            "name": "교환의 장+",
+            "image": "Trade2.png",
+            "description": "라운드마다 무료 상점 새로고침을 획득합니다. 8골드를 획득합니다."
+        },
+        {
+            "stt": 49,
+            "id": "guweonyi_yeonghon",
+            "name": "구원의 영혼",
+            "image": "SpiritofRedemption_II.png",
+            "description": "정령의 형상 1개를 획득합니다. 5초마다 정령의 형상이 1칸 내 아군의 체력을 해당 아군 잃은 체력의 7.5%만큼 회복합니다."
+        },
+        {
+            "stt": 50,
+            "id": "geugdaehwa_bildeu",
+            "name": "극대화 빌드",
+            "image": "MaxBuild_II.png",
+            "description": "무료 상점 새로고침을 10회 얻습니다. 9레벨에 도달하면 무료 상점 새로고침을 3회 얻고 챔피언 복제기 1개를 획득합니다.\n\n2020 갤럭시 챔피언십"
+        },
+        {
+            "stt": 51,
+            "id": "naemyeonyi_yasu",
+            "name": "내면의 야수",
+            "image": "tier-gold.png",
+            "description": "원시가 추가 축복을 부여합니다. 즉시 바이를 획득하고 3라운드 후 니달리를 획득합니다."
+        },
+        {
+            "stt": 52,
+            "id": "dondog",
+            "name": "돈독",
+            "image": "MoneyHungry1_II.png",
+            "description": "즉시 7골드를 획득하고, 이후 매 스테이지 시작 시 7골드를 획득합니다. 골드를 획득하면 전략가 크기가 커집니다."
+        },
+        {
+            "stt": 53,
+            "id": "bbeodeoganeun_bburi",
+            "name": "뻗어가는 뿌리",
+            "image": "SpreadingRoots_II.png",
+            "description": "무작위 상징 2개와 1골드를 획득합니다."
+        },
+        {
+            "stt": 54,
+            "id": "saibeonetig_isigsul",
+            "name": "사이버네틱 이식술",
+            "image": "Cybernetic2.png",
+            "description": "아이템을 장착한 아군 챔피언이 체력을 100, 공격력을 15% 얻습니다. B.F. 대검 1개를 획득합니다."
+        },
+        {
+            "stt": 55,
+            "id": "suhojayi_hoyi",
+            "name": "수호자의 호의",
+            "image": "Caretaker_s-Chosen-II.png",
+            "description": "5, 6, 7, 8레벨에 도달하면 조합 아이템 모루를 획득합니다.\n\n조합 아이템 모루는 4개의 선택지를 제시합니다."
+        },
+        {
+            "stt": 56,
+            "id": "sigan_geonneoddwigi",
+            "name": "시간 건너뛰기",
+            "image": "TimeSkip_II.png",
+            "description": "다음 3라운드 동안 상점이 비활성화됩니다. 이후 경험치를 32 얻습니다."
+        },
+        {
+            "stt": 57,
+            "id": "aitem_cucul",
+            "name": "아이템 추출",
+            "image": "tier-gold.png",
+            "description": "검은 가시 칸에 챔피언을 3번 희생시키면 해당 챔피언이 장착한 무작위 조합 아이템 복사본 1개를 획득합니다. 베이가와 렉사이를 획득합니다."
+        },
+        {
+            "stt": 58,
+            "id": "akein_bigtoreui!",
+            "name": "아케인 빅토르이!",
+            "image": "ArcaneViktory_II.png",
+            "description": "전투 시작 8초 후, 적 팀을 1.5초 동안 기절시킵니다. 전투 시작 18초 후 이 효과를 반복합니다.\n\n2024 전략적 팀 전투 마카오 오픈"
+        },
+        {
+            "stt": 59,
+            "id": "agyijeog_suig_cangcul",
+            "name": "악의적 수익 창출",
+            "image": "MirroredMonetization_II.png",
+            "description": "4골드를 획득합니다. 다음 2라운드 동안 적 챔피언이 처치될 때 2골드를 떨어뜨립니다."
+        },
+        {
+            "stt": 60,
+            "id": "eosuseonhan_maeum",
+            "name": "어수선한 마음",
+            "image": "Dizzy-II.png",
+            "description": "즉시 1단계 챔피언 4명을 획득합니다. 플레이어 대상 전투 종료 시 대기석에 챔피언이 가득 찼다면 3의 경험치를 획득합니다."
+        },
+        {
+            "stt": 61,
+            "id": "eolghin_mabeob",
+            "name": "얽힌 마법",
+            "image": "WovenMagic_III.png",
+            "description": "무작위 조합 아이템 1개를 획득합니다. 아군 챔피언이 마나를 2200 사용할 때마다 추가로 조합 아이템 1개를 획득합니다. (최대: 0/3)"
+        },
+        {
+            "stt": 62,
+            "id": "eomceongnage_iroun_hyogwa!",
+            "name": "엄청나게 이로운 효과!",
+            "image": "Tons-of-Stats-II.png",
+            "description": "아군이 체력을 44, 공격력을 4%, 주문력을 4%, 방어력을 4, 마법 저항력을 4, 공격 속도를 4%, 마나를 4 얻습니다."
+        },
+        {
+            "stt": 63,
+            "id": "yuri_daepo_ii",
+            "name": "유리 대포 II",
+            "image": "GlassCannon_II.png",
+            "description": "후방 가로 1열에서 전투를 시작한 아군이 전투 시작 시 체력이 80%로 조정되지만 피해 증폭을 25% 얻습니다."
+        },
+        {
+            "stt": 64,
+            "id": "yurihan_jogeon",
+            "name": "유리한 조건",
+            "image": "HardBargain_II.png",
+            "description": "공동 선택 보상을 선택할 수 없습니다. 공동 선택 라운드마다 추가로 플레이어 체력을 6 얻고 8골드를 획득합니다.\n공동 선택 보상을 선택하지 않으면 선택되지 않은 챔피언과 해당 챔피언의 아이템을 획득합니다."
+        },
+        {
+            "stt": 65,
+            "id": "jaebbareun_mujang",
+            "name": "재빠른 무장",
+            "image": "Slammin_II.png",
+            "description": "3골드를 획득합니다. 플레이어 대상 전투를 마친 후 대기석에 아이템(소모품 제외)이 없을 때마다 2의 경험치를 획득합니다."
+        },
+        {
+            "stt": 66,
+            "id": "jeonbangyi_todae",
+            "name": "전방의 토대",
+            "image": "FrontlineFoundation_II.png",
+            "description": "1단계 2성 탱커 챔피언 및 해당 챔피언의 직업 특성과 동일한 상징을 획득합니다."
+        },
+        {
+            "stt": 67,
+            "id": "jogi_gyoyug",
+            "name": "조기 교육",
+            "image": "EarlyLearning_II.png",
+            "description": "아군이 공격력 및 주문력을 5% 얻습니다. 이 수치는 각 플레이어 대상 전투 후 1% 증가합니다. 1단계 챔피언은 두 배로 얻습니다."
+        },
+        {
+            "stt": 68,
+            "id": "keojyeora",
+            "name": "커져라",
+            "image": "tier-gold.png",
+            "description": "요정의 나비정령이 더 커지고 공격력 및 주문력을 50% 더 부여합니다. 요정 챔피언이 즉시 공격력 및 주문력을 10% 얻습니다. 자야와 라칸을 획득합니다."
+        },
+        {
+            "stt": 69,
+            "id": "hoebogyi_gu_ii",
+            "name": "회복의 구 II",
+            "image": "Healing-Orbs-II.png",
+            "description": "적이 사망하면 주변 아군 1명이 체력을 575 회복합니다."
+        },
+        {
+            "stt": 70,
+            "id": "hubang_seolgyedo",
+            "name": "후방 설계도",
+            "image": "BacklineBlueprint_II.png",
+            "description": "3단계 비탱커 챔피언 및 해당 챔피언의 직업 특성과 동일한 상징을 획득합니다."
+        },
+        {
+            "stt": 71,
+            "id": "4dangye_jibjung",
+            "name": "4단계 집중",
+            "image": "tier-gold.png",
+            "description": "무작위 4단계 챔피언 1명을 획득합니다. 해당 챔피언이 장착한 아이템 하나당 아군이 체력을 120 얻습니다."
+        },
+        {
+            "stt": 72,
+            "id": "gangceolyi_simjang",
+            "name": "강철의 심장",
+            "image": "HealthyGains_II.png",
+            "description": "굳건한 심장 1개를 획득합니다. 장착 유닛이 전투에서 10초 생존할 때마다 굳건한 심장이 영구히 최대 체력을 16 추가로 제공합니다."
+        },
+        {
+            "stt": 73,
+            "id": "geumbic_unmyeong+",
+            "name": "금빛 운명+",
+            "image": "GoldenDestiny_II.png",
+            "description": "무작위 골드 증강을 얻고 6골드를 획득합니다."
+        },
+        {
+            "stt": 74,
+            "id": "gidarimyi_mihag",
+            "name": "기다림의 미학",
+            "image": "WorthTheWait_II.png",
+            "description": "무작위 1단계 챔피언 1명을 획득합니다. 게임이 끝날 때까지 해당 유닛의 복사본을 각 라운드 시작 시 획득합니다."
+        },
+        {
+            "stt": 75,
+            "id": "danil_johab_sasu",
+            "name": "단일 조합 사수",
+            "image": "NoScoutNoPivot_II.png",
+            "description": "플레이어 대상 전투에 참여한 챔피언은 대기석에 놓거나 판매할 수 없습니다. 아군이 플레이어 대상 전투 후 체력을 1%, 공격력 및 주문력을 1% 얻습니다."
+        },
+        {
+            "stt": 76,
+            "id": "dance_poong_ii",
+            "name": "단체 포옹 II",
+            "image": "GroupHug2_II.png",
+            "description": "전투 시작: 챔피언이 다른 인접한 챔피언에게 방어력 및 마법 저항력을 9 부여합니다. 이 효과는 중첩됩니다."
+        },
+        {
+            "stt": 77,
+            "id": "dogeum_gangceol",
+            "name": "도금 강철",
+            "image": "GildedSteel_II.png",
+            "description": "5단계 챔피언 2명을 획득합니다. 5단계 챔피언을 1명 이상 배치하면 아군 1~4단계 챔피언이 내구력을 8% 얻습니다.\n\n2025 K.O. 콜로세움 전략가의 왕관"
+        },
+        {
+            "stt": 78,
+            "id": "dondog+",
+            "name": "돈독+",
+            "image": "MoneyHungry2_II.png",
+            "description": "즉시 10골드를 획득하고, 이후 매 스테이지 시작 시 7골드를 획득합니다. 골드를 획득하면 전략가 크기가 커집니다."
+        },
+        {
+            "stt": 79,
+            "id": "malgeun_jeongsin",
+            "name": "맑은 정신",
+            "image": "ClearMind2.png",
+            "description": "플레이어 대상 전투 종료 시 대기석에 챔피언이 없다면 3의 경험치를 획득합니다."
+        },
+        {
+            "stt": 80,
+            "id": "buseuteo_paeg+",
+            "name": "부스터 팩+",
+            "image": "BoosterPack1_II.png",
+            "description": "총 18골드 가치의 무작위 챔피언을 획득합니다. (4단계 유닛 최소 1명 보장!)"
+        },
+        {
+            "stt": 81,
+            "id": "saeroun_sidae",
+            "name": "새로운 시대",
+            "image": "Epoch_II.png",
+            "description": "즉시 및 이후 매 스테이지 시작 시 경험치를 4 획득하고 무료 새로고침을 2회 얻습니다."
+        },
+        {
+            "stt": 82,
+            "id": "saeroun_sidae+",
+            "name": "새로운 시대+",
+            "image": "Epoch_II.png",
+            "description": "즉시 및 이후 매 스테이지 시작 시 경험치를 8 획득하고 무료 새로고침을 2회 얻습니다."
+        },
+        {
+            "stt": 83,
+            "id": "seosajeog_saerogocim",
+            "name": "서사적 새로고침",
+            "image": "EpicRolldown_II.png",
+            "description": "8레벨에 도달하면 상점 새로고침을 20회 얻습니다.\n\n2023 룬테라 리포지드 챔피언십"
+        },
+        {
+            "stt": 84,
+            "id": "suwanga",
+            "name": "수완가",
+            "image": "Hyperroll2.png",
+            "description": "이자가 없는 대신 플레이어 대상 전투 라운드를 시작할 때마다 3골드를 획득합니다. 즉시 3골드를 획득합니다.\n\n이자는 저축한 10골드당 추가로 획득하는 골드입니다."
+        },
+        {
+            "stt": 85,
+            "id": "seuljjeoghagi",
+            "name": "슬쩍하기",
+            "image": "Pilfer_II.png",
+            "description": "라운드마다, 이전 전투에서 아군이 처음으로 처치한 챔피언의 1성 복사본 1명을 획득합니다. 이 방식을 통해 처음으로 21골드 가치의 챔피언을 획득하면 도적의 장갑을 획득합니다."
+        },
+        {
+            "stt": 86,
+            "id": "sigyetaeyeob_yunhwalyu",
+            "name": "시계태엽 윤활유",
+            "image": "ClockworkAccelerator_II.png",
+            "description": "아군이 전투에서 3초마다 공격 속도를 10% 얻습니다."
+        },
+        {
+            "stt": 87,
+            "id": "yagsogdoen_boho",
+            "name": "약속된 보호",
+            "image": "PromisedProtection_II.png",
+            "description": "수호자의 맹세를 1개 획득합니다. 수호자의 맹세를 장착한 유닛이 모든 요소로부터 얻는 마나가 20% 증가하고 최대 체력을 200 얻습니다."
+        },
+        {
+            "stt": 88,
+            "id": "yoriyong_naembi",
+            "name": "요리용 냄비",
+            "image": "CookingPot_II.png",
+            "description": "각 라운드 시작 시, 프라이팬 또는 뒤집개를 장착한 모든 아군이 가장 가까운 챔피언에게 영구적으로 체력을 60 부여합니다. 프라이팬 1개를 획득합니다."
+        },
+        {
+            "stt": 89,
+            "id": "jabon_iig_ii",
+            "name": "자본 이익 II",
+            "image": "tier-gold.png",
+            "description": "획득하는 이자만큼 골드를 저장합니다. 3-3라운드에 저장된 골드의 125%를 획득합니다. 즉시 1골드를 획득합니다."
+        },
+        {
+            "stt": 90,
+            "id": "jaebbareun_mujang+",
+            "name": "재빠른 무장+",
+            "image": "Slammin_II.png",
+            "description": "즉시 4골드를 획득하고 경험치를 10 얻습니다. 플레이어 대상 전투를 마친 후 대기석에 아이템(소모품 제외)이 없을 때마다 2의 경험치를 획득합니다."
+        },
+        {
+            "stt": 91,
+            "id": "jaehwalyong_sseuregitong+",
+            "name": "재활용 쓰레기통+",
+            "image": "Salvage2.png",
+            "description": "지금 무작위 완성 아이템 1개를 획득하고 플레이어 대상 전투 4회 후에 조합 아이템 1개를 획득합니다. 챔피언을 판매하면 완성 아이템이 조합 아이템으로 분해됩니다. (전략가의 아이템 및 상징 제외)"
+        },
+        {
+            "stt": 92,
+            "id": "juingong_beopeu",
+            "name": "주인공 버프",
+            "image": "PlotArmor_II.png",
+            "description": "아군이 방어력 및 마법 저항력을 8 얻습니다. 체력이 50% 아래로 떨어지면 전투가 끝날 때까지 대신 40만큼 얻습니다."
+        },
+        {
+            "stt": 93,
+            "id": "cuga_seonmul",
+            "name": "추가 선물",
+            "image": "tier-gold.png",
+            "description": "전리품 구를 열 때마다 25% 확률로 회색 전리품 구를 획득합니다. 회색 전리품 구 2개를 획득합니다."
+        },
+        {
+            "stt": 94,
+            "id": "cuga_seonmul+",
+            "name": "추가 선물+",
+            "image": "tier-gold.png",
+            "description": "전리품 구를 열 때마다 25% 확률로 회색 전리품 구를 획득합니다. 회색 전리품 구 3개를 획득합니다."
+        },
+        {
+            "stt": 95,
+            "id": "taeyangyi_bureumeul_badeun_ja",
+            "name": "태양의 부름을 받은 자",
+            "image": "tier-gold.png",
+            "description": "레오나, 케일, 세주아니를 획득합니다. 레오나가 라운드마다 영구히 60의 최대 체력을 얻습니다. 이 수치는 배치한 3성 챔피언 한 종류당 10 증가합니다."
+        },
+        {
+            "stt": 96,
+            "id": "tuja_jeonryag_i",
+            "name": "투자 전략 I",
+            "image": "InvestmentStrategy_II.png",
+            "description": "이자로 획득한 골드당 아군 챔피언이 영구적으로 최대 체력을 8 얻습니다. 즉시 4골드를 획득합니다."
+        },
+        {
+            "stt": 97,
+            "id": "pogbaljeogin_seongjang+",
+            "name": "폭발적인 성장+",
+            "image": "ExplosiveGrowth_II.png",
+            "description": "즉시 및 다음 3번의 라운드 시작 시 경험치를 10 얻습니다."
+        },
+        {
+            "stt": 98,
+            "id": "haewa_dal+",
+            "name": "해와 달+",
+            "image": "tier-gold.png",
+            "description": "아군 달빛 챔피언이 배치한 햇빛 챔피언 한 종류당 체력을 100, 피해 증폭을 8% 얻습니다. 레오나, 케일, 아펠리오스를 획득합니다."
+        },
+        {
+            "stt": 99,
+            "id": "huban_seongjang",
+            "name": "후반 성장",
+            "image": "LateGameScaling_II.png",
+            "description": "매 플레이어 대상 전투 라운드 시작 시 경험치를 2 얻습니다. 아군 5단계 챔피언이 체력을 12%, 공격 속도를 12% 얻습니다.\n\n2025 사이버 시티 전략가의 왕관"
+        },
+        {
+            "stt": 100,
+            "id": "agyi_yeodan_suhaengsaje",
+            "name": "악의 여단 수행사제",
+            "image": "tier-gold.png",
+            "description": "악의 여단 정기 계속 모으기를 선택하면 전략가 체력을 2 회복합니다. 카밀, 엘리스, 케이틀린을 획득합니다."
+        },
+        {
+            "stt": 101,
+            "id": "eodumyi_yisig",
+            "name": "어둠의 의식",
+            "image": "tier-gold.png",
+            "description": "악의 여단 정기를 보상으로 전환하면 전리품 대신 악의 여단 챔피언이 주문력을 얻습니다. 카밀, 엘리스, 케이틀린을 획득합니다."
+        },
+        {
+            "stt": 102,
+            "id": "yeongweonhan_beuronjeu_i",
+            "name": "영원한 브론즈 I",
+            "image": "BronzeForLife_II.png",
+            "description": "아군이 브론즈 단계 특성당 피해 증폭을 2.5% 얻습니다."
+        },
+        {
+            "stt": 103,
+            "id": "jayeonyi_ansigceo",
+            "name": "자연의 안식처",
+            "image": "tier-gold.png",
+            "description": "나무정령 식물과 인접한 상태로 전투를 시작하는 챔피언이 공격 속도를 15% 얻고 2초마다 최대 체력의 2%만큼 체력을 회복합니다. 알리스타, 오른, 자야를 획득합니다."
+        },
+        {
+            "stt": 104,
+            "id": "culjeong",
+            "name": "출정",
+            "image": "Warpath_II.png",
+            "description": "2단계 2성 챔피언 1명을 획득합니다. 플레이어에게 80의 피해를 입힌 후 고단계 챔피언과 아이템이 들어 있는 상자 1개를 획득합니다."
+        },
+        {
+            "stt": 105,
+            "id": "hwanggeum_deuraegon",
+            "name": "황금 드래곤",
+            "image": "TheGoldenDragon_II.png",
+            "description": "거물의 갑옷 1개를 획득합니다. 거물의 갑옷을 장착한 챔피언이 +1개의 팀 슬롯을 차지하지만 체력을 700, 내구력을 20% 얻습니다.\n\n거물의 갑옷은 골드를 제공하고 전투 시 위력도 올려줍니다.\n2022 용의 땅 챔피언십"
+        }
+    ],
+    "3": [
+        {
+            "stt": 1,
+            "id": "namjagyi_sogul",
+            "name": "남작의 소굴",
+            "image": "TheBaronsLair_III.png",
+            "description": "무작위 탱커 아이템 1개를 획득합니다. 전투 시작 8초 후, 아군이 전투가 끝날 때까지 매초 추가 공격력 및 주문력을 5% 얻습니다.\n\n2025 전략적 팀 전투 파리 오픈"
+        },
+        {
+            "stt": 2,
+            "id": "canranhan_yumul",
+            "name": "찬란한 유물",
+            "image": "RadiantRelic-III.png",
+            "description": "찬란한 아이템 5가지 중 1개 선택 자석 제거기 1개를 획득합니다."
+        },
+        {
+            "stt": 3,
+            "id": "cingu_mandeulgi",
+            "name": "친구 만들기",
+            "image": "ConstructaCompanion_III.png",
+            "description": "무작위 1단계 3성 챔피언 1명을 획득합니다. 6골드를 획득합니다."
+        },
+        {
+            "stt": 4,
+            "id": "hondonyi_bureum",
+            "name": "혼돈의 부름",
+            "image": "CallToChaos_III.png",
+            "description": "강력한 무작위 보상을 획득합니다."
+        },
+        {
+            "stt": 5,
+            "id": "geodaehago_gangryeoghan",
+            "name": "거대하고 강력한",
+            "image": "GiantandMighty_III.png",
+            "description": "아군의 크기가 커져 체력을 200, 최대 체력을 10% 얻습니다."
+        },
+        {
+            "stt": 6,
+            "id": "georae_jungsimji",
+            "name": "거래 중심지",
+            "image": "Trade3.png",
+            "description": "즉시 무료 상점 새로고침 16회를 얻고 게임이 끝날 때까지 라운드마다 3회를 얻습니다."
+        },
+        {
+            "stt": 7,
+            "id": "gyeongpum_cuceom+",
+            "name": "경품 추첨+",
+            "image": "GoldenGamble_III.png",
+            "description": "3골드를 획득하고 동전을 던집니다. 앞면이 나오면 찬란한 행운의 아이템 상자를 획득합니다. 뒷면이 나오면 완성 아이템 모루 2개를 획득합니다."
+        },
+        {
+            "stt": 8,
+            "id": "godansu_iii",
+            "name": "고단수 III",
+            "image": "tier-prism.png",
+            "description": "챔피언이 특성을 공유하는 아군 하나당 공격력을 3.5%, 주문력을 3.5%, 방어력을 3.5, 마법 저항력을 3.5 얻습니다."
+        },
+        {
+            "stt": 9,
+            "id": "gidarimyi_mihag_ii",
+            "name": "기다림의 미학 II",
+            "image": "WorthTheWait_III.png",
+            "description": "무작위 2단계 챔피언 복사본 2명을 획득합니다. 게임이 끝날 때까지 해당 유닛의 복사본을 각 라운드 시작 시 획득합니다."
+        },
+        {
+            "stt": 10,
+            "id": "neomcineun_jipangi",
+            "name": "넘치는 지팡이",
+            "image": "WandOverflow_III.png",
+            "description": "쓸데없이 큰 지팡이 4개를 획득합니다. 쓸데없이 큰 지팡이가 공격 속도를 +5% 제공합니다."
+        },
+        {
+            "stt": 11,
+            "id": "daegwansig",
+            "name": "대관식",
+            "image": "Coronation_III.png",
+            "description": "전략가의 왕관을 획득합니다. 전략가의 왕관, 망토, 방패가 장착 유닛에게 공격 속도를 20%, 공격력을 25%, 주문력을 30% 부여합니다."
+        },
+        {
+            "stt": 12,
+            "id": "deoug_cimyeongjeogin_moja",
+            "name": "더욱 치명적인 모자",
+            "image": "DeadlierCaps_II.png",
+            "description": "라바돈의 죽음모자 1개를 획득합니다. 라바돈의 죽음모자가 마나 재생을 1 얻고 장착 유닛이 처치 관여를 달성할 때마다 주문력을 1% 얻습니다."
+        },
+        {
+            "stt": 13,
+            "id": "mateuryosika_moru+",
+            "name": "마트료시카 모루+",
+            "image": "tier-prism.png",
+            "description": "유물 모루 1개를 획득합니다. 모루를 열면 조합 아이템 모루 1개를 획득합니다. 획득한 조합 아이템 모루를 열면 12골드를 획득합니다."
+        },
+        {
+            "stt": 14,
+            "id": "boseog_yeonggoc_ii",
+            "name": "보석 연꽃 II",
+            "image": "Jeweled-Lotus-III.png",
+            "description": "아군이 치명타 확률 25%, 치명타 피해량 10%, 정밀을 얻습니다.\n\n정밀: 스킬 피해에 치명타가 적용될 수 있습니다. 추가 정밀 획득 시 치명타 피해량이 10% 증가합니다."
+        },
+        {
+            "stt": 15,
+            "id": "yeonghon_gagseong",
+            "name": "영혼 각성",
+            "image": "AwakenedSoul_III.png",
+            "description": "전투 시작: 아군이 10초 동안 매초 공격력 및 주문력을 1.5% 얻습니다. 최대 중첩 시 12%의 추가 고정 피해를 입힙니다."
+        },
+        {
+            "stt": 16,
+            "id": "eungjing",
+            "name": "응징",
+            "image": "Retribution_III.png",
+            "description": "정의의 손길 2개를 획득합니다. 정의의 손길을 장착한 아군이 정밀 및 치명타 확률 25%를 얻습니다.\n\n정밀: 스킬 피해에 치명타가 적용될 수 있습니다. 추가 정밀 획득 시 치명타 피해량이 10% 증가합니다."
+        },
+        {
+            "stt": 17,
+            "id": "coejeoghwa",
+            "name": "최적화",
+            "image": "MinMax_III.png",
+            "description": "황금 아이템 제거기와 무작위 조합 아이템 4개를 획득합니다."
+        },
+        {
+            "stt": 18,
+            "id": "tuja++",
+            "name": "투자++",
+            "image": "Invested-III.png",
+            "description": "45골드를 획득합니다. 각 라운드 시작 시, 50골드를 모은 상태에서 초과 10골드마다 상점 새로고침을 1회 획득합니다. (최대 80골드)"
+        },
+        {
+            "stt": 19,
+            "id": "pamudhin_bomul_iii",
+            "name": "파묻힌 보물 III",
+            "image": "Buried-Treasures-III.png",
+            "description": "즉시 및 다음 5번의 라운드 시작 시 무작위 조합 아이템 1개를 획득합니다."
+        },
+        {
+            "stt": 20,
+            "id": "pandorayi_aitem_iii",
+            "name": "판도라의 아이템 III",
+            "image": "Pandora3.png",
+            "description": "라운드 시작: 대기석의 아이템이 무작위로 변합니다. \n\n찬란한 아이템 1개를 획득합니다."
+        },
+        {
+            "stt": 21,
+            "id": "peurijeum_unmyeong+",
+            "name": "프리즘 운명+",
+            "image": "PrismaticDestiny_III.png",
+            "description": "무작위 프리즘 증강을 얻고 10골드를 획득합니다."
+        },
+        {
+            "stt": 22,
+            "id": "peurijeum_tikes",
+            "name": "프리즘 티켓",
+            "image": "GoldenTicket3.png",
+            "description": "상점을 새로고침할 때마다 45% 확률로 무료 새로고침을 획득합니다."
+        },
+        {
+            "stt": 23,
+            "id": "haengunyi_janggab",
+            "name": "행운의 장갑",
+            "image": "Lucky-Gloves-III.png",
+            "description": "도적의 장갑이 항상 챔피언에게 최적의 아이템을 제공합니다. 연습용 장갑 2개와 4골드를 획득합니다."
+        },
+        {
+            "stt": 24,
+            "id": "gyeongpum_cuceom++",
+            "name": "경품 추첨++",
+            "image": "GoldenGamble_III.png",
+            "description": "6골드를 획득하고 동전을 던집니다. 앞면이 나오면 찬란한 행운의 아이템 상자를 획득합니다. 뒷면이 나오면 완성 아이템 모루 2개를 획득합니다."
+        },
+        {
+            "stt": 25,
+            "id": "neomcineun_daegeom",
+            "name": "넘치는 대검",
+            "image": "BladeOverflow_III.png",
+            "description": "B.F. 대검 4개를 획득합니다. B.F. 대검이 공격 속도를 +4% 제공합니다."
+        },
+        {
+            "stt": 26,
+            "id": "neomcineun_heoriddi",
+            "name": "넘치는 허리띠",
+            "image": "BeltOverflow_III.png",
+            "description": "거인의 허리띠 4개를 획득합니다. 거인의 허리띠가 추가 체력을 +85 제공합니다."
+        },
+        {
+            "stt": 27,
+            "id": "dalkomhan_gansig",
+            "name": "달콤한 간식",
+            "image": "SweetTreats_III.png",
+            "description": "유물 모루 1개를 획득합니다. 아군이 장착한 아이템 하나당 16의 체력을 얻습니다."
+        },
+        {
+            "stt": 28,
+            "id": "mateuryosika_moru",
+            "name": "마트료시카 모루",
+            "image": "tier-prism.png",
+            "description": "유물 모루 1개를 획득합니다. 모루를 열면 조합 아이템 모루 1개를 획득합니다. 획득한 조합 아이템 모루를 열면 8골드를 획득합니다."
+        },
+        {
+            "stt": 29,
+            "id": "bulggo_pureun_hyogwa",
+            "name": "붉고 푸른 효과",
+            "image": "OneBuffTwoBuff_III.png",
+            "description": "붉은 덩굴정령, 푸른 파수꾼, 챔피언 복제기를 1개씩 획득합니다."
+        },
+        {
+            "stt": 30,
+            "id": "eomceongnage_iroun_hyogwa!",
+            "name": "엄청나게 이로운 효과!",
+            "image": "Tons-of-Stats-II.png",
+            "description": "아군이 체력을 88, 공격력을 8%, 주문력을 8%, 방어력을 8, 마법 저항력을 8, 공격 속도를 8%, 마나를 8 얻습니다."
+        },
+        {
+            "stt": 31,
+            "id": "tuja+",
+            "name": "투자+",
+            "image": "Invested-III.png",
+            "description": "26골드를 획득합니다. 각 라운드 시작 시, 50골드를 모은 상태에서 초과 10골드마다 상점 새로고침을 1회 획득합니다. (최대 80골드)"
+        },
+        {
+            "stt": 32,
+            "id": "teugseong_namu",
+            "name": "특성 나무",
+            "image": "TheTraitTree_III.png",
+            "description": "무작위 상징 3개와 2골드를 획득합니다."
+        },
+        {
+            "stt": 33,
+            "id": "peurijeum_unmyeong",
+            "name": "프리즘 운명",
+            "image": "PrismaticDestiny_III.png",
+            "description": "무작위 프리즘 증강을 얻고 4골드를 획득합니다."
+        },
+        {
+            "stt": 34,
+            "id": "heji_peondeu",
+            "name": "헤지 펀드",
+            "image": "RichGetRicher3.png",
+            "description": "22골드를 획득합니다. 최대 이자가 10골드로 증가했습니다."
+        },
+        {
+            "stt": 35,
+            "id": "gani_daejanggan",
+            "name": "간이 대장간",
+            "image": "Living-Forge-III.png",
+            "description": "지금 그리고 플레이어 대상 전투 9번마다 유물 모루를 획득합니다."
+        },
+        {
+            "stt": 36,
+            "id": "gyeongpum_cuceom",
+            "name": "경품 추첨",
+            "image": "GoldenGamble_III.png",
+            "description": "2골드를 획득하고 동전을 던집니다. 앞면이 나오면 찬란한 행운의 아이템 상자를 획득합니다. 뒷면이 나오면 완성 아이템 모루 2개를 획득합니다."
+        },
+        {
+            "stt": 37,
+            "id": "gyeyeolyi_daega",
+            "name": "계열의 대가",
+            "image": "tier-prism.png",
+            "description": "무기고를 열어 3개의 특성 중 하나를 선택합니다. 해당 특성을 지닌 럭스와 쇼진의 창을 획득합니다.\n\n내 전장에 있는 특성이 무기고에 더 자주 등장합니다. 럭스는 선택한 특성 중첩에 +2를 추가합니다."
+        },
+        {
+            "stt": 38,
+            "id": "dodug_muri_ii++",
+            "name": "도둑 무리 II++",
+            "image": "BandThieves3.png",
+            "description": "도적의 장갑 2개를 획득합니다. 플레이어 대상 전투 3회 후 1개 더 획득합니다."
+        },
+        {
+            "stt": 39,
+            "id": "don_pogpung",
+            "name": "돈 폭풍",
+            "image": "MoneyMonsoon_III.png",
+            "description": "즉시 및 게임이 끝날 때까지 라운드마다 7골드를 획득합니다."
+        },
+        {
+            "stt": 40,
+            "id": "rebel_eob!",
+            "name": "레벨 업!",
+            "image": "LevelUp3.png",
+            "description": "경험치를 구매하면 2의 추가 경험치를 얻습니다. 즉시 6 얻습니다."
+        },
+        {
+            "stt": 41,
+            "id": "bicbineul_jeongsu",
+            "name": "빛비늘 정수",
+            "image": "ShimmerscaleEssence_III.png",
+            "description": "거물의 갑옷 1개를 획득합니다. 플레이어 대상 전투 7회 후 도박꾼의 칼날 1개를 획득합니다."
+        },
+        {
+            "stt": 42,
+            "id": "yeongweonhan_beuronjeu_ii",
+            "name": "영원한 브론즈 II",
+            "image": "BronzeForLife_III.png",
+            "description": "아군이 브론즈 단계 특성당 피해 증폭을 2.5%, 방어력 및 마법 저항력을 4 얻습니다."
+        },
+        {
+            "stt": 43,
+            "id": "ureupeuyi_ggureomi",
+            "name": "우르프의 꾸러미",
+            "image": "Urfs-Grab-Bag-III.png",
+            "description": "뒤집개 1개, 무작위 조합 아이템 3개, 5골드를 획득합니다."
+        },
+        {
+            "stt": 44,
+            "id": "jeonryaggayi_jubang",
+            "name": "전략가의 주방",
+            "image": "TacticiansKitchen_III.png",
+            "description": "무작위 상징 1개를 획득합니다. 3라운드 후 전략가의 망토 1개를 획득합니다."
+        },
+        {
+            "stt": 45,
+            "id": "johab_aitem_kweseuteu",
+            "name": "조합 아이템 퀘스트",
+            "image": "tier-prism.png",
+            "description": "무작위 조합 아이템 1개 및 1골드를 획득합니다. 다음 플레이어 대상 전투에서 7번 승리하는 동안 각각 다른 무작위 조합 아이템을 획득합니다. 이후 5골드를 획득합니다."
+        },
+        {
+            "stt": 46,
+            "id": "jinhyeong_yuji",
+            "name": "진형 유지",
+            "image": "HoldTheLine_III.png",
+            "description": "후방 가로 2열에 있는 챔피언이 전방에서 전투를 시작하는 챔피언 한 명당 주문력을 9%, 공격력을 8% 얻습니다."
+        },
+        {
+            "stt": 47,
+            "id": "canranhan_jangnanggureogi",
+            "name": "찬란한 장난꾸러기",
+            "image": "Roll-the-Dice-III.png",
+            "description": "찬란한 도적의 장갑 1개를 획득합니다. 이 아이템은 라운드마다 2개의 무작위 찬란한 아이템을 장착시킵니다."
+        },
+        {
+            "stt": 48,
+            "id": "ceonsangyi_cugbog_iii",
+            "name": "천상의 축복 III",
+            "image": "CelestialBlessing3.png",
+            "description": "아군이 모든 피해 흡혈을 25% 얻습니다. 초과 회복량은 최대 1000의 피해를 흡수하는 보호막으로 전환됩니다."
+        },
+        {
+            "stt": 49,
+            "id": "culsegado",
+            "name": "출세가도",
+            "image": "UpwardMobility_III.png",
+            "description": "경험치 구매 비용이 1 감소합니다. 레벨 업할 때마다 체력을 2, 무료 새로고침을 1회 얻습니다."
+        },
+        {
+            "stt": 50,
+            "id": "cimyeongjeogin_kalnal",
+            "name": "치명적인 칼날",
+            "image": "DeadlierBlades_II.png",
+            "description": "죽음의 검 1개를 획득합니다. 장착 유닛이 처치 관여를 달성할 때마다 죽음의 검이 영구히 공격력을 1% 얻습니다."
+        },
+        {
+            "stt": 51,
+            "id": "teugseong_namu+",
+            "name": "특성 나무+",
+            "image": "TheTraitTree_III.png",
+            "description": "무작위 상징 3개, 재조합기 1개, 4골드를 획득합니다."
+        },
+        {
+            "stt": 52,
+            "id": "hanaro_mungcineun_geoji",
+            "name": "하나로 뭉치는 거지",
+            "image": "WeStickTogether_III.png",
+            "description": "무작위 상징 1개와 완성 아이템 모루 1개를 획득합니다. 해당 상징과 특성을 공유하는 아군이 공격 속도를 30% 얻습니다. 0 0\n\n2025 아케인의 세계로 전략가의 왕관"
+        },
+        {
+            "stt": 53,
+            "id": "haengunyi_janggab+",
+            "name": "행운의 장갑+",
+            "image": "Lucky-Gloves-III.png",
+            "description": "도적의 장갑이 항상 챔피언에게 최적의 아이템을 제공합니다. 지금 연습용 장갑 2개를 획득하고 플레이어 대상 전투 4회 후 1개 더 획득합니다."
+        },
+        {
+            "stt": 54,
+            "id": "hohwaroun_jeonggi_gudog",
+            "name": "호화로운 정기 구독",
+            "image": "LuxurySubscription_III.png",
+            "description": "5단계 챔피언, 1단계 2성 챔피언, 3골드가 포함된 꾸러미를 획득합니다.\n\n다음 2번의 스테이지 시작 시 꾸러미를 다시 획득합니다."
+        },
+        {
+            "stt": 55,
+            "id": "hwanggeum_al",
+            "name": "황금 알",
+            "image": "The-Golden-Egg-III.png",
+            "description": "11턴 안에 부화해 막대한 전리품을 제공하는 황금 알을 획득합니다. 플레이어 대상 전투에서 승리하면 부화 타이머가 1턴 더 빨라집니다."
+        },
+        {
+            "stt": 56,
+            "id": "heungceongmangceong",
+            "name": "흥청망청",
+            "image": "Silver-ticket-III.png",
+            "description": "레벨 업하면 레벨+1만큼 무료 상점 새로고침 기회를 얻습니다. 6골드를 획득합니다."
+        },
+        {
+            "stt": 57,
+            "id": "himeul_sileun_jeryeon",
+            "name": "힘을 실은 제련",
+            "image": "ForgedInStrength_III.png",
+            "description": "무작위 유물 아이템을 1개 획득합니다. 체력이 35 아래로 떨어지면 추가로 무작위 유물 아이템 1개, 무작위 완성 아이템 1개, 무작위 조합 아이템 2개를 획득합니다.\n\n2023 리믹스 럼블 챔피언십"
+        },
+        {
+            "stt": 58,
+            "id": "saengil_seonmul",
+            "name": "생일 선물",
+            "image": "Golden-Gifts-III.png",
+            "description": "레벨 업할 때마다 2성 챔피언 1명과 1골드를 획득합니다. 획득하는 챔피언의 단계는 상점 레벨보다 4 낮습니다. (최대 5단계)"
+        },
+        {
+            "stt": 59,
+            "id": "jeojubadeun_wanggwan",
+            "name": "저주받은 왕관",
+            "image": "CursedCrown-III.png",
+            "description": "최대 팀 규모가 +2 증가하고 아군이 내구력을 4% 얻지만, 플레이어 대상 전투 패배 시 플레이어가 받는 피해량이 두 배 증가합니다."
+        },
+        {
+            "stt": 60,
+            "id": "tuja_jeonryag_ii",
+            "name": "투자 전략 II",
+            "image": "InvestmentStrategy_III.png",
+            "description": "이자로 획득한 골드당 아군 챔피언이 영구적으로 최대 체력을 8 얻습니다. 최대 이자가 2 증가했습니다. 즉시 8골드를 획득합니다."
+        },
+        {
+            "stt": 61,
+            "id": "teugseong_sadari",
+            "name": "특성 사다리",
+            "image": "tier-prism.png",
+            "description": "무작위 상징 1개를 획득합니다. 플레이어 대상 전투에서 고유 특성이 아닌 특성 2개를 배치하면 보상을 획득합니다. 이후 요구 특성 개수 및 보상이 증가합니다."
+        }
+    ]
 }
