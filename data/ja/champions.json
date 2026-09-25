@@ -757,35 +757,35 @@
         "top_4_rate": "59.69",
         "top_1_rate": "22.41",
         "battle": "799,979",
-        "description_icon": "自動効果: 650/650/300ダメージをブロックするたびに、苗木が近くの敵に向かって飛びかかり、81/145/2795の魔法ダメージを与える。デスすると苗木が3/5/10体飛び出す。\n\n発動効果: 対象に69/124/3726の魔法ダメージを与え、330/400/2000 + 減少体力の10%/10%/100%にあたる体力を回復する。",
-        "skill_name": "種まき",
-        "skill_image": "Maokai_1785310649-maokai_e.png",
+        "description_icon": "自動効果: あらゆるソースから獲得する最大体力が50%増加する。\n\n発動効果: 対象地点にX字型のツルを発生させ、命中した敵に100/150/225の魔法ダメージを与え、1.5/1.5/1.75秒間スタンさせる。\n\nN.O.V.A.ストライク: ドラゴンの波を放ち、すべての敵を1.5/1.5/1.75秒間スタンさせる。戦闘終了まで、通常攻撃が132/238/428の追加物理ダメージを与えるようになる。",
+        "skill_name": "融合の掌握",
+        "skill_image": "TFT17_Maokai.jpg",
         "starting_mana": 30,
         "skill_mana": 100,
         "skill_attack_range": 1,
         "health": [
-            1150,
-            2070,
-            3726
+            1100,
+            1980,
+            3564
         ],
         "attack_damage": [
-            80,
-            120,
-            180
+            60,
+            90,
+            135
         ],
         "damage_per_second": [
-            52,
-            78,
-            117
+            42,
+            63,
+            95
         ],
-        "attack_speed": 0.65,
-        "armor": 60,
-        "magical_resistance": 60,
+        "attack_speed": 0.7,
+        "armor": 40,
+        "magical_resistance": 40,
         "stats": [
-            "苗木ダメージ: 81(%i:scaleHealth%) [7% / 7% / 75%]",
-            "デス時の苗木: [3 / 5 / 10]",
-            "発動効果ダメージ: 69(%i:scaleHealth%) [6% / 6% / 100%]",
-            "体力回復量: 330(%i:scaleAP%) [330 / 400 / 2000]"
+            "ダメージ: 100(%i:scaleAP%) [100 / 150 / 225]",
+            "スタン効果時間: [1.5 / 1.5 / 1.75]",
+            " [1.5 / 1.5 / 1.75]",
+            ""
         ],
         "traits": [
             {
@@ -799,28 +799,7 @@
                 "image": "Trait_Icon_18_OldGrowth.TFT_Set18.png"
             }
         ],
-        "items": [
-            {
-                "id": "ga-goiru_suto-npure-to",
-                "image": "DA_GargoyleStoneplate.png"
-            },
-            {
-                "id": "wa-mogu_a-ma-",
-                "image": "DA_WarmogsArmor.png"
-            },
-            {
-                "id": "supiritsuto_bisa-ziyu",
-                "image": "DA_SpiritVisage.png"
-            },
-            {
-                "id": "kuraunga-do",
-                "image": "DA_Crownguard.png"
-            },
-            {
-                "id": "purotekuta-noShi_i",
-                "image": "DA_ProtectorsVow.png"
-            }
-        ],
+        "items": [],
         "unlock": {
             "description": "",
             "type": false
@@ -836,19 +815,34 @@
         "top_4_rate": "61.19",
         "top_1_rate": "22.24",
         "battle": "425,711",
-        "description_icon": "",
-        "skill_name": "",
-        "skill_image": "",
-        "starting_mana": 0,
-        "skill_mana": 0,
-        "skill_attack_range": 0,
-        "health": [],
-        "attack_damage": [],
-        "damage_per_second": [],
-        "attack_speed": 0,
-        "armor": 0,
-        "magical_resistance": 0,
-        "stats": [],
+        "description_icon": "自動効果: 通常攻撃が、対象に隣接する敵にも75%/75%/100%のダメージを与える。\n\n発動効果: 無敵となって空中へ飛び上がる。戻ってきた時、すべての敵を1.25/1.25/99秒間スタンさせ、15%/15%/100%のオムニヴァンプを獲得し、3/3/99秒間発火状態にする。発火状態の敵は毎秒最大体力の2%/2%/20%にあたる物理ダメージを受ける。このスキルが「フレイムブレス」に置き換えられ、即座に発動する。\n\nフレイムブレス: 対象を通る一直線上にいる最も多くの敵に炎を吐き、305/465/7200の物理ダメージを与える。炎は敵に命中するたびにダメージが20%減少する(最小20%)。敵を3/3/99秒間発火状態にさせる。\n\nエルダードラゴンのバフ: 体力が12%未満の敵にダメージを与えると、その敵をキルする。",
+        "skill_name": "比類なき熱",
+        "skill_image": "TheElderDragon_1785313153-dragon_square_elder.png",
+        "starting_mana": 20,
+        "skill_mana": 60,
+        "skill_attack_range": 2,
+        "health": [
+            1800,
+            3240,
+            5832
+        ],
+        "attack_damage": [
+            125,
+            188,
+            281
+        ],
+        "damage_per_second": [
+            63,
+            94,
+            141
+        ],
+        "attack_speed": 0.5,
+        "armor": 75,
+        "magical_resistance": 75,
+        "stats": [
+            "ダメージ: %i:scaleAP% [20 / 30 / 200]",
+            "ダメージ: 305(%i:scaleAD%) = 285(%i:scaleAD%) + 20(%i:scaleAP%) [285 / 435 / 7000]"
+        ],
         "traits": [
             {
                 "id": "Bu_Shi_Zhe_noDing_Dian_",
@@ -861,7 +855,28 @@
                 "image": "Trait_Icon_18_Riftbeast.TFT_Set18.png"
             }
         ],
-        "items": [],
+        "items": [
+            {
+                "id": "inhuinitei_etsuzi",
+                "image": "DA_InfinityEdge.png"
+            },
+            {
+                "id": "rasuto_uisupa-",
+                "image": "DA_LastWhisper.png"
+            },
+            {
+                "id": "sutoraika-_hureiru",
+                "image": "DA_StrikersFlail.png"
+            },
+            {
+                "id": "desubure-do",
+                "image": "DA_Deathblade.png"
+            },
+            {
+                "id": "suteratsukunoLong_Shou_",
+                "image": "DA_SteraksGage.png"
+            }
+        ],
         "unlock": {
             "description": "",
             "type": false
@@ -1111,36 +1126,35 @@
         "top_4_rate": "65.75",
         "top_1_rate": "21.24",
         "battle": "646,938",
-        "description_icon": "自動効果: 毎秒5/5/50の「怒り」を獲得し、通常攻撃ごとに5/5/20の「怒り」を獲得する。\n\n発動効果: メガナーに変身し、3マス以内の敵の最も大きな集団に向かってリープする。その後、2/2/10マス以内の敵に100/150/2000の物理ダメージを与えて、対象の物理防御と魔法防御を15/20/250低下させ、1/1/15秒間スタンさせる。メガナーの体力が400/600/15000増加し、スキルが「掴んでぽいっ」に変化する。\n\n掴んでぽいっ: 対象を最も遠くにいる敵に投げつけ、380/570/9000の物理ダメージを与える。通り道にいた敵には135/205/4500の物理ダメージを与える。敵が残り1体の場合は、代わりにその敵をフィールド外に投げ飛ばす。",
-        "skill_name": "ぷんすこ",
-        "skill_image": "Gnar_1785307220-gnar_passive.png",
+        "description_icon": "自動効果: 5回の通常攻撃ごとに、ブーメランを投げて敵に命中させる。ブーメランは最初に命中した敵を2マス通過して戻ってくる。命中した敵に245/370/605の物理ダメージを与える。このダメージは命中するたびに75%低下する。",
+        "skill_name": "スリングショットマニューバ",
+        "skill_image": "TFT17_Gnar.jpg",
         "starting_mana": 0,
-        "skill_mana": 70,
-        "skill_attack_range": 2,
+        "skill_mana": 5,
+        "skill_attack_range": 5,
         "health": [
-            900,
-            1620,
-            2916
+            550,
+            990,
+            1782
         ],
         "attack_damage": [
-            100,
-            150,
-            225
+            48,
+            72,
+            108
         ],
         "damage_per_second": [
-            90,
-            135,
-            203
+            36,
+            54,
+            81
         ],
-        "attack_speed": 0.9,
-        "armor": 55,
-        "magical_resistance": 55,
+        "attack_speed": 0.75,
+        "armor": 20,
+        "magical_resistance": 20,
         "stats": [
-            "リープダメージ: 100(%i:scaleAD%) [100 / 150 / 2000]",
-            "防御低下: 15(%i:scaleAP%) [15 / 20 / 250]",
-            "変身時の体力: 400 [400 / 600 / 15000]",
-            "ダメージ: 380(%i:scaleAD%) [380 / 570 / 9000]",
-            "サブ対象へのダメージ: 135(%i:scaleAD%) [135 / 205 / 4500]"
+            "ダメージ %i:scaleAP% [20 / 30 / 45]",
+            "ダメージ: 245 = 225 %i:scaleAD% + 20 %i:scaleAP% [225 / 340 / 560]",
+            "ミィプ: 0 = %i:set14AmpIcon%ごとに1",
+            "ミィプダメージ: 11 = 48 %i:TFTBaseAD%の23% x 増加 %i:scaleAS%の40%"
         ],
         "traits": [
             {
@@ -1159,28 +1173,7 @@
                 "image": "Trait_Icon_18_Sprykin.TFT_Set18.png"
             }
         ],
-        "items": [
-            {
-                "id": "suteratsukunoLong_Shou_",
-                "image": "DA_SteraksGage.png"
-            },
-            {
-                "id": "buratsudosa-suta-",
-                "image": "DA_Bloodthirster.png"
-            },
-            {
-                "id": "Ju_Ren_noShi_i",
-                "image": "DA_TitansResolve.png"
-            },
-            {
-                "id": "naito_etsuzi",
-                "image": "DA_EdgeOfNight.png"
-            },
-            {
-                "id": "hando_obu_ziyasuteisu",
-                "image": "DA_HandOfJustice.png"
-            }
-        ],
+        "items": [],
         "unlock": {
             "description": "",
             "type": false
@@ -1275,16 +1268,16 @@
         "top_4_rate": "55.21",
         "top_1_rate": "16.31",
         "battle": "724,339",
-        "description_icon": "現在対象としている敵から離れるようにブリンクして、対象に250/375/1200の物理ダメージを与え、攻撃速度を30%/30%/100%獲得する。\n\n4回目のスキル発動時に「大地の激憤」で獲得した攻撃速度をすべて消費し、最も多くの敵がいる集団を貫通する衝撃波を放つ。この衝撃波は、385/580/2500の物理ダメージを与え、敵を1体貫通するごとにダメージが25%ずつ減少する(最低50%)。",
-        "skill_name": "森の突風",
-        "skill_image": "Ezreal_1785312788-ezreal_r.png",
+        "description_icon": "発動効果: 現在の対象に爆風を放ち、184/276/412の物理ダメージを与える。キルまたはアシストを7回獲得するたびにドローンを1機獲得する。ドローンはスキル使用時に現在の対象に8/12/18の物理ダメージを与える。\n(合計キル/アシスト数: ?)",
+        "skill_name": "時空弾",
+        "skill_image": "TFT17_Ezreal.jpg",
         "starting_mana": 0,
         "skill_mana": 30,
-        "skill_attack_range": 4,
+        "skill_attack_range": 5,
         "health": [
-            850,
-            1530,
-            2754
+            450,
+            810,
+            1458
         ],
         "attack_damage": [
             45,
@@ -1292,17 +1285,17 @@
             101
         ],
         "damage_per_second": [
-            34,
-            51,
-            76
+            31,
+            47,
+            71
         ],
-        "attack_speed": 0.75,
-        "armor": 40,
-        "magical_resistance": 40,
+        "attack_speed": 0.7,
+        "armor": 15,
+        "magical_resistance": 15,
         "stats": [
-            "ダメージ: 250(%i:scaleAD%) [250 / 375 / 1200]",
-            "攻撃速度: 30%(%i:scaleAP%) [30% / 30% / 100%]",
-            "強化ダメージ: 385(%i:scaleAD%) [385 / 580 / 2500]"
+            "ダメージ %i:scaleAP% [14 / 21 / 32]",
+            "ダメージ: 184 = 170(%i:scaleAD%) + 14(%i:scaleAP%) [170 / 255 / 380]",
+            "ドローンダメージ: 8(%i:scaleAD%) [8 / 12 / 18]"
         ],
         "traits": [
             {
@@ -1316,28 +1309,7 @@
                 "image": "Trait_Icon_18_Executioner.TFT_Set18.png"
             }
         ],
-        "items": [
-            {
-                "id": "shiyouzinnoMao_",
-                "image": "DA_SpearOfShojin.png"
-            },
-            {
-                "id": "rasuto_uisupa-",
-                "image": "DA_LastWhisper.png"
-            },
-            {
-                "id": "desubure-do",
-                "image": "DA_Deathblade.png"
-            },
-            {
-                "id": "retsudobahu",
-                "image": "DA_RedBuff.png"
-            },
-            {
-                "id": "inhuinitei_etsuzi",
-                "image": "DA_InfinityEdge.png"
-            }
-        ],
+        "items": [],
         "unlock": {
             "description": "",
             "type": false
@@ -1508,19 +1480,34 @@
         "top_4_rate": "55.69",
         "top_1_rate": "14.38",
         "battle": "1,298,847",
-        "description_icon": "",
-        "skill_name": "",
-        "skill_image": "",
-        "starting_mana": 0,
-        "skill_mana": 0,
-        "skill_attack_range": 0,
-        "health": [],
-        "attack_damage": [],
-        "damage_per_second": [],
-        "attack_speed": 0,
-        "armor": 0,
-        "magical_resistance": 0,
-        "stats": [],
+        "description_icon": "4秒間、耐久値480/684/2421のシールドを獲得する。地面を叩きつけ、最も多くの敵がいる方向に地割れを発生させる。命中した敵は短時間ノックアップされ、100/150/3500の魔法ダメージを受け、10のマナリーヴを付与される。\n\nブルーバフ: 守護神がスキルを使用するたび、味方のマナ自動回復が2増加する。\n\nマナリーヴ: 次に使用するスキルのマナコストを増加させる。",
+        "skill_name": "蒼き衝撃波",
+        "skill_image": "AncientSentinel_1785314249-tft16_pve_bluegolem_square.png",
+        "starting_mana": 60,
+        "skill_mana": 150,
+        "skill_attack_range": 1,
+        "health": [
+            1300,
+            2340,
+            4212
+        ],
+        "attack_damage": [
+            75,
+            113,
+            169
+        ],
+        "damage_per_second": [
+            45,
+            68,
+            101
+        ],
+        "attack_speed": 0.6,
+        "armor": 60,
+        "magical_resistance": 60,
+        "stats": [
+            "シールド: 480 = 130(%i:scaleHealth%) + 350(%i:scaleAP%) [350 / 450 / 2000]",
+            "ダメージ: 100(%i:scaleAP%) [100 / 150 / 3500]"
+        ],
         "traits": [
             {
                 "id": "invuo-ka-",
@@ -1538,7 +1525,28 @@
                 "image": "Trait_Icon_18_Vanguard.TFT_Set18.png"
             }
         ],
-        "items": [],
+        "items": [
+            {
+                "id": "purotekuta-noShi_i",
+                "image": "DA_ProtectorsVow.png"
+            },
+            {
+                "id": "ga-goiru_suto-npure-to",
+                "image": "DA_GargoyleStoneplate.png"
+            },
+            {
+                "id": "wa-mogu_a-ma-",
+                "image": "DA_WarmogsArmor.png"
+            },
+            {
+                "id": "supiritsuto_bisa-ziyu",
+                "image": "DA_SpiritVisage.png"
+            },
+            {
+                "id": "adaputeibu_herumu",
+                "image": "DA_AdaptiveHelm.png"
+            }
+        ],
         "unlock": {
             "description": "",
             "type": false
@@ -1708,34 +1716,34 @@
         "top_4_rate": "49.32",
         "top_1_rate": "13.59",
         "battle": "534,212",
-        "description_icon": "自動効果: 25%のオムニヴァンプを獲得する。\n\n発動効果: 付近の敵3体に闇の波動を放ち、60/90/500の魔法ダメージを与えて、4秒間呪いをかける。その後、同じ時間、マスの衰弱ゾーンを発生させ、毎秒33/50/500の魔法ダメージを与える。呪われた敵は、呪われるたびに受けるダメージが22/33/240増加する。",
-        "skill_name": "衰弱の呪い",
-        "skill_image": "Morgana_1785310756-fallenangel_purgatory.png",
-        "starting_mana": 0,
-        "skill_mana": 65,
-        "skill_attack_range": 2,
+        "description_icon": "3秒間変身し、745/1001/4606の体力を獲得して、周囲の敵チャンピオンと繋がる。効果時間中、最も近くにいる敵3体に100/150/3000の魔法ダメージを与え、最も近くにいる味方2体の体力を125/185/3000回復する。",
+        "skill_name": "闇の形態",
+        "skill_image": "TFT17_Morgana.jpg",
+        "starting_mana": 45,
+        "skill_mana": 95,
+        "skill_attack_range": 1,
         "health": [
-            1100,
-            1980,
-            3564
+            1300,
+            2340,
+            4212
         ],
         "attack_damage": [
-            45,
-            68,
-            101
+            60,
+            90,
+            135
         ],
         "damage_per_second": [
-            34,
-            51,
-            76
+            39,
+            59,
+            88
         ],
-        "attack_speed": 0.75,
-        "armor": 60,
-        "magical_resistance": 60,
+        "attack_speed": 0.65,
+        "armor": 70,
+        "magical_resistance": 70,
         "stats": [
-            "初期ダメージ: 60(%i:scaleAP%) [60 / 90 / 500]",
-            "範囲ダメージ: 33(%i:scaleAP%) [33 / 50 / 500]",
-            "呪いの追加ダメージ: 22(%i:scaleAP%) [22 / 33 / 240]"
+            "体力増加量: 745 = 550(%i:scaleAP%) + 15% %i:scaleHealth% [550 / 650 / 2500]",
+            "ダメージ: 100(%i:scaleAP%) [100 / 150 / 3000]",
+            "体力回復量: 125(%i:scaleAP%) [125 / 185 / 3000]"
         ],
         "traits": [
             {
@@ -1749,28 +1757,7 @@
                 "image": "Trait_Icon_18_Invoker.TFT_Set18.png"
             }
         ],
-        "items": [
-            {
-                "id": "vuoido_sutatsuhu",
-                "image": "DA_VoidStaff.png"
-            },
-            {
-                "id": "moreronomikon",
-                "image": "DA_Morellonomicon.png"
-            },
-            {
-                "id": "rabadon_desukiyatsupu",
-                "image": "DA_RabadonsDeathcap.png"
-            },
-            {
-                "id": "ziyueru_gantoretsuto",
-                "image": "DA_JeweledGauntlet.png"
-            },
-            {
-                "id": "adaputeibu_herumu",
-                "image": "DA_AdaptiveHelm.png"
-            }
-        ],
+        "items": [],
         "unlock": {
             "description": "",
             "type": false
@@ -2091,34 +2078,34 @@
         "top_4_rate": "48.98",
         "top_1_rate": "12.62",
         "battle": "652,978",
-        "description_icon": "自動効果: 対人戦ラウンド後、最も強いルブランが10%/15%/30%の確率で味方1体のコピーをボード上に作り出す。この確率はキルまたはアシストごとに4%増加する。\n\n発動効果: 現在の対象に鏡像を放ち、260/390/615の魔法ダメージを与え、隣接する敵には100/150/230を与える。",
-        "skill_name": "鏡像",
-        "skill_image": "LeBlanc_1785309488-leblancp.png",
+        "description_icon": "自動効果: 通常攻撃が66/99/250の魔法ダメージを与える。\n\n発動効果: 5体の分身を召喚する。分身は共に5回攻撃を行い、25/25/150%のダメージを与える。最後の攻撃で、分身は95/145/750の魔法ダメージを与えるボルトを放つ。",
+        "skill_name": "砕かれた現実",
+        "skill_image": "TFT17_Leblanc.jpg",
         "starting_mana": 0,
         "skill_mana": 40,
         "skill_attack_range": 4,
         "health": [
-            550,
-            990,
-            1782
+            850,
+            1530,
+            2754
         ],
         "attack_damage": [
-            30,
-            45,
-            68
+            0,
+            0,
+            0
         ],
         "damage_per_second": [
-            21,
-            32,
-            47
+            0,
+            0,
+            0
         ],
-        "attack_speed": 0.7,
+        "attack_speed": 0.8,
         "armor": 30,
         "magical_resistance": 30,
         "stats": [
-            "コピー確率: 10% [10% / 15% / 30%]",
-            "ダメージ: 260(%i:scaleAP%) [260 / 390 / 615]",
-            "サブ対象へのダメージ: 100(%i:scaleAP%) [100 / 150 / 230]"
+            "攻撃力: 66(%i:scaleAP%) [66 / 99 / 250]",
+            "分身のダメージ倍率: [25% / 25% / 150%]",
+            "ボルトのダメージ: 95(%i:scaleAP%) [95 / 145 / 750]"
         ],
         "traits": [
             {
@@ -2132,28 +2119,7 @@
                 "image": "Trait_Icon_18_Spellweaver.TFT_Set18.png"
             }
         ],
-        "items": [
-            {
-                "id": "vuoido_sutatsuhu",
-                "image": "DA_VoidStaff.png"
-            },
-            {
-                "id": "shiyouzinnoMao_",
-                "image": "DA_SpearOfShojin.png"
-            },
-            {
-                "id": "ziyueru_gantoretsuto",
-                "image": "DA_JeweledGauntlet.png"
-            },
-            {
-                "id": "moreronomikon",
-                "image": "DA_Morellonomicon.png"
-            },
-            {
-                "id": "buru-bahu",
-                "image": "DA_BlueBuff.png"
-            }
-        ],
+        "items": [],
         "unlock": {
             "description": "",
             "type": false
@@ -2169,9 +2135,9 @@
         "top_4_rate": "51.96",
         "top_1_rate": "12.45",
         "battle": "1,080,374",
-        "description_icon": "2秒間、耐久値150/275/500のシールドを獲得し、2マス以内の敵に6個の月光のオーブを分散して送り出す。オーブはそれぞれ75/115/180の魔法ダメージを与える。",
-        "skill_name": "蒼白のバリア",
-        "skill_image": "Diana_1785307652-diana_passive_lunarblade.png",
+        "description_icon": "自動効果: 通常攻撃で52/78/135の追加魔法ダメージを与える。\n\n発動効果: 3秒間、耐久値230/280/450のシールドを獲得し、自身の周囲を周回する3つのオーブを召喚する。オーブは通過した敵に60/90/160の魔法ダメージを与え、自身の攻撃速度に応じて回転が速くなる。",
+        "skill_name": "朧月の羽衣",
+        "skill_image": "TFT17_Diana.jpg",
         "starting_mana": 0,
         "skill_mana": 40,
         "skill_attack_range": 1,
@@ -2181,21 +2147,22 @@
             2754
         ],
         "attack_damage": [
-            30,
-            45,
-            68
+            0,
+            0,
+            0
         ],
         "damage_per_second": [
-            24,
-            36,
-            54
+            0,
+            0,
+            0
         ],
         "attack_speed": 0.8,
         "armor": 50,
         "magical_resistance": 50,
         "stats": [
-            "ダメージ: 75(%i:scaleAP%) [75 / 115 / 180]",
-            "シールド: 150 [150 / 275 / 500]"
+            "通常攻撃時のダメージ: 52(%i:scaleAP%) [52 / 78 / 135]",
+            "シールド: 230(%i:scaleAP%) [230 / 280 / 450]",
+            "オーブのダメージ: 60(%i:scaleAP%) [60 / 90 / 160]"
         ],
         "traits": [
             {
@@ -2214,28 +2181,7 @@
                 "image": "Trait_Icon_18_Vanguard.TFT_Set18.png"
             }
         ],
-        "items": [
-            {
-                "id": "aionitsuku_supa-ku",
-                "image": "DA_IonicSpark.png"
-            },
-            {
-                "id": "ziyueru_gantoretsuto",
-                "image": "DA_JeweledGauntlet.png"
-            },
-            {
-                "id": "hando_obu_ziyasuteisu",
-                "image": "DA_HandOfJustice.png"
-            },
-            {
-                "id": "buratsudosa-suta-",
-                "image": "DA_Bloodthirster.png"
-            },
-            {
-                "id": "Ju_Ren_noShi_i",
-                "image": "DA_TitansResolve.png"
-            }
-        ],
+        "items": [],
         "unlock": {
             "description": "",
             "type": false
@@ -2715,33 +2661,33 @@
         "top_4_rate": "48.69",
         "top_1_rate": "12.04",
         "battle": "1,022,603",
-        "description_icon": "発動効果: 4秒間、耐久値400/460/550のシールドを獲得し、扇形範囲内の敵に200/300/450の魔法ダメージを与える。\n\nクエスト: 各対人戦でオーンがブロックしたダメージを「鍛冶場パワー」として蓄える。★3になるとこの効果が85%増加する。十分な「鍛冶場パワー」を獲得するたびに、「アーティファクトの金床」を1個獲得する。(鍛冶場パワー: / )",
-        "skill_name": "ふいごの息",
-        "skill_image": "Ornn_1785312061-ornnw.png",
+        "description_icon": "自動効果: 戦闘開始時、一時的な完成アイテムを1つ鍛造する。アイテムを3つ装備している場合、代わりにこの戦闘でランダムな完成アイテムがレディアントになる。\n\n発動効果: 3秒間、耐久値125/200/500のシールドを獲得し、扇状に炎を吐いて180/270/430の魔法ダメージを与える。オーンに付与されたシールドの効果が切れると、2.5秒間ザ・グルーヴ状態になる。",
+        "skill_name": "ディスコインフェルノ",
+        "skill_image": "TFT17_Ornn.jpg",
         "starting_mana": 40,
         "skill_mana": 100,
         "skill_attack_range": 1,
         "health": [
-            700,
-            1260,
-            2268
+            950,
+            1710,
+            3078
         ],
         "attack_damage": [
-            40,
-            60,
-            90
+            50,
+            75,
+            113
         ],
         "damage_per_second": [
-            24,
-            36,
-            54
+            33,
+            49,
+            73
         ],
-        "attack_speed": 0.6,
+        "attack_speed": 0.65,
         "armor": 40,
         "magical_resistance": 40,
         "stats": [
-            "シールド: 400(%i:scaleAP%) [400 / 460 / 550]",
-            "ダメージ: 200(%i:scaleAP%) [200 / 300 / 450]"
+            "シールド: 125(%i:scaleAP%) [125 / 200 / 500]",
+            "ダメージ: 180(%i:scaleAP%) [180 / 270 / 430]"
         ],
         "traits": [
             {
@@ -2755,28 +2701,7 @@
                 "image": "Trait_Icon_18_Elderwood.TFT_Set18.png"
             }
         ],
-        "items": [
-            {
-                "id": "ga-goiru_suto-npure-to",
-                "image": "DA_GargoyleStoneplate.png"
-            },
-            {
-                "id": "wa-mogu_a-ma-",
-                "image": "DA_WarmogsArmor.png"
-            },
-            {
-                "id": "supiritsuto_bisa-ziyu",
-                "image": "DA_SpiritVisage.png"
-            },
-            {
-                "id": "kuraunga-do",
-                "image": "DA_Crownguard.png"
-            },
-            {
-                "id": "sanhuaia_ke-pu",
-                "image": "DA_SunfireCape.png"
-            }
-        ],
+        "items": [],
         "unlock": {
             "description": "",
             "type": false
@@ -2957,19 +2882,34 @@
         "top_4_rate": "55.67",
         "top_1_rate": "11.25",
         "battle": "429,970",
-        "description_icon": "",
-        "skill_name": "",
-        "skill_image": "",
+        "description_icon": "自動効果: 対象を倒すと次の対象に跳びかかり、155/235/1000の物理ダメージを与える。\n\n発動効果: 8秒間、攻撃力が80%/80%/300%増加する。この効果時間中は45%/45%/90%の物理防御を無視する。\n\nレッドバフ: 通常攻撃が敵に1%の燃焼を付与し、最大体力の4%を回復する。",
+        "skill_name": "深紅の憤怒",
+        "skill_image": "Brambleback_1785307817-tft16_pve_redgolem_square.png",
         "starting_mana": 0,
-        "skill_mana": 0,
-        "skill_attack_range": 0,
-        "health": [],
-        "attack_damage": [],
-        "damage_per_second": [],
-        "attack_speed": 0,
-        "armor": 0,
-        "magical_resistance": 0,
-        "stats": [],
+        "skill_mana": 40,
+        "skill_attack_range": 1,
+        "health": [
+            1100,
+            1980,
+            3564
+        ],
+        "attack_damage": [
+            120,
+            180,
+            270
+        ],
+        "damage_per_second": [
+            66,
+            99,
+            149
+        ],
+        "attack_speed": 0.55,
+        "armor": 65,
+        "magical_resistance": 65,
+        "stats": [
+            "跳躍ダメージ: 155(%i:scaleAD%) [155 / 235 / 1000]",
+            "増加攻撃力: 80% [80% / 80% / 300%]"
+        ],
         "traits": [
             {
                 "id": "ravuiziya-",
@@ -2982,7 +2922,28 @@
                 "image": "Trait_Icon_18_Riftbeast.TFT_Set18.png"
             }
         ],
-        "items": [],
+        "items": [
+            {
+                "id": "naito_etsuzi",
+                "image": "DA_EdgeOfNight.png"
+            },
+            {
+                "id": "suteratsukunoLong_Shou_",
+                "image": "DA_SteraksGage.png"
+            },
+            {
+                "id": "buratsudosa-suta-",
+                "image": "DA_Bloodthirster.png"
+            },
+            {
+                "id": "Ju_Ren_noShi_i",
+                "image": "DA_TitansResolve.png"
+            },
+            {
+                "id": "hando_obu_ziyasuteisu",
+                "image": "DA_HandOfJustice.png"
+            }
+        ],
         "unlock": {
             "description": "",
             "type": false
@@ -2998,9 +2959,9 @@
         "top_4_rate": "50.16",
         "top_1_rate": "11.13",
         "battle": "577,720",
-        "description_icon": "自動効果: 体力を毎秒17/27/43回復する。スキル使用後3秒間は回復量が3倍になる。\n\n発動効果: 地面から飛び出して隣接する敵を1秒間スタンさせ、70/105/160の魔法ダメージを与える。",
-        "skill_name": "抜根",
-        "skill_image": "RekSai_1785309406-reksai_w1.png",
+        "description_icon": "体力を246/302/407回復し、少しの間だけ隣接する敵をノックアップさせて80/120/180の魔法ダメージを与える。",
+        "skill_name": "大地の怒り",
+        "skill_image": "TFT17_Reksai.jpg",
         "starting_mana": 40,
         "skill_mana": 100,
         "skill_attack_range": 1,
@@ -3015,16 +2976,16 @@
             113
         ],
         "damage_per_second": [
-            28,
-            41,
-            62
+            30,
+            45,
+            68
         ],
-        "attack_speed": 0.55,
-        "armor": 40,
-        "magical_resistance": 40,
+        "attack_speed": 0.6,
+        "armor": 45,
+        "magical_resistance": 45,
         "stats": [
-            "体力回復量: 17 = 7(%i:scaleHealth%) + 10 [10 / 14 / 20]",
-            "ダメージ: 70(%i:scaleAP%) [70 / 105 / 160]"
+            "ダメージ: 80(%i:scaleAP%) [80 / 120 / 180]",
+            "体力回復量: 246 = 6.5% %i:scaleHealth% + 200(%i:scaleAP%) [200 / 220 / 260]"
         ],
         "traits": [
             {
@@ -3038,28 +2999,7 @@
                 "image": "Trait_Icon_18_OldGod.TFT_Set18.png"
             }
         ],
-        "items": [
-            {
-                "id": "ga-goiru_suto-npure-to",
-                "image": "DA_GargoyleStoneplate.png"
-            },
-            {
-                "id": "wa-mogu_a-ma-",
-                "image": "DA_WarmogsArmor.png"
-            },
-            {
-                "id": "supiritsuto_bisa-ziyu",
-                "image": "DA_SpiritVisage.png"
-            },
-            {
-                "id": "sanhuaia_ke-pu",
-                "image": "DA_SunfireCape.png"
-            },
-            {
-                "id": "aionitsuku_supa-ku",
-                "image": "DA_IonicSpark.png"
-            }
-        ],
+        "items": [],
         "unlock": {
             "description": "",
             "type": false
@@ -3075,19 +3015,33 @@
         "top_4_rate": "51.78",
         "top_1_rate": "11.06",
         "battle": "487,412",
-        "description_icon": "",
-        "skill_name": "",
-        "skill_image": "",
-        "starting_mana": 0,
-        "skill_mana": 0,
-        "skill_attack_range": 0,
-        "health": [],
-        "attack_damage": [],
-        "damage_per_second": [],
-        "attack_speed": 0,
-        "armor": 0,
-        "magical_resistance": 0,
-        "stats": [],
+        "description_icon": "毎秒最大マナの35%を消費し始めて、対象に向けてレーザーを詠唱する。詠唱中は毎秒、対象に160/240/360の魔法ダメージを与え、魔法防御を3低下させる。\n\nティールバフ: 詠唱4秒ごとに、2のマナ自動回復を獲得する。",
+        "skill_name": "蒼き光線",
+        "skill_image": "Pebbles_1785314312-tft16_pve_bluegolemmini1_square.png",
+        "starting_mana": 30,
+        "skill_mana": 70,
+        "skill_attack_range": 4,
+        "health": [
+            500,
+            900,
+            1620
+        ],
+        "attack_damage": [
+            35,
+            53,
+            79
+        ],
+        "damage_per_second": [
+            28,
+            42,
+            63
+        ],
+        "attack_speed": 0.8,
+        "armor": 25,
+        "magical_resistance": 25,
+        "stats": [
+            "ダメージ: 160(%i:scaleAP%) [160 / 240 / 360]"
+        ],
         "traits": [
             {
                 "id": "invuo-ka-",
@@ -3100,7 +3054,28 @@
                 "image": "Trait_Icon_18_Riftbeast.TFT_Set18.png"
             }
         ],
-        "items": [],
+        "items": [
+            {
+                "id": "buru-bahu",
+                "image": "DA_BlueBuff.png"
+            },
+            {
+                "id": "ziyueru_gantoretsuto",
+                "image": "DA_JeweledGauntlet.png"
+            },
+            {
+                "id": "rabadon_desukiyatsupu",
+                "image": "DA_RabadonsDeathcap.png"
+            },
+            {
+                "id": "a-kuenzieru_sutatsuhu",
+                "image": "DA_ArchangelsStaff.png"
+            },
+            {
+                "id": "vuoido_sutatsuhu",
+                "image": "DA_VoidStaff.png"
+            }
+        ],
         "unlock": {
             "description": "",
             "type": false
@@ -3435,19 +3410,34 @@
         "top_4_rate": "49.68",
         "top_1_rate": "10.79",
         "battle": "562,461",
-        "description_icon": "",
-        "skill_name": "",
-        "skill_image": "",
-        "starting_mana": 0,
-        "skill_mana": 0,
-        "skill_attack_range": 0,
-        "health": [],
-        "attack_damage": [],
-        "damage_per_second": [],
-        "attack_speed": 0,
-        "armor": 0,
-        "magical_resistance": 0,
-        "stats": [],
+        "description_icon": "自動効果: 通常攻撃がダンスに変化し、隣接するすべての敵に50/75/113の物理ダメージを与える。\n\n発動効果: 地下に潜り、3秒間、耐久力が15%増加し、効果時間中325/400/675の体力を回復する。\n\nグリーンバフ: 体力が50%を下回った味方は、最大体力の15%にあたる体力を回復する。",
+        "skill_name": "掘り起こせるか？",
+        "skill_image": "Scuttlecrab_1785310854-crab_square_0.png",
+        "starting_mana": 40,
+        "skill_mana": 100,
+        "skill_attack_range": 1,
+        "health": [
+            950,
+            1710,
+            3078
+        ],
+        "attack_damage": [
+            50,
+            75,
+            113
+        ],
+        "damage_per_second": [
+            33,
+            49,
+            73
+        ],
+        "attack_speed": 0.65,
+        "armor": 45,
+        "magical_resistance": 45,
+        "stats": [
+            "ダメージ: 50(%i:scaleAD%) [50 / 75 / 112.5]",
+            "体力回復量: 325(%i:scaleAP%) [325 / 400 / 675]"
+        ],
         "traits": [
             {
                 "id": "ziyaga-no-to",
@@ -3460,7 +3450,28 @@
                 "image": "Trait_Icon_18_Riftbeast.TFT_Set18.png"
             }
         ],
-        "items": [],
+        "items": [
+            {
+                "id": "ga-goiru_suto-npure-to",
+                "image": "DA_GargoyleStoneplate.png"
+            },
+            {
+                "id": "wa-mogu_a-ma-",
+                "image": "DA_WarmogsArmor.png"
+            },
+            {
+                "id": "supiritsuto_bisa-ziyu",
+                "image": "DA_SpiritVisage.png"
+            },
+            {
+                "id": "sanhuaia_ke-pu",
+                "image": "DA_SunfireCape.png"
+            },
+            {
+                "id": "doragon_kurou",
+                "image": "DA_DragonsClaw.png"
+            }
+        ],
         "unlock": {
             "description": "",
             "type": false
@@ -3476,19 +3487,35 @@
         "top_4_rate": "51.91",
         "top_1_rate": "10.64",
         "battle": "712,291",
-        "description_icon": "",
-        "skill_name": "",
-        "skill_image": "",
-        "starting_mana": 0,
-        "skill_mana": 0,
-        "skill_attack_range": 0,
-        "health": [],
-        "attack_damage": [],
-        "damage_per_second": [],
-        "attack_speed": 0,
-        "armor": 0,
-        "magical_resistance": 0,
-        "stats": [],
+        "description_icon": "自動効果: 倒されると、体力182/338/608のクルーグレット2体に分裂し、即座に敵を挑発して自身に攻撃させる。\n\n発動効果: 最大体力を175/225/325獲得し、対象に向かって転がって223/358/620ダメージを与える。\n\nスレートバフ: 倒されると、クルーグとクルーグレットが味方に最大体力8%分の耐久値を持つシールドを付与する。",
+        "skill_name": "ロック＆リロール",
+        "skill_image": "Krug_1785308447-ancientkrug_square%20(1).png",
+        "starting_mana": 80,
+        "skill_mana": 135,
+        "skill_attack_range": 1,
+        "health": [
+            1100,
+            1980,
+            3564
+        ],
+        "attack_damage": [
+            55,
+            83,
+            124
+        ],
+        "damage_per_second": [
+            33,
+            50,
+            74
+        ],
+        "attack_speed": 0.6,
+        "armor": 40,
+        "magical_resistance": 40,
+        "stats": [
+            "クルーグレットの体力: 182 = 132(%i:scaleHealth%) + 50 [50 / 100 / 180]",
+            "増加体力: 175(%i:scaleAP%) [175 / 225 / 325]",
+            "ダメージ: 223 = 88(%i:scaleHealth%) + 135(%i:scaleAD%) [135 / 200 / 335]"
+        ],
         "traits": [
             {
                 "id": "buro-ra-",
@@ -3501,7 +3528,28 @@
                 "image": "Trait_Icon_18_Riftbeast.TFT_Set18.png"
             }
         ],
-        "items": [],
+        "items": [
+            {
+                "id": "ga-goiru_suto-npure-to",
+                "image": "DA_GargoyleStoneplate.png"
+            },
+            {
+                "id": "wa-mogu_a-ma-",
+                "image": "DA_WarmogsArmor.png"
+            },
+            {
+                "id": "supiritsuto_bisa-ziyu",
+                "image": "DA_SpiritVisage.png"
+            },
+            {
+                "id": "sanhuaia_ke-pu",
+                "image": "DA_SunfireCape.png"
+            },
+            {
+                "id": "doragon_kurou",
+                "image": "DA_DragonsClaw.png"
+            }
+        ],
         "unlock": {
             "description": "",
             "type": false
@@ -3751,192 +3799,11 @@
         "top_4_rate": "48.54",
         "top_1_rate": "10.20",
         "battle": "506,665",
-        "description_icon": "周囲のランダムな敵の頭上に素早くフューリーホーンを15体召喚する。フューリーホーンはそれぞれ200/330/475の魔法ダメージを与える。",
-        "skill_name": "フューリーホーン ストーム",
-        "skill_image": "TFTEvent5YRVeigar_1781853365-TFTEvent5YR_Veigar.jpg",
+        "description_icon": "指定した対象に巨大な魔弾を放ち、200/300/450の魔法ダメージを与える。対象の体力が最大体力の30%を下回っていた場合は、このダメージが300/450/675に増加する。\n\n対象が倒されると、魔力が恒久的に2%増加する。\n\n現在の増加量: %",
+        "skill_name": "メテオバースト",
+        "skill_image": "Veigar_1785310938-veigarprimordialburst.png",
         "starting_mana": 0,
-        "skill_mana": 75,
-        "skill_attack_range": 4,
-        "health": [
-            800,
-            1440,
-            2592
-        ],
-        "attack_damage": [
-            45,
-            68,
-            101
-        ],
-        "damage_per_second": [
-            38,
-            57,
-            86
-        ],
-        "attack_speed": 0.85,
-        "armor": 25,
-        "magical_resistance": 25,
-        "stats": [
-            "フューリーホーンの数 [15 / 15 / 30]",
-            "ダメージ: 200(%i:scaleAP%) [200% / 330% / 475%]"
-        ],
-        "traits": [
-            {
-                "id": "buratsukuso-n",
-                "name": "ブラックソーン",
-                "image": "Trait_Icon_18_OldGod.TFT_Set18.png"
-            },
-            {
-                "id": "superuui-ba-",
-                "name": "スペルウィーバー",
-                "image": "Trait_Icon_18_Spellweaver.TFT_Set18.png"
-            },
-            {
-                "id": "supuraikin",
-                "name": "スプライキン",
-                "image": "Trait_Icon_18_Sprykin.TFT_Set18.png"
-            }
-        ],
-        "items": [],
-        "unlock": {
-            "description": "",
-            "type": false
-        }
-    },
-    {
-        "stt": 55,
-        "id": "zaya",
-        "name": "ザヤ",
-        "image": "tft18_xayah.tft_set18.jpg",
-        "price": "1",
-        "average_position": "4.82",
-        "top_4_rate": "43.92",
-        "top_1_rate": "10.12",
-        "battle": "498,709",
-        "description_icon": "自動効果: 通常攻撃が跳ね返って3/3/5回命中し、命中するたびにダメージが60/60/30%減少する。最後の対象の後ろに羽根を1枚残す。\n\n発動効果: 次の6回の通常攻撃の攻撃速度が75%増加する。効果終了時、最も近くにいる3体の敵に羽根が分散して飛来し、それぞれが51/77/960の物理ダメージを与える。ザヤの現在の対象は、羽根1枚ごとに追加で25/40/200の物理ダメージを受ける。",
-        "skill_name": "まばゆき跳弾",
-        "skill_image": "TFT17_Xayah.jpg",
-        "starting_mana": 0,
-        "skill_mana": 50,
-        "skill_attack_range": 5,
-        "health": [
-            850,
-            1530,
-            2754
-        ],
-        "attack_damage": [
-            49,
-            74,
-            110
-        ],
-        "damage_per_second": [
-            37,
-            55,
-            83
-        ],
-        "attack_speed": 0.75,
-        "armor": 30,
-        "magical_resistance": 30,
-        "stats": [
-            "攻撃: [3 / 3 / 5]",
-            "ダメージ軽減率: [60% / 60% / 30%]",
-            "ダメージ %i:scaleAP% [6 / 9 / 60]",
-            "ダメージ: 51 = 45(%i:scaleAD%) + 6(%i:scaleAP%) [45 / 68 / 900]",
-            "メイン対象へのダメージ: %i:scaleAD% [25 / 40 / 200]"
-        ],
-        "traits": [
-            {
-                "id": "eruda-utsudo",
-                "name": "エルダーウッド",
-                "image": "Trait_Icon_18_Elderwood.TFT_Set18.png"
-            },
-            {
-                "id": "huei",
-                "name": "フェイ",
-                "image": "Trait_Icon_18_Fae.TFT_Set18.png"
-            },
-            {
-                "id": "rapitsudohuaia",
-                "name": "ラピッドファイア",
-                "image": "Trait_Icon_18_Rapidfire.TFT_Set18.png"
-            }
-        ],
-        "items": [],
-        "unlock": {
-            "description": "",
-            "type": false
-        }
-    },
-    {
-        "stt": 56,
-        "id": "shien",
-        "name": "シェン",
-        "image": "tft18_shen.tft_set18.jpg",
-        "price": "2",
-        "average_position": "4.7",
-        "top_4_rate": "46.37",
-        "top_1_rate": "10.08",
-        "battle": "436,954",
-        "description_icon": "自動効果: スキル発動時、通常攻撃に38/63/819のスタックする追加魔法ダメージを付与する。3回目の発動からは、代わりに確定ダメージを与える。\n\n発動効果: 3秒間、耐久値395/601/4088のシールドを獲得する。その後、最も多数のチャンピオンが集まっている場所に裂け目を開き、範囲内のすべての敵に自動効果の追加ダメージを与える。範囲内の敵は攻撃速度が50/50/99%低下し、範囲内の味方は攻撃速度が80/80/999%増加する。この効果はいずれも3秒かけて急速に減衰する。この効果時間中、常に「裂け目」の全ボーナスを獲得する。",
-        "skill_name": "リアリティーテア",
-        "skill_image": "TFT17_Shen.jpg",
-        "starting_mana": 20,
-        "skill_mana": 70,
-        "skill_attack_range": 1,
-        "health": [
-            1300,
-            2340,
-            4212
-        ],
-        "attack_damage": [
-            50,
-            75,
-            113
-        ],
-        "damage_per_second": [
-            45,
-            68,
-            101
-        ],
-        "attack_speed": 0.9,
-        "armor": 65,
-        "magical_resistance": 65,
-        "stats": [
-            "追加ダメージ: 38 = 1% %i:scaleHealth% + 25 %i:scaleAP% [25 / 40 / 777]",
-            "シールド量: 395 = 15% %i:scaleHealth% + 200 %i:scaleAP% [200 / 250 / 3456]"
-        ],
-        "traits": [
-            {
-                "id": "deihuenda-",
-                "name": "ディフェンダー",
-                "image": "Trait_Icon_18_Defender.TFT_Set18.png"
-            },
-            {
-                "id": "inhueruno",
-                "name": "インフェルノ",
-                "image": "Trait_Icon_18_Inferno.TFT_Set18.png"
-            }
-        ],
-        "items": [],
-        "unlock": {
-            "description": "",
-            "type": false
-        }
-    },
-    {
-        "stt": 57,
-        "id": "karuma",
-        "name": "カルマ",
-        "image": "tft18_karma.tft_set18.jpg",
-        "price": "1",
-        "average_position": "4.73",
-        "top_4_rate": "45.78",
-        "top_1_rate": "10.00",
-        "battle": "402,938",
-        "description_icon": "現在の対象と繋がり、1.5秒かけて280/420/630の魔法ダメージを与える。その後、その対象の周囲に爆発的な力を解き放ち、1マス以内のすべての敵に125/185/300の魔法ダメージを与え、2秒間30%のスロウ効果を付与する。\n\nスロウ効果: 攻撃速度が低下する。",
-        "skill_name": "カルマの絆",
-        "skill_image": "Karma_1785313329-karma_w1.png",
-        "starting_mana": 0,
-        "skill_mana": 40,
+        "skill_mana": 30,
         "skill_attack_range": 4,
         "health": [
             500,
@@ -3957,19 +3824,24 @@
         "armor": 25,
         "magical_resistance": 25,
         "stats": [
-            "ダメージ: 280(%i:scaleAP%) [280 / 420 / 630]",
-            "バーストダメージ: 125(%i:scaleAP%) [125 / 185 / 300]"
+            "ダメージ: 200(%i:scaleAP%) [200 / 300 / 450]",
+            "体力低下時のダメージ: 300(%i:scaleAP%) [300 / 450 / 675]"
         ],
         "traits": [
             {
-                "id": "burotsusamu",
-                "name": "ブロッサム",
-                "image": "Trait_Icon_18_Blossom.TFT_Set18.png"
+                "id": "buratsukuso-n",
+                "name": "ブラックソーン",
+                "image": "Trait_Icon_18_OldGod.TFT_Set18.png"
             },
             {
                 "id": "superuui-ba-",
                 "name": "スペルウィーバー",
                 "image": "Trait_Icon_18_Spellweaver.TFT_Set18.png"
+            },
+            {
+                "id": "supuraikin",
+                "name": "スプライキン",
+                "image": "Trait_Icon_18_Sprykin.TFT_Set18.png"
             }
         ],
         "items": [
@@ -3978,20 +3850,20 @@
                 "image": "DA_JeweledGauntlet.png"
             },
             {
-                "id": "shiyouzinnoMao_",
-                "image": "DA_SpearOfShojin.png"
+                "id": "buru-bahu",
+                "image": "DA_BlueBuff.png"
             },
             {
-                "id": "vuoido_sutatsuhu",
-                "image": "DA_VoidStaff.png"
+                "id": "hekusutetsuku_ganbure-do",
+                "image": "DA_HextechGunblade.png"
             },
             {
                 "id": "rabadon_desukiyatsupu",
                 "image": "DA_RabadonsDeathcap.png"
             },
             {
-                "id": "a-kuenzieru_sutatsuhu",
-                "image": "DA_ArchangelsStaff.png"
+                "id": "huro-ra*huata-risunoWen_Zhang_",
+                "image": "DA_18_EmblemFloraFatalisAugment.png"
             }
         ],
         "unlock": {
@@ -4000,135 +3872,58 @@
         }
     },
     {
-        "stt": 58,
-        "id": "murkwolf",
-        "name": "Murkwolf",
-        "image": "Murkwolf.jpg",
-        "price": "2",
-        "average_position": "4.48",
-        "top_4_rate": "51.14",
-        "top_1_rate": "9.71",
-        "battle": "362,972",
-        "description_icon": "",
-        "skill_name": "",
-        "skill_image": "",
-        "starting_mana": 0,
-        "skill_mana": 0,
-        "skill_attack_range": 0,
-        "health": [],
-        "attack_damage": [],
-        "damage_per_second": [],
-        "attack_speed": 0,
-        "armor": 0,
-        "magical_resistance": 0,
-        "stats": [],
-        "traits": [
-            {
-                "id": "ravuiziya-",
-                "name": "ラヴィジャー",
-                "image": "Trait_Icon_18_Ravager.TFT_Set18.png"
-            },
-            {
-                "id": "rihutobi-suto",
-                "name": "リフトビースト",
-                "image": "Trait_Icon_18_Riftbeast.TFT_Set18.png"
-            }
-        ],
-        "items": [],
-        "unlock": {
-            "description": "",
-            "type": false
-        }
-    },
-    {
-        "stt": 59,
-        "id": "cinderling",
-        "name": "Cinderling",
-        "image": "Cinderling.jpg",
+        "stt": 55,
+        "id": "zaya",
+        "name": "ザヤ",
+        "image": "tft18_xayah.tft_set18.jpg",
         "price": "1",
-        "average_position": "4.55",
-        "top_4_rate": "50.16",
-        "top_1_rate": "9.71",
-        "battle": "323,210",
-        "description_icon": "",
-        "skill_name": "",
-        "skill_image": "",
+        "average_position": "4.82",
+        "top_4_rate": "43.92",
+        "top_1_rate": "10.12",
+        "battle": "498,709",
+        "description_icon": "次の通常攻撃5回の間、攻撃速度を50%獲得する。これらの通常攻撃は羽根に置き換わり、68/102/155の物理ダメージを与え、物理防御を2低下させる。",
+        "skill_name": "デッドリープルーム",
+        "skill_image": "Xayah_1785312933-xayahw.png",
         "starting_mana": 0,
-        "skill_mana": 0,
-        "skill_attack_range": 0,
-        "health": [],
-        "attack_damage": [],
-        "damage_per_second": [],
-        "attack_speed": 0,
-        "armor": 0,
-        "magical_resistance": 0,
-        "stats": [],
-        "traits": [
-            {
-                "id": "hanta-",
-                "name": "ハンター",
-                "image": "Trait_Icon_18_Hunter.TFT_Set18.png"
-            },
-            {
-                "id": "rihutobi-suto",
-                "name": "リフトビースト",
-                "image": "Trait_Icon_18_Riftbeast.TFT_Set18.png"
-            }
-        ],
-        "items": [],
-        "unlock": {
-            "description": "",
-            "type": false
-        }
-    },
-    {
-        "stt": 60,
-        "id": "keiru",
-        "name": "ケイル",
-        "image": "tft18_kayle.tft_set18.jpg",
-        "price": "2",
-        "average_position": "4.72",
-        "top_4_rate": "46.08",
-        "top_1_rate": "9.58",
-        "battle": "383,248",
-        "description_icon": "自動効果: 自身のスターレベルに応じて「超越」し、スタックするボーナスを獲得する。\n\n1回目の超越: 通常攻撃が62/92/105の追加魔法ダメージを与える。\n2回目の超越: 通常攻撃が命中した敵に2秒間、20%の細断を付与する。\n3回目の超越: 通常攻撃が波動を放ち、命中した他の全ユニットに35の魔法ダメージを与える。\n4回目の超越: 射程が無限になる。3回おきに波動が大幅に広がる。\n\n細断: 魔法防御を低下させる。",
-        "skill_name": "太陽の審判",
-        "skill_image": "Kayle_1785313777-kayle_p.png",
-        "starting_mana": 0,
-        "skill_mana": 0,
+        "skill_mana": 50,
         "skill_attack_range": 4,
         "health": [
-            550,
-            990,
-            1782
+            450,
+            810,
+            1458
         ],
         "attack_damage": [
-            10,
-            15,
-            23
+            45,
+            68,
+            101
         ],
         "damage_per_second": [
-            8,
-            11,
-            17
+            31,
+            47,
+            71
         ],
-        "attack_speed": 0.75,
-        "armor": 30,
-        "magical_resistance": 30,
+        "attack_speed": 0.7,
+        "armor": 25,
+        "magical_resistance": 25,
         "stats": [
-            "ダメージ: 62(%i:scaleAP%) [62 / 92 / 105]",
-            "追加ダメージ: 35(%i:scaleAP%) [35 / 35 / 35]"
+            "ダメージ: 68(%i:scaleAD%) [68 / 102 / 155]",
+            "物理防御低下: 2(%i:scaleAP%) [2 / 2 / 2]"
         ],
         "traits": [
+            {
+                "id": "eruda-utsudo",
+                "name": "エルダーウッド",
+                "image": "Trait_Icon_18_Elderwood.TFT_Set18.png"
+            },
+            {
+                "id": "huei",
+                "name": "フェイ",
+                "image": "Trait_Icon_18_Fae.TFT_Set18.png"
+            },
             {
                 "id": "rapitsudohuaia",
                 "name": "ラピッドファイア",
                 "image": "Trait_Icon_18_Rapidfire.TFT_Set18.png"
-            },
-            {
-                "id": "so-ra-",
-                "name": "ソーラー",
-                "image": "Trait_Icon_18_Solar.TFT_Set18.png"
             }
         ],
         "items": [
@@ -4137,20 +3932,20 @@
                 "image": "DA_GuinsoosRageblade.png"
             },
             {
-                "id": "ziyueru_gantoretsuto",
-                "image": "DA_JeweledGauntlet.png"
+                "id": "inhuinitei_etsuzi",
+                "image": "DA_InfinityEdge.png"
             },
             {
-                "id": "rabadon_desukiyatsupu",
-                "image": "DA_RabadonsDeathcap.png"
+                "id": "desubure-do",
+                "image": "DA_Deathblade.png"
+            },
+            {
+                "id": "kura-kennoNu_ri",
+                "image": "DA_KrakensFury.png"
             },
             {
                 "id": "ziyaianto_sureiya-",
                 "image": "DA_GiantSlayer.png"
-            },
-            {
-                "id": "hekusutetsuku_ganbure-do",
-                "image": "DA_HextechGunblade.png"
             }
         ],
         "unlock": {
@@ -4159,25 +3954,25 @@
         }
     },
     {
-        "stt": 61,
-        "id": "reona",
-        "name": "レオナ",
-        "image": "tft18_leona.tft_set18.jpg",
-        "price": "1",
-        "average_position": "4.72",
-        "top_4_rate": "46.38",
-        "top_1_rate": "9.51",
-        "battle": "476,039",
-        "description_icon": "自動効果: 戦闘開始時に60/80/100の追加物理防御と魔法防御を獲得する。この効果は12秒かけて減衰する。\n\n発動効果: 現在の対象をバッシュして60/108/162の魔法ダメージを与え、1.5秒間スタンさせる。",
-        "skill_name": "シールドバッシュ",
-        "skill_image": "Leona_1785309374-leonaq.png",
+        "stt": 56,
+        "id": "shien",
+        "name": "シェン",
+        "image": "tft18_shen.tft_set18.jpg",
+        "price": "2",
+        "average_position": "4.7",
+        "top_4_rate": "46.37",
+        "top_1_rate": "10.08",
+        "battle": "436,954",
+        "description_icon": "4秒間、自身に耐久値350/430/550のシールドを、周囲のダメージを負った味方1体に耐久値200/275/375のシールドを付与する。両者は次の3回の通常攻撃における攻撃速度が40%増加し、35/55/80の追加魔法ダメージを与える。",
+        "skill_name": "内気功",
+        "skill_image": "Shen_1787708883-Shen_1785746133-T_18_Shen_AbilityIcon.jpg",
         "starting_mana": 30,
         "skill_mana": 90,
         "skill_attack_range": 1,
         "health": [
-            750,
-            1350,
-            2430
+            900,
+            1620,
+            2916
         ],
         "attack_damage": [
             50,
@@ -4190,11 +3985,12 @@
             73
         ],
         "attack_speed": 0.65,
-        "armor": 40,
-        "magical_resistance": 40,
+        "armor": 45,
+        "magical_resistance": 45,
         "stats": [
-            "徐々に減少する防御力: 60(%i:scaleAP%) [60 / 80 / 100]",
-            "ダメージ: 60(%i:scaleArmor%) [150% / 270% / 405%]"
+            "自身のシールド: 350(%i:scaleAP%) [350 / 430 / 550]",
+            "味方のシールド: 200(%i:scaleAP%) [200 / 275 / 375]",
+            "ダメージ: 35(%i:scaleAP%) [35 / 55 / 80]"
         ],
         "traits": [
             {
@@ -4203,9 +3999,9 @@
                 "image": "Trait_Icon_18_Defender.TFT_Set18.png"
             },
             {
-                "id": "so-ra-",
-                "name": "ソーラー",
-                "image": "Trait_Icon_18_Solar.TFT_Set18.png"
+                "id": "inhueruno",
+                "name": "インフェルノ",
+                "image": "Trait_Icon_18_Inferno.TFT_Set18.png"
             }
         ],
         "items": [
@@ -4230,6 +4026,332 @@
                 "image": "DA_DragonsClaw.png"
             }
         ],
+        "unlock": {
+            "description": "",
+            "type": false
+        }
+    },
+    {
+        "stt": 57,
+        "id": "karuma",
+        "name": "カルマ",
+        "image": "tft18_karma.tft_set18.jpg",
+        "price": "1",
+        "average_position": "4.73",
+        "top_4_rate": "45.78",
+        "top_1_rate": "10.00",
+        "battle": "402,938",
+        "description_icon": "ブラックホールの力を集め、対象とその周囲にいる最も近くの敵2/2/4体に630/945/5000の魔法ダメージを分割して与える。対象は追加で180/270/1000の魔法ダメージを受ける。",
+        "skill_name": "特異点",
+        "skill_image": "TFT17_Karma.jpg",
+        "starting_mana": 10,
+        "skill_mana": 55,
+        "skill_attack_range": 4,
+        "health": [
+            850,
+            1530,
+            2754
+        ],
+        "attack_damage": [
+            40,
+            60,
+            90
+        ],
+        "damage_per_second": [
+            32,
+            48,
+            72
+        ],
+        "attack_speed": 0.8,
+        "armor": 30,
+        "magical_resistance": 30,
+        "stats": [
+            "ダメージ: 630(%i:scaleAP%) [630 / 945 / 5000]",
+            "対象の数: [2 / 2 / 4]",
+            "追加ダメージ: 180(%i:scaleAP%) [180 / 270 / 1000]"
+        ],
+        "traits": [
+            {
+                "id": "burotsusamu",
+                "name": "ブロッサム",
+                "image": "Trait_Icon_18_Blossom.TFT_Set18.png"
+            },
+            {
+                "id": "superuui-ba-",
+                "name": "スペルウィーバー",
+                "image": "Trait_Icon_18_Spellweaver.TFT_Set18.png"
+            }
+        ],
+        "items": [],
+        "unlock": {
+            "description": "",
+            "type": false
+        }
+    },
+    {
+        "stt": 58,
+        "id": "murkwolf",
+        "name": "Murkwolf",
+        "image": "Murkwolf.jpg",
+        "price": "2",
+        "average_position": "4.48",
+        "top_4_rate": "51.14",
+        "top_1_rate": "9.71",
+        "battle": "362,972",
+        "description_icon": "3マス以内で最も体力の低い敵に跳びかかり、500/1050/2250の物理ダメージを与える。次の2回の通常攻撃の攻撃速度が175%増加し、65/100/160の追加物理ダメージを与える。\n\nグレーバフ: 「正確無比」を獲得し、クリティカル率が25%増加する。この効果は減少体力に応じて最大75%まで増加する。",
+        "skill_name": "引き裂く爪",
+        "skill_image": "Murkwolf_1785311993-Greater_Murk_Wolf_profileicon.png",
+        "starting_mana": 0,
+        "skill_mana": 40,
+        "skill_attack_range": 1,
+        "health": [
+            700,
+            1260,
+            2268
+        ],
+        "attack_damage": [
+            50,
+            75,
+            113
+        ],
+        "damage_per_second": [
+            38,
+            56,
+            84
+        ],
+        "attack_speed": 0.75,
+        "armor": 40,
+        "magical_resistance": 40,
+        "stats": [
+            "ダメージ: %i:scaleAP% [20 / 30 / 45]",
+            "ダメージ: 500 = 100(%i:scaleAD%) + 20(%i:scaleAP%) [100 / 150 / 225]",
+            "強化ダメージ: 65(%i:scaleAD%) [65 / 100 / 160]"
+        ],
+        "traits": [
+            {
+                "id": "ravuiziya-",
+                "name": "ラヴィジャー",
+                "image": "Trait_Icon_18_Ravager.TFT_Set18.png"
+            },
+            {
+                "id": "rihutobi-suto",
+                "name": "リフトビースト",
+                "image": "Trait_Icon_18_Riftbeast.TFT_Set18.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "hando_obu_ziyasuteisu",
+                "image": "DA_HandOfJustice.png"
+            },
+            {
+                "id": "naito_etsuzi",
+                "image": "DA_EdgeOfNight.png"
+            },
+            {
+                "id": "inhuinitei_etsuzi",
+                "image": "DA_InfinityEdge.png"
+            },
+            {
+                "id": "buratsudosa-suta-",
+                "image": "DA_Bloodthirster.png"
+            },
+            {
+                "id": "suteratsukunoLong_Shou_",
+                "image": "DA_SteraksGage.png"
+            }
+        ],
+        "unlock": {
+            "description": "",
+            "type": false
+        }
+    },
+    {
+        "stt": 59,
+        "id": "cinderling",
+        "name": "Cinderling",
+        "image": "Cinderling.jpg",
+        "price": "1",
+        "average_position": "4.55",
+        "top_4_rate": "50.16",
+        "top_1_rate": "9.71",
+        "battle": "323,210",
+        "description_icon": "鋭い刃のような葉を5枚召喚して現在の対象に収束させ、合計340/510/770の物理ダメージを与え、4秒間、20%の負傷と1%の燃焼を付与する。\n\nスカーレットバフ: スキルを使用するたびにシンダーリングの攻撃力が22%増加する。\n\n負傷: 受ける回復効果を低下させる。\n燃焼: 毎秒、対象の最大体力の一定割合にあたる確定ダメージを与える。",
+        "skill_name": "鋭葉カッター",
+        "skill_image": "Cinderling_1785314354-tft16_pve_redgolemmini_square.png",
+        "starting_mana": 0,
+        "skill_mana": 50,
+        "skill_attack_range": 4,
+        "health": [
+            500,
+            900,
+            1620
+        ],
+        "attack_damage": [
+            40,
+            60,
+            90
+        ],
+        "damage_per_second": [
+            28,
+            42,
+            63
+        ],
+        "attack_speed": 0.7,
+        "armor": 25,
+        "magical_resistance": 25,
+        "stats": [
+            "ダメージ: %i:scaleAP% [30 / 45 / 70]",
+            "ダメージ: 340 = 310(%i:scaleAD%) + 30(%i:scaleAP%) [310 / 465 / 700]"
+        ],
+        "traits": [
+            {
+                "id": "hanta-",
+                "name": "ハンター",
+                "image": "Trait_Icon_18_Hunter.TFT_Set18.png"
+            },
+            {
+                "id": "rihutobi-suto",
+                "name": "リフトビースト",
+                "image": "Trait_Icon_18_Riftbeast.TFT_Set18.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "inhuinitei_etsuzi",
+                "image": "DA_InfinityEdge.png"
+            },
+            {
+                "id": "rasuto_uisupa-",
+                "image": "DA_LastWhisper.png"
+            },
+            {
+                "id": "shiyouzinnoMao_",
+                "image": "DA_SpearOfShojin.png"
+            },
+            {
+                "id": "guinso-_reizibure-do",
+                "image": "DA_GuinsoosRageblade.png"
+            },
+            {
+                "id": "buru-bahu",
+                "image": "DA_BlueBuff.png"
+            }
+        ],
+        "unlock": {
+            "description": "",
+            "type": false
+        }
+    },
+    {
+        "stt": 60,
+        "id": "keiru",
+        "name": "ケイル",
+        "image": "tft18_kayle.tft_set18.jpg",
+        "price": "2",
+        "average_position": "4.72",
+        "top_4_rate": "46.08",
+        "top_1_rate": "9.58",
+        "battle": "383,248",
+        "description_icon": "自動効果: 通常攻撃が15/35/45の追加魔法ダメージを与える。\n\n発動効果: 現在対象としている敵に向けて波動を放ち、命中したすべての敵に125/250/390の魔法ダメージを与える。",
+        "skill_name": "天空の炎",
+        "skill_image": "PBEKayle_1752545331-kayle_p.png",
+        "starting_mana": 0,
+        "skill_mana": 100,
+        "skill_attack_range": 5,
+        "health": [
+            450,
+            810,
+            1458
+        ],
+        "attack_damage": [
+            30,
+            45,
+            68
+        ],
+        "damage_per_second": [
+            21,
+            32,
+            47
+        ],
+        "attack_speed": 0.7,
+        "armor": 25,
+        "magical_resistance": 25,
+        "stats": [
+            "自動効果ダメージ: 15(%i:scaleAP%) [15% / 35% / 45%]",
+            "ダメージ: 125(%i:scaleAP%) [125% / 250% / 390%]"
+        ],
+        "traits": [
+            {
+                "id": "rapitsudohuaia",
+                "name": "ラピッドファイア",
+                "image": "Trait_Icon_18_Rapidfire.TFT_Set18.png"
+            },
+            {
+                "id": "so-ra-",
+                "name": "ソーラー",
+                "image": "Trait_Icon_18_Solar.TFT_Set18.png"
+            }
+        ],
+        "items": [],
+        "unlock": {
+            "description": "",
+            "type": false
+        }
+    },
+    {
+        "stt": 61,
+        "id": "reona",
+        "name": "レオナ",
+        "image": "tft18_leona.tft_set18.jpg",
+        "price": "1",
+        "average_position": "4.72",
+        "top_4_rate": "46.38",
+        "top_1_rate": "9.51",
+        "battle": "476,039",
+        "description_icon": "4秒間、耐久値420/480/620のシールドを獲得する。現在の対象を強打して196/294/441の魔法ダメージを与え、1.75/1.75/2秒間スタンさせる。",
+        "skill_name": "シールド・オブ・デイブレイク",
+        "skill_image": "TFT17_Leona.jpg",
+        "starting_mana": 50,
+        "skill_mana": 110,
+        "skill_attack_range": 1,
+        "health": [
+            700,
+            1260,
+            2268
+        ],
+        "attack_damage": [
+            50,
+            75,
+            113
+        ],
+        "damage_per_second": [
+            30,
+            45,
+            68
+        ],
+        "attack_speed": 0.6,
+        "armor": 40,
+        "magical_resistance": 40,
+        "stats": [
+            "シールド: 420(%i:scaleAP%) [420 / 480 / 620]",
+            "基本ダメージ: 100 [100 / 150 / 225]",
+            "ダメージ: 196 = 100 + %i:scaleArmor%の120% + %i:scaleMR%の120% [120% / 180% / 270%]",
+            "スタン効果時間 [1.75 / 1.75 / 2]"
+        ],
+        "traits": [
+            {
+                "id": "deihuenda-",
+                "name": "ディフェンダー",
+                "image": "Trait_Icon_18_Defender.TFT_Set18.png"
+            },
+            {
+                "id": "so-ra-",
+                "name": "ソーラー",
+                "image": "Trait_Icon_18_Solar.TFT_Set18.png"
+            }
+        ],
+        "items": [],
         "unlock": {
             "description": "",
             "type": false
@@ -4322,19 +4444,34 @@
         "top_4_rate": "50.28",
         "top_1_rate": "9.33",
         "battle": "218,455",
-        "description_icon": "",
-        "skill_name": "",
-        "skill_image": "",
+        "description_icon": "アダプター : 現在の対象に向かって有毒な泡を吐き出す。泡は最初の敵に命中した時点で爆発し、225/340/535の魔法ダメージを与える。爆発の1マス以内にいる敵は3秒かけて175/265/410の魔法ダメージを受ける。\n\nアダプター : 対象に強力なスロウ効果を付与する。\n\nパープルバフ: 5秒ごとに魔力が30%増加する。",
+        "skill_name": "ベルチーバブル",
+        "skill_image": "Gromp_1785746092-T_Gromp18_Spell.jpg",
         "starting_mana": 0,
-        "skill_mana": 0,
-        "skill_attack_range": 0,
-        "health": [],
-        "attack_damage": [],
-        "damage_per_second": [],
-        "attack_speed": 0,
-        "armor": 0,
-        "magical_resistance": 0,
-        "stats": [],
+        "skill_mana": 45,
+        "skill_attack_range": 4,
+        "health": [
+            550,
+            990,
+            1782
+        ],
+        "attack_damage": [
+            30,
+            45,
+            68
+        ],
+        "damage_per_second": [
+            21,
+            32,
+            47
+        ],
+        "attack_speed": 0.7,
+        "armor": 30,
+        "magical_resistance": 30,
+        "stats": [
+            "ダメージ: 225(%i:scaleAP%) [225 / 340 / 535]",
+            "範囲ダメージ: 175(%i:scaleAP%) [175 / 265 / 410]"
+        ],
         "traits": [
             {
                 "id": "adaputa-",
@@ -4347,7 +4484,28 @@
                 "image": "Trait_Icon_18_Riftbeast.TFT_Set18.png"
             }
         ],
-        "items": [],
+        "items": [
+            {
+                "id": "ziyueru_gantoretsuto",
+                "image": "DA_JeweledGauntlet.png"
+            },
+            {
+                "id": "shiyouzinnoMao_",
+                "image": "DA_SpearOfShojin.png"
+            },
+            {
+                "id": "buru-bahu",
+                "image": "DA_BlueBuff.png"
+            },
+            {
+                "id": "rabadon_desukiyatsupu",
+                "image": "DA_RabadonsDeathcap.png"
+            },
+            {
+                "id": "a-kuenzieru_sutatsuhu",
+                "image": "DA_ArchangelsStaff.png"
+            }
+        ],
         "unlock": {
             "description": "",
             "type": false
@@ -4363,33 +4521,36 @@
         "top_4_rate": "50.65",
         "top_1_rate": "9.31",
         "battle": "414,512",
-        "description_icon": "敵を挑発して、このチャンピオンを攻撃させる。4秒間、400/550/725のシールドと60の物理防御および魔法防御を獲得する。\n\nシールドが破壊されると、2マス以内の敵に50/75/120の物理ダメージを与える。",
-        "skill_name": "かたくなる",
-        "skill_image": "Rammus_1785308974-armordillo_shellbash.png",
-        "starting_mana": 30,
+        "description_icon": "4秒間、耐久値675/825/2000のシールドを獲得する。その後、3マス以内の直線上にいる敵に80/120/1360の魔法ダメージを与える。",
+        "skill_name": "重力スピン",
+        "skill_image": "TFT17_Rammus.jpg",
+        "starting_mana": 20,
         "skill_mana": 80,
         "skill_attack_range": 1,
         "health": [
-            1100,
-            1980,
-            3564
+            1300,
+            2340,
+            4212
         ],
         "attack_damage": [
-            50,
-            75,
-            113
+            60,
+            90,
+            135
         ],
         "damage_per_second": [
-            30,
-            45,
-            68
+            39,
+            59,
+            88
         ],
-        "attack_speed": 0.6,
-        "armor": 50,
-        "magical_resistance": 50,
+        "attack_speed": 0.65,
+        "armor": 60,
+        "magical_resistance": 60,
         "stats": [
-            "シールド: 400(%i:scaleAP%) [400 / 550 / 725]",
-            "ダメージ: 50 = 25(%i:scaleArmor%) + 25(%i:scaleMR%) [50% / 75% / 120%]"
+            "シールド: 675(%i:scaleAP%) [675 / 825 / 2000]",
+            "ダメージ: %i:scaleAP% [50 / 75 / 700]",
+            "ダメージ: 80 = 50 %i:scaleAP% + 50% %i:scaleArmor% [50% / 75% / 1100%]",
+            "ダメージ軽減率: 0 = %i:set14AmpIcon%ごとに3",
+            "発動時ダメージ: 0 = %i:set14AmpIcon%ごとに20% %i:scaleArmor% [20% / 30% / 500%]"
         ],
         "traits": [
             {
@@ -4403,28 +4564,7 @@
                 "image": "Trait_Icon_18_Sprykin.TFT_Set18.png"
             }
         ],
-        "items": [
-            {
-                "id": "ga-goiru_suto-npure-to",
-                "image": "DA_GargoyleStoneplate.png"
-            },
-            {
-                "id": "wa-mogu_a-ma-",
-                "image": "DA_WarmogsArmor.png"
-            },
-            {
-                "id": "supiritsuto_bisa-ziyu",
-                "image": "DA_SpiritVisage.png"
-            },
-            {
-                "id": "Yao_ruganuXin_",
-                "image": "DA_SteadfastHeart.png"
-            },
-            {
-                "id": "sanhuaia_ke-pu",
-                "image": "DA_SunfireCape.png"
-            }
-        ],
+        "items": [],
         "unlock": {
             "description": "",
             "type": false
@@ -4440,19 +4580,34 @@
         "top_4_rate": "49.55",
         "top_1_rate": "9.21",
         "battle": "306,908",
-        "description_icon": "",
-        "skill_name": "",
-        "skill_image": "",
-        "starting_mana": 0,
-        "skill_mana": 0,
-        "skill_attack_range": 0,
-        "health": [],
-        "attack_damage": [],
-        "damage_per_second": [],
-        "attack_speed": 0,
-        "armor": 0,
-        "magical_resistance": 0,
-        "stats": [],
+        "description_icon": "周辺に5秒間、対象指定不可のミニヒナ鳥を4体召喚する。ママ鳥が攻撃するたびにミニヒナ鳥も同じ敵を攻撃し、22/33/48の物理ダメージを与える。\n\nオレンジバフ: 物理ダメージを与えると、敵の物理防御を2低下させる。",
+        "skill_name": "フロックファミリー",
+        "skill_image": "Raptor_1785313555-96px-Crimson_RaptorSquare.png",
+        "starting_mana": 20,
+        "skill_mana": 60,
+        "skill_attack_range": 4,
+        "health": [
+            650,
+            1170,
+            2106
+        ],
+        "attack_damage": [
+            55,
+            83,
+            124
+        ],
+        "damage_per_second": [
+            41,
+            62,
+            93
+        ],
+        "attack_speed": 0.75,
+        "armor": 35,
+        "magical_resistance": 35,
+        "stats": [
+            "効果時間: 5(%i:scaleAP%) [5 / 5 / 5]",
+            "ダメージ: 22(%i:scaleAD%) [22 / 33 / 48]"
+        ],
         "traits": [
             {
                 "id": "rapitsudohuaia",
@@ -4470,7 +4625,28 @@
                 "image": "Trait_Icon_18_Summoner.TFT_Set18.png"
             }
         ],
-        "items": [],
+        "items": [
+            {
+                "id": "guinso-_reizibure-do",
+                "image": "DA_GuinsoosRageblade.png"
+            },
+            {
+                "id": "rasuto_uisupa-",
+                "image": "DA_LastWhisper.png"
+            },
+            {
+                "id": "inhuinitei_etsuzi",
+                "image": "DA_InfinityEdge.png"
+            },
+            {
+                "id": "kura-kennoNu_ri",
+                "image": "DA_KrakensFury.png"
+            },
+            {
+                "id": "desubure-do",
+                "image": "DA_Deathblade.png"
+            }
+        ],
         "unlock": {
             "description": "",
             "type": false
@@ -4569,16 +4745,16 @@
         "top_4_rate": "46.41",
         "top_1_rate": "8.98",
         "battle": "272,851",
-        "description_icon": "自動効果: 通常攻撃が3回ごとに「ダブルストライク」になる。キルまたはアシストを獲得すると、移動速度が大幅に増加する。\n\nアダプター : 「ダブルストライク」を行うたびに、攻撃速度が15%増加するスタックを獲得する。\n\nアダプター : 「ダブルストライク」が追加ダメージを与え、自身の体力を回復する。",
-        "skill_name": "ウージュースタイル",
-        "skill_image": "MasterYi_1785310560-masteryi_passive1.png",
-        "starting_mana": 0,
-        "skill_mana": 3,
+        "description_icon": "自動効果: 通常攻撃が3回ごとに2回攻撃になり、70/105/550の追加物理ダメージを与える。\n\n発動効果: 短い詠唱の後、5秒間サイ状態になり、10%のオムニヴァンプ、70%の攻撃速度、増加移動速度を獲得する。1秒間に2回、近くにいるランダムな敵に念動弾を放ち、75/115/800の物理ダメージを与える。",
+        "skill_name": "掌握",
+        "skill_image": "TFT17_MasterYi.jpg",
+        "starting_mana": 20,
+        "skill_mana": 60,
         "skill_attack_range": 1,
         "health": [
-            850,
-            1530,
-            2754
+            1100,
+            1980,
+            3564
         ],
         "attack_damage": [
             60,
@@ -4586,15 +4762,17 @@
             135
         ],
         "damage_per_second": [
-            48,
-            72,
-            108
+            51,
+            77,
+            115
         ],
-        "attack_speed": 0.8,
-        "armor": 55,
-        "magical_resistance": 55,
+        "attack_speed": 0.85,
+        "armor": 65,
+        "magical_resistance": 65,
         "stats": [
-            "攻撃速度: 15% = 12% + 3%(%i:scaleAP%) [3% / 3% / 3%]"
+            "自動効果ダメージ: 70(%i:scaleAD%) [70 / 105 / 550]",
+            "飛翔物のダメージ: %i:scaleAP% [20 / 30 / 200]",
+            "飛翔物のダメージ: 75 = 55 %i:scaleAD% + 20 %i:scaleAP% [55 / 85 / 600]"
         ],
         "traits": [
             {
@@ -4608,28 +4786,7 @@
                 "image": "Trait_Icon_18_Blossom.TFT_Set18.png"
             }
         ],
-        "items": [
-            {
-                "id": "guinso-_reizibure-do",
-                "image": "DA_GuinsoosRageblade.png"
-            },
-            {
-                "id": "naito_etsuzi",
-                "image": "DA_EdgeOfNight.png"
-            },
-            {
-                "id": "Ju_Ren_noShi_i",
-                "image": "DA_TitansResolve.png"
-            },
-            {
-                "id": "buro-ra-noWen_Zhang_",
-                "image": "DA_18_EmblemBrawler.png"
-            },
-            {
-                "id": "buratsudosa-suta-",
-                "image": "DA_Bloodthirster.png"
-            }
-        ],
+        "items": [],
         "unlock": {
             "description": "",
             "type": false
@@ -4722,34 +4879,35 @@
         "top_4_rate": "42.5",
         "top_1_rate": "7.79",
         "battle": "278,411",
-        "description_icon": "アダプター : 対象に大量のクナイを飛ばし、155/235/405の物理ダメージを与える。対象が燃焼状態の場合、追加で35/52/80のダメージを与える。\n\nアダプター : このスキルでキルすると、再発動する。",
-        "skill_name": "苦無撃",
-        "skill_image": "Akali_1785311478-akali_q.png",
+        "description_icon": "最も多くの敵を攻撃できるよう、対象の隣に再配置する。その後、貫通するクナイを5本投げ、最初に命中した敵に43/65/97の物理ダメージを与える。2体目以降の各対象へのダメージは17/26/39に減少する。クナイが物理防御を1減少させる。クリティカル発生時は減少量が2になる。\n\nN.O.V.A.ストライク: すべての敵を斬りつけ、「負傷」と出血効果を付与する。出血効果は毎秒14/18/25の物理ダメージを与える。クナイが命中すると、出血ダメージが12%増加する。",
+        "skill_name": "スターストライク",
+        "skill_image": "TFT17_Akali.jpg",
         "starting_mana": 0,
-        "skill_mana": 25,
+        "skill_mana": 30,
         "skill_attack_range": 1,
         "health": [
-            650,
-            1170,
-            2106
+            750,
+            1350,
+            2430
         ],
         "attack_damage": [
-            40,
-            60,
-            90
+            45,
+            68,
+            101
         ],
         "damage_per_second": [
-            30,
-            45,
-            68
+            36,
+            54,
+            81
         ],
-        "attack_speed": 0.75,
-        "armor": 35,
-        "magical_resistance": 35,
+        "attack_speed": 0.8,
+        "armor": 45,
+        "magical_resistance": 45,
         "stats": [
-            "ダメージ: %i:scaleAP% [10 / 15 / 25]",
-            "ダメージ: 155 = 145(%i:scaleAD%) + 10(%i:scaleAP%) [145 / 220 / 380]",
-            "追加ダメージ: 35(%i:scaleAD%) [35 / 52 / 80]"
+            "ダメージ %i:scaleAP% [4 / 6 / 9]",
+            "ダメージ: 43(%i:scaleAD%) = 39 %i:scaleAD% + 4 %i:scaleAP% [39 / 59 / 88]",
+            "サブ対象へのダメージ: 17 = 43(%i:scaleAD%)の40%",
+            " [14 / 18 / 25]"
         ],
         "traits": [
             {
@@ -4768,28 +4926,7 @@
                 "image": "Trait_Icon_18_Ravager.TFT_Set18.png"
             }
         ],
-        "items": [
-            {
-                "id": "hando_obu_ziyasuteisu",
-                "image": "DA_HandOfJustice.png"
-            },
-            {
-                "id": "naito_etsuzi",
-                "image": "DA_EdgeOfNight.png"
-            },
-            {
-                "id": "ziyueru_gantoretsuto",
-                "image": "DA_JeweledGauntlet.png"
-            },
-            {
-                "id": "inhuinitei_etsuzi",
-                "image": "DA_InfinityEdge.png"
-            },
-            {
-                "id": "buratsudosa-suta-",
-                "image": "DA_Bloodthirster.png"
-            }
-        ],
+        "items": [],
         "unlock": {
             "description": "",
             "type": false
@@ -4805,33 +4942,34 @@
         "top_4_rate": "49.5",
         "top_1_rate": "7.49",
         "battle": "202,017",
-        "description_icon": "自動効果: 通常攻撃が30/45/100の追加魔法ダメージと、6秒間スタックする70/105/190の追加魔法ダメージを与える。敵のスタックが5以上になっている間、ティーモはザ・グルーヴ状態になる。\n\n発動効果: 3回の通常攻撃で、攻撃速度が150%増加する。",
-        "skill_name": "ダブルタイム",
-        "skill_image": "TFT17_Teemo.jpg",
+        "description_icon": "最も近くにいる敵3体に、55/82/130の魔法ダメージを与えるキノコの塊を2つ投げつける。その後、巨大なキノコを投げつけ、対象に135/200/310の魔法ダメージを与える。\n\nスキルを使用するたびに10%/12%/15%の確率で追加のキノコを採集でき、拾うとボーナス効果を獲得する。\n\n赤: リロール1回(赤キノコ: 個)\n緑: タクティシャンの体力1(緑キノコ: 個)\n黄: 2XP(黄キノコ: 個)",
+        "skill_name": "ファンガス アマング アス",
+        "skill_image": "Teemo_1785314073-teemo_r.png",
         "starting_mana": 0,
         "skill_mana": 50,
         "skill_attack_range": 4,
         "health": [
-            450,
-            810,
-            1458
+            550,
+            990,
+            1782
         ],
         "attack_damage": [
-            15,
-            23,
-            34
+            35,
+            53,
+            79
         ],
         "damage_per_second": [
-            11,
-            16,
-            24
+            26,
+            39,
+            59
         ],
-        "attack_speed": 0.7,
-        "armor": 15,
-        "magical_resistance": 15,
+        "attack_speed": 0.75,
+        "armor": 30,
+        "magical_resistance": 30,
         "stats": [
-            "追加ダメージ: 30(%i:scaleAP%) [30 / 45 / 100]",
-            "毒ダメージ: 70(%i:scaleAP%) [70 / 105 / 190]"
+            "ダメージ: 55(%i:scaleAP%) [55 / 82 / 130]",
+            "巨大キノコのダメージ: 135(%i:scaleAP%) [135 / 200 / 310]",
+            "採集する確率: [10% / 12% / 15%]"
         ],
         "traits": [
             {
@@ -4845,7 +4983,28 @@
                 "image": "Trait_Icon_18_Sprykin.TFT_Set18.png"
             }
         ],
-        "items": [],
+        "items": [
+            {
+                "id": "shiyouzinnoMao_",
+                "image": "DA_SpearOfShojin.png"
+            },
+            {
+                "id": "vuoido_sutatsuhu",
+                "image": "DA_VoidStaff.png"
+            },
+            {
+                "id": "ziyueru_gantoretsuto",
+                "image": "DA_JeweledGauntlet.png"
+            },
+            {
+                "id": "moreronomikon",
+                "image": "DA_Morellonomicon.png"
+            },
+            {
+                "id": "buru-bahu",
+                "image": "DA_BlueBuff.png"
+            }
+        ],
         "unlock": {
             "description": "",
             "type": false
@@ -4861,33 +5020,34 @@
         "top_4_rate": "33.91",
         "top_1_rate": "6.76",
         "battle": "248,727",
-        "description_icon": "自動効果: 通常攻撃が3回ごとに「ヘッドショット」に置き換わり、210/315/515の物理ダメージを与える。",
-        "skill_name": "ヘッドショット",
-        "skill_image": "Caitlyn_1785313731-caitlyn_headshot.png",
+        "description_icon": "自動効果: 通常攻撃に15%のチャンスで強化された「ヘッドショット」が発動し、210/315/585の物理ダメージを与える。\n\nN.O.V.A.ストライク: すべての敵にマークを付与し、被ダメージを10%増加させる。マークを付与された対象の体力が初めて50%未満になると、その対象に「ヘッドショット」を行い、105/158/293の物理ダメージを与える。",
+        "skill_name": "頭を狙え",
+        "skill_image": "TFT17_Caitlyn.jpg",
         "starting_mana": 0,
-        "skill_mana": 3,
+        "skill_mana": 0,
         "skill_attack_range": 4,
         "health": [
-            550,
-            990,
-            1782
+            500,
+            900,
+            1620
         ],
         "attack_damage": [
-            50,
-            75,
-            113
+            65,
+            98,
+            146
         ],
         "damage_per_second": [
-            35,
-            53,
-            79
+            36,
+            54,
+            80
         ],
-        "attack_speed": 0.7,
-        "armor": 30,
-        "magical_resistance": 30,
+        "attack_speed": 0.55,
+        "armor": 15,
+        "magical_resistance": 15,
         "stats": [
-            "ダメージ: %i:scaleAP% [20 / 30 / 45]",
-            "ダメージ: 210 = 190(%i:scaleAD%) + 20(%i:scaleAP%) [190 / 285 / 470]"
+            "ヘッドショットダメージ: %i:scaleAP% [20 / 30 / 45]",
+            "ヘッドショットダメージ: 210 = 190 %i:scaleAD% + 20 %i:scaleAP% [190 / 285 / 540]",
+            ""
         ],
         "traits": [
             {
@@ -4901,28 +5061,7 @@
                 "image": "Trait_Icon_18_Hunter.TFT_Set18.png"
             }
         ],
-        "items": [
-            {
-                "id": "guinso-_reizibure-do",
-                "image": "DA_GuinsoosRageblade.png"
-            },
-            {
-                "id": "kura-kennoNu_ri",
-                "image": "DA_KrakensFury.png"
-            },
-            {
-                "id": "hekusutetsuku_ganbure-do",
-                "image": "DA_HextechGunblade.png"
-            },
-            {
-                "id": "inhuinitei_etsuzi",
-                "image": "DA_InfinityEdge.png"
-            },
-            {
-                "id": "desubure-do",
-                "image": "DA_Deathblade.png"
-            }
-        ],
+        "items": [],
         "unlock": {
             "description": "",
             "type": false

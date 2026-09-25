@@ -2222,35 +2222,35 @@
       "top_4_rate": "59.69",
       "top_1_rate": "22.41",
       "battle": "799,979",
-      "description_icon": "Passive: After every 650/650/300 damage blocked, a sapling jumps towards a nearby enemy and deals 81/145/2795 magic damage. On death, 3/5/10 saplings jump out.\n\nActive: Deal 69/124/3726 magic damage to target and restore 330/400/2000 + 10%/10%/100% missing Health.",
-      "skill_name": "Sow the Seeds",
-      "skill_image": "Maokai_1785310649-maokai_e.png",
+      "description_icon": "Passive: Gain 50% more max Health from all sources.\n\nActive: Converge an X-shape of vines on the target, dealing 100/150/225 magic damage to each enemy hit and Stunning them for 1.5/1.5/1.75 seconds.\n\nN.O.V.A. Strike: Send forth a wave of dragons that stun all enemies for 1.5/1.5/1.75 seconds. For the rest of combat, Maokai's attacks deal 132/238/428 bonus physical damage.",
+      "skill_name": "Grasp of Convergence",
+      "skill_image": "TFT17_Maokai.jpg",
       "starting_mana": 30,
       "skill_mana": 100,
       "skill_attack_range": 1,
       "health": [
-        1150,
-        2070,
-        3726
+        1100,
+        1980,
+        3564
       ],
       "attack_damage": [
-        80,
-        120,
-        180
+        60,
+        90,
+        135
       ],
       "damage_per_second": [
-        52,
-        78,
-        117
+        42,
+        63,
+        95
       ],
-      "attack_speed": 0.65,
-      "armor": 60,
-      "magical_resistance": 60,
+      "attack_speed": 0.7,
+      "armor": 40,
+      "magical_resistance": 40,
       "stats": [
-        "Sapling Damage: 81(%i:scaleHealth%) [7% / 7% / 75%]",
-        "Saplings on Death: [3 / 5 / 10]",
-        "Active Damage: 69(%i:scaleHealth%) [6% / 6% / 100%]",
-        "Heal: 330(%i:scaleAP%) [330 / 400 / 2000]"
+        "Damage: 100(%i:scaleAP%) [100 / 150 / 225]",
+        "Stun Duration: [1.5 / 1.5 / 1.75]",
+        " [1.5 / 1.5 / 1.75]",
+        ""
       ],
       "traits": [
         {
@@ -2264,28 +2264,7 @@
           "image": "Trait_Icon_18_OldGrowth.TFT_Set18.png"
         }
       ],
-      "items": [
-        {
-          "id": "gargoyle_stoneplate",
-          "image": "DA_GargoyleStoneplate.png"
-        },
-        {
-          "id": "warmogs_armor",
-          "image": "DA_WarmogsArmor.png"
-        },
-        {
-          "id": "spirit_visage",
-          "image": "DA_SpiritVisage.png"
-        },
-        {
-          "id": "crownguard",
-          "image": "DA_Crownguard.png"
-        },
-        {
-          "id": "protector's_vow",
-          "image": "DA_ProtectorsVow.png"
-        }
-      ],
+      "items": [],
       "unlock": {
         "description": "",
         "type": false
@@ -2612,36 +2591,35 @@
       "top_4_rate": "65.75",
       "top_1_rate": "21.24",
       "battle": "646,938",
-      "description_icon": "Passive: Gain 5/5/50 Rage per second and 5/5/20 Rage per attack.\n\nActive: Transform into Mega Gnar and leap into the largest group of enemies within 3 hexes. Then, deal 100/150/2000 physical damage to enemies within 2/2/10 hexes, reduce their Armor and Magic Resist by 15/20/250, and Stun them for 1/1/15 second. Mega Gnar gains 400/600/15000 Health, and replaces his Ability with Grab n' Throw.\n\nGrab n' Throw: Throw the target at the farthest enemy, dealing 380/570/9000 physical damage to them and 135/205/4500 physical damage to enemies they pass through. If there's only 1 enemy left, throw them off the battlefield instead.",
-      "skill_name": "Rage Gene",
-      "skill_image": "Gnar_1785307220-gnar_passive.png",
+      "description_icon": "Passive: Every 5th attack, launch a returning boomerang at the target that travels two hexes past the first enemy it hits. It deals 245/370/605 physical damage, reduced by 75% per hit.",
+      "skill_name": "Slingshot Maneuver",
+      "skill_image": "TFT17_Gnar.jpg",
       "starting_mana": 0,
-      "skill_mana": 70,
-      "skill_attack_range": 2,
+      "skill_mana": 5,
+      "skill_attack_range": 5,
       "health": [
-        900,
-        1620,
-        2916
+        550,
+        990,
+        1782
       ],
       "attack_damage": [
-        100,
-        150,
-        225
+        48,
+        72,
+        108
       ],
       "damage_per_second": [
-        90,
-        135,
-        203
+        36,
+        54,
+        81
       ],
-      "attack_speed": 0.9,
-      "armor": 55,
-      "magical_resistance": 55,
+      "attack_speed": 0.75,
+      "armor": 20,
+      "magical_resistance": 20,
       "stats": [
-        "Leap Damage: 100(%i:scaleAD%) [100 / 150 / 2000]",
-        "Resistance Reduction: 15(%i:scaleAP%) [15 / 20 / 250]",
-        "Transform Health: 400 [400 / 600 / 15000]",
-        "Damage: 380(%i:scaleAD%) [380 / 570 / 9000]",
-        "Secondary Damage: 135(%i:scaleAD%) [135 / 205 / 4500]"
+        "Damage: %i:scaleAP% [20 / 30 / 45]",
+        "Damage: 245 = 225 %i:scaleAD% + 20 %i:scaleAP% [225 / 340 / 560]",
+        "Meeps: 0 = 1 per %i:set14AmpIcon%",
+        "Meep Damage: 11 = 23% of 48 %i:TFTBaseAD% x 40% Bonus %i:scaleAS%"
       ],
       "traits": [
         {
@@ -2660,28 +2638,7 @@
           "image": "Trait_Icon_18_Sprykin.TFT_Set18.png"
         }
       ],
-      "items": [
-        {
-          "id": "sterak's_gage",
-          "image": "DA_SteraksGage.png"
-        },
-        {
-          "id": "bloodthirster",
-          "image": "DA_Bloodthirster.png"
-        },
-        {
-          "id": "titan's_resolve",
-          "image": "DA_TitansResolve.png"
-        },
-        {
-          "id": "edge_of_night",
-          "image": "DA_EdgeOfNight.png"
-        },
-        {
-          "id": "hand_of_justice",
-          "image": "DA_HandOfJustice.png"
-        }
-      ],
+      "items": [],
       "unlock": {
         "description": "",
         "type": false
@@ -2776,16 +2733,16 @@
       "top_4_rate": "55.21",
       "top_1_rate": "16.31",
       "battle": "724,339",
-      "description_icon": "Blink away from the current target, deal 250/375/1200 physical damage to them, and gain 30%/30%/100% Attack Speed.\n\nEvery 4th cast consumes the Attack Speed granted from Nature's Wrath and fires a blast through the largest group of enemies that deals 385/580/2500 physical damage, reduced by 25% for each enemy it passes through (minimum 50%).",
-      "skill_name": "Forest's Flurry",
-      "skill_image": "Ezreal_1785312788-ezreal_r.png",
+      "description_icon": "Active: Fire a blast at the current target that deals 184/276/412 physical damage. Every 7 takedowns, gain a drone that deals 8/12/18 physical damage to the current target on cast.\n(Total Takedowns: ?)",
+      "skill_name": "Temporal Shot",
+      "skill_image": "TFT17_Ezreal.jpg",
       "starting_mana": 0,
       "skill_mana": 30,
-      "skill_attack_range": 4,
+      "skill_attack_range": 5,
       "health": [
-        850,
-        1530,
-        2754
+        450,
+        810,
+        1458
       ],
       "attack_damage": [
         45,
@@ -2793,17 +2750,17 @@
         101
       ],
       "damage_per_second": [
-        34,
-        51,
-        76
+        31,
+        47,
+        71
       ],
-      "attack_speed": 0.75,
-      "armor": 40,
-      "magical_resistance": 40,
+      "attack_speed": 0.7,
+      "armor": 15,
+      "magical_resistance": 15,
       "stats": [
-        "Damage: 250(%i:scaleAD%) [250 / 375 / 1200]",
-        "Attack Speed: 30%(%i:scaleAP%) [30% / 30% / 100%]",
-        "Empowered Damage: 385(%i:scaleAD%) [385 / 580 / 2500]"
+        "Damage: %i:scaleAP% [14 / 21 / 32]",
+        "Damage: 184 = 170(%i:scaleAD%) + 14(%i:scaleAP%) [170 / 255 / 380]",
+        "Drone Damage: 8(%i:scaleAD%) [8 / 12 / 18]"
       ],
       "traits": [
         {
@@ -2817,28 +2774,7 @@
           "image": "Trait_Icon_18_Executioner.TFT_Set18.png"
         }
       ],
-      "items": [
-        {
-          "id": "spear_of_shojin",
-          "image": "DA_SpearOfShojin.png"
-        },
-        {
-          "id": "last_whisper",
-          "image": "DA_LastWhisper.png"
-        },
-        {
-          "id": "deathblade",
-          "image": "DA_Deathblade.png"
-        },
-        {
-          "id": "red_buff",
-          "image": "DA_RedBuff.png"
-        },
-        {
-          "id": "infinity_edge",
-          "image": "DA_InfinityEdge.png"
-        }
-      ],
+      "items": [],
       "unlock": {
         "description": "",
         "type": false
@@ -3245,34 +3181,34 @@
       "top_4_rate": "49.32",
       "top_1_rate": "13.59",
       "battle": "534,212",
-      "description_icon": "Passive: Gain 25% Omnivamp.\n\nActive: Fire a dark blast at 3 nearby enemies, dealing 60/90/500 magic damage to them and cursing them for 4 seconds. Then, spawn a Hex withering zone for the same duration that deals 33/50/500 magic damage per second. Cursed enemies take 22/33/240 more damage per curse.",
-      "skill_name": "Withering Curse",
-      "skill_image": "Morgana_1785310756-fallenangel_purgatory.png",
-      "starting_mana": 0,
-      "skill_mana": 65,
-      "skill_attack_range": 2,
+      "description_icon": "Transform for 3 seconds, gaining 745/1001/4606 Health and tethering to nearby champions. Over the duration, deal 100/150/3000 magic damage to the closest 3 enemies and restore 125/185/3000 health to the closest 2 injured allies.",
+      "skill_name": "Dark Form",
+      "skill_image": "TFT17_Morgana.jpg",
+      "starting_mana": 45,
+      "skill_mana": 95,
+      "skill_attack_range": 1,
       "health": [
-        1100,
-        1980,
-        3564
+        1300,
+        2340,
+        4212
       ],
       "attack_damage": [
-        45,
-        68,
-        101
+        60,
+        90,
+        135
       ],
       "damage_per_second": [
-        34,
-        51,
-        76
+        39,
+        59,
+        88
       ],
-      "attack_speed": 0.75,
-      "armor": 60,
-      "magical_resistance": 60,
+      "attack_speed": 0.65,
+      "armor": 70,
+      "magical_resistance": 70,
       "stats": [
-        "Initial Damage: 60(%i:scaleAP%) [60 / 90 / 500]",
-        "Zone Damage: 33(%i:scaleAP%) [33 / 50 / 500]",
-        "Curse Bonus Damage: 22(%i:scaleAP%) [22 / 33 / 240]"
+        "Health Gain: 745 = 550(%i:scaleAP%) + 15% %i:scaleHealth% [550 / 650 / 2500]",
+        "Damage: 100(%i:scaleAP%) [100 / 150 / 3000]",
+        "Heal: 125(%i:scaleAP%) [125 / 185 / 3000]"
       ],
       "traits": [
         {
@@ -3286,28 +3222,7 @@
           "image": "Trait_Icon_18_Invoker.TFT_Set18.png"
         }
       ],
-      "items": [
-        {
-          "id": "void_staff",
-          "image": "DA_VoidStaff.png"
-        },
-        {
-          "id": "morellonomicon",
-          "image": "DA_Morellonomicon.png"
-        },
-        {
-          "id": "rabadon's_deathcap",
-          "image": "DA_RabadonsDeathcap.png"
-        },
-        {
-          "id": "jeweled_gauntlet",
-          "image": "DA_JeweledGauntlet.png"
-        },
-        {
-          "id": "adaptive_helm",
-          "image": "DA_AdaptiveHelm.png"
-        }
-      ],
+      "items": [],
       "unlock": {
         "description": "",
         "type": false
@@ -3628,34 +3543,34 @@
       "top_4_rate": "48.98",
       "top_1_rate": "12.62",
       "battle": "652,978",
-      "description_icon": "Passive: After player combat, your strongest LeBlanc has a 10%/15%/30% chance to create a copy of an ally on your board, increased by 4% per takedown.\n\nActive: Launch a mirror image at the current target, dealing 260/390/615 magic damage and 100/150/230 to adjacent enemies.",
-      "skill_name": "Mirror Image",
-      "skill_image": "LeBlanc_1785309488-leblancp.png",
+      "description_icon": "Passive: Attacks deal 66/99/250 magic damage instead.\n\nActive: Summon 5 clones that attack alongside for 5 attacks, dealing 25/25/150% damage. For their final attack, clones fire a bolt that deals 95/145/750 magic damage.",
+      "skill_name": "Fracture Reality",
+      "skill_image": "TFT17_Leblanc.jpg",
       "starting_mana": 0,
       "skill_mana": 40,
       "skill_attack_range": 4,
       "health": [
-        550,
-        990,
-        1782
+        850,
+        1530,
+        2754
       ],
       "attack_damage": [
-        30,
-        45,
-        68
+        0,
+        0,
+        0
       ],
       "damage_per_second": [
-        21,
-        32,
-        47
+        0,
+        0,
+        0
       ],
-      "attack_speed": 0.7,
+      "attack_speed": 0.8,
       "armor": 30,
       "magical_resistance": 30,
       "stats": [
-        "Copy Chance: 10% [10% / 15% / 30%]",
-        "Damage: 260(%i:scaleAP%) [260 / 390 / 615]",
-        "Secondary Damage: 100(%i:scaleAP%) [100 / 150 / 230]"
+        "Attack Damage: 66(%i:scaleAP%) [66 / 99 / 250]",
+        "Clone Damage Multiplier: [25% / 25% / 150%]",
+        "Bolt Damage: 95(%i:scaleAP%) [95 / 145 / 750]"
       ],
       "traits": [
         {
@@ -3669,28 +3584,7 @@
           "image": "Trait_Icon_18_Spellweaver.TFT_Set18.png"
         }
       ],
-      "items": [
-        {
-          "id": "void_staff",
-          "image": "DA_VoidStaff.png"
-        },
-        {
-          "id": "spear_of_shojin",
-          "image": "DA_SpearOfShojin.png"
-        },
-        {
-          "id": "jeweled_gauntlet",
-          "image": "DA_JeweledGauntlet.png"
-        },
-        {
-          "id": "morellonomicon",
-          "image": "DA_Morellonomicon.png"
-        },
-        {
-          "id": "blue_buff",
-          "image": "DA_BlueBuff.png"
-        }
-      ],
+      "items": [],
       "unlock": {
         "description": "",
         "type": false
@@ -3706,9 +3600,9 @@
       "top_4_rate": "51.96",
       "top_1_rate": "12.45",
       "battle": "1,080,374",
-      "description_icon": "Gain 150/275/500 shield for 2 seconds and send out 6 moonlight orbs spread among enemies within 2 hexes, each dealing 75/115/180 magic damage.",
-      "skill_name": "Pale Barrier",
-      "skill_image": "Diana_1785307652-diana_passive_lunarblade.png",
+      "description_icon": "Passive: Attacks deal 52/78/135 bonus magic damage.\n\nActive: Gain 230/280/450 Shield and summon 3 encircling orbs for 3 seconds. Orbs deal 60/90/160 magic damage to enemies they pass through, and rotate faster based on Attack Speed.",
+      "skill_name": "Pale Cascade",
+      "skill_image": "TFT17_Diana.jpg",
       "starting_mana": 0,
       "skill_mana": 40,
       "skill_attack_range": 1,
@@ -3718,21 +3612,22 @@
         2754
       ],
       "attack_damage": [
-        30,
-        45,
-        68
+        0,
+        0,
+        0
       ],
       "damage_per_second": [
-        24,
-        36,
-        54
+        0,
+        0,
+        0
       ],
       "attack_speed": 0.8,
       "armor": 50,
       "magical_resistance": 50,
       "stats": [
-        "Damage: 75(%i:scaleAP%) [75 / 115 / 180]",
-        "Shield: 150 [150 / 275 / 500]"
+        "Damage on attacks: 52(%i:scaleAP%) [52 / 78 / 135]",
+        "Shield: 230(%i:scaleAP%) [230 / 280 / 450]",
+        "Orb Damage: 60(%i:scaleAP%) [60 / 90 / 160]"
       ],
       "traits": [
         {
@@ -3751,28 +3646,7 @@
           "image": "Trait_Icon_18_Vanguard.TFT_Set18.png"
         }
       ],
-      "items": [
-        {
-          "id": "ionic_spark",
-          "image": "DA_IonicSpark.png"
-        },
-        {
-          "id": "jeweled_gauntlet",
-          "image": "DA_JeweledGauntlet.png"
-        },
-        {
-          "id": "hand_of_justice",
-          "image": "DA_HandOfJustice.png"
-        },
-        {
-          "id": "bloodthirster",
-          "image": "DA_Bloodthirster.png"
-        },
-        {
-          "id": "titan's_resolve",
-          "image": "DA_TitansResolve.png"
-        }
-      ],
+      "items": [],
       "unlock": {
         "description": "",
         "type": false
@@ -4252,33 +4126,33 @@
       "top_4_rate": "48.69",
       "top_1_rate": "12.04",
       "battle": "1,022,603",
-      "description_icon": "Active: Gain 400/460/550 Shield for 4 seconds and deal 200/300/450 magic damage to enemies in a cone.\n\nQuest: Each player combat, Ornn stores damage blocked as Forge Power, increased by 85% at 3-star. Gain an Artifact Anvil each time he gains enough Forge Power. (Forge Power: / )",
-      "skill_name": "Bellows Breath",
-      "skill_image": "Ornn_1785312061-ornnw.png",
+      "description_icon": "Passive: On combat start, forge a temporary completed item. If 3 items are already equipped, a random completed item becomes Radiant this combat instead.\n\nActive: Gain 125/200/500 Shield for 3 seconds, then breath fire in a cone dealing 180/270/430 magic damage. After any Shield on Ornn expires, Ornn enters The Groove for 2.5 seconds.",
+      "skill_name": "Disco Inferno",
+      "skill_image": "TFT17_Ornn.jpg",
       "starting_mana": 40,
       "skill_mana": 100,
       "skill_attack_range": 1,
       "health": [
-        700,
-        1260,
-        2268
+        950,
+        1710,
+        3078
       ],
       "attack_damage": [
-        40,
-        60,
-        90
+        50,
+        75,
+        113
       ],
       "damage_per_second": [
-        24,
-        36,
-        54
+        33,
+        49,
+        73
       ],
-      "attack_speed": 0.6,
+      "attack_speed": 0.65,
       "armor": 40,
       "magical_resistance": 40,
       "stats": [
-        "Shield: 400(%i:scaleAP%) [400 / 460 / 550]",
-        "Damage: 200(%i:scaleAP%) [200 / 300 / 450]"
+        "Shield: 125(%i:scaleAP%) [125 / 200 / 500]",
+        "Damage: 180(%i:scaleAP%) [180 / 270 / 430]"
       ],
       "traits": [
         {
@@ -4292,28 +4166,7 @@
           "image": "Trait_Icon_18_Elderwood.TFT_Set18.png"
         }
       ],
-      "items": [
-        {
-          "id": "gargoyle_stoneplate",
-          "image": "DA_GargoyleStoneplate.png"
-        },
-        {
-          "id": "warmogs_armor",
-          "image": "DA_WarmogsArmor.png"
-        },
-        {
-          "id": "spirit_visage",
-          "image": "DA_SpiritVisage.png"
-        },
-        {
-          "id": "crownguard",
-          "image": "DA_Crownguard.png"
-        },
-        {
-          "id": "sunfire_cape",
-          "image": "DA_SunfireCape.png"
-        }
-      ],
+      "items": [],
       "unlock": {
         "description": "",
         "type": false
@@ -4571,9 +4424,9 @@
       "top_4_rate": "50.16",
       "top_1_rate": "11.13",
       "battle": "577,720",
-      "description_icon": "Passive: Restore 17/27/43 Health each second, tripled for 3 seconds after casting.\n\nActive: Lunge out of the ground, Stunning adjacent enemies for 1 second and dealing 70/105/160 magic damage to them.",
-      "skill_name": "Uproot",
-      "skill_image": "RekSai_1785309406-reksai_w1.png",
+      "description_icon": "Heal 246/302/407, then briefly knock up adjacent enemies and deal 80/120/180 magic damage.",
+      "skill_name": "Upheaval",
+      "skill_image": "TFT17_Reksai.jpg",
       "starting_mana": 40,
       "skill_mana": 100,
       "skill_attack_range": 1,
@@ -4588,16 +4441,16 @@
         113
       ],
       "damage_per_second": [
-        28,
-        41,
-        62
+        30,
+        45,
+        68
       ],
-      "attack_speed": 0.55,
-      "armor": 40,
-      "magical_resistance": 40,
+      "attack_speed": 0.6,
+      "armor": 45,
+      "magical_resistance": 45,
       "stats": [
-        "Heal: 17 = 7(%i:scaleHealth%) + 10 [10 / 14 / 20]",
-        "Damage: 70(%i:scaleAP%) [70 / 105 / 160]"
+        "Damage: 80(%i:scaleAP%) [80 / 120 / 180]",
+        "Heal: 246 = 6.5% %i:scaleHealth% + 200(%i:scaleAP%) [200 / 220 / 260]"
       ],
       "traits": [
         {
@@ -4611,28 +4464,7 @@
           "image": "Trait_Icon_18_OldGod.TFT_Set18.png"
         }
       ],
-      "items": [
-        {
-          "id": "gargoyle_stoneplate",
-          "image": "DA_GargoyleStoneplate.png"
-        },
-        {
-          "id": "warmogs_armor",
-          "image": "DA_WarmogsArmor.png"
-        },
-        {
-          "id": "spirit_visage",
-          "image": "DA_SpiritVisage.png"
-        },
-        {
-          "id": "sunfire_cape",
-          "image": "DA_SunfireCape.png"
-        },
-        {
-          "id": "ionic_spark",
-          "image": "DA_IonicSpark.png"
-        }
-      ],
+      "items": [],
       "unlock": {
         "description": "",
         "type": false
@@ -5432,192 +5264,11 @@
       "top_4_rate": "48.54",
       "top_1_rate": "10.20",
       "battle": "506,665",
-      "description_icon": "Rapidly call down 15 Furyhorns near random enemies, each dealing 200/330/475 magic damage.",
-      "skill_name": "Furyhorn Storm",
-      "skill_image": "TFTEvent5YRVeigar_1781853365-TFTEvent5YR_Veigar.jpg",
+      "description_icon": "Launch a giant blast at the target that deals 200/300/450 magic damage, increased to 300/450/675 if they're below 30% max Health.\n\nIf they die, permanently gain 2% Ability Power.\n\nCurrent bonus: %",
+      "skill_name": "Primordial Burst",
+      "skill_image": "Veigar_1785310938-veigarprimordialburst.png",
       "starting_mana": 0,
-      "skill_mana": 75,
-      "skill_attack_range": 4,
-      "health": [
-        800,
-        1440,
-        2592
-      ],
-      "attack_damage": [
-        45,
-        68,
-        101
-      ],
-      "damage_per_second": [
-        38,
-        57,
-        86
-      ],
-      "attack_speed": 0.85,
-      "armor": 25,
-      "magical_resistance": 25,
-      "stats": [
-        "Number of Furyhorns [15 / 15 / 30]",
-        "Damage: 200(%i:scaleAP%) [200% / 330% / 475%]"
-      ],
-      "traits": [
-        {
-          "id": "blackthorn",
-          "name": "Blackthorn",
-          "image": "Trait_Icon_18_OldGod.TFT_Set18.png"
-        },
-        {
-          "id": "spellweaver",
-          "name": "Spellweaver",
-          "image": "Trait_Icon_18_Spellweaver.TFT_Set18.png"
-        },
-        {
-          "id": "sprykin",
-          "name": "Sprykin",
-          "image": "Trait_Icon_18_Sprykin.TFT_Set18.png"
-        }
-      ],
-      "items": [],
-      "unlock": {
-        "description": "",
-        "type": false
-      }
-    },
-    {
-      "stt": 55,
-      "id": "xayah",
-      "name": "Xayah",
-      "image": "tft18_xayah.tft_set18.jpg",
-      "price": "1",
-      "average_position": "4.82",
-      "top_4_rate": "43.92",
-      "top_1_rate": "10.12",
-      "battle": "498,709",
-      "description_icon": "Passive: Attacks bounce to strike 3/3/5 times, dealing 60/60/30% reduced damage per target hit and leaving a Feather behind the final target.\n\nActive: Gain 75% Attack Speed for the next 6 attacks. At the end, recall all Feathers split between the closest 3 enemies, dealing 51/77/960 physical damage each. Xayah's current target takes 25/40/200 additional physical damage per feather.",
-      "skill_name": "Stellar Ricochet",
-      "skill_image": "TFT17_Xayah.jpg",
-      "starting_mana": 0,
-      "skill_mana": 50,
-      "skill_attack_range": 5,
-      "health": [
-        850,
-        1530,
-        2754
-      ],
-      "attack_damage": [
-        49,
-        74,
-        110
-      ],
-      "damage_per_second": [
-        37,
-        55,
-        83
-      ],
-      "attack_speed": 0.75,
-      "armor": 30,
-      "magical_resistance": 30,
-      "stats": [
-        "Strikes: [3 / 3 / 5]",
-        "Damage Reduction: [60% / 60% / 30%]",
-        "Damage: %i:scaleAP% [6 / 9 / 60]",
-        "Damage: 51 = 45(%i:scaleAD%) + 6(%i:scaleAP%) [45 / 68 / 900]",
-        "Primary Target Damage: %i:scaleAD% [25 / 40 / 200]"
-      ],
-      "traits": [
-        {
-          "id": "elderwood",
-          "name": "Elderwood",
-          "image": "Trait_Icon_18_Elderwood.TFT_Set18.png"
-        },
-        {
-          "id": "fae",
-          "name": "Fae",
-          "image": "Trait_Icon_18_Fae.TFT_Set18.png"
-        },
-        {
-          "id": "rapidfire",
-          "name": "Rapidfire",
-          "image": "Trait_Icon_18_Rapidfire.TFT_Set18.png"
-        }
-      ],
-      "items": [],
-      "unlock": {
-        "description": "",
-        "type": false
-      }
-    },
-    {
-      "stt": 56,
-      "id": "shen",
-      "name": "Shen",
-      "image": "tft18_shen.tft_set18.jpg",
-      "price": "2",
-      "average_position": "4.7",
-      "top_4_rate": "46.37",
-      "top_1_rate": "10.08",
-      "battle": "436,954",
-      "description_icon": "Passive: On cast, attacks gain 38/63/819 stacking bonus magic damage. Starting from the third cast, gain true damage instead.\n\nActive: Gain 395/601/4088 Shield for 3 seconds, then slice open a rift on the largest group of champions dealing the Passive's bonus damage to all enemies within. Enemies have their Attack Speed slowed by 50/50/99% while allies within gain 80/80/999% Attack Speed, both rapidly decaying over 3 seconds. Shen always gains his rift's full bonus for this duration.",
-      "skill_name": "Reality Tear",
-      "skill_image": "TFT17_Shen.jpg",
-      "starting_mana": 20,
-      "skill_mana": 70,
-      "skill_attack_range": 1,
-      "health": [
-        1300,
-        2340,
-        4212
-      ],
-      "attack_damage": [
-        50,
-        75,
-        113
-      ],
-      "damage_per_second": [
-        45,
-        68,
-        101
-      ],
-      "attack_speed": 0.9,
-      "armor": 65,
-      "magical_resistance": 65,
-      "stats": [
-        "Bonus Damage: 38 = 1% %i:scaleHealth% + 25 %i:scaleAP% [25 / 40 / 777]",
-        "Shield: 395 = 15% %i:scaleHealth% + 200 %i:scaleAP% [200 / 250 / 3456]"
-      ],
-      "traits": [
-        {
-          "id": "defender",
-          "name": "Defender",
-          "image": "Trait_Icon_18_Defender.TFT_Set18.png"
-        },
-        {
-          "id": "inferno",
-          "name": "Inferno",
-          "image": "Trait_Icon_18_Inferno.TFT_Set18.png"
-        }
-      ],
-      "items": [],
-      "unlock": {
-        "description": "",
-        "type": false
-      }
-    },
-    {
-      "stt": 57,
-      "id": "karma",
-      "name": "Karma",
-      "image": "tft18_karma.tft_set18.jpg",
-      "price": "1",
-      "average_position": "4.73",
-      "top_4_rate": "45.78",
-      "top_1_rate": "10.00",
-      "battle": "402,938",
-      "description_icon": "Tether the current target, dealing 280/420/630 magic damage over 1.5 seconds. Then release a burst of power around them, dealing 125/185/300 magic damage to all enemies in a 1 Hex radius and 30% Slowing them for 2 seconds.\n\nSlow: Reduce Attack Speed",
-      "skill_name": "Karmic Bond",
-      "skill_image": "Karma_1785313329-karma_w1.png",
-      "starting_mana": 0,
-      "skill_mana": 40,
+      "skill_mana": 30,
       "skill_attack_range": 4,
       "health": [
         500,
@@ -5638,8 +5289,251 @@
       "armor": 25,
       "magical_resistance": 25,
       "stats": [
-        "Damage: 280(%i:scaleAP%) [280 / 420 / 630]",
-        "Burst Damage: 125(%i:scaleAP%) [125 / 185 / 300]"
+        "Damage: 200(%i:scaleAP%) [200 / 300 / 450]",
+        "Low Health Damage: 300(%i:scaleAP%) [300 / 450 / 675]"
+      ],
+      "traits": [
+        {
+          "id": "blackthorn",
+          "name": "Blackthorn",
+          "image": "Trait_Icon_18_OldGod.TFT_Set18.png"
+        },
+        {
+          "id": "spellweaver",
+          "name": "Spellweaver",
+          "image": "Trait_Icon_18_Spellweaver.TFT_Set18.png"
+        },
+        {
+          "id": "sprykin",
+          "name": "Sprykin",
+          "image": "Trait_Icon_18_Sprykin.TFT_Set18.png"
+        }
+      ],
+      "items": [
+        {
+          "id": "jeweled_gauntlet",
+          "image": "DA_JeweledGauntlet.png"
+        },
+        {
+          "id": "blue_buff",
+          "image": "DA_BlueBuff.png"
+        },
+        {
+          "id": "hextech_gunblade",
+          "image": "DA_HextechGunblade.png"
+        },
+        {
+          "id": "rabadon's_deathcap",
+          "image": "DA_RabadonsDeathcap.png"
+        },
+        {
+          "id": "flora_fatalis_emblem",
+          "image": "DA_18_EmblemFloraFatalisAugment.png"
+        }
+      ],
+      "unlock": {
+        "description": "",
+        "type": false
+      }
+    },
+    {
+      "stt": 55,
+      "id": "xayah",
+      "name": "Xayah",
+      "image": "tft18_xayah.tft_set18.jpg",
+      "price": "1",
+      "average_position": "4.82",
+      "top_4_rate": "43.92",
+      "top_1_rate": "10.12",
+      "battle": "498,709",
+      "description_icon": "Gain 50% Attack Speed for the next 5 attacks. These attacks are replaced with feathers that deal 68/102/155 physical damage and reduce Armor by 2.",
+      "skill_name": "Deadly Plumage",
+      "skill_image": "Xayah_1785312933-xayahw.png",
+      "starting_mana": 0,
+      "skill_mana": 50,
+      "skill_attack_range": 4,
+      "health": [
+        450,
+        810,
+        1458
+      ],
+      "attack_damage": [
+        45,
+        68,
+        101
+      ],
+      "damage_per_second": [
+        31,
+        47,
+        71
+      ],
+      "attack_speed": 0.7,
+      "armor": 25,
+      "magical_resistance": 25,
+      "stats": [
+        "Damage: 68(%i:scaleAD%) [68 / 102 / 155]",
+        "Armor Reduction: 2(%i:scaleAP%) [2 / 2 / 2]"
+      ],
+      "traits": [
+        {
+          "id": "elderwood",
+          "name": "Elderwood",
+          "image": "Trait_Icon_18_Elderwood.TFT_Set18.png"
+        },
+        {
+          "id": "fae",
+          "name": "Fae",
+          "image": "Trait_Icon_18_Fae.TFT_Set18.png"
+        },
+        {
+          "id": "rapidfire",
+          "name": "Rapidfire",
+          "image": "Trait_Icon_18_Rapidfire.TFT_Set18.png"
+        }
+      ],
+      "items": [
+        {
+          "id": "guinsoo's_rageblade",
+          "image": "DA_GuinsoosRageblade.png"
+        },
+        {
+          "id": "infinity_edge",
+          "image": "DA_InfinityEdge.png"
+        },
+        {
+          "id": "deathblade",
+          "image": "DA_Deathblade.png"
+        },
+        {
+          "id": "kraken's_fury",
+          "image": "DA_KrakensFury.png"
+        },
+        {
+          "id": "giant_slayer",
+          "image": "DA_GiantSlayer.png"
+        }
+      ],
+      "unlock": {
+        "description": "",
+        "type": false
+      }
+    },
+    {
+      "stt": 56,
+      "id": "shen",
+      "name": "Shen",
+      "image": "tft18_shen.tft_set18.jpg",
+      "price": "2",
+      "average_position": "4.7",
+      "top_4_rate": "46.37",
+      "top_1_rate": "10.08",
+      "battle": "436,954",
+      "description_icon": "Grant 350/430/550 Shield to Shen and 200/275/375 Shield to a nearby damaged ally for 4 seconds. Both of their next 3 attacks gain 40% Attack Speed and deal 35/55/80 bonus magic damage.",
+      "skill_name": "Ki Barrier",
+      "skill_image": "Shen_1787708883-Shen_1785746133-T_18_Shen_AbilityIcon.jpg",
+      "starting_mana": 30,
+      "skill_mana": 90,
+      "skill_attack_range": 1,
+      "health": [
+        900,
+        1620,
+        2916
+      ],
+      "attack_damage": [
+        50,
+        75,
+        113
+      ],
+      "damage_per_second": [
+        33,
+        49,
+        73
+      ],
+      "attack_speed": 0.65,
+      "armor": 45,
+      "magical_resistance": 45,
+      "stats": [
+        "Self Shield: 350(%i:scaleAP%) [350 / 430 / 550]",
+        "Ally Shield: 200(%i:scaleAP%) [200 / 275 / 375]",
+        "Damage: 35(%i:scaleAP%) [35 / 55 / 80]"
+      ],
+      "traits": [
+        {
+          "id": "defender",
+          "name": "Defender",
+          "image": "Trait_Icon_18_Defender.TFT_Set18.png"
+        },
+        {
+          "id": "inferno",
+          "name": "Inferno",
+          "image": "Trait_Icon_18_Inferno.TFT_Set18.png"
+        }
+      ],
+      "items": [
+        {
+          "id": "gargoyle_stoneplate",
+          "image": "DA_GargoyleStoneplate.png"
+        },
+        {
+          "id": "warmogs_armor",
+          "image": "DA_WarmogsArmor.png"
+        },
+        {
+          "id": "spirit_visage",
+          "image": "DA_SpiritVisage.png"
+        },
+        {
+          "id": "sunfire_cape",
+          "image": "DA_SunfireCape.png"
+        },
+        {
+          "id": "dragon's_claw",
+          "image": "DA_DragonsClaw.png"
+        }
+      ],
+      "unlock": {
+        "description": "",
+        "type": false
+      }
+    },
+    {
+      "stt": 57,
+      "id": "karma",
+      "name": "Karma",
+      "image": "tft18_karma.tft_set18.jpg",
+      "price": "1",
+      "average_position": "4.73",
+      "top_4_rate": "45.78",
+      "top_1_rate": "10.00",
+      "battle": "402,938",
+      "description_icon": "Gather the force of a black hole, dealing 630/945/5000 magic damage split between the target and the 2/2/4 closest enemies to them. The target takes an additional 180/270/1000 magic damage.",
+      "skill_name": "Singularity",
+      "skill_image": "TFT17_Karma.jpg",
+      "starting_mana": 10,
+      "skill_mana": 55,
+      "skill_attack_range": 4,
+      "health": [
+        850,
+        1530,
+        2754
+      ],
+      "attack_damage": [
+        40,
+        60,
+        90
+      ],
+      "damage_per_second": [
+        32,
+        48,
+        72
+      ],
+      "attack_speed": 0.8,
+      "armor": 30,
+      "magical_resistance": 30,
+      "stats": [
+        "Damage: 630(%i:scaleAP%) [630 / 945 / 5000]",
+        "Targets: [2 / 2 / 4]",
+        "Additional Damage: 180(%i:scaleAP%) [180 / 270 / 1000]"
       ],
       "traits": [
         {
@@ -5653,28 +5547,7 @@
           "image": "Trait_Icon_18_Spellweaver.TFT_Set18.png"
         }
       ],
-      "items": [
-        {
-          "id": "jeweled_gauntlet",
-          "image": "DA_JeweledGauntlet.png"
-        },
-        {
-          "id": "spear_of_shojin",
-          "image": "DA_SpearOfShojin.png"
-        },
-        {
-          "id": "void_staff",
-          "image": "DA_VoidStaff.png"
-        },
-        {
-          "id": "rabadon's_deathcap",
-          "image": "DA_RabadonsDeathcap.png"
-        },
-        {
-          "id": "archangel's_staff",
-          "image": "DA_ArchangelsStaff.png"
-        }
-      ],
+      "items": [],
       "unlock": {
         "description": "",
         "type": false
@@ -5845,33 +5718,33 @@
       "top_4_rate": "46.08",
       "top_1_rate": "9.58",
       "battle": "383,248",
-      "description_icon": "Passive: Kayle ascends based on her star level, granting her stacking bonuses.\n\n1st Ascension: Attacks deal 62/92/105 bonus magic damage.\n2nd Ascension: Attacks 20% Shred enemies hit for 2 seconds.\n3rd Ascension: Attacks fire waves, dealing 35 magic damage to all other units hit.\n4th Ascension: Gain infinite range. Every 3rd wave is much larger.\n\nShred: Reduce Magic Resist",
-      "skill_name": "Solar Judgement",
-      "skill_image": "Kayle_1785313777-kayle_p.png",
+      "description_icon": "Passive: Attacks deal 15/35/45 bonus magic damage.\n\nActive: Fire a wave at the current target that deals 125/250/390 magic damage to all enemies hit.",
+      "skill_name": "Celestial Flames",
+      "skill_image": "PBEKayle_1752545331-kayle_p.png",
       "starting_mana": 0,
-      "skill_mana": 0,
-      "skill_attack_range": 4,
+      "skill_mana": 100,
+      "skill_attack_range": 5,
       "health": [
-        550,
-        990,
-        1782
+        450,
+        810,
+        1458
       ],
       "attack_damage": [
-        10,
-        15,
-        23
+        30,
+        45,
+        68
       ],
       "damage_per_second": [
-        8,
-        11,
-        17
+        21,
+        32,
+        47
       ],
-      "attack_speed": 0.75,
-      "armor": 30,
-      "magical_resistance": 30,
+      "attack_speed": 0.7,
+      "armor": 25,
+      "magical_resistance": 25,
       "stats": [
-        "Damage: 62(%i:scaleAP%) [62 / 92 / 105]",
-        "Secondary Damage: 35(%i:scaleAP%) [35 / 35 / 35]"
+        "Passive Damage: 15(%i:scaleAP%) [15% / 35% / 45%]",
+        "Damage: 125(%i:scaleAP%) [125% / 250% / 390%]"
       ],
       "traits": [
         {
@@ -5885,28 +5758,7 @@
           "image": "Trait_Icon_18_Solar.TFT_Set18.png"
         }
       ],
-      "items": [
-        {
-          "id": "guinsoo's_rageblade",
-          "image": "DA_GuinsoosRageblade.png"
-        },
-        {
-          "id": "jeweled_gauntlet",
-          "image": "DA_JeweledGauntlet.png"
-        },
-        {
-          "id": "rabadon's_deathcap",
-          "image": "DA_RabadonsDeathcap.png"
-        },
-        {
-          "id": "giant_slayer",
-          "image": "DA_GiantSlayer.png"
-        },
-        {
-          "id": "hextech_gunblade",
-          "image": "DA_HextechGunblade.png"
-        }
-      ],
+      "items": [],
       "unlock": {
         "description": "",
         "type": false
@@ -5922,16 +5774,16 @@
       "top_4_rate": "46.38",
       "top_1_rate": "9.51",
       "battle": "476,039",
-      "description_icon": "Passive: Start combat with 60/80/100 bonus Armor and Magic Resist that decays over 12 seconds.\n\nActive: Bash the current target, dealing 60/108/162 magic damage and Stunning them for 1.5 seconds.",
-      "skill_name": "Shield Bash",
-      "skill_image": "Leona_1785309374-leonaq.png",
-      "starting_mana": 30,
-      "skill_mana": 90,
+      "description_icon": "Gain 420/480/620 Shield for 4 seconds. Bash the current target, dealing 196/294/441 magic damage and stunning them for 1.75/1.75/2 seconds.",
+      "skill_name": "Shield of Daybreak",
+      "skill_image": "TFT17_Leona.jpg",
+      "starting_mana": 50,
+      "skill_mana": 110,
       "skill_attack_range": 1,
       "health": [
-        750,
-        1350,
-        2430
+        700,
+        1260,
+        2268
       ],
       "attack_damage": [
         50,
@@ -5939,16 +5791,18 @@
         113
       ],
       "damage_per_second": [
-        33,
-        49,
-        73
+        30,
+        45,
+        68
       ],
-      "attack_speed": 0.65,
+      "attack_speed": 0.6,
       "armor": 40,
       "magical_resistance": 40,
       "stats": [
-        "Decaying Resists: 60(%i:scaleAP%) [60 / 80 / 100]",
-        "Damage: 60(%i:scaleArmor%) [150% / 270% / 405%]"
+        "Shield: 420(%i:scaleAP%) [420 / 480 / 620]",
+        "Base Damage: 100 [100 / 150 / 225]",
+        "Damage: 196 = 100 + 120% %i:scaleArmor% + 120% %i:scaleMR% [120% / 180% / 270%]",
+        "Stun Duration [1.75 / 1.75 / 2]"
       ],
       "traits": [
         {
@@ -5962,28 +5816,7 @@
           "image": "Trait_Icon_18_Solar.TFT_Set18.png"
         }
       ],
-      "items": [
-        {
-          "id": "gargoyle_stoneplate",
-          "image": "DA_GargoyleStoneplate.png"
-        },
-        {
-          "id": "warmogs_armor",
-          "image": "DA_WarmogsArmor.png"
-        },
-        {
-          "id": "spirit_visage",
-          "image": "DA_SpiritVisage.png"
-        },
-        {
-          "id": "sunfire_cape",
-          "image": "DA_SunfireCape.png"
-        },
-        {
-          "id": "dragon's_claw",
-          "image": "DA_DragonsClaw.png"
-        }
-      ],
+      "items": [],
       "unlock": {
         "description": "",
         "type": false
@@ -6153,33 +5986,36 @@
       "top_4_rate": "50.65",
       "top_1_rate": "9.31",
       "battle": "414,512",
-      "description_icon": "Taunt, forcing enemies to attack this champion. For 4 seconds, gain 400/550/725 Shield and 60 Armor and Magic Resist.\n\nWhen the Shield breaks, deal 50/75/120 physical damage to enemies in 2 Hexes.",
-      "skill_name": "Defensive Ball Curl",
-      "skill_image": "Rammus_1785308974-armordillo_shellbash.png",
-      "starting_mana": 30,
+      "description_icon": "Gain 675/825/2000 shield for 4 seconds. Then, strike enemies in a three hex line, dealing 80/120/1360 magic damage.",
+      "skill_name": "Gravitational Spin",
+      "skill_image": "TFT17_Rammus.jpg",
+      "starting_mana": 20,
       "skill_mana": 80,
       "skill_attack_range": 1,
       "health": [
-        1100,
-        1980,
-        3564
+        1300,
+        2340,
+        4212
       ],
       "attack_damage": [
-        50,
-        75,
-        113
+        60,
+        90,
+        135
       ],
       "damage_per_second": [
-        30,
-        45,
-        68
+        39,
+        59,
+        88
       ],
-      "attack_speed": 0.6,
-      "armor": 50,
-      "magical_resistance": 50,
+      "attack_speed": 0.65,
+      "armor": 60,
+      "magical_resistance": 60,
       "stats": [
-        "Shield: 400(%i:scaleAP%) [400 / 550 / 725]",
-        "Damage: 50 = 25(%i:scaleArmor%) + 25(%i:scaleMR%) [50% / 75% / 120%]"
+        "Shield: 675(%i:scaleAP%) [675 / 825 / 2000]",
+        "Damage: %i:scaleAP% [50 / 75 / 700]",
+        "Damage: 80 = 50 %i:scaleAP% + 50% %i:scaleArmor% [50% / 75% / 1100%]",
+        "Damage Reduction: 0 = 3 per %i:set14AmpIcon%",
+        "Proc Damage: 0 = 20% %i:scaleArmor% per %i:set14AmpIcon% [20% / 30% / 500%]"
       ],
       "traits": [
         {
@@ -6193,28 +6029,7 @@
           "image": "Trait_Icon_18_Sprykin.TFT_Set18.png"
         }
       ],
-      "items": [
-        {
-          "id": "gargoyle_stoneplate",
-          "image": "DA_GargoyleStoneplate.png"
-        },
-        {
-          "id": "warmogs_armor",
-          "image": "DA_WarmogsArmor.png"
-        },
-        {
-          "id": "spirit_visage",
-          "image": "DA_SpiritVisage.png"
-        },
-        {
-          "id": "steadfast_heart",
-          "image": "DA_SteadfastHeart.png"
-        },
-        {
-          "id": "sunfire_cape",
-          "image": "DA_SunfireCape.png"
-        }
-      ],
+      "items": [],
       "unlock": {
         "description": "",
         "type": false
@@ -6395,16 +6210,16 @@
       "top_4_rate": "46.41",
       "top_1_rate": "8.98",
       "battle": "272,851",
-      "description_icon": "Passive: Every third attack is a Double Strike. On takedown, gain a burst of movement speed.\n\nAdaptor : Double Strikes grant 15% stacking Attack Speed.\n\nAdaptor : Double Strikes deal bonus damage and heal.",
-      "skill_name": "Wuju Style",
-      "skill_image": "MasterYi_1785310560-masteryi_passive1.png",
-      "starting_mana": 0,
-      "skill_mana": 3,
+      "description_icon": "Passive: Every third attack is a doubleslash that deals 70/105/550 bonus physical damage.\n\nActive: After brief meditation, enter a Psi-State for 5 seconds, gaining 10% Omnivamp, 70% Attack Speed, and increased movement speed. Twice a second, fire a psychic projection at a random nearby enemy that deals 75/115/800 physical damage",
+      "skill_name": "Psi Strikes",
+      "skill_image": "TFT17_MasterYi.jpg",
+      "starting_mana": 20,
+      "skill_mana": 60,
       "skill_attack_range": 1,
       "health": [
-        850,
-        1530,
-        2754
+        1100,
+        1980,
+        3564
       ],
       "attack_damage": [
         60,
@@ -6412,15 +6227,17 @@
         135
       ],
       "damage_per_second": [
-        48,
-        72,
-        108
+        51,
+        77,
+        115
       ],
-      "attack_speed": 0.8,
-      "armor": 55,
-      "magical_resistance": 55,
+      "attack_speed": 0.85,
+      "armor": 65,
+      "magical_resistance": 65,
       "stats": [
-        "Attack Speed: 15% = 12% + 3%(%i:scaleAP%) [3% / 3% / 3%]"
+        "Passive Damage: 70(%i:scaleAD%) [70 / 105 / 550]",
+        "Projection Damage: %i:scaleAP% [20 / 30 / 200]",
+        "Projection Damage: 75 = 55 %i:scaleAD% + 20 %i:scaleAP% [55 / 85 / 600]"
       ],
       "traits": [
         {
@@ -6434,28 +6251,7 @@
           "image": "Trait_Icon_18_Blossom.TFT_Set18.png"
         }
       ],
-      "items": [
-        {
-          "id": "guinsoo's_rageblade",
-          "image": "DA_GuinsoosRageblade.png"
-        },
-        {
-          "id": "edge_of_night",
-          "image": "DA_EdgeOfNight.png"
-        },
-        {
-          "id": "titan's_resolve",
-          "image": "DA_TitansResolve.png"
-        },
-        {
-          "id": "brawler_emblem",
-          "image": "DA_18_EmblemBrawler.png"
-        },
-        {
-          "id": "bloodthirster",
-          "image": "DA_Bloodthirster.png"
-        }
-      ],
+      "items": [],
       "unlock": {
         "description": "",
         "type": false
@@ -6548,34 +6344,35 @@
       "top_4_rate": "42.5",
       "top_1_rate": "7.79",
       "battle": "278,411",
-      "description_icon": "Adaptor : Throw a volley of kunai at the target, dealing 155/235/405 physical damage. If the target is Burning, deal an additional 35/52/80 damage.\n\nAdaptor : If the Ability kills, cast it again.",
-      "skill_name": "Kunai Strike",
-      "skill_image": "Akali_1785311478-akali_q.png",
+      "description_icon": "Reposition next to the target to strike the most enemies. Then throw 5 piercing kunai, each dealing 43/65/97 physical damage to the first enemy hit, reduced to 17/26/39 for each subsequent target. Kunai remove 1 Armor, 2 if they crit.\n\nN.O.V.A. Strike: Slice all enemies, applying Wound and a bleed that deals 14/18/25 physical damage each second. Kunai increase the damage of the bleed by 12%.",
+      "skill_name": "Star Strike",
+      "skill_image": "TFT17_Akali.jpg",
       "starting_mana": 0,
-      "skill_mana": 25,
+      "skill_mana": 30,
       "skill_attack_range": 1,
       "health": [
-        650,
-        1170,
-        2106
+        750,
+        1350,
+        2430
       ],
       "attack_damage": [
-        40,
-        60,
-        90
+        45,
+        68,
+        101
       ],
       "damage_per_second": [
-        30,
-        45,
-        68
+        36,
+        54,
+        81
       ],
-      "attack_speed": 0.75,
-      "armor": 35,
-      "magical_resistance": 35,
+      "attack_speed": 0.8,
+      "armor": 45,
+      "magical_resistance": 45,
       "stats": [
-        "Damage: %i:scaleAP% [10 / 15 / 25]",
-        "Damage: 155 = 145(%i:scaleAD%) + 10(%i:scaleAP%) [145 / 220 / 380]",
-        "Bonus Damage: 35(%i:scaleAD%) [35 / 52 / 80]"
+        "Damage: %i:scaleAP% [4 / 6 / 9]",
+        "Damage: 43(%i:scaleAD%) = 39 %i:scaleAD% + 4 %i:scaleAP% [39 / 59 / 88]",
+        "Secondary Damage: 17 = 40% of 43(%i:scaleAD%)",
+        " [14 / 18 / 25]"
       ],
       "traits": [
         {
@@ -6594,28 +6391,7 @@
           "image": "Trait_Icon_18_Ravager.TFT_Set18.png"
         }
       ],
-      "items": [
-        {
-          "id": "hand_of_justice",
-          "image": "DA_HandOfJustice.png"
-        },
-        {
-          "id": "edge_of_night",
-          "image": "DA_EdgeOfNight.png"
-        },
-        {
-          "id": "jeweled_gauntlet",
-          "image": "DA_JeweledGauntlet.png"
-        },
-        {
-          "id": "infinity_edge",
-          "image": "DA_InfinityEdge.png"
-        },
-        {
-          "id": "bloodthirster",
-          "image": "DA_Bloodthirster.png"
-        }
-      ],
+      "items": [],
       "unlock": {
         "description": "",
         "type": false
@@ -6631,33 +6407,34 @@
       "top_4_rate": "49.5",
       "top_1_rate": "7.49",
       "battle": "202,017",
-      "description_icon": "Passive: Attacks deal 30/45/100 bonus magic damage and an additional 70/105/190 stacking magic damage over 6 seconds. While an enemy has 5 or more stacks, Teemo is in The Groove.\n\nActive: Gain 150% Attack Speed for 3 attacks.",
-      "skill_name": "Double Time",
-      "skill_image": "TFT17_Teemo.jpg",
+      "description_icon": "Throw 2 clusters of mushrooms that deal 55/82/130 magic damage to the 3 nearest enemies. Then hurl a giant mushroom that deals 135/200/310 magic damage to the target.\n\nEach cast has a 10%/12%/15% chance to forage an extra mushroom that can be collected for bonus effects.\n\nRed: 1 Reroll (Reds Foraged: )\nGreen: 1 Tactician Health (Greens Foraged: )\nYellow: 2 XP (Yellows Foraged: )",
+      "skill_name": "Fungus Among Us",
+      "skill_image": "Teemo_1785314073-teemo_r.png",
       "starting_mana": 0,
       "skill_mana": 50,
       "skill_attack_range": 4,
       "health": [
-        450,
-        810,
-        1458
+        550,
+        990,
+        1782
       ],
       "attack_damage": [
-        15,
-        23,
-        34
+        35,
+        53,
+        79
       ],
       "damage_per_second": [
-        11,
-        16,
-        24
+        26,
+        39,
+        59
       ],
-      "attack_speed": 0.7,
-      "armor": 15,
-      "magical_resistance": 15,
+      "attack_speed": 0.75,
+      "armor": 30,
+      "magical_resistance": 30,
       "stats": [
-        "Bonus Damage: 30(%i:scaleAP%) [30 / 45 / 100]",
-        "Poison Damage: 70(%i:scaleAP%) [70 / 105 / 190]"
+        "Damage: 55(%i:scaleAP%) [55 / 82 / 130]",
+        "Giant Damage: 135(%i:scaleAP%) [135 / 200 / 310]",
+        "Chance to Forage: [10% / 12% / 15%]"
       ],
       "traits": [
         {
@@ -6671,7 +6448,28 @@
           "image": "Trait_Icon_18_Sprykin.TFT_Set18.png"
         }
       ],
-      "items": [],
+      "items": [
+        {
+          "id": "spear_of_shojin",
+          "image": "DA_SpearOfShojin.png"
+        },
+        {
+          "id": "void_staff",
+          "image": "DA_VoidStaff.png"
+        },
+        {
+          "id": "jeweled_gauntlet",
+          "image": "DA_JeweledGauntlet.png"
+        },
+        {
+          "id": "morellonomicon",
+          "image": "DA_Morellonomicon.png"
+        },
+        {
+          "id": "blue_buff",
+          "image": "DA_BlueBuff.png"
+        }
+      ],
       "unlock": {
         "description": "",
         "type": false
@@ -6687,33 +6485,34 @@
       "top_4_rate": "33.91",
       "top_1_rate": "6.76",
       "battle": "248,727",
-      "description_icon": "Passive: Every third attack is replaced with a Headshot that deals 210/315/515 physical damage.",
-      "skill_name": "Headshot",
-      "skill_image": "Caitlyn_1785313731-caitlyn_headshot.png",
+      "description_icon": "Passive: Attacks have a 15% chance to fire an empowered Headshot, dealing 210/315/585 physical damage.\n\nN.O.V.A. Strike: Mark all enemies, increasing damage taken by 10%. The first time marked targets drop below 50% Health, Headshot them for 105/158/293 physical damage.",
+      "skill_name": "Aim For The Head",
+      "skill_image": "TFT17_Caitlyn.jpg",
       "starting_mana": 0,
-      "skill_mana": 3,
+      "skill_mana": 0,
       "skill_attack_range": 4,
       "health": [
-        550,
-        990,
-        1782
+        500,
+        900,
+        1620
       ],
       "attack_damage": [
-        50,
-        75,
-        113
+        65,
+        98,
+        146
       ],
       "damage_per_second": [
-        35,
-        53,
-        79
+        36,
+        54,
+        80
       ],
-      "attack_speed": 0.7,
-      "armor": 30,
-      "magical_resistance": 30,
+      "attack_speed": 0.55,
+      "armor": 15,
+      "magical_resistance": 15,
       "stats": [
-        "Damage: %i:scaleAP% [20 / 30 / 45]",
-        "Damage: 210 = 190(%i:scaleAD%) + 20(%i:scaleAP%) [190 / 285 / 470]"
+        "Headshot Damage: %i:scaleAP% [20 / 30 / 45]",
+        "Headshot Damage: 210 = 190 %i:scaleAD% + 20 %i:scaleAP% [190 / 285 / 540]",
+        ""
       ],
       "traits": [
         {
@@ -6727,28 +6526,7 @@
           "image": "Trait_Icon_18_Hunter.TFT_Set18.png"
         }
       ],
-      "items": [
-        {
-          "id": "guinsoo's_rageblade",
-          "image": "DA_GuinsoosRageblade.png"
-        },
-        {
-          "id": "kraken's_fury",
-          "image": "DA_KrakensFury.png"
-        },
-        {
-          "id": "hextech_gunblade",
-          "image": "DA_HextechGunblade.png"
-        },
-        {
-          "id": "infinity_edge",
-          "image": "DA_InfinityEdge.png"
-        },
-        {
-          "id": "deathblade",
-          "image": "DA_Deathblade.png"
-        }
-      ],
+      "items": [],
       "unlock": {
         "description": "",
         "type": false
